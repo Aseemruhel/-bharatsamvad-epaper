@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>भारत संवाद - पուգा वैली भू-तापीय उपलब्धि</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;500;600;700;800;900&display=swap');
+
+    :root{
+      --paper:#e8dfcd;
+      --ink:#201b16;
+      --muted:#554a3f;
+      --rule:#2b251f;
+      --red:#9f1d18;
+      --red-dark:#7e1713;
+      --box:#e2d7c2;
+    }
+
+    *{ box-sizing:border-box; }
+
+    body{
+      margin:0;
+      background:#cfc5b1;
+      color:var(--ink);
+      font-family:'Noto Serif Devanagari', Georgia, serif;
+      -webkit-font-smoothing:antialiased;
+    }
+
+    .page{
+      width:860px;
+      min-height:1220px;
+      margin:24px auto;
+      background:var(--paper);
+      padding:28px 31px 30px;
+      box-shadow:0 6px 28px rgba(0,0,0,.25);
+      border:1px solid rgba(40,30,20,.25);
+      position:relative;
+    }
+
+    .masthead{
+      text-align:center;
+      border-bottom:2px solid var(--rule);
+      padding-bottom:7px;
+      margin-bottom:7px;
+      position:relative;
+    }
+
+    .masthead h1{
+      margin:0;
+      font-size:36px;
+      line-height:1;
+      font-weight:900;
+      letter-spacing:.5px;
+    }
+
+    .topline{
+      display:grid;
+      grid-template-columns:1fr 1fr 1fr;
+      align-items:center;
+      font-size:12px;
+      line-height:1.3;
+      border-bottom:1.5px solid var(--rule);
+      padding:4px 0 8px;
+      margin-bottom:13px;
+    }
+
+    .topline .center{
+      color:var(--red);
+      text-align:center;
+      font-weight:700;
+    }
+
+    .topline .right{ text-align:right; }
+
+    .section-tag{
+      display:inline-block;
+      background:var(--red);
+      color:#fff;
+      font-weight:800;
+      font-size:13px;
+      line-height:1;
+      padding:8px 16px 7px;
+      margin-bottom:9px;
+      letter-spacing:.2px;
+    }
+
+    .headline{
+      font-size:42px;
+      line-height:1.03;
+      margin:0 0 9px;
+      font-weight:900;
+      letter-spacing:-.7px;
+      max-width:790px;
+    }
+
+    .dek{
+      font-size:15.5px;
+      line-height:1.55;
+      margin:0 0 10px;
+      padding:8px 12px 8px 14px;
+      border-left:5px solid var(--red);
+      color:#352b23;
+      font-weight:500;
+      background:rgba(255,255,255,.11);
+    }
+
+    .byline{
+      font-size:12.5px;
+      padding:7px 0;
+      border-top:1.5px solid var(--rule);
+      border-bottom:1.5px solid var(--rule);
+      margin-bottom:17px;
+      font-weight:700;
+    }
+
+    .byline span{ color:var(--red); }
+
+    .content{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      column-gap:27px;
+      align-items:start;
+    }
+
+    .col-left{ padding-right:16px; border-right:1.5px solid var(--rule); }
+
+    p{
+      margin:0 0 13px;
+      font-size:15.8px;
+      line-height:1.68;
+      text-align:justify;
+      color:#211b15;
+    }
+
+    .drop:first-letter{
+      float:left;
+      color:var(--red);
+      font-size:67px;
+      line-height:.78;
+      padding:9px 6px 0 0;
+      font-weight:900;
+    }
+
+    .subhead{
+      display:flex;
+      gap:9px;
+      align-items:center;
+      margin:14px 0 7px;
+      font-size:18px;
+      line-height:1.25;
+      font-weight:900;
+    }
+
+    .subhead:before{
+      content:"";
+      width:9px;
+      height:22px;
+      background:var(--red);
+      flex:0 0 auto;
+      display:inline-block;
+    }
+
+    .quote{
+      margin:14px 0 14px;
+      padding:12px 16px;
+      border-top:2px solid var(--rule);
+      border-bottom:2px solid var(--rule);
+      color:var(--red);
+      font-size:20px;
+      line-height:1.45;
+      font-weight:900;
+      text-align:left;
+    }
+
+    .quote small{
+      display:block;
+      color:#332920;
+      font-size:12.5px;
+      line-height:1.4;
+      margin-top:7px;
+      font-weight:700;
+    }
+
+    .info-box{
+      margin:18px 0 12px;
+      border:2px solid var(--rule);
+      background:var(--box);
+      padding:13px 15px 14px;
+    }
+
+    .info-box h3{
+      margin:0 0 9px;
+      color:var(--red);
+      font-size:17px;
+      line-height:1.25;
+      font-weight:900;
+      border-bottom:1.5px solid var(--red);
+      padding-bottom:5px;
+    }
+
+    .info-row{
+      display:grid;
+      grid-template-columns:68px 1fr;
+      gap:5px;
+      align-items:start;
+      font-size:12.8px;
+      line-height:1.42;
+      padding:5px 0;
+      border-bottom:1px dotted rgba(70,55,40,.6);
+    }
+
+    .info-row:last-child{ border-bottom:0; }
+    .info-row b{ color:var(--red-dark); font-weight:900; }
+
+    .footer{
+      position:absolute;
+      left:31px;
+      right:31px;
+      bottom:20px;
+      display:grid;
+      grid-template-columns:1fr auto 1fr;
+      gap:12px;
+      align-items:center;
+      font-size:11px;
+      border-top:2px solid var(--rule);
+      padding-top:7px;
+      color:#2a2119;
+      font-weight:700;
+    }
+
+    .footer .center{ text-align:center; }
+    .footer .right{ text-align:right; }
+
+    @media print{
+      body{ background:var(--paper); }
+      .page{ margin:0; box-shadow:none; border:0; width:100%; min-height:100vh; }
+    }
+
+    @media(max-width:900px){
+      .page{ width:100%; margin:0; min-height:auto; }
+      .headline{ font-size:34px; }
+      .content{ grid-template-columns:1fr; }
+      .col-left{ border-right:0; padding-right:0; }
+      .footer{ position:static; margin-top:20px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="masthead">
+      <h1>भारत संवाद</h1>
+    </header>
+
+    <div class="topline">
+      <div>मूल्य : डिजिटल प्रति</div>
+      <div class="center">ऊर्जा विशेष</div>
+      <div class="right">मंगलवार, 26 मई 2026 • bharatsamvad-epaper</div>
+    </div>
+
+    <div class="section-tag">विज्ञान • स्वच्छ ऊर्जा</div>
+
+    <h2 class="headline">लद्दाख की पुग़ा वैली में ONGC ने खोदा 1,000 मीटर गहरा भू-तापीय कुआं</h2>
+
+    <p class="dek">हिमालय की कठिन और शून्य से नीचे तापमान वाली परिस्थितियों में भारतीय वैज्ञानिकों व इंजीनियरों की बड़ी उपलब्धि; देश के पहले भू-तापीय पायलट पावर प्लांट की दिशा में महत्वपूर्ण कदम</p>
+
+    <div class="byline"><span>विशेष संवाददाता</span> • पुग़ा वैली / लद्दाख</div>
+
+    <section class="content">
+      <div class="col-left">
+        <p class="drop">भारत ने स्वच्छ ऊर्जा के क्षेत्र में एक उल्लेखनीय उपलब्धि दर्ज की है। तेल एवं प्राकृतिक गैस निगम <strong>(ONGC)</strong> ने लद्दाख की पुग़ा वैली में लगभग <strong>1,000 मीटर</strong> गहरा भू-तापीय कुआं ड्रिल कर देश की हरित ऊर्जा यात्रा को नई दिशा दी है। अत्यधिक ठंड, ऊंचाई और दुर्गम हिमालयी भूभाग के बीच यह कार्य भारतीय तकनीकी क्षमता, वैज्ञानिक आत्मविश्वास और ऊर्जा सुरक्षा के संकल्प का सशक्त उदाहरण माना जा रहा है।</p>
+
+        <p>पुग़ा वैली लद्दाख के चांगथांग क्षेत्र में स्थित एक प्रमुख भू-तापीय क्षेत्र है, जहां धरती के भीतर मौजूद प्राकृतिक ऊष्मा, गर्म जल स्रोतों और भाप के रूप में सतह के पास दिखाई देती है। यही कारण है कि इस क्षेत्र को लंबे समय से भारत में भू-तापीय ऊर्जा की सबसे संभावनाशील जगहों में गिना जाता रहा है।</p>
+
+        <h3 class="subhead">हिमालयी चुनौतियों के बीच वैज्ञानिक उपलब्धि</h3>
+        <p>14,000 फीट से अधिक ऊंचाई वाले इस क्षेत्र में मशीनरी, श्रमिकों, वैज्ञानिक उपकरणों और सुरक्षा प्रबंधन को बनाए रखना आसान नहीं है। कठोर सर्दी, सीमित कार्य अवधि, ऊबड़-खाबड़ सड़कें और ऑक्सीजन की कमी जैसी चुनौतियों के बावजूद ONGC की टीम ने ड्रिलिंग कार्य को आगे बढ़ाया। यह उपलब्धि बताती है कि भारत अब कठिनतम भौगोलिक परिस्थितियों में भी स्वदेशी विशेषज्ञता के साथ ऊर्जा परियोजनाओं को साकार करने में सक्षम है।</p>
+
+        <p>भू-तापीय ऊर्जा में धरती की गहराई में मौजूद ऊष्मा का उपयोग बिजली उत्पादन, ताप आपूर्ति और स्थानीय ऊर्जा जरूरतों के लिए किया जाता है। सौर और पवन ऊर्जा के विपरीत यह स्रोत दिन-रात और मौसम से अपेक्षाकृत कम प्रभावित होता है, इसलिए लद्दाख जैसे ठंडे और दूरस्थ क्षेत्रों के लिए इसका महत्व और भी बढ़ जाता है।</p>
+
+        <div class="info-box">
+          <h3>समझिये : एक नजर में</h3>
+          <div class="info-row"><b>क्या</b><span>ONGC द्वारा 1,000 मीटर गहरे भू-तापीय कुएं की ड्रिलिंग</span></div>
+          <div class="info-row"><b>कहां</b><span>पुग़ा वैली, चांगथांग क्षेत्र, लद्दाख</span></div>
+          <div class="info-row"><b>ऊंचाई</b><span>लगभग 14,000 फीट से अधिक ऊंचा हिमालयी क्षेत्र</span></div>
+          <div class="info-row"><b>उद्देश्य</b><span>भू-तापीय ऊर्जा से स्वच्छ बिजली और स्थानीय ऊर्जा समाधान</span></div>
+          <div class="info-row"><b>महत्व</b><span>भारत के पहले भू-तापीय पायलट पावर प्लांट की दिशा में बड़ा कदम</span></div>
+          <div class="info-row"><b>लाभ</b><span>ऊर्जा सुरक्षा, कम कार्बन उत्सर्जन और दूरस्थ क्षेत्रों को भरोसेमंद बिजली</span></div>
+        </div>
+      </div>
+
+      <div class="col-right">
+        <h3 class="subhead">पहले पायलट पावर प्लांट की राह खुली</h3>
+        <p>इस सफलता से पुग़ा वैली में भारत के पहले भू-तापीय पायलट पावर प्लांट की राह मजबूत हुई है। उपलब्ध जानकारी के अनुसार परियोजना के तहत एक मेगावाट श्रेणी के पायलट प्लांट की योजना आगे बढ़ाई जा रही है, साथ ही बड़े स्तर पर भू-तापीय संसाधनों के व्यावसायिक उपयोग के लिए विस्तृत परियोजना रिपोर्ट तैयार करने की दिशा में भी कार्य प्रस्तावित है।</p>
+
+        <p>लद्दाख प्रशासन, स्थानीय संस्थाओं और ONGC के बीच सहयोग इस परियोजना की बड़ी ताकत है। हाल के निर्णयों से परियोजना को आगे बढ़ाने के लिए समझौते की अवधि बढ़ाए जाने का रास्ता भी साफ हुआ है, जिससे तकनीकी परीक्षण, उत्पादन क्षमता के मूल्यांकन और भविष्य की बड़ी परियोजनाओं के लिए आवश्यक आधार तैयार हो सकेगा।</p>
+
+        <div class="quote">“धरती की छिपी हुई ऊष्मा को ऊर्जा में बदलना भारत की हरित महत्वाकांक्षा और आत्मनिर्भर ऊर्जा भविष्य की दिशा में बड़ा कदम है।”
+          <small>— स्वच्छ ऊर्जा विशेषज्ञों की साझा भावना</small>
+        </div>
+
+        <h3 class="subhead">लद्दाख के लिए क्यों खास है यह परियोजना</h3>
+        <p>लद्दाख में ऊर्जा आपूर्ति मौसम और भौगोलिक परिस्थितियों से प्रभावित होती रही है। कई दूरस्थ बस्तियों में सर्दियों के दौरान ईंधन, बिजली और हीटिंग की जरूरतें अधिक हो जाती हैं। ऐसी स्थिति में भू-तापीय ऊर्जा स्थानीय, स्थिर और कम-कार्बन विकल्प बन सकती है। इससे बिजली उत्पादन के साथ-साथ इमारतों को गर्म रखने, ग्रीनहाउस खेती और सामुदायिक सुविधाओं को ऊर्जा देने जैसी संभावनाएं भी विकसित हो सकती हैं।</p>
+
+        <p>यह परियोजना भारत की व्यापक नवीकरणीय ऊर्जा नीति से भी जुड़ती है। देश सौर, पवन, जलविद्युत और हरित हाइड्रोजन के साथ-साथ ऐसे ऊर्जा स्रोतों पर भी काम कर रहा है जो क्षेत्रीय जरूरतों के अनुसार भरोसेमंद समाधान दे सकें। पुग़ा वैली की सफलता इस दिशा में एक नया अध्याय जोड़ सकती है।</p>
+
+        <h3 class="subhead">सतत विकास की ओर आत्मविश्वासी कदम</h3>
+        <p>ONGC की यह उपलब्धि केवल एक ड्रिलिंग माइलस्टोन नहीं, बल्कि भारत के वैज्ञानिक कौशल और स्वच्छ ऊर्जा विजन का प्रतीक है। यदि परीक्षण सफल रहते हैं और पायलट प्लांट अपेक्षित परिणाम देता है, तो भविष्य में लद्दाख के अन्य भू-तापीय क्षेत्रों के साथ-साथ देश के अन्य संभावित क्षेत्रों में भी ऐसी परियोजनाओं को गति मिल सकती है।</p>
+
+        <p>पुग़ा वैली से निकला यह ऊर्जा संदेश स्पष्ट है कि भारत अपने कठिनतम सीमांत क्षेत्रों में भी विकास, विज्ञान और पर्यावरणीय जिम्मेदारी को साथ लेकर आगे बढ़ रहा है। यह उपलब्धि आने वाले वर्षों में स्वच्छ, सुरक्षित और आत्मनिर्भर ऊर्जा भारत के निर्माण में महत्वपूर्ण भूमिका निभा सकती है।</p>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div>भारत संवाद • विशेष प्रति</div>
+      <div class="center">© 2026 भारत संवाद प्रकाशन</div>
+      <div class="right">पृष्ठ 04</div>
+    </footer>
+  </main>
+</body>
+</html>
