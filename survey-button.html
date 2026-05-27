@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>भारत संवाद — सर्वे बटन</title>
+<style>
+  @font-face{font-family:'Rozha One';font-weight:400;src:local('Rozha One');}
+  :root{--paper:#f4efe2;--ink:#1a1714;--soft:#3a342c;--accent:#9a1b1b;--accent-dk:#6f1212;--gold:#8a6d2f;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{background:#1c1916;font-family:Georgia,'Tiro Devanagari Hindi',serif;padding:50px 16px;
+    background-image:linear-gradient(160deg,#2c2620,#181513);}
+
+  /* ===== Reusable survey call-to-action (copy this block) ===== */
+  .bs-survey{max-width:560px;margin:0 auto;background:var(--paper);border:1.5px solid var(--ink);
+    border-top:5px solid var(--gold);box-shadow:0 24px 60px -12px rgba(0,0,0,.6);
+    padding:26px;text-align:center;}
+  .bs-survey .eyebrow{font-family:'Khand',sans-serif;font-weight:700;letter-spacing:3px;font-size:12px;
+    text-transform:uppercase;color:var(--accent-dk);margin-bottom:8px;}
+  .bs-survey h3{font-family:'Rozha One',Georgia,serif;font-size:23px;color:var(--ink);margin-bottom:6px;line-height:1.25;}
+  .bs-survey p{font-family:'Mukta',sans-serif;font-size:14px;color:var(--soft);margin-bottom:16px;}
+  .bs-survey a.btn{display:inline-block;font-family:'Khand','Mukta',sans-serif;font-weight:700;
+    letter-spacing:1px;font-size:16px;text-decoration:none;color:#fff;background:var(--accent);
+    padding:12px 28px;border:1.5px solid var(--accent-dk);box-shadow:3px 3px 0 rgba(38,34,28,.25);
+    transition:transform .1s;}
+  .bs-survey a.btn:hover{transform:translate(-2px,-2px);box-shadow:5px 5px 0 rgba(38,34,28,.3);}
+  /* ===== /survey block ===== */
+</style>
+</head>
+<body>
+
+  <!-- ===================== SURVEY BUTTON (copy this block) ===================== -->
+  <div class="bs-survey">
+    <div class="eyebrow">पाठक सर्वेक्षण · Reader Survey</div>
+    <h3>आपकी राय हमारे लिए महत्वपूर्ण है</h3>
+    <p>कुछ सवालों के जवाब देकर भारत संवाद को बेहतर बनाने में हमारी मदद करें।</p>
+    <!-- अपने Google Form / Tally का लिंक नीचे href में डालें -->
+    <a class="btn" href="PASTE_YOUR_FORM_LINK_HERE" target="_blank" rel="noopener">सर्वे में भाग लें →</a>
+  </div>
+  <!-- ===================== /SURVEY BUTTON ===================== -->
+
+</body>
+</html>
