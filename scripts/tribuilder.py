@@ -39,8 +39,10 @@ def _render_lang(lang, article):
     return f'''
   <div class="langblock {meta["class"]}"{dir_attr} data-lang="{lang}">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">{meta["masthead"]}</h1>
-    </div>
+  <a href="index.html" class="home-logo" title="Home">
+    <h1 style="font-size:36px;">{meta["masthead"]}</h1>
+  </a>
+</div>
     <div class="strip">
       <span>{_e(article.get("strip_left",""))}</span>
       <span class="mid">{_e(article.get("strip_mid",""))}</span>
