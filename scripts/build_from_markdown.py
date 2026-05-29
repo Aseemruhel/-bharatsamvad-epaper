@@ -336,13 +336,23 @@ def regenerate_index(articles):
     # use the existing build_home_tri.py by injecting DAYS via env or by rewriting:
     # simplest: import its variables and patch DAYS, then re-execute its body.
     home_path = SCRIPTS / "build_home_tri.py"
-    src = home_path.read_text(encoding="utf-8")
-    # replace DAYS = [...] block with our generated one
-    new_days = "DAYS = " + json.dumps(DAYS_LIST, ensure_ascii=False, indent=1)
-    src2 = re.sub(r"DAYS = \[.*?^\]", new_days, src, flags=re.DOTALL|re.MULTILINE)
-    # write a temp file and execute it
-    tmp = SCRIPTS / "_build_home_runtime.py"
-    tmp.write_text(src2, encoding="utf-8")
+src = home_path.read_text(encoding="utf-8")
+
+new_days = "DAYS = " + json.dumps(DAYS_LIST, ensure_ascii=False, indent=1)
+
+src2 = re.sub(
+    r"^DAYS\s*=\s*.*$",
+    new_days,
+    src,
+    count=1,
+    flags=re.MULTILINE
+)
+
+if src2 == src:
+    raise RuntimeError("Could not inject article list into build_home_tri.py. Check the DAYS = [] line.")
+
+tmp = SCRIPTS / "_build_home_runtime.py"
+tmp.write_text(src2, encoding="utf-8")
     # the homepage generator writes index.html into its CWD (scripts/), so we move it after
     os.chdir(SCRIPTS)
     import runpy
