@@ -386,6 +386,22 @@ def main():
             arts.append(build_article(f))
         except Exception as e:
             print(f"  ✗ ERROR: {e}")
+          manual_file = CONTENT / "manual_articles.json"
+
+if manual_file.exists():
+    print("• manual_articles.json")
+    manual_articles = json.loads(manual_file.read_text(encoding="utf-8"))
+
+    for a in manual_articles:
+        date_strs = date_strings(a["date_iso"])
+        arts.append({
+            "href": a["href"],
+            "date": date_strs,
+            "page": str(a.get("page", "1")),
+            "section": a["section"],
+            "headline": a["headline"],
+            "date_iso": a["date_iso"],
+        })
     regenerate_index(arts)
     print("Done.")
 
