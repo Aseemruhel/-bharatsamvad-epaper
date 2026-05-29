@@ -42,4 +42,3 @@ jobs:
             git commit -m "Auto-build articles [skip ci]"
             git push
           fi
-```
