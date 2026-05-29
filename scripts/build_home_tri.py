@@ -355,17 +355,18 @@ doc = f"""<!DOCTYPE html>
 </div>
 
 <script>
+<script>
 function setLang(l){{
-  document.querySelectorAll('.langbar button').forEach(function(btn){
-  var active = btn.dataset.l === l;
-  btn.classList.toggle('active', active);
-  btn.style.background = active ? '#a51616' : '#17110e';
-  btn.style.borderColor = active ? '#a51616' : '#731010';
-  btn.style.color = active ? '#fff' : '#f3ead7';
-});
+  document.querySelectorAll('.langblock').forEach(function(b){{
+    b.classList.toggle('show', b.dataset.lang === l);
+  }});
 
   document.querySelectorAll('.langbar button').forEach(function(btn){{
-    btn.classList.toggle('active', btn.dataset.l === l);
+    var active = btn.dataset.l === l;
+    btn.classList.toggle('active', active);
+    btn.style.background = active ? '#a51616' : '#17110e';
+    btn.style.borderColor = active ? '#a51616' : '#731010';
+    btn.style.color = active ? '#fff' : '#f3ead7';
   }});
 
   document.documentElement.lang = (l === 'ur' ? 'ur' : (l === 'en' ? 'en' : 'hi'));
@@ -389,6 +390,7 @@ document.addEventListener('DOMContentLoaded', function(){{
 
   setLang(s);
 }});
+</script>
 </script>
 </body>
 </html>"""
