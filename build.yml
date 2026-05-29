@@ -1,0 +1,44 @@
+name: Build Bharat Samvad
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'scripts/**'
+  workflow_dispatch:   # also lets you run it manually from the Actions tab
+
+permissions:
+  contents: write       # needed to commit generated HTML back
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet anthropic
+
+      - name: Run build
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/build_from_markdown.py
+
+      - name: Commit generated HTML
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add -A *.html scripts/.translations-cache/ || true
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Auto-build articles [skip ci]"
+            git push
+          fi
