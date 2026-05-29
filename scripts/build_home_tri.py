@@ -10,7 +10,7 @@ STYLE = '''
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:radial-gradient(circle at 90% 20%,rgba(255,255,255,.04) 0 1px,transparent 1px 18px),var(--bg);color:var(--ink);font-family:"Tiro Devanagari Hindi",Georgia,serif;line-height:1.55}
 .topbar{position:sticky;top:0;z-index:50;background:#15100d;border-bottom:5px solid var(--accent);display:flex;justify-content:center;padding:11px 10px 10px}
-.langbar{display:flex;justify-content:center}
+.langbar{display:flex;justify-content:center}page(lang)
 .langbar button{min-width:86px;font-family:Georgia,"Tiro Devanagari Hindi","Noto Nastaliq Urdu",serif;font-size:15px;font-weight:700;color:#f3ead7;background:#17110e;border:1px solid var(--accent-dark);border-right:none;padding:14px 18px;cursor:pointer;transition:all .15s ease}
 .langbar button:first-child{border-radius:4px 0 0 4px}
 .langbar button:last-child{border-radius:0 4px 4px 0;border-right:1px solid var(--accent-dark)}
@@ -52,7 +52,7 @@ def page(lang):
     read = {"hi":"पूरा लेख पढ़ें →", "en":"Read full article →", "ur":"پورا مضمون پڑھیں ←"}
     no_articles = {"hi":"अभी कोई लेख उपलब्ध नहीं है।", "en":"No articles yet.", "ur":"ابھی کوئی مضمون دستیاب نہیں۔"}
 
-    body = [f'<div class="langblock {klass}" data-lang="{lang}">','<div class="mast">',f'<h1>{names[lang]}</h1>',f'<div class="tag">{tag[lang]}</div>','</div>',f'<div class="issue">{issue[lang]}</div>']
+    body = [f'<div class="langblock {klass}" data-lang="{lang}">','<div class="mast">',f'<a href="index.html" class="home-logo"><h1>{names[lang]}</h1></a>',f'<div class="tag">{tag[lang]}</div>','</div>',f'<div class="issue">{issue[lang]}</div>']
 
     if not DAYS:
         body.append(f"<p>{no_articles[lang]}</p>")
