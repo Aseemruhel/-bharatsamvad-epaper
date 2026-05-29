@@ -40,5 +40,13 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 .langblock{display:none}.langblock.show{display:block;}
 .lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
 .lang-en .body{font-family:Georgia,serif;}
+.home-logo{
+  color:inherit;
+  text-decoration:none;
+  display:inline-block;
+}
+.home-logo:hover{
+  color:var(--accent);
+}
 @media(max-width:680px){.sheet{padding:20px 18px 30px}.masthead h1{font-size:48px}.headline{font-size:32px}.body{column-count:1}.strip{flex-direction:column;gap:3px;text-align:center}}
 @media print{body{background:#fff;padding:0}.sheet{box-shadow:none}}
