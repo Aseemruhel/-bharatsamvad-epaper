@@ -343,7 +343,7 @@ def regenerate_index(articles):
     home_path = SCRIPTS / "build_home_tri.py"
     src = home_path.read_text(encoding="utf-8")
 
-    new_days = "DAYS = " + json.dumps(DAYS_LIST, ensure_ascii=False, indent=1)
+    new_days = new_days = "DAYS = " + repr(DAYS_LIST)
 
     src2 = re.sub(
         r"^DAYS\s*=\s*.*$",
