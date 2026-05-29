@@ -1,5 +1,52 @@
 [
   {
+    "href": "bharatsamvad-2026-05-27-page1.html",
+    "date_iso": "2026-05-27",
+    "page": "01",
+    "section": {
+      "hi": "वैश्विक",
+      "en": "World",
+      "ur": "دنیا"
+    },
+    "headline": {
+      "hi": "बलूचिस्तान में ट्रक चालकों की हड़ताल: सुरक्षा को लेकर बढ़ती चिंता, कई मालवाहक ट्रकों में आग की ख़बरें",
+      "en": "Truckers Strike in Balochistan: Rising Security Fears as Several Cargo Trucks Reported Set Ablaze",
+      "ur": "بلوچستان میں ٹرک ڈرائیوروں کی ہڑتال: سلامتی کے بڑھتے خدشات، کئی مال بردار ٹرکوں کو آگ لگانے کی اطلاعات"
+    }
+  },
+  {
+    "href": "bharatsamvad-2026-05-26-page1.html",
+    "date_iso": "2026-05-26",
+    "page": "01",
+    "section": {
+      "hi": "विदेश नीति",
+      "en": "Foreign Policy",
+      "ur": "خارجہ پالیسی"
+    },
+    "headline": {
+      "hi": "आपूर्ति-शृंखला की वैश्विक होड़ के बीच भारत-अमेरिका का महत्वपूर्ण खनिज व दुर्लभ मृदा समझौता",
+      "en": "Amid Global Supply-Chain Race, India and US Seal Critical Minerals and Rare Earths Pact",
+      "ur": "سپلائی چین کی عالمی دوڑ کے دوران بھارت اور امریکہ کا اہم معدنیات و نایاب ارضی عناصر معاہدہ"
+    }
+  },
+  {
+    "href": "bharatsamvad-2026-05-26-page2.html",
+    "date_iso": "2026-05-26",
+    "page": "02",
+    "section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "headline": {
+      "hi": "\"सबसे दूर, सबसे पहले\": कोहिमा में 'जन भागीदारी अभियान' का शुभारंभ, अंतिम छोर तक योजनाओं की पहुँच का संकल्प",
+      "en": "\"The Farthest, First\": Kohima Launches 'Jan Bhagidari Abhiyan', Vowing Last-Mile Reach of Schemes",
+      "ur": "\"سب سے دور، سب سے پہلے\": کوہیما میں 'جن بھاگیداری ابھیان' کا آغاز، اسکیموں کی آخری فرد تک رسائی کا عزم"
+    }
+  }
+]
+[
+  {
     "href": "bharatsamvad-2026-05-25-page2.html",
     "date_iso": "2026-05-25",
     "page": "02",
