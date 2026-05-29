@@ -10,7 +10,7 @@ Caches translations per-file so unchanged articles are not re-translated.
 
 Usage (from repo root):
   python scripts/build_from_markdown.py
-Env: requires internet access. No API key is required.
+Env: requires internet access. No API key is required
 """
 import os, sys, re, json, hashlib, glob
 from pathlib import Path
