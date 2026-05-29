@@ -312,47 +312,53 @@ def build_article(md_path):
     }
 
 # ---------- regenerate homepage ----------
+# ---------- regenerate homepage ----------
 def regenerate_index(articles):
     # group by date_iso desc
     by_date = {}
     for a in articles:
         by_date.setdefault(a["date_iso"], []).append(a)
+
     sorted_dates = sorted(by_date.keys(), reverse=True)
 
     DAYS_LIST = []
     for i, d in enumerate(sorted_dates):
         items = sorted(by_date[d], key=lambda x: int(x["page"]))
         DAYS_LIST.append({
-          "latest": (i == 0),
-          "date": items[0]["date"],
-          "cards": [
-            {"href": a["href"],
-             "label": {l: f"{ {'hi':'पृष्ठ','en':'Page','ur':'صفحہ'}[l] } {a['page']} · {a['section'][l]}" for l in ("hi","en","ur")},
-             "title": a["headline"]}
-            for a in items
-          ],
+            "latest": (i == 0),
+            "date": items[0]["date"],
+            "cards": [
+                {
+                    "href": a["href"],
+                    "label": {
+                        l: f"{ {'hi':'पृष्ठ','en':'Page','ur':'صفحہ'}[l] } {a['page']} · {a['section'][l]}"
+                        for l in ("hi", "en", "ur")
+                    },
+                    "title": a["headline"]
+                }
+                for a in items
+            ],
         })
 
-    # use the existing build_home_tri.py by injecting DAYS via env or by rewriting:
-    # simplest: import its variables and patch DAYS, then re-execute its body.
     home_path = SCRIPTS / "build_home_tri.py"
-src = home_path.read_text(encoding="utf-8")
+    src = home_path.read_text(encoding="utf-8")
 
-new_days = "DAYS = " + json.dumps(DAYS_LIST, ensure_ascii=False, indent=1)
+    new_days = "DAYS = " + json.dumps(DAYS_LIST, ensure_ascii=False, indent=1)
 
-src2 = re.sub(
-    r"^DAYS\s*=\s*.*$",
-    new_days,
-    src,
-    count=1,
-    flags=re.MULTILINE
-)
+    src2 = re.sub(
+        r"^DAYS\s*=\s*.*$",
+        new_days,
+        src,
+        count=1,
+        flags=re.MULTILINE
+    )
 
-if src2 == src:
-    raise RuntimeError("Could not inject article list into build_home_tri.py. Check the DAYS = [] line.")
+    if src2 == src:
+        raise RuntimeError("Could not inject article list into build_home_tri.py. Check the DAYS = [] line.")
 
-tmp = SCRIPTS / "_build_home_runtime.py"
-tmp.write_text(src2, encoding="utf-8")
+    tmp = SCRIPTS / "_build_home_runtime.py"
+    tmp.write_text(src2, encoding="utf-8")
+
     # the homepage generator writes index.html into its CWD (scripts/), so we move it after
     os.chdir(SCRIPTS)
     import runpy
@@ -361,10 +367,11 @@ tmp.write_text(src2, encoding="utf-8")
     out_index = SCRIPTS / "index.html"
     final = ROOT / "index.html"
     final.write_text(out_index.read_text(encoding="utf-8"), encoding="utf-8")
+
     tmp.unlink(missing_ok=True)
     out_index.unlink(missing_ok=True)
-    print(f"  ✓ regenerated index.html with {len(articles)} articles across {len(sorted_dates)} day(s)")
 
+    print(f"  ✓ regenerated index.html with {len(articles)} articles across {len(sorted_dates)} day(s)")
 # ---------- main ----------
 def main():
     md_files = sorted(glob.glob(str(CONTENT / "*.md")))
