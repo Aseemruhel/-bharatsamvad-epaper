@@ -48,6 +48,7 @@ def _render_lang(lang, article):
       <span class="mid">{_e(article.get("strip_mid",""))}</span>
       <span>{_e(article.get("date",""))} · bharatsamvad-epaper</span>
     </div>
+    <a class="back-home-btn" href="index.html">← Back to Main Menu</a>
     <span class="kicker">{_e(article.get("kicker",""))}</span>
     <h2 class="headline">{_e(article.get("head",""))}</h2>
     <p class="subdeck">{_e(article.get("sub",""))}</p>
