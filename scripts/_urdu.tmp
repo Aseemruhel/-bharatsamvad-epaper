@@ -1,0 +1,13 @@
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
+.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .strip,.lang-ur .foot{direction:rtl;}
