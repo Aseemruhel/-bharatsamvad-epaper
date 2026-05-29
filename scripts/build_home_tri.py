@@ -19,7 +19,11 @@ STYLE = """
   --gold:#92733a;
 }
 
-*{box-sizing:border-box;margin:0;padding:0}
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
 
 body{
   background:radial-gradient(circle at 90% 20%,rgba(255,255,255,.04) 0 1px,transparent 1px 18px),var(--bg);
@@ -39,7 +43,10 @@ body{
   padding:11px 10px 10px;
 }
 
-.langbar{display:flex;justify-content:center}
+.langbar{
+  display:flex;
+  justify-content:center;
+}
 
 .langbar button{
   min-width:86px;
@@ -55,10 +62,24 @@ body{
   transition:all .15s ease;
 }
 
-.langbar button:first-child{border-radius:4px 0 0 4px}
-.langbar button:last-child{border-radius:0 4px 4px 0;border-right:1px solid var(--accent-dark)}
-.langbar button.active{background:var(--accent);border-color:var(--accent);color:#fff}
-.langbar button:hover:not(.active){background:#2b211b}
+.langbar button:first-child{
+  border-radius:4px 0 0 4px;
+}
+
+.langbar button:last-child{
+  border-radius:0 4px 4px 0;
+  border-right:1px solid var(--accent-dark);
+}
+
+.langbar button.active{
+  background:var(--accent);
+  border-color:var(--accent);
+  color:#fff;
+}
+
+.langbar button:hover:not(.active){
+  background:#2b211b;
+}
 
 .wrap{
   max-width:760px;
@@ -93,7 +114,9 @@ body{
   display:inline-block;
 }
 
-.home-logo:hover{color:var(--accent)}
+.home-logo:hover{
+  color:var(--accent);
+}
 
 .mast h1{
   font-family:"Rozha One","Tiro Devanagari Hindi",serif;
@@ -120,10 +143,17 @@ body{
   letter-spacing:1px;
 }
 
-.langblock{display:none}
-.langblock.show{display:block}
+.langblock{
+  display:none;
+}
 
-.day{margin:24px 0 28px}
+.langblock.show{
+  display:block;
+}
+
+.day{
+  margin:24px 0 28px;
+}
 
 .day-head{
   display:grid;
@@ -170,7 +200,10 @@ body{
   box-shadow:3px 4px 0 rgba(38,34,28,.12);
 }
 
-.card:hover{outline:2px solid var(--accent);outline-offset:2px}
+.card:hover{
+  outline:2px solid var(--accent);
+  outline-offset:2px;
+}
 
 .card small{
   display:block;
@@ -210,34 +243,109 @@ body{
   letter-spacing:.4px;
 }
 
-.en{font-family:Georgia,serif}
-.en .mast h1{font-family:"Rozha One",Georgia,serif}
-.en .day-head h2{font-family:Georgia,serif;font-size:24px}
-.en .card strong{font-family:Georgia,serif;font-size:22px}
+.en{
+  font-family:Georgia,serif;
+}
 
-.ur{direction:rtl;font-family:"Noto Nastaliq Urdu",serif}
-.ur .mast h1{font-family:"Noto Nastaliq Urdu",serif;font-size:58px;line-height:1.65}
-.ur .mast .tag{letter-spacing:2px;font-family:"Noto Nastaliq Urdu",serif}
-.ur .day-head{direction:rtl}
-.ur .day-head h2{font-family:"Noto Nastaliq Urdu",serif;font-size:24px;line-height:2}
-.ur .card{text-align:right}
-.ur .card strong{font-family:"Noto Nastaliq Urdu",serif;font-size:21px;line-height:2.05}
-.ur .card span{line-height:2}
+.en .mast h1{
+  font-family:"Rozha One",Georgia,serif;
+}
+
+.en .day-head h2{
+  font-family:Georgia,serif;
+  font-size:24px;
+}
+
+.en .card strong{
+  font-family:Georgia,serif;
+  font-size:22px;
+}
+
+.ur{
+  direction:rtl;
+  font-family:"Noto Nastaliq Urdu",serif;
+}
+
+.ur .mast h1{
+  font-family:"Noto Nastaliq Urdu",serif;
+  font-size:58px;
+  line-height:1.65;
+}
+
+.ur .mast .tag{
+  letter-spacing:2px;
+  font-family:"Noto Nastaliq Urdu",serif;
+}
+
+.ur .day-head{
+  direction:rtl;
+}
+
+.ur .day-head h2{
+  font-family:"Noto Nastaliq Urdu",serif;
+  font-size:24px;
+  line-height:2;
+}
+
+.ur .card{
+  text-align:right;
+}
+
+.ur .card strong{
+  font-family:"Noto Nastaliq Urdu",serif;
+  font-size:21px;
+  line-height:2.05;
+}
+
+.ur .card span{
+  line-height:2;
+}
 
 @media(max-width:700px){
-  .wrap{padding:25px 22px 38px}
-  .mast h1{font-size:54px}
-  .langbar button{min-width:76px;padding:11px 13px}
-  .day-head{grid-template-columns:1fr;gap:7px}
-  .day-head .line{height:1.5px}
-  .badge{width:max-content}
-  .card strong{font-size:20px}
+  .wrap{
+    padding:25px 22px 38px;
+  }
+
+  .mast h1{
+    font-size:54px;
+  }
+
+  .langbar button{
+    min-width:76px;
+    padding:11px 13px;
+  }
+
+  .day-head{
+    grid-template-columns:1fr;
+    gap:7px;
+  }
+
+  .day-head .line{
+    height:1.5px;
+  }
+
+  .badge{
+    width:max-content;
+  }
+
+  .card strong{
+    font-size:20px;
+  }
 }
 
 @media print{
-  body{background:white}
-  .topbar{display:none}
-  .wrap{box-shadow:none;max-width:none}
+  body{
+    background:white;
+  }
+
+  .topbar{
+    display:none;
+  }
+
+  .wrap{
+    box-shadow:none;
+    max-width:none;
+  }
 }
 """
 
@@ -340,11 +448,11 @@ doc = f"""<!DOCTYPE html>
 <style>{STYLE}</style>
 </head>
 <body>
-<div class="topbar" style="position:sticky;top:0;z-index:50;background:#15100d;border-bottom:5px solid #a51616;display:flex;justify-content:center;padding:11px 10px 10px;">
-  <div class="langbar" style="display:flex;justify-content:center;">
-    <button data-l="hi" onclick="setLang('hi')" style="min-width:86px;font-family:Georgia,serif;font-size:15px;font-weight:700;color:#fff;background:#a51616;border:1px solid #a51616;border-right:none;padding:14px 18px;cursor:pointer;border-radius:4px 0 0 4px;">हिंदी</button>
-    <button data-l="en" onclick="setLang('en')" style="min-width:86px;font-family:Georgia,serif;font-size:15px;font-weight:700;color:#f3ead7;background:#17110e;border:1px solid #731010;border-right:none;padding:14px 18px;cursor:pointer;">English</button>
-    <button data-l="ur" onclick="setLang('ur')" style="min-width:86px;font-family:Georgia,serif;font-size:15px;font-weight:700;color:#f3ead7;background:#17110e;border:1px solid #731010;padding:14px 18px;cursor:pointer;border-radius:0 4px 4px 0;">اردو</button>
+<div class="topbar">
+  <div class="langbar">
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
+    <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>
 </div>
 
@@ -354,7 +462,6 @@ doc = f"""<!DOCTYPE html>
   {page("ur")}
 </div>
 
-<script>
 <script>
 function setLang(l){{
   document.querySelectorAll('.langblock').forEach(function(b){{
@@ -390,7 +497,6 @@ document.addEventListener('DOMContentLoaded', function(){{
 
   setLang(s);
 }});
-</script>
 </script>
 </body>
 </html>"""
