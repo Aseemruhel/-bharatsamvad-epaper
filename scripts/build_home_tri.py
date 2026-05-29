@@ -340,11 +340,11 @@ doc = f"""<!DOCTYPE html>
 <style>{STYLE}</style>
 </head>
 <body>
-<div class="topbar">
-  <div class="langbar">
-    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
-    <button data-l="en" onclick="setLang('en')">English</button>
-    <button data-l="ur" onclick="setLang('ur')">اردو</button>
+<div class="topbar" style="position:sticky;top:0;z-index:50;background:#15100d;border-bottom:5px solid #a51616;display:flex;justify-content:center;padding:11px 10px 10px;">
+  <div class="langbar" style="display:flex;justify-content:center;">
+    <button data-l="hi" onclick="setLang('hi')" style="min-width:86px;font-family:Georgia,serif;font-size:15px;font-weight:700;color:#fff;background:#a51616;border:1px solid #a51616;border-right:none;padding:14px 18px;cursor:pointer;border-radius:4px 0 0 4px;">हिंदी</button>
+    <button data-l="en" onclick="setLang('en')" style="min-width:86px;font-family:Georgia,serif;font-size:15px;font-weight:700;color:#f3ead7;background:#17110e;border:1px solid #731010;border-right:none;padding:14px 18px;cursor:pointer;">English</button>
+    <button data-l="ur" onclick="setLang('ur')" style="min-width:86px;font-family:Georgia,serif;font-size:15px;font-weight:700;color:#f3ead7;background:#17110e;border:1px solid #731010;padding:14px 18px;cursor:pointer;border-radius:0 4px 4px 0;">اردو</button>
   </div>
 </div>
 
@@ -356,9 +356,13 @@ doc = f"""<!DOCTYPE html>
 
 <script>
 function setLang(l){{
-  document.querySelectorAll('.langblock').forEach(function(b){{
-    b.classList.toggle('show', b.dataset.lang === l);
-  }});
+  document.querySelectorAll('.langbar button').forEach(function(btn){
+  var active = btn.dataset.l === l;
+  btn.classList.toggle('active', active);
+  btn.style.background = active ? '#a51616' : '#17110e';
+  btn.style.borderColor = active ? '#a51616' : '#731010';
+  btn.style.color = active ? '#fff' : '#f3ead7';
+});
 
   document.querySelectorAll('.langbar button').forEach(function(btn){{
     btn.classList.toggle('active', btn.dataset.l === l);
