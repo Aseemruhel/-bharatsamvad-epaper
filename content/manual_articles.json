@@ -89,7 +89,6 @@
       "ur": "خلیج سے یورپ تک بھارت کی دھاک: مودی کا پانچ ملکی دورہ اربوں کے معاہدوں اور توانائی تحفظ کے ساتھ اختتام پذیر"
     }
   },
-  
   {
     "href": "bharatsamvad-2026-05-27-page1.html",
     "date_iso": "2026-05-27",
@@ -133,18 +132,21 @@
       "hi": "\"सबसे दूर, सबसे पहले\": कोहिमा में 'जन भागीदारी अभियान' का शुभारंभ, अंतिम छोर तक योजनाओं की पहुँच का संकल्प",
       "en": "\"The Farthest, First\": Kohima Launches 'Jan Bhagidari Abhiyan', Vowing Last-Mile Reach of Schemes",
       "ur": "\"سب سے دور، سب سے پہلے\": کوہیما میں 'جن بھاگیداری ابھیان' کا آغاز، اسکیموں کی آخری فرد تک رسائی کا عزم"
-    },
-    {
+    }
+  },
+  {
     "href": "bharatsamvad-2026-05-26-page3.html",
     "date_iso": "2026-05-26",
     "page": "03",
     "section": {
+      "hi": "कश्मीर",
       "en": "Kashmir",
+      "ur": "کشمیر"
     },
     "headline": {
-      "hi": "\"कश्मीर में गोंडोला खराबी के बाद भारतीय सेना ने चलाया बड़ा बचाव अभियान",
-      "en": "\"After a gondola malfunction in Kashmir, the Indian Army launched a major rescue operation.",
-      "ur": "\"کشمیر میں گونڈولا کی خرابی کے بعد بھارتی فوج نے بڑا ریسکیو آپریشن شروع کیا۔" 
-  }
+      "hi": "कश्मीर में गोंडोला खराबी के बाद भारतीय सेना ने चलाया बड़ा बचाव अभियान",
+      "en": "After a gondola malfunction in Kashmir, the Indian Army launched a major rescue operation",
+      "ur": "کشمیر میں گونڈولا کی خرابی کے بعد بھارتی فوج نے بڑا ریسکیو آپریشن شروع کیا"
+    }
   }
 ]
