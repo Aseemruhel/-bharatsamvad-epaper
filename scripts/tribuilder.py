@@ -61,8 +61,8 @@ def _render_lang(lang, article):
 def build(out_path, title, langs):
     css = _read_template("_style.tmp") + "\n" + _read_template("_urdu.tmp")
     buttons = "\n".join(
-        f'    <button data-l="{lang}" onclick="setLang(\'{lang}\')">{LANG_META[lang]["button"]}</button>'
-        for lang in ("hi", "en", "ur") if lang in langs
+    f"    <button data-l=\"{lang}\" onclick=\"setLang('{lang}')\">{LANG_META[lang]['button']}</button>"
+    for lang in ("hi", "en", "ur") if lang in langs
     )
     blocks = "\n".join(_render_lang(lang, langs[lang]) for lang in ("hi","en","ur") if lang in langs)
     default_lang = "hi" if "hi" in langs else next(iter(langs))
