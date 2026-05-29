@@ -24,12 +24,10 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install --quiet anthropic
+        run: 
 
       - name: Run build
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/build_from_markdown.py
+        run: build_from_markdown_google_translate.py
 
       - name: Commit generated HTML
         run: |
