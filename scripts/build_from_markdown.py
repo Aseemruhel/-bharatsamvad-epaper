@@ -373,35 +373,44 @@ def regenerate_index(articles):
 
     print(f"  ✓ regenerated index.html with {len(articles)} articles across {len(sorted_dates)} day(s)")
 # ---------- main ----------
+# ---------- main ----------
 def main():
     md_files = sorted(glob.glob(str(CONTENT / "*.md")))
     if not md_files:
-        print("No markdown files found in content/. Nothing to build.")
-        return
-    print(f"Found {len(md_files)} article(s).")
+        print("No markdown files found in content/. Checking manual articles only.")
+
+    print(f"Found {len(md_files)} markdown article(s).")
+
     arts = []
+
     for f in md_files:
         print(f"• {os.path.basename(f)}")
         try:
             arts.append(build_article(f))
         except Exception as e:
             print(f"  ✗ ERROR: {e}")
-          manual_file = CONTENT / "manual_articles.json"
 
-if manual_file.exists():
-    print("• manual_articles.json")
-    manual_articles = json.loads(manual_file.read_text(encoding="utf-8"))
+    manual_file = CONTENT / "manual_articles.json"
 
-    for a in manual_articles:
-        date_strs = date_strings(a["date_iso"])
-        arts.append({
-            "href": a["href"],
-            "date": date_strs,
-            "page": str(a.get("page", "1")),
-            "section": a["section"],
-            "headline": a["headline"],
-            "date_iso": a["date_iso"],
-        })
+    if manual_file.exists():
+        print("• manual_articles.json")
+        manual_articles = json.loads(manual_file.read_text(encoding="utf-8"))
+
+        for a in manual_articles:
+            date_strs = date_strings(a["date_iso"])
+            arts.append({
+                "href": a["href"],
+                "date": date_strs,
+                "page": str(a.get("page", "1")),
+                "section": a["section"],
+                "headline": a["headline"],
+                "date_iso": a["date_iso"],
+            })
+
+    if not arts:
+        print("No articles found in content/*.md or content/manual_articles.json. Nothing to build.")
+        return
+
     regenerate_index(arts)
     print("Done.")
 
