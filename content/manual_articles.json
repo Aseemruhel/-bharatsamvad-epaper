@@ -139,13 +139,12 @@
     "date_iso": "2026-05-26",
     "page": "03",
     "section": {
-      "hi": "विदेश नीति",
-      "en": "Foreign Policy",
-      "ur": "خارجہ پالیسی"
+      "en": "Kashmir",
     },
     "headline": {
-      "hi": "भारत संवाद - कश्मीर रेस्क्यू ऑपरेशन",
-      "en": "After a gondola malfunction in Kashmir, the Indian Army launched a major rescue operation.",
-      "ur": "کشمیر میں گونڈولا کی خرابی کے بعد بھارتی فوج نے بڑا ریسکیو آپریشن شروع کیا۔" 
+      "hi": "\"कश्मीर में गोंडोला खराबी के बाद भारतीय सेना ने चलाया बड़ा बचाव अभियान",
+      "en": "\"After a gondola malfunction in Kashmir, the Indian Army launched a major rescue operation.",
+      "ur": "\"کشمیر میں گونڈولا کی خرابی کے بعد بھارتی فوج نے بڑا ریسکیو آپریشن شروع کیا۔" 
+  }
   }
 ]
