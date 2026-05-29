@@ -27,7 +27,7 @@ jobs:
         run: 
 
       - name: Run build
-        run: build_from_markdown_google_translate.py
+        run: python scripts/build_from_markdown_google_translate.py
 
       - name: Commit generated HTML
         run: |
