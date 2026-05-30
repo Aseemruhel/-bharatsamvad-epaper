@@ -1,110 +1,195 @@
 {
-  "hash": "572e82fcb1a6e3f2",
+  "hash": "0aa5794cfe1a1f1a",
   "t": {
     "fm.section": {
-      "hi": "विदेश नीति",
-      "en": "Foreign Policy",
-      "ur": "خارجہ پالیسی"
+      "hi": "रक्षा",
+      "en": "Defence",
+      "ur": "دفاع"
     },
     "fm.kicker": {
-      "hi": "कूटनीति ·",
-      "en": "Diplomacy ·",
-      "ur": "سفارت کاری"
+      "hi": "रक्षा",
+      "en": "Defence",
+      "ur": "دفاع"
     },
     "fm.byline": {
-      "hi": "विशेष संवाददाता",
-      "en": "Special Correspondent",
-      "ur": "خصوصی نامہ نگار"
+      "hi": "रक्षा संवाददाता",
+      "en": "Defence Correspondent",
+      "ur": "دفاعی نامہ نگار"
     },
     "fm.location": {
-      "hi": "नई दिल्ली",
-      "en": "New Delhi",
-      "ur": "نئی دہلی"
+      "hi": "मरोई, मेघालय",
+      "en": "Mroi, Meghalaya",
+      "ur": "مروئی، میگھالیہ"
     },
     "fm.headline": {
-      "hi": "चौथे फोरम शिखर सम्मेलन से पहले भारत और अफ्रीका ने रणनीतिक साझेदारी को मजबूत किया",
-      "en": "India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit",
-      "ur": "ہندوستان اور افریقہ نے چوتھی فورم چوٹی کانفرنس سے پہلے اسٹریٹجک پارٹنرشپ کو مضبوط کیا۔"
-    },
-    "fm.subdeck": {
-      "hi": "आगामी भारत-अफ्रीका फोरम शिखर सम्मेलन से व्यापार, प्रौद्योगिकी, स्वास्थ्य देखभाल, ऊर्जा और नवाचार में सहयोग गहरा होने की उम्मीद है, जिससे वैश्विक दक्षिण में विकास और लचीलेपन के लिए एक साझा दृष्टिकोण मजबूत होगा।",
-      "en": "The upcoming India-Africa Forum Summit is expected to deepen cooperation in trade, technology, healthcare, energy and innovation, reinforcing a shared vision for growth and resilience across the Global South.",
-      "ur": "آئندہ ہندوستان-افریقہ فورم سمٹ سے تجارت، ٹکنالوجی، صحت کی دیکھ بھال، توانائی اور اختراع میں تعاون کو گہرا کرنے کی امید ہے، جس سے گلوبل ساؤتھ میں ترقی اور لچک کے لیے مشترکہ وژن کو تقویت ملے گی۔"
+      "hi": "बहुपक्षीय सैन्य अभ्यास भारत को स्वदेशी रक्षा प्रौद्योगिकी के लिए एक व्यापक मंच प्रदान करता है",
+      "en": "Multilateral Military Drills Give India a Wider Stage for Indigenous Defence Technology",
+      "ur": "کثیرالجہتی فوجی مشقیں ہندوستان کو دیسی دفاعی ٹکنالوجی کے لیے ایک وسیع مرحلہ فراہم کرتی ہیں۔"
     },
     "b0": {
-      "hi": "भारत इस वर्ष चौथे भारत-अफ्रीका फोरम शिखर सम्मेलन की मेजबानी करने की तैयारी कर रहा है, जो वैश्विक दक्षिण में सबसे महत्वपूर्ण साझेदारियों में से एक के लिए नए सिरे से प्रतिबद्धता का संकेत है। व्यापार, प्रौद्योगिकी, बुनियादी ढांचे, स्वास्थ्य देखभाल और सतत विकास में सहयोग बढ़ाने के उद्देश्य से चर्चा में पूरे अफ्रीका के नेताओं और प्रतिनिधियों के भाग लेने की उम्मीद है।",
-      "en": "India is preparing to host the fourth India-Africa Forum Summit this year, signalling a renewed commitment to one of the most significant partnerships in the Global South. Leaders and representatives from across Africa are expected to participate in discussions aimed at expanding cooperation in trade, technology, infrastructure, healthcare and sustainable development.",
-      "ur": "ہندوستان اس سال چوتھی ہندوستان-افریقہ فورم چوٹی کانفرنس کی میزبانی کرنے کی تیاری کر رہا ہے، جو گلوبل ساؤتھ میں سب سے اہم شراکت میں سے ایک کے لیے تجدید عہد کا اشارہ دیتا ہے۔ توقع ہے کہ افریقہ بھر سے رہنماؤں اور نمائندوں کی بات چیت میں شرکت کی توقع ہے جس کا مقصد تجارت، ٹیکنالوجی، بنیادی ڈھانچے، صحت کی دیکھ بھال اور پائیدار ترقی میں تعاون کو بڑھانا ہے۔"
+      "hi": "भारतीय सेना बहुपक्षीय सैन्य अभ्यासों को प्रशिक्षण कार्यक्रमों से कहीं अधिक में बदल रही है।मेघालय के मरोई में, जहां इस सप्ताह 13 देशों का अभ्यास संपन्न हुआ, सेना ने स्वदेशी रक्षा उपकरणों का प्रदर्शन करने और वैश्विक रक्षा बाजार में एक गंभीर आपूर्तिकर्ता बनने के लिए भारत की बढ़ती महत्वाकांक्षा को रेखांकित करने के लिए मित्रवत विदेशी टुकड़ियों की सभा का उपयोग किया।",
+      "en": "The Indian Army is turning multilateral military exercises into more than training events. At Mroi in Meghalaya, where a 13-nation exercise concluded this week, the Army used the gathering of friendly foreign contingents to showcase indigenous defence equipment and underline India's growing ambition to become a serious supplier in the global defence market.",
+      "ur": "ہندوستانی فوج کثیر الجہتی فوجی مشقوں کو تربیتی پروگراموں میں تبدیل کر رہی ہے۔میگھالیہ کے مروئی میں، جہاں اس ہفتے 13 ملکی مشق کا اختتام ہوا، فوج نے دوستانہ غیر ملکی دستوں کے اجتماع کا استعمال مقامی دفاعی ساز و سامان کی نمائش کے لیے کیا اور عالمی دفاعی مارکیٹ میں ایک سنجیدہ سپلائر بننے کے لیے ہندوستان کے بڑھتے ہوئے عزائم کو اجاگر کیا۔"
     },
     "b1": {
-      "hi": "शिखर सम्मेलन को भारत और अफ्रीकी देशों के बीच राजनीतिक समन्वय को मजबूत करने और दीर्घकालिक आर्थिक लचीलापन बनाने की दिशा में एक महत्वपूर्ण कदम के रूप में देखा जा रहा है। अधिकारियों और राजनयिकों ने साझेदारी को समानता, आपसी सम्मान और साझा विकासात्मक प्राथमिकताओं पर आधारित बताया है।",
-      "en": "The summit is being viewed as an important step toward strengthening political coordination and building long-term economic resilience between India and African nations. Officials and diplomats have described the partnership as one based on equality, mutual respect and shared developmental priorities.",
-      "ur": "اس سربراہی اجلاس کو ہندوستان اور افریقی ممالک کے درمیان سیاسی تال میل کو مضبوط بنانے اور طویل مدتی اقتصادی لچک پیدا کرنے کی جانب ایک اہم قدم کے طور پر دیکھا جا رہا ہے۔ حکام اور سفارت کاروں نے شراکت داری کو مساوات، باہمی احترام اور مشترکہ ترقیاتی ترجیحات پر مبنی قرار دیا ہے۔"
+      "hi": "अभ्यास के समापन चरण के मौके पर बोलते हुए, सेना डिजाइन ब्यूरो के अतिरिक्त महानिदेशक मेजर जनरल सी.एस. मान ने कहा कि आत्मनिर्भरता, सहायक सरकारी नीति और सशस्त्र बलों, विशेष रूप से सेना द्वारा तेज फोकस के कारण भारतीय रक्षा उद्योग तेजी से विस्तार कर रहा है।उनका संदेश स्पष्ट था: भारत का घरेलू रक्षा बाजार महत्वपूर्ण है, लेकिन यह अपने आप में पर्याप्त नहीं है।अगला कदम भारतीय नवाचार को वैश्विक मांग से जोड़ना है।",
+      "en": "Speaking on the sidelines of the concluding phase of the exercise, Maj. Gen. C.S. Mann, Additional Director General of the Army Design Bureau, said the Indian defence industry is expanding rapidly because of the push for self-reliance, supportive government policy and sharper focus by the armed forces, especially the Army. His message was clear: India's domestic defence market is important, but it is not enough by itself. The next step is to connect Indian innovation with global demand.",
+      "ur": "مشق کے اختتامی مرحلے کے موقع پر بات کرتے ہوئے، آرمی ڈیزائن بیورو کے ایڈیشنل ڈائریکٹر جنرل میجر جنرل سی ایس مان نے کہا کہ خود انحصاری، معاون حکومتی پالیسی اور مسلح افواج خصوصاً فوج کی طرف سے زیادہ توجہ مرکوز کرنے کی وجہ سے ہندوستانی دفاعی صنعت تیزی سے پھیل رہی ہے۔ان کا پیغام واضح تھا: ہندوستان کی گھریلو دفاعی مارکیٹ اہم ہے، لیکن یہ خود کافی نہیں ہے۔اگلا قدم ہندوستانی اختراع کو عالمی مانگ سے جوڑنا ہے۔"
     },
     "b2": {
-      "hi": "समझौते में क्या शामिल है",
-      "en": "What the agreement covers",
-      "ur": "معاہدے کا احاطہ کیا ہے۔"
+      "hi": "## एक रक्षा उद्योग मंच के रूप में अभ्यास",
+      "en": "## Exercises as a defence industry platform",
+      "ur": "## دفاعی صنعت کے پلیٹ فارم کے طور پر مشقیں۔"
     },
     "b3": {
-      "hi": "अधिकारियों के अनुसार, रूपरेखा रक्षा प्रौद्योगिकी, संयुक्त विनिर्माण और प्रशिक्षण तक फैली हुई है। इसमें उभरती प्रौद्योगिकियों और आपूर्ति-श्रृंखला लचीलेपन पर सहयोग की भी परिकल्पना की गई है।",
-      "en": "According to officials, the framework spans defence technology, joint manufacturing and training. It also envisages collaboration on emerging technologies and supply-chain resilience.",
-      "ur": "حکام کے مطابق یہ فریم ورک دفاعی ٹیکنالوجی، مشترکہ تیاری اور تربیت پر محیط ہے۔ یہ ابھرتی ہوئی ٹیکنالوجیز اور سپلائی چین لچک پر بھی تعاون کا تصور کرتا ہے۔"
+      "hi": "सैन्य अभ्यासों को आमतौर पर संयुक्त अभ्यास, अंतरसंचालनीयता और पेशेवर आदान-प्रदान के अवसर के रूप में देखा जाता है।लेकिन वर्तमान सुरक्षा माहौल में ये लाइव प्रदर्शन मंच के रूप में भी काम करते हैं।मेहमान सेनाओं को उपकरण किसी शोरूम में नहीं, बल्कि मैदान जैसी स्थितियों में देखने को मिलते हैं, जहां विश्वसनीयता, पोर्टेबिलिटी, प्रयोज्यता और रखरखाव मायने रखते हैं।",
+      "en": "Military exercises are usually seen as occasions for joint drills, interoperability and professional exchange. But in the present security environment, they also work as live demonstration platforms. Visiting armies get to see equipment not in a showroom, but in field-like conditions where reliability, portability, usability and maintenance matter.",
+      "ur": "فوجی مشقوں کو عام طور پر مشترکہ مشقوں، باہمی تعاون اور پیشہ ورانہ تبادلے کے مواقع کے طور پر دیکھا جاتا ہے۔لیکن موجودہ سیکورٹی ماحول میں، وہ لائیو ڈیموسٹریشن پلیٹ فارم کے طور پر بھی کام کرتے ہیں۔دورہ کرنے والی فوجوں کو سامان شو روم میں نہیں بلکہ میدان کی طرح کے حالات میں دیکھنے کو ملتا ہے جہاں قابل اعتماد، پورٹیبلٹی، استعمال اور دیکھ بھال کی اہمیت ہوتی ہے۔"
     },
     "b4": {
-      "hi": "समझौते का पाठ आने वाले दिनों में सार्वजनिक किए जाने की उम्मीद है। अधिकारियों ने कहा कि कार्यान्वयन चरणों में किया जाएगा।",
-      "en": "The text of the agreement is expected to be made public in the coming days. Officials said implementation will be carried out in phases.",
-      "ur": "معاہدے کا متن آنے والے دنوں میں منظر عام پر آنے کی امید ہے۔ حکام نے بتایا کہ اس پر عمل درآمد مرحلہ وار کیا جائے گا۔"
+      "hi": "भारतीय विनिर्माताओं के लिए ऐसा प्रदर्शन मूल्यवान है।यह उन्हें साझेदार देशों की ज़रूरतों को समझने, व्यावहारिक प्रतिक्रिया प्राप्त करने और भविष्य के सहयोग का पता लगाने की अनुमति देता है।सेना के लिए, यह परिचालन अनुभव को उद्योग नवाचार के साथ संरेखित करने में मदद करता है, यह सुनिश्चित करता है कि उपकरण विकास युद्धक्षेत्र की आवश्यकताओं से अलग नहीं है।",
+      "en": "For Indian manufacturers, such exposure is valuable. It allows them to understand the needs of partner countries, receive practical feedback and explore future collaboration. For the Army, it helps align operational experience with industry innovation, ensuring that equipment development is not separated from battlefield requirements.",
+      "ur": "ہندوستانی مینوفیکچررز کے لیے، اس طرح کی نمائش قابل قدر ہے۔یہ انہیں شراکت دار ممالک کی ضروریات کو سمجھنے، عملی تاثرات حاصل کرنے اور مستقبل کے تعاون کو دریافت کرنے کی اجازت دیتا ہے۔فوج کے لیے، یہ صنعتی جدت کے ساتھ آپریشنل تجربے کو ہم آہنگ کرنے میں مدد کرتا ہے، اس بات کو یقینی بناتا ہے کہ آلات کی ترقی میدان جنگ کی ضروریات سے الگ نہ ہو۔"
     },
-    "b5.title": {
-      "hi": "भारत-अफ्रीका साझेदारी एक नज़र में",
-      "en": "India-Africa Partnership at a Glance",
-      "ur": "ایک نظر میں ہندوستان-افریقہ پارٹنرشپ"
+    "b5": {
+      "hi": "## प्रगति 2026 और मेघालय सेटिंग",
+      "en": "## PRAGATI 2026 and the Meghalaya setting",
+      "ur": "## پرگتی 2026 اور میگھالیہ کی ترتیب"
     },
     "b6": {
-      "hi": "मंच - भारत-अफ्रीका फोरम शिखर सम्मेलन पहला शिखर सम्मेलन - नई दिल्ली, 2008 प्रमुख क्षेत्र - व्यापार, प्रौद्योगिकी, स्वास्थ्य देखभाल, बुनियादी ढांचा, ऊर्जा वर्तमान व्यापार मात्रा - अफ्रीका में लगभग 100 अरब डॉलर का भारतीय निवेश - 80 अरब डॉलर से अधिक छात्रवृत्तियां प्रदान की गईं - पिछले दशक में लगभग 80,000",
-      "en": "Platform — India-Africa Forum Summit First Summit — New Delhi, 2008 Key Areas — Trade, technology, healthcare, infrastructure, energy Current Trade Volume — Nearly $100 billion Indian Investment in Africa — More than $80 billion Scholarships Provided — Around 80,000 over the last decade",
-      "ur": "پلیٹ فارم — انڈیا-افریقہ فورم سمٹ پہلا سربراہی اجلاس — نئی دہلی، 2008 کلیدی شعبے — تجارت، ٹیکنالوجی، صحت کی دیکھ بھال، بنیادی ڈھانچہ، توانائی کا موجودہ تجارتی حجم — افریقہ میں تقریباً 100 بلین ڈالر کی ہندوستانی سرمایہ کاری — 80 بلین ڈالر سے زیادہ کے وظائف فراہم کیے گئے — گزشتہ دہائی میں تقریباً 80,000"
+      "hi": "मेघालय अभ्यास ने भारत और 12 मित्र देशों को संयुक्त प्रशिक्षण के लिए एक साथ लाया, जो आतंकवाद और कठिन जंगल और अर्ध-पहाड़ी इलाकों में अभियानों पर केंद्रित था।संचार उपकरण, निगरानी उपकरण, सुरक्षात्मक गियर, ड्रोन, रोबोटिक्स, गतिशीलता प्लेटफ़ॉर्म और सैनिक-समर्थन प्रौद्योगिकियों सहित प्रकाश, मोबाइल और मजबूत प्रणालियों के परीक्षण के लिए ऐसी स्थितियाँ विशेष रूप से उपयोगी होती हैं।",
+      "en": "The Meghalaya exercise brought together India and 12 friendly nations for joint training focused on counter-terrorism and operations in difficult jungle and semi-mountainous terrain. Such conditions are especially useful for testing light, mobile and rugged systems, including communication equipment, surveillance tools, protective gear, drones, robotics, mobility platforms and soldier-support technologies.",
+      "ur": "میگھالیہ مشق نے بھارت اور 12 دوست ممالک کو مشترکہ تربیت کے لیے اکٹھا کیا جس میں انسداد دہشت گردی اور دشوار گزار جنگل اور نیم پہاڑی علاقوں میں آپریشنز پر توجہ دی گئی۔اس طرح کے حالات خاص طور پر روشنی، موبائل اور ناہموار نظاموں کی جانچ کے لیے مفید ہیں، بشمول مواصلاتی آلات، نگرانی کے اوزار، حفاظتی پوشاک، ڈرون، روبوٹکس، نقل و حرکت کے پلیٹ فارمز اور سپاہیوں کی مدد کی ٹیکنالوجیز۔"
     },
-    "b7.q": {
-      "hi": "\"भारत और अफ्रीका अधिक समावेशी वैश्विक व्यवस्था को आकार देने में न केवल भागीदार हैं, बल्कि सक्रिय भागीदार भी हैं।\"",
-      "en": "“India and Africa are not merely partners, but active participants in shaping a more inclusive global order.”",
-      "ur": "\"ہندوستان اور افریقہ نہ صرف شراکت دار ہیں، بلکہ ایک زیادہ جامع عالمی نظام کی تشکیل میں فعال شراکت دار ہیں۔\""
+    "b7": {
+      "hi": "इस अभ्यास से कूटनीतिक लाभ भी मिला।जब सैनिक एक साथ प्रशिक्षण लेते हैं, तो वे यूनिट स्तर पर विश्वास बनाते हैं।जब उस प्रशिक्षण के साथ उपकरण प्रदर्शित किया जाता है, तो भागीदार देश प्रदर्शन को व्यावहारिक उपयोगिता से जोड़ सकता है।इससे रक्षा सहयोग अधिक स्वाभाविक हो जाता है और यह केवल औपचारिक खरीद बैठकों पर कम निर्भर हो जाता है।",
+      "en": "The exercise also offered a diplomatic advantage. When soldiers train together, they build trust at the unit level. When equipment is displayed alongside that training, the partner country can link performance with practical utility. This makes defence cooperation more natural and less dependent only on formal procurement meetings.",
+      "ur": "اس مشق نے سفارتی فائدہ بھی پیش کیا۔جب فوجی مل کر تربیت کرتے ہیں، تو وہ یونٹ کی سطح پر اعتماد پیدا کرتے ہیں۔جب اس ٹریننگ کے ساتھ سامان دکھایا جاتا ہے، تو پارٹنر ملک کارکردگی کو عملی افادیت سے جوڑ سکتا ہے۔اس سے دفاعی تعاون زیادہ فطری اور کم انحصار صرف رسمی خریداری کے اجلاسوں پر ہوتا ہے۔"
     },
-    "b7.c": {
-      "hi": "- राजनयिक मूल्यांकन (संक्षेप में)",
-      "en": "— Diplomatic assessment (paraphrased)",
-      "ur": "- سفارتی تشخیص (تفصیلی)"
-    },
-    "b8": {
-      "hi": "इसका क्या मतलब है",
-      "en": "What it means",
-      "ur": "اس کا کیا مطلب ہے۔"
+    "b8.title": {
+      "hi": "रक्षा उद्योग एक नज़र में",
+      "en": "Defence Industry at a Glance",
+      "ur": "ایک نظر میں دفاعی صنعت"
     },
     "b9": {
-      "hi": "विशेषज्ञों का मानना ​​है कि यह रूपरेखा दोनों देशों को अधिक रणनीतिक लचीलापन प्रदान करेगी। संयुक्त विनिर्माण, विशेष रूप से, भारत के भीतर नए औद्योगिक अवसर पैदा कर सकता है।",
-      "en": "Experts believe the framework will give both countries greater strategic flexibility. Joint manufacturing, in particular, could create new industrial opportunities within India.",
-      "ur": "ماہرین کا خیال ہے کہ یہ فریم ورک دونوں ممالک کو زیادہ اسٹریٹجک لچک فراہم کرے گا۔ مشترکہ مینوفیکچرنگ، خاص طور پر، ہندوستان کے اندر نئے صنعتی مواقع پیدا کر سکتی ہے۔"
+      "hi": "> - घटना - मेघालय में बहुपक्षीय सैन्य अभ्यास प्रगति 2026 > > - प्रतिभागी - भारत और 12 मित्र राष्ट्र > > - फोकस - आतंकवाद से मुकाबला, अंतरसंचालनीयता और कठिन इलाकों में संचालन > > - उद्योग कोण - स्वदेशी रक्षा प्रणालियों और उभरती प्रौद्योगिकियों का प्रदर्शन > > - निर्यात तर्क - मित्रवत सेनाएं एक यथार्थवादी प्रशिक्षण वातावरण में भारतीय उपकरणों का आकलन कर सकती हैं >> - व्यापक लक्ष्य - भारत के रक्षा निर्यात पदचिह्न का विस्तार करते हुए आत्मनिर्भर भारत को मजबूत करना",
+      "en": "> - Event — Multilateral military exercise PRAGATI 2026 in Meghalaya > > - Participants — India and 12 friendly nations > > - Focus — Counter-terrorism, interoperability and operations in difficult terrain > > - Industry angle — Display of indigenous defence systems and emerging technologies > > - Export logic — Friendly armies can assess Indian equipment in a realistic training environment > > - Wider goal — Strengthening Atmanirbhar Bharat while expanding India's defence export footprint",
+      "ur": "> - ایونٹ — میگھالیہ میں کثیرالجہتی فوجی مشق پرگتی 2026 > > - شرکاء — ہندوستان اور 12 دوست ممالک > > - فوکس — انسداد دہشت گردی، باہمی تعاون اور دشوار گزار خطوں میں کارروائیاںایک حقیقت پسندانہ تربیتی ماحول میں > > - وسیع تر مقصد — بھارت کے دفاعی برآمدی نقش کو بڑھاتے ہوئے اتمنیر بھر بھارت کو مضبوط بنانا"
     },
     "b10": {
-      "hi": "आगे का रास्ता",
-      "en": "The road ahead",
-      "ur": "آگے کی سڑک"
+      "hi": "## आत्मनिर्भरता के लिए निर्यात क्यों मायने रखता है",
+      "en": "## Why exports matter for self-reliance",
+      "ur": "## خود انحصاری کے لیے برآمدات کیوں اہم ہیں۔"
     },
     "b11": {
-      "hi": "चौथा भारत-अफ्रीका फोरम शिखर सम्मेलन बढ़ती भू-राजनीतिक अनिश्चितता, तकनीकी परिवर्तन और बदलते आर्थिक संरेखण के समय हो रहा है। भारत और अफ्रीकी दोनों देशों के लिए, साझेदारी को वैश्विक दक्षिण में लचीलापन बनाने के केंद्र के रूप में देखा जा रहा है।",
-      "en": "The fourth India-Africa Forum Summit comes at a time of growing geopolitical uncertainty, technological transformation and shifting economic alignments. For both India and African countries, the partnership is increasingly seen as central to building resilience in the Global South.",
-      "ur": "چوتھی ہندوستان-افریقہ فورم سمٹ ایک ایسے وقت میں ہو رہی ہے جب بڑھتی ہوئی جغرافیائی سیاسی غیر یقینی صورتحال، تکنیکی تبدیلی اور اقتصادی صف بندی میں تبدیلی آ رہی ہے۔ ہندوستان اور افریقی ممالک دونوں کے لیے، شراکت داری کو تیزی سے گلوبل ساؤتھ میں لچک پیدا کرنے کے لیے مرکزی حیثیت سے دیکھا جا رہا ہے۔"
+      "hi": "भारत के रक्षा विनिर्माण पारिस्थितिकी तंत्र में हाल के वर्षों में काफी वृद्धि हुई है, लेकिन दीर्घकालिक सफलता के लिए पैमाना महत्वपूर्ण है।एक मजबूत घरेलू ऑर्डर बुक कंपनियों को क्षमता निर्माण में मदद करती है, फिर भी निर्यात उद्योग को एक व्यापक बाजार, बेहतर उत्पादन मात्रा और अनुसंधान और विकास में निवेश करने के लिए अधिक आत्मविश्वास देता है।",
+      "en": "India's defence manufacturing ecosystem has grown substantially in recent years, but scale is crucial for long-term success. A strong domestic order book helps companies build capacity, yet exports give the industry a wider market, better production volumes and greater confidence to invest in research and development.",
+      "ur": "ہندوستان کے دفاعی مینوفیکچرنگ ماحولیاتی نظام نے حالیہ برسوں میں کافی ترقی کی ہے، لیکن طویل مدتی کامیابی کے لیے پیمانہ بہت اہم ہے۔مضبوط گھریلو آرڈر بک کمپنیوں کو صلاحیت بڑھانے میں مدد دیتی ہے، پھر بھی برآمدات صنعت کو وسیع مارکیٹ، بہتر پیداواری حجم اور تحقیق اور ترقی میں سرمایہ کاری کرنے کا زیادہ اعتماد فراہم کرتی ہیں۔"
     },
     "b12": {
-      "hi": "राजनयिकों और विश्लेषकों का मानना ​​है कि शिखर सम्मेलन वैश्विक मुद्दों पर राजनीतिक समन्वय को मजबूत करते हुए ऊर्जा सुरक्षा, आपूर्ति श्रृंखला, विनिर्माण, नवाचार और डिजिटल कनेक्टिविटी में सहयोग में तेजी लाने में मदद कर सकता है।",
-      "en": "Diplomats and analysts believe the summit could help accelerate cooperation in energy security, supply chains, manufacturing, innovation and digital connectivity while reinforcing political coordination on global issues.",
-      "ur": "سفارت کاروں اور تجزیہ کاروں کا خیال ہے کہ سربراہی اجلاس توانائی کی حفاظت، سپلائی چینز، مینوفیکچرنگ، اختراعات اور ڈیجیٹل کنیکٹیویٹی میں تعاون کو تیز کرنے میں مدد دے سکتا ہے جبکہ عالمی مسائل پر سیاسی ہم آہنگی کو تقویت دیتا ہے۔"
+      "hi": "आधिकारिक आंकड़ों के अनुसार, भारत का रक्षा निर्यात 2024-25 में रिकॉर्ड 23,622 करोड़ रुपये तक पहुंच गया, जो पिछले वित्तीय वर्ष में 21,083 करोड़ रुपये था।रक्षा उत्पादन इससे पहले 2023-24 में 1.27 लाख करोड़ रुपये को पार कर गया था।ये संख्याएँ दर्शाती हैं कि देश आयात निर्भरता से व्यापक विनिर्माण आधार की ओर बढ़ रहा है, जिसमें निजी कंपनियाँ, रक्षा सार्वजनिक क्षेत्र इकाइयाँ, स्टार्ट-अप और एमएसएमई सभी बढ़ती भूमिका निभा रहे हैं।",
+      "en": "According to official data, India's defence exports touched a record Rs 23,622 crore in 2024-25, rising from Rs 21,083 crore in the previous financial year. Defence production had earlier crossed Rs 1.27 lakh crore in 2023-24. These numbers show that the country is moving from import dependence toward a broader manufacturing base, with private firms, defence public sector units, start-ups and MSMEs all playing a growing role.",
+      "ur": "سرکاری اعداد و شمار کے مطابق، ہندوستان کی دفاعی برآمدات 2024-25 میں ریکارڈ 23,622 کروڑ روپے تک پہنچ گئیں، جو پچھلے مالی سال میں 21,083 کروڑ روپے سے بڑھ کر تھیں۔دفاعی پیداوار اس سے پہلے 2023-24 میں 1.27 لاکھ کروڑ روپے سے تجاوز کر گئی تھی۔یہ اعداد و شمار بتاتے ہیں کہ ملک درآمدی انحصار سے نکل کر وسیع تر مینوفیکچرنگ بیس کی طرف بڑھ رہا ہے، جس میں پرائیویٹ فرمیں، دفاعی پبلک سیکٹر یونٹس، اسٹارٹ اپس اور MSME سب بڑھتے ہوئے کردار ادا کر رہے ہیں۔"
     },
     "b13": {
-      "hi": "कुल मिलाकर, भारत-अफ्रीका साझेदारी साझा विकासात्मक लक्ष्यों, आर्थिक संबंधों के विस्तार और अधिक संतुलित अंतर्राष्ट्रीय व्यवस्था के लिए एक आम दृष्टिकोण के आधार पर एक नए चरण में प्रवेश कर रही है। आगामी शिखर सम्मेलन की सफलता इस बात पर निर्भर करेगी कि इन महत्वाकांक्षाओं को व्यावहारिक और दीर्घकालिक सहयोग ढांचे में कितने प्रभावी ढंग से अनुवादित किया जाता है।",
-      "en": "Overall, the India-Africa partnership is entering a new phase shaped by shared developmental goals, expanding economic ties and a common vision for a more balanced international order. The success of the upcoming summit will depend on how effectively these ambitions are translated into practical and long-term cooperation frameworks.",
-      "ur": "مجموعی طور پر، ہندوستان-افریقہ شراکت داری ایک نئے مرحلے میں داخل ہو رہی ہے جس کی تشکیل مشترکہ ترقیاتی اہداف، اقتصادی تعلقات کو وسعت دے رہی ہے اور زیادہ متوازن بین الاقوامی نظم کے لیے مشترکہ وژن ہے۔ آئندہ سربراہی اجلاس کی کامیابی کا انحصار اس بات پر ہوگا کہ ان عزائم کو عملی اور طویل مدتی تعاون کے فریم ورک میں کس حد تک مؤثر طریقے سے ترجمہ کیا جاتا ہے۔"
+      "hi": "***पुल: \"मित्र देशों के साथ अभ्यास अब केवल अभ्यास के बारे में नहीं है; वे विश्वास, प्रौद्योगिकी और भारतीय रक्षा विनिर्माण की विश्वसनीयता के बारे में भी हैं।\"***",
+      "en": "***PULL: \"Exercises with friendly nations are no longer only about drills; they are also about trust, technology and the credibility of Indian defence manufacturing.\"***",
+      "ur": "*** پل: \"دوست ممالک کے ساتھ مشقیں اب صرف مشقوں کے بارے میں نہیں ہیں؛ وہ اعتماد، ٹیکنالوجی اور ہندوستانی دفاعی مینوفیکچرنگ کی ساکھ کے بارے میں بھی ہیں۔\"***"
+    },
+    "b14": {
+      "hi": "— भारत संवाद डिफेंस डेस्क",
+      "en": "— Bharat Samwad Defence Desk",
+      "ur": "- بھارت سمواد ڈیفنس ڈیسک"
+    },
+    "b15": {
+      "hi": "## आर्मी डिज़ाइन ब्यूरो की भूमिका",
+      "en": "## The role of the Army Design Bureau",
+      "ur": "## آرمی ڈیزائن بیورو کا کردار"
+    },
+    "b16": {
+      "hi": "आर्मी डिज़ाइन ब्यूरो सैनिकों, शोधकर्ताओं, स्टार्ट-अप और स्थापित रक्षा कंपनियों के बीच एक महत्वपूर्ण पुल बन गया है।इसकी भूमिका परिचालन अंतराल की पहचान करना, उद्योग को सैन्य उपयोगकर्ताओं के साथ जोड़ना और वास्तविक क्षेत्र की आवश्यकताओं से मेल खाने वाले समाधानों के विकास का मार्गदर्शन करना है।",
+      "en": "The Army Design Bureau has become an important bridge between soldiers, researchers, start-ups and established defence companies. Its role is to identify operational gaps, connect industry with military users and guide the development of solutions that match real field requirements.",
+      "ur": "آرمی ڈیزائن بیورو فوجیوں، محققین، اسٹارٹ اپس اور قائم شدہ دفاعی کمپنیوں کے درمیان ایک اہم پل بن گیا ہے۔اس کا کردار آپریشنل خلا کی نشاندہی کرنا، صنعت کو فوجی صارفین کے ساتھ جوڑنا اور ایسے حلوں کی ترقی کی رہنمائی کرنا ہے جو حقیقی فیلڈ کی ضروریات سے مماثل ہوں۔"
+    },
+    "b17": {
+      "hi": "यह विशेष रूप से महत्वपूर्ण है क्योंकि आधुनिक युद्ध तेजी से बदल रहा है।ड्रोन, काउंटर-ड्रोन सिस्टम, सुरक्षित संचार, कृत्रिम बुद्धिमत्ता, इलेक्ट्रॉनिक युद्ध, हल्की सामग्री और सटीक प्रणालियाँ पारंपरिक प्लेटफार्मों की तरह ही महत्वपूर्ण होती जा रही हैं।डिज़ाइन-आधारित दृष्टिकोण भारतीय उद्योग को उभरती जरूरतों पर तेजी से प्रतिक्रिया करने में मदद करता है।",
+      "en": "This is especially important because modern warfare is changing quickly. Drones, counter-drone systems, secure communications, artificial intelligence, electronic warfare, lightweight materials and precision systems are becoming as important as traditional platforms. A design-led approach helps Indian industry respond faster to emerging needs.",
+      "ur": "یہ خاص طور پر اہم ہے کیونکہ جدید جنگ تیزی سے بدل رہی ہے۔ڈرون، کاؤنٹر ڈرون سسٹم، محفوظ مواصلات، مصنوعی ذہانت، الیکٹرانک وارفیئر، ہلکا پھلکا مواد اور درستگی کے نظام روایتی پلیٹ فارمز کی طرح اہم ہوتے جا رہے ہیں۔ڈیزائن کی قیادت میں ایک نقطہ نظر ہندوستانی صنعت کو ابھرتی ہوئی ضروریات کے لیے تیزی سے جواب دینے میں مدد کرتا ہے۔"
+    },
+    "b18": {
+      "hi": "## खरीदार से भागीदार तक",
+      "en": "## From buyer to partner",
+      "ur": "## خریدار سے پارٹنر تک"
+    },
+    "b19": {
+      "hi": "दशकों तक, भारत को मुख्य रूप से एक बड़े रक्षा खरीदार के रूप में देखा जाता था।वह छवि धीरे-धीरे बदल रही है।देश अब खुद को एक विकास और उत्पादन भागीदार के रूप में पेश करने की कोशिश कर रहा है, खासकर उन देशों के लिए जिन्हें विश्वसनीय, लागत प्रभावी और अनुकूलनीय प्रणालियों की आवश्यकता है।",
+      "en": "For decades, India was viewed mainly as a large defence buyer. That image is gradually changing. The country is now trying to present itself as a development and production partner, particularly for nations that need reliable, cost-effective and adaptable systems.",
+      "ur": "کئی دہائیوں سے ہندوستان کو بنیادی طور پر ایک بڑے دفاعی خریدار کے طور پر دیکھا جاتا تھا۔وہ تصویر آہستہ آہستہ بدل رہی ہے۔ملک اب اپنے آپ کو ترقی اور پیداواری شراکت دار کے طور پر پیش کرنے کی کوشش کر رہا ہے، خاص طور پر ان قوموں کے لیے جنہیں قابل اعتماد، سرمایہ کاری مؤثر اور موافقت پذیر نظام کی ضرورت ہے۔"
+    },
+    "b20": {
+      "hi": "कई मित्र देशों को हमेशा वैश्विक बाज़ार में उपलब्ध सबसे महंगे प्लेटफ़ॉर्म की आवश्यकता नहीं होती है।उन्हें ऐसे उपकरण की आवश्यकता है जो मजबूत, किफायती, रखरखाव में आसान और स्थानीय इलाके के लिए उपयुक्त हो।रेगिस्तानों, पहाड़ों, जंगलों, ऊंचाई वाले क्षेत्रों, द्वीप क्षेत्रों और सीमावर्ती क्षेत्रों में भारत का अनुभव उसके रक्षा उद्योग को ऐसी प्रणालियों को डिजाइन करने में व्यावहारिक लाभ देता है।",
+      "en": "Many friendly countries do not always need the most expensive platforms available in the global market. They need equipment that is rugged, affordable, easy to maintain and suitable for local terrain. India's experience across deserts, mountains, jungles, high-altitude areas, island territories and border regions gives its defence industry a practical advantage in designing such systems.",
+      "ur": "بہت سے دوست ممالک کو ہمیشہ عالمی مارکیٹ میں دستیاب مہنگے ترین پلیٹ فارم کی ضرورت نہیں ہوتی۔انہیں ایسے سامان کی ضرورت ہے جو ناہموار، سستی، دیکھ بھال میں آسان اور مقامی علاقوں کے لیے موزوں ہو۔صحراؤں، پہاڑوں، جنگلوں، اونچائی والے علاقوں، جزیروں کے علاقوں اور سرحدی علاقوں میں ہندوستان کا تجربہ اس کی دفاعی صنعت کو ایسے نظاموں کو ڈیزائن کرنے میں عملی فائدہ دیتا ہے۔"
+    },
+    "b21": {
+      "hi": "## अकेले घरेलू बाजार ही काफी नहीं है",
+      "en": "## Domestic market alone is not enough",
+      "ur": "## صرف گھریلو مارکیٹ کافی نہیں ہے۔"
+    },
+    "b22": {
+      "hi": "मेजर जनरल मान की यह टिप्पणी कि स्थानीय बाज़ार पर्याप्त नहीं है, महत्वपूर्ण है।रक्षा विनिर्माण के लिए दीर्घकालिक निवेश, परीक्षण सुविधाओं, विशेष कौशल और भरोसेमंद आपूर्ति श्रृंखलाओं की आवश्यकता होती है।निर्यात ऑर्डर कंपनियों को उत्पादन लाइनें बनाए रखने, गुणवत्ता मानकों में सुधार करने और पैमाने के माध्यम से लागत कम करने में मदद कर सकते हैं।",
+      "en": "Maj. Gen. Mann's observation that the local market is not sufficient is significant. Defence manufacturing requires long-term investment, testing facilities, specialised skills and dependable supply chains. Export orders can help companies maintain production lines, improve quality standards and reduce costs through scale.",
+      "ur": "میجر جنرل مان کا یہ مشاہدہ کہ مقامی مارکیٹ کافی نہیں ہے۔دفاعی مینوفیکچرنگ کے لیے طویل مدتی سرمایہ کاری، جانچ کی سہولیات، خصوصی مہارتوں اور قابل اعتماد سپلائی چینز کی ضرورت ہوتی ہے۔ایکسپورٹ آرڈرز کمپنیوں کو پروڈکشن لائنوں کو برقرار رکھنے، معیار کے معیار کو بہتر بنانے اور پیمانے کے ذریعے لاگت کو کم کرنے میں مدد کر سکتے ہیں۔"
+    },
+    "b23": {
+      "hi": "एक बड़ा निर्यात बाज़ार भी नवाचार को प्रोत्साहित करता है।जब भारतीय कंपनियां विदेश में प्रतिस्पर्धा करती हैं, तो उन्हें अंतरराष्ट्रीय मानकों को पूरा करना होगा, दस्तावेज़ीकरण में सुधार करना होगा, बिक्री के बाद समर्थन को मजबूत करना होगा और प्रशिक्षण पैकेज की पेशकश करनी होगी।इन सुधारों से अंततः भारतीय सशस्त्र बलों को भी लाभ होगा।",
+      "en": "A larger export market also encourages innovation. When Indian companies compete abroad, they must meet international standards, improve documentation, strengthen after-sales support and offer training packages. These improvements eventually benefit the Indian armed forces as well.",
+      "ur": "ایک بڑی برآمدی منڈی بھی اختراع کی حوصلہ افزائی کرتی ہے۔جب ہندوستانی کمپنیاں بیرون ملک مقابلہ کرتی ہیں، تو انہیں بین الاقوامی معیارات پر پورا اترنا، دستاویزات کو بہتر بنانا، فروخت کے بعد سپورٹ کو مضبوط کرنا اور تربیتی پیکج پیش کرنا چاہیے۔یہ بہتری بالآخر ہندوستانی مسلح افواج کو بھی فائدہ پہنچاتی ہے۔"
+    },
+    "b24": {
+      "hi": "## आत्मनिर्भर भारत और वैश्विक विश्वसनीयता",
+      "en": "## Atmanirbhar Bharat and global credibility",
+      "ur": "## Atmanirbhar بھارت اور عالمی ساکھ"
+    },
+    "b25": {
+      "hi": "रक्षा क्षेत्र में आत्मनिर्भर भारत का उद्देश्य केवल आयात को प्रतिस्थापित करना नहीं है।यह विश्वास पैदा करने के बारे में भी है कि भारतीय प्रणालियाँ कठिन परिस्थितियों में भी प्रदर्शन कर सकती हैं।बहुपक्षीय अभ्यास वह विश्वसनीयता प्रदान करते हैं क्योंकि विदेशी सैनिक और अधिकारी सीधे भारतीय प्रणालियों का निरीक्षण कर सकते हैं।",
+      "en": "The Atmanirbhar Bharat push in defence is not only about replacing imports. It is also about building confidence that Indian systems can perform in demanding conditions. Multilateral exercises provide that credibility because foreign soldiers and officers can observe Indian systems directly.",
+      "ur": "دفاع میں Atmanirbhar بھارت دباؤ صرف درآمدات کو تبدیل کرنے کے بارے میں نہیں ہے۔یہ اعتماد پیدا کرنے کے بارے میں بھی ہے کہ ہندوستانی نظام مشکل حالات میں کارکردگی کا مظاہرہ کر سکتا ہے۔کثیرالجہتی مشقیں اس اعتبار کو فراہم کرتی ہیں کیونکہ غیر ملکی فوجی اور افسران ہندوستانی نظام کا براہ راست مشاہدہ کر سکتے ہیں۔"
+    },
+    "b26": {
+      "hi": "यदि संयुक्त अभ्यास के दौरान ड्रोन, रेडियो, हथियार दृष्टि, वाहन घटक या सुरक्षा प्रणाली अच्छा प्रदर्शन करती है, तो यह ब्रोशर की तुलना में अधिक मजबूत प्रभाव पैदा करती है।यही कारण है कि उद्योग जगत तक पहुंच के लिए ऐसे अभ्यासों का उपयोग करने का सेना का निर्णय भारत की रक्षा कूटनीति का एक महत्वपूर्ण हिस्सा बन सकता है।",
+      "en": "If a drone, radio, weapon sight, vehicle component or protection system performs well during a joint exercise, it creates a stronger impression than a brochure. This is why the Army's decision to use such exercises for industry outreach could become an important part of India's defence diplomacy.",
+      "ur": "اگر مشترکہ مشق کے دوران ڈرون، ریڈیو، ہتھیاروں کی نگاہ، گاڑی کا پرزہ یا حفاظتی نظام اچھی کارکردگی کا مظاہرہ کرتا ہے تو یہ بروشر سے زیادہ مضبوط تاثر پیدا کرتا ہے۔یہی وجہ ہے کہ فوج کا اس طرح کی مشقوں کو صنعت تک رسائی کے لیے استعمال کرنے کا فیصلہ ہندوستان کی دفاعی سفارت کاری کا ایک اہم حصہ بن سکتا ہے۔"
+    },
+    "b27": {
+      "hi": "## अवसर और चुनौतियाँ",
+      "en": "## Opportunities and challenges",
+      "ur": "## مواقع اور چیلنجز"
+    },
+    "b28": {
+      "hi": "अवसर स्पष्ट है, लेकिन चुनौतियाँ अभी भी बनी हुई हैं।भारतीय कंपनियों को निरंतर गुणवत्ता, समय पर डिलीवरी, मजबूत रखरखाव समर्थन और स्पष्ट निर्यात प्रक्रियाएं सुनिश्चित करनी चाहिए।छोटी कंपनियों और स्टार्ट-अप को भी प्रमाणन, वित्तपोषण और वैश्विक विपणन में मदद की ज़रूरत है।",
+      "en": "The opportunity is clear, but challenges remain. Indian firms must ensure consistent quality, timely delivery, strong maintenance support and clear export procedures. Smaller companies and start-ups also need help in navigating certification, financing and global marketing.",
+      "ur": "موقع واضح ہے، لیکن چیلنجز باقی ہیں۔ہندوستانی فرموں کو مستقل معیار، بروقت ترسیل، مضبوط دیکھ بھال کی حمایت اور واضح برآمدی طریقہ کار کو یقینی بنانا چاہیے۔چھوٹی کمپنیوں اور اسٹارٹ اپس کو بھی سرٹیفیکیشن، فنانسنگ اور عالمی مارکیٹنگ میں مدد کی ضرورت ہوتی ہے۔"
+    },
+    "b29": {
+      "hi": "मंजूरी को सरल बनाने, परीक्षण बुनियादी ढांचे का समर्थन करने, संयुक्त विकास को प्रोत्साहित करने और भारतीय कंपनियों को अंतरराष्ट्रीय प्रदर्शनियों और सैन्य कार्यक्रमों में भाग लेने में मदद करने में सरकार की भूमिका महत्वपूर्ण रहेगी।सशस्त्र बल समय पर प्रतिक्रिया देकर और क्षेत्र प्रदर्शन के लिए अधिक अवसर पैदा करके मूल्य जोड़ सकते हैं।",
+      "en": "The government's role will remain important in simplifying approvals, supporting testing infrastructure, encouraging joint development and helping Indian firms participate in international exhibitions and military engagements. The armed forces can add value by giving timely feedback and creating more opportunities for field demonstrations.",
+      "ur": "منظوریوں کو آسان بنانے، جانچ کے بنیادی ڈھانچے کی حمایت، مشترکہ ترقی کی حوصلہ افزائی اور بین الاقوامی نمائشوں اور فوجی مصروفیات میں ہندوستانی فرموں کی شرکت میں مدد کرنے میں حکومت کا کردار اہم رہے گا۔مسلح افواج بروقت رائے دے کر اور میدانی مظاہروں کے لیے مزید مواقع پیدا کر کے قدر میں اضافہ کر سکتی ہیں۔"
+    },
+    "b30": {
+      "hi": "## आगे का रास्ता",
+      "en": "## The road ahead",
+      "ur": "## آگے کا راستہ"
+    },
+    "b31": {
+      "hi": "मेघालय में 13 देशों के अभ्यास का समापन भारत की रक्षा मुद्रा में एक बड़े बदलाव की ओर इशारा करता है।मित्र राष्ट्रों के साथ प्रशिक्षण से सैन्य संबंध मजबूत होते हैं, लेकिन ऐसे आयोजनों के दौरान स्वदेशी प्रणालियों का प्रदर्शन एक औद्योगिक और रणनीतिक आयाम जोड़ता है।",
+      "en": "The conclusion of the 13-nation exercise in Meghalaya points to a larger shift in India's defence posture. Training with friendly nations strengthens military ties, but displaying indigenous systems during such events adds an industrial and strategic dimension.",
+      "ur": "میگھالیہ میں 13 ملکی مشق کا اختتام ہندوستان کی دفاعی پوزیشن میں ایک بڑی تبدیلی کی طرف اشارہ کرتا ہے۔دوست ممالک کے ساتھ تربیت فوجی تعلقات کو مضبوط کرتی ہے، لیکن ایسے واقعات کے دوران مقامی نظاموں کی نمائش ایک صنعتی اور اسٹریٹجک جہت کو بڑھاتی ہے۔"
+    },
+    "b32": {
+      "hi": "यदि भारत परिचालन विश्वसनीयता, प्रतिस्पर्धी मूल्य निर्धारण, विश्वसनीय समर्थन और निरंतर नवाचार को जोड़ सकता है, तो बहुपक्षीय अभ्यास रक्षा निर्यात के लिए शक्तिशाली प्रवेश द्वार बन सकते हैं।भारतीय सेना के लिए, मेघालय का संदेश सीधा है: प्रत्येक संयुक्त अभ्यास भारतीय क्षमता, आत्मविश्वास और आत्मनिर्भरता का प्रदर्शन भी बन सकता है।",
+      "en": "If India can combine operational credibility, competitive pricing, reliable support and sustained innovation, multilateral exercises could become powerful gateways for defence exports. For the Indian Army, the message from Meghalaya is straightforward: every joint drill can also become a showcase for Indian capability, confidence and self-reliance.",
+      "ur": "اگر ہندوستان آپریشنل ساکھ، مسابقتی قیمتوں کا تعین، قابل بھروسہ تعاون اور پائیدار اختراع کو یکجا کر سکتا ہے، تو کثیر الجہتی مشقیں دفاعی برآمدات کے لیے طاقتور گیٹ وے بن سکتی ہیں۔ہندوستانی فوج کے لیے، میگھالیہ کا پیغام سیدھا ہے: ہر مشترکہ مشق ہندوستانی صلاحیت، اعتماد اور خود انحصاری کی نمائش بھی بن سکتی ہے۔"
     }
   }
 }
