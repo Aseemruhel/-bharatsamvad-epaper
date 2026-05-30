@@ -1,4 +1,4 @@
-name: Build Bharat Samwad (from Word docs)
+name: Build Bharat Samvad
 
 on:
   push:
@@ -6,10 +6,10 @@ on:
     paths:
       - 'content/**'
       - 'scripts/**'
-  workflow_dispatch:
+  workflow_dispatch:   # also lets you run it manually from the Actions tab
 
 permissions:
-  contents: write
+  contents: write       # needed to commit generated HTML back
 
 jobs:
   build:
@@ -23,14 +23,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install pandoc (Word reader)
-        run: sudo apt-get update && sudo apt-get install -y pandoc
-
-      - name: Install Python deps
-        run: pip install --quiet googletrans==4.0.0rc1 httpx==0.13.3
+      - name: Install dependencies
+        run: pip install --quiet anthropic
 
       - name: Run build
-        run: python scripts/build_from_docx.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/build_from_markdown.py
 
       - name: Commit generated HTML
         run: |
@@ -40,6 +39,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Nothing to commit."
           else
-            git commit -m "Auto-build articles from Word docs [skip ci]"
+            git commit -m "Auto-build articles [skip ci]"
             git push
           fi
