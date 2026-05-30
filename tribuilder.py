@@ -136,7 +136,7 @@ BAR = '''  <div class="langbar">
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>'''
 
-MAST = {"hi":"भारत संवाद","en":"Bharat Samvad","ur":"بھارت سنواد"}
+MAST = {"hi":"भारत संवाद","en":"Bharat Samwad","ur":"بھارت سنواد"}
 
 def block(typ, txt):
     if typ=="lead": return f'<p class="lead">{txt}</p>'
@@ -187,7 +187,7 @@ def render_lang(lang, A, photo_b64=None):
     <div class="strip">
       <span>{A["strip_left"]}</span>
       <span class="mid">{A["strip_mid"]}</span>
-      <span>{A["date"]} · bharatsamvad-epaper</span>
+      <span>{A["date"]} · bharatsamwad-epaper</span>
     </div>
     <span class="kicker">{A["kicker"]}</span>
     <h2 class="headline">{A["head"]}</h2>
