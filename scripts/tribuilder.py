@@ -79,8 +79,8 @@ def _social_meta(out_path, langs, default_lang):
     # Prefer the English headline/subdeck for the card (wider audience on X);
     # fall back to default-language block if no English block exists.
     src = langs.get("en") or langs.get(default_lang) or next(iter(langs.values()))
-    og_title = src.get("head") or "Bharat Samvad"
-    og_desc  = src.get("sub")  or "Bharat Samvad — Trilingual e-paper"
+    og_title = src.get("head") or "Bharat Samwad"
+    og_desc  = src.get("sub")  or "Bharat Samwad — Trilingual e-paper"
     og_locale = LANG_META.get(default_lang, LANG_META["hi"])["og_locale"]
     filename = Path(out_path).name
     page_url = f"{SITE_URL.rstrip('/')}/{filename}"
