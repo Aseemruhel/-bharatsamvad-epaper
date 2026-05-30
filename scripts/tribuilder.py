@@ -1,10 +1,19 @@
 import html
 from pathlib import Path
 
+# ========================================================================
+# Site URL — used to build canonical & OG URLs for social previews (X etc).
+# Change this to your live domain. If bharatsamwad.org isn't fully resolving
+# yet (DNS still propagating), temporarily set this to
+#   "https://bharatsamvad-epaper.pages.dev"
+# so X / WhatsApp can still fetch og-default.jpg.
+# ========================================================================
+SITE_URL = "https://bharatsamwad.org"
+
 LANG_META = {
-    "hi": {"button": "हिंदी", "class": "lang-hi", "dir": "ltr", "masthead": "भारत संवाद"},
-    "en": {"button": "English", "class": "lang-en", "dir": "ltr", "masthead": "Bharat Samvad"},
-    "ur": {"button": "اردو", "class": "lang-ur", "dir": "rtl", "masthead": "بھارت سنواد"},
+    "hi": {"button": "हिंदी", "class": "lang-hi", "dir": "ltr", "masthead": "भारत संवाद", "og_locale": "hi_IN"},
+    "en": {"button": "English", "class": "lang-en", "dir": "ltr", "masthead": "Bharat Samvad", "og_locale": "en_IN"},
+    "ur": {"button": "اردو", "class": "lang-ur", "dir": "rtl", "masthead": "بھارت سنواد", "og_locale": "ur_PK"},
 }
 
 def _read_template(name):
@@ -13,6 +22,10 @@ def _read_template(name):
 
 def _e(value):
     return html.escape(str(value), quote=False)
+
+def _attr(value):
+    # For HTML attributes: also escape quotes.
+    return html.escape(str(value), quote=True)
 
 def _render_body(article):
     parts = []
@@ -61,6 +74,33 @@ def _render_lang(lang, article):
     </div>
   </div>'''
 
+def _social_meta(out_path, langs, default_lang):
+    """Build OG + Twitter Card meta tags for inline previews on X, WhatsApp etc."""
+    # Prefer the English headline/subdeck for the card (wider audience on X);
+    # fall back to default-language block if no English block exists.
+    src = langs.get("en") or langs.get(default_lang) or next(iter(langs.values()))
+    og_title = src.get("head") or "Bharat Samvad"
+    og_desc  = src.get("sub")  or "Bharat Samvad — Trilingual e-paper"
+    og_locale = LANG_META.get(default_lang, LANG_META["hi"])["og_locale"]
+    filename = Path(out_path).name
+    page_url = f"{SITE_URL.rstrip('/')}/{filename}"
+    img_url  = f"{SITE_URL.rstrip('/')}/og-default.jpg"
+    return f'''<meta property="og:type" content="article">
+<meta property="og:site_name" content="Bharat Samvad">
+<meta property="og:title" content="{_attr(og_title)}">
+<meta property="og:description" content="{_attr(og_desc)}">
+<meta property="og:url" content="{_attr(page_url)}">
+<meta property="og:image" content="{_attr(img_url)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Bharat Samvad — सत्य · संतुलन · सरोकार">
+<meta property="og:locale" content="{og_locale}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{_attr(og_title)}">
+<meta name="twitter:description" content="{_attr(og_desc)}">
+<meta name="twitter:image" content="{_attr(img_url)}">
+<link rel="canonical" href="{_attr(page_url)}">'''
+
 def build(out_path, title, langs):
     css = _read_template("_style.tmp") + "\n" + _read_template("_urdu.tmp")
     buttons = "\n".join(
@@ -69,12 +109,14 @@ def build(out_path, title, langs):
     )
     blocks = "\n".join(_render_lang(lang, langs[lang]) for lang in ("hi","en","ur") if lang in langs)
     default_lang = "hi" if "hi" in langs else next(iter(langs))
+    social = _social_meta(out_path, langs, default_lang)
     doc = f'''<!DOCTYPE html>
 <html lang="{default_lang}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{_e(title)}</title>
+{social}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@0;1&family=Mukta:wght@400;500;600;700&family=Khand:wght@500;600;700&family=Rozha+One&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
