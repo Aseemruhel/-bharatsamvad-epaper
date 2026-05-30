@@ -1,4 +1,4 @@
-name: Build Bharat Samvad
+name: Build Bharat Samwad (from Word docs)
 
 on:
   push:
@@ -6,33 +6,31 @@ on:
     paths:
       - 'content/**'
       - 'scripts/**'
-      - '.github/workflows/build.yml'
   workflow_dispatch:
 
 permissions:
   contents: write
-concurrency:
-  group: bharat-samvad-build-main
-  cancel-in-progress: true
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
+      - name: Install pandoc (Word reader)
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Install Python deps
+        run: pip install --quiet googletrans==4.0.0rc1 httpx==0.13.3
+
       - name: Run build
-        run: python scripts/build_from_markdown.py
+        run: python scripts/build_from_docx.py
 
       - name: Commit generated HTML
         run: |
@@ -42,6 +40,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Nothing to commit."
           else
-            git commit -m "Auto-build articles [skip ci]"
+            git commit -m "Auto-build articles from Word docs [skip ci]"
             git push
           fi
