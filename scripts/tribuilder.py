@@ -12,7 +12,7 @@ SITE_URL = "https://bharatsamwad.org"
 
 LANG_META = {
     "hi": {"button": "हिंदी", "class": "lang-hi", "dir": "ltr", "masthead": "भारत संवाद", "og_locale": "hi_IN"},
-    "en": {"button": "English", "class": "lang-en", "dir": "ltr", "masthead": "Bharat Samvad", "og_locale": "en_IN"},
+    "en": {"button": "English", "class": "lang-en", "dir": "ltr", "masthead": "Bharat Samwad", "og_locale": "en_IN"},
     "ur": {"button": "اردو", "class": "lang-ur", "dir": "rtl", "masthead": "بھارت سنواد", "og_locale": "ur_PK"},
 }
 
@@ -86,14 +86,14 @@ def _social_meta(out_path, langs, default_lang):
     page_url = f"{SITE_URL.rstrip('/')}/{filename}"
     img_url  = f"{SITE_URL.rstrip('/')}/og-default.jpg"
     return f'''<meta property="og:type" content="article">
-<meta property="og:site_name" content="Bharat Samvad">
+<meta property="og:site_name" content="Bharat Samwad">
 <meta property="og:title" content="{_attr(og_title)}">
 <meta property="og:description" content="{_attr(og_desc)}">
 <meta property="og:url" content="{_attr(page_url)}">
 <meta property="og:image" content="{_attr(img_url)}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Bharat Samvad — सत्य · संतुलन · सरोकार">
+<meta property="og:image:alt" content="Bharat Samwad — सत्य · संतुलन · सरोकार">
 <meta property="og:locale" content="{og_locale}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{_attr(og_title)}">
