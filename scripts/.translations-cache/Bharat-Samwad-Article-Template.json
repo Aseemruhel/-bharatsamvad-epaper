@@ -1,0 +1,130 @@
+{
+  "hash": "d9489368de7e29ba",
+  "t": {
+    "fm.section": {
+      "hi": "विदेश नीति",
+      "en": "Foreign Policy",
+      "ur": "خارجہ پالیسی"
+    },
+    "fm.kicker": {
+      "hi": "कूटनीति · सुरक्षा",
+      "en": "Diplomacy · Security",
+      "ur": "ڈپلومیسی · سیکورٹی"
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "मॉस्को बैठक में भारत और रूस ने नए रक्षा समझौते पर हस्ताक्षर किए",
+      "en": "India and Russia sign new defence pact in Moscow meeting",
+      "ur": "ماسکو میٹنگ میں ہندوستان اور روس نے نئے دفاعی معاہدے پر دستخط کیے۔"
+    },
+    "fm.subdeck": {
+      "hi": "लेख का एक संक्षिप्त, एक-पंक्ति सारांश यहां दिया गया है।",
+      "en": "A short, one-line summary of the article goes here.",
+      "ur": "مضمون کا ایک مختصر، ایک سطری خلاصہ یہاں ہے۔"
+    },
+    "b0": {
+      "hi": "भारत और रूस ने शुक्रवार को मॉस्को में एक उच्च स्तरीय बैठक के दौरान प्रौद्योगिकी हस्तांतरण, संयुक्त विनिर्माण और दीर्घकालिक साझेदारी में सहयोग को गहरा करते हुए एक रणनीतिक रक्षा समझौते पर हस्ताक्षर किए।",
+      "en": "India and Russia on Friday signed a strategic defence agreement during a high-level meeting in Moscow, deepening cooperation in technology transfer, joint manufacturing and long-term partnership.",
+      "ur": "ہندوستان اور روس نے جمعہ کو ماسکو میں ایک اعلیٰ سطحی میٹنگ کے دوران ایک اسٹریٹجک دفاعی معاہدے پر دستخط کیے، جس میں ٹیکنالوجی کی منتقلی، مشترکہ مینوفیکچرنگ اور طویل مدتی شراکت داری میں تعاون کو مزید گہرا کیا گیا۔"
+    },
+    "b1": {
+      "hi": "बस सामान्य पैराग्राफ लिखें - प्रत्येक खाली पंक्ति एक नया पैराग्राफ शुरू करती है।",
+      "en": "Just write normal paragraphs — each blank line starts a new paragraph.",
+      "ur": "صرف عام پیراگراف لکھیں - ہر خالی لائن ایک نیا پیراگراف شروع کرتی ہے۔"
+    },
+    "b2": {
+      "hi": "समझौते में क्या शामिल है",
+      "en": "What the agreement covers",
+      "ur": "معاہدے کا احاطہ کیا ہے۔"
+    },
+    "b3": {
+      "hi": "अधिकारियों के अनुसार, रूपरेखा रक्षा प्रौद्योगिकी, संयुक्त विनिर्माण और प्रशिक्षण तक फैली हुई है।इसमें उभरती प्रौद्योगिकियों और आपूर्ति-श्रृंखला लचीलेपन पर सहयोग की भी परिकल्पना की गई है।",
+      "en": "According to officials, the framework spans defence technology, joint manufacturing and training. It also envisages collaboration on emerging technologies and supply-chain resilience.",
+      "ur": "حکام کے مطابق یہ فریم ورک دفاعی ٹیکنالوجی، مشترکہ تیاری اور تربیت پر محیط ہے۔یہ ابھرتی ہوئی ٹیکنالوجیز اور سپلائی چین لچک پر بھی تعاون کا تصور کرتا ہے۔"
+    },
+    "b4.title": {
+      "hi": "समझौता एक नज़र में",
+      "en": "The Agreement at a Glance",
+      "ur": "ایک نظر میں معاہدہ"
+    },
+    "b4.il.0": {
+      "hi": "क्या",
+      "en": "What",
+      "ur": "کیا"
+    },
+    "b4.iv.0": {
+      "hi": "रणनीतिक भारत-रूस रक्षा ढांचा",
+      "en": "Strategic India-Russia defence framework",
+      "ur": "اسٹریٹجک انڈیا روس دفاعی فریم ورک"
+    },
+    "b4.il.1": {
+      "hi": "कब कहां",
+      "en": "When/Where",
+      "ur": "کب/کہاں"
+    },
+    "b4.iv.1": {
+      "hi": "मॉस्को, 30 मई 2026",
+      "en": "Moscow, 30 May 2026",
+      "ur": "ماسکو، 30 مئی 2026"
+    },
+    "b4.il.2": {
+      "hi": "दायरा",
+      "en": "Scope",
+      "ur": "دائرہ کار"
+    },
+    "b4.iv.2": {
+      "hi": "प्रौद्योगिकी हस्तांतरण, संयुक्त विनिर्माण, प्रशिक्षण",
+      "en": "Technology transfer, joint manufacturing, training",
+      "ur": "ٹیکنالوجی کی منتقلی، مشترکہ مینوفیکچرنگ، تربیت"
+    },
+    "b4.il.3": {
+      "hi": "केंद्र",
+      "en": "Focus",
+      "ur": "فوکس"
+    },
+    "b4.iv.3": {
+      "hi": "दीर्घकालिक साझेदारी",
+      "en": "Long-term partnership",
+      "ur": "طویل مدتی شراکت داری"
+    },
+    "b5.q": {
+      "hi": "\"यह समझौता भारत-रूस रणनीतिक साझेदारी की गहराई और निरंतरता को दर्शाता है।\"",
+      "en": "\"This agreement reflects the depth and continuity of the India-Russia strategic partnership.\"",
+      "ur": "\"یہ معاہدہ ہندوستان روس اسٹریٹجک شراکت داری کی گہرائی اور تسلسل کی عکاسی کرتا ہے۔\""
+    },
+    "b5.c": {
+      "hi": "- वरिष्ठ अधिकारी (शब्दांश में)",
+      "en": "— Senior official (paraphrased)",
+      "ur": "- سینئر اہلکار (تفصیلی)"
+    },
+    "b6": {
+      "hi": "इसका क्या मतलब है",
+      "en": "What it means",
+      "ur": "اس کا کیا مطلب ہے۔"
+    },
+    "b7": {
+      "hi": "विशेषज्ञों का मानना ​​है कि यह रूपरेखा दोनों देशों को अधिक रणनीतिक लचीलापन प्रदान करेगी।संयुक्त विनिर्माण, विशेष रूप से, भारत के भीतर नए औद्योगिक अवसर पैदा कर सकता है।",
+      "en": "Experts believe the framework will give both countries greater strategic flexibility. Joint manufacturing, in particular, could create new industrial opportunities within India.",
+      "ur": "ماہرین کا خیال ہے کہ یہ فریم ورک دونوں ممالک کو زیادہ اسٹریٹجک لچک فراہم کرے گا۔مشترکہ مینوفیکچرنگ، خاص طور پر، ہندوستان کے اندر نئے صنعتی مواقع پیدا کر سکتی ہے۔"
+    },
+    "b8": {
+      "hi": "आगे का रास्ता",
+      "en": "The road ahead",
+      "ur": "آگے کی سڑک"
+    },
+    "b9": {
+      "hi": "कुल मिलाकर, यह समझौता लंबे समय से चली आ रही भारत-रूस साझेदारी में एक नया कदम है।इसका वास्तविक प्रभाव इस बात पर निर्भर करेगा कि आने वाले महीनों में कार्यान्वयन के चरण कैसे सामने आते हैं।",
+      "en": "Overall, the agreement is a fresh step in the long-running India-Russia partnership. Its real impact will depend on how the implementation phases unfold over the coming months.",
+      "ur": "مجموعی طور پر، یہ معاہدہ طویل عرصے سے جاری ہندوستان-روس شراکت داری میں ایک تازہ قدم ہے۔اس کا حقیقی اثر اس بات پر منحصر ہوگا کہ آنے والے مہینوں میں عمل درآمد کے مراحل کیسے سامنے آتے ہیں۔"
+    }
+  }
+}
