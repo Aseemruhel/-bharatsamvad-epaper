@@ -4,25 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>भारत संवाद · Bharat Samvad · بھارت سنواد</title>
-<meta property="og:type" content="article">
-<meta property="og:site_name" content="Bharat Samwad">
-<meta property="og:title" content="India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit">
-<meta property="og:description" content="The upcoming India-Africa Forum Summit is expected to deepen cooperation in trade, technology, healthcare, energy and innovation, reinforcing a shared vision for growth and resilience across the Global South.">
-<meta property="og:url" content="https://bharatsamwad.org/bharatsamvad-2026-05-29-page03.html">
-<meta property="og:image" content="https://bharatsamwad.org/og-default.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Bharat Samwad — सत्य · संतुलन · सरोकार">
-<meta property="og:locale" content="hi_IN">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit">
-<meta name="twitter:description" content="The upcoming India-Africa Forum Summit is expected to deepen cooperation in trade, technology, healthcare, energy and innovation, reinforcing a shared vision for growth and resilience across the Global South.">
-<meta name="twitter:image" content="https://bharatsamwad.org/og-default.jpg">
-<link rel="canonical" href="https://bharatsamwad.org/bharatsamvad-2026-05-29-page03.html">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@0;1&family=Mukta:wght@400;500;600;700&family=Khand:wght@500;600;700&family=Rozha+One&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
+.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+
 :root{
   --paper:#f4efe2;--paper-edge:#e7dfca;--ink:#1a1714;--ink-soft:#3a342c;--rule:#26221c;--accent:#9a1b1b;--accent-dk:#6f1212;--gold:#8a6d2f;
 }
@@ -94,19 +90,60 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 @media(max-width:680px){.sheet{padding:20px 18px 30px}.masthead h1{font-size:48px}.headline{font-size:32px}.body{column-count:1}.strip{flex-direction:column;gap:3px;text-align:center}}
 @media print{body{background:#fff;padding:0}.sheet{box-shadow:none}}
 
+
+/* ===== language toggle ===== */
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;
+  background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;
+  font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;
+  padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none;} .langblock.show{display:block;}
 .lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
 .lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
 .lang-ur .body{direction:rtl;text-align:right;}
 .lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
 .lang-ur .body h3{line-height:2.2;}
-.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
 .lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
 .lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
-.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
-.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box li{line-height:2.2;}
 .lang-ur .box h4{border-bottom:2px solid var(--accent);}
-.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
-.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+.lang-ur .pull{text-align:right;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+/* news photo */
+.newsfig{column-span:all;break-inside:avoid;margin:4px 0 16px;}
+.newsfig img{width:100%;height:auto;display:block;border:1px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);}
+.newsfig figcaption{font-family:"Mukta",sans-serif;font-size:12.5px;line-height:1.4;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid #cbbfa3;}
+.newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
+.lang-ur .newsfig figcaption{text-align:right;}
+/* ===== poll widget ===== */
+.bs-poll{break-inside:avoid;column-span:all;background:#efe7d3;border:1.5px solid var(--ink);
+  border-top:4px solid var(--accent);box-shadow:3px 3px 0 rgba(38,34,28,.18);
+  padding:18px 20px 16px;margin:8px 0 18px;}
+.bs-poll .eyebrow{font-family:'Khand',sans-serif;font-weight:700;letter-spacing:3px;font-size:11px;
+  text-transform:uppercase;color:#fff;background:var(--accent);display:inline-block;padding:3px 11px;margin-bottom:10px;}
+.bs-poll h4{font-family:'Rozha One',Georgia,serif;font-size:21px;line-height:1.25;color:var(--ink);margin-bottom:14px;border:none;padding:0;}
+.bs-poll .opt{display:block;width:100%;text-align:left;font-family:inherit;font-size:15px;color:var(--ink);
+  background:var(--paper);border:1.5px solid var(--ink);padding:11px 14px;margin-bottom:9px;cursor:pointer;
+  position:relative;overflow:hidden;transition:transform .1s;}
+.bs-poll .opt:hover{transform:translateX(3px);}
+.bs-poll .opt .barfill{position:absolute;inset:0;background:rgba(154,27,27,.16);width:0;transition:width .5s ease;z-index:0;}
+.bs-poll .opt .lbl{position:relative;z-index:1;display:flex;justify-content:space-between;gap:10px;}
+.bs-poll .opt .pct{font-weight:bold;color:var(--accent-dk);font-family:'Khand',sans-serif;}
+.bs-poll.voted .opt{cursor:default;}
+.bs-poll.voted .opt:hover{transform:none;}
+.bs-poll .meta{font-family:'Mukta',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:8px;
+  display:flex;justify-content:space-between;align-items:center;gap:10px;}
+.bs-poll .thanks{color:var(--accent-dk);font-weight:600;}
+.lang-ur .bs-poll h4{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .bs-poll .opt{text-align:right;font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .bs-poll .opt:hover{transform:translateX(-3px);}
+.lang-ur .bs-poll .meta{flex-direction:row-reverse;}
 
 </style>
 </head>
@@ -117,129 +154,132 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>
   <div class="sheet">
-
   <div class="langblock lang-hi" data-lang="hi">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-  <a href="index.html" class="home-logo" title="Home">
-    <h1 style="font-size:36px;">भारत संवाद</h1>
-  </a>
-</div>
+      <h1 style="font-size:36px;">भारत संवाद</h1>
+    </div>
     <div class="strip">
       <span>पृष्ठ 03 · विदेश नीति</span>
       <span class="mid">विशेष रिपोर्ट</span>
       <span>शुक्रवार, 29 मई 2026 · bharatsamwad-epaper</span>
     </div>
-    <a class="back-home-btn" href="index.html">← Back to Main Menu</a>
     <span class="kicker">कूटनीति ·</span>
     <h2 class="headline">चौथे फोरम शिखर सम्मेलन से पहले भारत और अफ्रीका ने रणनीतिक साझेदारी को मजबूत किया</h2>
     <p class="subdeck">आगामी भारत-अफ्रीका फोरम शिखर सम्मेलन से व्यापार, प्रौद्योगिकी, स्वास्थ्य देखभाल, ऊर्जा और नवाचार में सहयोग गहरा होने की उम्मीद है, जिससे वैश्विक दक्षिण में विकास और लचीलेपन के लिए एक साझा दृष्टिकोण मजबूत होगा।</p>
     <div class="byline"><b>विशेष संवाददाता</b> · नई दिल्ली</div>
     <div class="body">
-<p class="lead">भारत इस वर्ष चौथे भारत-अफ्रीका फोरम शिखर सम्मेलन की मेजबानी करने की तैयारी कर रहा है, जो वैश्विक दक्षिण में सबसे महत्वपूर्ण साझेदारियों में से एक के लिए नए सिरे से प्रतिबद्धता का संकेत है। व्यापार, प्रौद्योगिकी, बुनियादी ढांचे, स्वास्थ्य देखभाल और सतत विकास में सहयोग बढ़ाने के उद्देश्य से चर्चा में पूरे अफ्रीका के नेताओं और प्रतिनिधियों के भाग लेने की उम्मीद है।</p>
-<p>शिखर सम्मेलन को भारत और अफ्रीकी देशों के बीच राजनीतिक समन्वय को मजबूत करने और दीर्घकालिक आर्थिक लचीलापन बनाने की दिशा में एक महत्वपूर्ण कदम के रूप में देखा जा रहा है। अधिकारियों और राजनयिकों ने साझेदारी को समानता, आपसी सम्मान और साझा विकासात्मक प्राथमिकताओं पर आधारित बताया है।</p>
-<h3>समझौते में क्या शामिल है</h3>
-<p>अधिकारियों के अनुसार, रूपरेखा रक्षा प्रौद्योगिकी, संयुक्त विनिर्माण और प्रशिक्षण तक फैली हुई है। इसमें उभरती प्रौद्योगिकियों और आपूर्ति-श्रृंखला लचीलेपन पर सहयोग की भी परिकल्पना की गई है।</p>
-<p>समझौते का पाठ आने वाले दिनों में सार्वजनिक किए जाने की उम्मीद है। अधिकारियों ने कहा कि कार्यान्वयन चरणों में किया जाएगा।</p>
-<div class="box"><h4>भारत-अफ्रीका साझेदारी एक नज़र में</h4><ul></ul></div>
-<p>मंच - भारत-अफ्रीका फोरम शिखर सम्मेलन पहला शिखर सम्मेलन - नई दिल्ली, 2008 प्रमुख क्षेत्र - व्यापार, प्रौद्योगिकी, स्वास्थ्य देखभाल, बुनियादी ढांचा, ऊर्जा वर्तमान व्यापार मात्रा - अफ्रीका में लगभग 100 अरब डॉलर का भारतीय निवेश - 80 अरब डॉलर से अधिक छात्रवृत्तियां प्रदान की गईं - पिछले दशक में लगभग 80,000</p>
-<div class="pull">""भारत और अफ्रीका अधिक समावेशी वैश्विक व्यवस्था को आकार देने में न केवल भागीदार हैं, बल्कि सक्रिय भागीदार भी हैं।""<cite>- राजनयिक मूल्यांकन (संक्षेप में)</cite></div>
-<h3>इसका क्या मतलब है</h3>
-<p>विशेषज्ञों का मानना ​​है कि यह रूपरेखा दोनों देशों को अधिक रणनीतिक लचीलापन प्रदान करेगी। संयुक्त विनिर्माण, विशेष रूप से, भारत के भीतर नए औद्योगिक अवसर पैदा कर सकता है।</p>
-<h3>आगे का रास्ता</h3>
-<p>चौथा भारत-अफ्रीका फोरम शिखर सम्मेलन बढ़ती भू-राजनीतिक अनिश्चितता, तकनीकी परिवर्तन और बदलते आर्थिक संरेखण के समय हो रहा है। भारत और अफ्रीकी दोनों देशों के लिए, साझेदारी को वैश्विक दक्षिण में लचीलापन बनाने के केंद्र के रूप में देखा जा रहा है।</p>
-<p>राजनयिकों और विश्लेषकों का मानना ​​है कि शिखर सम्मेलन वैश्विक मुद्दों पर राजनीतिक समन्वय को मजबूत करते हुए ऊर्जा सुरक्षा, आपूर्ति श्रृंखला, विनिर्माण, नवाचार और डिजिटल कनेक्टिविटी में सहयोग में तेजी लाने में मदद कर सकता है।</p>
-<p>कुल मिलाकर, भारत-अफ्रीका साझेदारी साझा विकासात्मक लक्ष्यों, आर्थिक संबंधों के विस्तार और अधिक संतुलित अंतर्राष्ट्रीय व्यवस्था के लिए एक आम दृष्टिकोण के आधार पर एक नए चरण में प्रवेश कर रही है। आगामी शिखर सम्मेलन की सफलता इस बात पर निर्भर करेगी कि इन महत्वाकांक्षाओं को व्यावहारिक और दीर्घकालिक सहयोग ढांचे में कितने प्रभावी ढंग से अनुवादित किया जाता है।</p>
+<p class="lead">भारत इस वर्ष चौथे भारत-अफ्रीका फोरम शिखर सम्मेलन की मेजबानी करने की तैयारी कर रहा है, जो वैश्विक दक्षिण में सबसे महत्वपूर्ण साझेदारियों में से एक के लिए नए सिरे से प्रतिबद्धता का संकेत है। व्यापार, प्रौद्योगिकी, बुनियादी ढांचे, स्वास्थ्य देखभाल और सतत विकास में सहयोग बढ़ाने के उद्देश्य से चर्चा में पूरे अफ्रीका के नेताओं और प्रतिनिधियों के भाग लेने की उम्मीद है।</p><p>शिखर सम्मेलन को भारत और अफ्रीकी देशों के बीच राजनीतिक समन्वय को मजबूत करने और दीर्घकालिक आर्थिक लचीलापन बनाने की दिशा में एक महत्वपूर्ण कदम के रूप में देखा जा रहा है। अधिकारियों और राजनयिकों ने साझेदारी को समानता, आपसी सम्मान और साझा विकासात्मक प्राथमिकताओं पर आधारित बताया है।</p><h3>समझौते में क्या शामिल है</h3><p>अधिकारियों के अनुसार, रूपरेखा रक्षा प्रौद्योगिकी, संयुक्त विनिर्माण और प्रशिक्षण तक फैली हुई है। इसमें उभरती प्रौद्योगिकियों और आपूर्ति-श्रृंखला लचीलेपन पर सहयोग की भी परिकल्पना की गई है।</p><p>समझौते का पाठ आने वाले दिनों में सार्वजनिक किए जाने की उम्मीद है। अधिकारियों ने कहा कि कार्यान्वयन चरणों में किया जाएगा।</p><div class="box"><h4>भारत-अफ्रीका साझेदारी एक नज़र में</h4><ul></ul></div><p>मंच - भारत-अफ्रीका फोरम शिखर सम्मेलन पहला शिखर सम्मेलन - नई दिल्ली, 2008 प्रमुख क्षेत्र - व्यापार, प्रौद्योगिकी, स्वास्थ्य देखभाल, बुनियादी ढांचा, ऊर्जा वर्तमान व्यापार मात्रा - अफ्रीका में लगभग 100 अरब डॉलर का भारतीय निवेश - 80 अरब डॉलर से अधिक छात्रवृत्तियां प्रदान की गईं - पिछले दशक में लगभग 80,000</p><div class="pull">"भारत और अफ्रीका अधिक समावेशी वैश्विक व्यवस्था को आकार देने में न केवल भागीदार हैं, बल्कि सक्रिय भागीदार भी हैं।"<cite>- राजनयिक मूल्यांकन (संक्षेप में)</cite></div><h3>इसका क्या मतलब है</h3><p>विशेषज्ञों का मानना ​​है कि यह रूपरेखा दोनों देशों को अधिक रणनीतिक लचीलापन प्रदान करेगी। संयुक्त विनिर्माण, विशेष रूप से, भारत के भीतर नए औद्योगिक अवसर पैदा कर सकता है।</p><h3>आगे का रास्ता</h3><p>चौथा भारत-अफ्रीका फोरम शिखर सम्मेलन बढ़ती भू-राजनीतिक अनिश्चितता, तकनीकी परिवर्तन और बदलते आर्थिक संरेखण के समय हो रहा है। भारत और अफ्रीकी दोनों देशों के लिए, साझेदारी को वैश्विक दक्षिण में लचीलापन बनाने के केंद्र के रूप में देखा जा रहा है।</p><p>राजनयिकों और विश्लेषकों का मानना ​​है कि शिखर सम्मेलन वैश्विक मुद्दों पर राजनीतिक समन्वय को मजबूत करते हुए ऊर्जा सुरक्षा, आपूर्ति श्रृंखला, विनिर्माण, नवाचार और डिजिटल कनेक्टिविटी में सहयोग में तेजी लाने में मदद कर सकता है।</p><p>कुल मिलाकर, भारत-अफ्रीका साझेदारी साझा विकासात्मक लक्ष्यों, आर्थिक संबंधों के विस्तार और अधिक संतुलित अंतर्राष्ट्रीय व्यवस्था के लिए एक आम दृष्टिकोण के आधार पर एक नए चरण में प्रवेश कर रही है। आगामी शिखर सम्मेलन की सफलता इस बात पर निर्भर करेगी कि इन महत्वाकांक्षाओं को व्यावहारिक और दीर्घकालिक सहयोग ढांचे में कितने प्रभावी ढंग से अनुवादित किया जाता है।</p>
     </div>
     <div class="foot">
       <span>भारत संवाद · विदेश नीति डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 03</span>
     </div>
   </div>
-
   <div class="langblock lang-en" data-lang="en">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-  <a href="index.html" class="home-logo" title="Home">
-    <h1 style="font-size:36px;">Bharat Samwad</h1>
-  </a>
-</div>
+      <h1 style="font-size:36px;">Bharat Samwad</h1>
+    </div>
     <div class="strip">
       <span>Page 03 · Foreign Policy</span>
       <span class="mid">Special Report</span>
       <span>Friday, 29 May 2026 · bharatsamwad-epaper</span>
     </div>
-    <a class="back-home-btn" href="index.html">← Back to Main Menu</a>
     <span class="kicker">Diplomacy ·</span>
     <h2 class="headline">India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit</h2>
     <p class="subdeck">The upcoming India-Africa Forum Summit is expected to deepen cooperation in trade, technology, healthcare, energy and innovation, reinforcing a shared vision for growth and resilience across the Global South.</p>
     <div class="byline"><b>Special Correspondent</b> · New Delhi</div>
     <div class="body">
-<p class="lead">India is preparing to host the fourth India-Africa Forum Summit this year, signalling a renewed commitment to one of the most significant partnerships in the Global South. Leaders and representatives from across Africa are expected to participate in discussions aimed at expanding cooperation in trade, technology, infrastructure, healthcare and sustainable development.</p>
-<p>The summit is being viewed as an important step toward strengthening political coordination and building long-term economic resilience between India and African nations. Officials and diplomats have described the partnership as one based on equality, mutual respect and shared developmental priorities.</p>
-<h3>What the agreement covers</h3>
-<p>According to officials, the framework spans defence technology, joint manufacturing and training. It also envisages collaboration on emerging technologies and supply-chain resilience.</p>
-<p>The text of the agreement is expected to be made public in the coming days. Officials said implementation will be carried out in phases.</p>
-<div class="box"><h4>India-Africa Partnership at a Glance</h4><ul></ul></div>
-<p>Platform — India-Africa Forum Summit First Summit — New Delhi, 2008 Key Areas — Trade, technology, healthcare, infrastructure, energy Current Trade Volume — Nearly $100 billion Indian Investment in Africa — More than $80 billion Scholarships Provided — Around 80,000 over the last decade</p>
-<div class="pull">"“India and Africa are not merely partners, but active participants in shaping a more inclusive global order.”"<cite>— Diplomatic assessment (paraphrased)</cite></div>
-<h3>What it means</h3>
-<p>Experts believe the framework will give both countries greater strategic flexibility. Joint manufacturing, in particular, could create new industrial opportunities within India.</p>
-<h3>The road ahead</h3>
-<p>The fourth India-Africa Forum Summit comes at a time of growing geopolitical uncertainty, technological transformation and shifting economic alignments. For both India and African countries, the partnership is increasingly seen as central to building resilience in the Global South.</p>
-<p>Diplomats and analysts believe the summit could help accelerate cooperation in energy security, supply chains, manufacturing, innovation and digital connectivity while reinforcing political coordination on global issues.</p>
-<p>Overall, the India-Africa partnership is entering a new phase shaped by shared developmental goals, expanding economic ties and a common vision for a more balanced international order. The success of the upcoming summit will depend on how effectively these ambitions are translated into practical and long-term cooperation frameworks.</p>
+<p class="lead">India is preparing to host the fourth India-Africa Forum Summit this year, signalling a renewed commitment to one of the most significant partnerships in the Global South. Leaders and representatives from across Africa are expected to participate in discussions aimed at expanding cooperation in trade, technology, infrastructure, healthcare and sustainable development.</p><p>The summit is being viewed as an important step toward strengthening political coordination and building long-term economic resilience between India and African nations. Officials and diplomats have described the partnership as one based on equality, mutual respect and shared developmental priorities.</p><h3>What the agreement covers</h3><p>According to officials, the framework spans defence technology, joint manufacturing and training. It also envisages collaboration on emerging technologies and supply-chain resilience.</p><p>The text of the agreement is expected to be made public in the coming days. Officials said implementation will be carried out in phases.</p><div class="box"><h4>India-Africa Partnership at a Glance</h4><ul></ul></div><p>Platform — India-Africa Forum Summit First Summit — New Delhi, 2008 Key Areas — Trade, technology, healthcare, infrastructure, energy Current Trade Volume — Nearly $100 billion Indian Investment in Africa — More than $80 billion Scholarships Provided — Around 80,000 over the last decade</p><div class="pull">“India and Africa are not merely partners, but active participants in shaping a more inclusive global order.”<cite>— Diplomatic assessment (paraphrased)</cite></div><h3>What it means</h3><p>Experts believe the framework will give both countries greater strategic flexibility. Joint manufacturing, in particular, could create new industrial opportunities within India.</p><h3>The road ahead</h3><p>The fourth India-Africa Forum Summit comes at a time of growing geopolitical uncertainty, technological transformation and shifting economic alignments. For both India and African countries, the partnership is increasingly seen as central to building resilience in the Global South.</p><p>Diplomats and analysts believe the summit could help accelerate cooperation in energy security, supply chains, manufacturing, innovation and digital connectivity while reinforcing political coordination on global issues.</p><p>Overall, the India-Africa partnership is entering a new phase shaped by shared developmental goals, expanding economic ties and a common vision for a more balanced international order. The success of the upcoming summit will depend on how effectively these ambitions are translated into practical and long-term cooperation frameworks.</p>
     </div>
     <div class="foot">
       <span>Bharat Samvad · Foreign Policy Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 03</span>
     </div>
   </div>
-
   <div class="langblock lang-ur" dir="rtl" data-lang="ur">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-  <a href="index.html" class="home-logo" title="Home">
-    <h1 style="font-size:36px;">بھارت سنواد</h1>
-  </a>
-</div>
+      <h1 style="font-size:36px;">بھارت سنواد</h1>
+    </div>
     <div class="strip">
       <span>صفحہ 03 · خارجہ پالیسی</span>
       <span class="mid">خصوصی رپورٹ</span>
       <span>جمعہ، 29 مئی 2026 · bharatsamwad-epaper</span>
     </div>
-    <a class="back-home-btn" href="index.html">← Back to Main Menu</a>
     <span class="kicker">سفارت کاری</span>
     <h2 class="headline">ہندوستان اور افریقہ نے چوتھی فورم چوٹی کانفرنس سے پہلے اسٹریٹجک پارٹنرشپ کو مضبوط کیا۔</h2>
     <p class="subdeck">آئندہ ہندوستان-افریقہ فورم سمٹ سے تجارت، ٹکنالوجی، صحت کی دیکھ بھال، توانائی اور اختراع میں تعاون کو گہرا کرنے کی امید ہے، جس سے گلوبل ساؤتھ میں ترقی اور لچک کے لیے مشترکہ وژن کو تقویت ملے گی۔</p>
     <div class="byline"><b>خصوصی نامہ نگار</b> · نئی دہلی</div>
     <div class="body">
-<p class="lead">ہندوستان اس سال چوتھی ہندوستان-افریقہ فورم چوٹی کانفرنس کی میزبانی کرنے کی تیاری کر رہا ہے، جو گلوبل ساؤتھ میں سب سے اہم شراکت میں سے ایک کے لیے تجدید عہد کا اشارہ دیتا ہے۔ توقع ہے کہ افریقہ بھر سے رہنماؤں اور نمائندوں کی بات چیت میں شرکت کی توقع ہے جس کا مقصد تجارت، ٹیکنالوجی، بنیادی ڈھانچے، صحت کی دیکھ بھال اور پائیدار ترقی میں تعاون کو بڑھانا ہے۔</p>
-<p>اس سربراہی اجلاس کو ہندوستان اور افریقی ممالک کے درمیان سیاسی تال میل کو مضبوط بنانے اور طویل مدتی اقتصادی لچک پیدا کرنے کی جانب ایک اہم قدم کے طور پر دیکھا جا رہا ہے۔ حکام اور سفارت کاروں نے شراکت داری کو مساوات، باہمی احترام اور مشترکہ ترقیاتی ترجیحات پر مبنی قرار دیا ہے۔</p>
-<h3>معاہدے کا احاطہ کیا ہے۔</h3>
-<p>حکام کے مطابق یہ فریم ورک دفاعی ٹیکنالوجی، مشترکہ تیاری اور تربیت پر محیط ہے۔ یہ ابھرتی ہوئی ٹیکنالوجیز اور سپلائی چین لچک پر بھی تعاون کا تصور کرتا ہے۔</p>
-<p>معاہدے کا متن آنے والے دنوں میں منظر عام پر آنے کی امید ہے۔ حکام نے بتایا کہ اس پر عمل درآمد مرحلہ وار کیا جائے گا۔</p>
-<div class="box"><h4>ایک نظر میں ہندوستان-افریقہ پارٹنرشپ</h4><ul></ul></div>
-<p>پلیٹ فارم — انڈیا-افریقہ فورم سمٹ پہلا سمٹ — نئی دہلی، 2008 کلیدی شعبے — تجارت، ٹیکنالوجی، صحت کی دیکھ بھال، بنیادی ڈھانچہ، توانائی کا موجودہ تجارتی حجم — افریقہ میں تقریباً 100 بلین ڈالر کی ہندوستانی سرمایہ کاری — 80 بلین ڈالر سے زیادہ کے وظائف فراہم کیے گئے — گزشتہ دہائی میں تقریباً 80,000</p>
-<div class="pull">""ہندوستان اور افریقہ نہ صرف شراکت دار ہیں، بلکہ ایک زیادہ جامع عالمی نظام کی تشکیل میں فعال شراکت دار ہیں۔""<cite>- سفارتی تشخیص (تفصیلی)</cite></div>
-<h3>اس کا کیا مطلب ہے۔</h3>
-<p>ماہرین کا خیال ہے کہ یہ فریم ورک دونوں ممالک کو زیادہ اسٹریٹجک لچک فراہم کرے گا۔ مشترکہ مینوفیکچرنگ، خاص طور پر، ہندوستان کے اندر نئے صنعتی مواقع پیدا کر سکتی ہے۔</p>
-<h3>آگے کی سڑک</h3>
-<p>چوتھی ہندوستان-افریقہ فورم سمٹ ایک ایسے وقت میں ہو رہی ہے جب بڑھتی ہوئی جغرافیائی سیاسی غیر یقینی صورتحال، تکنیکی تبدیلی اور اقتصادی صف بندی میں تبدیلی آ رہی ہے۔ ہندوستان اور افریقی ممالک دونوں کے لیے، شراکت داری کو تیزی سے گلوبل ساؤتھ میں لچک پیدا کرنے کے لیے مرکزی حیثیت سے دیکھا جا رہا ہے۔</p>
-<p>سفارت کاروں اور تجزیہ کاروں کا خیال ہے کہ سربراہی اجلاس توانائی کی حفاظت، سپلائی چینز، مینوفیکچرنگ، اختراعات اور ڈیجیٹل کنیکٹیویٹی میں تعاون کو تیز کرنے میں مدد دے سکتا ہے جبکہ عالمی مسائل پر سیاسی ہم آہنگی کو تقویت دیتا ہے۔</p>
-<p>مجموعی طور پر، ہندوستان-افریقہ شراکت داری ایک نئے مرحلے میں داخل ہو رہی ہے جس کی تشکیل مشترکہ ترقیاتی اہداف، اقتصادی تعلقات کو وسعت دے رہی ہے اور زیادہ متوازن بین الاقوامی نظم کے لیے مشترکہ وژن ہے۔ آئندہ سربراہی اجلاس کی کامیابی کا انحصار اس بات پر ہوگا کہ ان عزائم کو عملی اور طویل مدتی تعاون کے فریم ورک میں کس حد تک مؤثر طریقے سے ترجمہ کیا جاتا ہے۔</p>
+<p class="lead">ہندوستان اس سال چوتھی ہندوستان-افریقہ فورم چوٹی کانفرنس کی میزبانی کرنے کی تیاری کر رہا ہے، جو گلوبل ساؤتھ میں سب سے اہم شراکت میں سے ایک کے لیے تجدید عہد کا اشارہ دیتا ہے۔ توقع ہے کہ افریقہ بھر سے رہنماؤں اور نمائندوں کی بات چیت میں شرکت کی توقع ہے جس کا مقصد تجارت، ٹیکنالوجی، بنیادی ڈھانچے، صحت کی دیکھ بھال اور پائیدار ترقی میں تعاون کو بڑھانا ہے۔</p><p>اس سربراہی اجلاس کو ہندوستان اور افریقی ممالک کے درمیان سیاسی تال میل کو مضبوط بنانے اور طویل مدتی اقتصادی لچک پیدا کرنے کی جانب ایک اہم قدم کے طور پر دیکھا جا رہا ہے۔ حکام اور سفارت کاروں نے شراکت داری کو مساوات، باہمی احترام اور مشترکہ ترقیاتی ترجیحات پر مبنی قرار دیا ہے۔</p><h3>معاہدے کا احاطہ کیا ہے۔</h3><p>حکام کے مطابق یہ فریم ورک دفاعی ٹیکنالوجی، مشترکہ تیاری اور تربیت پر محیط ہے۔ یہ ابھرتی ہوئی ٹیکنالوجیز اور سپلائی چین لچک پر بھی تعاون کا تصور کرتا ہے۔</p><p>معاہدے کا متن آنے والے دنوں میں منظر عام پر آنے کی امید ہے۔ حکام نے بتایا کہ اس پر عمل درآمد مرحلہ وار کیا جائے گا۔</p><div class="box"><h4>ایک نظر میں ہندوستان-افریقہ پارٹنرشپ</h4><ul></ul></div><p>پلیٹ فارم — انڈیا-افریقہ فورم سمٹ پہلا سمٹ — نئی دہلی، 2008 کلیدی شعبے — تجارت، ٹیکنالوجی، صحت کی دیکھ بھال، بنیادی ڈھانچہ، توانائی کا موجودہ تجارتی حجم — افریقہ میں تقریباً 100 بلین ڈالر کی ہندوستانی سرمایہ کاری — 80 بلین ڈالر سے زیادہ کے وظائف فراہم کیے گئے — گزشتہ دہائی میں تقریباً 80,000</p><div class="pull">"ہندوستان اور افریقہ نہ صرف شراکت دار ہیں، بلکہ ایک زیادہ جامع عالمی نظام کی تشکیل میں فعال شراکت دار ہیں۔"<cite>- سفارتی تشخیص (تفصیلی)</cite></div><h3>اس کا کیا مطلب ہے۔</h3><p>ماہرین کا خیال ہے کہ یہ فریم ورک دونوں ممالک کو زیادہ اسٹریٹجک لچک فراہم کرے گا۔ مشترکہ مینوفیکچرنگ، خاص طور پر، ہندوستان کے اندر نئے صنعتی مواقع پیدا کر سکتی ہے۔</p><h3>آگے کی سڑک</h3><p>چوتھی ہندوستان-افریقہ فورم سمٹ ایک ایسے وقت میں ہو رہی ہے جب بڑھتی ہوئی جغرافیائی سیاسی غیر یقینی صورتحال، تکنیکی تبدیلی اور اقتصادی صف بندی میں تبدیلی آ رہی ہے۔ ہندوستان اور افریقی ممالک دونوں کے لیے، شراکت داری کو تیزی سے گلوبل ساؤتھ میں لچک پیدا کرنے کے لیے مرکزی حیثیت سے دیکھا جا رہا ہے۔</p><p>سفارت کاروں اور تجزیہ کاروں کا خیال ہے کہ سربراہی اجلاس توانائی کی حفاظت، سپلائی چینز، مینوفیکچرنگ، اختراعات اور ڈیجیٹل کنیکٹیویٹی میں تعاون کو تیز کرنے میں مدد دے سکتا ہے جبکہ عالمی مسائل پر سیاسی ہم آہنگی کو تقویت دیتا ہے۔</p><p>مجموعی طور پر، ہندوستان-افریقہ شراکت داری ایک نئے مرحلے میں داخل ہو رہی ہے جس کی تشکیل مشترکہ ترقیاتی اہداف، اقتصادی تعلقات کو وسعت دے رہی ہے اور زیادہ متوازن بین الاقوامی نظم کے لیے مشترکہ وژن ہے۔ آئندہ سربراہی اجلاس کی کامیابی کا انحصار اس بات پر ہوگا کہ ان عزائم کو عملی اور طویل مدتی تعاون کے فریم ورک میں کس حد تک مؤثر طریقے سے ترجمہ کیا جاتا ہے۔</p>
     </div>
     <div class="foot">
       <span>بھارت سنواد · خارجہ پالیسی ڈیسک</span><span>© 2026 بھارت سنواد پبلیکیشنز</span><span>صفحہ 03</span>
     </div>
   </div>
   </div>
+
 <script>
+/* ===== poll chrome strings per language ===== */
+var BS_POLL_T = {
+  hi:{eyebrow:"जनमत · आपकी राय", thanks:"आपके मत के लिए धन्यवाद!", votes:"वोट"},
+  en:{eyebrow:"Poll · Your Opinion", thanks:"Thanks for your vote!", votes:"votes"},
+  ur:{eyebrow:"رائے شماری · آپ کی رائے", thanks:"آپ کی رائے کا شکریہ!", votes:"ووٹ"}
+};
+var BS_LANG = "hi";
+
+function bsPollPct(n,t){return t?Math.round(n*100/t):0;}
+function bsPollRenderOne(box,counts){
+  counts=counts||{};
+  var opts=box.querySelectorAll(".opt"),total=0;
+  opts.forEach(function(o){total+=counts[o.dataset.opt]||0;});
+  var voted=box.classList.contains("voted");
+  opts.forEach(function(o){
+    var lab=o.querySelector(".optlabel");
+    if(lab) lab.textContent=o.getAttribute("data-"+BS_LANG)||lab.textContent;
+    var n=counts[o.dataset.opt]||0,p=bsPollPct(n,total);
+    o.querySelector(".barfill").style.width=voted?p+"%":"0%";
+    o.querySelector(".pct").textContent=voted?p+"%":"";
+  });
+  var t=BS_POLL_T[BS_LANG];
+  var eb=box.querySelector(".eyebrow"); if(eb) eb.textContent=t.eyebrow;
+  var th=box.querySelector("[data-thanks]"); if(th) th.textContent=t.thanks;
+  var tot=box.querySelector("[data-total]"); if(tot) tot.textContent=voted?(total+" "+t.votes):"";
+  var q=box.querySelector("h4"); if(q && q.getAttribute("data-"+BS_LANG)) q.textContent=q.getAttribute("data-"+BS_LANG);
+}
+function bsPollRefreshAll(){document.querySelectorAll(".bs-poll").forEach(function(b){bsPollRenderOne(b);});}
+
+function bsPollInit(box){
+  var API="/api/poll", id=box.dataset.pollId, already=false;
+  try{already=!!localStorage.getItem("bs_voted_"+id);}catch(e){}
+  function localCounts(){try{return JSON.parse(localStorage.getItem("bs_counts_"+id)||"{}");}catch(e){return {};}}
+  fetch(API+"?id="+encodeURIComponent(id)).then(function(r){return r.ok?r.json():null;})
+    .then(function(d){var c=(d&&d.counts)?d.counts:localCounts(); if(already)box.classList.add("voted"); if(already){var t=box.querySelector("[data-thanks]"); if(t)t.hidden=false;} bsPollRenderOne(box,c);})
+    .catch(function(){var c=localCounts(); if(already)box.classList.add("voted"); bsPollRenderOne(box,c);});
+  box.querySelectorAll(".opt").forEach(function(btn){
+    btn.addEventListener("click",function(){
+      if(box.classList.contains("voted"))return;
+      var opt=btn.dataset.opt;
+      try{localStorage.setItem("bs_voted_"+id,opt);}catch(e){}
+      var c=localCounts(); c[opt]=(c[opt]||0)+1; try{localStorage.setItem("bs_counts_"+id,JSON.stringify(c));}catch(e){}
+      box.classList.add("voted");
+      var th=box.querySelector("[data-thanks]"); if(th)th.hidden=false;
+      bsPollRenderOne(box,c);
+      fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:id,option:opt})})
+        .then(function(r){return r.ok?r.json():null;})
+        .then(function(d){if(d&&d.counts)bsPollRenderOne(box,d.counts);}).catch(function(){});
+    });
+  });
+}
+
 function setLang(l){
+  BS_LANG=l;
   document.querySelectorAll('.langblock').forEach(b=>b.classList.toggle('show', b.dataset.lang===l));
   document.querySelectorAll('.langbar button').forEach(btn=>btn.classList.toggle('active', btn.dataset.l===l));
   document.documentElement.lang=(l==='ur'?'ur':(l==='en'?'en':'hi'));
-  document.documentElement.dir=(l==='ur'?'rtl':'ltr');
+  bsPollRefreshAll();
   try{localStorage.setItem('bs_lang',l);}catch(e){}
 }
 document.addEventListener('DOMContentLoaded',function(){
+  document.querySelectorAll(".bs-poll").forEach(bsPollInit);
   var s='hi'; try{s=localStorage.getItem('bs_lang')||'hi';}catch(e){}
-  if(!document.querySelector('[data-lang="'+s+'"]')) s='hi';
   setLang(s);
 });
 </script>
