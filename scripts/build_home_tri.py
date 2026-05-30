@@ -431,7 +431,7 @@ def page(lang):
         '<div class="footer">'
         f'<span>{names[lang]}</span>'
         '<span>© 2026</span>'
-        '<span>bharatsamvad-epaper</span>'
+        '<span>bharatsamwad-epaper</span>'
         '</div>'
     )
 
