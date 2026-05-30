@@ -4,25 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>भारत संवाद · Bharat Samvad · بھارت سنواد</title>
-<meta property="og:type" content="article">
-<meta property="og:site_name" content="Bharat Samwad">
-<meta property="og:title" content="India and Russia sign new defence pact in Moscow meeting">
-<meta property="og:description" content="A short, one-line summary of the article goes here.">
-<meta property="og:url" content="https://bharatsamwad.org/bharatsamvad-2026-05-30-page1.html">
-<meta property="og:image" content="https://bharatsamwad.org/og-default.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Bharat Samwad — सत्य · संतुलन · सरोकार">
-<meta property="og:locale" content="hi_IN">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="India and Russia sign new defence pact in Moscow meeting">
-<meta name="twitter:description" content="A short, one-line summary of the article goes here.">
-<meta name="twitter:image" content="https://bharatsamwad.org/og-default.jpg">
-<link rel="canonical" href="https://bharatsamwad.org/bharatsamvad-2026-05-30-page1.html">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@0;1&family=Mukta:wght@400;500;600;700&family=Khand:wght@500;600;700&family=Rozha+One&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
+.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+
 :root{
   --paper:#f4efe2;--paper-edge:#e7dfca;--ink:#1a1714;--ink-soft:#3a342c;--rule:#26221c;--accent:#9a1b1b;--accent-dk:#6f1212;--gold:#8a6d2f;
 }
@@ -94,19 +90,60 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 @media(max-width:680px){.sheet{padding:20px 18px 30px}.masthead h1{font-size:48px}.headline{font-size:32px}.body{column-count:1}.strip{flex-direction:column;gap:3px;text-align:center}}
 @media print{body{background:#fff;padding:0}.sheet{box-shadow:none}}
 
+
+/* ===== language toggle ===== */
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;
+  background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;
+  font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;
+  padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none;} .langblock.show{display:block;}
 .lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
 .lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
 .lang-ur .body{direction:rtl;text-align:right;}
 .lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
 .lang-ur .body h3{line-height:2.2;}
-.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
 .lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
 .lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
-.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
-.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box li{line-height:2.2;}
 .lang-ur .box h4{border-bottom:2px solid var(--accent);}
-.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
-.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+.lang-ur .pull{text-align:right;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+/* news photo */
+.newsfig{column-span:all;break-inside:avoid;margin:4px 0 16px;}
+.newsfig img{width:100%;height:auto;display:block;border:1px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);}
+.newsfig figcaption{font-family:"Mukta",sans-serif;font-size:12.5px;line-height:1.4;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid #cbbfa3;}
+.newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
+.lang-ur .newsfig figcaption{text-align:right;}
+/* ===== poll widget ===== */
+.bs-poll{break-inside:avoid;column-span:all;background:#efe7d3;border:1.5px solid var(--ink);
+  border-top:4px solid var(--accent);box-shadow:3px 3px 0 rgba(38,34,28,.18);
+  padding:18px 20px 16px;margin:8px 0 18px;}
+.bs-poll .eyebrow{font-family:'Khand',sans-serif;font-weight:700;letter-spacing:3px;font-size:11px;
+  text-transform:uppercase;color:#fff;background:var(--accent);display:inline-block;padding:3px 11px;margin-bottom:10px;}
+.bs-poll h4{font-family:'Rozha One',Georgia,serif;font-size:21px;line-height:1.25;color:var(--ink);margin-bottom:14px;border:none;padding:0;}
+.bs-poll .opt{display:block;width:100%;text-align:left;font-family:inherit;font-size:15px;color:var(--ink);
+  background:var(--paper);border:1.5px solid var(--ink);padding:11px 14px;margin-bottom:9px;cursor:pointer;
+  position:relative;overflow:hidden;transition:transform .1s;}
+.bs-poll .opt:hover{transform:translateX(3px);}
+.bs-poll .opt .barfill{position:absolute;inset:0;background:rgba(154,27,27,.16);width:0;transition:width .5s ease;z-index:0;}
+.bs-poll .opt .lbl{position:relative;z-index:1;display:flex;justify-content:space-between;gap:10px;}
+.bs-poll .opt .pct{font-weight:bold;color:var(--accent-dk);font-family:'Khand',sans-serif;}
+.bs-poll.voted .opt{cursor:default;}
+.bs-poll.voted .opt:hover{transform:none;}
+.bs-poll .meta{font-family:'Mukta',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:8px;
+  display:flex;justify-content:space-between;align-items:center;gap:10px;}
+.bs-poll .thanks{color:var(--accent-dk);font-weight:600;}
+.lang-ur .bs-poll h4{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .bs-poll .opt{text-align:right;font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .bs-poll .opt:hover{transform:translateX(-3px);}
+.lang-ur .bs-poll .meta{flex-direction:row-reverse;}
 
 </style>
 </head>
@@ -117,117 +154,132 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>
   <div class="sheet">
-
   <div class="langblock lang-hi" data-lang="hi">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-  <a href="index.html" class="home-logo" title="Home">
-    <h1 style="font-size:36px;">भारत संवाद</h1>
-  </a>
-</div>
+      <h1 style="font-size:36px;">भारत संवाद</h1>
+    </div>
     <div class="strip">
-      <span>पृष्ठ 1 · विदेश नीति</span>
+      <span>पृष्ठ 1 · सीमा नीति</span>
       <span class="mid">विशेष रिपोर्ट</span>
       <span>शनिवार, 30 मई 2026 · bharatsamwad-epaper</span>
     </div>
-    <a class="back-home-btn" href="index.html">← Back to Main Menu</a>
-    <span class="kicker">कूटनीति · सुरक्षा</span>
-    <h2 class="headline">मॉस्को बैठक में भारत और रूस ने नए रक्षा समझौते पर हस्ताक्षर किए</h2>
-    <p class="subdeck">लेख का एक संक्षिप्त, एक-पंक्ति सारांश यहां दिया गया है।</p>
-    <div class="byline"><b>विशेष संवाददाता</b> · नई दिल्ली</div>
+    <span class="kicker">विकास एवं सीमा नीति</span>
+    <h2 class="headline">सीमा विकास पहल जम्मू और कश्मीर के सीमावर्ती जिलों में जीवन को नया आकार देती है</h2>
+    <p class="subdeck">वीवीपी, बीएडीपी और एसएसवाई सहित सरकारी कार्यक्रम बुनियादी ढांचे, कनेक्टिविटी और आजीविका विस्तार के माध्यम से सीमावर्ती गांवों को बदल रहे हैं, सुरक्षा बफर से स्थायी विकास केंद्रों पर ध्यान केंद्रित कर रहे हैं।</p>
+    <div class="byline"><b>विशेष संवाददाता</b> · जम्मू और कश्मीर</div>
     <div class="body">
-<p class="lead">भारत और रूस ने शुक्रवार को मॉस्को में एक उच्च स्तरीय बैठक के दौरान प्रौद्योगिकी हस्तांतरण, संयुक्त विनिर्माण और दीर्घकालिक साझेदारी में सहयोग को गहरा करते हुए एक रणनीतिक रक्षा समझौते पर हस्ताक्षर किए।</p>
-<p>बस सामान्य पैराग्राफ लिखें - प्रत्येक खाली पंक्ति एक नया पैराग्राफ शुरू करती है।</p>
-<h3>समझौते में क्या शामिल है</h3>
-<p>अधिकारियों के अनुसार, रूपरेखा रक्षा प्रौद्योगिकी, संयुक्त विनिर्माण और प्रशिक्षण तक फैली हुई है।इसमें उभरती प्रौद्योगिकियों और आपूर्ति-श्रृंखला लचीलेपन पर सहयोग की भी परिकल्पना की गई है।</p>
-<div class="box"><h4>समझौता एक नज़र में</h4><ul><li><b>क्या — </b>रणनीतिक भारत-रूस रक्षा ढांचा</li><li><b>कब कहां — </b>मॉस्को, 30 मई 2026</li><li><b>दायरा — </b>प्रौद्योगिकी हस्तांतरण, संयुक्त विनिर्माण, प्रशिक्षण</li><li><b>केंद्र — </b>दीर्घकालिक साझेदारी</li></ul></div>
-<div class="pull">""यह समझौता भारत-रूस रणनीतिक साझेदारी की गहराई और निरंतरता को दर्शाता है।""<cite>- वरिष्ठ अधिकारी (शब्दांश में)</cite></div>
-<h3>इसका क्या मतलब है</h3>
-<p>विशेषज्ञों का मानना ​​है कि यह रूपरेखा दोनों देशों को अधिक रणनीतिक लचीलापन प्रदान करेगी।संयुक्त विनिर्माण, विशेष रूप से, भारत के भीतर नए औद्योगिक अवसर पैदा कर सकता है।</p>
-<h3>आगे का रास्ता</h3>
-<p>कुल मिलाकर, यह समझौता लंबे समय से चली आ रही भारत-रूस साझेदारी में एक नया कदम है।इसका वास्तविक प्रभाव इस बात पर निर्भर करेगा कि आने वाले महीनों में कार्यान्वयन के चरण कैसे सामने आते हैं।</p>
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p><p class="lead">जम्मू और कश्मीर के चुनौतीपूर्ण सीमावर्ती जिलों में, जो लंबे समय से कठिन इलाकों और दशकों से अविकसितता से जूझ रहे हैं, एक स्थिर परिवर्तन चल रहा है क्योंकि केंद्र सरकार समावेशी सीमा क्षेत्र के विकास पर ध्यान केंद्रित कर रही है। वाइब्रेंट विलेजेज प्रोग्राम (वीवीपी), सीमा क्षेत्र विकास कार्यक्रम (बीएडीपी) और समृद्ध सीमा योजना (एसएसवाई) जैसी लक्षित योजनाओं के माध्यम से, सीमांत बस्तियों में अलगाव से एकीकरण की ओर बदलाव देखा जा रहा है।</p><p>अधिकारियों का कहना है कि यह दृष्टिकोण नीतिगत सोच में एक संरचनात्मक बदलाव का प्रतिनिधित्व करता है - सीमावर्ती गांवों को न केवल सुरक्षा परिधि के रूप में माना जाता है, बल्कि क्षेत्र के आर्थिक और सामाजिक विकास में सक्रिय भागीदार के रूप में भी माना जाता है।</p><h3>सीमा विकास रणनीति में बदलाव</h3><p>कार्यान्वयन में शामिल अधिकारियों के अनुसार, इन पहलों का मुख्य उद्देश्य राजौरी, पुंछ, कठुआ, सांबा, बारामूला, बांदीपोरा और कुपवाड़ा जैसे जिलों के दूरदराज के गांवों में लंबे समय से चली आ रही बुनियादी ढांचे और अवसर की कमी को पाटना है।</p><p>कार्यक्रम सड़क कनेक्टिविटी को मजबूत करने, विश्वसनीय बिजली आपूर्ति सुनिश्चित करने, डिजिटल पहुंच का विस्तार करने और स्थायी आजीविका विकल्प बनाने के लिए डिज़ाइन किए गए हैं। अधिकारी वीवीपी के दूसरे चरण को विशेष रूप से महत्वाकांक्षी बताते हैं, जिसमें वित्तीय आवंटन में वृद्धि और वरिष्ठ प्रशासनिक अधिकारियों द्वारा जमीनी स्तर पर कड़ी निगरानी शामिल है।</p><h3>बुनियादी ढांचे और कनेक्टिविटी का विस्तार</h3><div class="box"><h4>विकास के प्रमुख फोकस क्षेत्र</h4><ul></ul></div><p>* क्या - वीवीपी, बीएडीपी और एसएसवाई के तहत एकीकृत सीमा विकास * कहां - जम्मू और कश्मीर के सीमावर्ती जिले * फोकस - सड़क, बिजली, डिजिटल कनेक्टिविटी, आजीविका * कवरेज - वीवीपी चरण- II के तहत 124 से अधिक सीमावर्ती गांव * निष्पादन - क्षेत्र-स्तरीय निगरानी के साथ बहु-एजेंसी समन्वय</p><p>सड़क बुनियादी ढांचे पर बड़ा जोर दिया गया है, सीमा सड़क संगठन और प्रधान मंत्री ग्राम सड़क योजना जैसी एजेंसियां ​​हर मौसम के लिए उपयुक्त सड़कों के निर्माण में तेजी ला रही हैं। ये मार्ग यात्रा के समय को काफी कम कर रहे हैं और बाजारों, स्कूलों और स्वास्थ्य देखभाल सुविधाओं तक पहुंच में सुधार कर रहे हैं।</p><p>नौशेरा-पुंछ क्षेत्र में बहरी पट्टन-झल्लास सड़क जैसी परियोजनाएं इस बदलाव का प्रतीक बन गई हैं, जो नागरिक आंदोलन और आवश्यक सेवाओं दोनों के लिए महत्वपूर्ण जीवन रेखा के रूप में कार्य कर रही हैं।</p><p>अधिकारियों का कहना है कि बेहतर कनेक्टिविटी कठोर सर्दियों के महीनों के दौरान लॉजिस्टिक चुनौतियों को कम करने में भी मदद कर रही है, जिससे निर्बाध आपूर्ति श्रृंखला और आपातकालीन प्रतिक्रिया पहुंच सुनिश्चित हो रही है।</p><h3>बिजली, डिजिटल पहुंच और स्थानीय सशक्तिकरण</h3><p>दीन दयाल उपाध्याय ग्राम ज्योति योजना और सौभाग्य पहल जैसी योजनाओं के तहत बिजली की पहुंच में उल्लेखनीय सुधार देखा गया है, जिससे दूरदराज के गांवों में लगभग सार्वभौमिक विद्युतीकरण हो गया है। दुर्गम स्थानों में, सौर ऊर्जा परियोजनाएं ग्रिड आपूर्ति को पूरक कर रही हैं, स्वच्छ और अधिक टिकाऊ विकल्प प्रदान कर रही हैं।</p><p>साथ ही, विस्तारित दूरसंचार बुनियादी ढांचा और फाइबर कनेक्टिविटी डिजिटल समावेशन को सक्षम बना रही है। छात्र तेजी से ई-लर्निंग प्लेटफॉर्म तक पहुंच रहे हैं, किसान वास्तविक समय मूल्य निर्धारण के लिए मोबाइल एप्लिकेशन का उपयोग कर रहे हैं, और छोटे व्यवसाय व्यापक बाजारों तक पहुंच रहे हैं।</p><p>अधिकारियों ने विशेष रूप से कौशल भारत मिशन जैसे व्यापक कौशल विकास पहल के तहत समर्थित स्वयं सहायता समूहों और व्यावसायिक प्रशिक्षण कार्यक्रमों में महिलाओं की भागीदारी पर बढ़ते प्रभाव पर भी प्रकाश डाला।</p><h3>स्वास्थ्य सेवा और शिक्षा में सुधार</h3><p>उन्नत प्राथमिक स्वास्थ्य केंद्रों और मोबाइल चिकित्सा इकाइयों के दूर-दराज के इलाकों में नियमित रूप से पहुंचने से स्वास्थ्य देखभाल वितरण मजबूत हुआ है। ये सुधार सीमावर्ती क्षेत्रों में बेहतर मातृ एवं शिशु स्वास्थ्य संकेतकों में योगदान दे रहे हैं।</p><p>उन्नत स्कूलों, स्मार्ट कक्षाओं और बेहतर स्टाफिंग के साथ शिक्षा के बुनियादी ढांचे में भी बदलाव आ रहा है। अधिकारियों का कहना है कि लक्ष्य छात्रों को उच्च शिक्षा और व्यावसायिक प्रशिक्षण मार्गों से जोड़ते हुए सीमावर्ती जिलों और शहरी केंद्रों के बीच शैक्षिक पहुंच में समानता सुनिश्चित करना है।</p><h3>आजीविका सृजन और पर्यटन को बढ़ावा</h3><p>विकास रणनीति का एक प्रमुख स्तंभ आजीविका सृजन है। अधिकारी स्थायी आय स्रोत उत्पन्न करने के लिए बागवानी, औषधीय पौधों की खेती, हस्तशिल्प और सहकारी उद्यमों को बढ़ावा दे रहे हैं।</p><p>सीमा पर्यटन भी एक विकास क्षेत्र के रूप में उभर रहा है, जिसमें प्राकृतिक परिदृश्य और सांस्कृतिक विरासत को होमस्टे मॉडल और स्थानीय उद्यमिता के माध्यम से बढ़ावा दिया जा रहा है। ये पहल धीरे-धीरे अलग-थलग पड़े गांवों को उभरते पर्यटन स्थलों में बदल रही हैं।</p><p>सब्सिडी, बेहतर बाजार संपर्क और उद्यमिता समर्थन भी पारंपरिक व्यवसायों को पुनर्जीवित करने में मदद कर रहे हैं, जबकि रोजगार योजनाएं कमजोर क्षेत्रों में अल्पकालिक आय सहायता प्रदान कर रही हैं।</p><h3>सीमावर्ती गांवों में दैनिक जीवन बदल रहा है</h3><p>इन कार्यक्रमों का असर रोजमर्रा की जिंदगी में दिख रहा है. अलगाव कम होने से शिक्षा और स्वास्थ्य देखभाल तक पहुंच में सुधार हुआ है, जबकि बेहतर बुनियादी ढांचे ने वस्तुओं और सेवाओं के लिए गतिशीलता को आसान बना दिया है।</p><p>रिवर्स माइग्रेशन की क्रमिक प्रवृत्ति भी देखी जा रही है, कुछ युवा कृषि, पर्यटन और लघु-स्तरीय उद्यमों को आगे बढ़ाने के लिए अपने मूल गांवों में लौट रहे हैं। डेयरी और शिल्प में महिलाओं के नेतृत्व वाली सहकारी समितियाँ घरेलू आय और स्थानीय आर्थिक लचीलेपन को और मजबूत कर रही हैं।</p><p>अधिकारियों का कहना है कि विकास में सामुदायिक भागीदारी से निवासियों और सुरक्षा एजेंसियों के बीच समन्वय में भी सुधार हुआ है, जिससे संवेदनशील सीमा क्षेत्रों में स्थिरता मजबूत हुई है।</p><h3>एक दीर्घकालिक परिवर्तन दृष्टिकोण</h3><p>अधिकारी इस बात पर जोर देते हैं कि रणनीति भौतिक बुनियादी ढांचे से परे सामाजिक एकीकरण और सांस्कृतिक संरक्षण तक फैली हुई है। ग्रामीण स्तर की संस्थाएँ योजना और निर्णय लेने में तेजी से शामिल हो रही हैं, जिससे विकास के परिणामों पर स्थानीय स्वामित्व मजबूत हो रहा है।</p><p>वरिष्ठ प्रशासकों द्वारा नियमित समीक्षा और नामित अधिकारियों द्वारा क्षेत्र की निगरानी का उद्देश्य जवाबदेही और समय पर कार्यान्वयन सुनिश्चित करना है। हालाँकि भूगोल और जलवायु परिस्थितियों के कारण चुनौतियाँ बनी हुई हैं, अधिकारियों का कहना है कि प्रगति स्थिर और विस्तारित हो रही है।</p><h3>आगे का रास्ता</h3><p>कुल मिलाकर, जम्मू और कश्मीर के सीमावर्ती क्षेत्रों में चल रहा परिवर्तन एक व्यापक नीतिगत बदलाव को दर्शाता है - जो विकास को सुरक्षा और सामुदायिक सशक्तिकरण से जोड़ता है। सीमावर्ती गांवों को मुख्यधारा के आर्थिक ढांचे में एकीकृत करके, पहल परिधीय बस्तियों से सक्रिय विकास केंद्रों तक उनकी भूमिका को फिर से परिभाषित करने में मदद कर रही है।</p><p>जैसे-जैसे वीवीपी और संबंधित योजनाओं का विस्तार जारी है, अधिकारियों का मानना ​​है कि क्षेत्र अधिक स्थिर और आत्मनिर्भर भविष्य की ओर बढ़ रहा है, जहां विकास स्वयं दीर्घकालिक शांति और लचीलेपन के लिए सबसे मजबूत आधार बन जाता है।</p>
     </div>
     <div class="foot">
-      <span>भारत संवाद · विदेश नीति डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 1</span>
+      <span>भारत संवाद · सीमा नीति डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 1</span>
     </div>
   </div>
-
   <div class="langblock lang-en" data-lang="en">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-  <a href="index.html" class="home-logo" title="Home">
-    <h1 style="font-size:36px;">Bharat Samwad</h1>
-  </a>
-</div>
+      <h1 style="font-size:36px;">Bharat Samwad</h1>
+    </div>
     <div class="strip">
-      <span>Page 1 · Foreign Policy</span>
+      <span>Page 1 · Border Policy</span>
       <span class="mid">Special Report</span>
       <span>Saturday, 30 May 2026 · bharatsamwad-epaper</span>
     </div>
-    <a class="back-home-btn" href="index.html">← Back to Main Menu</a>
-    <span class="kicker">Diplomacy · Security</span>
-    <h2 class="headline">India and Russia sign new defence pact in Moscow meeting</h2>
-    <p class="subdeck">A short, one-line summary of the article goes here.</p>
-    <div class="byline"><b>Special Correspondent</b> · New Delhi</div>
+    <span class="kicker">Development & Border Policy</span>
+    <h2 class="headline">Border development initiatives reshape life in Jammu and Kashmir’s frontier districts</h2>
+    <p class="subdeck">Government programmes including VVP, BADP and SSY are transforming border villages through infrastructure, connectivity and livelihood expansion, shifting focus from security buffer to sustainable growth hubs.</p>
+    <div class="byline"><b>Special Correspondent</b> · Jammu and Kashmir</div>
     <div class="body">
-<p class="lead">India and Russia on Friday signed a strategic defence agreement during a high-level meeting in Moscow, deepening cooperation in technology transfer, joint manufacturing and long-term partnership.</p>
-<p>Just write normal paragraphs — each blank line starts a new paragraph.</p>
-<h3>What the agreement covers</h3>
-<p>According to officials, the framework spans defence technology, joint manufacturing and training. It also envisages collaboration on emerging technologies and supply-chain resilience.</p>
-<div class="box"><h4>The Agreement at a Glance</h4><ul><li><b>What — </b>Strategic India-Russia defence framework</li><li><b>When/Where — </b>Moscow, 30 May 2026</li><li><b>Scope — </b>Technology transfer, joint manufacturing, training</li><li><b>Focus — </b>Long-term partnership</li></ul></div>
-<div class="pull">""This agreement reflects the depth and continuity of the India-Russia strategic partnership.""<cite>— Senior official (paraphrased)</cite></div>
-<h3>What it means</h3>
-<p>Experts believe the framework will give both countries greater strategic flexibility. Joint manufacturing, in particular, could create new industrial opportunities within India.</p>
-<h3>The road ahead</h3>
-<p>Overall, the agreement is a fresh step in the long-running India-Russia partnership. Its real impact will depend on how the implementation phases unfold over the coming months.</p>
+<p>-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p><p class="lead">In the challenging border districts of Jammu and Kashmir, long marked by difficult terrain and decades of underdevelopment, a steady transformation is underway as the Union Government intensifies focus on inclusive border region development. Through targeted schemes such as the Vibrant Villages Programme (VVP), Border Area Development Programme (BADP) and Samridh Seema Yojana (SSY), frontier settlements are witnessing a shift from isolation to integration.</p><p>Officials say the approach represents a structural change in policy thinking—treating border villages not merely as security peripheries, but as active participants in the region’s economic and social growth.</p><h3>A shift in border development strategy</h3><p>According to officials involved in implementation, the core objective of these initiatives is to bridge long-standing infrastructure and opportunity gaps in remote villages across districts such as Rajouri, Poonch, Kathua, Samba, Baramulla, Bandipora and Kupwara.</p><p>The programmes are designed to strengthen road connectivity, ensure reliable power supply, expand digital access, and create sustainable livelihood options. Authorities describe the second phase of VVP as particularly ambitious, with increased financial allocation and closer on-ground monitoring by senior administrative officers.</p><h3>Expanding infrastructure and connectivity</h3><div class="box"><h4>Key Focus Areas of Development</h4><ul></ul></div><p>* What — Integrated border development under VVP, BADP and SSY * Where — Border districts of Jammu and Kashmir * Focus — Roads, electricity, digital connectivity, livelihoods * Coverage — Over 124 border villages under VVP phase-II * Execution — Multi-agency coordination with field-level monitoring</p><p>A major thrust has been placed on road infrastructure, with agencies such as the Border Roads Organisation and the Pradhan Mantri Gram Sadak Yojana accelerating construction of all-weather roads. These routes are significantly reducing travel times and improving access to markets, schools and healthcare facilities.</p><p>Projects such as the Bahri Pattan–Jhallas road in the Nowshera-Poonch region have become symbolic of this change, acting as vital lifelines for both civilian movement and essential services.</p><p>Officials note that improved connectivity is also helping reduce logistical challenges during harsh winter months, ensuring uninterrupted supply chains and emergency response access.</p><h3>Power, digital access and local empowerment</h3><p>Electricity access has seen notable improvement under schemes such as the Deen Dayal Upadhyaya Gram Jyoti Yojana and Saubhagya initiative, bringing near-universal electrification to remote villages. In harder-to-reach locations, solar energy projects are supplementing grid supply, offering cleaner and more sustainable alternatives.</p><p>At the same time, expanded telecom infrastructure and fibre connectivity are enabling digital inclusion. Students are increasingly accessing e-learning platforms, farmers are using mobile applications for real-time pricing, and small businesses are reaching wider markets.</p><p>Officials also highlight a growing impact on women’s participation, particularly in self-help groups and vocational training programmes supported under broader skill development initiatives such as Skill India Mission.</p><h3>Healthcare and education improvements</h3><p>Healthcare delivery has strengthened with upgraded primary health centres and mobile medical units reaching remote habitations more regularly. These improvements are contributing to better maternal and child health indicators in border areas.</p><p>Education infrastructure is also undergoing change, with upgraded schools, smart classrooms and improved staffing. Authorities say the goal is to ensure parity in educational access between border districts and urban centres, while linking students to higher education and vocational training pathways.</p><h3>Livelihood generation and tourism push</h3><p>A key pillar of the development strategy is livelihood creation. Officials are promoting horticulture, medicinal plant cultivation, handicrafts and cooperative enterprises to generate sustainable income sources.</p><p>Border tourism is also emerging as a growth sector, with scenic landscapes and cultural heritage being promoted through homestay models and local entrepreneurship. These initiatives are gradually turning once-isolated villages into emerging tourism destinations.</p><p>Subsidies, improved market linkages and entrepreneurship support are also helping revive traditional occupations, while employment schemes are providing short-term income support in vulnerable regions.</p><h3>Changing daily life in border villages</h3><p>The impact of these programmes is visible in everyday life. Reduced isolation has improved access to education and healthcare, while better infrastructure has eased mobility for goods and services.</p><p>A gradual trend of reverse migration is also being observed, with some youth returning to their native villages to pursue agriculture, tourism and small-scale enterprises. Women-led cooperatives in dairy and crafts are further strengthening household incomes and local economic resilience.</p><p>Officials say community participation in development has also improved coordination between residents and security agencies, reinforcing stability in sensitive border zones.</p><h3>A long-term transformation approach</h3><p>Authorities emphasize that the strategy extends beyond physical infrastructure to social integration and cultural preservation. Village-level institutions are increasingly involved in planning and decision-making, creating stronger local ownership of development outcomes.</p><p>Regular reviews by senior administrators and field monitoring by designated officers aim to ensure accountability and timely implementation. While challenges remain due to geography and climatic conditions, officials maintain that progress is steady and expanding.</p><h3>The road ahead</h3><p>Overall, the transformation underway in Jammu and Kashmir’s border regions reflects a broader policy shift—one that links development with security and community empowerment. By integrating frontier villages into the mainstream economic framework, the initiatives are helping redefine their role from peripheral settlements to active growth centres.</p><p>As VVP and associated schemes continue to expand, officials believe the region is moving toward a more stable and self-reliant future, where development itself becomes the strongest foundation for long-term peace and resilience.</p>
     </div>
     <div class="foot">
-      <span>Bharat Samvad · Foreign Policy Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 1</span>
+      <span>Bharat Samvad · Border Policy Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 1</span>
     </div>
   </div>
-
   <div class="langblock lang-ur" dir="rtl" data-lang="ur">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-  <a href="index.html" class="home-logo" title="Home">
-    <h1 style="font-size:36px;">بھارت سنواد</h1>
-  </a>
-</div>
+      <h1 style="font-size:36px;">بھارت سنواد</h1>
+    </div>
     <div class="strip">
-      <span>صفحہ 1 · خارجہ پالیسی</span>
+      <span>صفحہ 1 · بارڈر پالیسی</span>
       <span class="mid">خصوصی رپورٹ</span>
       <span>ہفتہ، 30 مئی 2026 · bharatsamwad-epaper</span>
     </div>
-    <a class="back-home-btn" href="index.html">← Back to Main Menu</a>
-    <span class="kicker">ڈپلومیسی · سیکورٹی</span>
-    <h2 class="headline">ماسکو میٹنگ میں ہندوستان اور روس نے نئے دفاعی معاہدے پر دستخط کیے۔</h2>
-    <p class="subdeck">مضمون کا ایک مختصر، ایک سطری خلاصہ یہاں ہے۔</p>
-    <div class="byline"><b>خصوصی نامہ نگار</b> · نئی دہلی</div>
+    <span class="kicker">ترقی اور سرحدی پالیسی</span>
+    <h2 class="headline">سرحدی ترقی کے اقدامات جموں اور کشمیر کے سرحدی اضلاع میں زندگی کو نئی شکل دیتے ہیں۔</h2>
+    <p class="subdeck">سرکاری پروگرام بشمول VVP، BADP اور SSY سرحدی دیہاتوں کو انفراسٹرکچر، کنیکٹیویٹی اور روزی روٹی کی توسیع کے ذریعے تبدیل کر رہے ہیں، جو سیکورٹی بفر سے پائیدار ترقی کے مراکز کی طرف توجہ مرکوز کر رہے ہیں۔</p>
+    <div class="byline"><b>خصوصی نامہ نگار</b> · جموں و کشمیر</div>
     <div class="body">
-<p class="lead">ہندوستان اور روس نے جمعہ کو ماسکو میں ایک اعلیٰ سطحی میٹنگ کے دوران ایک اسٹریٹجک دفاعی معاہدے پر دستخط کیے، جس میں ٹیکنالوجی کی منتقلی، مشترکہ مینوفیکچرنگ اور طویل مدتی شراکت داری میں تعاون کو مزید گہرا کیا گیا۔</p>
-<p>صرف عام پیراگراف لکھیں - ہر خالی لائن ایک نیا پیراگراف شروع کرتی ہے۔</p>
-<h3>معاہدے کا احاطہ کیا ہے۔</h3>
-<p>حکام کے مطابق یہ فریم ورک دفاعی ٹیکنالوجی، مشترکہ تیاری اور تربیت پر محیط ہے۔یہ ابھرتی ہوئی ٹیکنالوجیز اور سپلائی چین لچک پر بھی تعاون کا تصور کرتا ہے۔</p>
-<div class="box"><h4>ایک نظر میں معاہدہ</h4><ul><li><b>کیا — </b>اسٹریٹجک انڈیا روس دفاعی فریم ورک</li><li><b>کب/کہاں — </b>ماسکو، 30 مئی 2026</li><li><b>دائرہ کار — </b>ٹیکنالوجی کی منتقلی، مشترکہ مینوفیکچرنگ، تربیت</li><li><b>فوکس — </b>طویل مدتی شراکت داری</li></ul></div>
-<div class="pull">""یہ معاہدہ ہندوستان روس اسٹریٹجک شراکت داری کی گہرائی اور تسلسل کی عکاسی کرتا ہے۔""<cite>- سینئر اہلکار (تفصیلی)</cite></div>
-<h3>اس کا کیا مطلب ہے۔</h3>
-<p>ماہرین کا خیال ہے کہ یہ فریم ورک دونوں ممالک کو زیادہ اسٹریٹجک لچک فراہم کرے گا۔مشترکہ مینوفیکچرنگ، خاص طور پر، ہندوستان کے اندر نئے صنعتی مواقع پیدا کر سکتی ہے۔</p>
-<h3>آگے کی سڑک</h3>
-<p>مجموعی طور پر، یہ معاہدہ طویل عرصے سے جاری ہندوستان-روس شراکت داری میں ایک تازہ قدم ہے۔اس کا حقیقی اثر اس بات پر منحصر ہوگا کہ آنے والے مہینوں میں عمل درآمد کے مراحل کیسے سامنے آتے ہیں۔</p>
+<p>----------------------------------------------------------------------------------------------------------------------------------</p><p class="lead">جموں و کشمیر کے چیلنج زدہ سرحدی اضلاع میں، جو طویل عرصے سے دشوار گزار خطوں اور کئی دہائیوں سے پسماندگی کا شکار ہیں، ایک مستحکم تبدیلی جاری ہے کیونکہ مرکزی حکومت نے سرحدی علاقوں کی جامع ترقی پر توجہ مرکوز کی ہے۔ وائبرنٹ ویلج پروگرام (VVP)، بارڈر ایریا ڈیولپمنٹ پروگرام (BADP) اور سمردھ سیما یوجنا (SSY) جیسی ٹارگٹڈ اسکیموں کے ذریعے، سرحدی بستیوں میں تنہائی سے انضمام کی طرف تبدیلی دیکھی جا رہی ہے۔</p><p>حکام کا کہنا ہے کہ یہ نقطہ نظر پالیسی سوچ میں ایک ساختی تبدیلی کی نمائندگی کرتا ہے - سرحدی دیہاتوں کو نہ صرف حفاظتی دائروں کے طور پر، بلکہ خطے کی اقتصادی اور سماجی ترقی میں فعال شراکت داروں کے طور پر۔</p><h3>سرحدی ترقی کی حکمت عملی میں تبدیلی</h3><p>عمل آوری میں شامل عہدیداروں کے مطابق، ان اقدامات کا بنیادی مقصد راجوری، پونچھ، کٹھوعہ، سانبہ، بارہمولہ، بانڈی پورہ اور کپواڑہ جیسے اضلاع کے دور دراز دیہاتوں میں دیرینہ انفراسٹرکچر اور مواقع کے خلا کو پر کرنا ہے۔</p><p>یہ پروگرام سڑک کے رابطے کو مضبوط بنانے، قابل اعتماد بجلی کی فراہمی کو یقینی بنانے، ڈیجیٹل رسائی کو بڑھانے، اور پائیدار ذریعہ معاش کے اختیارات پیدا کرنے کے لیے بنائے گئے ہیں۔ حکام نے VVP کے دوسرے مرحلے کو خاص طور پر مہتواکانکشی قرار دیا ہے، جس میں مالیاتی مختص میں اضافہ اور سینئر انتظامی افسران کی زمین پر قریبی نگرانی ہے۔</p><h3>انفراسٹرکچر اور کنیکٹیویٹی کو بڑھانا</h3><div class="box"><h4>ترقی کے کلیدی فوکس ایریاز</h4><ul></ul></div><p>* کیا — VVP، BADP اور SSY کے تحت مربوط سرحدی ترقی* کہاں — جموں و کشمیر کے سرحدی اضلاع * فوکس — سڑکیں، بجلی، ڈیجیٹل کنیکٹیویٹی، ذریعہ معاش * کوریج — VVP فیز II کے تحت 124 سے زیادہ سرحدی دیہات * ایگزیکیوشن — فیلڈ سطح کی نگرانی کے ساتھ ملٹی ایجنسی کوآرڈینیشن</p><p>سرحدی سڑکوں کی تنظیم اور پردھان منتری گرام سڑک یوجنا جیسی ایجنسیوں کے ساتھ سڑکوں کے بنیادی ڈھانچے پر ایک بڑا زور دیا گیا ہے جو ہر موسم میں سڑکوں کی تعمیر کو تیز کر رہی ہے۔ یہ راستے سفر کے اوقات کو نمایاں طور پر کم کر رہے ہیں اور بازاروں، سکولوں اور صحت کی سہولیات تک رسائی کو بہتر بنا رہے ہیں۔</p><p>نوشہرہ پونچھ کے علاقے میں بہاری پتن-جھلا سڑک جیسے منصوبے اس تبدیلی کی علامت بن گئے ہیں، جو شہریوں کی نقل و حرکت اور ضروری خدمات دونوں کے لیے اہم لائف لائن کے طور پر کام کر رہے ہیں۔</p><p>حکام نوٹ کرتے ہیں کہ بہتر کنیکٹیویٹی سخت سردیوں کے مہینوں میں لاجسٹک چیلنجز کو کم کرنے میں بھی مدد کر رہی ہے، بلاتعطل سپلائی چین اور ہنگامی ردعمل تک رسائی کو یقینی بنا رہی ہے۔</p><h3>پاور، ڈیجیٹل رسائی اور مقامی بااختیار بنانا</h3><p>دین دیال اپادھیائے گرام جیوتی یوجنا اور سوبھاگیہ پہل جیسی اسکیموں کے تحت بجلی کی رسائی میں قابل ذکر بہتری دیکھی گئی ہے، جس سے دور دراز کے دیہاتوں تک قریب عالمگیر برقی کاری ہوئی ہے۔ مشکل سے پہنچنے والے مقامات پر، شمسی توانائی کے منصوبے گرڈ کی سپلائی میں اضافہ کر رہے ہیں، صاف ستھرا اور زیادہ پائیدار متبادل پیش کر رہے ہیں۔</p><p>ایک ہی وقت میں، توسیع شدہ ٹیلی کام انفراسٹرکچر اور فائبر کنیکٹوٹی ڈیجیٹل شمولیت کو قابل بنا رہے ہیں۔ طلباء تیزی سے ای لرننگ پلیٹ فارمز تک رسائی حاصل کر رہے ہیں، کسان حقیقی وقت میں قیمتوں کے تعین کے لیے موبائل ایپلیکیشنز کا استعمال کر رہے ہیں، اور چھوٹے کاروبار وسیع تر مارکیٹوں تک پہنچ رہے ہیں۔</p><p>افسران خواتین کی شرکت پر بڑھتے ہوئے اثر کو بھی اجاگر کرتے ہیں، خاص طور پر خود مدد گروپوں اور پیشہ ورانہ تربیتی پروگراموں میں جو ہنر مندی کی ترقی کے وسیع تر اقدامات جیسے کہ سکل انڈیا مشن کے تحت تعاون یافتہ ہیں۔</p><h3>صحت اور تعلیم میں بہتری</h3><p>صحت کی دیکھ بھال کی فراہمی کو اپ گریڈ شدہ بنیادی مراکز صحت اور موبائل میڈیکل یونٹس کے دور دراز بستیوں تک زیادہ باقاعدگی سے پہنچنے سے تقویت ملی ہے۔ یہ بہتری سرحدی علاقوں میں ماں اور بچے کی صحت کے بہتر اشاریوں میں معاون ثابت ہو رہی ہے۔</p><p>اپ گریڈ شدہ اسکولوں، سمارٹ کلاس رومز اور بہتر عملہ کے ساتھ تعلیمی انفراسٹرکچر بھی تبدیلی سے گزر رہا ہے۔ حکام کا کہنا ہے کہ اس کا مقصد طلباء کو اعلیٰ تعلیم اور پیشہ ورانہ تربیت کے راستوں سے جوڑتے ہوئے سرحدی اضلاع اور شہری مراکز کے درمیان تعلیمی رسائی میں برابری کو یقینی بنانا ہے۔</p><h3>ذریعہ معاش پیدا کرنا اور سیاحت کو آگے بڑھانا</h3><p>ترقیاتی حکمت عملی کا ایک اہم ستون روزی روٹی کی تخلیق ہے۔ حکام پائیدار آمدنی کے ذرائع پیدا کرنے کے لیے باغبانی، ادویاتی پودوں کی کاشت، دستکاری اور کوآپریٹو اداروں کو فروغ دے رہے ہیں۔</p><p>سرحدی سیاحت بھی ترقی کے شعبے کے طور پر ابھر رہی ہے، جس میں قدرتی مناظر اور ثقافتی ورثے کو ہوم اسٹے ماڈلز اور مقامی انٹرپرینیورشپ کے ذریعے فروغ دیا جا رہا ہے۔ یہ اقدامات آہستہ آہستہ ایک زمانے میں الگ تھلگ رہنے والے دیہاتوں کو ابھرتے ہوئے سیاحتی مقامات میں تبدیل کر رہے ہیں۔</p><p>سبسڈیز، بہتر مارکیٹ روابط اور انٹرپرینیورشپ سپورٹ بھی روایتی پیشوں کو بحال کرنے میں مدد کر رہے ہیں، جبکہ روزگار کی سکیمیں کمزور علاقوں میں قلیل مدتی آمدنی میں مدد فراہم کر رہی ہیں۔</p><h3>سرحدی دیہات میں روزمرہ کی زندگی بدل رہی ہے۔</h3><p>ان پروگراموں کا اثر روزمرہ کی زندگی میں نظر آتا ہے۔ تنہائی میں کمی نے تعلیم اور صحت کی دیکھ بھال تک رسائی کو بہتر بنایا ہے، جبکہ بہتر انفراسٹرکچر نے سامان اور خدمات کے لیے نقل و حرکت کو آسان بنا دیا ہے۔</p><p>معکوس ہجرت کا ایک بتدریج رجحان بھی دیکھا جا رہا ہے، کچھ نوجوان زراعت، سیاحت اور چھوٹے پیمانے پر کاروبار کرنے کے لیے اپنے آبائی گاؤں لوٹ رہے ہیں۔ ڈیری اور دستکاری میں خواتین کی زیر قیادت کوآپریٹیو گھریلو آمدنی اور مقامی اقتصادی لچک کو مزید مضبوط کر رہی ہیں۔</p><p>حکام کا کہنا ہے کہ ترقی میں کمیونٹی کی شرکت سے رہائشیوں اور سیکیورٹی اداروں کے درمیان ہم آہنگی میں بھی بہتری آئی ہے، جس سے حساس سرحدی علاقوں میں استحکام کو تقویت ملی ہے۔</p><h3>ایک طویل مدتی تبدیلی کا طریقہ</h3><p>حکام اس بات پر زور دیتے ہیں کہ حکمت عملی جسمانی انفراسٹرکچر سے آگے سماجی انضمام اور ثقافتی تحفظ تک پھیلی ہوئی ہے۔ گاؤں کی سطح کے ادارے منصوبہ بندی اور فیصلہ سازی میں تیزی سے شامل ہو رہے ہیں، جس سے ترقیاتی نتائج کی مضبوط مقامی ملکیت پیدا ہو رہی ہے۔</p><p>سینئر منتظمین کی طرف سے باقاعدگی سے جائزے اور نامزد افسران کی طرف سے فیلڈ کی نگرانی کا مقصد احتساب اور بروقت عمل درآمد کو یقینی بنانا ہے۔ اگرچہ جغرافیہ اور موسمی حالات کی وجہ سے چیلنجز برقرار ہیں، حکام کا کہنا ہے کہ ترقی مستحکم اور پھیل رہی ہے۔</p><h3>آگے کی سڑک</h3><p>مجموعی طور پر، جموں اور کشمیر کے سرحدی علاقوں میں جاری تبدیلی پالیسی میں ایک وسیع تر تبدیلی کی عکاسی کرتی ہے- جو ترقی کو سیکورٹی اور کمیونٹی کو بااختیار بنانے سے جوڑتی ہے۔ سرحدی دیہاتوں کو مرکزی دھارے کے اقتصادی فریم ورک میں ضم کر کے، یہ اقدامات پردیی بستیوں سے فعال ترقی کے مراکز تک ان کے کردار کو نئے سرے سے متعین کرنے میں مدد کر رہے ہیں۔</p><p>جیسا کہ VVP اور اس سے وابستہ اسکیمیں پھیلتی جارہی ہیں، حکام کا خیال ہے کہ یہ خطہ ایک زیادہ مستحکم اور خود انحصار مستقبل کی طرف بڑھ رہا ہے، جہاں ترقی خود طویل مدتی امن اور لچک کی مضبوط بنیاد بن جاتی ہے۔</p>
     </div>
     <div class="foot">
-      <span>بھارت سنواد · خارجہ پالیسی ڈیسک</span><span>© 2026 بھارت سنواد پبلیکیشنز</span><span>صفحہ 1</span>
+      <span>بھارت سنواد · بارڈر پالیسی ڈیسک</span><span>© 2026 بھارت سنواد پبلیکیشنز</span><span>صفحہ 1</span>
     </div>
   </div>
   </div>
+
 <script>
+/* ===== poll chrome strings per language ===== */
+var BS_POLL_T = {
+  hi:{eyebrow:"जनमत · आपकी राय", thanks:"आपके मत के लिए धन्यवाद!", votes:"वोट"},
+  en:{eyebrow:"Poll · Your Opinion", thanks:"Thanks for your vote!", votes:"votes"},
+  ur:{eyebrow:"رائے شماری · آپ کی رائے", thanks:"آپ کی رائے کا شکریہ!", votes:"ووٹ"}
+};
+var BS_LANG = "hi";
+
+function bsPollPct(n,t){return t?Math.round(n*100/t):0;}
+function bsPollRenderOne(box,counts){
+  counts=counts||{};
+  var opts=box.querySelectorAll(".opt"),total=0;
+  opts.forEach(function(o){total+=counts[o.dataset.opt]||0;});
+  var voted=box.classList.contains("voted");
+  opts.forEach(function(o){
+    var lab=o.querySelector(".optlabel");
+    if(lab) lab.textContent=o.getAttribute("data-"+BS_LANG)||lab.textContent;
+    var n=counts[o.dataset.opt]||0,p=bsPollPct(n,total);
+    o.querySelector(".barfill").style.width=voted?p+"%":"0%";
+    o.querySelector(".pct").textContent=voted?p+"%":"";
+  });
+  var t=BS_POLL_T[BS_LANG];
+  var eb=box.querySelector(".eyebrow"); if(eb) eb.textContent=t.eyebrow;
+  var th=box.querySelector("[data-thanks]"); if(th) th.textContent=t.thanks;
+  var tot=box.querySelector("[data-total]"); if(tot) tot.textContent=voted?(total+" "+t.votes):"";
+  var q=box.querySelector("h4"); if(q && q.getAttribute("data-"+BS_LANG)) q.textContent=q.getAttribute("data-"+BS_LANG);
+}
+function bsPollRefreshAll(){document.querySelectorAll(".bs-poll").forEach(function(b){bsPollRenderOne(b);});}
+
+function bsPollInit(box){
+  var API="/api/poll", id=box.dataset.pollId, already=false;
+  try{already=!!localStorage.getItem("bs_voted_"+id);}catch(e){}
+  function localCounts(){try{return JSON.parse(localStorage.getItem("bs_counts_"+id)||"{}");}catch(e){return {};}}
+  fetch(API+"?id="+encodeURIComponent(id)).then(function(r){return r.ok?r.json():null;})
+    .then(function(d){var c=(d&&d.counts)?d.counts:localCounts(); if(already)box.classList.add("voted"); if(already){var t=box.querySelector("[data-thanks]"); if(t)t.hidden=false;} bsPollRenderOne(box,c);})
+    .catch(function(){var c=localCounts(); if(already)box.classList.add("voted"); bsPollRenderOne(box,c);});
+  box.querySelectorAll(".opt").forEach(function(btn){
+    btn.addEventListener("click",function(){
+      if(box.classList.contains("voted"))return;
+      var opt=btn.dataset.opt;
+      try{localStorage.setItem("bs_voted_"+id,opt);}catch(e){}
+      var c=localCounts(); c[opt]=(c[opt]||0)+1; try{localStorage.setItem("bs_counts_"+id,JSON.stringify(c));}catch(e){}
+      box.classList.add("voted");
+      var th=box.querySelector("[data-thanks]"); if(th)th.hidden=false;
+      bsPollRenderOne(box,c);
+      fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:id,option:opt})})
+        .then(function(r){return r.ok?r.json():null;})
+        .then(function(d){if(d&&d.counts)bsPollRenderOne(box,d.counts);}).catch(function(){});
+    });
+  });
+}
+
 function setLang(l){
+  BS_LANG=l;
   document.querySelectorAll('.langblock').forEach(b=>b.classList.toggle('show', b.dataset.lang===l));
   document.querySelectorAll('.langbar button').forEach(btn=>btn.classList.toggle('active', btn.dataset.l===l));
   document.documentElement.lang=(l==='ur'?'ur':(l==='en'?'en':'hi'));
-  document.documentElement.dir=(l==='ur'?'rtl':'ltr');
+  bsPollRefreshAll();
   try{localStorage.setItem('bs_lang',l);}catch(e){}
 }
 document.addEventListener('DOMContentLoaded',function(){
+  document.querySelectorAll(".bs-poll").forEach(bsPollInit);
   var s='hi'; try{s=localStorage.getItem('bs_lang')||'hi';}catch(e){}
-  if(!document.querySelector('[data-lang="'+s+'"]')) s='hi';
   setLang(s);
 });
 </script>
