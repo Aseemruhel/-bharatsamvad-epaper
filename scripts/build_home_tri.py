@@ -359,7 +359,7 @@ def page(lang):
 
     names = {
         "hi": "भारत संवाद",
-        "en": "Bharat Samvad",
+        "en": "Bharat Samwad",
         "ur": "بھارت سنواد",
     }
 
@@ -444,7 +444,7 @@ doc = f"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>भारत संवाद · Bharat Samvad · بھارت سنواد</title>
+<title>भारत संवाद · Bharat Samwad · بھارت سنواد</title>
 <style>{STYLE}</style>
 </head>
 <body>
