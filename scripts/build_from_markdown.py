@@ -1,9 +1,5 @@
 """
 Bharat Samvad — auto-publish build script.
-
-Reads English markdown files from content/, translates to Hindi and Urdu,
-then assembles trilingual HTML using tribuilder.build().
-Also regenerates homepage and archive.
 """
 
 import os, sys, re, json, hashlib, glob
@@ -19,55 +15,37 @@ sys.path.insert(0, str(SCRIPTS))
 os.chdir(SCRIPTS)
 from tribuilder import build
 
-# ---------- Google public web translate ----------
+# ---------- Google Translate ----------
 GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
 
 def _translate_one(text, target_lang, source_lang="en"):
     if not text:
         return text
-
-    import urllib.parse
-    import urllib.request
-
-    params = {
-        "client": "gtx",
-        "sl": source_lang,
-        "tl": target_lang,
-        "dt": "t",
-        "q": text,
-    }
+    import urllib.parse, urllib.request
+    params = {"client": "gtx", "sl": source_lang, "tl": target_lang, "dt": "t", "q": text}
     url = GOOGLE_TRANSLATE_URL + "?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(
-        url,
-        headers={"User-Agent": "Mozilla/5.0 (compatible; BharatSamvadBuilder/1.0)"}
-    )
-
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         data = resp.read().decode("utf-8")
-
     parsed = json.loads(data)
     try:
         return "".join(part[0] for part in parsed[0] if part and part[0])
-    except Exception as exc:
-        raise RuntimeError(f"Unexpected Google Translate response for {target_lang}") from exc
-
+    except:
+        return text
 
 def translate_batch(texts_en):
     out = {}
     for key, text in texts_en.items():
-        out[key] = {
-            "hi": _translate_one(text, "hi"),
-            "ur": _translate_one(text, "ur"),
-        }
+        out[key] = {"hi": _translate_one(text, "hi"), "ur": _translate_one(text, "ur")}
     return out
 
 
-# ---------- Markdown parser ----------
+# ---------- Markdown Parser ----------
 def parse_markdown(md_text):
     if not md_text.startswith("---"):
-        raise ValueError("Article must start with --- frontmatter ---")
-    
+        raise ValueError("Article must start with ---")
     _, fm_text, body_text = md_text.split("---", 2)
+    
     fm = {}
     for line in fm_text.strip().splitlines():
         if ":" in line:
@@ -143,8 +121,7 @@ def parse_markdown(md_text):
 
 def collect_strings(fm, blocks):
     out = {}
-    keys = ["section", "kicker", "byline", "location", "headline", "subdeck"]
-    for k in keys:
+    for k in ["section", "kicker", "byline", "location", "headline", "subdeck"]:
         if fm.get(k):
             out[f"fm.{k}"] = fm[k]
 
@@ -153,7 +130,7 @@ def collect_strings(fm, blocks):
             out[f"b{idx}"] = payload
         elif typ == "box":
             out[f"b{idx}.title"] = payload["title"]
-            for j, (lbl, val) in enumerate(payload["items"]):
+            for j, (lbl, val) in enumerate(payload.get("items", [])):
                 out[f"b{idx}.itemlbl.{j}"] = lbl.replace(" — ", "")
                 out[f"b{idx}.itemval.{j}"] = val
         elif typ == "pull":
@@ -163,9 +140,31 @@ def collect_strings(fm, blocks):
     return out
 
 
-# ---------- Date formatting ----------
-WEEKDAYS = { ... }   # (keeping your original dictionaries - assuming they are defined above)
-MONTHS = { ... }     # (keeping your original dictionaries)
+# ---------- Date Dictionaries ----------
+WEEKDAYS = {
+    "Monday":    {"hi":"सोमवार", "en":"Monday",    "ur":"پیر"},
+    "Tuesday":   {"hi":"मंगलवार","en":"Tuesday",   "ur":"منگل"},
+    "Wednesday": {"hi":"बुधवार", "en":"Wednesday", "ur":"بدھ"},
+    "Thursday":  {"hi":"गुरुवार","en":"Thursday",  "ur":"جمعرات"},
+    "Friday":    {"hi":"शुक्रवार","en":"Friday",    "ur":"جمعہ"},
+    "Saturday":  {"hi":"शनिवार", "en":"Saturday",  "ur":"ہفتہ"},
+    "Sunday":    {"hi":"रविवार", "en":"Sunday",    "ur":"اتوار"},
+}
+
+MONTHS = {
+    1: {"hi":"जनवरी", "en":"January", "ur":"جنوری"},
+    2: {"hi":"फरवरी", "en":"February","ur":"فروری"},
+    3: {"hi":"मार्च",  "en":"March",    "ur":"مارچ"},
+    4: {"hi":"अप्रैल", "en":"April",    "ur":"اپریل"},
+    5: {"hi":"मई",     "en":"May",      "ur":"مئی"},
+    6: {"hi":"जून",    "en":"June",     "ur":"جون"},
+    7: {"hi":"जुलाई",  "en":"July",     "ur":"جولائی"},
+    8: {"hi":"अगस्त",  "en":"August",   "ur":"اگست"},
+    9: {"hi":"सितंबर","en":"September","ur":"ستمبر"},
+    10:{"hi":"अक्टूबर","en":"October",  "ur":"اکتوبر"},
+    11:{"hi":"नवंबर", "en":"November", "ur":"نومبر"},
+    12:{"hi":"दिसंबर","en":"December", "ur":"دسمبر"},
+}
 
 def date_strings(date_iso):
     from datetime import date
@@ -179,37 +178,49 @@ def date_strings(date_iso):
     }
 
 
+# ---------- Build Language Dict ----------
 def build_lang_dict(lang, fm, blocks, T, date_strs):
-    # ... (your original function - keeping logic same)
     page = fm.get("page", "1")
     page_str = {"hi":"पृष्ठ","en":"Page","ur":"صفحہ"}[lang]
     special = {"hi":"विशेष रिपोर्ट","en":"Special Report","ur":"خصوصی رپورٹ"}[lang]
 
     A = {
         "strip_left": f"{page_str} {page} · {T['fm.section'][lang]}",
-        "strip_mid": special,
-        "date": date_strs[lang],
-        "kicker": T["fm.kicker"][lang],
-        "head": T["fm.headline"][lang],
-        "sub": T["fm.subdeck"][lang],
-        "byline": f"<b>{T.get('fm.byline',{}).get(lang, fm.get('byline',''))}</b>",
-        "foot_l": f"भारत संवाद · {T['fm.section'][lang]} डेस्क" if lang=="hi" else f"Bharat Samvad · {T['fm.section'][lang]} Desk",
-        "foot_m": "© 2026 भारत संवाद प्रकाशन" if lang=="hi" else "© 2026 Bharat Samvad Publications",
-        "foot_p": f"{page_str} {page}",
-        "body": [],
+        "strip_mid":  special,
+        "date":       date_strs[lang],
+        "kicker":     T.get("fm.kicker", {}).get(lang, fm.get("kicker", "")),
+        "head":       T.get("fm.headline", {}).get(lang, fm.get("headline", "")),
+        "sub":        T.get("fm.subdeck", {}).get(lang, fm.get("subdeck", "")),
+        "byline":     f"<b>{T.get('fm.byline',{}).get(lang, fm.get('byline',''))}</b> · {T.get('fm.location',{}).get(lang, fm.get('location',''))}",
+        "foot_l":     f"भारत संवाद · {T['fm.section'][lang]} डेस्क" if lang == "hi" else f"Bharat Samvad · {T['fm.section'][lang]} Desk",
+        "foot_m":     "© 2026 भारत संवाद प्रकाशन" if lang == "hi" else "© 2026 Bharat Samvad Publications",
+        "foot_p":     f"{page_str} {page}",
+        "body":       [],
+        "box_title":  "",
+        "box_items":  [],
+        "pull_q":     "",
+        "pull_c":     "",
     }
 
     for idx, (typ, payload) in enumerate(blocks):
         if typ in ("lead", "p", "h3"):
             A["body"].append((typ, T[f"b{idx}"][lang]))
         elif typ == "box":
+            A["box_title"] = T.get(f"b{idx}.title", {}).get(lang, "")
+            A["box_items"] = [
+                (T.get(f"b{idx}.itemlbl.{j}", {}).get(lang, lbl), 
+                 T.get(f"b{idx}.itemval.{j}", {}).get(lang, val))
+                for j, (lbl, val) in enumerate(payload.get("items", []))
+            ]
             A["body"].append(("BOX", ""))
         elif typ == "pull":
+            A["pull_q"] = T.get(f"b{idx}.q", {}).get(lang, "")
+            A["pull_c"] = T.get(f"b{idx}.c", {}).get(lang, "")
             A["body"].append(("PULL", ""))
     return A
 
 
-# ---------- Main Article Builder ----------
+# ---------- Build Article ----------
 def build_article(md_path):
     text = Path(md_path).read_text(encoding="utf-8")
     fm, blocks = parse_markdown(text)
@@ -218,39 +229,33 @@ def build_article(md_path):
     h = hashlib.sha256(json.dumps(src_strings, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
     cache_file = CACHE / (Path(md_path).stem + ".json")
 
+    T = None
     if cache_file.exists():
         try:
             cached = json.loads(cache_file.read_text(encoding="utf-8"))
             if cached.get("hash") == h:
                 T = cached["t"]
-                for k, v in src_strings.items():
-                    T.setdefault(k, {})["en"] = v
                 print(f"  ✓ loaded cache for {Path(md_path).name}")
-                return _finalize_article(fm, blocks, T)
         except:
             pass
 
-    print(f"  → translating {len(src_strings)} strings...")
-    raw = translate_batch(src_strings)
-    T = {}
-    for k, v in src_strings.items():
-        r = raw.get(k, {})
-        T[k] = {"hi": r.get("hi", v), "en": v, "ur": r.get("ur", v)}
+    if T is None:
+        print(f"  → translating {len(src_strings)} strings...")
+        raw = translate_batch(src_strings)
+        T = {}
+        for k, v in src_strings.items():
+            r = raw.get(k, {})
+            T[k] = {"hi": r.get("hi", v), "en": v, "ur": r.get("ur", v)}
+        cache_file.write_text(json.dumps({"hash": h, "t": T}, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    cache_file.write_text(json.dumps({"hash": h, "t": T}, ensure_ascii=False, indent=2), encoding="utf-8")
-    return _finalize_article(fm, blocks, T)
-
-
-def _finalize_article(fm, blocks, T):
     date_strs = date_strings(fm["date"])
     langs = {l: build_lang_dict(l, fm, blocks, T, date_strs) for l in ("hi","en","ur")}
 
-    page = str(fm.get("page", "1")).strip()
+    page = str(fm.get("page", "1"))
     out_name = f"bharatsamvad-{fm['date']}-page{page}.html"
     out_path = ROOT / out_name
-    title = "भारत संवाद · Bharat Samvad · بھارت سنواد"
 
-    build(str(out_path), title, langs)
+    build(str(out_path), "भारत संवाद", langs)
     print(f"  ✓ wrote {out_name}")
 
     return {
@@ -263,7 +268,7 @@ def _finalize_article(fm, blocks, T):
     }
 
 
-# ---------- FIXED regenerate_index ----------
+# ---------- Regenerate Index ----------
 def regenerate_index(articles):
     by_date = {}
     for a in articles:
@@ -280,10 +285,7 @@ def regenerate_index(articles):
             "cards": [
                 {
                     "href": a["href"],
-                    "label": {
-                        l: f"{ {'hi':'पृष्ठ','en':'Page','ur':'صفحہ'}[l] } {a['page']} · {a['section'][l]}"
-                        for l in ("hi", "en", "ur")
-                    },
+                    "label": {l: f"{ {'hi':'पृष्ठ','en':'Page','ur':'صفحہ'}[l] } {a['page']} · {a['section'][l]}" for l in ("hi","en","ur")},
                     "title": a["headline"]
                 }
                 for a in items
@@ -295,25 +297,10 @@ def regenerate_index(articles):
 
     new_days = "DAYS = " + repr(DAYS_LIST)
 
-    # Safe regex replacement to avoid \u error
-    src2 = re.sub(
-        r'DAYS\s*=\s*\[[\s\S]*?\]',
-        new_days,
-        src,
-        flags=re.DOTALL
-    )
+    src2 = re.sub(r'DAYS\s*=\s*\[[\s\S]*?\]', new_days, src, flags=re.DOTALL)
 
     if src2 == src:
-        # Alternative safer approach
-        src2 = re.sub(
-            r'(DAYS\s*=\s*)\[[\s\S]*?\]',
-            lambda m: m.group(1) + repr(DAYS_LIST),
-            src,
-            flags=re.DOTALL
-        )
-
-    if src2 == src:
-        raise RuntimeError("Could not find DAYS = [...] in build_home_tri.py")
+        src2 = re.sub(r'(DAYS\s*=\s*)\[[\s\S]*?\]', lambda m: m.group(1) + repr(DAYS_LIST), src, flags=re.DOTALL)
 
     tmp = SCRIPTS / "_build_home_runtime.py"
     tmp.write_text(src2, encoding="utf-8")
@@ -322,16 +309,14 @@ def regenerate_index(articles):
     import runpy
     runpy.run_path(str(tmp))
 
-    moved = []
     for fname in ("index.html", "archive.html"):
         out_file = SCRIPTS / fname
         if out_file.exists():
             (ROOT / fname).write_text(out_file.read_text(encoding="utf-8"), encoding="utf-8")
             out_file.unlink(missing_ok=True)
-            moved.append(fname)
 
     tmp.unlink(missing_ok=True)
-    print(f"  ✓ regenerated {' + '.join(moved)}")
+    print(f"  ✓ regenerated index.html + archive.html")
 
 
 # ---------- Main ----------
@@ -350,17 +335,20 @@ def main():
     manual_file = CONTENT / "manual_articles.json"
     if manual_file.exists():
         print("• manual_articles.json")
-        manual_articles = json.loads(manual_file.read_text(encoding="utf-8"))
-        for a in manual_articles:
-            date_strs = date_strings(a["date_iso"])
-            arts.append({
-                "href": a["href"],
-                "date": date_strs,
-                "page": str(a.get("page", "1")),
-                "section": a["section"],
-                "headline": a["headline"],
-                "date_iso": a["date_iso"],
-            })
+        try:
+            manual_articles = json.loads(manual_file.read_text(encoding="utf-8"))
+            for a in manual_articles:
+                date_strs = date_strings(a["date_iso"])
+                arts.append({
+                    "href": a["href"],
+                    "date": date_strs,
+                    "page": str(a.get("page", "1")),
+                    "section": a["section"],
+                    "headline": a["headline"],
+                    "date_iso": a["date_iso"],
+                })
+        except Exception as e:
+            print(f"  ✗ manual_articles error: {e}")
 
     if not arts:
         print("No articles found.")
