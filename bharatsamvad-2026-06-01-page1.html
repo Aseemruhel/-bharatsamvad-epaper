@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>भारत संवाद · Bharat Samvad · بھارت سنواد</title>
+<style>
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
+.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+
+:root{
+  --paper:#f4efe2;--paper-edge:#e7dfca;--ink:#1a1714;--ink-soft:#3a342c;--rule:#26221c;--accent:#9a1b1b;--accent-dk:#6f1212;--gold:#8a6d2f;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:var(--ink);padding:28px 14px;line-height:1.55;-webkit-font-smoothing:antialiased;}
+.sheet{max-width:880px;margin:0 auto;background:var(--paper);background-image:radial-gradient(circle at 20% 10%,rgba(0,0,0,.018) 0,transparent 55%),radial-gradient(circle at 80% 90%,rgba(120,90,40,.04) 0,transparent 55%);box-shadow:0 18px 50px rgba(0,0,0,.4),inset 0 0 0 1px var(--paper-edge);padding:30px 34px 42px;position:relative;}
+.sheet::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.012) 0 1px,transparent 1px 3px);mix-blend-mode:multiply;opacity:.5;}
+.masthead{text-align:center;padding:10px 0 4px;border-bottom:4px double var(--rule);}
+.masthead h1{font-family:"Rozha One",Georgia,serif;font-size:74px;line-height:.95;letter-spacing:1px;color:var(--ink);}
+.strip{display:flex;justify-content:space-between;align-items:center;font-family:"Mukta",Arial,sans-serif;font-size:11.5px;font-weight:500;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid var(--rule);}
+.strip .mid{color:var(--accent);font-weight:700;letter-spacing:.5px;}
+.kicker{display:inline-block;background:var(--accent);color:#f7f1e3;font-family:"Khand",Arial,sans-serif;font-weight:600;letter-spacing:3px;font-size:13px;text-transform:uppercase;padding:3px 12px;margin:20px 0 8px;}
+.headline{font-family:"Rozha One",Georgia,serif;font-size:46px;line-height:1.08;color:var(--ink);margin-bottom:8px;}
+.subdeck{font-family:"Mukta",Arial,sans-serif;font-weight:500;font-size:17.5px;color:var(--ink-soft);line-height:1.4;border-left:3px solid var(--gold);padding-left:12px;margin-bottom:14px;}
+.byline{font-family:"Mukta",Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:6px 0;margin-bottom:18px;}
+.byline b{color:var(--accent-dk);}
+.body{column-count:2;column-gap:30px;column-rule:1px solid #cbbfa3;font-size:15.2px;text-align:justify;hyphens:auto;color:var(--ink-soft);}
+.body p{margin-bottom:11px;text-indent:14px;}
+.body p.lead{text-indent:0;}
+.body p.lead::first-letter{font-family:"Rozha One",Georgia,serif;float:left;font-size:62px;line-height:.78;padding:4px 8px 0 0;color:var(--accent);}
+.body h3{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:19px;color:var(--ink);letter-spacing:.4px;margin:6px 0 5px;break-after:avoid;}
+.body h3::before{content:"▍";color:var(--accent);margin-right:5px;}
+.pull{break-inside:avoid;margin:6px 0 12px;padding:12px 0;border-top:2px solid var(--rule);border-bottom:2px solid var(--rule);font-family:"Rozha One",Georgia,serif;font-size:21px;line-height:1.3;color:var(--accent-dk);text-align:left;text-indent:0;}
+.pull cite{display:block;font-family:"Mukta",Arial,sans-serif;font-style:normal;font-weight:600;font-size:12px;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;margin-top:6px;}
+.box{break-inside:avoid;background:#efe7d3;border:1.5px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);padding:14px 16px;margin:4px 0 14px;}
+.box h4{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:18px;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;border-bottom:2px solid var(--accent);padding-bottom:5px;margin-bottom:9px;}
+.box ul{list-style:none;}
+.box li{font-family:"Mukta",Arial,sans-serif;font-size:13.4px;line-height:1.45;color:var(--ink);padding:5px 0 5px 20px;position:relative;border-bottom:1px dotted #b6a982;}
+.box li:last-child{border-bottom:none;}
+.box li::before{content:"◆";position:absolute;left:0;top:5px;color:var(--accent);font-size:10px;}
+.box li b{color:var(--accent-dk);}
+.foot{margin-top:22px;border-top:4px double var(--rule);padding-top:8px;display:flex;justify-content:space-between;font-family:"Mukta",Arial,sans-serif;font-size:11px;color:var(--ink-soft);letter-spacing:.4px;text-transform:uppercase;}
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none}.langblock.show{display:block;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+.back-home-btn{
+  display:inline-block;
+  margin:14px 0 2px;
+  padding:7px 14px;
+  background:var(--accent);
+  color:#fff;
+  text-decoration:none;
+  font-family:"Mukta",Arial,sans-serif;
+  font-size:13px;
+  font-weight:700;
+  letter-spacing:.3px;
+  border:1px solid var(--accent-dk);
+  box-shadow:2px 2px 0 rgba(38,34,28,.18);
+}
+
+.back-home-btn:hover{
+  background:var(--accent-dk);
+}
+.home-logo{
+  color:inherit;
+  text-decoration:none;
+  display:inline-block;
+}
+.home-logo:hover{
+  color:var(--accent);
+}
+@media(max-width:680px){.sheet{padding:20px 18px 30px}.masthead h1{font-size:48px}.headline{font-size:32px}.body{column-count:1}.strip{flex-direction:column;gap:3px;text-align:center}}
+@media print{body{background:#fff;padding:0}.sheet{box-shadow:none}}
+
+
+/* ===== language toggle ===== */
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;
+  background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;
+  font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;
+  padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none;} .langblock.show{display:block;}
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+/* news photo */
+.newsfig{column-span:all;break-inside:avoid;margin:4px 0 16px;}
+.newsfig img{width:100%;height:auto;display:block;border:1px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);}
+.newsfig figcaption{font-family:"Mukta",sans-serif;font-size:12.5px;line-height:1.4;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid #cbbfa3;}
+.newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
+.lang-ur .newsfig figcaption{text-align:right;}
+/* ===== poll widget ===== */
+.bs-poll{break-inside:avoid;column-span:all;background:#efe7d3;border:1.5px solid var(--ink);
+  border-top:4px solid var(--accent);box-shadow:3px 3px 0 rgba(38,34,28,.18);
+  padding:18px 20px 16px;margin:8px 0 18px;}
+.bs-poll .eyebrow{font-family:'Khand',sans-serif;font-weight:700;letter-spacing:3px;font-size:11px;
+  text-transform:uppercase;color:#fff;background:var(--accent);display:inline-block;padding:3px 11px;margin-bottom:10px;}
+.bs-poll h4{font-family:'Rozha One',Georgia,serif;font-size:21px;line-height:1.25;color:var(--ink);margin-bottom:14px;border:none;padding:0;}
+.bs-poll .opt{display:block;width:100%;text-align:left;font-family:inherit;font-size:15px;color:var(--ink);
+  background:var(--paper);border:1.5px solid var(--ink);padding:11px 14px;margin-bottom:9px;cursor:pointer;
+  position:relative;overflow:hidden;transition:transform .1s;}
+.bs-poll .opt:hover{transform:translateX(3px);}
+.bs-poll .opt .barfill{position:absolute;inset:0;background:rgba(154,27,27,.16);width:0;transition:width .5s ease;z-index:0;}
+.bs-poll .opt .lbl{position:relative;z-index:1;display:flex;justify-content:space-between;gap:10px;}
+.bs-poll .opt .pct{font-weight:bold;color:var(--accent-dk);font-family:'Khand',sans-serif;}
+.bs-poll.voted .opt{cursor:default;}
+.bs-poll.voted .opt:hover{transform:none;}
+.bs-poll .meta{font-family:'Mukta',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:8px;
+  display:flex;justify-content:space-between;align-items:center;gap:10px;}
+.bs-poll .thanks{color:var(--accent-dk);font-weight:600;}
+.lang-ur .bs-poll h4{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .bs-poll .opt{text-align:right;font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .bs-poll .opt:hover{transform:translateX(-3px);}
+.lang-ur .bs-poll .meta{flex-direction:row-reverse;}
+
+</style>
+</head>
+<body>
+  <div class="langbar">
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
+    <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="ur" onclick="setLang('ur')">اردو</button>
+  </div>
+  <div class="sheet">
+  <div class="langblock lang-hi" data-lang="hi">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">भारत संवाद</h1>
+    </div>
+    <div class="strip">
+      <span>पृष्ठ 1 · रक्षा एवं सामरिक मामले</span>
+      <span class="mid">विशेष रिपोर्ट</span>
+      <span>सोमवार, 1 जून 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">भारत-नेपाल रक्षा सहयोग</span>
+    <h2 class="headline">नेपाली सेना की टुकड़ी ने बहुराष्ट्रीय अभ्यास 'एक्स प्रगति' के पहले संस्करण में भाग लिया</h2>
+    <p class="subdeck">38 सदस्यीय नेपाली सेना की टुकड़ी भारतीय सेना द्वारा आयोजित उद्घाटन बहुराष्ट्रीय क्षेत्र प्रशिक्षण अभ्यास में शामिल हुई, जिसने भाग लेने वाले देशों के बीच रक्षा सहयोग, परिचालन तालमेल और सैन्य-से-सैन्य संबंधों को मजबूत किया।</p>
+    <div class="byline"><b>भारत संवाद डेस्क</b> · उमरोई, मेघालय</div>
+    <div class="body">
+<h3>इमेजिस</h3><p>![पूर्व प्रगति प्रशिक्षण गतिविधि](1afd44f8-99e7-4274-b5ff-36d5a05507b5.png)</p><p>*प्रतिभागी एफटीएन, उमरोई में प्रगति अभ्यास के दौरान प्रशिक्षण गतिविधियाँ करते हैं।*</p><p>![प्रगति अभ्यास के दौरान नेपाली और भारतीय सेना के अधिकारी](22ec0d22-a408-4ea8-bbf9-fd97757321ca.png)</p><p>*लेफ्टिनेंट जनरल प्रदीप जंग केसी, वीसीओएएस, नेपाली सेना, प्रगति अभ्यास में भारतीय सेना नेतृत्व के साथ बातचीत के दौरान।*</p><p>---</p><p class="lead">भारत और नेपाल के बीच स्थायी रक्षा साझेदारी को और मजबूत करते हुए, नेपाली सेना की 38 सदस्यीय टुकड़ी ने 18 से 31 मई 2026 तक विदेशी प्रशिक्षण नोड (एफटीएन), उमरोई में भारतीय सेना द्वारा आयोजित बहुराष्ट्रीय पड़ोस सैन्य क्षेत्र प्रशिक्षण अभ्यास 'एक्स प्रगति' के पहले संस्करण में भाग लिया। इस अभ्यास में ग्यारह मित्र विदेशी देशों के सैन्य कर्मियों को एक साथ लाया गया और अंतरसंचालनीयता, परिचालन समन्वय और सामूहिक क्षमताओं को बढ़ाने पर ध्यान केंद्रित किया गया।</p><h3>भारत-नेपाल रक्षा संबंधों को मजबूत करना</h3><p>नेपाली सेना की भागीदारी ने भारत और नेपाल के बीच घनिष्ठ और दीर्घकालिक रक्षा संबंधों को रेखांकित किया। संयुक्त प्रशिक्षण गतिविधियों और पेशेवर सैन्य आदान-प्रदान के माध्यम से, दोनों सेनाओं ने आपसी समझ को गहरा किया और सैन्य-से-सैन्य सहयोग को मजबूत किया।</p><h3>पर्यवेक्षक प्रतिनिधिमंडल सत्यापन चरण में भाग लेता है</h3><p>उप सेना प्रमुख (वीसीओएएस) लेफ्टिनेंट जनरल प्रदीप जंग केसी के नेतृत्व में नेपाली सेना के तीन सदस्यीय पर्यवेक्षक प्रतिनिधिमंडल ने 28 से 31 मई 2026 तक उमरोई में अभ्यास के सत्यापन चरण और समापन समारोह में भाग लिया।</p><p>इस यात्रा ने नेपाली सेना के वरिष्ठ नेतृत्व को प्रशिक्षण कार्यक्रम के परिणामों का निरीक्षण करने और मित्रवत विदेशी देशों की भाग लेने वाली टुकड़ियों के साथ बातचीत करने का अवसर प्रदान किया।</p><h3>बहुराष्ट्रीय भागीदारी और संचालनात्मक शिक्षा</h3><p>एक्स प्रगति के उद्घाटन संस्करण में ग्यारह मित्रवत विदेशी देशों की भागीदारी देखी गई, जिससे यह क्षेत्रीय सैन्य सहयोग के लिए एक महत्वपूर्ण मंच बन गया। अभ्यास ने भाग लेने वाले बलों को सर्वोत्तम प्रथाओं का आदान-प्रदान करने, समन्वय में सुधार करने और आम सुरक्षा चुनौतियों के लिए तत्परता बढ़ाने में सक्षम बनाया।</p><div class="box"><h4>मुख्य विशेषताएं</h4><ul><li><b>अभ्यास: बहुराष्ट्रीय पड़ोस सैन्य क्षेत्र प्रशिक्षण अभ्यास 'एक्स प्रगति' — </b></li><li><b>स्थान: विदेशी प्रशिक्षण नोड (एफटीएन), उमरोई — </b></li><li><b>दिनांक: 18-31 मई 2026 — </b></li><li><b>नेपाली सेना की भागीदारी: 38 सदस्यीय दल — </b></li><li><b>पर्यवेक्षक प्रतिनिधिमंडल: लेफ्टिनेंट जनरल प्रदीप जंग केसी, वीसीओएएस, नेपाली सेना के नेतृत्व में — </b></li><li><b>विदेशी भागीदारी: ग्यारह मित्रवत विदेशी देश — </b></li><li><b>फोकस क्षेत्र: अंतरसंचालनीयता, परिचालन तालमेल, विश्वास-निर्माण और सामूहिक क्षमता विकास — </b></li></ul></div><h3>विश्वास और सामूहिक क्षमता का निर्माण</h3><p>इस अभ्यास ने आपसी विश्वास और पेशेवर सहयोग को बढ़ावा देते हुए भाग लेने वाले देशों के बीच परिचालन तालमेल बढ़ाया। संयुक्त गतिविधियों और प्रशिक्षण परिदृश्यों ने सामूहिक क्षमताओं के विकास में योगदान दिया जो एक जटिल और परस्पर जुड़े सुरक्षा वातावरण में तेजी से महत्वपूर्ण हैं।</p><h3>क्षेत्रीय सैन्य सहयोग में एक कदम आगे</h3><p>पूर्व प्रगति ने पड़ोसी और मित्र देशों के साथ रक्षा जुड़ाव को मजबूत करने की भारत की प्रतिबद्धता पर प्रकाश डाला। नेपाली सेना और अन्य विदेशी टुकड़ियों की सफल भागीदारी ने क्षेत्रीय स्थिरता, सहयोग और तैयारियों को बढ़ावा देने में बहुराष्ट्रीय सैन्य अभ्यासों के महत्व को प्रदर्शित किया।</p><p>भारत संवाद पाठकों के लिए, यह अभ्यास एक उदाहरण के रूप में कार्य करता है कि कैसे रक्षा कूटनीति और सैन्य सहयोग पूरे क्षेत्र में पेशेवर सैन्य क्षमता को बढ़ाते हुए रणनीतिक साझेदारी को मजबूत करना जारी रखते हैं।</p>
+    </div>
+    <div class="foot">
+      <span>भारत संवाद · रक्षा एवं सामरिक मामले डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 1</span>
+    </div>
+  </div>
+  <div class="langblock lang-en" data-lang="en">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">Bharat Samwad</h1>
+    </div>
+    <div class="strip">
+      <span>Page 1 · Defence & Strategic Affairs</span>
+      <span class="mid">Special Report</span>
+      <span>Monday, 1 June 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">India–Nepal Defence Cooperation</span>
+    <h2 class="headline">Nepali Army Contingent Participates in First Edition of Multinational Exercise ‘Ex Pragati’</h2>
+    <p class="subdeck">A 38-member Nepali Army contingent joined the inaugural multinational field training exercise conducted by the Indian Army, reinforcing defence cooperation, operational synergy and military-to-military ties among participating nations.</p>
+    <div class="byline"><b>Bharat Samvad Desk</b> · Umroi, Meghalaya</div>
+    <div class="body">
+<h3>Images</h3><p>![Ex Pragati Training Activity](1afd44f8-99e7-4274-b5ff-36d5a05507b5.png)</p><p>*Participants undertake training activities during Exercise Pragati at FTN, Umroi.*</p><p>![Nepali and Indian Army Officers during Exercise Pragati](22ec0d22-a408-4ea8-bbf9-fd97757321ca.png)</p><p>*Lt Gen Pradeep Jung KC, VCOAS, Nepali Army, during interactions with Indian Army leadership at Exercise Pragati.*</p><p>---</p><p class="lead">Further strengthening the enduring defence partnership between India and Nepal, a 38-member contingent of the Nepali Army participated in the first edition of the Multinational Neighbourhood Military Field Training Exercise ‘Ex Pragati’, conducted by the Indian Army at the Foreign Training Node (FTN), Umroi, from 18 to 31 May 2026. The exercise brought together military personnel from eleven friendly foreign countries and focused on enhancing interoperability, operational coordination and collective capabilities.</p><h3>Strengthening India–Nepal Defence Ties</h3><p>The participation of the Nepali Army underscored the close and longstanding defence relationship between India and Nepal. Through joint training activities and professional military exchanges, both armies deepened mutual understanding and strengthened military-to-military cooperation.</p><h3>Observer Delegation Attends Validation Phase</h3><p>A three-member observer delegation from the Nepali Army, led by Lieutenant General Pradeep Jung KC, Vice Chief of Army Staff (VCOAS), attended the Validation Phase and Closing Ceremony of the exercise from 28 to 31 May 2026 at Umroi.</p><p>The visit provided senior leadership from the Nepali Army an opportunity to observe the outcomes of the training programme and interact with participating contingents from friendly foreign nations.</p><h3>Multinational Participation and Operational Learning</h3><p>The inaugural edition of Ex Pragati witnessed participation from eleven friendly foreign countries, making it a significant platform for regional military cooperation. The exercise enabled participating forces to exchange best practices, improve coordination and enhance readiness for common security challenges.</p><div class="box"><h4>Key Highlights</h4><ul><li><b>Exercise: Multinational Neighbourhood Military Field Training Exercise ‘Ex Pragati’ — </b></li><li><b>Venue: Foreign Training Node (FTN), Umroi — </b></li><li><b>Dates: 18–31 May 2026 — </b></li><li><b>Nepali Army Participation: 38-member contingent — </b></li><li><b>Observer Delegation: Led by Lt Gen Pradeep Jung KC, VCOAS, Nepali Army — </b></li><li><b>Foreign Participation: Eleven friendly foreign countries — </b></li><li><b>Focus Areas: Interoperability, operational synergy, trust-building and collective capability development — </b></li></ul></div><h3>Building Trust and Collective Capability</h3><p>The exercise achieved enhanced operational synergy among participating nations while fostering mutual trust and professional cooperation. Joint activities and training scenarios contributed to the development of collective capabilities that are increasingly important in a complex and interconnected security environment.</p><h3>A Step Forward in Regional Military Cooperation</h3><p>Ex Pragati highlighted India's commitment to strengthening defence engagement with neighbouring and friendly countries. The successful participation of the Nepali Army and other foreign contingents demonstrated the value of multinational military exercises in promoting regional stability, cooperation and preparedness.</p><p>For Bharat Samvad readers, the exercise serves as an example of how defence diplomacy and military collaboration continue to reinforce strategic partnerships while enhancing professional military competence across the region.</p>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · Defence & Strategic Affairs Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 1</span>
+    </div>
+  </div>
+  <div class="langblock lang-ur" dir="rtl" data-lang="ur">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">بھارت سنواد</h1>
+    </div>
+    <div class="strip">
+      <span>صفحہ 1 · دفاعی اور اسٹریٹجک امور</span>
+      <span class="mid">خصوصی رپورٹ</span>
+      <span>پیر، 1 جون 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">بھارت نیپال دفاعی تعاون</span>
+    <h2 class="headline">نیپالی فوج کے دستے نے کثیر القومی مشق 'سابق پرگتی' کے پہلے ایڈیشن میں شرکت کی</h2>
+    <p class="subdeck">ایک 38 رکنی نیپالی فوج کے دستے نے ہندوستانی فوج کی طرف سے منعقد کی جانے والی افتتاحی کثیر القومی فیلڈ ٹریننگ مشق میں شمولیت اختیار کی، جس میں حصہ لینے والے ممالک کے درمیان دفاعی تعاون، آپریشنل ہم آہنگی اور فوج سے فوجی تعلقات کو تقویت ملی۔</p>
+    <div class="byline"><b>بھارت سمواد ڈیسک</b> · عمروئی، میگھالیہ</div>
+    <div class="body">
+<h3>امیجز</h3><p>![سابق پرگتی ٹریننگ سرگرمی](1afd44f8-99e7-4274-b5ff-36d5a05507b5.png)</p><p>*شرکاء FTN، Umroi میں ورزش پرگتی کے دوران تربیتی سرگرمیاں شروع کر رہے ہیں۔*</p><p>![پراگتی مشق کے دوران نیپالی اور ہندوستانی فوجی افسران](22ec0d22-a408-4ea8-bbf9-fd97757321ca.png)</p><p>*لیفٹیننٹ جنرل پردیپ جنگ کے سی، وی سی او اے ایس، نیپالی فوج، مشق پرگتی میں ہندوستانی فوج کی قیادت کے ساتھ بات چیت کے دوران۔*</p><p>---</p><p class="lead">ہندوستان اور نیپال کے درمیان پائیدار دفاعی شراکت داری کو مزید مضبوط کرتے ہوئے، نیپالی فوج کے 38 رکنی دستے نے ملٹی نیشنل نیبر ہڈ ملٹری فیلڈ ٹریننگ ایکسرسائز 'Ex Pragati' کے پہلے ایڈیشن میں حصہ لیا، جو ہندوستانی فوج کی طرف سے فارن ٹریننگ نوڈ (FTN)، عمروئی میں 13 مئی 2016 سے ملٹری پرسنل ایکسرسائز میں منعقد ہوئی۔ گیارہ دوست بیرونی ممالک اور باہمی تعاون، آپریشنل کوآرڈینیشن اور اجتماعی صلاحیتوں کو بڑھانے پر توجہ مرکوز کی۔</p><h3>بھارت نیپال دفاعی تعلقات کو مضبوط بنانا</h3><p>نیپالی فوج کی شرکت نے ہندوستان اور نیپال کے درمیان قریبی اور دیرینہ دفاعی تعلقات کو اجاگر کیا۔ مشترکہ تربیتی سرگرمیوں اور پیشہ ورانہ فوجی تبادلوں کے ذریعے، دونوں فوجوں نے باہمی افہام و تفہیم کو گہرا کیا اور ملٹری ٹو ملٹری تعاون کو مضبوط کیا۔</p><h3>مبصرین کے وفد نے تصدیق کے مرحلے میں شرکت کی۔</h3><p>نیپالی فوج کے تین رکنی مبصر وفد، جس کی قیادت لیفٹیننٹ جنرل پردیپ جنگ کے سی، وائس چیف آف آرمی اسٹاف (VCOAS) نے کی، نے عمروئی میں 28 سے 31 مئی 2026 تک مشق کے توثیق کے مرحلے اور اختتامی تقریب میں شرکت کی۔</p><p>اس دورے نے نیپالی فوج کی سینئر قیادت کو تربیتی پروگرام کے نتائج کا مشاہدہ کرنے اور دوست غیر ملکی ممالک کے شریک دستوں کے ساتھ بات چیت کرنے کا موقع فراہم کیا۔</p><h3>کثیر القومی شرکت اور آپریشنل سیکھنا</h3><p>Ex Pragati کے افتتاحی ایڈیشن میں گیارہ دوست بیرونی ممالک کی شرکت دیکھی گئی، جو اسے علاقائی فوجی تعاون کے لیے ایک اہم پلیٹ فارم بنا۔ مشق نے حصہ لینے والی افواج کو بہترین طریقوں کا تبادلہ کرنے، رابطہ کاری کو بہتر بنانے اور مشترکہ سیکورٹی چیلنجوں کے لیے تیاری کو بڑھانے کے قابل بنایا۔</p><div class="box"><h4>کلیدی جھلکیاں</h4><ul><li><b>مشق: ملٹی نیشنل نیبرہوڈ ملٹری فیلڈ ٹریننگ ایکسرسائز 'سابق پرگتی' — </b></li><li><b>مقام: فارن ٹریننگ نوڈ (FTN)، عمروئی — </b></li><li><b>تاریخیں: 18-31 مئی 2026 — </b></li><li><b>نیپالی فوج کی شرکت: 38 رکنی دستہ — </b></li><li><b>مبصر وفد: لیفٹیننٹ جنرل پردیپ جنگ کے سی، وی سی او اے ایس، نیپالی فوج کی قیادت میں — </b></li><li><b>غیر ملکی شرکت: گیارہ دوست بیرونی ممالک — </b></li><li><b>فوکس ایریاز: انٹرآپریبلٹی، آپریشنل ہم آہنگی، اعتماد سازی اور اجتماعی صلاحیت کی ترقی — </b></li></ul></div><h3>اعتماد اور اجتماعی صلاحیت کی تعمیر</h3><p>مشق نے باہمی اعتماد اور پیشہ ورانہ تعاون کو فروغ دیتے ہوئے شریک ممالک کے درمیان آپریشنل ہم آہنگی کو بڑھایا۔ مشترکہ سرگرمیوں اور تربیتی منظرناموں نے اجتماعی صلاحیتوں کی نشوونما میں اہم کردار ادا کیا جو ایک پیچیدہ اور باہم مربوط حفاظتی ماحول میں تیزی سے اہم ہیں۔</p><h3>علاقائی فوجی تعاون میں ایک قدم آگے</h3><p>سابق پرگتی نے پڑوسی اور دوست ممالک کے ساتھ دفاعی تعلقات کو مضبوط بنانے کے لیے ہندوستان کے عزم کو اجاگر کیا۔ نیپالی فوج اور دیگر غیر ملکی دستوں کی کامیاب شرکت نے علاقائی استحکام، تعاون اور تیاری کو فروغ دینے میں کثیر القومی فوجی مشقوں کی اہمیت کو ظاہر کیا۔</p><p>بھارت سمواد کے قارئین کے لیے یہ مشق ایک مثال کے طور پر کام کرتی ہے کہ کس طرح دفاعی سفارت کاری اور فوجی تعاون پورے خطے میں پیشہ ورانہ فوجی قابلیت کو بڑھاتے ہوئے سٹریٹجک شراکت داری کو مزید تقویت دیتا ہے۔</p>
+    </div>
+    <div class="foot">
+      <span>بھارت سنواد · دفاعی اور اسٹریٹجک امور ڈیسک</span><span>© 2026 بھارت سنواد پبلیکیشنز</span><span>صفحہ 1</span>
+    </div>
+  </div>
+  </div>
+
+<script>
+/* ===== poll chrome strings per language ===== */
+var BS_POLL_T = {
+  hi:{eyebrow:"जनमत · आपकी राय", thanks:"आपके मत के लिए धन्यवाद!", votes:"वोट"},
+  en:{eyebrow:"Poll · Your Opinion", thanks:"Thanks for your vote!", votes:"votes"},
+  ur:{eyebrow:"رائے شماری · آپ کی رائے", thanks:"آپ کی رائے کا شکریہ!", votes:"ووٹ"}
+};
+var BS_LANG = "hi";
+
+function bsPollPct(n,t){return t?Math.round(n*100/t):0;}
+function bsPollRenderOne(box,counts){
+  counts=counts||{};
+  var opts=box.querySelectorAll(".opt"),total=0;
+  opts.forEach(function(o){total+=counts[o.dataset.opt]||0;});
+  var voted=box.classList.contains("voted");
+  opts.forEach(function(o){
+    var lab=o.querySelector(".optlabel");
+    if(lab) lab.textContent=o.getAttribute("data-"+BS_LANG)||lab.textContent;
+    var n=counts[o.dataset.opt]||0,p=bsPollPct(n,total);
+    o.querySelector(".barfill").style.width=voted?p+"%":"0%";
+    o.querySelector(".pct").textContent=voted?p+"%":"";
+  });
+  var t=BS_POLL_T[BS_LANG];
+  var eb=box.querySelector(".eyebrow"); if(eb) eb.textContent=t.eyebrow;
+  var th=box.querySelector("[data-thanks]"); if(th) th.textContent=t.thanks;
+  var tot=box.querySelector("[data-total]"); if(tot) tot.textContent=voted?(total+" "+t.votes):"";
+  var q=box.querySelector("h4"); if(q && q.getAttribute("data-"+BS_LANG)) q.textContent=q.getAttribute("data-"+BS_LANG);
+}
+function bsPollRefreshAll(){document.querySelectorAll(".bs-poll").forEach(function(b){bsPollRenderOne(b);});}
+
+function bsPollInit(box){
+  var API="/api/poll", id=box.dataset.pollId, already=false;
+  try{already=!!localStorage.getItem("bs_voted_"+id);}catch(e){}
+  function localCounts(){try{return JSON.parse(localStorage.getItem("bs_counts_"+id)||"{}");}catch(e){return {};}}
+  fetch(API+"?id="+encodeURIComponent(id)).then(function(r){return r.ok?r.json():null;})
+    .then(function(d){var c=(d&&d.counts)?d.counts:localCounts(); if(already)box.classList.add("voted"); if(already){var t=box.querySelector("[data-thanks]"); if(t)t.hidden=false;} bsPollRenderOne(box,c);})
+    .catch(function(){var c=localCounts(); if(already)box.classList.add("voted"); bsPollRenderOne(box,c);});
+  box.querySelectorAll(".opt").forEach(function(btn){
+    btn.addEventListener("click",function(){
+      if(box.classList.contains("voted"))return;
+      var opt=btn.dataset.opt;
+      try{localStorage.setItem("bs_voted_"+id,opt);}catch(e){}
+      var c=localCounts(); c[opt]=(c[opt]||0)+1; try{localStorage.setItem("bs_counts_"+id,JSON.stringify(c));}catch(e){}
+      box.classList.add("voted");
+      var th=box.querySelector("[data-thanks]"); if(th)th.hidden=false;
+      bsPollRenderOne(box,c);
+      fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:id,option:opt})})
+        .then(function(r){return r.ok?r.json():null;})
+        .then(function(d){if(d&&d.counts)bsPollRenderOne(box,d.counts);}).catch(function(){});
+    });
+  });
+}
+
+function setLang(l){
+  BS_LANG=l;
+  document.querySelectorAll('.langblock').forEach(b=>b.classList.toggle('show', b.dataset.lang===l));
+  document.querySelectorAll('.langbar button').forEach(btn=>btn.classList.toggle('active', btn.dataset.l===l));
+  document.documentElement.lang=(l==='ur'?'ur':(l==='en'?'en':'hi'));
+  bsPollRefreshAll();
+  try{localStorage.setItem('bs_lang',l);}catch(e){}
+}
+document.addEventListener('DOMContentLoaded',function(){
+  document.querySelectorAll(".bs-poll").forEach(bsPollInit);
+  var s='hi'; try{s=localStorage.getItem('bs_lang')||'hi';}catch(e){}
+  setLang(s);
+});
+</script>
+</body>
+</html>
