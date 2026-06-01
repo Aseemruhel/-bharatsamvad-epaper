@@ -64,45 +64,15 @@ TOGGLE_CSS = '''
 .newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
 .lang-ur .newsfig figcaption{text-align:right;}
 
-/* ===== poll widget ===== */
-.bs-poll{break-inside:avoid;column-span:all;background:#efe7d3;border:1.5px solid var(--ink);
-  border-top:4px solid var(--accent);box-shadow:3px 3px 0 rgba(38,34,28,.18);
-  padding:18px 20px 16px;margin:8px 0 18px;}
-.bs-poll .eyebrow{font-family:'Khand',sans-serif;font-weight:700;letter-spacing:3px;font-size:11px;
-  text-transform:uppercase;color:#fff;background:var(--accent);display:inline-block;padding:3px 11px;margin-bottom:10px;}
-.bs-poll h4{font-family:'Rozha One',Georgia,serif;font-size:21px;line-height:1.25;color:var(--ink);margin-bottom:14px;border:none;padding:0;}
-.bs-poll .opt{display:block;width:100%;text-align:left;font-family:inherit;font-size:15px;color:var(--ink);
-  background:var(--paper);border:1.5px solid var(--ink);padding:11px 14px;margin-bottom:9px;cursor:pointer;
-  position:relative;overflow:hidden;transition:transform .1s;}
-.bs-poll .opt:hover{transform:translateX(3px);}
-.bs-poll .opt .barfill{position:absolute;inset:0;background:rgba(154,27,27,.16);width:0;transition:width .5s ease;z-index:0;}
-.bs-poll .opt .lbl{position:relative;z-index:1;display:flex;justify-content:space-between;gap:10px;}
-.bs-poll .opt .pct{font-weight:bold;color:var(--accent-dk);font-family:'Khand',sans-serif;}
-.bs-poll.voted .opt{cursor:default;}
-.bs-poll.voted .opt:hover{transform:none;}
-.bs-poll .meta{font-family:'Mukta',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:8px;
-  display:flex;justify-content:space-between;align-items:center;gap:10px;}
-.bs-poll .thanks{color:var(--accent-dk);font-weight:600;}
-.lang-ur .bs-poll h4{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
-.lang-ur .bs-poll .opt{text-align:right;font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
-.lang-ur .bs-poll .opt:hover{transform:translateX(-3px);}
-.lang-ur .bs-poll .meta{flex-direction:row-reverse;}
-
-/* ==================== PRINT STYLES (PDF) ==================== */
+/* Print Styles for PDF */
 @media print {
-    .langbar, .pdf-download-btn, .top-bar, .sidebar, .footer, 
-    .share-buttons, .comments, .related-articles, nav {
-        display: none !important;
-    }
-    body, .sheet { background:#fff !important; color:#000 !important; margin:0; padding:0; }
+    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    body, .sheet { background:#fff !important; color:#000 !important; }
     .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
-    .langblock { display:block !important; break-after:page; page-break-after:always; }
+    .langblock { display:block !important; page-break-after:always; }
     .langblock:last-child { page-break-after:avoid; }
-    h1, h2, h3, .headline, .kicker { color:#000 !important; break-after:avoid; }
     .kicker { color:#9a1b1b !important; font-weight:700; }
-    .masthead h1 { font-size:32px !important; }
-    p, li { line-height:1.75; orphans:3; widows:3; }
-    figure, .newsfig, .box, .pull { break-inside:avoid; }
+    p, li { line-height:1.75; }
     @page { margin:1.5cm; size:A4; }
 }
 '''
@@ -110,40 +80,39 @@ TOGGLE_CSS = '''
 TOGGLE_JS = r'''
 <script>
 function downloadAsPDF() {
-    let headline = document.querySelector('.headline') ? 
-                   document.querySelector('.headline').textContent.trim() : 'Article';
+    let headline = document.querySelector(".headline") ? 
+                   document.querySelector(".headline").textContent.trim() : "Article";
     
     let cleanTitle = headline
-        .replace(/[^a-zA-Z0-9\s-]/g, '')
-        .replace(/\s+/g, '-')
+        .replace(/[^a-zA-Z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
         .toLowerCase()
         .substring(0, 60);
     
     const filename = "2026-06-01-page4-" + cleanTitle + ".pdf";
 
-    const toast = document.createElement('div');
-    toast.style.cssText = "position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;z-index:10000;font-size:1rem;box-shadow:0 4px 12px rgba(0,0,0,0.3);";
-    toast.textContent = 'Opening Print to PDF...';
+    const toast = document.createElement("div");
+    toast.style.cssText = "position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;z-index:10000;font-size:1rem;";
+    toast.textContent = "Opening Print to PDF...";
     document.body.appendChild(toast);
 
     setTimeout(() => {
         toast.remove();
         window.print();
-    }, 700);
+    }, 600);
 }
-
-/* Poll functions (kept minimal) */
-var BS_POLL_T = { hi:{eyebrow:"जनमत · आपकी राय"}, en:{eyebrow:"Poll · Your Opinion"}, ur:{eyebrow:"رائے شماری · آپ کی رائے"} };
-var BS_LANG = "hi";
 
 function setLang(l){
-  BS_LANG=l;
-  document.querySelectorAll('.langblock').forEach(b=>b.classList.toggle('show', b.dataset.lang===l));
-  document.querySelectorAll('.langbar button').forEach(btn=>btn.classList.toggle('active', btn.dataset.l===l));
-  document.documentElement.lang=(l==='ur'?'ur':(l==='en'?'en':'hi'));
+  document.querySelectorAll(".langblock").forEach(b => {
+    b.classList.toggle("show", b.dataset.lang === l);
+  });
+  document.querySelectorAll(".langbar button").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.l === l);
+  });
 }
-document.addEventListener('DOMContentLoaded',function(){
-  var s='hi'; try{s=localStorage.getItem('bs_lang')||'hi';}catch(e){}
+document.addEventListener("DOMContentLoaded", function(){
+  var s = "hi";
+  try { s = localStorage.getItem("bs_lang") || "hi"; } catch(e){}
   setLang(s);
 });
 </script>
@@ -156,7 +125,7 @@ BAR = f'''  <div class="langbar">
     {PDF_BUTTON}
   </div>'''
 
-MAST = {"hi":"भारत संवाद","en":"Bharat Samwad","ur":"بھارت سنواد"}
+MAST = {"hi":"भारत संवाद", "en":"Bharat Samwad", "ur":"بھارت سنواد"}
 
 def block(typ, txt):
     if typ == "lead": return f'<p class="lead">{txt}</p>'
