@@ -150,8 +150,8 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 </head>
 <body>
   <div class="langbar">
-    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
     <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
     
 <button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download this article as PDF">
@@ -261,8 +261,8 @@ function setLang(l){
   });
 }
 document.addEventListener("DOMContentLoaded", function(){
-  var s = "hi";
-  try { s = localStorage.getItem("bs_lang") || "hi"; } catch(e){}
+  var s='en'; 
+  try{s=localStorage.getItem('bs_lang')||'en';}catch(e){}
   setLang(s);
 });
 </script>
