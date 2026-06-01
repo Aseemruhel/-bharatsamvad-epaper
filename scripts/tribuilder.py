@@ -109,59 +109,6 @@ TOGGLE_CSS = '''
 
 TOGGLE_JS = r'''
 <script>
-/* ===== poll chrome strings per language ===== */
-var BS_POLL_T = {
-  hi:{eyebrow:"जनमत · आपकी राय", thanks:"आपके मत के लिए धन्यवाद!", votes:"वोट"},
-  en:{eyebrow:"Poll · Your Opinion", thanks:"Thanks for your vote!", votes:"votes"},
-  ur:{eyebrow:"رائے شماری · آپ کی رائے", thanks:"آپ کی رائے کا شکریہ!", votes:"ووٹ"}
-};
-var BS_LANG = "hi";
-
-function bsPollPct(n,t){return t?Math.round(n*100/t):0;}
-function bsPollRenderOne(box,counts){
-  counts=counts||{};
-  var opts=box.querySelectorAll(".opt"),total=0;
-  opts.forEach(function(o){total+=counts[o.dataset.opt]||0;});
-  var voted=box.classList.contains("voted");
-  opts.forEach(function(o){
-    var lab=o.querySelector(".optlabel");
-    if(lab) lab.textContent=o.getAttribute("data-"+BS_LANG)||lab.textContent;
-    var n=counts[o.dataset.opt]||0,p=bsPollPct(n,total);
-    o.querySelector(".barfill").style.width=voted?p+"%":"0%";
-    o.querySelector(".pct").textContent=voted?p+"%":"";
-  });
-  var t=BS_POLL_T[BS_LANG];
-  var eb=box.querySelector(".eyebrow"); if(eb) eb.textContent=t.eyebrow;
-  var th=box.querySelector("[data-thanks]"); if(th) th.textContent=t.thanks;
-  var tot=box.querySelector("[data-total]"); if(tot) tot.textContent=voted?(total+" "+t.votes):"";
-  var q=box.querySelector("h4"); if(q && q.getAttribute("data-"+BS_LANG)) q.textContent=q.getAttribute("data-"+BS_LANG);
-}
-function bsPollRefreshAll(){document.querySelectorAll(".bs-poll").forEach(function(b){bsPollRenderOne(b);});}
-
-function bsPollInit(box){
-  var API="/api/poll", id=box.dataset.pollId, already=false;
-  try{already=!!localStorage.getItem("bs_voted_"+id);}catch(e){}
-  function localCounts(){try{return JSON.parse(localStorage.getItem("bs_counts_"+id)||"{}");}catch(e){return {};}}
-  fetch(API+"?id="+encodeURIComponent(id)).then(function(r){return r.ok?r.json():null;})
-    .then(function(d){var c=(d&&d.counts)?d.counts:localCounts(); if(already)box.classList.add("voted"); if(already){var t=box.querySelector("[data-thanks]"); if(t)t.hidden=false;} bsPollRenderOne(box,c);})
-    .catch(function(){var c=localCounts(); if(already)box.classList.add("voted"); bsPollRenderOne(box,c);});
-  box.querySelectorAll(".opt").forEach(function(btn){
-    btn.addEventListener("click",function(){
-      if(box.classList.contains("voted"))return;
-      var opt=btn.dataset.opt;
-      try{localStorage.setItem("bs_voted_"+id,opt);}catch(e){}
-      var c=localCounts(); c[opt]=(c[opt]||0)+1; try{localStorage.setItem("bs_counts_"+id,JSON.stringify(c));}catch(e){}
-      box.classList.add("voted");
-      var th=box.querySelector("[data-thanks]"); if(th)th.hidden=false;
-      bsPollRenderOne(box,c);
-      fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:id,option:opt})})
-        .then(function(r){return r.ok?r.json():null;})
-        .then(function(d){if(d&&d.counts)bsPollRenderOne(box,d.counts);}).catch(function(){});
-    });
-  });
-}
-
-/* ===== PDF Download Function ===== */
 function downloadAsPDF() {
     let headline = document.querySelector('.headline') ? 
                    document.querySelector('.headline').textContent.trim() : 'Article';
@@ -185,16 +132,17 @@ function downloadAsPDF() {
     }, 700);
 }
 
+/* Poll functions (kept minimal) */
+var BS_POLL_T = { hi:{eyebrow:"जनमत · आपकी राय"}, en:{eyebrow:"Poll · Your Opinion"}, ur:{eyebrow:"رائے شماری · آپ کی رائے"} };
+var BS_LANG = "hi";
+
 function setLang(l){
   BS_LANG=l;
   document.querySelectorAll('.langblock').forEach(b=>b.classList.toggle('show', b.dataset.lang===l));
   document.querySelectorAll('.langbar button').forEach(btn=>btn.classList.toggle('active', btn.dataset.l===l));
   document.documentElement.lang=(l==='ur'?'ur':(l==='en'?'en':'hi'));
-  bsPollRefreshAll();
-  try{localStorage.setItem('bs_lang',l);}catch(e){}
 }
 document.addEventListener('DOMContentLoaded',function(){
-  document.querySelectorAll(".bs-poll").forEach(bsPollInit);
   var s='hi'; try{s=localStorage.getItem('bs_lang')||'hi';}catch(e){}
   setLang(s);
 });
@@ -211,47 +159,23 @@ BAR = f'''  <div class="langbar">
 MAST = {"hi":"भारत संवाद","en":"Bharat Samwad","ur":"بھارت سنواد"}
 
 def block(typ, txt):
-    if typ=="lead": return f'<p class="lead">{txt}</p>'
-    if typ=="h3":   return f'<h3>{txt}</h3>'
+    if typ == "lead": return f'<p class="lead">{txt}</p>'
+    if typ == "h3":   return f'<h3>{txt}</h3>'
     return f'<p>{txt}</p>'
 
-def poll_html(P):
-    opts=""
-    for o in P["options"]:
-        opts+=(f'<button class="opt" data-opt="{o["opt"]}" data-hi="{o["hi"]}" data-en="{o["en"]}" data-ur="{o["ur"]}">'
-               f'<span class="lbl"><span class="optlabel">{o["hi"]}</span><span class="pct"></span></span>'
-               f'<span class="barfill"></span></button>')
-    q=P["q"]
-    return (f'<div class="bs-poll" data-poll-id="{P["id"]}">'
-            f'<span class="eyebrow"></span>'
-            f'<h4 data-hi="{q["hi"]}" data-en="{q["en"]}" data-ur="{q["ur"]}">{q["hi"]}</h4>'
-            f'{opts}'
-            f'<div class="meta"><span class="thanks" data-thanks hidden></span><span class="total" data-total></span></div>'
-            f'</div>')
-
 def render_lang(lang, A, photo_b64=None):
-    figure=""
+    figure = ""
     if photo_b64 and A.get("caption"):
-        figure=(f'<figure class="newsfig"><img src="data:image/jpeg;base64,{photo_b64}" '
-                f'alt=""><figcaption>{A["caption"]}</figcaption></figure>')
+        figure = f'<figure class="newsfig"><img src="data:image/jpeg;base64,{photo_b64}" alt=""><figcaption>{A["caption"]}</figcaption></figure>'
     
-    body=""
-    for typ,txt in A["body"]:
-        if typ=="BOX":
-            items="".join(f'<li><b>{a}</b>{b}</li>' for a,b in A.get("box_items", []))
-            body+=f'<div class="box"><h4>{A.get("box_title","")}</h4><ul>{items}</ul></div>'
-        elif typ=="PULL":
-            body+=f'<div class="pull">{A.get("pull_q","")}<cite>{A.get("pull_c","")}</cite></div>'
-        elif typ=="POLL":
-            body+=poll_html(A.get("poll", {}))
-        else:
-            body+=block(typ,txt)
-    
-    rtl=' dir="rtl"' if lang=="ur" else ''
-    mhsize="36px"
+    body = ""
+    for typ, txt in A.get("body", []):
+        body += block(typ, txt)
+
+    rtl = ' dir="rtl"' if lang == "ur" else ''
     return f'''  <div class="langblock lang-{lang}"{rtl} data-lang="{lang}">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:{mhsize};">{MAST[lang]}</h1>
+      <h1 style="font-size:36px;">{MAST[lang]}</h1>
     </div>
     <div class="strip">
       <span>{A.get("strip_left","")}</span>
@@ -271,8 +195,9 @@ def render_lang(lang, A, photo_b64=None):
   </div>'''
 
 def build(outfile, title, langs, photo_b64=None):
-    blocks="\n".join(render_lang(l, langs[l], photo_b64) for l in ("hi","en","ur"))
-    html=f'''<!DOCTYPE html>
+    blocks = "\n".join(render_lang(l, langs[l], photo_b64) for l in ("hi", "en", "ur"))
+    
+    html = f'''<!DOCTYPE html>
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
@@ -280,3 +205,19 @@ def build(outfile, title, langs, photo_b64=None):
 <title>{title}</title>
 <style>
 {URDU}
+{STYLE}
+{TOGGLE_CSS}
+</style>
+</head>
+<body>
+{BAR}
+  <div class="sheet">
+{blocks}
+  </div>
+{TOGGLE_JS}
+</body>
+</html>'''
+    
+    with open(outfile, "w", encoding="utf-8") as f:
+        f.write(html)
+    return html
