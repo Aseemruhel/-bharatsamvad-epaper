@@ -390,125 +390,6 @@ body{
     max-width:none;
   }
 }
-
-.calendar-wrap{
-  margin:18px 0 32px;
-  padding:18px 14px 22px;
-  background:var(--paper2);
-  border:1.4px solid var(--rule);
-  box-shadow:3px 4px 0 rgba(38,34,28,.12);
-}
-.calendar-title{
-  text-align:center;
-  font-family:"Khand","Mukta",sans-serif;
-  font-weight:700;
-  letter-spacing:2px;
-  font-size:13px;
-  text-transform:uppercase;
-  color:var(--accent-dark);
-  margin-bottom:14px;
-}
-.calendar-year{
-  text-align:center;
-  font-family:"Rozha One",Georgia,serif;
-  font-size:30px;
-  color:var(--ink);
-  margin-bottom:12px;
-  line-height:1;
-}
-.calendar-grid{
-  display:grid;
-  grid-template-columns:repeat(3,1fr);
-  gap:14px;
-}
-.cal-month{
-  background:var(--paper);
-  border:1px solid var(--rule);
-  padding:8px 6px 9px;
-}
-.cal-month-name{
-  text-align:center;
-  font-family:"Khand","Mukta",sans-serif;
-  font-weight:700;
-  font-size:12px;
-  letter-spacing:1px;
-  text-transform:uppercase;
-  color:var(--accent-dark);
-  margin-bottom:5px;
-  border-bottom:1px solid var(--rule);
-  padding-bottom:3px;
-}
-.cal-days{
-  display:grid;
-  grid-template-columns:repeat(7,1fr);
-  gap:1px;
-  font-family:"Mukta",Georgia,sans-serif;
-  font-size:10px;
-}
-.cal-dow{
-  text-align:center;
-  color:var(--soft);
-  font-weight:700;
-  padding:2px 0;
-  font-size:9px;
-  opacity:.7;
-}
-.cal-cell{
-  aspect-ratio:1;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  text-decoration:none;
-  color:var(--ink);
-  font-weight:600;
-  border-radius:2px;
-}
-.cal-cell.empty{
-  color:transparent;
-  pointer-events:none;
-}
-.cal-cell.inactive{
-  color:var(--soft);
-  opacity:.45;
-  pointer-events:none;
-}
-.cal-cell.active{
-  background:var(--accent);
-  color:#fff;
-  font-weight:700;
-}
-.cal-cell.active:hover{
-  background:var(--accent-dark);
-}
-.cal-cell.today{
-  outline:2px solid var(--gold);
-  outline-offset:-2px;
-}
-.ur .calendar-title,.ur .calendar-year,.ur .cal-month-name{
-  font-family:"Noto Nastaliq Urdu",serif;
-  letter-spacing:0;
-}
-@media(max-width:700px){
-  .calendar-grid{grid-template-columns:repeat(2,1fr);}
-  .calendar-year{font-size:24px;}
-}
-@media(max-width:430px){
-  .calendar-grid{grid-template-columns:1fr;}
-}
-/* date-page back link */
-.datepage-back{
-  display:inline-block;
-  margin:12px 0 18px;
-  font-family:"Khand","Mukta",sans-serif;
-  text-decoration:none;
-  color:var(--accent-dark);
-  font-weight:700;
-  font-size:13px;
-  letter-spacing:1px;
-  text-transform:uppercase;
-  border-bottom:2px solid transparent;
-}
-.datepage-back:hover{border-bottom-color:var(--gold);}
 </style>
 </head>
 <body>
@@ -521,7 +402,7 @@ body{
 </div>
 
 <div class="wrap">
-<div class="langblock hi" data-lang="hi">
+  <div class="langblock hi" data-lang="hi">
 <div class="mast">
 <a href="index.html" class="home-logo" title="Back to Main Page"><h1>भारत संवाद</h1></a>
 <div class="tag">सत्य · सृजन · सरोकार</div>
@@ -562,7 +443,7 @@ body{
 </section>
 <div class="footer"><span>भारत संवाद</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
-<div class="langblock en" data-lang="en">
+  <div class="langblock en" data-lang="en">
 <div class="mast">
 <a href="index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
 <div class="tag">Truth · Creation · Concern</div>
@@ -603,7 +484,7 @@ body{
 </section>
 <div class="footer"><span>Bharat Samwad</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
-<div class="langblock ur" data-lang="ur">
+  <div class="langblock ur" data-lang="ur">
 <div class="mast">
 <a href="index.html" class="home-logo" title="Back to Main Page"><h1>بھارت سنواد</h1></a>
 <div class="tag">سچ · تخلیق · سروکار</div>
