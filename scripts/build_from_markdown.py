@@ -169,39 +169,7 @@ def collect_strings(fm, blocks):
     return out
 
 # ---------- date formatting per language ----------
-WEEKDAYS = {
-    "Monday":   {"hi":"सोमवार",  "en":"Monday",    "ur":"پیر"},
-    "Tuesday":  {"hi":"मंगलवार", "en":"Tuesday",   "ur":"منگل"},
-    "Wednesday":{"hi":"बुधवार",  "en":"Wednesday", "ur":"بدھ"},
-    "Thursday": {"hi":"गुरुवार", "en":"Thursday",  "ur":"جمعرات"},
-    "Friday":   {"hi":"शुक्रवार","en":"Friday",    "ur":"جمعہ"},
-    "Saturday": {"hi":"शनिवार",  "en":"Saturday",  "ur":"ہفتہ"},
-    "Sunday":   {"hi":"रविवार",  "en":"Sunday",    "ur":"اتوار"},
-}
-MONTHS = {
-    1:{"hi":"जनवरी","en":"January","ur":"جنوری"},
-    2:{"hi":"फ़रवरी","en":"February","ur":"فروری"},
-    3:{"hi":"मार्च","en":"March","ur":"مارچ"},
-    4:{"hi":"अप्रैल","en":"April","ur":"اپریل"},
-    5:{"hi":"मई","en":"May","ur":"مئی"},
-    6:{"hi":"जून","en":"June","ur":"جون"},
-    7:{"hi":"जुलाई","en":"July","ur":"جولائی"},
-    8:{"hi":"अगस्त","en":"August","ur":"اگست"},
-    9:{"hi":"सितंबर","en":"September","ur":"ستمبر"},
-   10:{"hi":"अक्टूबर","en":"October","ur":"اکتوبر"},
-   11:{"hi":"नवंबर","en":"November","ur":"نومبر"},
-   12:{"hi":"दिसंबर","en":"December","ur":"دسمبر"},
-}
-def date_strings(date_iso):
-    from datetime import date
-    y, m, d = map(int, date_iso.split("-"))
-    dt = date(y, m, d)
-    wd = dt.strftime("%A")
-    return {
-      "hi": f"{WEEKDAYS[wd]['hi']}, {d} {MONTHS[m]['hi']} {y}",
-      "en": f"{WEEKDAYS[wd]['en']}, {d} {MONTHS[m]['en']} {y}",
-      "ur": f"{WEEKDAYS[wd]['ur']}، {d} {MONTHS[m]['ur']} {y}",
-    }
+
 
 # ---------- assemble per-language content dicts for tribuilder ----------
 def build_lang_dict(lang, fm, blocks, T, date_strs):
