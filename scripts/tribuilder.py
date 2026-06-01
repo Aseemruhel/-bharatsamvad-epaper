@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
-"""Reusable trilingual (हिंदी/English/اردو) article builder for Bharat Samwad."""
+"""Reusable trilingual (हिंदी/English/اردو) article builder for Bharat Samvad."""
 
 import re
 
-STYLE = open("_style.tmp", encoding="utf-8").read()       # embedded Hindi fonts + design CSS
-URDU  = open("_urdu.tmp", encoding="utf-8").read()         # embedded Noto Nastaliq Urdu faces
+STYLE = open("_style.tmp", encoding="utf-8").read()
+URDU  = open("_urdu.tmp", encoding="utf-8").read()
 
 # ==================== PDF DOWNLOAD BUTTON ====================
 PDF_BUTTON = '''
-<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download as PDF">
+<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download this article as PDF">
     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
         <polyline points="14 2 14 8 20 8"></polyline>
@@ -94,49 +94,16 @@ TOGGLE_CSS = '''
     .share-buttons, .comments, .related-articles, nav {
         display: none !important;
     }
-    
-    body, .sheet {
-        background: #fff !important;
-        color: #000 !important;
-        margin: 0;
-        padding: 0;
-    }
-    
-    .sheet {
-        box-shadow: none;
-        max-width: 100%;
-        margin: 0 auto;
-    }
-    
-    .langblock {
-        display: block !important;
-        break-after: page;
-        page-break-after: always;
-    }
-    
-    .langblock:last-child {
-        page-break-after: avoid;
-    }
-    
-    h1, h2, h3, .headline, .kicker {
-        color: #000 !important;
-        break-after: avoid;
-    }
-    
-    .kicker { color: #9a1b1b !important; font-weight: 700; }
-    
-    .masthead h1 { font-size: 32px !important; }
-    
-    p, li { line-height: 1.75; orphans: 3; widows: 3; }
-    
-    figure, .newsfig, .box, .pull {
-        break-inside: avoid;
-    }
-    
-    @page {
-        margin: 1.5cm;
-        size: A4;
-    }
+    body, .sheet { background:#fff !important; color:#000 !important; margin:0; padding:0; }
+    .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
+    .langblock { display:block !important; break-after:page; page-break-after:always; }
+    .langblock:last-child { page-break-after:avoid; }
+    h1, h2, h3, .headline, .kicker { color:#000 !important; break-after:avoid; }
+    .kicker { color:#9a1b1b !important; font-weight:700; }
+    .masthead h1 { font-size:32px !important; }
+    p, li { line-height:1.75; orphans:3; widows:3; }
+    figure, .newsfig, .box, .pull { break-inside:avoid; }
+    @page { margin:1.5cm; size:A4; }
 }
 '''
 
@@ -205,12 +172,10 @@ function downloadAsPDF() {
         .toLowerCase()
         .substring(0, 60);
     
-    const filename = `2026-06-01-page4-${cleanTitle}.pdf`;
+    const filename = "2026-06-01-page4-" + cleanTitle + ".pdf";
 
     const toast = document.createElement('div');
-    toast.style.cssText = `position:fixed;bottom:30px;left:50%;transform:translateX(-50%);
-        background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;
-        z-index:10000;font-size:1rem;box-shadow:0 4px 12px rgba(0,0,0,0.3);`;
+    toast.style.cssText = "position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;z-index:10000;font-size:1rem;box-shadow:0 4px 12px rgba(0,0,0,0.3);";
     toast.textContent = 'Opening Print to PDF...';
     document.body.appendChild(toast);
 
@@ -250,7 +215,6 @@ def block(typ, txt):
     return f'<p>{txt}</p>'
 
 def poll_html(P):
-    """P = {id, q:{hi,en,ur}, options:[{opt, hi, en, ur}, ...]}"""
     opts=""
     for o in P["options"]:
         opts+=(f'<button class="opt" data-opt="{o["opt"]}" data-hi="{o["hi"]}" data-en="{o["en"]}" data-ur="{o["ur"]}">'
@@ -265,8 +229,6 @@ def poll_html(P):
             f'</div>')
 
 def render_lang(lang, A, photo_b64=None):
-    """A is the article content dict for this language."""
-    parts=[]
     figure=""
     if photo_b64 and A.get("caption"):
         figure=(f'<figure class="newsfig"><img src="data:image/jpeg;base64,{photo_b64}" '
@@ -308,7 +270,6 @@ def render_lang(lang, A, photo_b64=None):
   </div>'''
 
 def build(outfile, title, langs, photo_b64=None):
-    """langs: dict lang->content dict"""
     blocks="\n".join(render_lang(l, langs[l], photo_b64) for l in ("hi","en","ur"))
     html=f'''<!DOCTYPE html>
 <html lang="hi">
