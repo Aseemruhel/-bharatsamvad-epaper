@@ -285,7 +285,10 @@ def regenerate_index(articles):
             "cards": [
                 {
                     "href": a["href"],
-                    "label": {l: f"{ {'hi':'पृष्ठ','en':'Page','ur':'صفحہ'}[l] } {a['page']} · {a['section'][l]}" for l in ("hi","en","ur")},
+                    "label": {
+                        l: f"{ {'hi':'पृष्ठ','en':'Page','ur':'صفحہ'}[l] } {a['page']} · {a['section'][l]}"
+                        for l in ("hi", "en", "ur")
+                    },
                     "title": a["headline"]
                 }
                 for a in items
@@ -297,10 +300,25 @@ def regenerate_index(articles):
 
     new_days = "DAYS = " + repr(DAYS_LIST)
 
-    src2 = re.sub(r'DAYS\s*=\s*\[[\s\S]*?\]', new_days, src, flags=re.DOTALL)
+    # FIXED: Use lambda to avoid \u escape error in replacement string
+    src2 = re.sub(
+        r'DAYS\s*=\s*\[[\s\S]*?\]',
+        lambda m: new_days,
+        src,
+        flags=re.DOTALL
+    )
 
     if src2 == src:
-        src2 = re.sub(r'(DAYS\s*=\s*)\[[\s\S]*?\]', lambda m: m.group(1) + repr(DAYS_LIST), src, flags=re.DOTALL)
+        # Alternative safer method
+        src2 = re.sub(
+            r'(DAYS\s*=\s*)\[[\s\S]*?\]',
+            lambda m: m.group(1) + repr(DAYS_LIST),
+            src,
+            flags=re.DOTALL
+        )
+
+    if src2 == src:
+        raise RuntimeError("Could not find DAYS = [...] pattern in build_home_tri.py")
 
     tmp = SCRIPTS / "_build_home_runtime.py"
     tmp.write_text(src2, encoding="utf-8")
@@ -309,14 +327,16 @@ def regenerate_index(articles):
     import runpy
     runpy.run_path(str(tmp))
 
+    moved = []
     for fname in ("index.html", "archive.html"):
         out_file = SCRIPTS / fname
         if out_file.exists():
             (ROOT / fname).write_text(out_file.read_text(encoding="utf-8"), encoding="utf-8")
             out_file.unlink(missing_ok=True)
+            moved.append(fname)
 
     tmp.unlink(missing_ok=True)
-    print(f"  ✓ regenerated index.html + archive.html")
+    print(f"  ✓ regenerated {' + '.join(moved)} with {len(articles)} articles")
 
 
 # ---------- Main ----------
