@@ -300,25 +300,25 @@ def regenerate_index(articles):
 
     new_days = "DAYS = " + repr(DAYS_LIST)
 
-    # FIXED: Use lambda to avoid \u escape error in replacement string
+    # FIXED VERSION - Using lambda to avoid \u escape error
     src2 = re.sub(
         r'DAYS\s*=\s*\[[\s\S]*?\]',
-        lambda m: new_days,
+        lambda match: new_days,
         src,
         flags=re.DOTALL
     )
 
+    # Fallback if first pattern didn't match
     if src2 == src:
-        # Alternative safer method
         src2 = re.sub(
             r'(DAYS\s*=\s*)\[[\s\S]*?\]',
-            lambda m: m.group(1) + repr(DAYS_LIST),
+            lambda match: match.group(1) + repr(DAYS_LIST),
             src,
             flags=re.DOTALL
         )
 
     if src2 == src:
-        raise RuntimeError("Could not find DAYS = [...] pattern in build_home_tri.py")
+        raise RuntimeError("Could not find 'DAYS = [...]' in build_home_tri.py. Please check the file.")
 
     tmp = SCRIPTS / "_build_home_runtime.py"
     tmp.write_text(src2, encoding="utf-8")
@@ -337,8 +337,6 @@ def regenerate_index(articles):
 
     tmp.unlink(missing_ok=True)
     print(f"  ✓ regenerated {' + '.join(moved)} with {len(articles)} articles")
-
-
 # ---------- Main ----------
 def main():
     md_files = sorted(glob.glob(str(CONTENT / "*.md")))
