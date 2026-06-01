@@ -135,12 +135,50 @@ body{
   font-weight:700;
 }
 
+.navribbon{
+  text-align:center;
+  margin:8px 0 6px;
+  font-family:"Khand","Mukta",sans-serif;
+  letter-spacing:1px;
+}
+
+.navribbon .navlink{
+  text-decoration:none;
+  color:var(--accent-dark);
+  font-weight:700;
+  font-size:14px;
+  padding:4px 12px;
+  text-transform:uppercase;
+  border-bottom:2px solid transparent;
+}
+
+.navribbon .navlink:hover{
+  border-bottom-color:var(--gold);
+}
+
+.navribbon .navlink.active{
+  color:var(--accent);
+  border-bottom-color:var(--accent);
+}
+
+.navribbon .navsep{
+  color:var(--soft);
+  margin:0 4px;
+}
+
 .issue{
   text-align:center;
   font-size:14px;
   color:var(--soft);
   padding:8px 0 18px;
   letter-spacing:1px;
+}
+
+.empty-note{
+  text-align:center;
+  padding:50px 12px;
+  color:var(--soft);
+  font-style:italic;
 }
 
 .langblock{
@@ -277,6 +315,11 @@ body{
   font-family:"Noto Nastaliq Urdu",serif;
 }
 
+.ur .navribbon{
+  font-family:"Noto Nastaliq Urdu",serif;
+  letter-spacing:0;
+}
+
 .ur .day-head{
   direction:rtl;
 }
@@ -364,6 +407,11 @@ body{
 <a href="index.html" class="home-logo" title="Back to Main Page"><h1>भारत संवाद</h1></a>
 <div class="tag">सत्य · सृजन · सरोकार</div>
 </div>
+<div class="navribbon">
+<a class="navlink active" href="index.html">मुखपृष्ठ</a>
+<span class="navsep">·</span>
+<a class="navlink" href="archive.html">पुरालेख</a>
+</div>
 <div class="issue">ई-पेपर · सभी संस्करण</div>
 <section class="day">
 <div class="day-head">
@@ -393,43 +441,17 @@ body{
 <a class="card" href="bharatsamvad-2026-05-29-page2.html"><small>पृष्ठ 02 · विदेश नीति</small><strong>जम्मू-कश्मीर पर चीन-पाकिस्तान की टिप्पणियाँ भारत ने ख़ारिज कीं, कहा — कश्मीर व लद्दाख देश के 'अभिन्न अंग'</strong><span>पूरा लेख पढ़ें →</span></a>
 <a class="card" href="bharatsamvad-2026-05-29-page03.html"><small>पृष्ठ 03 · विदेश नीति</small><strong>चौथे फोरम शिखर सम्मेलन से पहले भारत और अफ्रीका ने रणनीतिक साझेदारी को मजबूत किया</strong><span>पूरा लेख पढ़ें →</span></a>
 </section>
-<section class="day">
-<div class="day-head">
-<h2>बुधवार, 27 मई 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-27-page1.html"><small>पृष्ठ 01 · वैश्विक</small><strong>बलूचिस्तान में ट्रक चालकों की हड़ताल: सुरक्षा को लेकर बढ़ती चिंता, कई मालवाहक ट्रकों में आग की ख़बरें</strong><span>पूरा लेख पढ़ें →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>मंगलवार, 26 मई 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-26-page1.html"><small>पृष्ठ 01 · विदेश नीति</small><strong>आपूर्ति-शृंखला की वैश्विक होड़ के बीच भारत-अमेरिका का महत्वपूर्ण खनिज व दुर्लभ मृदा समझौता</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page2.html"><small>पृष्ठ 02 · राष्ट्रीय</small><strong>"सबसे दूर, सबसे पहले": कोहिमा में 'जन भागीदारी अभियान' का शुभारंभ, अंतिम छोर तक योजनाओं की पहुँच का संकल्प</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page3.html"><small>पृष्ठ 03 · कश्मीर</small><strong>कश्मीर में गोंडोला खराबी के बाद भारतीय सेना ने चलाया बड़ा बचाव अभियान</strong><span>पूरा लेख पढ़ें →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>सोमवार, 25 मई 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-edition-2026-05-25.html"><small>पृष्ठ 01 · विदेश नीति</small><strong>खाड़ी से यूरोप तक भारत की धमक: मोदी की पाँच-देशीय यात्रा अरबों के करार और ऊर्जा सुरक्षा लेकर लौटी</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page2.html"><small>पृष्ठ 02 · राष्ट्रीय</small><strong>हिंद महासागर में भारत की नई धुरी: ग्रेट निकोबार एकीकृत विकास परियोजना सामरिक व आर्थिक संभावनाओं के नए द्वार खोलेगी</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page3.html"><small>पृष्ठ 03 · वैश्विक</small><strong>संपदा बनाम विकास: बलूचिस्तान के खनिज संसाधनों पर पारदर्शिता और स्थानीय हक़ का सवाल</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page4.html"><small>पृष्ठ 04 · कूटनीति</small><strong>सहयोग के सेतु: साइप्रस और भारत की साझेदारी द्विपक्षीय दायरे से आगे भू-राजनीतिक तालमेल की ओर</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page5.html"><small>पृष्ठ 05 · रक्षा</small><strong>मेघालय के जंगलों में 13 देशों की सेनाएँ: बहुराष्ट्रीय अभ्यास 'प्रगति 2026' शुरू</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page6.html"><small>पृष्ठ 06 · व्यापार</small><strong>उपग्रह डेटा की वैश्विक भूख: भारतीय स्टार्टअप बने पृथ्वी-अवलोकन सेवाओं के उभरते वैश्विक प्रदाता</strong><span>पूरा लेख पढ़ें →</span></a>
-</section>
 <div class="footer"><span>भारत संवाद</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
   <div class="langblock en" data-lang="en">
 <div class="mast">
 <a href="index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
 <div class="tag">Truth · Creation · Concern</div>
+</div>
+<div class="navribbon">
+<a class="navlink active" href="index.html">Home</a>
+<span class="navsep">·</span>
+<a class="navlink" href="archive.html">Archive</a>
 </div>
 <div class="issue">E-paper · All editions</div>
 <section class="day">
@@ -460,43 +482,17 @@ body{
 <a class="card" href="bharatsamvad-2026-05-29-page2.html"><small>Page 02 · Foreign Policy</small><strong>India Rejects China-Pakistan Remarks on J&amp;K; Calls Kashmir and Ladakh 'Integral Parts' of the Country</strong><span>Read full article →</span></a>
 <a class="card" href="bharatsamvad-2026-05-29-page03.html"><small>Page 03 · Foreign Policy</small><strong>India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit</strong><span>Read full article →</span></a>
 </section>
-<section class="day">
-<div class="day-head">
-<h2>Wednesday, 27 May 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-27-page1.html"><small>Page 01 · World</small><strong>Truckers Strike in Balochistan: Rising Security Fears as Several Cargo Trucks Reported Set Ablaze</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Tuesday, 26 May 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-26-page1.html"><small>Page 01 · Foreign Policy</small><strong>Amid Global Supply-Chain Race, India and US Seal Critical Minerals and Rare Earths Pact</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page2.html"><small>Page 02 · National</small><strong>"The Farthest, First": Kohima Launches 'Jan Bhagidari Abhiyan', Vowing Last-Mile Reach of Schemes</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page3.html"><small>Page 03 · Kashmir</small><strong>After a gondola malfunction in Kashmir, the Indian Army launched a major rescue operation</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Monday, 25 May 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-edition-2026-05-25.html"><small>Page 01 · Foreign Policy</small><strong>From the Gulf to Europe, India Makes Its Mark: Modi's Five-Nation Tour Returns with Billion-Dollar Deals and Energy Security</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page2.html"><small>Page 02 · National</small><strong>India's New Pivot in the Indian Ocean: Great Nicobar Integrated Development Project to Open Doors of Strategic and Economic Promise</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page3.html"><small>Page 03 · World</small><strong>Wealth Versus Development: Questions of Transparency and Local Rights Over Balochistan's Mineral Resources</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page4.html"><small>Page 04 · Diplomacy</small><strong>Bridges of Collaboration: The Cyprus-India Partnership Moves Beyond the Bilateral Toward Geopolitical Synergy</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page5.html"><small>Page 05 · Defence</small><strong>13 Nations' Armies in the Jungles of Meghalaya: Multinational Exercise 'Pragati 2026' Begins</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page6.html"><small>Page 06 · Business</small><strong>Feeding a Global Hunger for Satellite Data: Indian Startups Emerge as Global Providers of Earth-Observation Services</strong><span>Read full article →</span></a>
-</section>
 <div class="footer"><span>Bharat Samwad</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
   <div class="langblock ur" data-lang="ur">
 <div class="mast">
 <a href="index.html" class="home-logo" title="Back to Main Page"><h1>بھارت سنواد</h1></a>
 <div class="tag">سچ · تخلیق · سروکار</div>
+</div>
+<div class="navribbon">
+<a class="navlink active" href="index.html">مرکزی صفحہ</a>
+<span class="navsep">·</span>
+<a class="navlink" href="archive.html">آرکائیو</a>
 </div>
 <div class="issue">ای پیپر · تمام ایڈیشن</div>
 <section class="day">
@@ -526,37 +522,6 @@ body{
 <a class="card" href="bharatsamvad-2026-05-29-page1.html"><small>صفحہ 1 · قومی سلامتی</small><strong>HM امت شاہ نے بھج میں سرحدی چوکیوں کا دورہ کیا، ایک مضبوط 'لیک پروف' سیکورٹی گرڈ کا مطالبہ کیا</strong><span>پورا مضمون پڑھیں ←</span></a>
 <a class="card" href="bharatsamvad-2026-05-29-page2.html"><small>صفحہ 02 · خارجہ پالیسی</small><strong>جموں و کشمیر پر چین-پاکستان کے تبصرے بھارت نے مسترد کیے، کشمیر اور لداخ کو ملک کے 'لازمی حصے' قرار دیا</strong><span>پورا مضمون پڑھیں ←</span></a>
 <a class="card" href="bharatsamvad-2026-05-29-page03.html"><small>صفحہ 03 · خارجہ پالیسی</small><strong>ہندوستان اور افریقہ نے چوتھی فورم چوٹی کانفرنس سے پہلے اسٹریٹجک پارٹنرشپ کو مضبوط کیا۔</strong><span>پورا مضمون پڑھیں ←</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>بدھ، 27 مئی 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-27-page1.html"><small>صفحہ 01 · دنیا</small><strong>بلوچستان میں ٹرک ڈرائیوروں کی ہڑتال: سلامتی کے بڑھتے خدشات، کئی مال بردار ٹرکوں کو آگ لگانے کی اطلاعات</strong><span>پورا مضمون پڑھیں ←</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>منگل، 26 مئی 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-26-page1.html"><small>صفحہ 01 · خارجہ پالیسی</small><strong>سپلائی چین کی عالمی دوڑ کے دوران بھارت اور امریکہ کا اہم معدنیات و نایاب ارضی عناصر معاہدہ</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page2.html"><small>صفحہ 02 · قومی</small><strong>"سب سے دور، سب سے پہلے": کوہیما میں 'جن بھاگیداری ابھیان' کا آغاز، اسکیموں کی آخری فرد تک رسائی کا عزم</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page3.html"><small>صفحہ 03 · کشمیر</small><strong>کشمیر میں گونڈولا کی خرابی کے بعد بھارتی فوج نے بڑا ریسکیو آپریشن شروع کیا</strong><span>پورا مضمون پڑھیں ←</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>پیر، 25 مئی 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-edition-2026-05-25.html"><small>صفحہ 01 · خارجہ پالیسی</small><strong>خلیج سے یورپ تک بھارت کی دھاک: مودی کا پانچ ملکی دورہ اربوں کے معاہدوں اور توانائی تحفظ کے ساتھ اختتام پذیر</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page2.html"><small>صفحہ 02 · قومی</small><strong>بحرِ ہند میں بھارت کا نیا محور: گریٹ نکوبار مربوط ترقیاتی منصوبہ اسٹریٹجک و اقتصادی امکانات کے نئے دروازے کھولے گا</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page3.html"><small>صفحہ 03 · دنیا</small><strong>دولت بمقابلہ ترقی: بلوچستان کے معدنی وسائل پر شفافیت اور مقامی حق کا سوال</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page4.html"><small>صفحہ 04 · سفارت کاری</small><strong>تعاون کے پل: قبرص-بھارت شراکت داری دو طرفہ دائرے سے آگے جیو پولیٹیکل ہم آہنگی کی جانب</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page5.html"><small>صفحہ 05 · دفاع</small><strong>میگھالیہ کے جنگلوں میں ۱۳ ممالک کی افواج: کثیر القومی مشق 'پرگتی ۲۰۲۶' کا آغاز</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page6.html"><small>صفحہ 06 · کاروبار</small><strong>سیٹلائٹ ڈیٹا کی عالمی بھوک: بھارتی اسٹارٹ اپ زمینی مشاہدہ خدمات کے اُبھرتے عالمی فراہم کنندہ</strong><span>پورا مضمون پڑھیں ←</span></a>
 </section>
 <div class="footer"><span>بھارت سنواد</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
