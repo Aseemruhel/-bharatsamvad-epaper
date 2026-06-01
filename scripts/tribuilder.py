@@ -111,16 +111,16 @@ function setLang(l){
   });
 }
 document.addEventListener("DOMContentLoaded", function(){
-  var s = "hi";
-  try { s = localStorage.getItem("bs_lang") || "hi"; } catch(e){}
+  var s='en'; 
+  try{s=localStorage.getItem('bs_lang')||'en';}catch(e){}
   setLang(s);
 });
 </script>
 '''
 
 BAR = f'''  <div class="langbar">
-    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
     <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
     {PDF_BUTTON}
   </div>'''
