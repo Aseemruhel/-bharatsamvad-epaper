@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>भारत संवाद · Bharat Samvad · بھارت سنواد</title>
+<title>भारत संवाद</title>
 <style>
 .lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
 .lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
@@ -134,79 +134,16 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 .newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
 .lang-ur .newsfig figcaption{text-align:right;}
 
-/* ===== poll widget ===== */
-.bs-poll{break-inside:avoid;column-span:all;background:#efe7d3;border:1.5px solid var(--ink);
-  border-top:4px solid var(--accent);box-shadow:3px 3px 0 rgba(38,34,28,.18);
-  padding:18px 20px 16px;margin:8px 0 18px;}
-.bs-poll .eyebrow{font-family:'Khand',sans-serif;font-weight:700;letter-spacing:3px;font-size:11px;
-  text-transform:uppercase;color:#fff;background:var(--accent);display:inline-block;padding:3px 11px;margin-bottom:10px;}
-.bs-poll h4{font-family:'Rozha One',Georgia,serif;font-size:21px;line-height:1.25;color:var(--ink);margin-bottom:14px;border:none;padding:0;}
-.bs-poll .opt{display:block;width:100%;text-align:left;font-family:inherit;font-size:15px;color:var(--ink);
-  background:var(--paper);border:1.5px solid var(--ink);padding:11px 14px;margin-bottom:9px;cursor:pointer;
-  position:relative;overflow:hidden;transition:transform .1s;}
-.bs-poll .opt:hover{transform:translateX(3px);}
-.bs-poll .opt .barfill{position:absolute;inset:0;background:rgba(154,27,27,.16);width:0;transition:width .5s ease;z-index:0;}
-.bs-poll .opt .lbl{position:relative;z-index:1;display:flex;justify-content:space-between;gap:10px;}
-.bs-poll .opt .pct{font-weight:bold;color:var(--accent-dk);font-family:'Khand',sans-serif;}
-.bs-poll.voted .opt{cursor:default;}
-.bs-poll.voted .opt:hover{transform:none;}
-.bs-poll .meta{font-family:'Mukta',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:8px;
-  display:flex;justify-content:space-between;align-items:center;gap:10px;}
-.bs-poll .thanks{color:var(--accent-dk);font-weight:600;}
-.lang-ur .bs-poll h4{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
-.lang-ur .bs-poll .opt{text-align:right;font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
-.lang-ur .bs-poll .opt:hover{transform:translateX(-3px);}
-.lang-ur .bs-poll .meta{flex-direction:row-reverse;}
-
-/* ==================== PRINT STYLES (PDF) ==================== */
+/* Print Styles for PDF */
 @media print {
-    .langbar, .pdf-download-btn, .top-bar, .sidebar, .footer, 
-    .share-buttons, .comments, .related-articles, nav {
-        display: none !important;
-    }
-    
-    body, .sheet {
-        background: #fff !important;
-        color: #000 !important;
-        margin: 0;
-        padding: 0;
-    }
-    
-    .sheet {
-        box-shadow: none;
-        max-width: 100%;
-        margin: 0 auto;
-    }
-    
-    .langblock {
-        display: block !important;
-        break-after: page;
-        page-break-after: always;
-    }
-    
-    .langblock:last-child {
-        page-break-after: avoid;
-    }
-    
-    h1, h2, h3, .headline, .kicker {
-        color: #000 !important;
-        break-after: avoid;
-    }
-    
-    .kicker { color: #9a1b1b !important; font-weight: 700; }
-    
-    .masthead h1 { font-size: 32px !important; }
-    
-    p, li { line-height: 1.75; orphans: 3; widows: 3; }
-    
-    figure, .newsfig, .box, .pull {
-        break-inside: avoid;
-    }
-    
-    @page {
-        margin: 1.5cm;
-        size: A4;
-    }
+    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    body, .sheet { background:#fff !important; color:#000 !important; }
+    .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
+    .langblock { display:block !important; page-break-after:always; }
+    .langblock:last-child { page-break-after:avoid; }
+    .kicker { color:#9a1b1b !important; font-weight:700; }
+    p, li { line-height:1.75; }
+    @page { margin:1.5cm; size:A4; }
 }
 
 </style>
@@ -217,7 +154,7 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <button data-l="en" onclick="setLang('en')">English</button>
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
     
-<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download as PDF">
+<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download this article as PDF">
     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
         <polyline points="14 2 14 8 20 8"></polyline>
@@ -243,7 +180,7 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <p class="subdeck">केंद्रीय गृह मंत्रालय ने हिंसा प्रभावित राज्य में सुरक्षा को मजबूत करने और स्थायी शांति बहाल करने के व्यापक प्रयास के तहत सशस्त्र समूहों के खिलाफ लक्षित अभियानों के लिए मणिपुर में दो सीआरपीएफ कोबरा बटालियनों की तैनाती को मंजूरी दे दी है।</p>
     <div class="byline"><b>विशेष संवाददाता</b> · मणिपुर</div>
     <div class="body">
-<p class="lead">मणिपुर में सुरक्षा को मजबूत करने और स्थायी शांति बहाल करने के उद्देश्य से एक महत्वपूर्ण कदम में, केंद्रीय गृह मंत्रालय ने हिंसा प्रभावित राज्य में केंद्रीय रिजर्व पुलिस बल की विशिष्ट कमांडो बटालियन फॉर रेसोल्यूट एक्शन (COBRA) की दो बटालियनों की तैनाती को मंजूरी दे दी है।</p><p>अधिकारियों के अनुसार, दो बटालियन - 207 COBRA, पश्चिम बंगाल में स्थित, और 210 COBRA, असम में तैनात - को आने वाले हफ्तों में मणिपुर में परिचालन कर्तव्यों के लिए तैनात किया जाएगा। कमांडो से राज्य में हिंसा और अशांति में शामिल सशस्त्र समूहों के खिलाफ लक्षित अभियान चलाने की उम्मीद की जाती है।</p><h3>मणिपुर में अशांति की पृष्ठभूमि</h3><p>मणिपुर में मई 2023 से मैतेई और कुकी-ज़ो समुदायों के बीच लंबे समय तक जातीय संघर्ष देखा गया है, जिसके परिणामस्वरूप 260 से अधिक लोगों की मौत हो गई और हजारों लोग विस्थापित हुए। केंद्र और राज्य प्रशासन क्षेत्र में सामान्य स्थिति बहाल करने और दीर्घकालिक शांति सुनिश्चित करने की दिशा में काम कर रहे हैं।</p><p>एक वरिष्ठ सुरक्षा अधिकारी ने कहा कि विशेष COBRA इकाइयां राज्य में शांति और सुरक्षा को बिगाड़ने के लिए जिम्मेदार सशस्त्र तत्वों के खिलाफ केंद्रित अभियान चलाएंगी। यह तैनाती मणिपुर में उग्रवाद विरोधी और कानून प्रवर्तन प्रयासों को मजबूत करने की एक व्यापक रणनीति का हिस्सा है।</p><div class="box"><h4>एक नज़र में तैनाती</h4><ul><li><b>बल — </b>कमांडो बटालियन फॉर रेसोल्यूट एक्शन (COBRA), सीआरपीएफ</li><li><b>बटालियनों — </b>207 कोबरा (पश्चिम बंगाल) और 210 कोबरा (असम)</li><li><b>गंतव्य — </b>मणिपुर, आने वाले हफ्तों में</li><li><b>जनादेश — </b>सशस्त्र समूहों के विरुद्ध लक्षित अभियान</li><li><b>अनुमोदन — </b>केंद्रीय गृह मंत्रालय</li><li><b>व्यापक संदर्भ — </b>उग्रवाद विरोधी और कानून प्रवर्तन प्रयास</li></ul></div><h3>कोबरा फोर्स के बारे में</h3><p>COBRA, सीआरपीएफ का एक विशिष्ट जंगल-युद्ध बल है, जिसकी स्थापना 2008-09 में मुख्य रूप से पूर्वोत्तर सहित देश के विभिन्न हिस्सों में वामपंथी उग्रवाद और उग्रवाद से निपटने के लिए की गई थी। बल में वर्तमान में दस बटालियन शामिल हैं, जिनमें से प्रत्येक में लगभग 1,000 उच्च प्रशिक्षित कमांडो हैं जो खुफिया-आधारित संचालन, गुरिल्ला युद्ध, जंगल युद्ध और उग्रवाद विरोधी रणनीति में कुशल हैं।</p><p>कमांडो ने पूरे मध्य भारत में नक्सल विरोधी अभियानों में महत्वपूर्ण भूमिका निभाई है और उन्हें कई सफल अभियानों का श्रेय दिया जाता है, जिन्होंने देश में माओवादी गतिविधियों को काफी हद तक कमजोर कर दिया है।</p><div class="pull">"विशेष COBRA इकाइयाँ राज्य में शांति और सुरक्षा को बिगाड़ने के लिए जिम्मेदार सशस्त्र तत्वों के खिलाफ केंद्रित अभियान चलाएंगी।"<cite>- वरिष्ठ सुरक्षा अधिकारी (शब्दांश में)</cite></div><h3>नए थिएटरों को पुनः कार्यभार सौंपना</h3><p>अधिकारियों ने बताया कि माओवादी हिंसा में भारी गिरावट के साथ, कुछ COBRA इकाइयों को अब अन्य क्षेत्रों में उभरती सुरक्षा चुनौतियों के लिए फिर से नियुक्त किया जा रहा है। सुरक्षा एजेंसियां ​​भविष्य में विशेष अभियानों के लिए मणिपुर के अलावा जम्मू-कश्मीर में भी एक या दो COBRA बटालियन तैनात करने पर विचार कर रही हैं।</p><h3>आगे का रास्ता</h3><p>विशिष्ट बल की तैनाती से जमीन पर परिचालन क्षमताओं में वृद्धि होने और मणिपुर में शांति और स्थिरता बहाल करने के लिए चल रहे प्रयासों का समर्थन करने की उम्मीद है। अधिकारियों का कहना है कि सामुदायिक स्तर पर पहुंच और राजनीतिक बातचीत के साथ-साथ निरंतर संचालन, राज्य में दीर्घकालिक सामान्य स्थिति के लिए महत्वपूर्ण होगा।</p>
+<p class="lead">मणिपुर में सुरक्षा को मजबूत करने और स्थायी शांति बहाल करने के उद्देश्य से एक महत्वपूर्ण कदम में, केंद्रीय गृह मंत्रालय ने हिंसा प्रभावित राज्य में केंद्रीय रिजर्व पुलिस बल की विशिष्ट कमांडो बटालियन फॉर रेसोल्यूट एक्शन (COBRA) की दो बटालियनों की तैनाती को मंजूरी दे दी है।</p><p>अधिकारियों के अनुसार, दो बटालियन - 207 COBRA, पश्चिम बंगाल में स्थित, और 210 COBRA, असम में तैनात - को आने वाले हफ्तों में मणिपुर में परिचालन कर्तव्यों के लिए तैनात किया जाएगा। कमांडो से राज्य में हिंसा और अशांति में शामिल सशस्त्र समूहों के खिलाफ लक्षित अभियान चलाने की उम्मीद की जाती है।</p><h3>मणिपुर में अशांति की पृष्ठभूमि</h3><p>मणिपुर में मई 2023 से मैतेई और कुकी-ज़ो समुदायों के बीच लंबे समय तक जातीय संघर्ष देखा गया है, जिसके परिणामस्वरूप 260 से अधिक लोगों की मौत हो गई और हजारों लोग विस्थापित हुए। केंद्र और राज्य प्रशासन क्षेत्र में सामान्य स्थिति बहाल करने और दीर्घकालिक शांति सुनिश्चित करने की दिशा में काम कर रहे हैं।</p><p>एक वरिष्ठ सुरक्षा अधिकारी ने कहा कि विशेष COBRA इकाइयां राज्य में शांति और सुरक्षा को बिगाड़ने के लिए जिम्मेदार सशस्त्र तत्वों के खिलाफ केंद्रित अभियान चलाएंगी। यह तैनाती मणिपुर में उग्रवाद विरोधी और कानून प्रवर्तन प्रयासों को मजबूत करने की एक व्यापक रणनीति का हिस्सा है।</p><p></p><h3>कोबरा फोर्स के बारे में</h3><p>COBRA, सीआरपीएफ का एक विशिष्ट जंगल-युद्ध बल है, जिसकी स्थापना 2008-09 में मुख्य रूप से पूर्वोत्तर सहित देश के विभिन्न हिस्सों में वामपंथी उग्रवाद और उग्रवाद से निपटने के लिए की गई थी। बल में वर्तमान में दस बटालियन शामिल हैं, जिनमें से प्रत्येक में लगभग 1,000 उच्च प्रशिक्षित कमांडो हैं जो खुफिया-आधारित संचालन, गुरिल्ला युद्ध, जंगल युद्ध और उग्रवाद विरोधी रणनीति में कुशल हैं।</p><p>कमांडो ने पूरे मध्य भारत में नक्सल विरोधी अभियानों में महत्वपूर्ण भूमिका निभाई है और उन्हें कई सफल अभियानों का श्रेय दिया जाता है, जिन्होंने देश में माओवादी गतिविधियों को काफी हद तक कमजोर कर दिया है।</p><p></p><h3>नए थिएटरों को पुनः कार्यभार सौंपना</h3><p>अधिकारियों ने बताया कि माओवादी हिंसा में भारी गिरावट के साथ, कुछ COBRA इकाइयों को अब अन्य क्षेत्रों में उभरती सुरक्षा चुनौतियों के लिए फिर से नियुक्त किया जा रहा है। सुरक्षा एजेंसियां ​​भविष्य में विशेष अभियानों के लिए मणिपुर के अलावा जम्मू-कश्मीर में भी एक या दो COBRA बटालियन तैनात करने पर विचार कर रही हैं।</p><h3>आगे का रास्ता</h3><p>विशिष्ट बल की तैनाती से जमीन पर परिचालन क्षमताओं में वृद्धि होने और मणिपुर में शांति और स्थिरता बहाल करने के लिए चल रहे प्रयासों का समर्थन करने की उम्मीद है। अधिकारियों का कहना है कि सामुदायिक स्तर पर पहुंच और राजनीतिक बातचीत के साथ-साथ निरंतर संचालन, राज्य में दीर्घकालिक सामान्य स्थिति के लिए महत्वपूर्ण होगा।</p>
     </div>
     <div class="foot">
       <span>भारत संवाद · राष्ट्रीय सुरक्षा डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 2</span>
@@ -263,7 +200,7 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <p class="subdeck">The Union Home Ministry has cleared the deployment of two CRPF COBRA battalions in Manipur for targeted operations against armed groups, as part of a wider effort to strengthen security and restore lasting peace in the violence-hit state.</p>
     <div class="byline"><b>Special Correspondent</b> · Manipur</div>
     <div class="body">
-<p class="lead">In a significant move aimed at strengthening security and restoring lasting peace in Manipur, the Union Ministry of Home Affairs has approved the deployment of two battalions of the elite Commando Battalion for Resolute Action (COBRA) of the Central Reserve Police Force in the violence-hit state.</p><p>According to officials, the two battalions — 207 COBRA, based in West Bengal, and 210 COBRA, stationed in Assam — will be deployed for operational duties in Manipur over the coming weeks. The commandos are expected to undertake targeted operations against armed groups involved in violence and unrest in the state.</p><h3>Background of unrest in Manipur</h3><p>Manipur has witnessed prolonged ethnic clashes between the Meitei and Kuki-Zo communities since May 2023, resulting in the deaths of more than 260 people and the displacement of thousands. The Centre and the state administration have been working towards restoring normalcy and ensuring long-term peace in the region.</p><p>A senior security official said the specialised COBRA units will conduct focused operations against armed elements responsible for disturbing peace and security in the state. The deployment is part of a broader strategy to strengthen counter-insurgency and law enforcement efforts in Manipur.</p><div class="box"><h4>The Deployment at a Glance</h4><ul><li><b>Force — </b>Commando Battalion for Resolute Action (COBRA), CRPF</li><li><b>Battalions — </b>207 COBRA (West Bengal) and 210 COBRA (Assam)</li><li><b>Destination — </b>Manipur, over the coming weeks</li><li><b>Mandate — </b>Targeted operations against armed groups</li><li><b>Approval — </b>Union Ministry of Home Affairs</li><li><b>Wider context — </b>Counter-insurgency and law enforcement push</li></ul></div><h3>About the COBRA force</h3><p>COBRA, an elite jungle-warfare force of the CRPF, was raised in 2008-09 primarily to combat Left Wing Extremism and insurgency in various parts of the country, including the Northeast. The force currently comprises ten battalions, each with around 1,000 highly trained commandos skilled in intelligence-based operations, guerrilla warfare, jungle combat and anti-insurgency tactics.</p><p>The commandos have played a crucial role in anti-Naxal operations across central India and are credited with several successful operations that significantly weakened Maoist activities in the country.</p><div class="pull">"The specialised COBRA units will conduct focused operations against armed elements responsible for disturbing peace and security in the state."<cite>— Senior security official (paraphrased)</cite></div><h3>Reassignment to new theatres</h3><p>Officials noted that with Maoist violence having drastically declined, some COBRA units are now being reassigned to emerging security challenges in other regions. Apart from Manipur, security agencies are also considering deploying one or two COBRA battalions in Jammu and Kashmir for specialised operations in the future.</p><h3>The road ahead</h3><p>The deployment of the elite force is expected to enhance operational capabilities on the ground and support ongoing efforts to restore peace and stability in Manipur. Officials say sustained operations, alongside community-level outreach and political dialogue, will be key to long-term normalcy in the state.</p>
+<p class="lead">In a significant move aimed at strengthening security and restoring lasting peace in Manipur, the Union Ministry of Home Affairs has approved the deployment of two battalions of the elite Commando Battalion for Resolute Action (COBRA) of the Central Reserve Police Force in the violence-hit state.</p><p>According to officials, the two battalions — 207 COBRA, based in West Bengal, and 210 COBRA, stationed in Assam — will be deployed for operational duties in Manipur over the coming weeks. The commandos are expected to undertake targeted operations against armed groups involved in violence and unrest in the state.</p><h3>Background of unrest in Manipur</h3><p>Manipur has witnessed prolonged ethnic clashes between the Meitei and Kuki-Zo communities since May 2023, resulting in the deaths of more than 260 people and the displacement of thousands. The Centre and the state administration have been working towards restoring normalcy and ensuring long-term peace in the region.</p><p>A senior security official said the specialised COBRA units will conduct focused operations against armed elements responsible for disturbing peace and security in the state. The deployment is part of a broader strategy to strengthen counter-insurgency and law enforcement efforts in Manipur.</p><p></p><h3>About the COBRA force</h3><p>COBRA, an elite jungle-warfare force of the CRPF, was raised in 2008-09 primarily to combat Left Wing Extremism and insurgency in various parts of the country, including the Northeast. The force currently comprises ten battalions, each with around 1,000 highly trained commandos skilled in intelligence-based operations, guerrilla warfare, jungle combat and anti-insurgency tactics.</p><p>The commandos have played a crucial role in anti-Naxal operations across central India and are credited with several successful operations that significantly weakened Maoist activities in the country.</p><p></p><h3>Reassignment to new theatres</h3><p>Officials noted that with Maoist violence having drastically declined, some COBRA units are now being reassigned to emerging security challenges in other regions. Apart from Manipur, security agencies are also considering deploying one or two COBRA battalions in Jammu and Kashmir for specialised operations in the future.</p><h3>The road ahead</h3><p>The deployment of the elite force is expected to enhance operational capabilities on the ground and support ongoing efforts to restore peace and stability in Manipur. Officials say sustained operations, alongside community-level outreach and political dialogue, will be key to long-term normalcy in the state.</p>
     </div>
     <div class="foot">
       <span>Bharat Samvad · National Security Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 2</span>
@@ -283,106 +220,52 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <p class="subdeck">مرکزی وزارت داخلہ نے مسلح گروپوں کے خلاف ٹارگٹڈ آپریشنز کے لیے منی پور میں سی آر پی ایف کی دو کوبرا بٹالین کی تعیناتی کو منظوری دے دی ہے، جو کہ تشدد سے متاثرہ ریاست میں سیکورٹی کو مضبوط کرنے اور دیرپا امن کی بحالی کی وسیع تر کوششوں کے حصے کے طور پر ہے۔</p>
     <div class="byline"><b>خصوصی نامہ نگار</b> · منی پور</div>
     <div class="body">
-<p class="lead">منی پور میں سیکورٹی کو مضبوط بنانے اور دیرپا امن کی بحالی کے مقصد سے ایک اہم اقدام میں، مرکزی وزارت داخلہ نے تشدد زدہ ریاست میں سنٹرل ریزرو پولیس فورس کی ایلیٹ کمانڈو بٹالین فار ریزولوٹ ایکشن (COBRA) کی دو بٹالین کی تعیناتی کو منظوری دی ہے۔</p><p>حکام کے مطابق، دو بٹالین - 207 COBRA، جو مغربی بنگال میں واقع ہے، اور 210 COBRA، جو آسام میں تعینات ہیں - کو آنے والے ہفتوں میں منی پور میں آپریشنل ڈیوٹی کے لیے تعینات کیا جائے گا۔ توقع ہے کہ کمانڈوز ریاست میں تشدد اور بدامنی میں ملوث مسلح گروہوں کے خلاف ٹارگٹڈ آپریشن کریں گے۔</p><h3>منی پور میں بدامنی کا پس منظر</h3><p>منی پور میں مئی 2023 سے میٹی اور کوکی زو برادریوں کے درمیان طویل نسلی جھڑپوں کا مشاہدہ کیا گیا ہے، جس کے نتیجے میں 260 سے زائد افراد ہلاک اور ہزاروں بے گھر ہوئے۔ مرکز اور ریاستی انتظامیہ معمول کی بحالی اور خطے میں طویل مدتی امن کو یقینی بنانے کے لیے کام کر رہی ہے۔</p><p>ایک سینئر سیکورٹی اہلکار نے کہا کہ خصوصی COBRA یونٹ ریاست میں امن و سلامتی کو بگاڑنے کے ذمہ دار مسلح عناصر کے خلاف مرکوز کارروائیاں کریں گے۔ یہ تعیناتی منی پور میں انسداد بغاوت اور قانون نافذ کرنے کی کوششوں کو مضبوط بنانے کے لیے ایک وسیع حکمت عملی کا حصہ ہے۔</p><div class="box"><h4>ایک نظر میں تعیناتی۔</h4><ul><li><b>زبردستی — </b>کمانڈو بٹالین فار ریزولوٹ ایکشن (COBRA)، CRPF</li><li><b>بٹالین — </b>207 کوبرا (مغربی بنگال) اور 210 کوبرا (آسام)</li><li><b>منزل — </b>منی پور، آنے والے ہفتوں میں</li><li><b>مینڈیٹ — </b>مسلح گروہوں کے خلاف ٹارگٹڈ آپریشن</li><li><b>منظوری — </b>مرکزی وزارت داخلہ</li><li><b>وسیع تر سیاق و سباق — </b>انسداد بغاوت اور قانون نافذ کرنے والے اداروں کو آگے بڑھانا</li></ul></div><h3>کوبرا فورس کے بارے میں</h3><p>COBRA، CRPF کی ایک ایلیٹ جنگل وارفیئر فورس، 2008-09 میں بنیادی طور پر شمال مشرق سمیت ملک کے مختلف حصوں میں بائیں بازو کی انتہا پسندی اور شورش کا مقابلہ کرنے کے لیے تشکیل دی گئی تھی۔ یہ فورس فی الحال دس بٹالین پر مشتمل ہے، جن میں سے ہر ایک میں تقریباً 1,000 اعلیٰ تربیت یافتہ کمانڈوز ہیں جو انٹیلی جنس پر مبنی آپریشنز، گوریلا جنگ، جنگل میں لڑائی اور بغاوت مخالف حکمت عملیوں میں مہارت رکھتے ہیں۔</p><p>کمانڈوز نے پورے وسطی ہندوستان میں نکسل مخالف کارروائیوں میں ایک اہم کردار ادا کیا ہے اور انہیں کئی کامیاب آپریشنز کا سہرا دیا جاتا ہے جنہوں نے ملک میں ماؤنواز سرگرمیوں کو نمایاں طور پر کمزور کیا۔</p><div class="pull">"کوبرا کے خصوصی یونٹ ریاست میں امن و سلامتی کو بگاڑنے کے لیے ذمہ دار مسلح عناصر کے خلاف مرکوز کارروائیاں کریں گے۔"<cite>- سینئر سیکورٹی اہلکار (تفصیلی)</cite></div><h3>نئے تھیٹروں کو دوبارہ تفویض کرنا</h3><p>حکام نے نوٹ کیا کہ ماؤنواز تشدد میں زبردست کمی آنے کے بعد، کچھ کوبرا یونٹس کو اب دوسرے خطوں میں ابھرتے ہوئے سیکورٹی چیلنجوں کے لیے دوبارہ تفویض کیا جا رہا ہے۔ منی پور کے علاوہ، سیکورٹی ایجنسیاں مستقبل میں خصوصی کارروائیوں کے لیے جموں و کشمیر میں ایک یا دو کوبرا بٹالین تعینات کرنے پر بھی غور کر رہی ہیں۔</p><h3>آگے کی سڑک</h3><p>ایلیٹ فورس کی تعیناتی سے زمین پر آپریشنل صلاحیتوں کو بڑھانے اور منی پور میں امن و استحکام کی بحالی کے لیے جاری کوششوں کی حمایت کی توقع ہے۔ حکام کا کہنا ہے کہ کمیونٹی کی سطح تک رسائی اور سیاسی مکالمے کے ساتھ ساتھ مسلسل کارروائیاں ریاست میں طویل مدتی معمول کے لیے کلیدی ثابت ہوں گی۔</p>
+<p class="lead">منی پور میں سیکورٹی کو مضبوط بنانے اور دیرپا امن کی بحالی کے مقصد سے ایک اہم اقدام میں، مرکزی وزارت داخلہ نے تشدد زدہ ریاست میں سنٹرل ریزرو پولیس فورس کی ایلیٹ کمانڈو بٹالین فار ریزولوٹ ایکشن (COBRA) کی دو بٹالین کی تعیناتی کو منظوری دی ہے۔</p><p>حکام کے مطابق، دو بٹالین - 207 COBRA، جو مغربی بنگال میں واقع ہے، اور 210 COBRA، جو آسام میں تعینات ہیں - کو آنے والے ہفتوں میں منی پور میں آپریشنل ڈیوٹی کے لیے تعینات کیا جائے گا۔ توقع ہے کہ کمانڈوز ریاست میں تشدد اور بدامنی میں ملوث مسلح گروہوں کے خلاف ٹارگٹڈ آپریشن کریں گے۔</p><h3>منی پور میں بدامنی کا پس منظر</h3><p>منی پور میں مئی 2023 سے میٹی اور کوکی زو برادریوں کے درمیان طویل نسلی جھڑپوں کا مشاہدہ کیا گیا ہے، جس کے نتیجے میں 260 سے زائد افراد ہلاک اور ہزاروں بے گھر ہوئے۔ مرکز اور ریاستی انتظامیہ معمول کی بحالی اور خطے میں طویل مدتی امن کو یقینی بنانے کے لیے کام کر رہی ہے۔</p><p>ایک سینئر سیکورٹی اہلکار نے کہا کہ خصوصی COBRA یونٹ ریاست میں امن و سلامتی کو بگاڑنے کے ذمہ دار مسلح عناصر کے خلاف مرکوز کارروائیاں کریں گے۔ یہ تعیناتی منی پور میں انسداد بغاوت اور قانون نافذ کرنے کی کوششوں کو مضبوط بنانے کے لیے ایک وسیع حکمت عملی کا حصہ ہے۔</p><p></p><h3>کوبرا فورس کے بارے میں</h3><p>COBRA، CRPF کی ایک ایلیٹ جنگل وارفیئر فورس، 2008-09 میں بنیادی طور پر شمال مشرق سمیت ملک کے مختلف حصوں میں بائیں بازو کی انتہا پسندی اور شورش کا مقابلہ کرنے کے لیے تشکیل دی گئی تھی۔ یہ فورس فی الحال دس بٹالین پر مشتمل ہے، جن میں سے ہر ایک میں تقریباً 1,000 اعلیٰ تربیت یافتہ کمانڈوز ہیں جو انٹیلی جنس پر مبنی آپریشنز، گوریلا جنگ، جنگل میں لڑائی اور بغاوت مخالف حکمت عملیوں میں مہارت رکھتے ہیں۔</p><p>کمانڈوز نے پورے وسطی ہندوستان میں نکسل مخالف کارروائیوں میں ایک اہم کردار ادا کیا ہے اور انہیں کئی کامیاب آپریشنز کا سہرا دیا جاتا ہے جنہوں نے ملک میں ماؤنواز سرگرمیوں کو نمایاں طور پر کمزور کیا۔</p><p></p><h3>نئے تھیٹروں کو دوبارہ تفویض کرنا</h3><p>حکام نے نوٹ کیا کہ ماؤنواز تشدد میں زبردست کمی آنے کے بعد، کچھ کوبرا یونٹس کو اب دوسرے خطوں میں ابھرتے ہوئے سیکورٹی چیلنجوں کے لیے دوبارہ تفویض کیا جا رہا ہے۔ منی پور کے علاوہ، سیکورٹی ایجنسیاں مستقبل میں خصوصی کارروائیوں کے لیے جموں و کشمیر میں ایک یا دو کوبرا بٹالین تعینات کرنے پر بھی غور کر رہی ہیں۔</p><h3>آگے کی سڑک</h3><p>ایلیٹ فورس کی تعیناتی سے زمین پر آپریشنل صلاحیتوں کو بڑھانے اور منی پور میں امن و استحکام کی بحالی کے لیے جاری کوششوں کی حمایت کی توقع ہے۔ حکام کا کہنا ہے کہ کمیونٹی کی سطح تک رسائی اور سیاسی مکالمے کے ساتھ ساتھ مسلسل کارروائیاں ریاست میں طویل مدتی معمول کے لیے کلیدی ثابت ہوں گی۔</p>
     </div>
     <div class="foot">
-      <span>بھارت سنواد · قومی سلامتی ڈیسک</span><span>© 2026 بھارت سنواد پبلیکیشنز</span><span>صفحہ 2</span>
+      <span>Bharat Samvad · قومی سلامتی Desk</span><span>© 2026 Bharat Samvad Publications</span><span>صفحہ 2</span>
     </div>
   </div>
   </div>
 
 <script>
-/* ===== poll chrome strings per language ===== */
-var BS_POLL_T = {
-  hi:{eyebrow:"जनमत · आपकी राय", thanks:"आपके मत के लिए धन्यवाद!", votes:"वोट"},
-  en:{eyebrow:"Poll · Your Opinion", thanks:"Thanks for your vote!", votes:"votes"},
-  ur:{eyebrow:"رائے شماری · آپ کی رائے", thanks:"آپ کی رائے کا شکریہ!", votes:"ووٹ"}
-};
-var BS_LANG = "hi";
-
-function bsPollPct(n,t){return t?Math.round(n*100/t):0;}
-function bsPollRenderOne(box,counts){
-  counts=counts||{};
-  var opts=box.querySelectorAll(".opt"),total=0;
-  opts.forEach(function(o){total+=counts[o.dataset.opt]||0;});
-  var voted=box.classList.contains("voted");
-  opts.forEach(function(o){
-    var lab=o.querySelector(".optlabel");
-    if(lab) lab.textContent=o.getAttribute("data-"+BS_LANG)||lab.textContent;
-    var n=counts[o.dataset.opt]||0,p=bsPollPct(n,total);
-    o.querySelector(".barfill").style.width=voted?p+"%":"0%";
-    o.querySelector(".pct").textContent=voted?p+"%":"";
-  });
-  var t=BS_POLL_T[BS_LANG];
-  var eb=box.querySelector(".eyebrow"); if(eb) eb.textContent=t.eyebrow;
-  var th=box.querySelector("[data-thanks]"); if(th) th.textContent=t.thanks;
-  var tot=box.querySelector("[data-total]"); if(tot) tot.textContent=voted?(total+" "+t.votes):"";
-  var q=box.querySelector("h4"); if(q && q.getAttribute("data-"+BS_LANG)) q.textContent=q.getAttribute("data-"+BS_LANG);
-}
-function bsPollRefreshAll(){document.querySelectorAll(".bs-poll").forEach(function(b){bsPollRenderOne(b);});}
-
-function bsPollInit(box){
-  var API="/api/poll", id=box.dataset.pollId, already=false;
-  try{already=!!localStorage.getItem("bs_voted_"+id);}catch(e){}
-  function localCounts(){try{return JSON.parse(localStorage.getItem("bs_counts_"+id)||"{}");}catch(e){return {};}}
-  fetch(API+"?id="+encodeURIComponent(id)).then(function(r){return r.ok?r.json():null;})
-    .then(function(d){var c=(d&&d.counts)?d.counts:localCounts(); if(already)box.classList.add("voted"); if(already){var t=box.querySelector("[data-thanks]"); if(t)t.hidden=false;} bsPollRenderOne(box,c);})
-    .catch(function(){var c=localCounts(); if(already)box.classList.add("voted"); bsPollRenderOne(box,c);});
-  box.querySelectorAll(".opt").forEach(function(btn){
-    btn.addEventListener("click",function(){
-      if(box.classList.contains("voted"))return;
-      var opt=btn.dataset.opt;
-      try{localStorage.setItem("bs_voted_"+id,opt);}catch(e){}
-      var c=localCounts(); c[opt]=(c[opt]||0)+1; try{localStorage.setItem("bs_counts_"+id,JSON.stringify(c));}catch(e){}
-      box.classList.add("voted");
-      var th=box.querySelector("[data-thanks]"); if(th)th.hidden=false;
-      bsPollRenderOne(box,c);
-      fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:id,option:opt})})
-        .then(function(r){return r.ok?r.json():null;})
-        .then(function(d){if(d&&d.counts)bsPollRenderOne(box,d.counts);}).catch(function(){});
-    });
-  });
-}
-
-/* ===== PDF Download Function ===== */
 function downloadAsPDF() {
-    const headline = document.querySelector('.headline') ? 
-                     document.querySelector('.headline').textContent.trim() : 'Article';
+    let headline = document.querySelector(".headline") ? 
+                   document.querySelector(".headline").textContent.trim() : "Article";
     
-    const cleanTitle = headline
-        .replace(/[^a-zA-Z0-9\s-]/g, '')
-        .replace(/\s+/g, '-')
+    let cleanTitle = headline
+        .replace(/[^a-zA-Z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
         .toLowerCase()
         .substring(0, 60);
     
-    const filename = `2026-06-01-page4-${cleanTitle}.pdf`;
+    const filename = "2026-06-01-page4-" + cleanTitle + ".pdf";
 
-    const toast = document.createElement('div');
-    toast.style.cssText = `position:fixed;bottom:30px;left:50%;transform:translateX(-50%);
-        background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;
-        z-index:10000;font-size:1rem;box-shadow:0 4px 12px rgba(0,0,0,0.3);`;
-    toast.textContent = 'Opening Print to PDF...';
+    const toast = document.createElement("div");
+    toast.style.cssText = "position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;z-index:10000;font-size:1rem;";
+    toast.textContent = "Opening Print to PDF...";
     document.body.appendChild(toast);
 
     setTimeout(() => {
         toast.remove();
         window.print();
-    }, 700);
+    }, 600);
 }
 
 function setLang(l){
-  BS_LANG=l;
-  document.querySelectorAll('.langblock').forEach(b=>b.classList.toggle('show', b.dataset.lang===l));
-  document.querySelectorAll('.langbar button').forEach(btn=>btn.classList.toggle('active', btn.dataset.l===l));
-  document.documentElement.lang=(l==='ur'?'ur':(l==='en'?'en':'hi'));
-  bsPollRefreshAll();
-  try{localStorage.setItem('bs_lang',l);}catch(e){}
+  document.querySelectorAll(".langblock").forEach(b => {
+    b.classList.toggle("show", b.dataset.lang === l);
+  });
+  document.querySelectorAll(".langbar button").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.l === l);
+  });
 }
-document.addEventListener('DOMContentLoaded',function(){
-  document.querySelectorAll(".bs-poll").forEach(bsPollInit);
-  var s='hi'; try{s=localStorage.getItem('bs_lang')||'hi';}catch(e){}
+document.addEventListener("DOMContentLoaded", function(){
+  var s = "hi";
+  try { s = localStorage.getItem("bs_lang") || "hi"; } catch(e){}
   setLang(s);
 });
 </script>
+
 </body>
 </html>

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>भारत संवाद · Bharat Samvad · بھارت سنواد</title>
+<title>भारत संवाद</title>
 <style>
 .lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
 .lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
@@ -134,79 +134,16 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 .newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
 .lang-ur .newsfig figcaption{text-align:right;}
 
-/* ===== poll widget ===== */
-.bs-poll{break-inside:avoid;column-span:all;background:#efe7d3;border:1.5px solid var(--ink);
-  border-top:4px solid var(--accent);box-shadow:3px 3px 0 rgba(38,34,28,.18);
-  padding:18px 20px 16px;margin:8px 0 18px;}
-.bs-poll .eyebrow{font-family:'Khand',sans-serif;font-weight:700;letter-spacing:3px;font-size:11px;
-  text-transform:uppercase;color:#fff;background:var(--accent);display:inline-block;padding:3px 11px;margin-bottom:10px;}
-.bs-poll h4{font-family:'Rozha One',Georgia,serif;font-size:21px;line-height:1.25;color:var(--ink);margin-bottom:14px;border:none;padding:0;}
-.bs-poll .opt{display:block;width:100%;text-align:left;font-family:inherit;font-size:15px;color:var(--ink);
-  background:var(--paper);border:1.5px solid var(--ink);padding:11px 14px;margin-bottom:9px;cursor:pointer;
-  position:relative;overflow:hidden;transition:transform .1s;}
-.bs-poll .opt:hover{transform:translateX(3px);}
-.bs-poll .opt .barfill{position:absolute;inset:0;background:rgba(154,27,27,.16);width:0;transition:width .5s ease;z-index:0;}
-.bs-poll .opt .lbl{position:relative;z-index:1;display:flex;justify-content:space-between;gap:10px;}
-.bs-poll .opt .pct{font-weight:bold;color:var(--accent-dk);font-family:'Khand',sans-serif;}
-.bs-poll.voted .opt{cursor:default;}
-.bs-poll.voted .opt:hover{transform:none;}
-.bs-poll .meta{font-family:'Mukta',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:8px;
-  display:flex;justify-content:space-between;align-items:center;gap:10px;}
-.bs-poll .thanks{color:var(--accent-dk);font-weight:600;}
-.lang-ur .bs-poll h4{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
-.lang-ur .bs-poll .opt{text-align:right;font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
-.lang-ur .bs-poll .opt:hover{transform:translateX(-3px);}
-.lang-ur .bs-poll .meta{flex-direction:row-reverse;}
-
-/* ==================== PRINT STYLES (PDF) ==================== */
+/* Print Styles for PDF */
 @media print {
-    .langbar, .pdf-download-btn, .top-bar, .sidebar, .footer, 
-    .share-buttons, .comments, .related-articles, nav {
-        display: none !important;
-    }
-    
-    body, .sheet {
-        background: #fff !important;
-        color: #000 !important;
-        margin: 0;
-        padding: 0;
-    }
-    
-    .sheet {
-        box-shadow: none;
-        max-width: 100%;
-        margin: 0 auto;
-    }
-    
-    .langblock {
-        display: block !important;
-        break-after: page;
-        page-break-after: always;
-    }
-    
-    .langblock:last-child {
-        page-break-after: avoid;
-    }
-    
-    h1, h2, h3, .headline, .kicker {
-        color: #000 !important;
-        break-after: avoid;
-    }
-    
-    .kicker { color: #9a1b1b !important; font-weight: 700; }
-    
-    .masthead h1 { font-size: 32px !important; }
-    
-    p, li { line-height: 1.75; orphans: 3; widows: 3; }
-    
-    figure, .newsfig, .box, .pull {
-        break-inside: avoid;
-    }
-    
-    @page {
-        margin: 1.5cm;
-        size: A4;
-    }
+    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    body, .sheet { background:#fff !important; color:#000 !important; }
+    .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
+    .langblock { display:block !important; page-break-after:always; }
+    .langblock:last-child { page-break-after:avoid; }
+    .kicker { color:#9a1b1b !important; font-weight:700; }
+    p, li { line-height:1.75; }
+    @page { margin:1.5cm; size:A4; }
 }
 
 </style>
@@ -217,7 +154,7 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <button data-l="en" onclick="setLang('en')">English</button>
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
     
-<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download as PDF">
+<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download this article as PDF">
     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
         <polyline points="14 2 14 8 20 8"></polyline>
@@ -243,7 +180,7 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <p class="subdeck">गुजरात में भारत-पाकिस्तान सीमा पर, केंद्रीय गृह मंत्री ने बीएसएफ कर्मियों के साथ बातचीत की, विषम परिस्थितियों में उनके साहस की प्रशंसा की और प्रौद्योगिकी के नेतृत्व वाली क्षेत्रीय सुरक्षा पर सरकार के फोकस को रेखांकित किया।</p>
     <div class="byline"><b>भारत संवाद डेस्क</b> · भुज, गुजरात</div>
     <div class="body">
-<p class="lead">केंद्रीय गृह एवं सहकारिता मंत्री अमित शाह ने गुजरात में भुज के पास जी-7 सीमा चौकी का दौरा किया और भारत-पाकिस्तान सीमा पर तैनात सीमा सुरक्षा बल के जवानों से बातचीत की। यात्रा के दौरान, उन्होंने जी-7 और जी-13 सीमा चौकियों का उद्घाटन किया और भारत की सीमा के बुनियादी ढांचे को मजबूत करने, जवानों के लिए सुविधाओं में सुधार और एक आधुनिक, प्रौद्योगिकी समर्थित सुरक्षा ग्रिड के निर्माण के लिए सरकार की प्रतिबद्धता पर प्रकाश डाला।</p><p>कार्यक्रम में गुजरात के मुख्यमंत्री भूपेन्द्र पटेल, उपमुख्यमंत्री हर्ष संघवी, केंद्रीय गृह सचिव, खुफिया ब्यूरो के निदेशक, सीमा प्रबंधन सचिव, बीएसएफ के महानिदेशक और अन्य वरिष्ठ अधिकारी उपस्थित थे। इस यात्रा का प्रतीकात्मक और रणनीतिक महत्व दोनों है, क्योंकि यह एक संवेदनशील सीमांत क्षेत्र में हुई, जिसमें सर क्रीक, हरामी नाला और कच्छ के रेगिस्तानी इलाके जैसे कठिन इलाके शामिल हैं।</p><h3>रक्षा की पहली पंक्ति को सलाम</h3><p>बीएसएफ कर्मियों को संबोधित करते हुए, शाह ने कहा कि बल ने पिछले छह दशकों में भारत की दो सबसे चुनौतीपूर्ण सीमाओं की रक्षा करने की जिम्मेदारी निभाई है। उन्होंने कहा कि बीएसएफ के जवान अत्यंत कठिन जलवायु और भौगोलिक परिस्थितियों में सेवा करते हैं, शून्य से 45 डिग्री सेल्सियस नीचे के तापमान से लेकर 45 डिग्री सेल्सियस से अधिक की चिलचिलाती गर्मी तक।</p><p>उन्होंने कहा कि बीएसएफ का साहस और अनुशासन देश भर के नागरिकों को शांति से रहने की अनुमति देता है। 2,000 से अधिक बीएसएफ कर्मियों ने राष्ट्र की सेवा में सर्वोच्च बलिदान दिया है, और उनका योगदान बल के प्रति लोगों के सम्मान को प्रेरित करता है।</p><div class="box"><h4>मुख्य आकर्षण</h4><ul><li><b>जगह — </b>भुज, गुजरात के पास जी-7 सीमा चौकी</li><li><b>आयोजन — </b>बीएसएफ कर्मियों के साथ बातचीत और जी-7 और जी-13 बीओपी का उद्घाटन</li><li><b>केंद्र — </b>सीमा अवसंरचना, आधुनिक बाड़ लगाना और क्षेत्रीय सुरक्षा</li><li><b>इलाके — </b>कच्छ रेगिस्तान, सर क्रीक और हरामी नाला क्षेत्र</li><li><b>सुरक्षा दृष्टिकोण — </b>लोग, नागरिक प्रशासन, स्थानीय पुलिस, सेना और बीएसएफ एक साथ काम कर रहे हैं</li><li><b>प्रौद्योगिकी धक्का — </b>ड्रोन, रडार, वॉच टावर, कनेक्टिंग रोड और आधुनिक निगरानी प्रणाली</li></ul></div><h3>जी-7 और जी-13 मजबूत बुनियादी ढांचे के प्रतीक के रूप में</h3><p>नव उद्घाटन किए गए जी-7 और जी-13 चौकियों को कठिन इलाके में दृढ़ इंजीनियरिंग के उदाहरण के रूप में वर्णित किया गया था। उन क्षेत्रों में जहां भूगोल नियमित आवाजाही, जल आपूर्ति, चिकित्सा पहुंच और निर्माण को बेहद चुनौतीपूर्ण बनाता है, बीएसएफ ने बेहतर सुविधाओं के साथ एक मजबूत सुरक्षा आधार विकसित किया है।</p><p>शाह ने कहा कि सरकार वॉच टावर, संपर्क सड़कें, पेयजल, चिकित्सा सहायता, बेहतर रहने की व्यवस्था और आधुनिक बाड़ लगाने पर ध्यान केंद्रित कर रही है। इन कदमों से कर्मियों के लिए कठिनाई कम होने और परिचालन तत्परता में सुधार होने की उम्मीद है।</p><div class="pull">सीमा सुरक्षा केवल मानचित्र पर एक रेखा की रक्षा करने के बारे में नहीं है; यह क्षेत्र, लोगों और विश्वास को सुरक्षित करने के बारे में है।<cite>— भारत संवाद डेस्क</cite></div><h3>सीमा सुरक्षा से लेकर क्षेत्रीय सुरक्षा तक</h3><p>संबोधन का एक प्रमुख विषय "सीमा सुरक्षा" के संकीर्ण विचार से "क्षेत्रीय सुरक्षा" के व्यापक मॉडल में बदलाव था। शाह ने कहा कि आने वाले वर्षों में, भारत नागरिकों, नागरिक प्रशासन, स्थानीय पुलिस, सेना और बीएसएफ कर्मियों को शामिल करते हुए चार-तरफा सुरक्षा ग्रिड की ओर बढ़ेगा।</p><p>इस दृष्टिकोण का उद्देश्य सीमांत क्षेत्रों में अधिक समन्वित और उत्तरदायी सुरक्षा वातावरण बनाना है। स्थानीय जानकारी, प्रशासनिक सहायता, सैन्य तैयारी और बीएसएफ सतर्कता को जोड़कर, सरकार तत्काल सीमा बाड़ से परे सुरक्षा को मजबूत करना चाहती है।</p><h3>संवेदनशील क्षेत्रों की प्रौद्योगिकी आधारित सुरक्षा</h3><p>केंद्रीय गृह मंत्री ने कहा कि सरकार "लीक-प्रूफ" सुरक्षा ग्रिड बनाने पर काम कर रही है। जहां नदियों, दलदली भूमि या अन्य भौगोलिक चुनौतियों के कारण भौतिक बाड़ लगाना मुश्किल है, वहां तकनीकी बाड़ लगाना और निगरानी प्रणाली शुरू की जा रही है।</p><p>ड्रोन, रडार, आधुनिक वॉच टावर और उन्नत निगरानी प्रणालियों से खतरों का पता लगाने और रोकने में बीएसएफ कर्मियों को सहायता मिलने की उम्मीद है। शाह ने विश्वास जताया कि इस तरह के आधुनिक ग्रिड से शत्रु तत्वों के लिए सीमा का उल्लंघन करना बेहद मुश्किल हो जाएगा।</p><h3>सर क्रीक और हरामी नाला पर विशेष फोकस</h3><p>शाह ने सर क्रीक और हरामी नाला का जिक्र ऐसे क्षेत्रों के रूप में किया जो कभी सुरक्षा की दृष्टि से संवेदनशील माने जाते थे। उन्होंने कहा कि सरकार ने वॉच टावरों, सड़कों, पेयजल व्यवस्था, चिकित्सा सुविधाओं, आवास सहायता और नई बाड़ लगाने के माध्यम से इस बेल्ट को मजबूत करना शुरू कर दिया है।</p><p>उन्होंने कहा कि अगले दो वर्षों में निरंतर काम के साथ, इस क्षेत्र के शत्रुतापूर्ण डिजाइनों के खिलाफ स्थायी रूप से सुरक्षित होने की उम्मीद है। संदेश स्पष्ट था: सीमा बुनियादी ढांचे को अब राष्ट्रीय सुरक्षा योजना का मुख्य हिस्सा माना जा रहा है।</p><h3>बीएसएफ की भूमिका के बारे में जन जागरूकता</h3><p>गृह मंत्री ने बनासकांठा में एक केंद्र का भी उल्लेख किया जहां लोग बीएसएफ कर्मियों द्वारा निभाए जाने वाले कठिन कर्तव्यों के बारे में जान सकते हैं। उनके अनुसार, बल की जिम्मेदारियों की बेहतर समझ हासिल करने के लिए, लगभग एक महीने में 2.5 लाख से अधिक लोग केंद्र का दौरा कर चुके हैं।</p><p>आगंतुकों, विशेष रूप से माताओं की प्रतिक्रिया, जिन्होंने कहा कि अगर उनके बच्चे बीएसएफ में शामिल होंगे तो उन्हें गर्व महसूस होगा, जो बल के लिए बढ़ती सार्वजनिक सराहना को दर्शाता है। इस तरह की पहल सीमा कर्मियों के बलिदान और दैनिक अनुशासन को आम नागरिकों के करीब लाने में मदद करती है।</p><h3>सीमा प्रबंधन के भविष्य को मजबूत बनाना</h3><p>शाह ने कहा कि सरकार आवश्यकता पड़ने पर बीएसएफ की परिचालन जिम्मेदारी के तहत और अधिक क्षेत्रों को जोड़ने पर भी विचार कर रही है। उन्होंने कहा कि कुछ सीमावर्ती क्षेत्रों में अधूरी बाड़ लगाना एक चुनौती बनी हुई है, लेकिन जहां संभव हो वहां भौतिक बाड़ लगाने का काम पूरा करने और नदी, जंगली और दुर्गम क्षेत्रों में तकनीकी बाड़ लगाने के प्रयास किए जा रहे हैं।</p><p>बड़ा लक्ष्य एक निर्बाध सुरक्षा वास्तुकला का निर्माण करना है जो बुनियादी ढांचे, प्रौद्योगिकी, जनशक्ति और स्थानीय समन्वय को जोड़ती है। अग्रिम मोर्चे पर तैनात कर्मियों के लिए इसका मतलब बेहतर सुविधाएं और बेहतर सहायता प्रणाली भी है।</p><h3>सीमा से विश्वास का संदेश</h3><p>भुज यात्रा ने सरकार के इस विश्वास को रेखांकित किया कि राष्ट्रीय सुरक्षा न केवल हथियारों और निगरानी पर निर्भर करती है, बल्कि उन कर्मियों के मनोबल पर भी निर्भर करती है जो कठोर परिस्थितियों में रक्षा करते हैं। नई चौकियों का उद्घाटन करके और जवानों से सीधे बात करके गृह मंत्री ने यह संदेश देने की कोशिश की कि देश अपनी रक्षा की पहली पंक्ति के पीछे मजबूती से खड़ा है।</p><p>भारत संवाद के पाठकों के लिए यह कहानी यह भी याद दिलाती है कि सीमा विकास अब केवल प्रशासनिक कार्य नहीं रह गया है। यह एक रणनीतिक राष्ट्रीय परियोजना है जो नागरिकों की सुरक्षा करती है, सैनिकों का समर्थन करती है और अपनी सीमाओं पर भारत के आत्मविश्वास को मजबूत करती है।</p>
+<p class="lead">केंद्रीय गृह एवं सहकारिता मंत्री अमित शाह ने गुजरात में भुज के पास जी-7 सीमा चौकी का दौरा किया और भारत-पाकिस्तान सीमा पर तैनात सीमा सुरक्षा बल के जवानों से बातचीत की। यात्रा के दौरान, उन्होंने जी-7 और जी-13 सीमा चौकियों का उद्घाटन किया और भारत की सीमा के बुनियादी ढांचे को मजबूत करने, जवानों के लिए सुविधाओं में सुधार और एक आधुनिक, प्रौद्योगिकी समर्थित सुरक्षा ग्रिड के निर्माण के लिए सरकार की प्रतिबद्धता पर प्रकाश डाला।</p><p>कार्यक्रम में गुजरात के मुख्यमंत्री भूपेन्द्र पटेल, उपमुख्यमंत्री हर्ष संघवी, केंद्रीय गृह सचिव, खुफिया ब्यूरो के निदेशक, सीमा प्रबंधन सचिव, बीएसएफ के महानिदेशक और अन्य वरिष्ठ अधिकारी उपस्थित थे। इस यात्रा का प्रतीकात्मक और रणनीतिक महत्व दोनों है, क्योंकि यह एक संवेदनशील सीमांत क्षेत्र में हुई, जिसमें सर क्रीक, हरामी नाला और कच्छ के रेगिस्तानी इलाके जैसे कठिन इलाके शामिल हैं।</p><h3>रक्षा की पहली पंक्ति को सलाम</h3><p>बीएसएफ कर्मियों को संबोधित करते हुए, शाह ने कहा कि बल ने पिछले छह दशकों में भारत की दो सबसे चुनौतीपूर्ण सीमाओं की रक्षा करने की जिम्मेदारी निभाई है। उन्होंने कहा कि बीएसएफ के जवान अत्यंत कठिन जलवायु और भौगोलिक परिस्थितियों में सेवा करते हैं, शून्य से 45 डिग्री सेल्सियस नीचे के तापमान से लेकर 45 डिग्री सेल्सियस से अधिक की चिलचिलाती गर्मी तक।</p><p>उन्होंने कहा कि बीएसएफ का साहस और अनुशासन देश भर के नागरिकों को शांति से रहने की अनुमति देता है। 2,000 से अधिक बीएसएफ कर्मियों ने राष्ट्र की सेवा में सर्वोच्च बलिदान दिया है, और उनका योगदान बल के प्रति लोगों के सम्मान को प्रेरित करता है।</p><p></p><h3>जी-7 और जी-13 मजबूत बुनियादी ढांचे के प्रतीक के रूप में</h3><p>नव उद्घाटन किए गए जी-7 और जी-13 चौकियों को कठिन इलाके में दृढ़ इंजीनियरिंग के उदाहरण के रूप में वर्णित किया गया था। उन क्षेत्रों में जहां भूगोल नियमित आवाजाही, जल आपूर्ति, चिकित्सा पहुंच और निर्माण को बेहद चुनौतीपूर्ण बनाता है, बीएसएफ ने बेहतर सुविधाओं के साथ एक मजबूत सुरक्षा आधार विकसित किया है।</p><p>शाह ने कहा कि सरकार वॉच टावर, संपर्क सड़कें, पेयजल, चिकित्सा सहायता, बेहतर रहने की व्यवस्था और आधुनिक बाड़ लगाने पर ध्यान केंद्रित कर रही है। इन कदमों से कर्मियों के लिए कठिनाई कम होने और परिचालन तत्परता में सुधार होने की उम्मीद है।</p><p></p><h3>सीमा सुरक्षा से लेकर क्षेत्रीय सुरक्षा तक</h3><p>संबोधन का एक प्रमुख विषय "सीमा सुरक्षा" के संकीर्ण विचार से "क्षेत्रीय सुरक्षा" के व्यापक मॉडल में बदलाव था। शाह ने कहा कि आने वाले वर्षों में, भारत नागरिकों, नागरिक प्रशासन, स्थानीय पुलिस, सेना और बीएसएफ कर्मियों को शामिल करते हुए चार-तरफा सुरक्षा ग्रिड की ओर बढ़ेगा।</p><p>इस दृष्टिकोण का उद्देश्य सीमांत क्षेत्रों में अधिक समन्वित और उत्तरदायी सुरक्षा वातावरण बनाना है। स्थानीय जानकारी, प्रशासनिक सहायता, सैन्य तैयारी और बीएसएफ सतर्कता को जोड़कर, सरकार तत्काल सीमा बाड़ से परे सुरक्षा को मजबूत करना चाहती है।</p><h3>संवेदनशील क्षेत्रों की प्रौद्योगिकी आधारित सुरक्षा</h3><p>केंद्रीय गृह मंत्री ने कहा कि सरकार "लीक-प्रूफ" सुरक्षा ग्रिड बनाने पर काम कर रही है। जहां नदियों, दलदली भूमि या अन्य भौगोलिक चुनौतियों के कारण भौतिक बाड़ लगाना मुश्किल है, वहां तकनीकी बाड़ लगाना और निगरानी प्रणाली शुरू की जा रही है।</p><p>ड्रोन, रडार, आधुनिक वॉच टावर और उन्नत निगरानी प्रणालियों से खतरों का पता लगाने और रोकने में बीएसएफ कर्मियों को सहायता मिलने की उम्मीद है। शाह ने विश्वास जताया कि इस तरह के आधुनिक ग्रिड से शत्रु तत्वों के लिए सीमा का उल्लंघन करना बेहद मुश्किल हो जाएगा।</p><h3>सर क्रीक और हरामी नाला पर विशेष फोकस</h3><p>शाह ने सर क्रीक और हरामी नाला का जिक्र ऐसे क्षेत्रों के रूप में किया जो कभी सुरक्षा की दृष्टि से संवेदनशील माने जाते थे। उन्होंने कहा कि सरकार ने वॉच टावरों, सड़कों, पेयजल व्यवस्था, चिकित्सा सुविधाओं, आवास सहायता और नई बाड़ लगाने के माध्यम से इस बेल्ट को मजबूत करना शुरू कर दिया है।</p><p>उन्होंने कहा कि अगले दो वर्षों में निरंतर काम के साथ, इस क्षेत्र के शत्रुतापूर्ण डिजाइनों के खिलाफ स्थायी रूप से सुरक्षित होने की उम्मीद है। संदेश स्पष्ट था: सीमा बुनियादी ढांचे को अब राष्ट्रीय सुरक्षा योजना का मुख्य हिस्सा माना जा रहा है।</p><h3>बीएसएफ की भूमिका के बारे में जन जागरूकता</h3><p>गृह मंत्री ने बनासकांठा में एक केंद्र का भी उल्लेख किया जहां लोग बीएसएफ कर्मियों द्वारा निभाए जाने वाले कठिन कर्तव्यों के बारे में जान सकते हैं। उनके अनुसार, बल की जिम्मेदारियों की बेहतर समझ हासिल करने के लिए, लगभग एक महीने में 2.5 लाख से अधिक लोग केंद्र का दौरा कर चुके हैं।</p><p>आगंतुकों, विशेष रूप से माताओं की प्रतिक्रिया, जिन्होंने कहा कि अगर उनके बच्चे बीएसएफ में शामिल होंगे तो उन्हें गर्व महसूस होगा, जो बल के लिए बढ़ती सार्वजनिक सराहना को दर्शाता है। इस तरह की पहल सीमा कर्मियों के बलिदान और दैनिक अनुशासन को आम नागरिकों के करीब लाने में मदद करती है।</p><h3>सीमा प्रबंधन के भविष्य को मजबूत बनाना</h3><p>शाह ने कहा कि सरकार आवश्यकता पड़ने पर बीएसएफ की परिचालन जिम्मेदारी के तहत और अधिक क्षेत्रों को जोड़ने पर भी विचार कर रही है। उन्होंने कहा कि कुछ सीमावर्ती क्षेत्रों में अधूरी बाड़ लगाना एक चुनौती बनी हुई है, लेकिन जहां संभव हो वहां भौतिक बाड़ लगाने का काम पूरा करने और नदी, जंगली और दुर्गम क्षेत्रों में तकनीकी बाड़ लगाने के प्रयास किए जा रहे हैं।</p><p>बड़ा लक्ष्य एक निर्बाध सुरक्षा वास्तुकला का निर्माण करना है जो बुनियादी ढांचे, प्रौद्योगिकी, जनशक्ति और स्थानीय समन्वय को जोड़ती है। अग्रिम मोर्चे पर तैनात कर्मियों के लिए इसका मतलब बेहतर सुविधाएं और बेहतर सहायता प्रणाली भी है।</p><h3>सीमा से विश्वास का संदेश</h3><p>भुज यात्रा ने सरकार के इस विश्वास को रेखांकित किया कि राष्ट्रीय सुरक्षा न केवल हथियारों और निगरानी पर निर्भर करती है, बल्कि उन कर्मियों के मनोबल पर भी निर्भर करती है जो कठोर परिस्थितियों में रक्षा करते हैं। नई चौकियों का उद्घाटन करके और जवानों से सीधे बात करके गृह मंत्री ने यह संदेश देने की कोशिश की कि देश अपनी रक्षा की पहली पंक्ति के पीछे मजबूती से खड़ा है।</p><p>भारत संवाद के पाठकों के लिए यह कहानी यह भी याद दिलाती है कि सीमा विकास अब केवल प्रशासनिक कार्य नहीं रह गया है। यह एक रणनीतिक राष्ट्रीय परियोजना है जो नागरिकों की सुरक्षा करती है, सैनिकों का समर्थन करती है और अपनी सीमाओं पर भारत के आत्मविश्वास को मजबूत करती है।</p>
     </div>
     <div class="foot">
       <span>भारत संवाद · राष्ट्रीय सुरक्षा डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 1</span>
@@ -263,7 +200,7 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <p class="subdeck">At the India-Pakistan border in Gujarat, the Union Home Minister interacted with BSF personnel, praised their courage in extreme conditions and underlined the government’s focus on technology-led territorial security.</p>
     <div class="byline"><b>Bharat Samvad Desk</b> · Bhuj, Gujarat</div>
     <div class="body">
-<p class="lead">Union Home and Cooperation Minister Amit Shah visited the G-7 Border Out Post near Bhuj in Gujarat and interacted with Border Security Force personnel deployed along the India-Pakistan border. During the visit, he inaugurated the G-7 and G-13 Border Out Posts and highlighted the government’s commitment to strengthening India’s border infrastructure, improving facilities for jawans and building a modern, technology-backed security grid.</p><p>The programme was attended by Gujarat Chief Minister Bhupendra Patel, Deputy Chief Minister Harsh Sanghavi, the Union Home Secretary, the Director of the Intelligence Bureau, the Secretary for Border Management, the Director General of the BSF and other senior officials. The visit carried both symbolic and strategic significance, as it took place in a sensitive frontier region that includes difficult terrain such as Sir Creek, Harami Nala and the desert stretches of Kutch.</p><h3>Salute to the first line of defence</h3><p>Addressing BSF personnel, Shah said the force has carried the responsibility of guarding two of India’s most challenging borders over the last six decades. He noted that BSF personnel serve in extremely difficult climatic and geographical conditions, from freezing temperatures of minus 45 degrees Celsius to scorching heat above 45 degrees Celsius.</p><p>He said that the courage and discipline of the BSF allow citizens across the country to live peacefully. More than 2,000 BSF personnel have made the supreme sacrifice in the service of the nation, and their contribution continues to inspire public respect for the force.</p><div class="box"><h4>Key highlights</h4><ul><li><b>Location — </b>G-7 Border Out Post near Bhuj, Gujarat</li><li><b>Event — </b>Interaction with BSF personnel and inauguration of G-7 and G-13 BOPs</li><li><b>Focus — </b>Border infrastructure, modern fencing and territorial security</li><li><b>Terrain — </b>Kutch desert, Sir Creek and Harami Nala region</li><li><b>Security approach — </b>People, civil administration, local police, military and BSF working together</li><li><b>Technology push — </b>Drones, radars, watch towers, connecting roads and modern surveillance systems</li></ul></div><h3>G-7 and G-13 as symbols of stronger infrastructure</h3><p>The newly inaugurated G-7 and G-13 outposts were described as examples of determined engineering in difficult terrain. In areas where the geography makes routine movement, water supply, medical access and construction extremely challenging, the BSF has developed a stronger security base with improved facilities.</p><p>Shah said that the government is focused on providing watch towers, connecting roads, drinking water, medical support, better living arrangements and modern fencing. These steps are expected to reduce hardship for personnel and improve operational readiness.</p><div class="pull">Border security is not only about guarding a line on the map; it is about securing territory, people and confidence.<cite>— Bharat Samvad Desk</cite></div><h3>From border security to territorial security</h3><p>A major theme of the address was the shift from a narrow idea of “border security” to a wider model of “territorial security.” Shah said that in the coming years, India will move toward a four-sided security grid involving citizens, civil administration, local police, the military and BSF personnel.</p><p>This approach aims to create a more coordinated and responsive security environment in frontier areas. By connecting local information, administrative support, military preparedness and BSF vigilance, the government seeks to strengthen security beyond the immediate border fence.</p><h3>Technology-led protection of sensitive areas</h3><p>The Union Home Minister said the government is working to build a “leak-proof” security grid. Where physical fencing is difficult because of rivers, marshy ground or other geographical challenges, technical fencing and surveillance systems are being introduced.</p><p>Drones, radars, modern watch towers and advanced monitoring systems are expected to support BSF personnel in detecting and preventing threats. Shah expressed confidence that such a modern grid would make it extremely difficult for hostile elements to breach the frontier.</p><h3>Special focus on Sir Creek and Harami Nala</h3><p>Shah referred to Sir Creek and Harami Nala as areas that were once considered sensitive from the security point of view. He said the government has begun strengthening this belt through watch towers, roads, drinking water arrangements, medical facilities, housing support and new fencing.</p><p>He added that with continued work over the next two years, this region is expected to become permanently secure against hostile designs. The message was clear: border infrastructure is now being treated as a core part of national security planning.</p><h3>Public awareness about BSF’s role</h3><p>The Home Minister also mentioned a centre in Banaskantha where people can learn about the difficult duties performed by BSF personnel. According to him, more than 2.5 lakh people have visited the centre in about a month, gaining a better understanding of the force’s responsibilities.</p><p>Feedback from visitors, especially mothers who said they would feel proud if their children joined the BSF, reflected growing public appreciation for the force. Such initiatives help bring the sacrifices and daily discipline of border personnel closer to ordinary citizens.</p><h3>Strengthening the future of border management</h3><p>Shah said the government is also considering adding more areas under the BSF’s operational responsibility where required. He noted that unfinished fencing in some border regions has remained a challenge, but efforts are being made to complete physical fencing where possible and introduce technical fencing in riverine, forested and difficult areas.</p><p>The larger goal is to build a seamless security architecture that combines infrastructure, technology, manpower and local coordination. For the personnel deployed on the front line, this also means better facilities and improved support systems.</p><h3>A message of confidence from the frontier</h3><p>The Bhuj visit underlined the government’s belief that national security depends not only on weapons and surveillance but also on the morale of the personnel who stand guard in harsh conditions. By inaugurating new outposts and speaking directly with jawans, the Home Minister sought to reinforce the message that the country stands firmly behind its first line of defence.</p><p>For Bharat Samvad readers, the story is also a reminder that border development is no longer only an administrative task. It is a strategic national project that protects citizens, supports soldiers and strengthens India’s confidence along its frontiers.</p>
+<p class="lead">Union Home and Cooperation Minister Amit Shah visited the G-7 Border Out Post near Bhuj in Gujarat and interacted with Border Security Force personnel deployed along the India-Pakistan border. During the visit, he inaugurated the G-7 and G-13 Border Out Posts and highlighted the government’s commitment to strengthening India’s border infrastructure, improving facilities for jawans and building a modern, technology-backed security grid.</p><p>The programme was attended by Gujarat Chief Minister Bhupendra Patel, Deputy Chief Minister Harsh Sanghavi, the Union Home Secretary, the Director of the Intelligence Bureau, the Secretary for Border Management, the Director General of the BSF and other senior officials. The visit carried both symbolic and strategic significance, as it took place in a sensitive frontier region that includes difficult terrain such as Sir Creek, Harami Nala and the desert stretches of Kutch.</p><h3>Salute to the first line of defence</h3><p>Addressing BSF personnel, Shah said the force has carried the responsibility of guarding two of India’s most challenging borders over the last six decades. He noted that BSF personnel serve in extremely difficult climatic and geographical conditions, from freezing temperatures of minus 45 degrees Celsius to scorching heat above 45 degrees Celsius.</p><p>He said that the courage and discipline of the BSF allow citizens across the country to live peacefully. More than 2,000 BSF personnel have made the supreme sacrifice in the service of the nation, and their contribution continues to inspire public respect for the force.</p><p></p><h3>G-7 and G-13 as symbols of stronger infrastructure</h3><p>The newly inaugurated G-7 and G-13 outposts were described as examples of determined engineering in difficult terrain. In areas where the geography makes routine movement, water supply, medical access and construction extremely challenging, the BSF has developed a stronger security base with improved facilities.</p><p>Shah said that the government is focused on providing watch towers, connecting roads, drinking water, medical support, better living arrangements and modern fencing. These steps are expected to reduce hardship for personnel and improve operational readiness.</p><p></p><h3>From border security to territorial security</h3><p>A major theme of the address was the shift from a narrow idea of “border security” to a wider model of “territorial security.” Shah said that in the coming years, India will move toward a four-sided security grid involving citizens, civil administration, local police, the military and BSF personnel.</p><p>This approach aims to create a more coordinated and responsive security environment in frontier areas. By connecting local information, administrative support, military preparedness and BSF vigilance, the government seeks to strengthen security beyond the immediate border fence.</p><h3>Technology-led protection of sensitive areas</h3><p>The Union Home Minister said the government is working to build a “leak-proof” security grid. Where physical fencing is difficult because of rivers, marshy ground or other geographical challenges, technical fencing and surveillance systems are being introduced.</p><p>Drones, radars, modern watch towers and advanced monitoring systems are expected to support BSF personnel in detecting and preventing threats. Shah expressed confidence that such a modern grid would make it extremely difficult for hostile elements to breach the frontier.</p><h3>Special focus on Sir Creek and Harami Nala</h3><p>Shah referred to Sir Creek and Harami Nala as areas that were once considered sensitive from the security point of view. He said the government has begun strengthening this belt through watch towers, roads, drinking water arrangements, medical facilities, housing support and new fencing.</p><p>He added that with continued work over the next two years, this region is expected to become permanently secure against hostile designs. The message was clear: border infrastructure is now being treated as a core part of national security planning.</p><h3>Public awareness about BSF’s role</h3><p>The Home Minister also mentioned a centre in Banaskantha where people can learn about the difficult duties performed by BSF personnel. According to him, more than 2.5 lakh people have visited the centre in about a month, gaining a better understanding of the force’s responsibilities.</p><p>Feedback from visitors, especially mothers who said they would feel proud if their children joined the BSF, reflected growing public appreciation for the force. Such initiatives help bring the sacrifices and daily discipline of border personnel closer to ordinary citizens.</p><h3>Strengthening the future of border management</h3><p>Shah said the government is also considering adding more areas under the BSF’s operational responsibility where required. He noted that unfinished fencing in some border regions has remained a challenge, but efforts are being made to complete physical fencing where possible and introduce technical fencing in riverine, forested and difficult areas.</p><p>The larger goal is to build a seamless security architecture that combines infrastructure, technology, manpower and local coordination. For the personnel deployed on the front line, this also means better facilities and improved support systems.</p><h3>A message of confidence from the frontier</h3><p>The Bhuj visit underlined the government’s belief that national security depends not only on weapons and surveillance but also on the morale of the personnel who stand guard in harsh conditions. By inaugurating new outposts and speaking directly with jawans, the Home Minister sought to reinforce the message that the country stands firmly behind its first line of defence.</p><p>For Bharat Samvad readers, the story is also a reminder that border development is no longer only an administrative task. It is a strategic national project that protects citizens, supports soldiers and strengthens India’s confidence along its frontiers.</p>
     </div>
     <div class="foot">
       <span>Bharat Samvad · National Security Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 1</span>
@@ -283,106 +220,52 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <p class="subdeck">گجرات میں ہندوستان-پاکستان سرحد پر، مرکزی وزیر داخلہ نے بی ایس ایف کے اہلکاروں کے ساتھ بات چیت کی، انتہائی حالات میں ان کی ہمت کی تعریف کی اور ٹیکنالوجی کی زیر قیادت علاقائی سلامتی پر حکومت کی توجہ کو اجاگر کیا۔</p>
     <div class="byline"><b>بھارت سمواد ڈیسک</b> · بھج، گجرات</div>
     <div class="body">
-<p class="lead">مرکزی وزیر داخلہ اور تعاون امیت شاہ نے گجرات میں بھوج کے قریب G-7 بارڈر آؤٹ پوسٹ کا دورہ کیا اور ہندوستان-پاکستان سرحد پر تعینات بارڈر سیکورٹی فورس کے اہلکاروں سے بات چیت کی۔ دورے کے دوران، انہوں نے G-7 اور G-13 بارڈر آؤٹ پوسٹوں کا افتتاح کیا اور ہندوستان کے سرحدی بنیادی ڈھانچے کو مضبوط بنانے، جوانوں کے لیے سہولیات کو بہتر بنانے اور جدید، ٹیکنالوجی سے لیس سیکیورٹی گرڈ کی تعمیر کے لیے حکومت کے عزم کو اجاگر کیا۔</p><p>اس پروگرام میں گجرات کے وزیر اعلی بھوپیندر پٹیل، نائب وزیر اعلیٰ ہرش سنگھاوی، مرکزی داخلہ سکریٹری، انٹیلی جنس بیورو کے ڈائریکٹر، بارڈر مینجمنٹ کے سکریٹری، بی ایس ایف کے ڈائریکٹر جنرل اور دیگر سینئر حکام نے شرکت کی۔ یہ دورہ علامتی اور تزویراتی اہمیت رکھتا ہے، کیونکہ یہ ایک حساس سرحدی علاقے میں ہوا جس میں سر کریک، حرامی نالہ اور کچھ کے صحرائی علاقے جیسے دشوار گزار علاقے شامل ہیں۔</p><h3>دفاع کی پہلی لائن کو سلام</h3><p>بی ایس ایف کے اہلکاروں سے خطاب کرتے ہوئے شاہ نے کہا کہ اس فورس نے گزشتہ چھ دہائیوں میں ہندوستان کی دو سب سے زیادہ چیلنج والی سرحدوں کی حفاظت کی ذمہ داری نبھائی ہے۔ انہوں نے کہا کہ بی ایس ایف کے اہلکار انتہائی مشکل موسمی اور جغرافیائی حالات میں، منفی 45 ڈگری سیلسیس کے منجمد درجہ حرارت سے لے کر 45 ڈگری سیلسیس سے اوپر کی شدید گرمی تک خدمات انجام دیتے ہیں۔</p><p>انہوں نے کہا کہ بی ایس ایف کی ہمت اور نظم و ضبط ملک بھر کے شہریوں کو امن سے رہنے کا موقع فراہم کرتا ہے۔ بی ایس ایف کے 2,000 سے زیادہ اہلکاروں نے قوم کی خدمت میں سب سے بڑی قربانی دی ہے، اور ان کی شراکت فورس کے لیے عوامی احترام کو ابھارتی ہے۔</p><div class="box"><h4>اہم جھلکیاں</h4><ul><li><b>مقام — </b>بھوج، گجرات کے قریب G-7 بارڈر آؤٹ پوسٹ</li><li><b>واقعہ — </b>بی ایس ایف اہلکاروں کے ساتھ بات چیت اور G-7 اور G-13 BOPs کا افتتاح</li><li><b>فوکس — </b>سرحدی انفراسٹرکچر، جدید باڑ لگانے اور علاقائی سلامتی</li><li><b>خطہ — </b>صحرائے کچ، سر کریک اور حرامی نالہ کا علاقہ</li><li><b>سیکورٹی نقطہ نظر — </b>عوام، سول انتظامیہ، مقامی پولیس، فوج اور بی ایس ایف مل کر کام کر رہے ہیں۔</li><li><b>ٹیکنالوجی دھکا — </b>ڈرون، ریڈار، واچ ٹاور، رابطہ سڑکیں اور جدید نگرانی کا نظام</li></ul></div><h3>G-7 اور G-13 مضبوط انفراسٹرکچر کی علامت کے طور پر</h3><p>نئی افتتاحی G-7 اور G-13 چوکیوں کو مشکل خطوں میں پرعزم انجینئرنگ کی مثالوں کے طور پر بیان کیا گیا۔ ان علاقوں میں جہاں جغرافیہ معمول کی نقل و حرکت، پانی کی فراہمی، طبی رسائی اور تعمیر کو انتہائی مشکل بناتا ہے، بی ایس ایف نے بہتر سہولیات کے ساتھ ایک مضبوط سیکورٹی بیس تیار کیا ہے۔</p><p>شاہ نے کہا کہ حکومت واچ ٹاورز، رابطہ سڑکیں، پینے کے پانی، طبی امداد، رہائش کے بہتر انتظامات اور جدید باڑ لگانے پر توجہ مرکوز کر رہی ہے۔ ان اقدامات سے اہلکاروں کی مشکلات میں کمی اور آپریشنل تیاری میں بہتری کی توقع ہے۔</p><div class="pull">سرحدی حفاظت صرف نقشے پر لائن کی حفاظت کے بارے میں نہیں ہے۔ یہ علاقے، لوگوں اور اعتماد کو محفوظ بنانے کے بارے میں ہے۔<cite>- بھارت سمواد ڈیسک</cite></div><h3>سرحدی سلامتی سے لے کر علاقائی سلامتی تک</h3><p>خطاب کا ایک اہم موضوع "سرحد کی حفاظت" کے ایک تنگ نظری سے "علاقائی سلامتی" کے وسیع ماڈل میں منتقل ہونا تھا۔ شاہ نے کہا کہ آنے والے سالوں میں، ہندوستان ایک چار طرفہ سیکورٹی گرڈ کی طرف بڑھے گا جس میں شہری، سول انتظامیہ، مقامی پولیس، فوج اور بی ایس ایف کے اہلکار شامل ہوں گے۔</p><p>اس نقطہ نظر کا مقصد سرحدی علاقوں میں زیادہ مربوط اور ذمہ دار سیکورٹی ماحول پیدا کرنا ہے۔ مقامی معلومات، انتظامی مدد، فوجی تیاری اور بی ایس ایف کی چوکسی کو جوڑ کر، حکومت فوری طور پر سرحدی باڑ سے آگے سیکورٹی کو مضبوط بنانے کی کوشش کرتی ہے۔</p><h3>ٹیکنالوجی کی قیادت میں حساس علاقوں کا تحفظ</h3><p>مرکزی وزیر داخلہ نے کہا کہ حکومت "لیک پروف" سیکورٹی گرڈ بنانے کے لیے کام کر رہی ہے۔ جہاں دریاؤں، دلدلی زمین یا دیگر جغرافیائی چیلنجوں کی وجہ سے فزیکل باڑ لگانا مشکل ہے، وہاں تکنیکی باڑ لگانے اور نگرانی کا نظام متعارف کرایا جا رہا ہے۔</p><p>ڈرونز، ریڈارز، جدید واچ ٹاورز اور جدید نگرانی کے نظام سے توقع کی جاتی ہے کہ وہ خطرات کا پتہ لگانے اور ان کی روک تھام میں بی ایس ایف اہلکاروں کی مدد کریں گے۔ شاہ نے یقین ظاہر کیا کہ اس طرح کا جدید گرڈ دشمن عناصر کے لیے سرحد پار کرنا انتہائی مشکل بنا دے گا۔</p><h3>سر کریک اور حرامی نالہ پر خصوصی توجہ</h3><p>شاہ نے سر کریک اور حرامی نالہ کا حوالہ ایسے علاقوں کے طور پر دیا جو کبھی سیکورٹی کے نقطہ نظر سے حساس سمجھے جاتے تھے۔ انہوں نے کہا کہ حکومت نے واچ ٹاورز، سڑکوں، پینے کے پانی کے انتظامات، طبی سہولیات، ہاؤسنگ سپورٹ اور نئی باڑ لگانے کے ذریعے اس پٹی کو مضبوط کرنا شروع کر دیا ہے۔</p><p>انہوں نے مزید کہا کہ اگلے دو سالوں میں مسلسل کام کے ساتھ، توقع ہے کہ یہ خطہ دشمنانہ ڈیزائنوں سے مستقل طور پر محفوظ ہو جائے گا۔ پیغام واضح تھا: سرحدی ڈھانچے کو اب قومی سلامتی کی منصوبہ بندی کا بنیادی حصہ سمجھا جا رہا ہے۔</p><h3>بی ایس ایف کے کردار کے بارے میں عوامی بیداری</h3><p>وزیر داخلہ نے بناسکانٹھا میں ایک ایسے مرکز کا بھی ذکر کیا جہاں لوگ بی ایس ایف کے جوانوں کے ذریعہ انجام دئے گئے مشکل فرائض کے بارے میں جان سکتے ہیں۔ ان کے مطابق، تقریباً ایک ماہ میں 2.5 لاکھ سے زیادہ لوگ مرکز کا دورہ کر چکے ہیں، جس سے فورس کی ذمہ داریوں کو بہتر طریقے سے سمجھا جا رہا ہے۔</p><p>زائرین، خاص طور پر ان ماؤں کے تاثرات جنہوں نے کہا کہ اگر ان کے بچے بی ایس ایف میں شامل ہوتے ہیں تو انہیں فخر محسوس ہوگا، اس فورس کے لیے عوام کی بڑھتی ہوئی تعریف کو ظاہر کرتا ہے۔ اس طرح کے اقدامات سے سرحدی اہلکاروں کی قربانیوں اور روزمرہ کے نظم و ضبط کو عام شہریوں کے قریب لانے میں مدد ملتی ہے۔</p><h3>بارڈر مینجمنٹ کے مستقبل کو مضبوط بنانا</h3><p>شاہ نے کہا کہ حکومت ضرورت پڑنے پر بی ایس ایف کی آپریشنل ذمہ داری کے تحت مزید علاقوں کو شامل کرنے پر بھی غور کر رہی ہے۔ انہوں نے کہا کہ بعض سرحدی علاقوں میں نامکمل باڑ لگانا ایک چیلنج بنی ہوئی ہے، لیکن کوشش کی جا رہی ہے کہ جہاں ممکن ہو فزیکل باڑ لگائی جائے اور دریائی، جنگلات اور دشوار گزار علاقوں میں تکنیکی باڑ لگائی جائے۔</p><p>بڑا مقصد ایک ہموار حفاظتی ڈھانچہ تیار کرنا ہے جو بنیادی ڈھانچے، ٹیکنالوجی، افرادی قوت اور مقامی کوآرڈینیشن کو یکجا کرتا ہے۔ فرنٹ لائن پر تعینات اہلکاروں کے لیے، اس کا مطلب بہتر سہولیات اور بہتر سپورٹ سسٹم بھی ہے۔</p><h3>سرحد سے اعتماد کا پیغام</h3><p>بھوج کے دورے نے حکومت کے اس یقین کی نشاندہی کی کہ قومی سلامتی کا انحصار صرف ہتھیاروں اور نگرانی پر نہیں بلکہ سخت حالات میں حفاظت کرنے والے اہلکاروں کے حوصلے پر بھی ہے۔ نئی چوکیوں کا افتتاح کرکے اور جوانوں سے براہ راست بات کرتے ہوئے، وزیر داخلہ نے اس پیغام کو تقویت دینے کی کوشش کی کہ ملک اپنی پہلی دفاعی لائن کے ساتھ مضبوطی سے کھڑا ہے۔</p><p>بھارت سمواد کے قارئین کے لیے یہ کہانی ایک یاد دہانی بھی ہے کہ سرحد کی ترقی اب صرف ایک انتظامی کام نہیں ہے۔ یہ ایک اسٹریٹجک قومی منصوبہ ہے جو شہریوں کی حفاظت کرتا ہے، فوجیوں کی حمایت کرتا ہے اور اپنی سرحدوں پر ہندوستان کے اعتماد کو مضبوط کرتا ہے۔</p>
+<p class="lead">مرکزی وزیر داخلہ اور تعاون امیت شاہ نے گجرات میں بھوج کے قریب G-7 بارڈر آؤٹ پوسٹ کا دورہ کیا اور ہندوستان-پاکستان سرحد پر تعینات بارڈر سیکورٹی فورس کے اہلکاروں سے بات چیت کی۔ دورے کے دوران، انہوں نے G-7 اور G-13 بارڈر آؤٹ پوسٹوں کا افتتاح کیا اور ہندوستان کے سرحدی بنیادی ڈھانچے کو مضبوط بنانے، جوانوں کے لیے سہولیات کو بہتر بنانے اور جدید، ٹیکنالوجی سے لیس سیکیورٹی گرڈ کی تعمیر کے لیے حکومت کے عزم کو اجاگر کیا۔</p><p>اس پروگرام میں گجرات کے وزیر اعلی بھوپیندر پٹیل، نائب وزیر اعلیٰ ہرش سنگھاوی، مرکزی داخلہ سکریٹری، انٹیلی جنس بیورو کے ڈائریکٹر، بارڈر مینجمنٹ کے سکریٹری، بی ایس ایف کے ڈائریکٹر جنرل اور دیگر سینئر حکام نے شرکت کی۔ یہ دورہ علامتی اور تزویراتی اہمیت رکھتا ہے، کیونکہ یہ ایک حساس سرحدی علاقے میں ہوا جس میں سر کریک، حرامی نالہ اور کچھ کے صحرائی علاقے جیسے دشوار گزار علاقے شامل ہیں۔</p><h3>دفاع کی پہلی لائن کو سلام</h3><p>بی ایس ایف کے اہلکاروں سے خطاب کرتے ہوئے شاہ نے کہا کہ اس فورس نے گزشتہ چھ دہائیوں میں ہندوستان کی دو سب سے زیادہ چیلنج والی سرحدوں کی حفاظت کی ذمہ داری نبھائی ہے۔ انہوں نے کہا کہ بی ایس ایف کے اہلکار انتہائی مشکل موسمی اور جغرافیائی حالات میں، منفی 45 ڈگری سیلسیس کے منجمد درجہ حرارت سے لے کر 45 ڈگری سیلسیس سے اوپر کی شدید گرمی تک خدمات انجام دیتے ہیں۔</p><p>انہوں نے کہا کہ بی ایس ایف کی ہمت اور نظم و ضبط ملک بھر کے شہریوں کو امن سے رہنے کا موقع فراہم کرتا ہے۔ بی ایس ایف کے 2,000 سے زیادہ اہلکاروں نے قوم کی خدمت میں سب سے بڑی قربانی دی ہے، اور ان کی شراکت فورس کے لیے عوامی احترام کو ابھارتی ہے۔</p><p></p><h3>G-7 اور G-13 مضبوط انفراسٹرکچر کی علامت کے طور پر</h3><p>نئی افتتاحی G-7 اور G-13 چوکیوں کو مشکل خطوں میں پرعزم انجینئرنگ کی مثالوں کے طور پر بیان کیا گیا۔ ان علاقوں میں جہاں جغرافیہ معمول کی نقل و حرکت، پانی کی فراہمی، طبی رسائی اور تعمیر کو انتہائی مشکل بناتا ہے، بی ایس ایف نے بہتر سہولیات کے ساتھ ایک مضبوط سیکورٹی بیس تیار کیا ہے۔</p><p>شاہ نے کہا کہ حکومت واچ ٹاورز، رابطہ سڑکیں، پینے کے پانی، طبی امداد، رہائش کے بہتر انتظامات اور جدید باڑ لگانے پر توجہ مرکوز کر رہی ہے۔ ان اقدامات سے اہلکاروں کی مشکلات میں کمی اور آپریشنل تیاری میں بہتری کی توقع ہے۔</p><p></p><h3>سرحدی سلامتی سے لے کر علاقائی سلامتی تک</h3><p>خطاب کا ایک اہم موضوع "سرحد کی حفاظت" کے ایک تنگ نظری سے "علاقائی سلامتی" کے وسیع ماڈل میں منتقل ہونا تھا۔ شاہ نے کہا کہ آنے والے سالوں میں، ہندوستان ایک چار طرفہ سیکورٹی گرڈ کی طرف بڑھے گا جس میں شہری، سول انتظامیہ، مقامی پولیس، فوج اور بی ایس ایف کے اہلکار شامل ہوں گے۔</p><p>اس نقطہ نظر کا مقصد سرحدی علاقوں میں زیادہ مربوط اور ذمہ دار سیکورٹی ماحول پیدا کرنا ہے۔ مقامی معلومات، انتظامی مدد، فوجی تیاری اور بی ایس ایف کی چوکسی کو جوڑ کر، حکومت فوری طور پر سرحدی باڑ سے آگے سیکورٹی کو مضبوط بنانے کی کوشش کرتی ہے۔</p><h3>ٹیکنالوجی کی قیادت میں حساس علاقوں کا تحفظ</h3><p>مرکزی وزیر داخلہ نے کہا کہ حکومت "لیک پروف" سیکورٹی گرڈ بنانے کے لیے کام کر رہی ہے۔ جہاں دریاؤں، دلدلی زمین یا دیگر جغرافیائی چیلنجوں کی وجہ سے فزیکل باڑ لگانا مشکل ہے، وہاں تکنیکی باڑ لگانے اور نگرانی کا نظام متعارف کرایا جا رہا ہے۔</p><p>ڈرونز، ریڈارز، جدید واچ ٹاورز اور جدید نگرانی کے نظام سے توقع کی جاتی ہے کہ وہ خطرات کا پتہ لگانے اور ان کی روک تھام میں بی ایس ایف اہلکاروں کی مدد کریں گے۔ شاہ نے یقین ظاہر کیا کہ اس طرح کا جدید گرڈ دشمن عناصر کے لیے سرحد پار کرنا انتہائی مشکل بنا دے گا۔</p><h3>سر کریک اور حرامی نالہ پر خصوصی توجہ</h3><p>شاہ نے سر کریک اور حرامی نالہ کا حوالہ ایسے علاقوں کے طور پر دیا جو کبھی سیکورٹی کے نقطہ نظر سے حساس سمجھے جاتے تھے۔ انہوں نے کہا کہ حکومت نے واچ ٹاورز، سڑکوں، پینے کے پانی کے انتظامات، طبی سہولیات، ہاؤسنگ سپورٹ اور نئی باڑ لگانے کے ذریعے اس پٹی کو مضبوط کرنا شروع کر دیا ہے۔</p><p>انہوں نے مزید کہا کہ اگلے دو سالوں میں مسلسل کام کے ساتھ، توقع ہے کہ یہ خطہ دشمنانہ ڈیزائنوں سے مستقل طور پر محفوظ ہو جائے گا۔ پیغام واضح تھا: سرحدی ڈھانچے کو اب قومی سلامتی کی منصوبہ بندی کا بنیادی حصہ سمجھا جا رہا ہے۔</p><h3>بی ایس ایف کے کردار کے بارے میں عوامی بیداری</h3><p>وزیر داخلہ نے بناسکانٹھا میں ایک ایسے مرکز کا بھی ذکر کیا جہاں لوگ بی ایس ایف کے جوانوں کے ذریعہ انجام دئے گئے مشکل فرائض کے بارے میں جان سکتے ہیں۔ ان کے مطابق، تقریباً ایک ماہ میں 2.5 لاکھ سے زیادہ لوگ مرکز کا دورہ کر چکے ہیں، جس سے فورس کی ذمہ داریوں کو بہتر طریقے سے سمجھا جا رہا ہے۔</p><p>زائرین، خاص طور پر ان ماؤں کے تاثرات جنہوں نے کہا کہ اگر ان کے بچے بی ایس ایف میں شامل ہوتے ہیں تو انہیں فخر محسوس ہوگا، اس فورس کے لیے عوام کی بڑھتی ہوئی تعریف کو ظاہر کرتا ہے۔ اس طرح کے اقدامات سے سرحدی اہلکاروں کی قربانیوں اور روزمرہ کے نظم و ضبط کو عام شہریوں کے قریب لانے میں مدد ملتی ہے۔</p><h3>بارڈر مینجمنٹ کے مستقبل کو مضبوط بنانا</h3><p>شاہ نے کہا کہ حکومت ضرورت پڑنے پر بی ایس ایف کی آپریشنل ذمہ داری کے تحت مزید علاقوں کو شامل کرنے پر بھی غور کر رہی ہے۔ انہوں نے کہا کہ بعض سرحدی علاقوں میں نامکمل باڑ لگانا ایک چیلنج بنی ہوئی ہے، لیکن کوشش کی جا رہی ہے کہ جہاں ممکن ہو فزیکل باڑ لگائی جائے اور دریائی، جنگلات اور دشوار گزار علاقوں میں تکنیکی باڑ لگائی جائے۔</p><p>بڑا مقصد ایک ہموار حفاظتی ڈھانچہ تیار کرنا ہے جو بنیادی ڈھانچے، ٹیکنالوجی، افرادی قوت اور مقامی کوآرڈینیشن کو یکجا کرتا ہے۔ فرنٹ لائن پر تعینات اہلکاروں کے لیے، اس کا مطلب بہتر سہولیات اور بہتر سپورٹ سسٹم بھی ہے۔</p><h3>سرحد سے اعتماد کا پیغام</h3><p>بھوج کے دورے نے حکومت کے اس یقین کی نشاندہی کی کہ قومی سلامتی کا انحصار صرف ہتھیاروں اور نگرانی پر نہیں بلکہ سخت حالات میں حفاظت کرنے والے اہلکاروں کے حوصلے پر بھی ہے۔ نئی چوکیوں کا افتتاح کرکے اور جوانوں سے براہ راست بات کرتے ہوئے، وزیر داخلہ نے اس پیغام کو تقویت دینے کی کوشش کی کہ ملک اپنی پہلی دفاعی لائن کے ساتھ مضبوطی سے کھڑا ہے۔</p><p>بھارت سمواد کے قارئین کے لیے یہ کہانی ایک یاد دہانی بھی ہے کہ سرحد کی ترقی اب صرف ایک انتظامی کام نہیں ہے۔ یہ ایک اسٹریٹجک قومی منصوبہ ہے جو شہریوں کی حفاظت کرتا ہے، فوجیوں کی حمایت کرتا ہے اور اپنی سرحدوں پر ہندوستان کے اعتماد کو مضبوط کرتا ہے۔</p>
     </div>
     <div class="foot">
-      <span>بھارت سنواد · قومی سلامتی ڈیسک</span><span>© 2026 بھارت سنواد پبلیکیشنز</span><span>صفحہ 1</span>
+      <span>Bharat Samvad · قومی سلامتی Desk</span><span>© 2026 Bharat Samvad Publications</span><span>صفحہ 1</span>
     </div>
   </div>
   </div>
 
 <script>
-/* ===== poll chrome strings per language ===== */
-var BS_POLL_T = {
-  hi:{eyebrow:"जनमत · आपकी राय", thanks:"आपके मत के लिए धन्यवाद!", votes:"वोट"},
-  en:{eyebrow:"Poll · Your Opinion", thanks:"Thanks for your vote!", votes:"votes"},
-  ur:{eyebrow:"رائے شماری · آپ کی رائے", thanks:"آپ کی رائے کا شکریہ!", votes:"ووٹ"}
-};
-var BS_LANG = "hi";
-
-function bsPollPct(n,t){return t?Math.round(n*100/t):0;}
-function bsPollRenderOne(box,counts){
-  counts=counts||{};
-  var opts=box.querySelectorAll(".opt"),total=0;
-  opts.forEach(function(o){total+=counts[o.dataset.opt]||0;});
-  var voted=box.classList.contains("voted");
-  opts.forEach(function(o){
-    var lab=o.querySelector(".optlabel");
-    if(lab) lab.textContent=o.getAttribute("data-"+BS_LANG)||lab.textContent;
-    var n=counts[o.dataset.opt]||0,p=bsPollPct(n,total);
-    o.querySelector(".barfill").style.width=voted?p+"%":"0%";
-    o.querySelector(".pct").textContent=voted?p+"%":"";
-  });
-  var t=BS_POLL_T[BS_LANG];
-  var eb=box.querySelector(".eyebrow"); if(eb) eb.textContent=t.eyebrow;
-  var th=box.querySelector("[data-thanks]"); if(th) th.textContent=t.thanks;
-  var tot=box.querySelector("[data-total]"); if(tot) tot.textContent=voted?(total+" "+t.votes):"";
-  var q=box.querySelector("h4"); if(q && q.getAttribute("data-"+BS_LANG)) q.textContent=q.getAttribute("data-"+BS_LANG);
-}
-function bsPollRefreshAll(){document.querySelectorAll(".bs-poll").forEach(function(b){bsPollRenderOne(b);});}
-
-function bsPollInit(box){
-  var API="/api/poll", id=box.dataset.pollId, already=false;
-  try{already=!!localStorage.getItem("bs_voted_"+id);}catch(e){}
-  function localCounts(){try{return JSON.parse(localStorage.getItem("bs_counts_"+id)||"{}");}catch(e){return {};}}
-  fetch(API+"?id="+encodeURIComponent(id)).then(function(r){return r.ok?r.json():null;})
-    .then(function(d){var c=(d&&d.counts)?d.counts:localCounts(); if(already)box.classList.add("voted"); if(already){var t=box.querySelector("[data-thanks]"); if(t)t.hidden=false;} bsPollRenderOne(box,c);})
-    .catch(function(){var c=localCounts(); if(already)box.classList.add("voted"); bsPollRenderOne(box,c);});
-  box.querySelectorAll(".opt").forEach(function(btn){
-    btn.addEventListener("click",function(){
-      if(box.classList.contains("voted"))return;
-      var opt=btn.dataset.opt;
-      try{localStorage.setItem("bs_voted_"+id,opt);}catch(e){}
-      var c=localCounts(); c[opt]=(c[opt]||0)+1; try{localStorage.setItem("bs_counts_"+id,JSON.stringify(c));}catch(e){}
-      box.classList.add("voted");
-      var th=box.querySelector("[data-thanks]"); if(th)th.hidden=false;
-      bsPollRenderOne(box,c);
-      fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:id,option:opt})})
-        .then(function(r){return r.ok?r.json():null;})
-        .then(function(d){if(d&&d.counts)bsPollRenderOne(box,d.counts);}).catch(function(){});
-    });
-  });
-}
-
-/* ===== PDF Download Function ===== */
 function downloadAsPDF() {
-    const headline = document.querySelector('.headline') ? 
-                     document.querySelector('.headline').textContent.trim() : 'Article';
+    let headline = document.querySelector(".headline") ? 
+                   document.querySelector(".headline").textContent.trim() : "Article";
     
-    const cleanTitle = headline
-        .replace(/[^a-zA-Z0-9\s-]/g, '')
-        .replace(/\s+/g, '-')
+    let cleanTitle = headline
+        .replace(/[^a-zA-Z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
         .toLowerCase()
         .substring(0, 60);
     
-    const filename = `2026-06-01-page4-${cleanTitle}.pdf`;
+    const filename = "2026-06-01-page4-" + cleanTitle + ".pdf";
 
-    const toast = document.createElement('div');
-    toast.style.cssText = `position:fixed;bottom:30px;left:50%;transform:translateX(-50%);
-        background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;
-        z-index:10000;font-size:1rem;box-shadow:0 4px 12px rgba(0,0,0,0.3);`;
-    toast.textContent = 'Opening Print to PDF...';
+    const toast = document.createElement("div");
+    toast.style.cssText = "position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;z-index:10000;font-size:1rem;";
+    toast.textContent = "Opening Print to PDF...";
     document.body.appendChild(toast);
 
     setTimeout(() => {
         toast.remove();
         window.print();
-    }, 700);
+    }, 600);
 }
 
 function setLang(l){
-  BS_LANG=l;
-  document.querySelectorAll('.langblock').forEach(b=>b.classList.toggle('show', b.dataset.lang===l));
-  document.querySelectorAll('.langbar button').forEach(btn=>btn.classList.toggle('active', btn.dataset.l===l));
-  document.documentElement.lang=(l==='ur'?'ur':(l==='en'?'en':'hi'));
-  bsPollRefreshAll();
-  try{localStorage.setItem('bs_lang',l);}catch(e){}
+  document.querySelectorAll(".langblock").forEach(b => {
+    b.classList.toggle("show", b.dataset.lang === l);
+  });
+  document.querySelectorAll(".langbar button").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.l === l);
+  });
 }
-document.addEventListener('DOMContentLoaded',function(){
-  document.querySelectorAll(".bs-poll").forEach(bsPollInit);
-  var s='hi'; try{s=localStorage.getItem('bs_lang')||'hi';}catch(e){}
+document.addEventListener("DOMContentLoaded", function(){
+  var s = "hi";
+  try { s = localStorage.getItem("bs_lang") || "hi"; } catch(e){}
   setLang(s);
 });
 </script>
+
 </body>
 </html>
