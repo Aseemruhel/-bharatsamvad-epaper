@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>भारत संवाद · Bharat Samvad · بھارت سنواد</title>
+<style>
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
+.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+
+:root{
+  --paper:#f4efe2;--paper-edge:#e7dfca;--ink:#1a1714;--ink-soft:#3a342c;--rule:#26221c;--accent:#9a1b1b;--accent-dk:#6f1212;--gold:#8a6d2f;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:var(--ink);padding:28px 14px;line-height:1.55;-webkit-font-smoothing:antialiased;}
+.sheet{max-width:880px;margin:0 auto;background:var(--paper);background-image:radial-gradient(circle at 20% 10%,rgba(0,0,0,.018) 0,transparent 55%),radial-gradient(circle at 80% 90%,rgba(120,90,40,.04) 0,transparent 55%);box-shadow:0 18px 50px rgba(0,0,0,.4),inset 0 0 0 1px var(--paper-edge);padding:30px 34px 42px;position:relative;}
+.sheet::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.012) 0 1px,transparent 1px 3px);mix-blend-mode:multiply;opacity:.5;}
+.masthead{text-align:center;padding:10px 0 4px;border-bottom:4px double var(--rule);}
+.masthead h1{font-family:"Rozha One",Georgia,serif;font-size:74px;line-height:.95;letter-spacing:1px;color:var(--ink);}
+.strip{display:flex;justify-content:space-between;align-items:center;font-family:"Mukta",Arial,sans-serif;font-size:11.5px;font-weight:500;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid var(--rule);}
+.strip .mid{color:var(--accent);font-weight:700;letter-spacing:.5px;}
+.kicker{display:inline-block;background:var(--accent);color:#f7f1e3;font-family:"Khand",Arial,sans-serif;font-weight:600;letter-spacing:3px;font-size:13px;text-transform:uppercase;padding:3px 12px;margin:20px 0 8px;}
+.headline{font-family:"Rozha One",Georgia,serif;font-size:46px;line-height:1.08;color:var(--ink);margin-bottom:8px;}
+.subdeck{font-family:"Mukta",Arial,sans-serif;font-weight:500;font-size:17.5px;color:var(--ink-soft);line-height:1.4;border-left:3px solid var(--gold);padding-left:12px;margin-bottom:14px;}
+.byline{font-family:"Mukta",Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:6px 0;margin-bottom:18px;}
+.byline b{color:var(--accent-dk);}
+.body{column-count:2;column-gap:30px;column-rule:1px solid #cbbfa3;font-size:15.2px;text-align:justify;hyphens:auto;color:var(--ink-soft);}
+.body p{margin-bottom:11px;text-indent:14px;}
+.body p.lead{text-indent:0;}
+.body p.lead::first-letter{font-family:"Rozha One",Georgia,serif;float:left;font-size:62px;line-height:.78;padding:4px 8px 0 0;color:var(--accent);}
+.body h3{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:19px;color:var(--ink);letter-spacing:.4px;margin:6px 0 5px;break-after:avoid;}
+.body h3::before{content:"▍";color:var(--accent);margin-right:5px;}
+.pull{break-inside:avoid;margin:6px 0 12px;padding:12px 0;border-top:2px solid var(--rule);border-bottom:2px solid var(--rule);font-family:"Rozha One",Georgia,serif;font-size:21px;line-height:1.3;color:var(--accent-dk);text-align:left;text-indent:0;}
+.pull cite{display:block;font-family:"Mukta",Arial,sans-serif;font-style:normal;font-weight:600;font-size:12px;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;margin-top:6px;}
+.box{break-inside:avoid;background:#efe7d3;border:1.5px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);padding:14px 16px;margin:4px 0 14px;}
+.box h4{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:18px;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;border-bottom:2px solid var(--accent);padding-bottom:5px;margin-bottom:9px;}
+.box ul{list-style:none;}
+.box li{font-family:"Mukta",Arial,sans-serif;font-size:13.4px;line-height:1.45;color:var(--ink);padding:5px 0 5px 20px;position:relative;border-bottom:1px dotted #b6a982;}
+.box li:last-child{border-bottom:none;}
+.box li::before{content:"◆";position:absolute;left:0;top:5px;color:var(--accent);font-size:10px;}
+.box li b{color:var(--accent-dk);}
+.foot{margin-top:22px;border-top:4px double var(--rule);padding-top:8px;display:flex;justify-content:space-between;font-family:"Mukta",Arial,sans-serif;font-size:11px;color:var(--ink-soft);letter-spacing:.4px;text-transform:uppercase;}
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none}.langblock.show{display:block;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+.back-home-btn{
+  display:inline-block;
+  margin:14px 0 2px;
+  padding:7px 14px;
+  background:var(--accent);
+  color:#fff;
+  text-decoration:none;
+  font-family:"Mukta",Arial,sans-serif;
+  font-size:13px;
+  font-weight:700;
+  letter-spacing:.3px;
+  border:1px solid var(--accent-dk);
+  box-shadow:2px 2px 0 rgba(38,34,28,.18);
+}
+
+.back-home-btn:hover{
+  background:var(--accent-dk);
+}
+.home-logo{
+  color:inherit;
+  text-decoration:none;
+  display:inline-block;
+}
+.home-logo:hover{
+  color:var(--accent);
+}
+@media(max-width:680px){.sheet{padding:20px 18px 30px}.masthead h1{font-size:48px}.headline{font-size:32px}.body{column-count:1}.strip{flex-direction:column;gap:3px;text-align:center}}
+@media print{body{background:#fff;padding:0}.sheet{box-shadow:none}}
+
+
+/* ===== language toggle ===== */
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;
+  background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;
+  font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;
+  padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none;} .langblock.show{display:block;}
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+/* news photo */
+.newsfig{column-span:all;break-inside:avoid;margin:4px 0 16px;}
+.newsfig img{width:100%;height:auto;display:block;border:1px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);}
+.newsfig figcaption{font-family:"Mukta",sans-serif;font-size:12.5px;line-height:1.4;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid #cbbfa3;}
+.newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
+.lang-ur .newsfig figcaption{text-align:right;}
+/* ===== poll widget ===== */
+.bs-poll{break-inside:avoid;column-span:all;background:#efe7d3;border:1.5px solid var(--ink);
+  border-top:4px solid var(--accent);box-shadow:3px 3px 0 rgba(38,34,28,.18);
+  padding:18px 20px 16px;margin:8px 0 18px;}
+.bs-poll .eyebrow{font-family:'Khand',sans-serif;font-weight:700;letter-spacing:3px;font-size:11px;
+  text-transform:uppercase;color:#fff;background:var(--accent);display:inline-block;padding:3px 11px;margin-bottom:10px;}
+.bs-poll h4{font-family:'Rozha One',Georgia,serif;font-size:21px;line-height:1.25;color:var(--ink);margin-bottom:14px;border:none;padding:0;}
+.bs-poll .opt{display:block;width:100%;text-align:left;font-family:inherit;font-size:15px;color:var(--ink);
+  background:var(--paper);border:1.5px solid var(--ink);padding:11px 14px;margin-bottom:9px;cursor:pointer;
+  position:relative;overflow:hidden;transition:transform .1s;}
+.bs-poll .opt:hover{transform:translateX(3px);}
+.bs-poll .opt .barfill{position:absolute;inset:0;background:rgba(154,27,27,.16);width:0;transition:width .5s ease;z-index:0;}
+.bs-poll .opt .lbl{position:relative;z-index:1;display:flex;justify-content:space-between;gap:10px;}
+.bs-poll .opt .pct{font-weight:bold;color:var(--accent-dk);font-family:'Khand',sans-serif;}
+.bs-poll.voted .opt{cursor:default;}
+.bs-poll.voted .opt:hover{transform:none;}
+.bs-poll .meta{font-family:'Mukta',sans-serif;font-size:12px;color:var(--ink-soft);margin-top:8px;
+  display:flex;justify-content:space-between;align-items:center;gap:10px;}
+.bs-poll .thanks{color:var(--accent-dk);font-weight:600;}
+.lang-ur .bs-poll h4{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .bs-poll .opt{text-align:right;font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .bs-poll .opt:hover{transform:translateX(-3px);}
+.lang-ur .bs-poll .meta{flex-direction:row-reverse;}
+
+</style>
+</head>
+<body>
+  <div class="langbar">
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
+    <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="ur" onclick="setLang('ur')">اردو</button>
+  </div>
+  <div class="sheet">
+  <div class="langblock lang-hi" data-lang="hi">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">भारत संवाद</h1>
+    </div>
+    <div class="strip">
+      <span>पृष्ठ 3 · व्यापार</span>
+      <span class="mid">विशेष रिपोर्ट</span>
+      <span>सोमवार, 1 जून 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">प्रौद्योगिकी · अर्धचालक</span>
+    <h2 class="headline">भारत के चिप स्टार्टअप प्रोटोटाइप से उत्पादन की ओर बढ़ रहे हैं</h2>
+    <p class="subdeck">घरेलू सेमीकंडक्टर कंपनियाँ - नेट्रासेमी, माइंडग्रोव और एग्निट - ग्राहक पायलट चला रही हैं और 2027 तक बड़े पैमाने पर उत्पादन के लिए तैयारी कर रही हैं, भले ही आपूर्ति-श्रृंखला दबाव गति को धीमा करने की धमकी दे रहा हो।</p>
+    <div class="byline"><b>व्यापार संवाददाता</b> · बेंगलुरु/नई दिल्ली</div>
+    <div class="body">
+<p class="lead">नेट्रासेमी, माइंडग्रोव टेक्नोलॉजीज और एग्निट सेमीकंडक्टर जैसे भारतीय सेमीकंडक्टर स्टार्टअप व्यावसायीकरण के करीब हैं, ग्राहक पायलट पहले से ही चल रहे हैं और बड़े पैमाने पर उत्पादन लाइन में हैं - भले ही आपूर्ति-श्रृंखला दबाव गति को धीमा करने की धमकी दे रहा हो।</p><p>ये घरेलू कंपनियां 2027 के अंत तक और कुछ मामलों में उससे काफी पहले पूर्ण वाणिज्यिक उत्पादन का लक्ष्य रख रही हैं। यह बदलाव भारत की चिप महत्वाकांक्षाओं के लिए एक सार्थक परिवर्तन का प्रतीक है: डिज़ाइन-ऑन-पेपर से सिलिकॉन-इन-द-मार्केट तक।</p><h3>प्रोटोटाइप से उत्पाद तक</h3><p>नेट्रासेमी ने पहले ही अपनी प्रमुख चिप को उत्पादन में स्थानांतरित कर दिया है, तीन ग्राहकों को नमूने सौंपे हैं जो अब पायलट चल रहे हैं। 2027 के मध्य तक वाणिज्यिक मात्रा की उम्मीद है।</p><p>पीकएक्सवी-समर्थित माइंडग्रोव, जिसके चिप्स बायोमेट्रिक्स, मोटर नियंत्रक और औद्योगिक इलेक्ट्रॉनिक्स को लक्षित करते हैं, इस साल के अंत तक वाणिज्यिक रोलआउट पर नजर गड़ाए हुए हैं। सह-संस्थापक शाश्वत टीआर ने कहा कि कंपनी के वर्तमान में माइक्रोकंट्रोलर सेगमेंट में एक दर्जन से अधिक ग्राहक हैं और इस साल सैकड़ों हजारों चिप्स के शिपमेंट का लक्ष्य है।</p><p>बेंगलुरु स्थित एग्निट सेमीकंडक्टर्स, जो मुख्य रूप से रणनीतिक और रक्षा क्षेत्रों में उपयोग किए जाने वाले गैलियम नाइट्राइड चिप्स बनाती है, के पास पहले से ही तीन पायलट चल रहे हैं। कंपनी के ग्राहकों में सार्वजनिक क्षेत्र की रक्षा इकाइयाँ और निजी रक्षा कंपनियाँ शामिल हैं, जिनकी मात्रा अगले छह से नौ महीनों में 5,000 से 10,000 चिप्स तक पहुंचने की उम्मीद है।</p><div class="box"><h4>खिलाड़ी एक नज़र में</h4><ul><li><b>नेत्रसेमी — </b>उत्पादन में फ्लैगशिप चिप; 2027 के मध्य तक वाणिज्यिक मात्रा</li><li><b>माइंडग्रोव टेक्नोलॉजीज — </b>बायोमेट्रिक्स, मोटर नियंत्रक, औद्योगिक इलेक्ट्रॉनिक्स; 2026 के अंत तक रोलआउट</li><li><b>एग्निट सेमीकंडक्टर — </b>सामरिक और रक्षा उपयोग के लिए गैलियम नाइट्राइड चिप्स; 6-9 महीनों में 5,000-10,000 इकाइयाँ</li><li><b>लक्ष्य — </b>पूरे क्षेत्र में 2027 के अंत तक पूर्ण वाणिज्यिक उत्पादन</li><li><b>बाज़ार — </b>2025 में भारतीय सेमीकंडक्टर उद्योग का मूल्य 60 बिलियन डॉलर से अधिक था</li><li><b>आउटलुक — </b>2034 तक लगभग 180 अरब डॉलर तक पहुंचने का अनुमान (आईएमएआरसी)</li></ul></div><div class="pull">"हमें दो पायलटों से उत्साहजनक प्रतिक्रिया मिली है, और दोनों उत्पाद जल्द ही वॉल्यूम में वृद्धि करेंगे।"<cite>- हरेश चन्द्रशेखर, संस्थापक, एग्निट सेमीकंडक्टर्स</cite></div><h3>एक बढ़ता हुआ बाज़ार और नीतिगत प्रोत्साहन</h3><p>मार्केट रिसर्च फर्म IMARC की एक हालिया रिपोर्ट के अनुसार, भारत का सेमीकंडक्टर उद्योग, जिसका मूल्य 2025 में 60 बिलियन डॉलर से अधिक है, सरकार की उत्पादन-लिंक्ड और डिज़ाइन-लिंक्ड प्रोत्साहन योजनाओं द्वारा संचालित, 2034 तक लगभग 180 बिलियन डॉलर तक पहुंचने का अनुमान है।</p><p>प्रोटोटाइप से उत्पादन तक की तीव्र प्रगति - आम तौर पर तीन से चार साल की यात्रा - इन स्टार्टअप्स के मामले में काफी हद तक संकुचित हो गई है, लक्षित नीति समर्थन, घरेलू विकल्पों में ग्राहकों की रुचि और महत्वपूर्ण प्रौद्योगिकियों में आत्मनिर्भरता के लिए व्यापक दबाव से मदद मिली है।</p><h3>चुनौतियाँ जो बनी हुई हैं</h3><p>संस्थापक स्वीकार करते हैं कि आगे बढ़ना सीधा काम नहीं है। वैश्विक आपूर्ति-श्रृंखला दबाव, उन्नत नोड्स के लिए विदेशी निर्माण सुविधाओं पर निर्भरता, और विशेष उपकरणों के लिए लंबी लीड समय सीमा के लिए वास्तविक जोखिम पैदा करते हैं। चिप डिज़ाइन और पैकेजिंग के लिए प्रतिभा अधिग्रहण भी एक बाधा बनी हुई है।</p><h3>आगे का रास्ता</h3><p>भारत के लिए, घरेलू चिप्स का वास्तविक ग्राहक के हाथों में जाना - भले ही मामूली मात्रा में - डिज़ाइन जीत और नीति घोषणाओं से परे एक सार्थक कदम है। यदि पायलट अगले 18 से 24 महीनों में निरंतर वाणिज्यिक मांग में तब्दील हो जाते हैं, तो देश का डीप-टेक पारिस्थितिकी तंत्र मुट्ठी भर वैश्विक खिलाड़ियों के प्रभुत्व वाले क्षेत्र में एक विश्वसनीय पैर जमाने में सक्षम हो सकता है।</p>
+    </div>
+    <div class="foot">
+      <span>भारत संवाद · व्यापार डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 3</span>
+    </div>
+  </div>
+  <div class="langblock lang-en" data-lang="en">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">Bharat Samwad</h1>
+    </div>
+    <div class="strip">
+      <span>Page 3 · Business</span>
+      <span class="mid">Special Report</span>
+      <span>Monday, 1 June 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">Technology · Semiconductors</span>
+    <h2 class="headline">India's chip startups cross from prototype to production</h2>
+    <p class="subdeck">Homegrown semiconductor firms — Netrasemi, Mindgrove and Agnit — are running customer pilots and gearing up for large-scale production by 2027, even as supply-chain pressures threaten to slow the momentum.</p>
+    <div class="byline"><b>Business Correspondent</b> · Bengaluru / New Delhi</div>
+    <div class="body">
+<p class="lead">Indian semiconductor startups like Netrasemi, Mindgrove Technologies and Agnit Semiconductors are close to commercialisation, with customer pilots already under way and large-scale production being lined up — even as supply-chain pressures threaten to slow the momentum.</p><p>These homegrown firms are targeting full commercial production by the end of 2027, and in some cases well before that. The shift marks a meaningful transition for India's chip ambitions: from design-on-paper to silicon-in-the-market.</p><h3>From prototype to product</h3><p>Netrasemi has already moved its flagship chip into production, handing samples to three customers that are now running pilots. Commercial volumes are expected by mid-2027.</p><p>PeakXV-backed Mindgrove, whose chips target biometrics, motor controllers and industrial electronics, is eyeing commercial rollout by the end of this year. The company currently counts over a dozen customers in the microcontroller segment and is targeting shipments of hundreds of thousands of chips this year, said cofounder Shashwath TR.</p><p>Bengaluru-based Agnit Semiconductors, which makes gallium nitride chips used primarily in the strategic and defence sectors, has three pilots already running. The company's customers include defence public sector units and private defence firms, with volumes expected to reach 5,000 to 10,000 chips in the next six to nine months.</p><div class="box"><h4>The Players at a Glance</h4><ul><li><b>Netrasemi — </b>Flagship chip in production; commercial volumes by mid-2027</li><li><b>Mindgrove Technologies — </b>Biometrics, motor controllers, industrial electronics; rollout by end-2026</li><li><b>Agnit Semiconductors — </b>Gallium nitride chips for strategic and defence use; 5,000-10,000 units in 6-9 months</li><li><b>Target — </b>Full commercial production by end of 2027 across the sector</li><li><b>Market — </b>Indian semiconductor industry valued at over $60 billion in 2025</li><li><b>Outlook — </b>Projected to reach nearly $180 billion by 2034 (IMARC)</li></ul></div><div class="pull">"We have received encouraging feedback from two pilots, and both products will be ramping up to volumes soon."<cite>— Hareesh Chandrasekar, Founder, Agnit Semiconductors</cite></div><h3>A growing market and policy push</h3><p>India's semiconductor industry, valued at over 60 billion dollars in 2025, is projected to reach nearly 180 billion dollars by 2034, driven by the government's production-linked and design-linked incentive schemes, according to a recent report by market research firm IMARC.</p><p>The rapid progression from prototype to production — typically a three- to four-year journey — has been significantly compressed in the case of these startups, helped along by targeted policy support, customer interest in domestic alternatives, and the broader push for self-reliance in critical technologies.</p><h3>Challenges that remain</h3><p>Founders acknowledge that scaling up is far from straightforward. Global supply-chain pressures, dependence on overseas fabrication facilities for advanced nodes, and the long lead times for specialised equipment all pose real risks to timelines. Talent acquisition for chip design and packaging also remains a constraint.</p><h3>The road ahead</h3><p>For India, the move of homegrown chips into actual customer hands — even at modest volumes — marks a meaningful step beyond design wins and policy announcements. If the pilots translate into sustained commercial demand over the next 18 to 24 months, the country's deep-tech ecosystem could establish a credible foothold in a sector long dominated by a handful of global players.</p>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · Business Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 3</span>
+    </div>
+  </div>
+  <div class="langblock lang-ur" dir="rtl" data-lang="ur">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">بھارت سنواد</h1>
+    </div>
+    <div class="strip">
+      <span>صفحہ 3 · کاروبار</span>
+      <span class="mid">خصوصی رپورٹ</span>
+      <span>پیر، 1 جون 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">ٹیکنالوجی · سیمی کنڈکٹرز</span>
+    <h2 class="headline">ہندوستان کے چپ اسٹارٹ اپ پروٹو ٹائپ سے پروڈکشن تک جاتے ہیں۔</h2>
+    <p class="subdeck">گھریلو سیمی کنڈکٹر فرمیں - نیٹراسیمی، مائنڈ گروو اور اگنیٹ - کسٹمر پائلٹ چلا رہی ہیں اور 2027 تک بڑے پیمانے پر پیداوار کے لیے کمر بستہ ہیں، یہاں تک کہ سپلائی چین کے دباؤ کی وجہ سے رفتار کم ہونے کا خطرہ ہے۔</p>
+    <div class="byline"><b>کاروباری نامہ نگار</b> · بنگلورو/ نئی دہلی</div>
+    <div class="body">
+<p class="lead">ہندوستانی سیمی کنڈکٹر اسٹارٹ اپ جیسے Netrasemi، Mindgrove Technologies اور Agnit Semiconductors کمرشلائزیشن کے قریب ہیں، کسٹمر پائلٹ پہلے سے ہی کام کر رہے ہیں اور بڑے پیمانے پر پروڈکشن تیار ہو رہی ہے - یہاں تک کہ سپلائی چین کے دباؤ کی وجہ سے رفتار کم ہونے کا خطرہ ہے۔</p><p>یہ گھریلو فرمیں 2027 کے آخر تک مکمل تجارتی پیداوار کو نشانہ بنا رہی ہیں، اور کچھ معاملات میں اس سے پہلے بھی۔ یہ تبدیلی ہندوستان کے چپ عزائم کے لیے ایک بامعنی منتقلی کی نشاندہی کرتی ہے: ڈیزائن پر کاغذ سے مارکیٹ میں سلیکون تک۔</p><h3>پروٹو ٹائپ سے لے کر پروڈکٹ تک</h3><p>Netrasemi نے پہلے ہی اپنی فلیگ شپ چپ کو پروڈکشن میں منتقل کر دیا ہے، تین ایسے صارفین کو نمونے دے رہے ہیں جو اب پائلٹ چلا رہے ہیں۔ تجارتی حجم 2027 کے وسط تک متوقع ہے۔</p><p>PeakXV کی حمایت یافتہ Mindgrove، جس کی چپس بائیو میٹرکس، موٹر کنٹرولرز اور صنعتی الیکٹرانکس کو نشانہ بناتی ہے، اس سال کے آخر تک کمرشل رول آؤٹ پر نظر رکھے ہوئے ہے۔ کوفاؤنڈر شاشواتھ ٹی آر نے کہا کہ کمپنی اس وقت مائیکرو کنٹرولر طبقہ میں ایک درجن سے زیادہ صارفین کو شمار کرتی ہے اور اس سال لاکھوں چپس کی ترسیل کو ہدف بنا رہی ہے۔</p><p>بنگلورو میں مقیم Agnit Semiconductors، جو کہ بنیادی طور پر اسٹریٹجک اور دفاعی شعبوں میں استعمال ہونے والی گیلیم نائٹرائڈ چپس بناتا ہے، کے تین پائلٹ پہلے سے ہی چل رہے ہیں۔ کمپنی کے صارفین میں دفاعی پبلک سیکٹر یونٹس اور پرائیویٹ ڈیفنس فرمز شامل ہیں، جن کا حجم اگلے چھ سے نو مہینوں میں 5,000 سے 10,000 چپس تک پہنچنے کی امید ہے۔</p><div class="box"><h4>ایک نظر میں کھلاڑی</h4><ul><li><b>نیٹراسیمی۔ — </b>پیداوار میں پرچم بردار چپ؛ 2027 کے وسط تک تجارتی حجم</li><li><b>مائنڈ گروو ٹیکنالوجیز — </b>بایومیٹرکس، موٹر کنٹرولرز، صنعتی الیکٹرانکس؛ 2026 کے آخر تک رول آؤٹ</li><li><b>اگنیٹ سیمی کنڈکٹرز — </b>اسٹریٹجک اور دفاعی استعمال کے لیے گیلیم نائٹرائڈ چپس؛ 6-9 ماہ میں 5,000-10,000 یونٹس</li><li><b>ہدف — </b>پورے شعبے میں 2027 کے آخر تک مکمل تجارتی پیداوار</li><li><b>بازار — </b>ہندوستانی سیمی کنڈکٹر انڈسٹری کی مالیت 2025 میں $60 بلین سے زیادہ تھی۔</li><li><b>آؤٹ لک — </b>2034 تک تقریباً 180 بلین ڈالر تک پہنچنے کا امکان (IMARC)</li></ul></div><div class="pull">"ہمیں دو پائلٹس کی طرف سے حوصلہ افزا تاثرات موصول ہوئے ہیں، اور دونوں مصنوعات جلد ہی حجم تک پہنچ جائیں گی۔"<cite>- ہریش چندر شیکر، بانی، اگنیٹ سیمی کنڈکٹرز</cite></div><h3>ایک بڑھتی ہوئی مارکیٹ اور پالیسی کو آگے بڑھانا</h3><p>مارکیٹ ریسرچ فرم IMARC کی ایک حالیہ رپورٹ کے مطابق، بھارت کی سیمی کنڈکٹر انڈسٹری، جس کی مالیت 2025 میں 60 بلین ڈالر سے زیادہ ہے، 2034 تک تقریباً 180 بلین ڈالر تک پہنچنے کا تخمینہ ہے، جو حکومت کی پیداوار سے منسلک اور ڈیزائن سے منسلک ترغیباتی اسکیموں سے چلتی ہے۔</p><p>پروٹو ٹائپ سے پروڈکشن تک تیز رفتار پیشرفت - عام طور پر تین سے چار سال کا سفر - کو ان اسٹارٹ اپس کے معاملے میں نمایاں طور پر کم کیا گیا ہے، جس میں ٹارگٹڈ پالیسی سپورٹ، گھریلو متبادلات میں گاہک کی دلچسپی، اور اہم ٹیکنالوجیز میں خود انحصاری کے لیے وسیع تر دباؤ میں مدد ملی ہے۔</p><h3>چیلنجز جو باقی ہیں۔</h3><p>بانی تسلیم کرتے ہیں کہ پیمانہ بڑھانا سیدھی بات نہیں ہے۔ عالمی سطح پر سپلائی چین کے دباؤ، جدید نوڈس کے لیے بیرون ملک تعمیر کی سہولیات پر انحصار، اور خصوصی آلات کے لیے طویل لیڈ ٹائم، یہ سب ٹائم لائنز کے لیے حقیقی خطرات لاحق ہیں۔ چپ ڈیزائن اور پیکیجنگ کے لیے ٹیلنٹ کا حصول بھی ایک رکاوٹ ہے۔</p><h3>آگے کی سڑک</h3><p>ہندوستان کے لیے، اصل گاہک کے ہاتھوں میں گھریلو چپس کی منتقلی - یہاں تک کہ معمولی حجم میں بھی - ڈیزائن کی جیت اور پالیسی کے اعلانات سے آگے ایک بامعنی قدم کی نشاندہی کرتی ہے۔ اگر پائلٹ اگلے 18 سے 24 مہینوں میں پائیدار تجارتی مانگ میں ترجمہ کرتے ہیں، تو ملک کا گہرا ٹیکنالوجی ایکو سسٹم ایک ایسے شعبے میں قابل اعتبار قدم جما سکتا ہے جس پر مٹھی بھر عالمی کھلاڑیوں کا غلبہ ہے۔</p>
+    </div>
+    <div class="foot">
+      <span>بھارت سنواد · کاروبار ڈیسک</span><span>© 2026 بھارت سنواد پبلیکیشنز</span><span>صفحہ 3</span>
+    </div>
+  </div>
+  </div>
+
+<script>
+/* ===== poll chrome strings per language ===== */
+var BS_POLL_T = {
+  hi:{eyebrow:"जनमत · आपकी राय", thanks:"आपके मत के लिए धन्यवाद!", votes:"वोट"},
+  en:{eyebrow:"Poll · Your Opinion", thanks:"Thanks for your vote!", votes:"votes"},
+  ur:{eyebrow:"رائے شماری · آپ کی رائے", thanks:"آپ کی رائے کا شکریہ!", votes:"ووٹ"}
+};
+var BS_LANG = "hi";
+
+function bsPollPct(n,t){return t?Math.round(n*100/t):0;}
+function bsPollRenderOne(box,counts){
+  counts=counts||{};
+  var opts=box.querySelectorAll(".opt"),total=0;
+  opts.forEach(function(o){total+=counts[o.dataset.opt]||0;});
+  var voted=box.classList.contains("voted");
+  opts.forEach(function(o){
+    var lab=o.querySelector(".optlabel");
+    if(lab) lab.textContent=o.getAttribute("data-"+BS_LANG)||lab.textContent;
+    var n=counts[o.dataset.opt]||0,p=bsPollPct(n,total);
+    o.querySelector(".barfill").style.width=voted?p+"%":"0%";
+    o.querySelector(".pct").textContent=voted?p+"%":"";
+  });
+  var t=BS_POLL_T[BS_LANG];
+  var eb=box.querySelector(".eyebrow"); if(eb) eb.textContent=t.eyebrow;
+  var th=box.querySelector("[data-thanks]"); if(th) th.textContent=t.thanks;
+  var tot=box.querySelector("[data-total]"); if(tot) tot.textContent=voted?(total+" "+t.votes):"";
+  var q=box.querySelector("h4"); if(q && q.getAttribute("data-"+BS_LANG)) q.textContent=q.getAttribute("data-"+BS_LANG);
+}
+function bsPollRefreshAll(){document.querySelectorAll(".bs-poll").forEach(function(b){bsPollRenderOne(b);});}
+
+function bsPollInit(box){
+  var API="/api/poll", id=box.dataset.pollId, already=false;
+  try{already=!!localStorage.getItem("bs_voted_"+id);}catch(e){}
+  function localCounts(){try{return JSON.parse(localStorage.getItem("bs_counts_"+id)||"{}");}catch(e){return {};}}
+  fetch(API+"?id="+encodeURIComponent(id)).then(function(r){return r.ok?r.json():null;})
+    .then(function(d){var c=(d&&d.counts)?d.counts:localCounts(); if(already)box.classList.add("voted"); if(already){var t=box.querySelector("[data-thanks]"); if(t)t.hidden=false;} bsPollRenderOne(box,c);})
+    .catch(function(){var c=localCounts(); if(already)box.classList.add("voted"); bsPollRenderOne(box,c);});
+  box.querySelectorAll(".opt").forEach(function(btn){
+    btn.addEventListener("click",function(){
+      if(box.classList.contains("voted"))return;
+      var opt=btn.dataset.opt;
+      try{localStorage.setItem("bs_voted_"+id,opt);}catch(e){}
+      var c=localCounts(); c[opt]=(c[opt]||0)+1; try{localStorage.setItem("bs_counts_"+id,JSON.stringify(c));}catch(e){}
+      box.classList.add("voted");
+      var th=box.querySelector("[data-thanks]"); if(th)th.hidden=false;
+      bsPollRenderOne(box,c);
+      fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:id,option:opt})})
+        .then(function(r){return r.ok?r.json():null;})
+        .then(function(d){if(d&&d.counts)bsPollRenderOne(box,d.counts);}).catch(function(){});
+    });
+  });
+}
+
+function setLang(l){
+  BS_LANG=l;
+  document.querySelectorAll('.langblock').forEach(b=>b.classList.toggle('show', b.dataset.lang===l));
+  document.querySelectorAll('.langbar button').forEach(btn=>btn.classList.toggle('active', btn.dataset.l===l));
+  document.documentElement.lang=(l==='ur'?'ur':(l==='en'?'en':'hi'));
+  bsPollRefreshAll();
+  try{localStorage.setItem('bs_lang',l);}catch(e){}
+}
+document.addEventListener('DOMContentLoaded',function(){
+  document.querySelectorAll(".bs-poll").forEach(bsPollInit);
+  var s='hi'; try{s=localStorage.getItem('bs_lang')||'hi';}catch(e){}
+  setLang(s);
+});
+</script>
+</body>
+</html>

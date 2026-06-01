@@ -1,0 +1,175 @@
+{
+  "hash": "261cd2f542210df2",
+  "t": {
+    "fm.section": {
+      "hi": "व्यापार",
+      "en": "Business",
+      "ur": "کاروبار"
+    },
+    "fm.kicker": {
+      "hi": "प्रौद्योगिकी · अर्धचालक",
+      "en": "Technology · Semiconductors",
+      "ur": "ٹیکنالوجی · سیمی کنڈکٹرز"
+    },
+    "fm.byline": {
+      "hi": "व्यापार संवाददाता",
+      "en": "Business Correspondent",
+      "ur": "کاروباری نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "बेंगलुरु/नई दिल्ली",
+      "en": "Bengaluru / New Delhi",
+      "ur": "بنگلورو/ نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "भारत के चिप स्टार्टअप प्रोटोटाइप से उत्पादन की ओर बढ़ रहे हैं",
+      "en": "India's chip startups cross from prototype to production",
+      "ur": "ہندوستان کے چپ اسٹارٹ اپ پروٹو ٹائپ سے پروڈکشن تک جاتے ہیں۔"
+    },
+    "fm.subdeck": {
+      "hi": "घरेलू सेमीकंडक्टर कंपनियाँ - नेट्रासेमी, माइंडग्रोव और एग्निट - ग्राहक पायलट चला रही हैं और 2027 तक बड़े पैमाने पर उत्पादन के लिए तैयारी कर रही हैं, भले ही आपूर्ति-श्रृंखला दबाव गति को धीमा करने की धमकी दे रहा हो।",
+      "en": "Homegrown semiconductor firms — Netrasemi, Mindgrove and Agnit — are running customer pilots and gearing up for large-scale production by 2027, even as supply-chain pressures threaten to slow the momentum.",
+      "ur": "گھریلو سیمی کنڈکٹر فرمیں - نیٹراسیمی، مائنڈ گروو اور اگنیٹ - کسٹمر پائلٹ چلا رہی ہیں اور 2027 تک بڑے پیمانے پر پیداوار کے لیے کمر بستہ ہیں، یہاں تک کہ سپلائی چین کے دباؤ کی وجہ سے رفتار کم ہونے کا خطرہ ہے۔"
+    },
+    "b0": {
+      "hi": "नेट्रासेमी, माइंडग्रोव टेक्नोलॉजीज और एग्निट सेमीकंडक्टर जैसे भारतीय सेमीकंडक्टर स्टार्टअप व्यावसायीकरण के करीब हैं, ग्राहक पायलट पहले से ही चल रहे हैं और बड़े पैमाने पर उत्पादन लाइन में हैं - भले ही आपूर्ति-श्रृंखला दबाव गति को धीमा करने की धमकी दे रहा हो।",
+      "en": "Indian semiconductor startups like Netrasemi, Mindgrove Technologies and Agnit Semiconductors are close to commercialisation, with customer pilots already under way and large-scale production being lined up — even as supply-chain pressures threaten to slow the momentum.",
+      "ur": "ہندوستانی سیمی کنڈکٹر اسٹارٹ اپ جیسے Netrasemi، Mindgrove Technologies اور Agnit Semiconductors کمرشلائزیشن کے قریب ہیں، کسٹمر پائلٹ پہلے سے ہی کام کر رہے ہیں اور بڑے پیمانے پر پروڈکشن تیار ہو رہی ہے - یہاں تک کہ سپلائی چین کے دباؤ کی وجہ سے رفتار کم ہونے کا خطرہ ہے۔"
+    },
+    "b1": {
+      "hi": "ये घरेलू कंपनियां 2027 के अंत तक और कुछ मामलों में उससे काफी पहले पूर्ण वाणिज्यिक उत्पादन का लक्ष्य रख रही हैं। यह बदलाव भारत की चिप महत्वाकांक्षाओं के लिए एक सार्थक परिवर्तन का प्रतीक है: डिज़ाइन-ऑन-पेपर से सिलिकॉन-इन-द-मार्केट तक।",
+      "en": "These homegrown firms are targeting full commercial production by the end of 2027, and in some cases well before that. The shift marks a meaningful transition for India's chip ambitions: from design-on-paper to silicon-in-the-market.",
+      "ur": "یہ گھریلو فرمیں 2027 کے آخر تک مکمل تجارتی پیداوار کو نشانہ بنا رہی ہیں، اور کچھ معاملات میں اس سے پہلے بھی۔ یہ تبدیلی ہندوستان کے چپ عزائم کے لیے ایک بامعنی منتقلی کی نشاندہی کرتی ہے: ڈیزائن پر کاغذ سے مارکیٹ میں سلیکون تک۔"
+    },
+    "b2": {
+      "hi": "प्रोटोटाइप से उत्पाद तक",
+      "en": "From prototype to product",
+      "ur": "پروٹو ٹائپ سے لے کر پروڈکٹ تک"
+    },
+    "b3": {
+      "hi": "नेट्रासेमी ने पहले ही अपनी प्रमुख चिप को उत्पादन में स्थानांतरित कर दिया है, तीन ग्राहकों को नमूने सौंपे हैं जो अब पायलट चल रहे हैं। 2027 के मध्य तक वाणिज्यिक मात्रा की उम्मीद है।",
+      "en": "Netrasemi has already moved its flagship chip into production, handing samples to three customers that are now running pilots. Commercial volumes are expected by mid-2027.",
+      "ur": "Netrasemi نے پہلے ہی اپنی فلیگ شپ چپ کو پروڈکشن میں منتقل کر دیا ہے، تین ایسے صارفین کو نمونے دے رہے ہیں جو اب پائلٹ چلا رہے ہیں۔ تجارتی حجم 2027 کے وسط تک متوقع ہے۔"
+    },
+    "b4": {
+      "hi": "पीकएक्सवी-समर्थित माइंडग्रोव, जिसके चिप्स बायोमेट्रिक्स, मोटर नियंत्रक और औद्योगिक इलेक्ट्रॉनिक्स को लक्षित करते हैं, इस साल के अंत तक वाणिज्यिक रोलआउट पर नजर गड़ाए हुए हैं। सह-संस्थापक शाश्वत टीआर ने कहा कि कंपनी के वर्तमान में माइक्रोकंट्रोलर सेगमेंट में एक दर्जन से अधिक ग्राहक हैं और इस साल सैकड़ों हजारों चिप्स के शिपमेंट का लक्ष्य है।",
+      "en": "PeakXV-backed Mindgrove, whose chips target biometrics, motor controllers and industrial electronics, is eyeing commercial rollout by the end of this year. The company currently counts over a dozen customers in the microcontroller segment and is targeting shipments of hundreds of thousands of chips this year, said cofounder Shashwath TR.",
+      "ur": "PeakXV کی حمایت یافتہ Mindgrove، جس کی چپس بائیو میٹرکس، موٹر کنٹرولرز اور صنعتی الیکٹرانکس کو نشانہ بناتی ہے، اس سال کے آخر تک کمرشل رول آؤٹ پر نظر رکھے ہوئے ہے۔ کوفاؤنڈر شاشواتھ ٹی آر نے کہا کہ کمپنی اس وقت مائیکرو کنٹرولر طبقہ میں ایک درجن سے زیادہ صارفین کو شمار کرتی ہے اور اس سال لاکھوں چپس کی ترسیل کو ہدف بنا رہی ہے۔"
+    },
+    "b5": {
+      "hi": "बेंगलुरु स्थित एग्निट सेमीकंडक्टर्स, जो मुख्य रूप से रणनीतिक और रक्षा क्षेत्रों में उपयोग किए जाने वाले गैलियम नाइट्राइड चिप्स बनाती है, के पास पहले से ही तीन पायलट चल रहे हैं। कंपनी के ग्राहकों में सार्वजनिक क्षेत्र की रक्षा इकाइयाँ और निजी रक्षा कंपनियाँ शामिल हैं, जिनकी मात्रा अगले छह से नौ महीनों में 5,000 से 10,000 चिप्स तक पहुंचने की उम्मीद है।",
+      "en": "Bengaluru-based Agnit Semiconductors, which makes gallium nitride chips used primarily in the strategic and defence sectors, has three pilots already running. The company's customers include defence public sector units and private defence firms, with volumes expected to reach 5,000 to 10,000 chips in the next six to nine months.",
+      "ur": "بنگلورو میں مقیم Agnit Semiconductors، جو کہ بنیادی طور پر اسٹریٹجک اور دفاعی شعبوں میں استعمال ہونے والی گیلیم نائٹرائڈ چپس بناتا ہے، کے تین پائلٹ پہلے سے ہی چل رہے ہیں۔ کمپنی کے صارفین میں دفاعی پبلک سیکٹر یونٹس اور پرائیویٹ ڈیفنس فرمز شامل ہیں، جن کا حجم اگلے چھ سے نو مہینوں میں 5,000 سے 10,000 چپس تک پہنچنے کی امید ہے۔"
+    },
+    "b6.title": {
+      "hi": "खिलाड़ी एक नज़र में",
+      "en": "The Players at a Glance",
+      "ur": "ایک نظر میں کھلاڑی"
+    },
+    "b6.itemlbl.0": {
+      "hi": "नेत्रसेमी",
+      "en": "Netrasemi",
+      "ur": "نیٹراسیمی۔"
+    },
+    "b6.itemval.0": {
+      "hi": "उत्पादन में फ्लैगशिप चिप; 2027 के मध्य तक वाणिज्यिक मात्रा",
+      "en": "Flagship chip in production; commercial volumes by mid-2027",
+      "ur": "پیداوار میں پرچم بردار چپ؛ 2027 کے وسط تک تجارتی حجم"
+    },
+    "b6.itemlbl.1": {
+      "hi": "माइंडग्रोव टेक्नोलॉजीज",
+      "en": "Mindgrove Technologies",
+      "ur": "مائنڈ گروو ٹیکنالوجیز"
+    },
+    "b6.itemval.1": {
+      "hi": "बायोमेट्रिक्स, मोटर नियंत्रक, औद्योगिक इलेक्ट्रॉनिक्स; 2026 के अंत तक रोलआउट",
+      "en": "Biometrics, motor controllers, industrial electronics; rollout by end-2026",
+      "ur": "بایومیٹرکس، موٹر کنٹرولرز، صنعتی الیکٹرانکس؛ 2026 کے آخر تک رول آؤٹ"
+    },
+    "b6.itemlbl.2": {
+      "hi": "एग्निट सेमीकंडक्टर",
+      "en": "Agnit Semiconductors",
+      "ur": "اگنیٹ سیمی کنڈکٹرز"
+    },
+    "b6.itemval.2": {
+      "hi": "सामरिक और रक्षा उपयोग के लिए गैलियम नाइट्राइड चिप्स; 6-9 महीनों में 5,000-10,000 इकाइयाँ",
+      "en": "Gallium nitride chips for strategic and defence use; 5,000-10,000 units in 6-9 months",
+      "ur": "اسٹریٹجک اور دفاعی استعمال کے لیے گیلیم نائٹرائڈ چپس؛ 6-9 ماہ میں 5,000-10,000 یونٹس"
+    },
+    "b6.itemlbl.3": {
+      "hi": "लक्ष्य",
+      "en": "Target",
+      "ur": "ہدف"
+    },
+    "b6.itemval.3": {
+      "hi": "पूरे क्षेत्र में 2027 के अंत तक पूर्ण वाणिज्यिक उत्पादन",
+      "en": "Full commercial production by end of 2027 across the sector",
+      "ur": "پورے شعبے میں 2027 کے آخر تک مکمل تجارتی پیداوار"
+    },
+    "b6.itemlbl.4": {
+      "hi": "बाज़ार",
+      "en": "Market",
+      "ur": "بازار"
+    },
+    "b6.itemval.4": {
+      "hi": "2025 में भारतीय सेमीकंडक्टर उद्योग का मूल्य 60 बिलियन डॉलर से अधिक था",
+      "en": "Indian semiconductor industry valued at over $60 billion in 2025",
+      "ur": "ہندوستانی سیمی کنڈکٹر انڈسٹری کی مالیت 2025 میں $60 بلین سے زیادہ تھی۔"
+    },
+    "b6.itemlbl.5": {
+      "hi": "आउटलुक",
+      "en": "Outlook",
+      "ur": "آؤٹ لک"
+    },
+    "b6.itemval.5": {
+      "hi": "2034 तक लगभग 180 अरब डॉलर तक पहुंचने का अनुमान (आईएमएआरसी)",
+      "en": "Projected to reach nearly $180 billion by 2034 (IMARC)",
+      "ur": "2034 تک تقریباً 180 بلین ڈالر تک پہنچنے کا امکان (IMARC)"
+    },
+    "b7.q": {
+      "hi": "\"हमें दो पायलटों से उत्साहजनक प्रतिक्रिया मिली है, और दोनों उत्पाद जल्द ही वॉल्यूम में वृद्धि करेंगे।\"",
+      "en": "\"We have received encouraging feedback from two pilots, and both products will be ramping up to volumes soon.\"",
+      "ur": "\"ہمیں دو پائلٹس کی طرف سے حوصلہ افزا تاثرات موصول ہوئے ہیں، اور دونوں مصنوعات جلد ہی حجم تک پہنچ جائیں گی۔\""
+    },
+    "b7.c": {
+      "hi": "- हरेश चन्द्रशेखर, संस्थापक, एग्निट सेमीकंडक्टर्स",
+      "en": "— Hareesh Chandrasekar, Founder, Agnit Semiconductors",
+      "ur": "- ہریش چندر شیکر، بانی، اگنیٹ سیمی کنڈکٹرز"
+    },
+    "b8": {
+      "hi": "एक बढ़ता हुआ बाज़ार और नीतिगत प्रोत्साहन",
+      "en": "A growing market and policy push",
+      "ur": "ایک بڑھتی ہوئی مارکیٹ اور پالیسی کو آگے بڑھانا"
+    },
+    "b9": {
+      "hi": "मार्केट रिसर्च फर्म IMARC की एक हालिया रिपोर्ट के अनुसार, भारत का सेमीकंडक्टर उद्योग, जिसका मूल्य 2025 में 60 बिलियन डॉलर से अधिक है, सरकार की उत्पादन-लिंक्ड और डिज़ाइन-लिंक्ड प्रोत्साहन योजनाओं द्वारा संचालित, 2034 तक लगभग 180 बिलियन डॉलर तक पहुंचने का अनुमान है।",
+      "en": "India's semiconductor industry, valued at over 60 billion dollars in 2025, is projected to reach nearly 180 billion dollars by 2034, driven by the government's production-linked and design-linked incentive schemes, according to a recent report by market research firm IMARC.",
+      "ur": "مارکیٹ ریسرچ فرم IMARC کی ایک حالیہ رپورٹ کے مطابق، بھارت کی سیمی کنڈکٹر انڈسٹری، جس کی مالیت 2025 میں 60 بلین ڈالر سے زیادہ ہے، 2034 تک تقریباً 180 بلین ڈالر تک پہنچنے کا تخمینہ ہے، جو حکومت کی پیداوار سے منسلک اور ڈیزائن سے منسلک ترغیباتی اسکیموں سے چلتی ہے۔"
+    },
+    "b10": {
+      "hi": "प्रोटोटाइप से उत्पादन तक की तीव्र प्रगति - आम तौर पर तीन से चार साल की यात्रा - इन स्टार्टअप्स के मामले में काफी हद तक संकुचित हो गई है, लक्षित नीति समर्थन, घरेलू विकल्पों में ग्राहकों की रुचि और महत्वपूर्ण प्रौद्योगिकियों में आत्मनिर्भरता के लिए व्यापक दबाव से मदद मिली है।",
+      "en": "The rapid progression from prototype to production — typically a three- to four-year journey — has been significantly compressed in the case of these startups, helped along by targeted policy support, customer interest in domestic alternatives, and the broader push for self-reliance in critical technologies.",
+      "ur": "پروٹو ٹائپ سے پروڈکشن تک تیز رفتار پیشرفت - عام طور پر تین سے چار سال کا سفر - کو ان اسٹارٹ اپس کے معاملے میں نمایاں طور پر کم کیا گیا ہے، جس میں ٹارگٹڈ پالیسی سپورٹ، گھریلو متبادلات میں گاہک کی دلچسپی، اور اہم ٹیکنالوجیز میں خود انحصاری کے لیے وسیع تر دباؤ میں مدد ملی ہے۔"
+    },
+    "b11": {
+      "hi": "चुनौतियाँ जो बनी हुई हैं",
+      "en": "Challenges that remain",
+      "ur": "چیلنجز جو باقی ہیں۔"
+    },
+    "b12": {
+      "hi": "संस्थापक स्वीकार करते हैं कि आगे बढ़ना सीधा काम नहीं है। वैश्विक आपूर्ति-श्रृंखला दबाव, उन्नत नोड्स के लिए विदेशी निर्माण सुविधाओं पर निर्भरता, और विशेष उपकरणों के लिए लंबी लीड समय सीमा के लिए वास्तविक जोखिम पैदा करते हैं। चिप डिज़ाइन और पैकेजिंग के लिए प्रतिभा अधिग्रहण भी एक बाधा बनी हुई है।",
+      "en": "Founders acknowledge that scaling up is far from straightforward. Global supply-chain pressures, dependence on overseas fabrication facilities for advanced nodes, and the long lead times for specialised equipment all pose real risks to timelines. Talent acquisition for chip design and packaging also remains a constraint.",
+      "ur": "بانی تسلیم کرتے ہیں کہ پیمانہ بڑھانا سیدھی بات نہیں ہے۔ عالمی سطح پر سپلائی چین کے دباؤ، جدید نوڈس کے لیے بیرون ملک تعمیر کی سہولیات پر انحصار، اور خصوصی آلات کے لیے طویل لیڈ ٹائم، یہ سب ٹائم لائنز کے لیے حقیقی خطرات لاحق ہیں۔ چپ ڈیزائن اور پیکیجنگ کے لیے ٹیلنٹ کا حصول بھی ایک رکاوٹ ہے۔"
+    },
+    "b13": {
+      "hi": "आगे का रास्ता",
+      "en": "The road ahead",
+      "ur": "آگے کی سڑک"
+    },
+    "b14": {
+      "hi": "भारत के लिए, घरेलू चिप्स का वास्तविक ग्राहक के हाथों में जाना - भले ही मामूली मात्रा में - डिज़ाइन जीत और नीति घोषणाओं से परे एक सार्थक कदम है। यदि पायलट अगले 18 से 24 महीनों में निरंतर वाणिज्यिक मांग में तब्दील हो जाते हैं, तो देश का डीप-टेक पारिस्थितिकी तंत्र मुट्ठी भर वैश्विक खिलाड़ियों के प्रभुत्व वाले क्षेत्र में एक विश्वसनीय पैर जमाने में सक्षम हो सकता है।",
+      "en": "For India, the move of homegrown chips into actual customer hands — even at modest volumes — marks a meaningful step beyond design wins and policy announcements. If the pilots translate into sustained commercial demand over the next 18 to 24 months, the country's deep-tech ecosystem could establish a credible foothold in a sector long dominated by a handful of global players.",
+      "ur": "ہندوستان کے لیے، اصل گاہک کے ہاتھوں میں گھریلو چپس کی منتقلی - یہاں تک کہ معمولی حجم میں بھی - ڈیزائن کی جیت اور پالیسی کے اعلانات سے آگے ایک بامعنی قدم کی نشاندہی کرتی ہے۔ اگر پائلٹ اگلے 18 سے 24 مہینوں میں پائیدار تجارتی مانگ میں ترجمہ کرتے ہیں، تو ملک کا گہرا ٹیکنالوجی ایکو سسٹم ایک ایسے شعبے میں قابل اعتبار قدم جما سکتا ہے جس پر مٹھی بھر عالمی کھلاڑیوں کا غلبہ ہے۔"
+    }
+  }
+}
