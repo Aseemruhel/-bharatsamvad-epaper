@@ -522,7 +522,7 @@ def page(lang, days, kind="home"):
 
 def build_doc(days, kind, title_text):
     return f"""<!DOCTYPE html>
-<html lang="hi">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -532,15 +532,15 @@ def build_doc(days, kind, title_text):
 <body>
 <div class="topbar">
   <div class="langbar">
-    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
     <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>
 </div>
 
 <div class="wrap">
-  {page("hi", days, kind)}
   {page("en", days, kind)}
+  {page("hi", days, kind)}
   {page("ur", days, kind)}
 </div>
 
@@ -567,14 +567,14 @@ function setLang(l){{
 }}
 
 document.addEventListener('DOMContentLoaded', function(){{
-  var s = 'hi';
+  var s = 'en';
 
   try{{
-    s = localStorage.getItem('bs_lang') || 'hi';
+    s = localStorage.getItem('bs_lang') || 'en';
   }}catch(e){{}}
 
-  if(!['hi','en','ur'].includes(s)){{
-    s = 'hi';
+  if(!['en','hi','ur'].includes(s)){{
+    s = 'en';
   }}
 
   setLang(s);
