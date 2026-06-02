@@ -164,10 +164,10 @@ def render_lang(lang, A, photo_b64=None):
   </div>'''
 
 def build(outfile, title, langs, photo_b64=None):
-    blocks = "\n".join(render_lang(l, langs[l], photo_b64) for l in ("hi", "en", "ur"))
+    blocks = "\n".join(render_lang(l, langs[l], photo_b64) for l in ("en", "hi", "ur"))
     
     html = f'''<!DOCTYPE html>
-<html lang="hi">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
