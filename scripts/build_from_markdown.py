@@ -249,7 +249,7 @@ def build_article(md_path):
         cache_file.write_text(json.dumps({"hash": h, "t": T}, ensure_ascii=False, indent=2), encoding="utf-8")
 
     date_strs = date_strings(fm["date"])
-    langs = {l: build_lang_dict(l, fm, blocks, T, date_strs) for l in ("en","hi","ur")}
+    langs = {l: build_lang_dict(l, fm, blocks, T, date_strs) for l in ("hi","en","ur")}
 
     page = str(fm.get("page", "1"))
     out_name = f"bharatsamvad-{fm['date']}-page{page}.html"
@@ -262,8 +262,8 @@ def build_article(md_path):
         "href": out_name,
         "date": date_strs,
         "page": page,
-        "section": {l: T["fm.section"][l] for l in ("en","hi","ur")},
-        "headline": {l: T["fm.headline"][l] for l in ("en","hi","ur")},
+        "section": {l: T["fm.section"][l] for l in ("hi","en","ur")},
+        "headline": {l: T["fm.headline"][l] for l in ("hi","en","ur")},
         "date_iso": fm["date"],
     }
 
@@ -287,7 +287,7 @@ def regenerate_index(articles):
                     "href": a["href"],
                     "label": {
                         l: f"{ {'hi':'पृष्ठ','en':'Page','ur':'صفحہ'}[l] } {a['page']} · {a['section'][l]}"
-                        for l in ("en", "hi", "ur")
+                        for l in ("hi", "en", "ur")
                     },
                     "title": a["headline"]
                 }
@@ -337,6 +337,108 @@ def regenerate_index(articles):
 
     tmp.unlink(missing_ok=True)
     print(f"  ✓ regenerated {' + '.join(moved)} with {len(articles)} articles")
+
+# ---------- Auto-discover hand-uploaded HTML articles ----------
+ARTICLE_FILENAME_RE = re.compile(r"^bharatsamvad-(\d{4}-\d{2}-\d{2})-page(\d+)\.html$")
+
+def _strip_tags(s):
+    """Strip HTML tags and decode entities for plain-text extraction."""
+    if not s:
+        return ""
+    import html as _html
+    s = re.sub(r"<[^>]+>", "", s)
+    s = _html.unescape(s)
+    return " ".join(s.split())
+
+def _extract_from_langblock(html_text, lang):
+    """Try to pull headline + section from a specific data-lang block. Returns (headline, section) or (None, None)."""
+    m = re.search(
+        r'data-lang=["\']' + lang + r'["\'](.*?)(?=<div[^>]*class=["\'][^"\']*langblock|</body)',
+        html_text, re.DOTALL,
+    )
+    if not m:
+        return None, None
+    scope = m.group(1)
+    head_m = re.search(r'<h2[^>]*class=["\'][^"\']*headline[^"\']*["\'][^>]*>(.*?)</h2>', scope, re.DOTALL)
+    headline = _strip_tags(head_m.group(1)) if head_m else None
+    # section comes from the first strip span: "Page N · Section"
+    strip_m = re.search(r'<div[^>]*class=["\'][^"\']*strip[^"\']*["\'][^>]*>\s*<span[^>]*>(.*?)</span>', scope, re.DOTALL)
+    section = None
+    if strip_m:
+        strip_text = _strip_tags(strip_m.group(1))
+        if "·" in strip_text:
+            section = strip_text.split("·", 1)[1].strip()
+    return headline, section
+
+def _extract_article_meta(html_path):
+    """Best-effort headline+section extraction.
+    Returns dict with hi/en/ur sub-dicts for headline and section, or None if not extractable."""
+    try:
+        text = html_path.read_text(encoding="utf-8", errors="replace")
+    except Exception:
+        return None
+
+    # Try the trilingual structure first
+    found = {}
+    for lang in ("en", "hi", "ur"):
+        h, s = _extract_from_langblock(text, lang)
+        if h: found[lang] = {"headline": h, "section": s}
+
+    if found:
+        # Fill any missing language from another (prefer en → others, hi → others)
+        order = ["en","hi","ur"]
+        fallback_lang = next((l for l in order if l in found), None)
+        result = {"headline": {}, "section": {}}
+        for lang in order:
+            entry = found.get(lang) or found[fallback_lang]
+            result["headline"][lang] = entry["headline"] or ""
+            result["section"][lang]  = entry["section"] or ""
+        return result
+
+    # Fallback: single-language file (e.g. Word "Save as HTML"). Try <title>, then first <h1>/<h2>.
+    headline = None
+    for pat in (r"<title[^>]*>(.*?)</title>", r"<h1[^>]*>(.*?)</h1>", r"<h2[^>]*>(.*?)</h2>"):
+        m = re.search(pat, text, re.DOTALL | re.IGNORECASE)
+        if m:
+            cand = _strip_tags(m.group(1))
+            if cand and len(cand) > 4:
+                headline = cand
+                break
+    if not headline:
+        return None
+    # Use same headline + empty-but-reasonable section across all three languages
+    return {
+        "headline": {"en": headline, "hi": headline, "ur": headline},
+        "section":  {"en": "Special", "hi": "विशेष", "ur": "خصوصی"},
+    }
+
+def discover_html_articles(existing_hrefs):
+    """Scan ROOT for bharatsamvad-YYYY-MM-DD-pageN.html files not already known.
+    Returns a list of article dicts in the same shape as build_article()."""
+    discovered = []
+    for p in sorted(ROOT.glob("bharatsamvad-*.html")):
+        m = ARTICLE_FILENAME_RE.match(p.name)
+        if not m:
+            continue
+        if p.name in existing_hrefs:
+            continue
+        date_iso = m.group(1)
+        page_num = m.group(2)
+        meta = _extract_article_meta(p)
+        if not meta:
+            print(f"  ! could not extract headline from {p.name}; skipping")
+            continue
+        discovered.append({
+            "href": p.name,
+            "date": date_strings(date_iso),
+            "page": page_num,
+            "section": meta["section"],
+            "headline": meta["headline"],
+            "date_iso": date_iso,
+        })
+        print(f"  ✓ discovered {p.name}")
+    return discovered
+
 # ---------- Main ----------
 def main():
     md_files = sorted(glob.glob(str(CONTENT / "*.md")))
@@ -367,6 +469,13 @@ def main():
                 })
         except Exception as e:
             print(f"  ✗ manual_articles error: {e}")
+
+    # Auto-discover hand-uploaded HTML articles in the repo root
+    known = {a["href"] for a in arts}
+    discovered = discover_html_articles(known)
+    if discovered:
+        print(f"• auto-discovered {len(discovered)} additional HTML article(s)")
+        arts.extend(discovered)
 
     if not arts:
         print("No articles found.")
