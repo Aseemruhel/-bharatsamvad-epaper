@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>भारत संवाद</title>
+<style>
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
+.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+
+:root{
+  --paper:#f4efe2;--paper-edge:#e7dfca;--ink:#1a1714;--ink-soft:#3a342c;--rule:#26221c;--accent:#9a1b1b;--accent-dk:#6f1212;--gold:#8a6d2f;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:var(--ink);padding:28px 14px;line-height:1.55;-webkit-font-smoothing:antialiased;}
+.sheet{max-width:880px;margin:0 auto;background:var(--paper);background-image:radial-gradient(circle at 20% 10%,rgba(0,0,0,.018) 0,transparent 55%),radial-gradient(circle at 80% 90%,rgba(120,90,40,.04) 0,transparent 55%);box-shadow:0 18px 50px rgba(0,0,0,.4),inset 0 0 0 1px var(--paper-edge);padding:30px 34px 42px;position:relative;}
+.sheet::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.012) 0 1px,transparent 1px 3px);mix-blend-mode:multiply;opacity:.5;}
+.masthead{text-align:center;padding:10px 0 4px;border-bottom:4px double var(--rule);}
+.masthead h1{font-family:"Rozha One",Georgia,serif;font-size:74px;line-height:.95;letter-spacing:1px;color:var(--ink);}
+.strip{display:flex;justify-content:space-between;align-items:center;font-family:"Mukta",Arial,sans-serif;font-size:11.5px;font-weight:500;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid var(--rule);}
+.strip .mid{color:var(--accent);font-weight:700;letter-spacing:.5px;}
+.kicker{display:inline-block;background:var(--accent);color:#f7f1e3;font-family:"Khand",Arial,sans-serif;font-weight:600;letter-spacing:3px;font-size:13px;text-transform:uppercase;padding:3px 12px;margin:20px 0 8px;}
+.headline{font-family:"Rozha One",Georgia,serif;font-size:46px;line-height:1.08;color:var(--ink);margin-bottom:8px;}
+.subdeck{font-family:"Mukta",Arial,sans-serif;font-weight:500;font-size:17.5px;color:var(--ink-soft);line-height:1.4;border-left:3px solid var(--gold);padding-left:12px;margin-bottom:14px;}
+.byline{font-family:"Mukta",Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:6px 0;margin-bottom:18px;}
+.byline b{color:var(--accent-dk);}
+.body{column-count:2;column-gap:30px;column-rule:1px solid #cbbfa3;font-size:15.2px;text-align:justify;hyphens:auto;color:var(--ink-soft);}
+.body p{margin-bottom:11px;text-indent:14px;}
+.body p.lead{text-indent:0;}
+.body p.lead::first-letter{font-family:"Rozha One",Georgia,serif;float:left;font-size:62px;line-height:.78;padding:4px 8px 0 0;color:var(--accent);}
+.body h3{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:19px;color:var(--ink);letter-spacing:.4px;margin:6px 0 5px;break-after:avoid;}
+.body h3::before{content:"▍";color:var(--accent);margin-right:5px;}
+.pull{break-inside:avoid;margin:6px 0 12px;padding:12px 0;border-top:2px solid var(--rule);border-bottom:2px solid var(--rule);font-family:"Rozha One",Georgia,serif;font-size:21px;line-height:1.3;color:var(--accent-dk);text-align:left;text-indent:0;}
+.pull cite{display:block;font-family:"Mukta",Arial,sans-serif;font-style:normal;font-weight:600;font-size:12px;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;margin-top:6px;}
+.box{break-inside:avoid;background:#efe7d3;border:1.5px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);padding:14px 16px;margin:4px 0 14px;}
+.box h4{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:18px;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;border-bottom:2px solid var(--accent);padding-bottom:5px;margin-bottom:9px;}
+.box ul{list-style:none;}
+.box li{font-family:"Mukta",Arial,sans-serif;font-size:13.4px;line-height:1.45;color:var(--ink);padding:5px 0 5px 20px;position:relative;border-bottom:1px dotted #b6a982;}
+.box li:last-child{border-bottom:none;}
+.box li::before{content:"◆";position:absolute;left:0;top:5px;color:var(--accent);font-size:10px;}
+.box li b{color:var(--accent-dk);}
+.foot{margin-top:22px;border-top:4px double var(--rule);padding-top:8px;display:flex;justify-content:space-between;font-family:"Mukta",Arial,sans-serif;font-size:11px;color:var(--ink-soft);letter-spacing:.4px;text-transform:uppercase;}
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none}.langblock.show{display:block;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+.back-home-btn{
+  display:inline-block;
+  margin:14px 0 2px;
+  padding:7px 14px;
+  background:var(--accent);
+  color:#fff;
+  text-decoration:none;
+  font-family:"Mukta",Arial,sans-serif;
+  font-size:13px;
+  font-weight:700;
+  letter-spacing:.3px;
+  border:1px solid var(--accent-dk);
+  box-shadow:2px 2px 0 rgba(38,34,28,.18);
+}
+
+.back-home-btn:hover{
+  background:var(--accent-dk);
+}
+.home-logo{
+  color:inherit;
+  text-decoration:none;
+  display:inline-block;
+}
+.home-logo:hover{
+  color:var(--accent);
+}
+@media(max-width:680px){.sheet{padding:20px 18px 30px}.masthead h1{font-size:48px}.headline{font-size:32px}.body{column-count:1}.strip{flex-direction:column;gap:3px;text-align:center}}
+@media print{body{background:#fff;padding:0}.sheet{box-shadow:none}}
+
+
+/* ===== language toggle ===== */
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;gap:0;
+  background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;
+  font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;
+  padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+
+/* PDF Download Button */
+.pdf-download-btn{
+    display:inline-flex;align-items:center;gap:6px;padding:8px 16px;
+    background:#1a1a1a;color:#fff;border:none;border-radius:4px;
+    font-size:0.95rem;font-weight:500;cursor:pointer;transition:all .2s;
+    margin-left:12px;
+}
+.pdf-download-btn:hover{background:#333;}
+
+/* Language blocks */
+.langblock{display:none;} .langblock.show{display:block;}
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+
+/* news photo */
+.newsfig{column-span:all;break-inside:avoid;margin:4px 0 16px;}
+.newsfig img{width:100%;height:auto;display:block;border:1px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);}
+.newsfig figcaption{font-family:"Mukta",sans-serif;font-size:12.5px;line-height:1.4;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid #cbbfa3;}
+.newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
+.lang-ur .newsfig figcaption{text-align:right;}
+
+/* Print Styles for PDF */
+@media print {
+    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    body, .sheet { background:#fff !important; color:#000 !important; }
+    .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
+    .langblock { display:block !important; page-break-after:always; }
+    .langblock:last-child { page-break-after:avoid; }
+    .kicker { color:#9a1b1b !important; font-weight:700; }
+    p, li { line-height:1.75; }
+    @page { margin:1.5cm; size:A4; }
+}
+
+</style>
+</head>
+<body>
+  <div class="langbar">
+    <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
+    <button data-l="ur" onclick="setLang('ur')">اردو</button>
+    
+<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download this article as PDF">
+    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+        <polyline points="14 2 14 8 20 8"></polyline>
+        <line x1="16" y1="13" x2="8" y2="13"></line>
+        <line x1="16" y1="17" x2="8" y2="17"></line>
+    </svg>
+    Download PDF
+</button>
+
+  </div>
+  <div class="sheet">
+  <div class="langblock lang-en" data-lang="en">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">Bharat Samwad</h1>
+    </div>
+    <div class="strip">
+      <span>Page 4 · World</span>
+      <span class="mid">Special Report</span>
+      <span>Tuesday, 2 June 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">Diplomacy · Religious Affairs</span>
+    <h2 class="headline">Pakistan Embassy in Japan urges citizens to follow local laws on mosque construction after Kawagoe controversy</h2>
+    <p class="subdeck">In an advisory issued on 31 May 2026, the Pakistan Embassy in Tokyo asked Pakistani residents in Japan to comply with Japanese laws and obtain required permits before undertaking religious construction projects, distancing itself from any that do not meet local regulations.</p>
+    <div class="byline"><b>International Desk</b> · Tokyo</div>
+    <div class="body">
+<p class="lead">The Pakistan Embassy in Japan has publicly urged Pakistani residents in the country to comply with Japanese laws — particularly when constructing mosques and other religious facilities — and to obtain the necessary permits from local authorities before initiating any such project.</p><p>The advisory was issued in a public statement on 31 May 2026 and comes against the backdrop of a controversy in Kawagoe, where a mosque-related project is reported to have raised questions over regulatory compliance.</p><h3>What the embassy said</h3><p>In its statement, the embassy "strongly urges" the entire Pakistani community in Japan to follow Japanese laws in all matters, including the construction of mosques. It stressed that no construction should be undertaken without first obtaining the required permits from local governments.</p><p>The embassy further stated that it has "no involvement whatsoever" in any projects that do not comply with the laws and regulations of the respective local governments — explicitly including, it said, the event held in Kawagoe on 3 April 2026.</p><p></p><p></p><h3>The Kawagoe context</h3><p>According to the embassy's own account, the Pakistani Ambassador had accepted an invitation to the Kawagoe event of 3 April 2026 on the basis of information that all required permits, in accordance with Japanese law, had been obtained for the building concerned. Questions over the regulatory status of the project subsequently surfaced in local reporting.</p><p>The embassy has now said that information on the legal status of such projects should be communicated transparently — both to members of the Pakistani community and to residents of the surrounding areas — so that compliance can be verified by all stakeholders.</p><h3>A call for cooperation</h3><p>The advisory closes with a call to the Pakistani community in Japan to cooperate promptly with Japanese authorities, particularly in cases of the kind described in the statement. The embassy framed this as essential not only at the planning stage of any construction project but throughout and after it.</p><h3>Why the statement is notable</h3><p>Public advisories of this nature, in which an embassy explicitly distances itself from named events involving its own community, are uncommon. The statement signals a deliberate effort by Pakistan's diplomatic mission to underscore local-law compliance, and to draw a clear line between the embassy's role and individual community projects that fall outside Japan's regulatory framework.</p><h3>The road ahead</h3><p>For the Pakistani community in Japan, the advisory amounts to a formal reminder that religious-infrastructure projects abroad sit squarely within the host country's legal system. For Japanese local authorities, the embassy's statement is an explicit invitation to engage directly with community projects where compliance questions arise.</p><p>Whether the Kawagoe matter results in any further regulatory action by Japanese authorities is not yet clear from public reporting. The embassy's statement, for now, focuses on prevention rather than the specifics of any one project.</p>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · World Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 4</span>
+    </div>
+  </div>
+  <div class="langblock lang-hi" data-lang="hi">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">भारत संवाद</h1>
+    </div>
+    <div class="strip">
+      <span>पृष्ठ 4 · दुनिया</span>
+      <span class="mid">विशेष रिपोर्ट</span>
+      <span>मंगलवार, 2 जून 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">कूटनीति · धार्मिक मामले</span>
+    <h2 class="headline">जापान में पाकिस्तान दूतावास ने कावागो विवाद के बाद नागरिकों से मस्जिद निर्माण पर स्थानीय कानूनों का पालन करने का आग्रह किया</h2>
+    <p class="subdeck">31 मई 2026 को जारी एक सलाह में, टोक्यो में पाकिस्तान दूतावास ने जापान में पाकिस्तानी निवासियों को जापानी कानूनों का पालन करने और धार्मिक निर्माण परियोजनाओं को शुरू करने से पहले आवश्यक परमिट प्राप्त करने के लिए कहा, जो स्थानीय नियमों को पूरा नहीं करते हैं, उनसे खुद को दूर रखें।</p>
+    <div class="byline"><b>इंटरनेशनल डेस्क</b> · टोक्यो</div>
+    <div class="body">
+<p class="lead">जापान में पाकिस्तान दूतावास ने सार्वजनिक रूप से देश में पाकिस्तानी निवासियों से जापानी कानूनों का पालन करने का आग्रह किया है - विशेष रूप से मस्जिदों और अन्य धार्मिक सुविधाओं का निर्माण करते समय - और ऐसी किसी भी परियोजना को शुरू करने से पहले स्थानीय अधिकारियों से आवश्यक परमिट प्राप्त करने के लिए।</p><p>यह सलाह 31 मई 2026 को एक सार्वजनिक बयान में जारी की गई थी और यह कावागो में एक विवाद की पृष्ठभूमि में आई है, जहां एक मस्जिद से संबंधित परियोजना के बारे में बताया गया है कि इसने नियामक अनुपालन पर सवाल उठाए हैं।</p><h3>दूतावास ने क्या कहा</h3><p>अपने बयान में, दूतावास ने जापान में पूरे पाकिस्तानी समुदाय से मस्जिदों के निर्माण सहित सभी मामलों में जापानी कानूनों का पालन करने का "जोरदार आग्रह" किया। इसमें इस बात पर जोर दिया गया कि स्थानीय सरकारों से आवश्यक परमिट प्राप्त किए बिना कोई भी निर्माण नहीं किया जाना चाहिए।</p><p>दूतावास ने आगे कहा कि ऐसी किसी भी परियोजना में उसकी "कोई भागीदारी नहीं" है जो संबंधित स्थानीय सरकारों के कानूनों और विनियमों का पालन नहीं करती है - इसमें स्पष्ट रूप से, 3 अप्रैल 2026 को कावागो में आयोजित कार्यक्रम भी शामिल है।</p><p></p><p></p><h3>कावागो प्रसंग</h3><p>दूतावास के अपने खाते के अनुसार, पाकिस्तानी राजदूत ने 3 अप्रैल 2026 के कावागो कार्यक्रम के निमंत्रण को इस जानकारी के आधार पर स्वीकार कर लिया था कि संबंधित भवन के लिए जापानी कानून के अनुसार सभी आवश्यक परमिट प्राप्त कर लिए गए थे। परियोजना की विनियामक स्थिति पर प्रश्न बाद में स्थानीय रिपोर्टिंग में सामने आए।</p><p>दूतावास ने अब कहा है कि ऐसी परियोजनाओं की कानूनी स्थिति की जानकारी पारदर्शी रूप से पाकिस्तानी समुदाय के सदस्यों और आसपास के क्षेत्रों के निवासियों दोनों को दी जानी चाहिए - ताकि सभी हितधारकों द्वारा अनुपालन को सत्यापित किया जा सके।</p><h3>सहयोग का आह्वान</h3><p>एडवाइजरी जापान में पाकिस्तानी समुदाय से जापानी अधिकारियों के साथ तुरंत सहयोग करने के आह्वान के साथ समाप्त होती है, खासकर बयान में वर्णित प्रकार के मामलों में। दूतावास ने इसे न केवल किसी भी निर्माण परियोजना के नियोजन चरण में बल्कि उसके दौरान और उसके बाद भी आवश्यक बताया।</p><h3>क्यों बयान उल्लेखनीय है</h3><p>इस प्रकृति की सार्वजनिक सलाह, जिसमें एक दूतावास स्पष्ट रूप से अपने समुदाय से जुड़ी नामित घटनाओं से खुद को दूर रखता है, असामान्य हैं। यह बयान स्थानीय कानून के अनुपालन को रेखांकित करने और दूतावास की भूमिका और जापान के नियामक ढांचे के बाहर आने वाली व्यक्तिगत सामुदायिक परियोजनाओं के बीच एक स्पष्ट रेखा खींचने के लिए पाकिस्तान के राजनयिक मिशन द्वारा एक जानबूझकर किए गए प्रयास का संकेत देता है।</p><h3>आगे का रास्ता</h3><p>जापान में पाकिस्तानी समुदाय के लिए, यह सलाह एक औपचारिक अनुस्मारक के समान है कि विदेशों में धार्मिक-बुनियादी ढांचा परियोजनाएं मेजबान देश की कानूनी प्रणाली के अंतर्गत आती हैं। जापानी स्थानीय अधिकारियों के लिए, दूतावास का बयान उन सामुदायिक परियोजनाओं से सीधे जुड़ने का एक स्पष्ट निमंत्रण है जहां अनुपालन संबंधी प्रश्न उठते हैं।</p><p>क्या कावागो मामले के परिणामस्वरूप जापानी अधिकारियों द्वारा कोई और नियामक कार्रवाई की जाएगी, यह अभी तक सार्वजनिक रिपोर्टिंग से स्पष्ट नहीं है। फिलहाल दूतावास का बयान किसी एक परियोजना की बारीकियों के बजाय रोकथाम पर केंद्रित है।</p>
+    </div>
+    <div class="foot">
+      <span>भारत संवाद · दुनिया डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 4</span>
+    </div>
+  </div>
+  <div class="langblock lang-ur" dir="rtl" data-lang="ur">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">بھارت سنواد</h1>
+    </div>
+    <div class="strip">
+      <span>صفحہ 4 · دنیا</span>
+      <span class="mid">خصوصی رپورٹ</span>
+      <span>منگل، 2 جون 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">سفارت کاری · مذہبی امور</span>
+    <h2 class="headline">جاپان میں پاکستانی سفارت خانے نے کاواگو تنازعہ کے بعد شہریوں سے مسجد کی تعمیر سے متعلق مقامی قوانین پر عمل کرنے کی اپیل کی ہے۔</h2>
+    <p class="subdeck">31 مئی 2026 کو جاری کردہ ایک ایڈوائزری میں، ٹوکیو میں پاکستانی سفارت خانے نے جاپان میں مقیم پاکستانیوں سے کہا کہ وہ جاپانی قوانین کی تعمیل کریں اور مذہبی تعمیراتی منصوبوں کو شروع کرنے سے پہلے مطلوبہ اجازت نامے حاصل کریں، اپنے آپ کو کسی ایسے شخص سے دور رکھیں جو مقامی ضوابط پر پورا نہیں اترتے۔</p>
+    <div class="byline"><b>انٹرنیشنل ڈیسک</b> · ٹوکیو</div>
+    <div class="body">
+<p class="lead">جاپان میں پاکستانی سفارت خانے نے ملک میں مقیم پاکستانیوں سے عوامی طور پر تاکید کی ہے کہ وہ جاپانی قوانین کی تعمیل کریں – خاص طور پر مساجد اور دیگر مذہبی سہولیات کی تعمیر کے دوران – اور ایسے کسی بھی منصوبے کو شروع کرنے سے پہلے مقامی حکام سے ضروری اجازت نامے حاصل کریں۔</p><p>یہ ایڈوائزری 31 مئی 2026 کو ایک عوامی بیان میں جاری کی گئی تھی اور یہ Kawagoe میں ایک تنازعہ کے پس منظر میں سامنے آئی ہے، جہاں ایک مسجد سے متعلق منصوبے کی اطلاع کے مطابق ریگولیٹری تعمیل پر سوالات اٹھائے گئے ہیں۔</p><h3>سفارت خانے نے کیا کہا</h3><p>اپنے بیان میں، سفارت خانہ جاپان میں پوری پاکستانی کمیونٹی سے "پرزور اپیل کرتا ہے" کہ وہ مساجد کی تعمیر سمیت تمام معاملات میں جاپانی قوانین پر عمل کریں۔ اس نے زور دیا کہ مقامی حکومتوں سے مطلوبہ اجازت نامے حاصل کیے بغیر کوئی بھی تعمیر نہیں کی جانی چاہیے۔</p><p>سفارت خانے نے مزید کہا کہ اس کا کسی بھی ایسے منصوبے میں "کوئی ملوث نہیں ہے" جو متعلقہ مقامی حکومتوں کے قوانین اور ضوابط کی تعمیل نہیں کرتے ہیں - واضح طور پر، اس میں کہا گیا، 3 اپریل 2026 کو کاواگو میں منعقد ہونے والی تقریب میں۔</p><p></p><p></p><h3>کاواگو سیاق و سباق</h3><p>سفارت خانے کے اپنے اکاؤنٹ کے مطابق، پاکستانی سفیر نے 3 اپریل 2026 کو ہونے والے کاواگو ایونٹ کی دعوت اس معلومات کی بنیاد پر قبول کی تھی کہ متعلقہ عمارت کے لیے جاپانی قانون کے مطابق تمام مطلوبہ اجازت نامے حاصل کیے گئے تھے۔ اس منصوبے کی ریگولیٹری حیثیت پر سوالات بعد میں مقامی رپورٹنگ میں سامنے آئے۔</p><p>سفارت خانے نے اب کہا ہے کہ اس طرح کے منصوبوں کی قانونی حیثیت کے بارے میں معلومات کو شفاف طریقے سے پہنچایا جانا چاہیے - دونوں پاکستانی کمیونٹی کے اراکین اور آس پاس کے علاقوں کے رہائشیوں کو - تاکہ تعمیل کی تصدیق تمام اسٹیک ہولڈرز کر سکیں۔</p><h3>تعاون کی اپیل</h3><p>یہ ایڈوائزری جاپان میں پاکستانی کمیونٹی سے جاپانی حکام کے ساتھ فوری تعاون کرنے کی اپیل کے ساتھ ختم ہوتی ہے، خاص طور پر بیان میں بیان کردہ نوعیت کے معاملات میں۔ سفارت خانے نے اسے نہ صرف کسی بھی تعمیراتی منصوبے کی منصوبہ بندی کے مرحلے میں بلکہ اس کے بعد بھی ضروری قرار دیا۔</p><h3>بیان قابل ذکر کیوں ہے؟</h3><p>اس نوعیت کے عوامی مشورے، جس میں ایک سفارت خانہ واضح طور پر اپنے آپ کو اپنی کمیونٹی کے نام سے منسوب واقعات سے دور رکھتا ہے، غیر معمولی ہیں۔ یہ بیان پاکستان کے سفارتی مشن کی جانب سے مقامی قانون کی تعمیل کو اجاگر کرنے اور سفارت خانے کے کردار اور جاپان کے ریگولیٹری فریم ورک سے باہر آنے والے انفرادی کمیونٹی پروجیکٹس کے درمیان ایک واضح لکیر کھینچنے کے لیے ایک دانستہ کوشش کی نشاندہی کرتا ہے۔</p><h3>آگے کی سڑک</h3><p>جاپان میں پاکستانی کمیونٹی کے لیے یہ ایڈوائزری ایک رسمی یاد دہانی کے مترادف ہے کہ بیرون ملک مذہبی بنیادی ڈھانچے کے منصوبے میزبان ملک کے قانونی نظام کے اندر مکمل طور پر بیٹھتے ہیں۔ جاپانی مقامی حکام کے لیے، سفارت خانے کا بیان ایک واضح دعوت ہے کہ وہ براہِ راست کمیونٹی پروجیکٹس کے ساتھ منسلک ہو جائے جہاں تعمیل کے سوالات اٹھتے ہیں۔</p><p>آیا کاواگو کے معاملے کے نتیجے میں جاپانی حکام کی طرف سے کسی مزید ریگولیٹری کارروائی کا نتیجہ عوامی رپورٹنگ سے ابھی تک واضح نہیں ہے۔ سفارت خانے کا بیان، فی الحال، کسی ایک منصوبے کی تفصیلات کے بجائے روک تھام پر مرکوز ہے۔</p>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · دنیا Desk</span><span>© 2026 Bharat Samvad Publications</span><span>صفحہ 4</span>
+    </div>
+  </div>
+  </div>
+
+<script>
+function downloadAsPDF() {
+    let headline = document.querySelector(".headline") ? 
+                   document.querySelector(".headline").textContent.trim() : "Article";
+    
+    let cleanTitle = headline
+        .replace(/[^a-zA-Z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
+        .toLowerCase()
+        .substring(0, 60);
+    
+    const filename = "2026-06-01-page4-" + cleanTitle + ".pdf";
+
+    const toast = document.createElement("div");
+    toast.style.cssText = "position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;z-index:10000;font-size:1rem;";
+    toast.textContent = "Opening Print to PDF...";
+    document.body.appendChild(toast);
+
+    setTimeout(() => {
+        toast.remove();
+        window.print();
+    }, 600);
+}
+
+function setLang(l){
+  document.querySelectorAll(".langblock").forEach(b => {
+    b.classList.toggle("show", b.dataset.lang === l);
+  });
+  document.querySelectorAll(".langbar button").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.l === l);
+  });
+}
+document.addEventListener("DOMContentLoaded", function(){
+  var s='en'; 
+  try{s=localStorage.getItem('bs_lang')||'en';}catch(e){}
+  setLang(s);
+});
+</script>
+
+</body>
+</html>

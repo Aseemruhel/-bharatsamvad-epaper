@@ -1,0 +1,195 @@
+{
+  "hash": "4c2d5efa36a4f932",
+  "t": {
+    "fm.section": {
+      "hi": "दुनिया",
+      "en": "World",
+      "ur": "دنیا"
+    },
+    "fm.kicker": {
+      "hi": "कूटनीति · धार्मिक मामले",
+      "en": "Diplomacy · Religious Affairs",
+      "ur": "سفارت کاری · مذہبی امور"
+    },
+    "fm.byline": {
+      "hi": "इंटरनेशनल डेस्क",
+      "en": "International Desk",
+      "ur": "انٹرنیشنل ڈیسک"
+    },
+    "fm.location": {
+      "hi": "टोक्यो",
+      "en": "Tokyo",
+      "ur": "ٹوکیو"
+    },
+    "fm.headline": {
+      "hi": "जापान में पाकिस्तान दूतावास ने कावागो विवाद के बाद नागरिकों से मस्जिद निर्माण पर स्थानीय कानूनों का पालन करने का आग्रह किया",
+      "en": "Pakistan Embassy in Japan urges citizens to follow local laws on mosque construction after Kawagoe controversy",
+      "ur": "جاپان میں پاکستانی سفارت خانے نے کاواگو تنازعہ کے بعد شہریوں سے مسجد کی تعمیر سے متعلق مقامی قوانین پر عمل کرنے کی اپیل کی ہے۔"
+    },
+    "fm.subdeck": {
+      "hi": "31 मई 2026 को जारी एक सलाह में, टोक्यो में पाकिस्तान दूतावास ने जापान में पाकिस्तानी निवासियों को जापानी कानूनों का पालन करने और धार्मिक निर्माण परियोजनाओं को शुरू करने से पहले आवश्यक परमिट प्राप्त करने के लिए कहा, जो स्थानीय नियमों को पूरा नहीं करते हैं, उनसे खुद को दूर रखें।",
+      "en": "In an advisory issued on 31 May 2026, the Pakistan Embassy in Tokyo asked Pakistani residents in Japan to comply with Japanese laws and obtain required permits before undertaking religious construction projects, distancing itself from any that do not meet local regulations.",
+      "ur": "31 مئی 2026 کو جاری کردہ ایک ایڈوائزری میں، ٹوکیو میں پاکستانی سفارت خانے نے جاپان میں مقیم پاکستانیوں سے کہا کہ وہ جاپانی قوانین کی تعمیل کریں اور مذہبی تعمیراتی منصوبوں کو شروع کرنے سے پہلے مطلوبہ اجازت نامے حاصل کریں، اپنے آپ کو کسی ایسے شخص سے دور رکھیں جو مقامی ضوابط پر پورا نہیں اترتے۔"
+    },
+    "b0": {
+      "hi": "जापान में पाकिस्तान दूतावास ने सार्वजनिक रूप से देश में पाकिस्तानी निवासियों से जापानी कानूनों का पालन करने का आग्रह किया है - विशेष रूप से मस्जिदों और अन्य धार्मिक सुविधाओं का निर्माण करते समय - और ऐसी किसी भी परियोजना को शुरू करने से पहले स्थानीय अधिकारियों से आवश्यक परमिट प्राप्त करने के लिए।",
+      "en": "The Pakistan Embassy in Japan has publicly urged Pakistani residents in the country to comply with Japanese laws — particularly when constructing mosques and other religious facilities — and to obtain the necessary permits from local authorities before initiating any such project.",
+      "ur": "جاپان میں پاکستانی سفارت خانے نے ملک میں مقیم پاکستانیوں سے عوامی طور پر تاکید کی ہے کہ وہ جاپانی قوانین کی تعمیل کریں – خاص طور پر مساجد اور دیگر مذہبی سہولیات کی تعمیر کے دوران – اور ایسے کسی بھی منصوبے کو شروع کرنے سے پہلے مقامی حکام سے ضروری اجازت نامے حاصل کریں۔"
+    },
+    "b1": {
+      "hi": "यह सलाह 31 मई 2026 को एक सार्वजनिक बयान में जारी की गई थी और यह कावागो में एक विवाद की पृष्ठभूमि में आई है, जहां एक मस्जिद से संबंधित परियोजना के बारे में बताया गया है कि इसने नियामक अनुपालन पर सवाल उठाए हैं।",
+      "en": "The advisory was issued in a public statement on 31 May 2026 and comes against the backdrop of a controversy in Kawagoe, where a mosque-related project is reported to have raised questions over regulatory compliance.",
+      "ur": "یہ ایڈوائزری 31 مئی 2026 کو ایک عوامی بیان میں جاری کی گئی تھی اور یہ Kawagoe میں ایک تنازعہ کے پس منظر میں سامنے آئی ہے، جہاں ایک مسجد سے متعلق منصوبے کی اطلاع کے مطابق ریگولیٹری تعمیل پر سوالات اٹھائے گئے ہیں۔"
+    },
+    "b2": {
+      "hi": "दूतावास ने क्या कहा",
+      "en": "What the embassy said",
+      "ur": "سفارت خانے نے کیا کہا"
+    },
+    "b3": {
+      "hi": "अपने बयान में, दूतावास ने जापान में पूरे पाकिस्तानी समुदाय से मस्जिदों के निर्माण सहित सभी मामलों में जापानी कानूनों का पालन करने का \"जोरदार आग्रह\" किया। इसमें इस बात पर जोर दिया गया कि स्थानीय सरकारों से आवश्यक परमिट प्राप्त किए बिना कोई भी निर्माण नहीं किया जाना चाहिए।",
+      "en": "In its statement, the embassy \"strongly urges\" the entire Pakistani community in Japan to follow Japanese laws in all matters, including the construction of mosques. It stressed that no construction should be undertaken without first obtaining the required permits from local governments.",
+      "ur": "اپنے بیان میں، سفارت خانہ جاپان میں پوری پاکستانی کمیونٹی سے \"پرزور اپیل کرتا ہے\" کہ وہ مساجد کی تعمیر سمیت تمام معاملات میں جاپانی قوانین پر عمل کریں۔ اس نے زور دیا کہ مقامی حکومتوں سے مطلوبہ اجازت نامے حاصل کیے بغیر کوئی بھی تعمیر نہیں کی جانی چاہیے۔"
+    },
+    "b4": {
+      "hi": "दूतावास ने आगे कहा कि ऐसी किसी भी परियोजना में उसकी \"कोई भागीदारी नहीं\" है जो संबंधित स्थानीय सरकारों के कानूनों और विनियमों का पालन नहीं करती है - इसमें स्पष्ट रूप से, 3 अप्रैल 2026 को कावागो में आयोजित कार्यक्रम भी शामिल है।",
+      "en": "The embassy further stated that it has \"no involvement whatsoever\" in any projects that do not comply with the laws and regulations of the respective local governments — explicitly including, it said, the event held in Kawagoe on 3 April 2026.",
+      "ur": "سفارت خانے نے مزید کہا کہ اس کا کسی بھی ایسے منصوبے میں \"کوئی ملوث نہیں ہے\" جو متعلقہ مقامی حکومتوں کے قوانین اور ضوابط کی تعمیل نہیں کرتے ہیں - واضح طور پر، اس میں کہا گیا، 3 اپریل 2026 کو کاواگو میں منعقد ہونے والی تقریب میں۔"
+    },
+    "b5.title": {
+      "hi": "सलाह एक नज़र में",
+      "en": "The Advisory at a Glance",
+      "ur": "ایک نظر میں ایڈوائزری"
+    },
+    "b5.itemlbl.0": {
+      "hi": "जारीकर्ता",
+      "en": "Issued by",
+      "ur": "جاری کردہ"
+    },
+    "b5.itemval.0": {
+      "hi": "पाकिस्तान दूतावास, टोक्यो",
+      "en": "Pakistan Embassy, Tokyo",
+      "ur": "پاکستانی سفارت خانہ، ٹوکیو"
+    },
+    "b5.itemlbl.1": {
+      "hi": "बयान की तारीख",
+      "en": "Date of statement",
+      "ur": "بیان کی تاریخ"
+    },
+    "b5.itemval.1": {
+      "hi": "31 मई 2026",
+      "en": "31 May 2026",
+      "ur": "31 مئی 2026"
+    },
+    "b5.itemlbl.2": {
+      "hi": "चालू कर देना",
+      "en": "Trigger",
+      "ur": "محرک"
+    },
+    "b5.itemval.2": {
+      "hi": "कावागो परियोजना पर रिपोर्ट किए गए परमिट-अनुपालन प्रश्न",
+      "en": "Reported permit-compliance questions over a Kawagoe project",
+      "ur": "کاواگو پروجیکٹ پر اجازت نامے کی تعمیل کے سوالات کی اطلاع دی گئی۔"
+    },
+    "b5.itemlbl.3": {
+      "hi": "मूल संदेश",
+      "en": "Core message",
+      "ur": "بنیادی پیغام"
+    },
+    "b5.itemval.3": {
+      "hi": "जापानी कानूनों का पालन करें; निर्माण से पहले परमिट प्राप्त करें",
+      "en": "Follow Japanese laws; obtain permits before construction",
+      "ur": "جاپانی قوانین پر عمل کریں؛ تعمیر سے پہلے اجازت نامہ حاصل کریں۔"
+    },
+    "b5.itemlbl.4": {
+      "hi": "दूरी",
+      "en": "Distancing",
+      "ur": "دوری"
+    },
+    "b5.itemval.4": {
+      "hi": "दूतावास का कहना है कि गैर-अनुपालक परियोजनाओं में उसकी कोई भागीदारी नहीं है",
+      "en": "Embassy says it has no involvement in non-compliant projects",
+      "ur": "سفارت خانے کا کہنا ہے کہ اس کا غیر تعمیل شدہ منصوبوں میں کوئی دخل نہیں ہے۔"
+    },
+    "b5.itemlbl.5": {
+      "hi": "राजदूत की पूर्व उपस्थिति",
+      "en": "Ambassador's prior attendance",
+      "ur": "سفیر کی پیشگی حاضری"
+    },
+    "b5.itemval.5": {
+      "hi": "3 अप्रैल 2026 को कावागो कार्यक्रम में इस समझ के साथ भाग लिया गया कि आवश्यक परमिट प्राप्त कर लिए गए हैं",
+      "en": "Kawagoe event on 3 April 2026, attended on the understanding that required permits had been obtained",
+      "ur": "3 اپریل 2026 کو کاواگو ایونٹ، اس سمجھ پر شرکت کی کہ مطلوبہ اجازت نامے حاصل کر لیے گئے تھے۔"
+    },
+    "b5.itemlbl.6": {
+      "hi": "व्यापक पूछो",
+      "en": "Wider ask",
+      "ur": "وسیع تر پوچھیں۔"
+    },
+    "b5.itemval.6": {
+      "hi": "जापानी अधिकारियों के साथ पारदर्शितापूर्वक सहयोग करें",
+      "en": "Cooperate transparently with Japanese authorities",
+      "ur": "جاپانی حکام کے ساتھ شفاف تعاون کریں۔"
+    },
+    "b6.q": {
+      "hi": "\"जापान में पाकिस्तान का दूतावास जापान में रहने वाले सभी पाकिस्तानियों से मस्जिदों के निर्माण सहित सभी मामलों में जापानी कानूनों का पालन करने का आग्रह करता है।\"",
+      "en": "\"The Embassy of Pakistan in Japan strongly urges all Pakistanis residing in Japan to comply with Japanese laws in all matters, including the construction of mosques.\"",
+      "ur": "\"جاپان میں پاکستان کا سفارت خانہ جاپان میں مقیم تمام پاکستانیوں پر زور دیتا ہے کہ وہ مساجد کی تعمیر سمیت تمام معاملات میں جاپانی قوانین کی پابندی کریں۔\""
+    },
+    "b6.c": {
+      "hi": "- जापान में पाकिस्तान दूतावास, आधिकारिक बयान, 31 मई 2026",
+      "en": "— Pakistan Embassy in Japan, official statement, 31 May 2026",
+      "ur": "— جاپان میں پاکستانی سفارت خانہ، سرکاری بیان، 31 مئی 2026"
+    },
+    "b7": {
+      "hi": "कावागो प्रसंग",
+      "en": "The Kawagoe context",
+      "ur": "کاواگو سیاق و سباق"
+    },
+    "b8": {
+      "hi": "दूतावास के अपने खाते के अनुसार, पाकिस्तानी राजदूत ने 3 अप्रैल 2026 के कावागो कार्यक्रम के निमंत्रण को इस जानकारी के आधार पर स्वीकार कर लिया था कि संबंधित भवन के लिए जापानी कानून के अनुसार सभी आवश्यक परमिट प्राप्त कर लिए गए थे। परियोजना की विनियामक स्थिति पर प्रश्न बाद में स्थानीय रिपोर्टिंग में सामने आए।",
+      "en": "According to the embassy's own account, the Pakistani Ambassador had accepted an invitation to the Kawagoe event of 3 April 2026 on the basis of information that all required permits, in accordance with Japanese law, had been obtained for the building concerned. Questions over the regulatory status of the project subsequently surfaced in local reporting.",
+      "ur": "سفارت خانے کے اپنے اکاؤنٹ کے مطابق، پاکستانی سفیر نے 3 اپریل 2026 کو ہونے والے کاواگو ایونٹ کی دعوت اس معلومات کی بنیاد پر قبول کی تھی کہ متعلقہ عمارت کے لیے جاپانی قانون کے مطابق تمام مطلوبہ اجازت نامے حاصل کیے گئے تھے۔ اس منصوبے کی ریگولیٹری حیثیت پر سوالات بعد میں مقامی رپورٹنگ میں سامنے آئے۔"
+    },
+    "b9": {
+      "hi": "दूतावास ने अब कहा है कि ऐसी परियोजनाओं की कानूनी स्थिति की जानकारी पारदर्शी रूप से पाकिस्तानी समुदाय के सदस्यों और आसपास के क्षेत्रों के निवासियों दोनों को दी जानी चाहिए - ताकि सभी हितधारकों द्वारा अनुपालन को सत्यापित किया जा सके।",
+      "en": "The embassy has now said that information on the legal status of such projects should be communicated transparently — both to members of the Pakistani community and to residents of the surrounding areas — so that compliance can be verified by all stakeholders.",
+      "ur": "سفارت خانے نے اب کہا ہے کہ اس طرح کے منصوبوں کی قانونی حیثیت کے بارے میں معلومات کو شفاف طریقے سے پہنچایا جانا چاہیے - دونوں پاکستانی کمیونٹی کے اراکین اور آس پاس کے علاقوں کے رہائشیوں کو - تاکہ تعمیل کی تصدیق تمام اسٹیک ہولڈرز کر سکیں۔"
+    },
+    "b10": {
+      "hi": "सहयोग का आह्वान",
+      "en": "A call for cooperation",
+      "ur": "تعاون کی اپیل"
+    },
+    "b11": {
+      "hi": "एडवाइजरी जापान में पाकिस्तानी समुदाय से जापानी अधिकारियों के साथ तुरंत सहयोग करने के आह्वान के साथ समाप्त होती है, खासकर बयान में वर्णित प्रकार के मामलों में। दूतावास ने इसे न केवल किसी भी निर्माण परियोजना के नियोजन चरण में बल्कि उसके दौरान और उसके बाद भी आवश्यक बताया।",
+      "en": "The advisory closes with a call to the Pakistani community in Japan to cooperate promptly with Japanese authorities, particularly in cases of the kind described in the statement. The embassy framed this as essential not only at the planning stage of any construction project but throughout and after it.",
+      "ur": "یہ ایڈوائزری جاپان میں پاکستانی کمیونٹی سے جاپانی حکام کے ساتھ فوری تعاون کرنے کی اپیل کے ساتھ ختم ہوتی ہے، خاص طور پر بیان میں بیان کردہ نوعیت کے معاملات میں۔ سفارت خانے نے اسے نہ صرف کسی بھی تعمیراتی منصوبے کی منصوبہ بندی کے مرحلے میں بلکہ اس کے بعد بھی ضروری قرار دیا۔"
+    },
+    "b12": {
+      "hi": "क्यों बयान उल्लेखनीय है",
+      "en": "Why the statement is notable",
+      "ur": "بیان قابل ذکر کیوں ہے؟"
+    },
+    "b13": {
+      "hi": "इस प्रकृति की सार्वजनिक सलाह, जिसमें एक दूतावास स्पष्ट रूप से अपने समुदाय से जुड़ी नामित घटनाओं से खुद को दूर रखता है, असामान्य हैं। यह बयान स्थानीय कानून के अनुपालन को रेखांकित करने और दूतावास की भूमिका और जापान के नियामक ढांचे के बाहर आने वाली व्यक्तिगत सामुदायिक परियोजनाओं के बीच एक स्पष्ट रेखा खींचने के लिए पाकिस्तान के राजनयिक मिशन द्वारा एक जानबूझकर किए गए प्रयास का संकेत देता है।",
+      "en": "Public advisories of this nature, in which an embassy explicitly distances itself from named events involving its own community, are uncommon. The statement signals a deliberate effort by Pakistan's diplomatic mission to underscore local-law compliance, and to draw a clear line between the embassy's role and individual community projects that fall outside Japan's regulatory framework.",
+      "ur": "اس نوعیت کے عوامی مشورے، جس میں ایک سفارت خانہ واضح طور پر اپنے آپ کو اپنی کمیونٹی کے نام سے منسوب واقعات سے دور رکھتا ہے، غیر معمولی ہیں۔ یہ بیان پاکستان کے سفارتی مشن کی جانب سے مقامی قانون کی تعمیل کو اجاگر کرنے اور سفارت خانے کے کردار اور جاپان کے ریگولیٹری فریم ورک سے باہر آنے والے انفرادی کمیونٹی پروجیکٹس کے درمیان ایک واضح لکیر کھینچنے کے لیے ایک دانستہ کوشش کی نشاندہی کرتا ہے۔"
+    },
+    "b14": {
+      "hi": "आगे का रास्ता",
+      "en": "The road ahead",
+      "ur": "آگے کی سڑک"
+    },
+    "b15": {
+      "hi": "जापान में पाकिस्तानी समुदाय के लिए, यह सलाह एक औपचारिक अनुस्मारक के समान है कि विदेशों में धार्मिक-बुनियादी ढांचा परियोजनाएं मेजबान देश की कानूनी प्रणाली के अंतर्गत आती हैं। जापानी स्थानीय अधिकारियों के लिए, दूतावास का बयान उन सामुदायिक परियोजनाओं से सीधे जुड़ने का एक स्पष्ट निमंत्रण है जहां अनुपालन संबंधी प्रश्न उठते हैं।",
+      "en": "For the Pakistani community in Japan, the advisory amounts to a formal reminder that religious-infrastructure projects abroad sit squarely within the host country's legal system. For Japanese local authorities, the embassy's statement is an explicit invitation to engage directly with community projects where compliance questions arise.",
+      "ur": "جاپان میں پاکستانی کمیونٹی کے لیے یہ ایڈوائزری ایک رسمی یاد دہانی کے مترادف ہے کہ بیرون ملک مذہبی بنیادی ڈھانچے کے منصوبے میزبان ملک کے قانونی نظام کے اندر مکمل طور پر بیٹھتے ہیں۔ جاپانی مقامی حکام کے لیے، سفارت خانے کا بیان ایک واضح دعوت ہے کہ وہ براہِ راست کمیونٹی پروجیکٹس کے ساتھ منسلک ہو جائے جہاں تعمیل کے سوالات اٹھتے ہیں۔"
+    },
+    "b16": {
+      "hi": "क्या कावागो मामले के परिणामस्वरूप जापानी अधिकारियों द्वारा कोई और नियामक कार्रवाई की जाएगी, यह अभी तक सार्वजनिक रिपोर्टिंग से स्पष्ट नहीं है। फिलहाल दूतावास का बयान किसी एक परियोजना की बारीकियों के बजाय रोकथाम पर केंद्रित है।",
+      "en": "Whether the Kawagoe matter results in any further regulatory action by Japanese authorities is not yet clear from public reporting. The embassy's statement, for now, focuses on prevention rather than the specifics of any one project.",
+      "ur": "آیا کاواگو کے معاملے کے نتیجے میں جاپانی حکام کی طرف سے کسی مزید ریگولیٹری کارروائی کا نتیجہ عوامی رپورٹنگ سے ابھی تک واضح نہیں ہے۔ سفارت خانے کا بیان، فی الحال، کسی ایک منصوبے کی تفصیلات کے بجائے روک تھام پر مرکوز ہے۔"
+    }
+  }
+}
