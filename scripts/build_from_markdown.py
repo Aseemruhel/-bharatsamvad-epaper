@@ -249,7 +249,7 @@ def build_article(md_path):
         cache_file.write_text(json.dumps({"hash": h, "t": T}, ensure_ascii=False, indent=2), encoding="utf-8")
 
     date_strs = date_strings(fm["date"])
-    langs = {l: build_lang_dict(l, fm, blocks, T, date_strs) for l in ("hi","en","ur")}
+    langs = {l: build_lang_dict(l, fm, blocks, T, date_strs) for l in ("en","hi","ur")}
 
     page = str(fm.get("page", "1"))
     out_name = f"bharatsamvad-{fm['date']}-page{page}.html"
@@ -262,8 +262,8 @@ def build_article(md_path):
         "href": out_name,
         "date": date_strs,
         "page": page,
-        "section": {l: T["fm.section"][l] for l in ("hi","en","ur")},
-        "headline": {l: T["fm.headline"][l] for l in ("hi","en","ur")},
+        "section": {l: T["fm.section"][l] for l in ("en","hi","ur")},
+        "headline": {l: T["fm.headline"][l] for l in ("en","hi","ur")},
         "date_iso": fm["date"],
     }
 
@@ -287,7 +287,7 @@ def regenerate_index(articles):
                     "href": a["href"],
                     "label": {
                         l: f"{ {'hi':'पृष्ठ','en':'Page','ur':'صفحہ'}[l] } {a['page']} · {a['section'][l]}"
-                        for l in ("hi", "en", "ur")
+                        for l in ("en", "hi", "ur")
                     },
                     "title": a["headline"]
                 }
