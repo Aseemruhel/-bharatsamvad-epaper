@@ -1,0 +1,225 @@
+{
+  "hash": "7771d0b3a6b6d2a1",
+  "t": {
+    "fm.section": {
+      "hi": "व्यापार",
+      "en": "Business",
+      "ur": "کاروبار"
+    },
+    "fm.kicker": {
+      "hi": "अर्थव्यवस्था · विनिर्माण",
+      "en": "Economy · Manufacturing",
+      "ur": "معیشت · مینوفیکچرنگ"
+    },
+    "fm.byline": {
+      "hi": "व्यापार संवाददाता",
+      "en": "Business Correspondent",
+      "ur": "کاروباری نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "मुंबई",
+      "en": "Mumbai",
+      "ur": "ممبئی"
+    },
+    "fm.headline": {
+      "hi": "मई में भारत की विनिर्माण वृद्धि तीन महीने के उच्चतम स्तर पर पहुंच गई क्योंकि घरेलू मांग ने लागत दबाव को कम कर दिया",
+      "en": "India's manufacturing growth quickens to three-month high in May as domestic demand offsets cost pressures",
+      "ur": "ہندوستان کی مینوفیکچرنگ ترقی مئی میں تین ماہ کی بلند ترین سطح پر پہنچ گئی کیونکہ گھریلو طلب لاگت کے دباؤ کو پورا کرتی ہے"
+    },
+    "fm.subdeck": {
+      "hi": "एचएसबीसी इंडिया मैन्युफैक्चरिंग पीएमआई अप्रैल के 54.7 से बढ़कर मई में 55.0 हो गया, जो फरवरी के बाद से फैक्ट्री स्वास्थ्य में सबसे मजबूत सुधार को दर्शाता है। पूंजीगत और मध्यवर्ती वस्तुओं ने तेजी का नेतृत्व किया, भले ही इनपुट लागत 45 महीने के उच्चतम स्तर पर पहुंच गई, एचएसबीसी ने अनसुलझे मध्य पूर्व संघर्ष के बीच एहतियाती भंडारण की ओर इशारा किया।",
+      "en": "The HSBC India Manufacturing PMI rose to 55.0 in May from 54.7 in April, marking the strongest improvement in factory health since February. Capital and intermediate goods led the acceleration even as input costs hit a 45-month high, with HSBC pointing to precautionary stockpiling amid an unresolved Middle East conflict.",
+      "ur": "HSBC انڈیا مینوفیکچرنگ PMI اپریل میں 54.7 سے مئی میں بڑھ کر 55.0 ہو گیا، جو فروری کے بعد فیکٹری کی صحت میں سب سے مضبوط بہتری کی نشاندہی کرتا ہے۔ کیپٹل اور انٹرمیڈیٹ گڈز نے اس تیزی کی قیادت کی یہاں تک کہ ان پٹ لاگت 45 ماہ کی بلند ترین سطح پر پہنچ گئی، HSBC نے مشرق وسطیٰ کے غیر حل شدہ تنازعہ کے دوران احتیاطی ذخیرہ اندوزی کی طرف اشارہ کیا۔"
+    },
+    "b0": {
+      "hi": "भारत का विनिर्माण क्षेत्र मई में तीन महीनों में सबसे तेज गति से बढ़ा, एचएसबीसी इंडिया मैन्युफैक्चरिंग परचेजिंग मैनेजर्स इंडेक्स अप्रैल में 54.7 से बढ़कर 55.0 हो गया। मजबूत घरेलू मांग, नए ऑर्डर और आउटपुट वृद्धि से प्रेरित यह सुधार तेजी से बढ़ी इनपुट लागत के बावजूद आया, जिसके लिए माल उत्पादकों ने चल रहे भू-राजनीतिक तनाव को जिम्मेदार ठहराया।",
+      "en": "India's manufacturing sector expanded at its fastest pace in three months in May, with the HSBC India Manufacturing Purchasing Managers' Index rising to 55.0 from 54.7 in April. The improvement, driven by stronger domestic demand, new orders and output growth, came despite sharply elevated input costs that goods producers attributed to ongoing geopolitical tensions.",
+      "ur": "ہندوستان کا مینوفیکچرنگ سیکٹر مئی میں تین مہینوں میں اپنی سب سے تیز رفتاری سے پھیل گیا، HSBC انڈیا مینوفیکچرنگ پرچیزنگ مینیجرز انڈیکس اپریل میں 54.7 سے بڑھ کر 55.0 تک پہنچ گیا۔ بہتری، مضبوط گھریلو طلب، نئے آرڈرز اور پیداوار میں اضافے کے باعث، تیزی سے بڑھی ہوئی ان پٹ لاگت کے باوجود سامنے آئی جسے سامان تیار کرنے والوں نے جاری جغرافیائی سیاسی تناؤ کو قرار دیا۔"
+    },
+    "b1": {
+      "hi": "एसएंडपी ग्लोबल द्वारा सोमवार को जारी अंतिम मई रीडिंग भी महीने की शुरुआत में जारी 54.3 के फ्लैश अनुमान से ऊपर थी। पीएमआई का 50 से ऊपर पढ़ना विस्तार को दर्शाता है; 50 से नीचे संकुचन को दर्शाता है।",
+      "en": "The final May reading, released on Monday by S&P Global, was also above the flash estimate of 54.3 released earlier in the month. A PMI reading above 50 denotes expansion; below 50 denotes contraction.",
+      "ur": "ایس اینڈ پی گلوبل کی طرف سے پیر کو جاری کردہ مئی کی آخری ریڈنگ بھی اس مہینے کے شروع میں جاری کیے گئے 54.3 کے فلیش تخمینے سے اوپر تھی۔ PMI 50 سے اوپر پڑھنا توسیع کو ظاہر کرتا ہے۔ 50 سے نیچے سنکچن کو ظاہر کرتا ہے۔"
+    },
+    "b2": {
+      "hi": "चार साल के निचले स्तर से नीचे",
+      "en": "Off a four-year low",
+      "ur": "چار سال کی کم ترین سطح پر"
+    },
+    "b3": {
+      "hi": "मई का आंकड़ा मार्च की तुलना में एक सार्थक सुधार दर्शाता है, जब सूचकांक 53.9 तक फिसल गया था - जो लगभग चार वर्षों में व्यावसायिक स्थितियों में सबसे कमजोर सुधार था। अप्रैल की 54.7 रीडिंग ने सुधार शुरू कर दिया था, और मई ने अब इसे बढ़ा दिया है। पीएमआई को एसएंडपी ग्लोबल द्वारा पूरे भारत में लगभग 400 क्रय प्रबंधकों के एक पैनल की प्रतिक्रियाओं से संकलित किया गया है, यह दौर 8 से 22 मई के बीच आयोजित किया गया था।",
+      "en": "The May figure marks a meaningful pickup from March, when the index had slipped to 53.9 — the weakest improvement in business conditions in nearly four years. April's reading of 54.7 had begun the recovery, and May has now extended it. The PMI is compiled by S&P Global from responses to a panel of around 400 purchasing managers across India, with this round conducted between 8 and 22 May.",
+      "ur": "مئی کا اعداد و شمار مارچ سے ایک بامعنی پک اپ کی نشاندہی کرتا ہے، جب انڈیکس 53.9 تک گر گیا تھا - تقریبا چار سالوں میں کاروباری حالات میں سب سے کمزور بہتری۔ اپریل کی 54.7 کی ریڈنگ نے بحالی شروع کر دی تھی، اور مئی نے اب اسے بڑھا دیا ہے۔ PMI کو S&P Global نے ہندوستان بھر میں تقریباً 400 پرچیزنگ مینیجرز کے پینل کے جوابات سے مرتب کیا ہے، اس راؤنڈ کا انعقاد 8 اور 22 مئی کے درمیان کیا گیا ہے۔"
+    },
+    "b4.title": {
+      "hi": "मई पाठन एक नज़र में",
+      "en": "The May Reading at a Glance",
+      "ur": "ایک نظر میں مئی پڑھنا"
+    },
+    "b4.itemlbl.0": {
+      "hi": "हेडलाइन पीएमआई",
+      "en": "Headline PMI",
+      "ur": "ہیڈ لائن PMI"
+    },
+    "b4.itemval.0": {
+      "hi": "55.0 (अंतिम), बनाम अप्रैल में 54.7 और मार्च में 53.9",
+      "en": "55.0 (final), versus 54.7 in April and 53.9 in March",
+      "ur": "55.0 (حتمی)، بمقابلہ اپریل میں 54.7 اور مارچ میں 53.9"
+    },
+    "b4.itemlbl.1": {
+      "hi": "फ़्लैश अनुमान",
+      "en": "Flash estimate",
+      "ur": "فلیش کا تخمینہ"
+    },
+    "b4.itemval.1": {
+      "hi": "54.3 (अंतिम पाठन में उच्चतर संशोधित)",
+      "en": "54.3 (revised higher in final reading)",
+      "ur": "54.3 (حتمی پڑھنے میں نظر ثانی شدہ اعلی)"
+    },
+    "b4.itemlbl.2": {
+      "hi": "तीन महीने का उच्चतम",
+      "en": "Three-month high",
+      "ur": "تین ماہ کی بلند ترین سطح"
+    },
+    "b4.itemval.2": {
+      "hi": "फ़रवरी 56.9 के बाद से सर्वश्रेष्ठ प्रिंट",
+      "en": "Best print since February's 56.9",
+      "ur": "فروری کے 56.9 کے بعد سے بہترین پرنٹ"
+    },
+    "b4.itemlbl.3": {
+      "hi": "सेक्टर लीडर",
+      "en": "Sector leader",
+      "ur": "سیکٹر لیڈر"
+    },
+    "b4.itemval.3": {
+      "hi": "पूँजीगत वस्तुएँ, उसके बाद मध्यवर्ती वस्तुएँ आती हैं",
+      "en": "Capital goods, followed by intermediate goods",
+      "ur": "کیپٹل گڈز، اس کے بعد انٹرمیڈیٹ گڈز"
+    },
+    "b4.itemlbl.4": {
+      "hi": "सेक्टर पिछड़ा",
+      "en": "Sector laggard",
+      "ur": "سیکٹر پسماندہ"
+    },
+    "b4.itemval.4": {
+      "hi": "उपभोक्ता वस्तुएँ (धीमी विस्तार)",
+      "en": "Consumer goods (slower expansion)",
+      "ur": "اشیائے صرف (سست توسیع)"
+    },
+    "b4.itemlbl.5": {
+      "hi": "इनपुट लागत मुद्रास्फीति",
+      "en": "Input cost inflation",
+      "ur": "ان پٹ لاگت کی افراط زر"
+    },
+    "b4.itemval.5": {
+      "hi": "45 महीने का उच्चतम",
+      "en": "45-month high",
+      "ur": "45 ماہ کی بلند ترین سطح"
+    },
+    "b4.itemlbl.6": {
+      "hi": "तैयार माल का स्टॉक",
+      "en": "Stocks of finished goods",
+      "ur": "تیار مال کا ذخیرہ"
+    },
+    "b4.itemval.6": {
+      "hi": "11 वर्षों में सबसे तेज़ गति से बढ़ा",
+      "en": "Rose at the fastest pace in 11 years",
+      "ur": "11 سالوں میں سب سے تیز رفتار سے گلاب"
+    },
+    "b4.itemlbl.7": {
+      "hi": "सर्वेक्षण आधार",
+      "en": "Survey base",
+      "ur": "سروے کی بنیاد"
+    },
+    "b4.itemval.7": {
+      "hi": "लगभग 400 क्रय प्रबंधक, फील्डवर्क 8-22 मई",
+      "en": "Around 400 purchasing managers, fieldwork 8-22 May",
+      "ur": "تقریباً 400 پرچیزنگ مینیجر، فیلڈ ورک 8-22 مئی"
+    },
+    "b4.itemlbl.8": {
+      "hi": "द्वारा संकलित",
+      "en": "Compiled by",
+      "ur": "کی طرف سے مرتب"
+    },
+    "b4.itemval.8": {
+      "hi": "एस एंड पी ग्लोबल, एचएसबीसी द्वारा प्रायोजित",
+      "en": "S&P Global, sponsored by HSBC",
+      "ur": "S&P Global، HSBC کے زیر اہتمام"
+    },
+    "b5": {
+      "hi": "एक सेक्टर-स्तरीय कहानी",
+      "en": "A sector-level story",
+      "ur": "ایک سیکٹر لیول کی کہانی"
+    },
+    "b6": {
+      "hi": "शीर्षक संख्या के नीचे, डेटा एक स्तरित कहानी बताता है। पूंजीगत वस्तुओं के उत्पादकों ने तेजी का नेतृत्व किया, उसके बाद मध्यवर्ती सामान निर्माताओं ने - दोनों श्रेणियां आम तौर पर औद्योगिक और बुनियादी ढांचे की गतिविधि से जुड़ी हुई हैं। इसके विपरीत, उपभोक्ता सामान निर्माताओं ने मंदी की सूचना दी है, जिससे पता चलता है कि व्यापक विस्तार घरेलू मांग से कम और अपस्ट्रीम व्यवसाय और सरकार से जुड़े खर्च से अधिक हो रहा है।",
+      "en": "Beneath the headline number, the data tells a layered story. Producers of capital goods led the acceleration, followed by intermediate goods makers — both categories typically associated with industrial and infrastructure activity. Consumer goods makers, in contrast, reported a slowdown, suggesting that the broader expansion is being driven less by household demand and more by upstream business and government-linked spending.",
+      "ur": "سرخی نمبر کے نیچے، ڈیٹا پرتوں والی کہانی بتاتا ہے۔ کیپٹل گڈز کے پروڈیوسر نے اس تیزی کی قیادت کی، اس کے بعد درمیانی سامان بنانے والے - دونوں زمرے عام طور پر صنعتی اور بنیادی ڈھانچے کی سرگرمیوں سے وابستہ ہیں۔ اس کے برعکس اشیائے خوردونوش بنانے والوں نے سست روی کی اطلاع دی، جس سے یہ تجویز کیا گیا کہ وسیع پیمانے پر توسیع گھریلو طلب سے کم اور اپ اسٹریم کاروبار اور حکومت سے منسلک اخراجات سے زیادہ ہو رہی ہے۔"
+    },
+    "b7": {
+      "hi": "फरवरी के बाद से नए ऑर्डर और आउटपुट दोनों सबसे तेज गति से बढ़े। पैनलिस्टों ने इस तेजी का श्रेय अंतर्निहित मांग की ताकत, बुनियादी ढांचा परियोजनाओं और नई व्यावसायिक जीत को दिया।",
+      "en": "New orders and output both grew at the fastest pace since February. Panellists attributed the upturn to underlying demand strength, infrastructure projects and new business wins.",
+      "ur": "نئے آرڈرز اور آؤٹ پٹ دونوں فروری کے بعد سب سے تیز رفتاری سے بڑھے۔ پینلسٹس نے اس اضافے کو بنیادی مانگ کی طاقت، بنیادی ڈھانچے کے منصوبوں اور نئے کاروبار کی کامیابیوں کو قرار دیا۔"
+    },
+    "b8": {
+      "hi": "भंडारण और लागत कहानी",
+      "en": "Stockpiling and the cost story",
+      "ur": "ذخیرہ اندوزی اور لاگت کی کہانی"
+    },
+    "b9": {
+      "hi": "मई के आंकड़ों में सबसे महत्वपूर्ण संकेतों में से एक इन्वेंट्री पर है। तैयार माल के स्टॉक में लगातार दूसरे महीने वृद्धि हुई, संचय की गति कथित तौर पर 11 वर्षों में सबसे अधिक है - यह संकेत है कि तैयार माल के स्तर पर आपूर्ति तत्काल मांग से आगे चल रही है। इनपुट खरीदारी भी तीन महीने के उच्चतम स्तर पर बढ़ी, जो ऐतिहासिक प्रवृत्ति से काफी ऊपर है, क्योंकि कंपनियां आकस्मिक स्टॉक बनाने की कोशिश कर रही हैं।",
+      "en": "One of the more striking signals in the May data is on inventories. Stocks of finished goods rose for the second consecutive month, with the pace of accumulation reportedly the highest in 11 years — a sign that supply has been running ahead of immediate demand at the finished-goods level. Input buying also grew at a three-month high, well above the historical trend, with companies seeking to build contingency stocks.",
+      "ur": "مئی کے اعداد و شمار میں سب سے زیادہ حیران کن سگنل انوینٹریز پر ہیں۔ تیار سامان کے اسٹاک میں مسلسل دوسرے مہینے اضافہ ہوا، جمع ہونے کی رفتار مبینہ طور پر 11 سالوں میں سب سے زیادہ ہے - اس بات کی علامت کہ سپلائی تیار سامان کی سطح پر فوری طلب سے آگے چل رہی ہے۔ ان پٹ کی خریداری میں بھی تین ماہ کی بلند ترین سطح پر اضافہ ہوا، جو کہ تاریخی رجحان سے کافی اوپر ہے، کمپنیوں کے ساتھ جو ہنگامی اسٹاک کی تعمیر کی کوشش کر رہی ہیں۔"
+    },
+    "b10.q": {
+      "hi": "\"भारत का अंतिम विनिर्माण पीएमआई संभावित एहतियाती भंडारण के एक और महीने की ओर इशारा करता है क्योंकि मध्य पूर्व संघर्ष अनसुलझा है। उत्पादन वृद्धि में तेजी आई है, जबकि खरीद गतिविधि और तैयार माल के स्टॉक में तेज गति से वृद्धि हुई है।\"",
+      "en": "\"India's final manufacturing PMI points to another month of possible precautionary stockpiling as the Middle East conflict remains unresolved. Output growth accelerated, while purchasing activity and stocks of finished goods rose at a faster pace.\"",
+      "ur": "\"ہندوستان کا حتمی مینوفیکچرنگ PMI ممکنہ احتیاطی ذخیرہ اندوزی کے ایک اور مہینے کی طرف اشارہ کرتا ہے کیونکہ مشرق وسطی کا تنازع حل نہیں ہوا ہے۔ پیداوار میں اضافہ تیز ہوا، جبکہ خریداری کی سرگرمی اور تیار سامان کے اسٹاک میں تیزی سے اضافہ ہوا۔\""
+    },
+    "b10.c": {
+      "hi": "- प्रांजुल भंडारी, मुख्य भारत अर्थशास्त्री, एचएसबीसी",
+      "en": "— Pranjul Bhandari, Chief India Economist, HSBC",
+      "ur": "- پرنجول بھنڈاری، چیف انڈیا اکانومسٹ، ایچ ایس بی سی"
+    },
+    "b11": {
+      "hi": "कीमतों पर, इनपुट लागत मुद्रास्फीति 45 महीने के उच्चतम स्तर पर पहुंच गई - लगभग चार वर्षों में सबसे अधिक - पैनल के सदस्यों ने ऊर्जा, ईंधन, सामग्री और परिवहन पर अधिक परिव्यय का हवाला दिया क्योंकि मध्य पूर्व में युद्ध ने कमोडिटी की कीमतों को ऊंचा रखा। इसके विपरीत, आउटपुट मूल्य मुद्रास्फीति में और अधिक तेजी से कमी आई है, जैसा कि एचएसबीसी ने नोट किया है कि निर्माताओं के मार्जिन पर दबाव पड़ सकता है क्योंकि कंपनियां लागत को आगे बढ़ाने के बजाय लागत को अवशोषित करती हैं।",
+      "en": "On prices, input cost inflation hit a 45-month high — the highest in nearly four years — with panel members citing greater outlays on energy, fuel, materials and transportation as the war in the Middle East kept commodity prices elevated. Output price inflation, in contrast, eased more sharply, in what HSBC noted could suggest a squeeze on manufacturers' margins as firms absorb costs rather than pass them on.",
+      "ur": "قیمتوں پر، ان پٹ لاگت کی افراط زر 45 ماہ کی بلند ترین سطح پر پہنچ گئی - تقریباً چار سالوں میں سب سے زیادہ - جس میں پینل کے اراکین نے توانائی، ایندھن، مواد اور نقل و حمل پر زیادہ اخراجات کا حوالہ دیا کیونکہ مشرق وسطیٰ میں جنگ نے اجناس کی قیمتوں کو بلند رکھا۔ اس کے برعکس پیداوار کی قیمتوں میں افراط زر زیادہ تیزی سے کم ہوا، جس میں HSBC نے نوٹ کیا کہ مینوفیکچررز کے مارجن پر دباؤ کا مشورہ دیا جا سکتا ہے کیونکہ فرمیں لاگت کو آگے بڑھانے کے بجائے جذب کرتی ہیں۔"
+    },
+    "b12": {
+      "hi": "रोजगार और आत्मविश्वास",
+      "en": "Employment and confidence",
+      "ur": "ملازمت اور اعتماد"
+    },
+    "b13": {
+      "hi": "अधिक उत्पादन आवश्यकताओं के कारण पूरे क्षेत्र में नियुक्तियों का एक और दौर शुरू हुआ, जिसमें रोजगार सृजन की दर ठोस बताई गई, हालांकि अप्रैल की तुलना में धीमी। व्यावसायिक विश्वास सकारात्मक रहा, कंपनियों ने आशा व्यक्त की कि वर्ष के अंत में लागत दबाव कम हो जाएगा। मध्यम अवधि के दृष्टिकोण के लिए अतिरिक्त समर्थन के रूप में विज्ञापन गतिविधि और मजबूत ऑर्डर पाइपलाइनों का हवाला दिया गया।",
+      "en": "Greater production requirements led to another round of hiring across the sector, with the rate of job creation described as solid, though slower than in April. Business confidence stayed positive, with companies expressing the hope that cost pressures will ease later in the year. Advertising activity and strong order pipelines were cited as additional supports for the medium-term outlook.",
+      "ur": "زیادہ پیداواری تقاضوں کی وجہ سے پورے شعبے میں ملازمت کے ایک اور دور کا آغاز ہوا، جس میں ملازمت کی تخلیق کی شرح کو ٹھوس قرار دیا گیا، حالانکہ اپریل کے مقابلے میں سست ہے۔ کاروباری اعتماد مثبت رہا، کمپنیوں نے اس امید کا اظہار کیا کہ سال کے آخر میں لاگت کا دباؤ کم ہو جائے گا۔ اشتہاری سرگرمی اور مضبوط آرڈر پائپ لائنز کو درمیانی مدت کے آؤٹ لک کے لیے اضافی معاونت کے طور پر پیش کیا گیا۔"
+    },
+    "b14": {
+      "hi": "इसका क्या मतलब है",
+      "en": "What it means",
+      "ur": "اس کا کیا مطلب ہے۔"
+    },
+    "b15": {
+      "hi": "संदर्भ में पढ़ें, मई पीएमआई एक ऐसे विनिर्माण क्षेत्र का संकेत देता है जो साल की शुरुआत में नरम दौर के बाद फिर से अपने पैर जमा रहा है, जिसमें घरेलू मांग सबसे अधिक है। नए निर्यात ऑर्डर धीमी गति से बढ़े, जिससे पता चलता है कि बाहरी मांग अभी भी मौजूदा तेजी का इंजन नहीं है।",
+      "en": "Read in context, the May PMI signals a manufacturing sector that is finding its feet again after a soft patch earlier in the year, with domestic demand doing most of the heavy lifting. New export orders rose at a softer pace, suggesting that external demand is not yet the engine of the current upturn.",
+      "ur": "سیاق و سباق میں پڑھیں، مئی کا پی ایم آئی ایک ایسے مینوفیکچرنگ سیکٹر کی طرف اشارہ کرتا ہے جو سال کے شروع میں نرم پیچ کے بعد دوبارہ اپنے پاؤں تلاش کر رہا ہے، گھریلو مانگ زیادہ تر بھاری لفٹنگ کر رہی ہے۔ نئے برآمدی آرڈرز میں نرمی کی رفتار سے اضافہ ہوا، جس سے ظاہر ہوتا ہے کہ بیرونی مانگ ابھی تک موجودہ اضافے کا انجن نہیں ہے۔"
+    },
+    "b16": {
+      "hi": "बढ़ती विकास दर और बढ़ी हुई इनपुट लागत का संयोजन नीति निर्माताओं के लिए एक परिचित चुनौती है: उपभोक्ताओं के लिए लागत के बोझ को सीमित रखते हुए औद्योगिक गति को कैसे बनाए रखा जाए। आने वाले महीनों में भारतीय रिज़र्व बैंक की ब्याज दर प्रक्षेपवक्र और मध्य पूर्व में किसी भी भू-राजनीतिक वृद्धि पर नजर रखने के लिए दो प्रमुख चर बने रहने की संभावना है।",
+      "en": "The combination of accelerating growth and elevated input costs poses a familiar challenge for policymakers: how to sustain industrial momentum while keeping a lid on the cost pass-through to consumers. The Reserve Bank of India's interest-rate trajectory and any further geopolitical escalation in the Middle East are likely to remain the two key variables to watch over the coming months.",
+      "ur": "تیز رفتار ترقی اور اعلیٰ ان پٹ لاگت کا امتزاج پالیسی سازوں کے لیے ایک مانوس چیلنج ہے: صارفین کو لاگت کے ذریعے لاگت پر ڈھکن رکھتے ہوئے صنعتی رفتار کو کیسے برقرار رکھا جائے۔ ریزرو بینک آف انڈیا کی شرح سود کی رفتار اور مشرق وسطیٰ میں مزید جغرافیائی سیاسی اضافہ آنے والے مہینوں میں دیکھنے کے لیے دو اہم متغیرات رہنے کا امکان ہے۔"
+    },
+    "b17": {
+      "hi": "आगे का रास्ता",
+      "en": "The road ahead",
+      "ur": "آگے کی سڑک"
+    },
+    "b18": {
+      "hi": "भारतीय निर्माताओं के लिए, मई की रीडिंग उत्साहजनक है लेकिन एक चेतावनी के साथ आती है। जून और जुलाई में तैयार माल की सूची का 11 साल का उच्चतम संचय देखने लायक होगा - अगर यह मांग से आगे बढ़ना जारी रखता है, तो यह अंततः उत्पादन कार्यक्रम पर असर डाल सकता है। जुलाई की शुरुआत में आने वाला जून पीएमआई इस बात का पहला संकेत होगा कि क्या मई की मजबूत गति आगे बढ़ती है या इन्वेंट्री चक्र के समायोजित होने पर वापस स्थिर हो जाती है।",
+      "en": "For Indian manufacturers, the May reading is encouraging but comes with a caveat. The 11-year-high accumulation of finished-goods inventories will be a number to watch in June and July — if it continues to outpace demand, it could eventually weigh on production schedules. The June PMI, due in early July, will be the first signal of whether May's strong momentum carries forward or settles back as the inventory cycle adjusts.",
+      "ur": "ہندوستانی مینوفیکچررز کے لیے، مئی کی پڑھائی حوصلہ افزا ہے لیکن ایک انتباہ کے ساتھ آتی ہے۔ تیار سامان کی انوینٹریوں کا 11 سالہ زیادہ ذخیرہ جون اور جولائی میں دیکھنے کے لیے ایک نمبر ہو گا - اگر یہ طلب سے آگے بڑھنا جاری رکھتا ہے، تو یہ بالآخر پیداواری نظام الاوقات پر وزن کر سکتا ہے۔ جون PMI، جو جولائی کے اوائل میں ہونے والا ہے، اس بات کا پہلا اشارہ ہو گا کہ آیا مئی کی مضبوط رفتار آگے بڑھے گی یا انوینٹری سائیکل کے ایڈجسٹ ہونے کے بعد واپس آ جائے گی۔"
+    }
+  }
+}
