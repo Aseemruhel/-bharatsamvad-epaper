@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>भारत संवाद</title>
+<style>
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
+.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+
+:root{
+  --paper:#f4efe2;--paper-edge:#e7dfca;--ink:#1a1714;--ink-soft:#3a342c;--rule:#26221c;--accent:#9a1b1b;--accent-dk:#6f1212;--gold:#8a6d2f;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:var(--ink);padding:28px 14px;line-height:1.55;-webkit-font-smoothing:antialiased;}
+.sheet{max-width:880px;margin:0 auto;background:var(--paper);background-image:radial-gradient(circle at 20% 10%,rgba(0,0,0,.018) 0,transparent 55%),radial-gradient(circle at 80% 90%,rgba(120,90,40,.04) 0,transparent 55%);box-shadow:0 18px 50px rgba(0,0,0,.4),inset 0 0 0 1px var(--paper-edge);padding:30px 34px 42px;position:relative;}
+.sheet::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.012) 0 1px,transparent 1px 3px);mix-blend-mode:multiply;opacity:.5;}
+.masthead{text-align:center;padding:10px 0 4px;border-bottom:4px double var(--rule);}
+.masthead h1{font-family:"Rozha One",Georgia,serif;font-size:74px;line-height:.95;letter-spacing:1px;color:var(--ink);}
+.strip{display:flex;justify-content:space-between;align-items:center;font-family:"Mukta",Arial,sans-serif;font-size:11.5px;font-weight:500;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid var(--rule);}
+.strip .mid{color:var(--accent);font-weight:700;letter-spacing:.5px;}
+.kicker{display:inline-block;background:var(--accent);color:#f7f1e3;font-family:"Khand",Arial,sans-serif;font-weight:600;letter-spacing:3px;font-size:13px;text-transform:uppercase;padding:3px 12px;margin:20px 0 8px;}
+.headline{font-family:"Rozha One",Georgia,serif;font-size:46px;line-height:1.08;color:var(--ink);margin-bottom:8px;}
+.subdeck{font-family:"Mukta",Arial,sans-serif;font-weight:500;font-size:17.5px;color:var(--ink-soft);line-height:1.4;border-left:3px solid var(--gold);padding-left:12px;margin-bottom:14px;}
+.byline{font-family:"Mukta",Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:6px 0;margin-bottom:18px;}
+.byline b{color:var(--accent-dk);}
+.body{column-count:2;column-gap:30px;column-rule:1px solid #cbbfa3;font-size:15.2px;text-align:justify;hyphens:auto;color:var(--ink-soft);}
+.body p{margin-bottom:11px;text-indent:14px;}
+.body p.lead{text-indent:0;}
+.body p.lead::first-letter{font-family:"Rozha One",Georgia,serif;float:left;font-size:62px;line-height:.78;padding:4px 8px 0 0;color:var(--accent);}
+.body h3{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:19px;color:var(--ink);letter-spacing:.4px;margin:6px 0 5px;break-after:avoid;}
+.body h3::before{content:"▍";color:var(--accent);margin-right:5px;}
+.pull{break-inside:avoid;margin:6px 0 12px;padding:12px 0;border-top:2px solid var(--rule);border-bottom:2px solid var(--rule);font-family:"Rozha One",Georgia,serif;font-size:21px;line-height:1.3;color:var(--accent-dk);text-align:left;text-indent:0;}
+.pull cite{display:block;font-family:"Mukta",Arial,sans-serif;font-style:normal;font-weight:600;font-size:12px;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;margin-top:6px;}
+.box{break-inside:avoid;background:#efe7d3;border:1.5px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);padding:14px 16px;margin:4px 0 14px;}
+.box h4{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:18px;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;border-bottom:2px solid var(--accent);padding-bottom:5px;margin-bottom:9px;}
+.box ul{list-style:none;}
+.box li{font-family:"Mukta",Arial,sans-serif;font-size:13.4px;line-height:1.45;color:var(--ink);padding:5px 0 5px 20px;position:relative;border-bottom:1px dotted #b6a982;}
+.box li:last-child{border-bottom:none;}
+.box li::before{content:"◆";position:absolute;left:0;top:5px;color:var(--accent);font-size:10px;}
+.box li b{color:var(--accent-dk);}
+.foot{margin-top:22px;border-top:4px double var(--rule);padding-top:8px;display:flex;justify-content:space-between;font-family:"Mukta",Arial,sans-serif;font-size:11px;color:var(--ink-soft);letter-spacing:.4px;text-transform:uppercase;}
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none}.langblock.show{display:block;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+.back-home-btn{
+  display:inline-block;
+  margin:14px 0 2px;
+  padding:7px 14px;
+  background:var(--accent);
+  color:#fff;
+  text-decoration:none;
+  font-family:"Mukta",Arial,sans-serif;
+  font-size:13px;
+  font-weight:700;
+  letter-spacing:.3px;
+  border:1px solid var(--accent-dk);
+  box-shadow:2px 2px 0 rgba(38,34,28,.18);
+}
+
+.back-home-btn:hover{
+  background:var(--accent-dk);
+}
+.home-logo{
+  color:inherit;
+  text-decoration:none;
+  display:inline-block;
+}
+.home-logo:hover{
+  color:var(--accent);
+}
+@media(max-width:680px){.sheet{padding:20px 18px 30px}.masthead h1{font-size:48px}.headline{font-size:32px}.body{column-count:1}.strip{flex-direction:column;gap:3px;text-align:center}}
+@media print{body{background:#fff;padding:0}.sheet{box-shadow:none}}
+
+
+/* ===== language toggle ===== */
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;gap:0;
+  background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;
+  font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;
+  padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+
+/* PDF Download Button */
+.pdf-download-btn{
+    display:inline-flex;align-items:center;gap:6px;padding:8px 16px;
+    background:#1a1a1a;color:#fff;border:none;border-radius:4px;
+    font-size:0.95rem;font-weight:500;cursor:pointer;transition:all .2s;
+    margin-left:12px;
+}
+.pdf-download-btn:hover{background:#333;}
+
+/* Language blocks */
+.langblock{display:none;} .langblock.show{display:block;}
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+
+/* news photo */
+.newsfig{column-span:all;break-inside:avoid;margin:4px 0 16px;}
+.newsfig img{width:100%;height:auto;display:block;border:1px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);}
+.newsfig figcaption{font-family:"Mukta",sans-serif;font-size:12.5px;line-height:1.4;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid #cbbfa3;}
+.newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
+.lang-ur .newsfig figcaption{text-align:right;}
+
+/* Print Styles for PDF */
+@media print {
+    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    body, .sheet { background:#fff !important; color:#000 !important; }
+    .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
+    .langblock { display:block !important; page-break-after:always; }
+    .langblock:last-child { page-break-after:avoid; }
+    .kicker { color:#9a1b1b !important; font-weight:700; }
+    p, li { line-height:1.75; }
+    @page { margin:1.5cm; size:A4; }
+}
+
+</style>
+</head>
+<body>
+  <div class="langbar">
+    <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
+    <button data-l="ur" onclick="setLang('ur')">اردو</button>
+    
+<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download this article as PDF">
+    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+        <polyline points="14 2 14 8 20 8"></polyline>
+        <line x1="16" y1="13" x2="8" y2="13"></line>
+        <line x1="16" y1="17" x2="8" y2="17"></line>
+    </svg>
+    Download PDF
+</button>
+
+  </div>
+  <div class="sheet">
+  <div class="langblock lang-en" data-lang="en">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">Bharat Samwad</h1>
+    </div>
+    <div class="strip">
+      <span>Page 3 · Business</span>
+      <span class="mid">Special Report</span>
+      <span>Wednesday, 3 June 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">Economy · RBI Annual Report</span>
+
+<h2 class="headline">Indian economy expected to stay resilient in FY27 despite West Asia uncertainties, says RBI</h2>
+
+<p class="subdeck">
+The Reserve Bank of India has projected a positive outlook for FY2026-27, stating that strong domestic demand, healthy corporate and banking sector balance sheets, continued government capital expenditure and expanding trade partnerships will help sustain growth even as geopolitical tensions in West Asia create global economic challenges.
+</p>
+
+<div class="byline"><b>Business Correspondent</b> · Mumbai / New Delhi</div>
+
+<div class="body">
+
+<p class="lead">
+The Reserve Bank of India (RBI), in its latest Annual Report, has expressed confidence that the Indian economy will remain one of the fastest-growing major economies in the world during FY2026-27. While acknowledging the risks arising from the ongoing conflict in West Asia, the central bank noted that India's strong macroeconomic fundamentals provide significant resilience against external shocks.
+</p>
+
+<p>
+According to the report, geopolitical tensions have emerged as one of the biggest challenges for the global economy in 2026. Rising energy prices, disruptions in shipping routes and increasing uncertainty have affected global growth projections and pushed inflation expectations higher across many economies.
+</p>
+
+<h3>Growth outlook remains positive</h3>
+
+<p>
+Despite global headwinds, RBI projects India's real GDP growth at 6.9 per cent for FY2026-27. The central bank attributed this optimism to robust domestic consumption, sustained public investment, improving private sector balance sheets and strong banking sector health.
+</p>
+
+<p>
+The report highlighted that continued government emphasis on infrastructure development and capital expenditure is expected to support investment activity, employment generation and long-term productivity growth.
+</p>
+
+<h3>Inflation and external risks</h3>
+
+<p>
+The RBI cautioned that prolonged geopolitical tensions could increase inflationary pressures through higher crude oil prices, commodity costs and supply-chain disruptions. However, adequate foodgrain stocks, sufficient reservoir levels and improving agricultural prospects are expected to help contain inflation within manageable levels.
+</p>
+
+<p>
+Consumer price inflation for FY2026-27 is projected at 4.6 per cent, although risks remain tilted upwards because of volatile global conditions.
+</p>
+
+<h3>Exports, trade agreements and investments</h3>
+
+<p>
+While merchandise exports may face challenges due to weaker global demand and geopolitical uncertainties, India is expected to benefit from expanding trade agreements and efforts to strengthen domestic manufacturing in strategic sectors.
+</p>
+
+<p>
+The RBI noted that ongoing bilateral and regional trade negotiations are likely to create new opportunities for exports, foreign investment and technology partnerships. Strong performance in software services, business services and remittance inflows is also expected to support India's external sector.
+</p>
+
+<h3>Financial system remains strong</h3>
+
+<p>
+According to the report, India's banking system remains well-capitalised and resilient. Regulatory reforms, healthy credit growth and strong balance sheets provide adequate buffers against potential external shocks.
+</p>
+
+<p>
+Although global financial markets may witness volatility due to rising geopolitical risks and changing investor sentiment, the RBI stated that the domestic financial system possesses sufficient strength to absorb temporary disruptions.
+</p>
+
+<h3>The road ahead</h3>
+
+<p>
+The central bank concluded that India enters FY2026-27 from a position of relative strength. Strong private consumption, public investment, trade diversification and prudent macroeconomic management are expected to sustain growth momentum. At the same time, policymakers will continue monitoring global developments closely to ensure timely responses to emerging risks.
+</p>
+
+</div>
+
+<div class="foot">
+<span>Bharat Samvad · Business Desk</span>
+<span>© 2026 Bharat Samvad Publications</span>
+<span>Page 3</span>
+</div>
+ <div class="langblock lang-hi" data-lang="hi">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">भारत संवाद</h1>
+    </div>
+    <div class="strip">
+      <span>पृष्ठ 3 · व्यापार</span>
+      <span class="mid">विशेष रिपोर्ट</span>
+      <span>बुधवार, 3 जून 2026 · bharatsamwad-epaper</span>
+    </div>
+<span class="kicker">अर्थव्यवस्था · आरबीआई वार्षिक रिपोर्ट</span>
+
+<h2 class="headline">पश्चिम एशिया संकट के बावजूद वित्त वर्ष 2026-27 में भारतीय अर्थव्यवस्था मजबूत रहेगी: आरबीआई</h2>
+
+<p class="subdeck">
+भारतीय रिज़र्व बैंक ने वित्त वर्ष 2026-27 के लिए सकारात्मक आर्थिक दृष्टिकोण व्यक्त करते हुए कहा है कि मजबूत घरेलू मांग, स्वस्थ बैंकिंग एवं कॉरपोरेट क्षेत्र, सरकार का पूंजीगत व्यय और बढ़ते व्यापारिक समझौते भारत की विकास गति को बनाए रखेंगे।
+</p>
+
+<div class="byline"><b>व्यापार संवाददाता</b> · मुंबई / नई दिल्ली</div>
+
+<div class="body">
+
+<p class="lead">
+भारतीय रिज़र्व बैंक की नवीनतम वार्षिक रिपोर्ट के अनुसार, पश्चिम एशिया में जारी संघर्ष और वैश्विक अनिश्चितताओं के बावजूद भारत दुनिया की सबसे तेज़ी से बढ़ती प्रमुख अर्थव्यवस्थाओं में बना रहेगा। आरबीआई ने कहा कि मजबूत व्यापक आर्थिक आधार भारत को बाहरी झटकों से बचाने में सक्षम हैं।
+</p>
+
+<p>
+रिपोर्ट के अनुसार, वर्ष 2026 में भू-राजनीतिक तनाव वैश्विक अर्थव्यवस्था के लिए सबसे बड़ी चुनौतियों में से एक बनकर उभरा है। ऊर्जा कीमतों में वृद्धि, आपूर्ति श्रृंखला में व्यवधान और व्यापारिक अनिश्चितताओं ने वैश्विक विकास दर को प्रभावित किया है।
+</p>
+
+<h3>विकास की संभावनाएं मजबूत</h3>
+
+<p>
+आरबीआई ने वित्त वर्ष 2026-27 के लिए भारत की वास्तविक जीडीपी वृद्धि दर 6.9 प्रतिशत रहने का अनुमान जताया है। मजबूत घरेलू खपत, सरकारी निवेश, स्वस्थ बैंकिंग प्रणाली और कॉरपोरेट क्षेत्र की बेहतर वित्तीय स्थिति को इसका प्रमुख आधार बताया गया है।
+</p>
+
+<p>
+रिपोर्ट में कहा गया है कि आधारभूत संरचना परियोजनाओं और पूंजीगत व्यय पर सरकार का निरंतर जोर निवेश और रोजगार सृजन को गति देगा।
+</p>
+
+<h3>महंगाई और बाहरी जोखिम</h3>
+
+<p>
+आरबीआई ने चेतावनी दी कि यदि पश्चिम एशिया का संघर्ष लंबा खिंचता है तो कच्चे तेल, ऊर्जा और अन्य वस्तुओं की कीमतों में वृद्धि हो सकती है। इसके बावजूद पर्याप्त खाद्यान्न भंडार और कृषि क्षेत्र की संभावनाएं महंगाई को नियंत्रित रखने में मदद करेंगी।
+</p>
+
+<p>
+वित्त वर्ष 2026-27 में उपभोक्ता मूल्य सूचकांक आधारित महंगाई दर 4.6 प्रतिशत रहने का अनुमान है।
+</p>
+
+<h3>निर्यात और व्यापारिक अवसर</h3>
+
+<p>
+वैश्विक मांग में सुस्ती के कारण निर्यात क्षेत्र पर कुछ दबाव रह सकता है, लेकिन विभिन्न देशों के साथ व्यापार समझौते और रणनीतिक क्षेत्रों में घरेलू विनिर्माण को बढ़ावा भारत की प्रतिस्पर्धात्मक क्षमता को मजबूत करेंगे।
+</p>
+
+<p>
+सॉफ्टवेयर सेवाओं, व्यावसायिक सेवाओं और विदेशों से प्राप्त प्रेषण (रेमिटेंस) भी भारत के बाह्य क्षेत्र को समर्थन प्रदान करेंगे।
+</p>
+
+<h3>बैंकिंग प्रणाली मजबूत</h3>
+
+<p>
+आरबीआई के अनुसार भारतीय बैंकिंग प्रणाली पर्याप्त पूंजी, स्थिर ऋण वृद्धि और नियामकीय सुधारों के कारण मजबूत स्थिति में है। संभावित वैश्विक झटकों का सामना करने के लिए वित्तीय संस्थानों के पास पर्याप्त सुरक्षा कवच मौजूद है।
+</p>
+
+<p>
+हालांकि वैश्विक वित्तीय बाजारों में अस्थिरता बनी रह सकती है, फिर भी भारतीय वित्तीय व्यवस्था मजबूत बुनियाद के कारण इन चुनौतियों का सामना करने में सक्षम है।
+</p>
+
+<h3>आगे की राह</h3>
+
+<p>
+रिपोर्ट में कहा गया है कि मजबूत घरेलू खपत, निवेश, व्यापार विविधीकरण और विवेकपूर्ण आर्थिक नीतियां भारत की विकास यात्रा को आगे बढ़ाती रहेंगी। साथ ही सरकार और आरबीआई वैश्विक घटनाक्रमों पर लगातार नजर बनाए रखेंगे ताकि आवश्यक नीतिगत कदम समय पर उठाए जा सकें।
+</p>
+
+</div>
+
+<div class="foot">
+<span>भारत संवाद · व्यापार डेस्क</span>
+<span>© 2026 भारत संवाद प्रकाशन</span>
+<span>पृष्ठ 2</span>
+</div>
+<div class="langblock lang-ur" dir="rtl" data-lang="ur">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">بھارت سنواد</h1>
+    </div>
+    <div class="strip">
+      <span>صفحہ 3 · کاروبار</span>
+      <span class="mid">خصوصی رپورٹ</span>
+      <span>بدھ، 3 جون 2026 · bharatsamwad-epaper</span>
+    </div>
+<span class="kicker">معیشت · آر بی آئی سالانہ رپورٹ</span>
+
+<h2 class="headline">مغربی ایشیا کے تنازع کے باوجود مالی سال 2026-27 میں بھارتی معیشت مستحکم رہے گی: آر بی آئی</h2>
+
+<p class="subdeck">
+ریزرو بینک آف انڈیا نے مالی سال 2026-27 کے لیے مثبت اقتصادی منظرنامہ پیش کرتے ہوئے کہا ہے کہ مضبوط گھریلو طلب، صحت مند بینکاری و کارپوریٹ شعبہ، حکومتی سرمایہ جاتی اخراجات اور بڑھتے ہوئے تجارتی معاہدے ترقی کی رفتار کو برقرار رکھیں گے۔
+</p>
+
+<div class="byline"><b>کاروباری نامہ نگار</b> · ممبئی / نئی دہلی</div>
+
+<div class="body">
+
+<p class="lead">
+ریزرو بینک آف انڈیا کی سالانہ رپورٹ کے مطابق مغربی ایشیا میں جاری تنازع اور عالمی غیر یقینی صورتحال کے باوجود بھارتی معیشت دنیا کی تیز ترین ترقی کرنے والی بڑی معیشتوں میں شامل رہے گی۔ آر بی آئی نے کہا کہ مضبوط معاشی بنیادیں بھارت کو بیرونی جھٹکوں سے نمٹنے کی صلاحیت فراہم کرتی ہیں۔
+</p>
+
+<p>
+رپورٹ کے مطابق 2026 میں جغرافیائی سیاسی خطرات عالمی معیشت کی ترقی کے لیے ایک بڑا چیلنج بن کر سامنے آئے ہیں۔ توانائی کی بڑھتی قیمتیں، سپلائی چین میں رکاوٹیں اور تجارتی غیر یقینی صورتحال نے عالمی نمو کو متاثر کیا ہے۔
+</p>
+
+<h3>ترقی کا مثبت منظرنامہ</h3>
+
+<p>
+آر بی آئی نے مالی سال 2026-27 کے لیے حقیقی جی ڈی پی نمو 6.9 فیصد رہنے کا تخمینہ ظاہر کیا ہے۔ مضبوط گھریلو کھپت، سرکاری سرمایہ کاری، مستحکم بینکاری نظام اور کارپوریٹ شعبے کی بہتر مالی حالت کو اس کی بنیادی وجوہات قرار دیا گیا ہے۔
+</p>
+
+<p>
+رپورٹ میں کہا گیا ہے کہ بنیادی ڈھانچے کے منصوبوں اور سرمایہ جاتی اخراجات پر حکومت کی مسلسل توجہ سرمایہ کاری اور روزگار کے مواقع کو فروغ دے گی۔
+</p>
+
+<h3>مہنگائی اور بیرونی خطرات</h3>
+
+<p>
+آر بی آئی نے خبردار کیا کہ اگر مغربی ایشیا کا تنازع طویل ہوتا ہے تو خام تیل، توانائی اور دیگر اشیاء کی قیمتوں میں مزید اضافہ ہو سکتا ہے۔ تاہم غذائی اجناس کے مناسب ذخائر اور زرعی امکانات مہنگائی کو قابو میں رکھنے میں مددگار ثابت ہوں گے۔
+</p>
+
+<p>
+مالی سال 2026-27 کے لیے صارفین کی مہنگائی کی شرح 4.6 فیصد رہنے کا اندازہ لگایا گیا ہے۔
+</p>
+
+<h3>برآمدات اور تجارتی مواقع</h3>
+
+<p>
+عالمی طلب میں سست روی کے باعث برآمدات کو کچھ چیلنجز درپیش رہ سکتے ہیں، لیکن نئے تجارتی معاہدے اور اسٹریٹجک شعبوں میں مقامی مینوفیکچرنگ کو فروغ بھارت کی مسابقتی صلاحیت کو مضبوط بنائیں گے۔
+</p>
+
+<p>
+سافٹ ویئر خدمات، کاروباری خدمات اور بیرون ملک سے آنے والی ترسیلات زر بھی ملکی بیرونی شعبے کو سہارا فراہم کریں گی۔
+</p>
+
+<h3>بینکاری نظام مضبوط</h3>
+
+<p>
+آر بی آئی کے مطابق بھارتی بینکاری نظام مناسب سرمائے، مستحکم قرضہ جاتی نمو اور اصلاحات کی وجہ سے مضبوط پوزیشن میں ہے۔ مالیاتی اداروں کے پاس ممکنہ عالمی جھٹکوں سے نمٹنے کے لیے کافی حفاظتی گنجائش موجود ہے۔
+</p>
+
+<p>
+اگرچہ عالمی مالیاتی منڈیوں میں اتار چڑھاؤ برقرار رہ سکتا ہے، تاہم بھارتی مالیاتی نظام اپنی مضبوط بنیادوں کی بدولت ان چیلنجز کا مقابلہ کرنے کی صلاحیت رکھتا ہے۔
+</p>
+
+<h3>آگے کا راستہ</h3>
+
+<p>
+رپورٹ کے مطابق مضبوط گھریلو کھپت، سرمایہ کاری، تجارتی تنوع اور محتاط معاشی پالیسیوں کی بدولت بھارت کی ترقی کی رفتار برقرار رہنے کی توقع ہے۔ حکومت اور آر بی آئی عالمی حالات پر مسلسل نظر رکھیں گے تاکہ ضرورت پڑنے پر بروقت پالیسی اقدامات کیے جا سکیں۔
+</p>
+
+</div>
+
+<div class="foot">
+<span>Bharat Samvad · کاروبار ڈیسک</span>
+<span>© 2026 Bharat Samvad Publications</span>
+<span>صفحہ 2</span>
+</div>
+  
