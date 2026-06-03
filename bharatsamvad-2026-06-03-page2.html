@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>भारत संवाद</title>
+<style>
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .body h3::before{margin-right:0;margin-left:5px;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;padding-left:0;padding-right:20px;}
+.lang-ur .box li::before{left:auto;right:0;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .strip,.lang-ur .foot{direction:rtl;}
+
+:root{
+  --paper:#f4efe2;--paper-edge:#e7dfca;--ink:#1a1714;--ink-soft:#3a342c;--rule:#26221c;--accent:#9a1b1b;--accent-dk:#6f1212;--gold:#8a6d2f;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:var(--ink);padding:28px 14px;line-height:1.55;-webkit-font-smoothing:antialiased;}
+.sheet{max-width:880px;margin:0 auto;background:var(--paper);background-image:radial-gradient(circle at 20% 10%,rgba(0,0,0,.018) 0,transparent 55%),radial-gradient(circle at 80% 90%,rgba(120,90,40,.04) 0,transparent 55%);box-shadow:0 18px 50px rgba(0,0,0,.4),inset 0 0 0 1px var(--paper-edge);padding:30px 34px 42px;position:relative;}
+.sheet::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.012) 0 1px,transparent 1px 3px);mix-blend-mode:multiply;opacity:.5;}
+.masthead{text-align:center;padding:10px 0 4px;border-bottom:4px double var(--rule);}
+.masthead h1{font-family:"Rozha One",Georgia,serif;font-size:74px;line-height:.95;letter-spacing:1px;color:var(--ink);}
+.strip{display:flex;justify-content:space-between;align-items:center;font-family:"Mukta",Arial,sans-serif;font-size:11.5px;font-weight:500;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid var(--rule);}
+.strip .mid{color:var(--accent);font-weight:700;letter-spacing:.5px;}
+.kicker{display:inline-block;background:var(--accent);color:#f7f1e3;font-family:"Khand",Arial,sans-serif;font-weight:600;letter-spacing:3px;font-size:13px;text-transform:uppercase;padding:3px 12px;margin:20px 0 8px;}
+.headline{font-family:"Rozha One",Georgia,serif;font-size:46px;line-height:1.08;color:var(--ink);margin-bottom:8px;}
+.subdeck{font-family:"Mukta",Arial,sans-serif;font-weight:500;font-size:17.5px;color:var(--ink-soft);line-height:1.4;border-left:3px solid var(--gold);padding-left:12px;margin-bottom:14px;}
+.byline{font-family:"Mukta",Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:6px 0;margin-bottom:18px;}
+.byline b{color:var(--accent-dk);}
+.body{column-count:2;column-gap:30px;column-rule:1px solid #cbbfa3;font-size:15.2px;text-align:justify;hyphens:auto;color:var(--ink-soft);}
+.body p{margin-bottom:11px;text-indent:14px;}
+.body p.lead{text-indent:0;}
+.body p.lead::first-letter{font-family:"Rozha One",Georgia,serif;float:left;font-size:62px;line-height:.78;padding:4px 8px 0 0;color:var(--accent);}
+.body h3{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:19px;color:var(--ink);letter-spacing:.4px;margin:6px 0 5px;break-after:avoid;}
+.body h3::before{content:"▍";color:var(--accent);margin-right:5px;}
+.pull{break-inside:avoid;margin:6px 0 12px;padding:12px 0;border-top:2px solid var(--rule);border-bottom:2px solid var(--rule);font-family:"Rozha One",Georgia,serif;font-size:21px;line-height:1.3;color:var(--accent-dk);text-align:left;text-indent:0;}
+.pull cite{display:block;font-family:"Mukta",Arial,sans-serif;font-style:normal;font-weight:600;font-size:12px;letter-spacing:.5px;color:var(--ink-soft);text-transform:uppercase;margin-top:6px;}
+.box{break-inside:avoid;background:#efe7d3;border:1.5px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);padding:14px 16px;margin:4px 0 14px;}
+.box h4{font-family:"Khand",Arial,sans-serif;font-weight:700;font-size:18px;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;border-bottom:2px solid var(--accent);padding-bottom:5px;margin-bottom:9px;}
+.box ul{list-style:none;}
+.box li{font-family:"Mukta",Arial,sans-serif;font-size:13.4px;line-height:1.45;color:var(--ink);padding:5px 0 5px 20px;position:relative;border-bottom:1px dotted #b6a982;}
+.box li:last-child{border-bottom:none;}
+.box li::before{content:"◆";position:absolute;left:0;top:5px;color:var(--accent);font-size:10px;}
+.box li b{color:var(--accent-dk);}
+.foot{margin-top:22px;border-top:4px double var(--rule);padding-top:8px;display:flex;justify-content:space-between;font-family:"Mukta",Arial,sans-serif;font-size:11px;color:var(--ink-soft);letter-spacing:.4px;text-transform:uppercase;}
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+.langblock{display:none}.langblock.show{display:block;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+.back-home-btn{
+  display:inline-block;
+  margin:14px 0 2px;
+  padding:7px 14px;
+  background:var(--accent);
+  color:#fff;
+  text-decoration:none;
+  font-family:"Mukta",Arial,sans-serif;
+  font-size:13px;
+  font-weight:700;
+  letter-spacing:.3px;
+  border:1px solid var(--accent-dk);
+  box-shadow:2px 2px 0 rgba(38,34,28,.18);
+}
+
+.back-home-btn:hover{
+  background:var(--accent-dk);
+}
+.home-logo{
+  color:inherit;
+  text-decoration:none;
+  display:inline-block;
+}
+.home-logo:hover{
+  color:var(--accent);
+}
+@media(max-width:680px){.sheet{padding:20px 18px 30px}.masthead h1{font-size:48px}.headline{font-size:32px}.body{column-count:1}.strip{flex-direction:column;gap:3px;text-align:center}}
+@media print{body{background:#fff;padding:0}.sheet{box-shadow:none}}
+
+
+/* ===== language toggle ===== */
+.langbar{position:sticky;top:0;z-index:50;display:flex;justify-content:center;gap:0;
+  background:rgba(26,23,20,.92);padding:10px;backdrop-filter:blur(4px);}
+.langbar button{font-family:Georgia,'Tiro Devanagari Hindi','Noto Nastaliq Urdu',serif;
+  font-size:15px;font-weight:bold;color:#e8dfce;background:transparent;border:1.5px solid #6f1212;
+  padding:7px 20px;cursor:pointer;transition:all .15s;}
+.langbar button:first-child{border-radius:4px 0 0 4px;}
+.langbar button:last-child{border-radius:0 4px 4px 0;border-left:none;}
+.langbar button:not(:first-child):not(:last-child){border-left:none;}
+.langbar button.active{background:#9a1b1b;color:#fff;border-color:#9a1b1b;}
+.langbar button:hover:not(.active){background:#3a342c;}
+
+/* PDF Download Button */
+.pdf-download-btn{
+    display:inline-flex;align-items:center;gap:6px;padding:8px 16px;
+    background:#1a1a1a;color:#fff;border:none;border-radius:4px;
+    font-size:0.95rem;font-weight:500;cursor:pointer;transition:all .2s;
+    margin-left:12px;
+}
+.pdf-download-btn:hover{background:#333;}
+
+/* Language blocks */
+.langblock{display:none;} .langblock.show{display:block;}
+.lang-ur{font-family:'Noto Nastaliq Urdu',serif;}
+.lang-ur .headline,.lang-ur .masthead h1{font-family:'Noto Nastaliq Urdu',serif;line-height:1.9;}
+.lang-ur .body{direction:rtl;text-align:right;}
+.lang-ur .body p,.lang-ur .subdeck{line-height:2.4;font-size:16px;}
+.lang-ur .body h3{line-height:2.2;}
+.lang-ur .subdeck{border-left:none;border-right:3px solid var(--gold);padding-left:0;padding-right:12px;}
+.lang-ur .body p.lead::first-letter{float:none;font-size:inherit;padding:0;color:inherit;}
+.lang-ur .box li{line-height:2.2;}
+.lang-ur .box h4{border-bottom:2px solid var(--accent);}
+.lang-ur .pull{text-align:right;}
+.lang-en .headline,.lang-en .masthead h1{font-family:'Rozha One',Georgia,serif;}
+.lang-en .body{font-family:Georgia,serif;}
+
+/* news photo */
+.newsfig{column-span:all;break-inside:avoid;margin:4px 0 16px;}
+.newsfig img{width:100%;height:auto;display:block;border:1px solid var(--rule);box-shadow:3px 3px 0 rgba(38,34,28,.18);}
+.newsfig figcaption{font-family:"Mukta",sans-serif;font-size:12.5px;line-height:1.4;color:var(--ink-soft);padding:7px 2px;border-bottom:1px solid #cbbfa3;}
+.newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
+.lang-ur .newsfig figcaption{text-align:right;}
+
+/* Print Styles for PDF */
+@media print {
+    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    body, .sheet { background:#fff !important; color:#000 !important; }
+    .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
+    .langblock { display:block !important; page-break-after:always; }
+    .langblock:last-child { page-break-after:avoid; }
+    .kicker { color:#9a1b1b !important; font-weight:700; }
+    p, li { line-height:1.75; }
+    @page { margin:1.5cm; size:A4; }
+}
+
+</style>
+</head>
+<body>
+  <div class="langbar">
+    <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
+    <button data-l="ur" onclick="setLang('ur')">اردو</button>
+    
+<button onclick="downloadAsPDF()" class="pdf-download-btn" title="Download this article as PDF">
+    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+        <polyline points="14 2 14 8 20 8"></polyline>
+        <line x1="16" y1="13" x2="8" y2="13"></line>
+        <line x1="16" y1="17" x2="8" y2="17"></line>
+    </svg>
+    Download PDF
+</button>
+
+  </div>
+  <div class="sheet">
+  <div class="langblock lang-en" data-lang="en">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">Bharat Samwad</h1>
+    </div>
+    <div class="strip">
+      <span>Page 2 · Business</span>
+      <span class="mid">Special Report</span>
+      <span>Wednesday, 3 June 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">Monetary Policy · Reserves</span>
+    <h2 class="headline">RBI denies reports of gold sale; says physical stock unchanged at 880.52 tonnes</h2>
+    <p class="subdeck">The central bank has dismissed as incorrect a Bloomberg Economics estimate suggesting it sold around $12 billion of gold over two weeks in May to defend the rupee. RBI says its physical gold holdings remain at 880.52 metric tonnes, with the figure already disclosed in its Monthly Bulletin.</p>
+    <div class="byline"><b>Business Correspondent</b> · Mumbai / New Delhi</div>
+    <div class="body">
+<p class="lead">The Reserve Bank of India on Wednesday firmly denied reports in sections of the media suggesting that it had sold a significant portion of its gold reserves to shore up India's foreign currency assets. In a statement, the central bank said the reports were "not correct" and clarified that its physical stock of gold remains unchanged at 880.52 metric tonnes.</p><p>The clarification followed an analysis by Bloomberg Economics that had estimated the RBI may have sold around 12 billion US dollars of gold over a two-week period ending 22 May, in an effort to bolster the country's foreign exchange reserves amid pressure on the rupee and rising import costs linked to the West Asia conflict.</p><h3>What RBI said</h3><p>The Reserve Bank advised members of the public to rely only on official information published by the bank from time to time, and pointed to its Monthly Bulletin as the authoritative source for physical gold holdings. The latest edition of the Bulletin, available on the RBI website, lists the holding at 880.52 metric tonnes.</p><p>A separate clarification was issued through the Press Information Bureau, which also dismissed the 12-billion-dollar claim. The Centre noted that the share of gold in India's foreign exchange reserves had in fact risen — from 13.92 per cent at the end of September 2025 to 16.70 per cent on 31 March 2026, and further to 16.85 per cent as of 22 May 2026.</p><p></p><p></p><h3>What the data actually shows</h3><p>The RBI's own published numbers do not point to a reduction. According to the central bank's latest Annual Report, total gold held by the Reserve Bank stood at 880.52 metric tonnes as on 31 March 2026, compared with 879.58 metric tonnes as on 31 March 2025 — an increase of 0.94 tonnes over the financial year.</p><p>Of the total holding, 312.32 metric tonnes are maintained as assets of the Issue Department, while the remaining 568.20 metric tonnes are held under the Banking Department. The value of gold held by the Banking Department rose sharply over the year, largely on account of higher global gold prices and the rupee's depreciation against the dollar, rather than any change in the physical quantity held.</p><p>The Weekly Statistical Supplement, which RBI publishes every Friday, has also shown the tonnage figure steady through April and into May, at 880.52 metric tonnes across successive weekly snapshots.</p><h3>The Bloomberg Economics estimate</h3><p>The estimate that triggered the clarification was an analytical inference rather than a confirmed report of a transaction. According to coverage of the analysis, the Bloomberg Economics calculation rested on movements in India's foreign currency assets relative to gold valuations, against the backdrop of the rupee touching a record low on 20 May before partially recovering.</p><p>The analysis pointed to the ongoing US-Iran conflict, elevated oil prices and rupee pressure as the broader macroeconomic context. It estimated a roughly 7.5-billion-dollar addition to foreign currency assets over the two weeks in question, and inferred a corresponding gold sale of around 12 billion dollars. The RBI's denial directly contradicts that inference.</p><h3>Why this matters</h3><p>For a central bank, the credibility of reserves data is foundational. Gold has become a more visible part of India's foreign exchange reserves in recent quarters — both because of rising market value and because of an increase in domestic storage. If reports of a large undisclosed sale were to take hold, they would risk unsettling markets and the rupee at a moment when external conditions are already volatile.</p><p>The RBI's choice to issue a public denial — and the Centre's parallel clarification — signals that both institutions want a clear factual record on what has, and has not, happened with the country's gold reserves. The Monthly Bulletin and Weekly Statistical Supplement remain the primary documents of record.</p><h3>The road ahead</h3><p>The RBI's next Weekly Statistical Supplement, due on Friday, will be the next data point readers can check against. If the headline tonnage continues to be reported at 880.52, the clarification will have been borne out by the public data trail. Beyond that, the central bank's June Monthly Bulletin will be the next comprehensive update on the composition of India's foreign exchange reserves.</p>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · Business Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 2</span>
+    </div>
+  </div>
+  <div class="langblock lang-hi" data-lang="hi">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">भारत संवाद</h1>
+    </div>
+    <div class="strip">
+      <span>पृष्ठ 2 · व्यापार</span>
+      <span class="mid">विशेष रिपोर्ट</span>
+      <span>बुधवार, 3 जून 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">मौद्रिक नीति · आरक्षण</span>
+    <h2 class="headline">आरबीआई ने सोने की बिक्री की खबरों का खंडन किया; भौतिक स्टॉक 880.52 टन पर अपरिवर्तित है</h2>
+    <p class="subdeck">केंद्रीय बैंक ने ब्लूमबर्ग इकोनॉमिक्स के उस अनुमान को गलत बताया है जिसमें कहा गया था कि रुपये की रक्षा के लिए मई में दो सप्ताह में लगभग 12 अरब डॉलर का सोना बेचा गया था। आरबीआई का कहना है कि उसकी भौतिक सोने की होल्डिंग 880.52 मीट्रिक टन पर बनी हुई है, यह आंकड़ा उसके मासिक बुलेटिन में पहले ही बता दिया गया है।</p>
+    <div class="byline"><b>व्यापार संवाददाता</b> · मुंबई/नई दिल्ली</div>
+    <div class="body">
+<p class="lead">भारतीय रिज़र्व बैंक ने बुधवार को मीडिया के कुछ हिस्सों में उन रिपोर्टों का दृढ़ता से खंडन किया जिसमें कहा गया था कि उसने भारत की विदेशी मुद्रा परिसंपत्तियों को बढ़ाने के लिए अपने स्वर्ण भंडार का एक महत्वपूर्ण हिस्सा बेच दिया था। एक बयान में, केंद्रीय बैंक ने कहा कि रिपोर्ट "सही नहीं" थी और स्पष्ट किया कि उसके सोने का भौतिक स्टॉक 880.52 मीट्रिक टन पर अपरिवर्तित है।</p><p>यह स्पष्टीकरण ब्लूमबर्ग इकोनॉमिक्स के एक विश्लेषण के बाद आया है जिसमें अनुमान लगाया गया था कि रुपये पर दबाव और पश्चिम एशिया संघर्ष से जुड़ी बढ़ती आयात लागत के बीच देश के विदेशी मुद्रा भंडार को बढ़ाने के प्रयास में आरबीआई ने 22 मई को समाप्त होने वाली दो सप्ताह की अवधि में लगभग 12 बिलियन अमेरिकी डॉलर का सोना बेचा होगा।</p><h3>RBI ने क्या कहा</h3><p>रिज़र्व बैंक ने जनता को केवल समय-समय पर बैंक द्वारा प्रकाशित आधिकारिक जानकारी पर भरोसा करने की सलाह दी, और भौतिक सोने की होल्डिंग के लिए आधिकारिक स्रोत के रूप में अपने मासिक बुलेटिन को बताया। आरबीआई की वेबसाइट पर उपलब्ध बुलेटिन के नवीनतम संस्करण में होल्डिंग 880.52 मीट्रिक टन बताई गई है।</p><p>प्रेस सूचना ब्यूरो के माध्यम से एक अलग स्पष्टीकरण जारी किया गया, जिसने 12 अरब डॉलर के दावे को भी खारिज कर दिया। केंद्र ने नोट किया कि भारत के विदेशी मुद्रा भंडार में सोने की हिस्सेदारी वास्तव में बढ़ गई है - सितंबर 2025 के अंत में 13.92 प्रतिशत से बढ़कर 31 मार्च 2026 को 16.70 प्रतिशत और 22 मई 2026 तक 16.85 प्रतिशत हो गई।</p><p></p><p></p><h3>डेटा वास्तव में क्या दर्शाता है</h3><p>आरबीआई के अपने प्रकाशित आंकड़े किसी कमी की ओर इशारा नहीं करते। केंद्रीय बैंक की नवीनतम वार्षिक रिपोर्ट के अनुसार, 31 मार्च 2026 को रिज़र्व बैंक के पास कुल सोना 880.52 मीट्रिक टन था, जबकि 31 मार्च 2025 को 879.58 मीट्रिक टन था - वित्तीय वर्ष में 0.94 टन की वृद्धि।</p><p>कुल होल्डिंग में से 312.32 मीट्रिक टन को निर्गम विभाग की संपत्ति के रूप में रखा जाता है, जबकि शेष 568.20 मीट्रिक टन को बैंकिंग विभाग के तहत रखा जाता है। बैंकिंग विभाग द्वारा रखे गए सोने के मूल्य में वर्ष के दौरान तेजी से वृद्धि हुई, जिसका मुख्य कारण सोने की भौतिक मात्रा में किसी भी बदलाव के बजाय उच्च वैश्विक सोने की कीमतें और डॉलर के मुकाबले रुपये का मूल्यह्रास था।</p><p>साप्ताहिक सांख्यिकी अनुपूरक, जिसे आरबीआई हर शुक्रवार को प्रकाशित करता है, ने लगातार साप्ताहिक स्नैपशॉट में टन भार का आंकड़ा अप्रैल और मई के दौरान 880.52 मीट्रिक टन पर स्थिर दिखाया है।</p><h3>ब्लूमबर्ग अर्थशास्त्र का अनुमान</h3><p>जिस अनुमान के कारण स्पष्टीकरण आया वह लेन-देन की पुष्टि की गई रिपोर्ट के बजाय एक विश्लेषणात्मक अनुमान था। विश्लेषण के कवरेज के अनुसार, ब्लूमबर्ग इकोनॉमिक्स की गणना आंशिक रूप से ठीक होने से पहले 20 मई को रुपये के रिकॉर्ड निचले स्तर को छूने की पृष्ठभूमि के खिलाफ, सोने के मूल्यांकन के सापेक्ष भारत की विदेशी मुद्रा परिसंपत्तियों में उतार-चढ़ाव पर आधारित थी।</p><p>विश्लेषण ने व्यापक व्यापक आर्थिक संदर्भ के रूप में चल रहे अमेरिका-ईरान संघर्ष, तेल की बढ़ी कीमतों और रुपये के दबाव की ओर इशारा किया। इसमें विचाराधीन दो सप्ताहों में विदेशी मुद्रा परिसंपत्तियों में लगभग 7.5 बिलियन डॉलर की वृद्धि का अनुमान लगाया गया है, और लगभग 12 बिलियन डॉलर की सोने की बिक्री का अनुमान लगाया गया है। आरबीआई का खंडन सीधे तौर पर उस अनुमान का खंडन करता है।</p><h3>यह क्यों मायने रखता है?</h3><p>एक केंद्रीय बैंक के लिए, आरक्षित डेटा की विश्वसनीयता मूलभूत है। हाल की तिमाहियों में सोना भारत के विदेशी मुद्रा भंडार का अधिक प्रमुख हिस्सा बन गया है - बढ़ते बाजार मूल्य और घरेलू भंडारण में वृद्धि दोनों के कारण। अगर बड़ी अघोषित बिक्री की खबरें जोर पकड़ती हैं, तो ऐसे समय में जब बाहरी स्थितियां पहले से ही अस्थिर हैं, तब बाजार और रुपये को अस्थिर करने का जोखिम होगा।</p><p>सार्वजनिक खंडन जारी करने का आरबीआई का विकल्प - और केंद्र का समानांतर स्पष्टीकरण - संकेत देता है कि दोनों संस्थान देश के स्वर्ण भंडार के साथ क्या हुआ और क्या नहीं, इसका स्पष्ट तथ्यात्मक रिकॉर्ड चाहते हैं। मासिक बुलेटिन और साप्ताहिक सांख्यिकीय अनुपूरक रिकॉर्ड के प्राथमिक दस्तावेज़ बने हुए हैं।</p><h3>आगे का रास्ता</h3><p>आरबीआई का अगला साप्ताहिक सांख्यिकीय अनुपूरक, शुक्रवार को आने वाला, अगला डेटा बिंदु होगा जिसे पाठक जांच सकते हैं। यदि हेडलाइन टन भार 880.52 पर रिपोर्ट किया जाना जारी रहता है, तो स्पष्टीकरण सार्वजनिक डेटा ट्रेल द्वारा वहन किया जाएगा। इसके अलावा, केंद्रीय बैंक का जून मासिक बुलेटिन भारत के विदेशी मुद्रा भंडार की संरचना पर अगला व्यापक अपडेट होगा।</p>
+    </div>
+    <div class="foot">
+      <span>भारत संवाद · व्यापार डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 2</span>
+    </div>
+  </div>
+  <div class="langblock lang-ur" dir="rtl" data-lang="ur">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <h1 style="font-size:36px;">بھارت سنواد</h1>
+    </div>
+    <div class="strip">
+      <span>صفحہ 2 · کاروبار</span>
+      <span class="mid">خصوصی رپورٹ</span>
+      <span>بدھ، 3 جون 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">مانیٹری پالیسی · ذخائر</span>
+    <h2 class="headline">آر بی آئی نے سونے کی فروخت کی خبروں کی تردید کی۔ کا کہنا ہے کہ 880.52 ٹن پر فزیکل اسٹاک میں کوئی تبدیلی نہیں ہوئی۔</h2>
+    <p class="subdeck">مرکزی بینک نے بلومبرگ اکنامکس کے اس تخمینے کو غلط قرار دیتے ہوئے مسترد کر دیا ہے جس میں کہا گیا ہے کہ اس نے مئی میں دو ہفتوں کے دوران روپے کے دفاع کے لیے تقریباً 12 بلین ڈالر کا سونا فروخت کیا۔ آر بی آئی کا کہنا ہے کہ اس کی فزیکل گولڈ ہولڈنگ 880.52 میٹرک ٹن پر برقرار ہے، جس کا اعداد و شمار اس کے ماہانہ بلیٹن میں پہلے ہی ظاہر کیا جا چکا ہے۔</p>
+    <div class="byline"><b>کاروباری نامہ نگار</b> · ممبئی/ نئی دہلی</div>
+    <div class="body">
+<p class="lead">ریزرو بینک آف انڈیا نے بدھ کے روز میڈیا کے حصوں میں آنے والی ان خبروں کی سختی سے تردید کی جس میں کہا گیا تھا کہ اس نے ہندوستان کے غیر ملکی کرنسی کے اثاثوں کو بڑھانے کے لیے اپنے سونے کے ذخائر کا ایک اہم حصہ فروخت کر دیا ہے۔ ایک بیان میں، مرکزی بینک نے کہا کہ یہ رپورٹس "درست نہیں" ہیں اور واضح کیا کہ اس کے سونے کا فزیکل اسٹاک 880.52 میٹرک ٹن پر کوئی تبدیلی نہیں کی گئی ہے۔</p><p>یہ وضاحت بلومبرگ اکنامکس کے ایک تجزیہ کے بعد ہوئی جس میں اندازہ لگایا گیا تھا کہ RBI نے 22 مئی کو ختم ہونے والے دو ہفتوں کے دوران تقریباً 12 بلین امریکی ڈالر کا سونا فروخت کیا ہے، روپے پر دباؤ اور مغربی ایشیا کے تنازعے سے منسلک درآمدی لاگت میں اضافے کے درمیان ملک کے زرمبادلہ کے ذخائر کو تقویت دینے کی کوشش میں۔</p><h3>آر بی آئی نے کیا کہا</h3><p>ریزرو بینک نے عوام کے اراکین کو مشورہ دیا کہ وہ صرف بینک کی طرف سے وقتاً فوقتاً شائع ہونے والی سرکاری معلومات پر بھروسہ کریں، اور اس کے ماہانہ بلیٹن کو فزیکل گولڈ ہولڈنگز کے مستند ذریعہ کے طور پر اشارہ کیا۔ بلیٹن کا تازہ ترین ایڈیشن، جو آر بی آئی کی ویب سائٹ پر دستیاب ہے، 880.52 میٹرک ٹن کی ہولڈنگ کی فہرست دیتا ہے۔</p><p>پریس انفارمیشن بیورو کے ذریعے ایک الگ وضاحت جاری کی گئی، جس نے 12 بلین ڈالر کے دعوے کو بھی مسترد کر دیا۔ مرکز نے نوٹ کیا کہ ہندوستان کے غیر ملکی زرمبادلہ کے ذخائر میں سونے کا حصہ درحقیقت بڑھ گیا ہے - ستمبر 2025 کے آخر میں 13.92 فیصد سے 31 مارچ 2026 کو 16.70 فیصد، اور مزید 22 مئی 2026 تک 16.85 فیصد تک پہنچ گیا۔</p><p></p><p></p><h3>ڈیٹا اصل میں کیا ظاہر کرتا ہے۔</h3><p>آر بی آئی کے اپنے شائع کردہ نمبر کمی کی طرف اشارہ نہیں کرتے ہیں۔ مرکزی بینک کی تازہ ترین سالانہ رپورٹ کے مطابق، 31 مارچ 2026 تک ریزرو بینک کے پاس کل سونا 880.52 میٹرک ٹن تھا، جو کہ 31 مارچ 2025 تک 879.58 میٹرک ٹن تھا - مالی سال کے مقابلے میں 0.94 ٹن کا اضافہ۔</p><p>کل ہولڈنگ میں سے 312.32 میٹرک ٹن ایشو ڈپارٹمنٹ کے اثاثوں کے طور پر برقرار ہے، جبکہ بقیہ 568.20 میٹرک ٹن بینکنگ ڈیپارٹمنٹ کے پاس ہے۔ بینکنگ ڈیپارٹمنٹ کے پاس سونے کی قیمت میں سال بھر کے دوران تیزی سے اضافہ ہوا، جس کی بڑی وجہ سونے کی عالمی قیمتوں میں اضافہ اور ڈالر کے مقابلے میں روپے کی قدر میں کمی، بجائے اس کے کہ رکھی گئی جسمانی مقدار میں کوئی تبدیلی نہیں ہوئی۔</p><p>ہفتہ وار شماریاتی ضمیمہ، جسے آر بی آئی ہر جمعہ کو شائع کرتا ہے، نے بھی ہفتہ وار سنیپ شاٹس میں 880.52 میٹرک ٹن، اپریل اور مئی تک ٹننج کا اعداد و شمار مستحکم دکھایا ہے۔</p><h3>بلومبرگ اکنامکس کا تخمینہ</h3><p>تخمینہ جس نے وضاحت کو متحرک کیا وہ کسی لین دین کی تصدیق شدہ رپورٹ کے بجائے ایک تجزیاتی تخمینہ تھا۔ تجزیے کی کوریج کے مطابق، بلومبرگ اکنامکس کا حساب سونے کی قدروں کی نسبت ہندوستان کے غیر ملکی کرنسی کے اثاثوں کی نقل و حرکت پر ہے، جس کے پس منظر میں روپیہ جزوی طور پر ٹھیک ہونے سے پہلے 20 مئی کو ریکارڈ کم ترین سطح پر پہنچ گیا۔</p><p>تجزیہ میں امریکہ ایران تنازعہ، تیل کی بڑھتی ہوئی قیمتوں اور روپے کے دباؤ کی طرف وسیع تر معاشی تناظر کی طرف اشارہ کیا گیا۔ اس نے زیربحث دو ہفتوں کے دوران غیر ملکی کرنسی کے اثاثوں میں تقریباً 7.5-ارب ڈالر کے اضافے کا تخمینہ لگایا، اور تقریباً 12 بلین ڈالر کے اسی سونے کی فروخت کا اندازہ لگایا۔ آر بی آئی کا انکار براہ راست اس تخمینہ سے متصادم ہے۔</p><h3>یہ کیوں اہمیت رکھتا ہے۔</h3><p>مرکزی بینک کے لیے، ذخائر کے اعداد و شمار کی ساکھ بنیادی ہے۔ سونا حالیہ سہ ماہیوں میں ہندوستان کے غیر ملکی زرمبادلہ کے ذخائر کا زیادہ نمایاں حصہ بن گیا ہے - دونوں بڑھتے ہوئے بازار کی قیمت اور گھریلو ذخیرہ میں اضافے کی وجہ سے۔ اگر کسی بڑی غیر اعلانیہ فروخت کی اطلاعات کو پکڑنا پڑتا ہے، تو وہ مارکیٹوں اور روپے کو ایک ایسے لمحے میں بے چین کرنے کا خطرہ مول لیں گے جب بیرونی حالات پہلے سے ہی غیر مستحکم ہیں۔</p><p>آر بی آئی کا عوامی انکار جاری کرنے کا انتخاب - اور مرکز کی متوازی وضاحت - اس بات کا اشارہ ہے کہ دونوں ادارے اس بات کا واضح حقائق پر مبنی ریکارڈ چاہتے ہیں کہ ملک کے سونے کے ذخائر کے ساتھ کیا ہوا، اور کیا نہیں ہوا۔ ماہانہ بلیٹن اور ہفتہ وار شماریاتی ضمیمہ ریکارڈ کی بنیادی دستاویزات ہیں۔</p><h3>آگے کی سڑک</h3><p>آر بی آئی کا اگلا ہفتہ وار شماریاتی ضمیمہ، جمعے کو، اگلا ڈیٹا پوائنٹ ہو گا جس کے قارئین چیک کر سکتے ہیں۔ اگر ہیڈ لائن ٹننج 880.52 پر رپورٹ کیا جاتا ہے، تو وضاحت عوامی ڈیٹا ٹریل کی طرف سے برداشت کی جائے گی. اس کے علاوہ، مرکزی بینک کا جون کا ماہانہ بلیٹن ہندوستان کے غیر ملکی زرمبادلہ کے ذخائر کی ساخت کے بارے میں اگلا جامع اپ ڈیٹ ہوگا۔</p>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · کاروبار Desk</span><span>© 2026 Bharat Samvad Publications</span><span>صفحہ 2</span>
+    </div>
+  </div>
+  </div>
+
+<script>
+function downloadAsPDF() {
+    let headline = document.querySelector(".headline") ? 
+                   document.querySelector(".headline").textContent.trim() : "Article";
+    
+    let cleanTitle = headline
+        .replace(/[^a-zA-Z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
+        .toLowerCase()
+        .substring(0, 60);
+    
+    const filename = "2026-06-01-page4-" + cleanTitle + ".pdf";
+
+    const toast = document.createElement("div");
+    toast.style.cssText = "position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:#1a1a1a;color:white;padding:14px 28px;border-radius:6px;z-index:10000;font-size:1rem;";
+    toast.textContent = "Opening Print to PDF...";
+    document.body.appendChild(toast);
+
+    setTimeout(() => {
+        toast.remove();
+        window.print();
+    }, 600);
+}
+
+function setLang(l){
+  document.querySelectorAll(".langblock").forEach(b => {
+    b.classList.toggle("show", b.dataset.lang === l);
+  });
+  document.querySelectorAll(".langbar button").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.l === l);
+  });
+}
+document.addEventListener("DOMContentLoaded", function(){
+  var s='en'; 
+  try{s=localStorage.getItem('bs_lang')||'en';}catch(e){}
+  setLang(s);
+});
+</script>
+
+</body>
+</html>
