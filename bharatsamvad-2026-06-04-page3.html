@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -134,9 +134,38 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 .newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
 .lang-ur .newsfig figcaption{text-align:right;}
 
+
+/* clickable masthead — keeps the look, gains a hover hint */
+.home-logo-link{text-decoration:none;color:inherit;display:inline-block;transition:opacity .15s;}
+.home-logo-link:hover{opacity:.65;}
+
+/* back to home button at the bottom of every article */
+.back-home-wrap{display:flex;justify-content:center;margin:28px 0 18px;}
+.back-home-btn{
+    display:inline-block;
+    padding:11px 26px;
+    background:#9a1b1b;
+    color:#fff !important;
+    text-decoration:none;
+    font-family:Georgia,"Tiro Devanagari Hindi","Noto Nastaliq Urdu",serif;
+    font-size:15px;
+    font-weight:700;
+    letter-spacing:.5px;
+    border:2px solid #731010;
+    border-radius:3px;
+    box-shadow:3px 3px 0 rgba(38,34,28,.18);
+    transition:all .15s ease;
+}
+.back-home-btn:hover{
+    background:#731010;
+    transform:translate(-1px,-1px);
+    box-shadow:4px 4px 0 rgba(38,34,28,.22);
+}
+.lang-ur .back-home-btn{font-family:"Noto Nastaliq Urdu",serif;font-size:16px;line-height:2;}
+
 /* Print Styles for PDF */
 @media print {
-    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    .langbar, .pdf-download-btn, .back-home-wrap, nav, .top-bar, .sidebar, .footer { display:none !important; }
     body, .sheet { background:#fff !important; color:#000 !important; }
     .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
     .langblock { display:block !important; page-break-after:always; }
@@ -166,29 +195,9 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 
   </div>
   <div class="sheet">
-  <div class="langblock lang-en" data-lang="en">
-    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">Bharat Samwad</h1>
-    </div>
-    <div class="strip">
-      <span>Page 3 · Defence</span>
-      <span class="mid">Special Report</span>
-      <span>Thursday, 4 June 2026 · bharatsamwad-epaper</span>
-    </div>
-    <span class="kicker">Air Defence · Strategic Capability</span>
-    <h2 class="headline">Fourth Sudarshan S-400 squadron arrives in India from Russia, fifth and final unit expected by early 2027</h2>
-    <p class="subdeck">The fourth of five contracted S-400 squadrons under the 2018 India-Russia agreement has reached India by sea and is expected to be deployed in an operational sector shortly, strengthening the country's long-range air defence umbrella along its western frontier.</p>
-    <div class="byline"><b>Defence Correspondent</b> · New Delhi</div>
-    <div class="body">
-<p class="lead">In a significant boost to India's long-range air defence capabilities, the fourth squadron of the S-400 Triumf air defence system, known in Indian service as Sudarshan, has arrived from Russia and is expected to be deployed in an operational sector shortly, defence sources said. The system reached India by ship a few days ago.</p><p>The delivery marks the arrival of the fourth of the five S-400 squadrons that India had contracted under a 2018 deal with Russia, valued at 5.43 billion US dollars or approximately 35,000 crore rupees. Three squadrons are already operational with the Indian armed forces, while the delivery schedules of the fourth and fifth units had been affected by disruptions caused by the Russia-Ukraine war.</p><h3>The contract and the long road to delivery</h3><p>The S-400 procurement agreement was signed on 5 October 2018, despite the threat of US sanctions under the Countering America's Adversaries Through Sanctions Act. Washington has not invoked CAATSA so far, with the deal not yet formally complete.</p><p>The first three squadrons were delivered and inducted over the past few years and have been deployed in strategically important sectors. Deliveries of the fourth and fifth units, originally scheduled earlier, slipped due to production and supply-chain disruptions caused by the war in Ukraine. India invoked penalty clauses in the contract but also pursued diplomatic channels to expedite delivery, including advance payments and joint monitoring arrangements.</p><p></p><h3>What the fourth squadron adds</h3><p>According to defence sources, the fourth squadron is likely to be deployed in the western sector, with potential coverage of areas in Rajasthan and Punjab. This would further strengthen air defence along India's western frontier.</p><p>The system integrates with India's existing layered air defence architecture, designed to engage threats at multiple ranges and altitudes. The S-400, at 400 kilometres of engagement range, sits at the outer layer, capable of taking on fighter aircraft, cruise missiles, ballistic missiles and unmanned aerial systems.</p><p></p><h3>Operation Sindoor: combat performance</h3><p>The S-400's induction has come under fresh attention in the wake of Operation Sindoor, the May 2026 India-Pakistan military exchange. According to defence sources cited in multiple reports, the Sudarshan system played a significant role in countering the Pakistan Air Force during the operation.</p><p>The system is credited with the longest recorded surface-to-air kill in its operational history, reportedly engaging a Pakistani surveillance aircraft at a distance of more than 300 kilometres. Indian officials, including Minister of State for Defence Sanjay Seth, have publicly cited the system's effectiveness during the engagement.</p><h3>Project Kusha and indigenous capability</h3><p>In parallel with the S-400 induction, India is developing its own long-range air defence system under the codename Project Kusha. The system is intended to provide capabilities at ranges comparable to the S-400, particularly against drones and other aerial threats.</p><p>Indian defence manufacturer Solar Industries has been brought on as a development-cum-production partner. The Defence Acquisition Council has also cleared the procurement of five additional S-400 squadrons, which would, if executed, double India's S-400 footprint over time.</p><h3>Why this matters</h3><p>For India, the arrival of the fourth Sudarshan squadron is more than an inventory addition. It restores momentum to a programme that was visibly slowed by the war in Ukraine and reaffirms the durability of the India-Russia defence relationship under strain.</p><p>The combination of the fourth squadron's deployment, the expected arrival of the fifth, the procurement of additional squadrons cleared by the Defence Acquisition Council, and parallel work on Project Kusha together signal a clear direction: building a layered, multi-source air defence network designed to handle a wide spectrum of threats along both western and northern frontiers.</p><h3>The road ahead</h3><p>The fourth squadron's induction process — moving from arrival at port to operational deployment — is expected to take a few weeks. The fifth and final unit under the original 2018 contract is expected by late 2026 or early 2027, which would mark the formal completion of the deal and, with it, the closing of the technical condition that has so far kept CAATSA in abeyance.</p><p>Whether India and Russia move quickly on the additional five squadrons already cleared by the Defence Acquisition Council, and how Project Kusha progresses in parallel, will be the next chapters in India's long-range air defence story.</p>
-    </div>
-    <div class="foot">
-      <span>Bharat Samvad · Defence Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 3</span>
-    </div>
-  </div>
   <div class="langblock lang-hi" data-lang="hi">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">भारत संवाद</h1>
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">भारत संवाद</h1></a>
     </div>
     <div class="strip">
       <span>पृष्ठ 3 · रक्षा</span>
@@ -202,13 +211,39 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <div class="body">
 <p class="lead">रक्षा सूत्रों ने कहा कि भारत की लंबी दूरी की वायु रक्षा क्षमताओं को महत्वपूर्ण बढ़ावा देने के लिए, एस-400 ट्रायम्फ वायु रक्षा प्रणाली का चौथा स्क्वाड्रन, जिसे भारतीय सेवा में सुदर्शन के नाम से जाना जाता है, रूस से आ गया है और शीघ्र ही परिचालन क्षेत्र में तैनात किए जाने की उम्मीद है। यह सिस्टम कुछ दिन पहले जहाज से भारत पहुंचा था।</p><p>यह डिलीवरी पांच एस-400 स्क्वाड्रनों में से चौथे के आगमन का प्रतीक है जिसे भारत ने रूस के साथ 2018 के सौदे के तहत अनुबंधित किया था, जिसका मूल्य 5.43 बिलियन अमेरिकी डॉलर या लगभग 35,000 करोड़ रुपये है। तीन स्क्वाड्रन पहले से ही भारतीय सशस्त्र बलों के साथ काम कर रहे हैं, जबकि चौथी और पांचवीं इकाइयों का वितरण कार्यक्रम रूस-यूक्रेन युद्ध के कारण हुए व्यवधानों से प्रभावित हुआ था।</p><h3>अनुबंध और डिलीवरी तक की लंबी सड़क</h3><p>काउंटरिंग अमेरिकाज एडवर्सरीज थ्रू सैंक्शंस एक्ट के तहत अमेरिकी प्रतिबंधों की धमकी के बावजूद, एस-400 खरीद समझौते पर 5 अक्टूबर 2018 को हस्ताक्षर किए गए थे। वाशिंगटन ने अभी तक सीएएटीएसए लागू नहीं किया है, क्योंकि सौदा अभी तक औपचारिक रूप से पूरा नहीं हुआ है।</p><p>पहले तीन स्क्वाड्रन पिछले कुछ वर्षों में वितरित और शामिल किए गए थे और रणनीतिक रूप से महत्वपूर्ण क्षेत्रों में तैनात किए गए हैं। चौथी और पांचवीं इकाइयों की डिलीवरी, जो मूल रूप से पहले निर्धारित की गई थी, यूक्रेन में युद्ध के कारण उत्पादन और आपूर्ति-श्रृंखला में व्यवधान के कारण फिसल गई। भारत ने अनुबंध में दंड की धाराएं लागू कीं, लेकिन डिलीवरी में तेजी लाने के लिए अग्रिम भुगतान और संयुक्त निगरानी व्यवस्था सहित राजनयिक चैनल भी अपनाए।</p><p></p><h3>चौथा स्क्वाड्रन क्या जोड़ता है</h3><p>रक्षा सूत्रों के अनुसार, चौथे स्क्वाड्रन को पश्चिमी क्षेत्र में तैनात किए जाने की संभावना है, जिसमें राजस्थान और पंजाब के क्षेत्र शामिल हो सकते हैं। इससे भारत की पश्चिमी सीमा पर वायु रक्षा और मजबूत होगी।</p><p>यह प्रणाली भारत की मौजूदा स्तरित वायु रक्षा वास्तुकला के साथ एकीकृत है, जिसे कई सीमाओं और ऊंचाई पर खतरों से निपटने के लिए डिज़ाइन किया गया है। एस-400, 400 किलोमीटर की मारक सीमा पर, बाहरी परत पर बैठता है, जो लड़ाकू विमान, क्रूज मिसाइलों, बैलिस्टिक मिसाइलों और मानव रहित हवाई प्रणालियों को लेने में सक्षम है।</p><p></p><h3>ऑपरेशन सिन्दूर: युद्ध प्रदर्शन</h3><p>मई 2026 में भारत-पाकिस्तान सैन्य आदान-प्रदान, ऑपरेशन सिन्दूर के मद्देनजर एस-400 को शामिल करने पर नए सिरे से ध्यान दिया गया है। कई रिपोर्टों में उद्धृत रक्षा सूत्रों के अनुसार, सुदर्शन प्रणाली ने ऑपरेशन के दौरान पाकिस्तान वायु सेना का मुकाबला करने में महत्वपूर्ण भूमिका निभाई।</p><p>इस प्रणाली को अपने परिचालन इतिहास में सबसे लंबे समय तक सतह से हवा में मार करने का श्रेय दिया जाता है, जिसमें कथित तौर पर 300 किलोमीटर से अधिक की दूरी पर एक पाकिस्तानी निगरानी विमान को मार गिराया गया था। रक्षा राज्य मंत्री संजय सेठ सहित भारतीय अधिकारियों ने सगाई के दौरान सार्वजनिक रूप से सिस्टम की प्रभावशीलता का हवाला दिया है।</p><h3>प्रोजेक्ट कुशा और स्वदेशी क्षमता</h3><p>एस-400 के शामिल होने के समानांतर, भारत कोडनेम प्रोजेक्ट कुशा के तहत अपनी लंबी दूरी की वायु रक्षा प्रणाली विकसित कर रहा है। इस प्रणाली का उद्देश्य विशेष रूप से ड्रोन और अन्य हवाई खतरों के खिलाफ एस-400 के बराबर दूरी पर क्षमताएं प्रदान करना है।</p><p>भारतीय रक्षा निर्माता सोलर इंडस्ट्रीज को विकास-सह-उत्पादन भागीदार के रूप में लाया गया है। रक्षा अधिग्रहण परिषद ने पांच अतिरिक्त एस-400 स्क्वाड्रन की खरीद को भी मंजूरी दे दी है, जो अगर क्रियान्वित होता है, तो समय के साथ भारत के एस-400 पदचिह्न को दोगुना कर दिया जाएगा।</p><h3>यह क्यों मायने रखता है?</h3><p>भारत के लिए, चौथे सुदर्शन स्क्वाड्रन का आगमन एक इन्वेंट्री वृद्धि से कहीं अधिक है। यह उस कार्यक्रम की गति को बहाल करता है जो यूक्रेन में युद्ध के कारण स्पष्ट रूप से धीमा हो गया था और तनाव के तहत भारत-रूस रक्षा संबंधों की स्थायित्व की पुष्टि करता है।</p><p>चौथे स्क्वाड्रन की तैनाती का संयोजन, पांचवें का अपेक्षित आगमन, रक्षा अधिग्रहण परिषद द्वारा स्वीकृत अतिरिक्त स्क्वाड्रन की खरीद, और प्रोजेक्ट कुशा पर समानांतर काम एक साथ एक स्पष्ट दिशा का संकेत देते हैं: एक स्तरित, बहु-स्रोत वायु रक्षा नेटवर्क का निर्माण करना जो पश्चिमी और उत्तरी दोनों सीमाओं पर खतरों की एक विस्तृत श्रृंखला को संभालने के लिए डिज़ाइन किया गया है।</p><h3>आगे का रास्ता</h3><p>चौथे स्क्वाड्रन की प्रेरण प्रक्रिया - बंदरगाह पर आगमन से परिचालन तैनाती तक - कुछ सप्ताह लगने की उम्मीद है। मूल 2018 अनुबंध के तहत पांचवीं और अंतिम इकाई 2026 के अंत या 2027 की शुरुआत में होने की उम्मीद है, जो सौदे के औपचारिक समापन का प्रतीक होगा और इसके साथ, तकनीकी स्थिति का समापन होगा जिसने अब तक सीएएटीएसए को स्थगित रखा है।</p><p>क्या भारत और रूस रक्षा अधिग्रहण परिषद द्वारा पहले ही मंजूरी दे दी गई अतिरिक्त पांच स्क्वाड्रन पर तेजी से आगे बढ़ते हैं, और परियोजना कुशा समानांतर में कैसे आगे बढ़ती है, यह भारत की लंबी दूरी की वायु रक्षा कहानी में अगला अध्याय होगा।</p>
     </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">← मुखपृष्ठ पर वापस</a>
+    </div>
     <div class="foot">
       <span>भारत संवाद · रक्षा डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 3</span>
     </div>
   </div>
+  <div class="langblock lang-en" data-lang="en">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">Bharat Samwad</h1></a>
+    </div>
+    <div class="strip">
+      <span>Page 3 · Defence</span>
+      <span class="mid">Special Report</span>
+      <span>Thursday, 4 June 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">Air Defence · Strategic Capability</span>
+    <h2 class="headline">Fourth Sudarshan S-400 squadron arrives in India from Russia, fifth and final unit expected by early 2027</h2>
+    <p class="subdeck">The fourth of five contracted S-400 squadrons under the 2018 India-Russia agreement has reached India by sea and is expected to be deployed in an operational sector shortly, strengthening the country's long-range air defence umbrella along its western frontier.</p>
+    <div class="byline"><b>Defence Correspondent</b> · New Delhi</div>
+    <div class="body">
+<p class="lead">In a significant boost to India's long-range air defence capabilities, the fourth squadron of the S-400 Triumf air defence system, known in Indian service as Sudarshan, has arrived from Russia and is expected to be deployed in an operational sector shortly, defence sources said. The system reached India by ship a few days ago.</p><p>The delivery marks the arrival of the fourth of the five S-400 squadrons that India had contracted under a 2018 deal with Russia, valued at 5.43 billion US dollars or approximately 35,000 crore rupees. Three squadrons are already operational with the Indian armed forces, while the delivery schedules of the fourth and fifth units had been affected by disruptions caused by the Russia-Ukraine war.</p><h3>The contract and the long road to delivery</h3><p>The S-400 procurement agreement was signed on 5 October 2018, despite the threat of US sanctions under the Countering America's Adversaries Through Sanctions Act. Washington has not invoked CAATSA so far, with the deal not yet formally complete.</p><p>The first three squadrons were delivered and inducted over the past few years and have been deployed in strategically important sectors. Deliveries of the fourth and fifth units, originally scheduled earlier, slipped due to production and supply-chain disruptions caused by the war in Ukraine. India invoked penalty clauses in the contract but also pursued diplomatic channels to expedite delivery, including advance payments and joint monitoring arrangements.</p><p></p><h3>What the fourth squadron adds</h3><p>According to defence sources, the fourth squadron is likely to be deployed in the western sector, with potential coverage of areas in Rajasthan and Punjab. This would further strengthen air defence along India's western frontier.</p><p>The system integrates with India's existing layered air defence architecture, designed to engage threats at multiple ranges and altitudes. The S-400, at 400 kilometres of engagement range, sits at the outer layer, capable of taking on fighter aircraft, cruise missiles, ballistic missiles and unmanned aerial systems.</p><p></p><h3>Operation Sindoor: combat performance</h3><p>The S-400's induction has come under fresh attention in the wake of Operation Sindoor, the May 2026 India-Pakistan military exchange. According to defence sources cited in multiple reports, the Sudarshan system played a significant role in countering the Pakistan Air Force during the operation.</p><p>The system is credited with the longest recorded surface-to-air kill in its operational history, reportedly engaging a Pakistani surveillance aircraft at a distance of more than 300 kilometres. Indian officials, including Minister of State for Defence Sanjay Seth, have publicly cited the system's effectiveness during the engagement.</p><h3>Project Kusha and indigenous capability</h3><p>In parallel with the S-400 induction, India is developing its own long-range air defence system under the codename Project Kusha. The system is intended to provide capabilities at ranges comparable to the S-400, particularly against drones and other aerial threats.</p><p>Indian defence manufacturer Solar Industries has been brought on as a development-cum-production partner. The Defence Acquisition Council has also cleared the procurement of five additional S-400 squadrons, which would, if executed, double India's S-400 footprint over time.</p><h3>Why this matters</h3><p>For India, the arrival of the fourth Sudarshan squadron is more than an inventory addition. It restores momentum to a programme that was visibly slowed by the war in Ukraine and reaffirms the durability of the India-Russia defence relationship under strain.</p><p>The combination of the fourth squadron's deployment, the expected arrival of the fifth, the procurement of additional squadrons cleared by the Defence Acquisition Council, and parallel work on Project Kusha together signal a clear direction: building a layered, multi-source air defence network designed to handle a wide spectrum of threats along both western and northern frontiers.</p><h3>The road ahead</h3><p>The fourth squadron's induction process — moving from arrival at port to operational deployment — is expected to take a few weeks. The fifth and final unit under the original 2018 contract is expected by late 2026 or early 2027, which would mark the formal completion of the deal and, with it, the closing of the technical condition that has so far kept CAATSA in abeyance.</p><p>Whether India and Russia move quickly on the additional five squadrons already cleared by the Defence Acquisition Council, and how Project Kusha progresses in parallel, will be the next chapters in India's long-range air defence story.</p>
+    </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">← Back to Home</a>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · Defence Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 3</span>
+    </div>
+  </div>
   <div class="langblock lang-ur" dir="rtl" data-lang="ur">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">بھارت سنواد</h1>
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">بھارت سنواد</h1></a>
     </div>
     <div class="strip">
       <span>صفحہ 3 · دفاع</span>
@@ -221,6 +256,9 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <div class="byline"><b>دفاعی نامہ نگار</b> · نئی دہلی</div>
     <div class="body">
 <p class="lead">دفاعی ذرائع نے بتایا کہ ہندوستان کی طویل فاصلے تک فضائی دفاعی صلاحیتوں میں نمایاں اضافہ میں، S-400 Triumf فضائی دفاعی نظام کا چوتھا سکواڈرن، جسے ہندوستانی سروس میں سدرشن کے نام سے جانا جاتا ہے، روس سے پہنچا ہے اور توقع ہے کہ جلد ہی ایک آپریشنل سیکٹر میں تعینات کیا جائے گا۔ یہ سسٹم چند روز قبل جہاز کے ذریعے بھارت پہنچا تھا۔</p><p>ڈیلیوری پانچ S-400 سکواڈرن میں سے چوتھے کی آمد کی نشاندہی کرتی ہے جس کا ہندوستان نے روس کے ساتھ 2018 کے معاہدے کے تحت معاہدہ کیا تھا، جس کی مالیت 5.43 بلین امریکی ڈالر یا تقریباً 35,000 کروڑ روپے تھی۔ تین اسکواڈرن پہلے ہی ہندوستانی مسلح افواج کے ساتھ کام کر رہے ہیں، جبکہ چوتھے اور پانچویں یونٹوں کی ترسیل کا شیڈول روس-یوکرین جنگ کی وجہ سے ہونے والی رکاوٹوں سے متاثر ہوا تھا۔</p><h3>معاہدہ اور ترسیل کا طویل راستہ</h3><p>S-400 کی خریداری کے معاہدے پر 5 اکتوبر 2018 کو دستخط کیے گئے تھے، اس کے باوجود امریکہ کے مخالفوں کے ذریعے پابندیوں کے قانون کے تحت امریکی پابندیوں کے خطرے کے باوجود۔ واشنگٹن نے ابھی تک CAATSA کا مطالبہ نہیں کیا ہے، کیونکہ یہ معاہدہ ابھی تک رسمی طور پر مکمل نہیں ہوا ہے۔</p><p>پہلے تین اسکواڈرن کو پچھلے کچھ سالوں میں پہنچایا اور شامل کیا گیا تھا اور انہیں اسٹریٹجک لحاظ سے اہم شعبوں میں تعینات کیا گیا تھا۔ چوتھے اور پانچویں یونٹوں کی ترسیل، جو اصل میں پہلے سے طے شدہ تھی، یوکرین میں جنگ کی وجہ سے پیداوار اور سپلائی چین میں رکاوٹوں کی وجہ سے پھسل گئی۔ ہندوستان نے معاہدے میں جرمانے کی شقوں کو استعمال کیا لیکن اس نے ڈلیوری کو تیز کرنے کے لیے سفارتی ذرائع کا بھی پیچھا کیا، بشمول پیشگی ادائیگی اور مشترکہ نگرانی کے انتظامات۔</p><p></p><h3>چوتھا سکواڈرن کیا جوڑتا ہے۔</h3><p>دفاعی ذرائع کے مطابق چوتھے سکواڈرن کو مغربی سیکٹر میں تعینات کیے جانے کا امکان ہے، جس میں راجستھان اور پنجاب کے علاقوں کی ممکنہ کوریج ہوگی۔ اس سے ہندوستان کی مغربی سرحد کے ساتھ فضائی دفاع مزید مضبوط ہوگا۔</p><p>یہ نظام ہندوستان کے موجودہ تہہ دار فضائی دفاعی فن تعمیر کے ساتھ مربوط ہے، جو متعدد حدود اور بلندی پر خطرات سے نمٹنے کے لیے ڈیزائن کیا گیا ہے۔ S-400، 400 کلومیٹر کی مصروفیت کی حد میں، بیرونی تہہ پر بیٹھا ہے، جو لڑاکا طیاروں، کروز میزائلوں، بیلسٹک میزائلوں اور بغیر پائلٹ کے فضائی نظام کو نشانہ بنانے کی صلاحیت رکھتا ہے۔</p><p></p><h3>آپریشن سندھور: جنگی کارکردگی</h3><p>S-400 کی شمولیت کو آپریشن سندھور، مئی 2026 میں ہندوستان اور پاکستان کے فوجی تبادلے کے تناظر میں تازہ توجہ دی گئی ہے۔ متعدد رپورٹس میں نقل کیے گئے دفاعی ذرائع کے مطابق سدرشن سسٹم نے آپریشن کے دوران پاک فضائیہ کا مقابلہ کرنے میں اہم کردار ادا کیا۔</p><p>اس نظام کو اپنی آپریشنل تاریخ میں سب سے طویل ریکارڈ شدہ سطح سے ہوا میں مارے جانے کا سہرا دیا جاتا ہے، جس میں مبینہ طور پر 300 کلومیٹر سے زیادہ کی دوری پر پاکستانی نگرانی کے طیارے کو شامل کیا جاتا ہے۔ وزیر مملکت برائے دفاع سنجے سیٹھ سمیت ہندوستانی حکام نے مصروفیت کے دوران نظام کی تاثیر کا عوامی طور پر حوالہ دیا ہے۔</p><h3>پروجیکٹ کوشا اور دیسی صلاحیت</h3><p>S-400 شامل کرنے کے متوازی طور پر، ہندوستان پروجیکٹ کشا کے کوڈ نام کے تحت اپنا طویل فاصلے تک فضائی دفاعی نظام تیار کر رہا ہے۔ اس نظام کا مقصد S-400 کے مقابلے کی حدود میں صلاحیتیں فراہم کرنا ہے، خاص طور پر ڈرونز اور دیگر فضائی خطرات کے خلاف۔</p><p>ہندوستانی ڈیفنس مینوفیکچرر سولر انڈسٹریز کو ڈیولپمنٹ اور پروڈکشن پارٹنر کے طور پر لایا گیا ہے۔ ڈیفنس ایکوزیشن کونسل نے پانچ اضافی S-400 سکواڈرن کی خریداری کو بھی منظوری دے دی ہے، جس پر عمل درآمد ہونے پر، وقت کے ساتھ ساتھ ہندوستان کے S-400 فٹ پرنٹ کو دگنا کر دیا جائے گا۔</p><h3>یہ کیوں اہمیت رکھتا ہے۔</h3><p>ہندوستان کے لیے چوتھے سدرشن سکواڈرن کی آمد انوینٹری میں اضافے سے زیادہ ہے۔ یہ ایک ایسے پروگرام کی رفتار کو بحال کرتا ہے جو یوکرین میں جنگ کی وجہ سے بظاہر سست ہو گیا تھا اور کشیدگی کے تحت بھارت اور روس کے دفاعی تعلقات کی پائیداری کی تصدیق کرتا ہے۔</p><p>چوتھے سکواڈرن کی تعیناتی کا مجموعہ، پانچویں کی متوقع آمد، ڈیفنس ایکوزیشن کونسل کی طرف سے کلیئر کردہ اضافی سکواڈرن کی خریداری، اور پروجیکٹ کوشا پر متوازی کام مل کر ایک واضح سمت کا اشارہ دیتے ہیں: ایک تہہ دار، کثیر سورس ایئر ڈیفنس نیٹ ورک کی تعمیر جو کہ شمال کے ساتھ ساتھ سامنے والے خطرات کے وسیع میدان عمل سے نمٹنے کے لیے ڈیزائن کیا گیا ہے۔</p><h3>آگے کی سڑک</h3><p>چوتھے سکواڈرن کی شمولیت کا عمل – بندرگاہ پر آمد سے آپریشنل تعیناتی تک – میں چند ہفتے لگنے کی امید ہے۔ 2018 کے اصل معاہدے کے تحت پانچویں اور آخری یونٹ کی توقع 2026 کے آخر یا 2027 کے اوائل تک ہوگی، جو اس معاہدے کی باضابطہ تکمیل کو نشان زد کرے گی اور اس کے ساتھ، تکنیکی حالت کا خاتمہ جس نے اب تک CAATSA کو التواء میں رکھا ہوا ہے۔</p><p>آیا بھارت اور روس دفاعی حصول کونسل کی طرف سے پہلے ہی کلیئر کیے گئے اضافی پانچ سکواڈرن پر تیزی سے آگے بڑھتے ہیں، اور پروجیکٹ کوشا متوازی طور پر کیسے آگے بڑھتا ہے، یہ بھارت کی طویل فاصلے تک فضائی دفاع کی کہانی کے اگلے ابواب ہوں گے۔</p>
+    </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">مرکزی صفحہ پر واپس →</a>
     </div>
     <div class="foot">
       <span>Bharat Samvad · دفاع Desk</span><span>© 2026 Bharat Samvad Publications</span><span>صفحہ 3</span>

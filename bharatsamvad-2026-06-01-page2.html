@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -134,9 +134,38 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 .newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
 .lang-ur .newsfig figcaption{text-align:right;}
 
+
+/* clickable masthead — keeps the look, gains a hover hint */
+.home-logo-link{text-decoration:none;color:inherit;display:inline-block;transition:opacity .15s;}
+.home-logo-link:hover{opacity:.65;}
+
+/* back to home button at the bottom of every article */
+.back-home-wrap{display:flex;justify-content:center;margin:28px 0 18px;}
+.back-home-btn{
+    display:inline-block;
+    padding:11px 26px;
+    background:#9a1b1b;
+    color:#fff !important;
+    text-decoration:none;
+    font-family:Georgia,"Tiro Devanagari Hindi","Noto Nastaliq Urdu",serif;
+    font-size:15px;
+    font-weight:700;
+    letter-spacing:.5px;
+    border:2px solid #731010;
+    border-radius:3px;
+    box-shadow:3px 3px 0 rgba(38,34,28,.18);
+    transition:all .15s ease;
+}
+.back-home-btn:hover{
+    background:#731010;
+    transform:translate(-1px,-1px);
+    box-shadow:4px 4px 0 rgba(38,34,28,.22);
+}
+.lang-ur .back-home-btn{font-family:"Noto Nastaliq Urdu",serif;font-size:16px;line-height:2;}
+
 /* Print Styles for PDF */
 @media print {
-    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    .langbar, .pdf-download-btn, .back-home-wrap, nav, .top-bar, .sidebar, .footer { display:none !important; }
     body, .sheet { background:#fff !important; color:#000 !important; }
     .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
     .langblock { display:block !important; page-break-after:always; }
@@ -166,29 +195,9 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 
   </div>
   <div class="sheet">
-  <div class="langblock lang-en" data-lang="en">
-    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">Bharat Samwad</h1>
-    </div>
-    <div class="strip">
-      <span>Page 2 · National Security</span>
-      <span class="mid">Special Report</span>
-      <span>Monday, 1 June 2026 · bharatsamwad-epaper</span>
-    </div>
-    <span class="kicker">Security · Internal Affairs</span>
-    <h2 class="headline">Centre deploys elite COBRA commandos in Manipur to bolster anti-violence operations</h2>
-    <p class="subdeck">The Union Home Ministry has cleared the deployment of two CRPF COBRA battalions in Manipur for targeted operations against armed groups, as part of a wider effort to strengthen security and restore lasting peace in the violence-hit state.</p>
-    <div class="byline"><b>Special Correspondent</b> · Manipur</div>
-    <div class="body">
-<p class="lead">In a significant move aimed at strengthening security and restoring lasting peace in Manipur, the Union Ministry of Home Affairs has approved the deployment of two battalions of the elite Commando Battalion for Resolute Action (COBRA) of the Central Reserve Police Force in the violence-hit state.</p><p>According to officials, the two battalions — 207 COBRA, based in West Bengal, and 210 COBRA, stationed in Assam — will be deployed for operational duties in Manipur over the coming weeks. The commandos are expected to undertake targeted operations against armed groups involved in violence and unrest in the state.</p><h3>Background of unrest in Manipur</h3><p>Manipur has witnessed prolonged ethnic clashes between the Meitei and Kuki-Zo communities since May 2023, resulting in the deaths of more than 260 people and the displacement of thousands. The Centre and the state administration have been working towards restoring normalcy and ensuring long-term peace in the region.</p><p>A senior security official said the specialised COBRA units will conduct focused operations against armed elements responsible for disturbing peace and security in the state. The deployment is part of a broader strategy to strengthen counter-insurgency and law enforcement efforts in Manipur.</p><p></p><h3>About the COBRA force</h3><p>COBRA, an elite jungle-warfare force of the CRPF, was raised in 2008-09 primarily to combat Left Wing Extremism and insurgency in various parts of the country, including the Northeast. The force currently comprises ten battalions, each with around 1,000 highly trained commandos skilled in intelligence-based operations, guerrilla warfare, jungle combat and anti-insurgency tactics.</p><p>The commandos have played a crucial role in anti-Naxal operations across central India and are credited with several successful operations that significantly weakened Maoist activities in the country.</p><p></p><h3>Reassignment to new theatres</h3><p>Officials noted that with Maoist violence having drastically declined, some COBRA units are now being reassigned to emerging security challenges in other regions. Apart from Manipur, security agencies are also considering deploying one or two COBRA battalions in Jammu and Kashmir for specialised operations in the future.</p><h3>The road ahead</h3><p>The deployment of the elite force is expected to enhance operational capabilities on the ground and support ongoing efforts to restore peace and stability in Manipur. Officials say sustained operations, alongside community-level outreach and political dialogue, will be key to long-term normalcy in the state.</p>
-    </div>
-    <div class="foot">
-      <span>Bharat Samvad · National Security Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 2</span>
-    </div>
-  </div>
   <div class="langblock lang-hi" data-lang="hi">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">भारत संवाद</h1>
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">भारत संवाद</h1></a>
     </div>
     <div class="strip">
       <span>पृष्ठ 2 · राष्ट्रीय सुरक्षा</span>
@@ -202,13 +211,39 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <div class="body">
 <p class="lead">मणिपुर में सुरक्षा को मजबूत करने और स्थायी शांति बहाल करने के उद्देश्य से एक महत्वपूर्ण कदम में, केंद्रीय गृह मंत्रालय ने हिंसा प्रभावित राज्य में केंद्रीय रिजर्व पुलिस बल की विशिष्ट कमांडो बटालियन फॉर रेसोल्यूट एक्शन (COBRA) की दो बटालियनों की तैनाती को मंजूरी दे दी है।</p><p>अधिकारियों के अनुसार, दो बटालियन - 207 COBRA, पश्चिम बंगाल में स्थित, और 210 COBRA, असम में तैनात - को आने वाले हफ्तों में मणिपुर में परिचालन कर्तव्यों के लिए तैनात किया जाएगा। कमांडो से राज्य में हिंसा और अशांति में शामिल सशस्त्र समूहों के खिलाफ लक्षित अभियान चलाने की उम्मीद की जाती है।</p><h3>मणिपुर में अशांति की पृष्ठभूमि</h3><p>मणिपुर में मई 2023 से मैतेई और कुकी-ज़ो समुदायों के बीच लंबे समय तक जातीय संघर्ष देखा गया है, जिसके परिणामस्वरूप 260 से अधिक लोगों की मौत हो गई और हजारों लोग विस्थापित हुए। केंद्र और राज्य प्रशासन क्षेत्र में सामान्य स्थिति बहाल करने और दीर्घकालिक शांति सुनिश्चित करने की दिशा में काम कर रहे हैं।</p><p>एक वरिष्ठ सुरक्षा अधिकारी ने कहा कि विशेष COBRA इकाइयां राज्य में शांति और सुरक्षा को बिगाड़ने के लिए जिम्मेदार सशस्त्र तत्वों के खिलाफ केंद्रित अभियान चलाएंगी। यह तैनाती मणिपुर में उग्रवाद विरोधी और कानून प्रवर्तन प्रयासों को मजबूत करने की एक व्यापक रणनीति का हिस्सा है।</p><p></p><h3>कोबरा फोर्स के बारे में</h3><p>COBRA, सीआरपीएफ का एक विशिष्ट जंगल-युद्ध बल है, जिसकी स्थापना 2008-09 में मुख्य रूप से पूर्वोत्तर सहित देश के विभिन्न हिस्सों में वामपंथी उग्रवाद और उग्रवाद से निपटने के लिए की गई थी। बल में वर्तमान में दस बटालियन शामिल हैं, जिनमें से प्रत्येक में लगभग 1,000 उच्च प्रशिक्षित कमांडो हैं जो खुफिया-आधारित संचालन, गुरिल्ला युद्ध, जंगल युद्ध और उग्रवाद विरोधी रणनीति में कुशल हैं।</p><p>कमांडो ने पूरे मध्य भारत में नक्सल विरोधी अभियानों में महत्वपूर्ण भूमिका निभाई है और उन्हें कई सफल अभियानों का श्रेय दिया जाता है, जिन्होंने देश में माओवादी गतिविधियों को काफी हद तक कमजोर कर दिया है।</p><p></p><h3>नए थिएटरों को पुनः कार्यभार सौंपना</h3><p>अधिकारियों ने बताया कि माओवादी हिंसा में भारी गिरावट के साथ, कुछ COBRA इकाइयों को अब अन्य क्षेत्रों में उभरती सुरक्षा चुनौतियों के लिए फिर से नियुक्त किया जा रहा है। सुरक्षा एजेंसियां ​​भविष्य में विशेष अभियानों के लिए मणिपुर के अलावा जम्मू-कश्मीर में भी एक या दो COBRA बटालियन तैनात करने पर विचार कर रही हैं।</p><h3>आगे का रास्ता</h3><p>विशिष्ट बल की तैनाती से जमीन पर परिचालन क्षमताओं में वृद्धि होने और मणिपुर में शांति और स्थिरता बहाल करने के लिए चल रहे प्रयासों का समर्थन करने की उम्मीद है। अधिकारियों का कहना है कि सामुदायिक स्तर पर पहुंच और राजनीतिक बातचीत के साथ-साथ निरंतर संचालन, राज्य में दीर्घकालिक सामान्य स्थिति के लिए महत्वपूर्ण होगा।</p>
     </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">← मुखपृष्ठ पर वापस</a>
+    </div>
     <div class="foot">
       <span>भारत संवाद · राष्ट्रीय सुरक्षा डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 2</span>
     </div>
   </div>
+  <div class="langblock lang-en" data-lang="en">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">Bharat Samwad</h1></a>
+    </div>
+    <div class="strip">
+      <span>Page 2 · National Security</span>
+      <span class="mid">Special Report</span>
+      <span>Monday, 1 June 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">Security · Internal Affairs</span>
+    <h2 class="headline">Centre deploys elite COBRA commandos in Manipur to bolster anti-violence operations</h2>
+    <p class="subdeck">The Union Home Ministry has cleared the deployment of two CRPF COBRA battalions in Manipur for targeted operations against armed groups, as part of a wider effort to strengthen security and restore lasting peace in the violence-hit state.</p>
+    <div class="byline"><b>Special Correspondent</b> · Manipur</div>
+    <div class="body">
+<p class="lead">In a significant move aimed at strengthening security and restoring lasting peace in Manipur, the Union Ministry of Home Affairs has approved the deployment of two battalions of the elite Commando Battalion for Resolute Action (COBRA) of the Central Reserve Police Force in the violence-hit state.</p><p>According to officials, the two battalions — 207 COBRA, based in West Bengal, and 210 COBRA, stationed in Assam — will be deployed for operational duties in Manipur over the coming weeks. The commandos are expected to undertake targeted operations against armed groups involved in violence and unrest in the state.</p><h3>Background of unrest in Manipur</h3><p>Manipur has witnessed prolonged ethnic clashes between the Meitei and Kuki-Zo communities since May 2023, resulting in the deaths of more than 260 people and the displacement of thousands. The Centre and the state administration have been working towards restoring normalcy and ensuring long-term peace in the region.</p><p>A senior security official said the specialised COBRA units will conduct focused operations against armed elements responsible for disturbing peace and security in the state. The deployment is part of a broader strategy to strengthen counter-insurgency and law enforcement efforts in Manipur.</p><p></p><h3>About the COBRA force</h3><p>COBRA, an elite jungle-warfare force of the CRPF, was raised in 2008-09 primarily to combat Left Wing Extremism and insurgency in various parts of the country, including the Northeast. The force currently comprises ten battalions, each with around 1,000 highly trained commandos skilled in intelligence-based operations, guerrilla warfare, jungle combat and anti-insurgency tactics.</p><p>The commandos have played a crucial role in anti-Naxal operations across central India and are credited with several successful operations that significantly weakened Maoist activities in the country.</p><p></p><h3>Reassignment to new theatres</h3><p>Officials noted that with Maoist violence having drastically declined, some COBRA units are now being reassigned to emerging security challenges in other regions. Apart from Manipur, security agencies are also considering deploying one or two COBRA battalions in Jammu and Kashmir for specialised operations in the future.</p><h3>The road ahead</h3><p>The deployment of the elite force is expected to enhance operational capabilities on the ground and support ongoing efforts to restore peace and stability in Manipur. Officials say sustained operations, alongside community-level outreach and political dialogue, will be key to long-term normalcy in the state.</p>
+    </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">← Back to Home</a>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · National Security Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 2</span>
+    </div>
+  </div>
   <div class="langblock lang-ur" dir="rtl" data-lang="ur">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">بھارت سنواد</h1>
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">بھارت سنواد</h1></a>
     </div>
     <div class="strip">
       <span>صفحہ 2 · قومی سلامتی</span>
@@ -221,6 +256,9 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <div class="byline"><b>خصوصی نامہ نگار</b> · منی پور</div>
     <div class="body">
 <p class="lead">منی پور میں سیکورٹی کو مضبوط بنانے اور دیرپا امن کی بحالی کے مقصد سے ایک اہم اقدام میں، مرکزی وزارت داخلہ نے تشدد زدہ ریاست میں سنٹرل ریزرو پولیس فورس کی ایلیٹ کمانڈو بٹالین فار ریزولوٹ ایکشن (COBRA) کی دو بٹالین کی تعیناتی کو منظوری دی ہے۔</p><p>حکام کے مطابق، دو بٹالین - 207 COBRA، جو مغربی بنگال میں واقع ہے، اور 210 COBRA، جو آسام میں تعینات ہیں - کو آنے والے ہفتوں میں منی پور میں آپریشنل ڈیوٹی کے لیے تعینات کیا جائے گا۔ توقع ہے کہ کمانڈوز ریاست میں تشدد اور بدامنی میں ملوث مسلح گروہوں کے خلاف ٹارگٹڈ آپریشن کریں گے۔</p><h3>منی پور میں بدامنی کا پس منظر</h3><p>منی پور میں مئی 2023 سے میٹی اور کوکی زو برادریوں کے درمیان طویل نسلی جھڑپوں کا مشاہدہ کیا گیا ہے، جس کے نتیجے میں 260 سے زائد افراد ہلاک اور ہزاروں بے گھر ہوئے۔ مرکز اور ریاستی انتظامیہ معمول کی بحالی اور خطے میں طویل مدتی امن کو یقینی بنانے کے لیے کام کر رہی ہے۔</p><p>ایک سینئر سیکورٹی اہلکار نے کہا کہ خصوصی COBRA یونٹ ریاست میں امن و سلامتی کو بگاڑنے کے ذمہ دار مسلح عناصر کے خلاف مرکوز کارروائیاں کریں گے۔ یہ تعیناتی منی پور میں انسداد بغاوت اور قانون نافذ کرنے کی کوششوں کو مضبوط بنانے کے لیے ایک وسیع حکمت عملی کا حصہ ہے۔</p><p></p><h3>کوبرا فورس کے بارے میں</h3><p>COBRA، CRPF کی ایک ایلیٹ جنگل وارفیئر فورس، 2008-09 میں بنیادی طور پر شمال مشرق سمیت ملک کے مختلف حصوں میں بائیں بازو کی انتہا پسندی اور شورش کا مقابلہ کرنے کے لیے تشکیل دی گئی تھی۔ یہ فورس فی الحال دس بٹالین پر مشتمل ہے، جن میں سے ہر ایک میں تقریباً 1,000 اعلیٰ تربیت یافتہ کمانڈوز ہیں جو انٹیلی جنس پر مبنی آپریشنز، گوریلا جنگ، جنگل میں لڑائی اور بغاوت مخالف حکمت عملیوں میں مہارت رکھتے ہیں۔</p><p>کمانڈوز نے پورے وسطی ہندوستان میں نکسل مخالف کارروائیوں میں ایک اہم کردار ادا کیا ہے اور انہیں کئی کامیاب آپریشنز کا سہرا دیا جاتا ہے جنہوں نے ملک میں ماؤنواز سرگرمیوں کو نمایاں طور پر کمزور کیا۔</p><p></p><h3>نئے تھیٹروں کو دوبارہ تفویض کرنا</h3><p>حکام نے نوٹ کیا کہ ماؤنواز تشدد میں زبردست کمی آنے کے بعد، کچھ کوبرا یونٹس کو اب دوسرے خطوں میں ابھرتے ہوئے سیکورٹی چیلنجوں کے لیے دوبارہ تفویض کیا جا رہا ہے۔ منی پور کے علاوہ، سیکورٹی ایجنسیاں مستقبل میں خصوصی کارروائیوں کے لیے جموں و کشمیر میں ایک یا دو کوبرا بٹالین تعینات کرنے پر بھی غور کر رہی ہیں۔</p><h3>آگے کی سڑک</h3><p>ایلیٹ فورس کی تعیناتی سے زمین پر آپریشنل صلاحیتوں کو بڑھانے اور منی پور میں امن و استحکام کی بحالی کے لیے جاری کوششوں کی حمایت کی توقع ہے۔ حکام کا کہنا ہے کہ کمیونٹی کی سطح تک رسائی اور سیاسی مکالمے کے ساتھ ساتھ مسلسل کارروائیاں ریاست میں طویل مدتی معمول کے لیے کلیدی ثابت ہوں گی۔</p>
+    </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">مرکزی صفحہ پر واپس →</a>
     </div>
     <div class="foot">
       <span>Bharat Samvad · قومی سلامتی Desk</span><span>© 2026 Bharat Samvad Publications</span><span>صفحہ 2</span>

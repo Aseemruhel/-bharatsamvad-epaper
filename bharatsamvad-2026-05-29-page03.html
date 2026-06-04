@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -134,9 +134,38 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 .newsfig figcaption b{font-family:"Khand",sans-serif;font-weight:700;letter-spacing:.5px;color:var(--accent-dk);text-transform:uppercase;margin-right:5px;}
 .lang-ur .newsfig figcaption{text-align:right;}
 
+
+/* clickable masthead — keeps the look, gains a hover hint */
+.home-logo-link{text-decoration:none;color:inherit;display:inline-block;transition:opacity .15s;}
+.home-logo-link:hover{opacity:.65;}
+
+/* back to home button at the bottom of every article */
+.back-home-wrap{display:flex;justify-content:center;margin:28px 0 18px;}
+.back-home-btn{
+    display:inline-block;
+    padding:11px 26px;
+    background:#9a1b1b;
+    color:#fff !important;
+    text-decoration:none;
+    font-family:Georgia,"Tiro Devanagari Hindi","Noto Nastaliq Urdu",serif;
+    font-size:15px;
+    font-weight:700;
+    letter-spacing:.5px;
+    border:2px solid #731010;
+    border-radius:3px;
+    box-shadow:3px 3px 0 rgba(38,34,28,.18);
+    transition:all .15s ease;
+}
+.back-home-btn:hover{
+    background:#731010;
+    transform:translate(-1px,-1px);
+    box-shadow:4px 4px 0 rgba(38,34,28,.22);
+}
+.lang-ur .back-home-btn{font-family:"Noto Nastaliq Urdu",serif;font-size:16px;line-height:2;}
+
 /* Print Styles for PDF */
 @media print {
-    .langbar, .pdf-download-btn, nav, .top-bar, .sidebar, .footer { display:none !important; }
+    .langbar, .pdf-download-btn, .back-home-wrap, nav, .top-bar, .sidebar, .footer { display:none !important; }
     body, .sheet { background:#fff !important; color:#000 !important; }
     .sheet { box-shadow:none; max-width:100%; margin:0 auto; }
     .langblock { display:block !important; page-break-after:always; }
@@ -166,29 +195,9 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
 
   </div>
   <div class="sheet">
-  <div class="langblock lang-en" data-lang="en">
-    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">Bharat Samwad</h1>
-    </div>
-    <div class="strip">
-      <span>Page 03 · Foreign Policy</span>
-      <span class="mid">Special Report</span>
-      <span>Friday, 29 May 2026 · bharatsamwad-epaper</span>
-    </div>
-    <span class="kicker">Diplomacy ·</span>
-    <h2 class="headline">India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit</h2>
-    <p class="subdeck">The upcoming India-Africa Forum Summit is expected to deepen cooperation in trade, technology, healthcare, energy and innovation, reinforcing a shared vision for growth and resilience across the Global South.</p>
-    <div class="byline"><b>Special Correspondent</b> · New Delhi</div>
-    <div class="body">
-<p class="lead">India is preparing to host the fourth India-Africa Forum Summit this year, signalling a renewed commitment to one of the most significant partnerships in the Global South. Leaders and representatives from across Africa are expected to participate in discussions aimed at expanding cooperation in trade, technology, infrastructure, healthcare and sustainable development.</p><p>The summit is being viewed as an important step toward strengthening political coordination and building long-term economic resilience between India and African nations. Officials and diplomats have described the partnership as one based on equality, mutual respect and shared developmental priorities.</p><h3>What the agreement covers</h3><p>According to officials, the framework spans defence technology, joint manufacturing and training. It also envisages collaboration on emerging technologies and supply-chain resilience.</p><p>The text of the agreement is expected to be made public in the coming days. Officials said implementation will be carried out in phases.</p><p></p><p>Platform — India-Africa Forum Summit First Summit — New Delhi, 2008 Key Areas — Trade, technology, healthcare, infrastructure, energy Current Trade Volume — Nearly $100 billion Indian Investment in Africa — More than $80 billion Scholarships Provided — Around 80,000 over the last decade</p><p></p><h3>What it means</h3><p>Experts believe the framework will give both countries greater strategic flexibility. Joint manufacturing, in particular, could create new industrial opportunities within India.</p><h3>The road ahead</h3><p>The fourth India-Africa Forum Summit comes at a time of growing geopolitical uncertainty, technological transformation and shifting economic alignments. For both India and African countries, the partnership is increasingly seen as central to building resilience in the Global South.</p><p>Diplomats and analysts believe the summit could help accelerate cooperation in energy security, supply chains, manufacturing, innovation and digital connectivity while reinforcing political coordination on global issues.</p><p>Overall, the India-Africa partnership is entering a new phase shaped by shared developmental goals, expanding economic ties and a common vision for a more balanced international order. The success of the upcoming summit will depend on how effectively these ambitions are translated into practical and long-term cooperation frameworks.</p>
-    </div>
-    <div class="foot">
-      <span>Bharat Samvad · Foreign Policy Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 03</span>
-    </div>
-  </div>
   <div class="langblock lang-hi" data-lang="hi">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">भारत संवाद</h1>
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">भारत संवाद</h1></a>
     </div>
     <div class="strip">
       <span>पृष्ठ 03 · विदेश नीति</span>
@@ -202,13 +211,39 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <div class="body">
 <p class="lead">भारत इस वर्ष चौथे भारत-अफ्रीका फोरम शिखर सम्मेलन की मेजबानी करने की तैयारी कर रहा है, जो वैश्विक दक्षिण में सबसे महत्वपूर्ण साझेदारियों में से एक के लिए नए सिरे से प्रतिबद्धता का संकेत है। व्यापार, प्रौद्योगिकी, बुनियादी ढांचे, स्वास्थ्य देखभाल और सतत विकास में सहयोग बढ़ाने के उद्देश्य से चर्चा में पूरे अफ्रीका के नेताओं और प्रतिनिधियों के भाग लेने की उम्मीद है।</p><p>शिखर सम्मेलन को भारत और अफ्रीकी देशों के बीच राजनीतिक समन्वय को मजबूत करने और दीर्घकालिक आर्थिक लचीलापन बनाने की दिशा में एक महत्वपूर्ण कदम के रूप में देखा जा रहा है। अधिकारियों और राजनयिकों ने साझेदारी को समानता, आपसी सम्मान और साझा विकासात्मक प्राथमिकताओं पर आधारित बताया है।</p><h3>समझौते में क्या शामिल है</h3><p>अधिकारियों के अनुसार, रूपरेखा रक्षा प्रौद्योगिकी, संयुक्त विनिर्माण और प्रशिक्षण तक फैली हुई है। इसमें उभरती प्रौद्योगिकियों और आपूर्ति-श्रृंखला लचीलेपन पर सहयोग की भी परिकल्पना की गई है।</p><p>समझौते का पाठ आने वाले दिनों में सार्वजनिक किए जाने की उम्मीद है। अधिकारियों ने कहा कि कार्यान्वयन चरणों में किया जाएगा।</p><p></p><p>मंच - भारत-अफ्रीका फोरम शिखर सम्मेलन पहला शिखर सम्मेलन - नई दिल्ली, 2008 प्रमुख क्षेत्र - व्यापार, प्रौद्योगिकी, स्वास्थ्य देखभाल, बुनियादी ढांचा, ऊर्जा वर्तमान व्यापार मात्रा - अफ्रीका में लगभग 100 अरब डॉलर का भारतीय निवेश - 80 अरब डॉलर से अधिक छात्रवृत्तियां प्रदान की गईं - पिछले दशक में लगभग 80,000</p><p></p><h3>इसका क्या मतलब है</h3><p>विशेषज्ञों का मानना ​​है कि यह रूपरेखा दोनों देशों को अधिक रणनीतिक लचीलापन प्रदान करेगी। संयुक्त विनिर्माण, विशेष रूप से, भारत के भीतर नए औद्योगिक अवसर पैदा कर सकता है।</p><h3>आगे का रास्ता</h3><p>चौथा भारत-अफ्रीका फोरम शिखर सम्मेलन बढ़ती भू-राजनीतिक अनिश्चितता, तकनीकी परिवर्तन और बदलते आर्थिक संरेखण के समय हो रहा है। भारत और अफ्रीकी दोनों देशों के लिए, साझेदारी को वैश्विक दक्षिण में लचीलापन बनाने के केंद्र के रूप में देखा जा रहा है।</p><p>राजनयिकों और विश्लेषकों का मानना ​​है कि शिखर सम्मेलन वैश्विक मुद्दों पर राजनीतिक समन्वय को मजबूत करते हुए ऊर्जा सुरक्षा, आपूर्ति श्रृंखला, विनिर्माण, नवाचार और डिजिटल कनेक्टिविटी में सहयोग में तेजी लाने में मदद कर सकता है।</p><p>कुल मिलाकर, भारत-अफ्रीका साझेदारी साझा विकासात्मक लक्ष्यों, आर्थिक संबंधों के विस्तार और अधिक संतुलित अंतर्राष्ट्रीय व्यवस्था के लिए एक आम दृष्टिकोण के आधार पर एक नए चरण में प्रवेश कर रही है। आगामी शिखर सम्मेलन की सफलता इस बात पर निर्भर करेगी कि इन महत्वाकांक्षाओं को व्यावहारिक और दीर्घकालिक सहयोग ढांचे में कितने प्रभावी ढंग से अनुवादित किया जाता है।</p>
     </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">← मुखपृष्ठ पर वापस</a>
+    </div>
     <div class="foot">
       <span>भारत संवाद · विदेश नीति डेस्क</span><span>© 2026 भारत संवाद प्रकाशन</span><span>पृष्ठ 03</span>
     </div>
   </div>
+  <div class="langblock lang-en" data-lang="en">
+    <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">Bharat Samwad</h1></a>
+    </div>
+    <div class="strip">
+      <span>Page 03 · Foreign Policy</span>
+      <span class="mid">Special Report</span>
+      <span>Friday, 29 May 2026 · bharatsamwad-epaper</span>
+    </div>
+    <span class="kicker">Diplomacy ·</span>
+    <h2 class="headline">India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit</h2>
+    <p class="subdeck">The upcoming India-Africa Forum Summit is expected to deepen cooperation in trade, technology, healthcare, energy and innovation, reinforcing a shared vision for growth and resilience across the Global South.</p>
+    <div class="byline"><b>Special Correspondent</b> · New Delhi</div>
+    <div class="body">
+<p class="lead">India is preparing to host the fourth India-Africa Forum Summit this year, signalling a renewed commitment to one of the most significant partnerships in the Global South. Leaders and representatives from across Africa are expected to participate in discussions aimed at expanding cooperation in trade, technology, infrastructure, healthcare and sustainable development.</p><p>The summit is being viewed as an important step toward strengthening political coordination and building long-term economic resilience between India and African nations. Officials and diplomats have described the partnership as one based on equality, mutual respect and shared developmental priorities.</p><h3>What the agreement covers</h3><p>According to officials, the framework spans defence technology, joint manufacturing and training. It also envisages collaboration on emerging technologies and supply-chain resilience.</p><p>The text of the agreement is expected to be made public in the coming days. Officials said implementation will be carried out in phases.</p><p></p><p>Platform — India-Africa Forum Summit First Summit — New Delhi, 2008 Key Areas — Trade, technology, healthcare, infrastructure, energy Current Trade Volume — Nearly $100 billion Indian Investment in Africa — More than $80 billion Scholarships Provided — Around 80,000 over the last decade</p><p></p><h3>What it means</h3><p>Experts believe the framework will give both countries greater strategic flexibility. Joint manufacturing, in particular, could create new industrial opportunities within India.</p><h3>The road ahead</h3><p>The fourth India-Africa Forum Summit comes at a time of growing geopolitical uncertainty, technological transformation and shifting economic alignments. For both India and African countries, the partnership is increasingly seen as central to building resilience in the Global South.</p><p>Diplomats and analysts believe the summit could help accelerate cooperation in energy security, supply chains, manufacturing, innovation and digital connectivity while reinforcing political coordination on global issues.</p><p>Overall, the India-Africa partnership is entering a new phase shaped by shared developmental goals, expanding economic ties and a common vision for a more balanced international order. The success of the upcoming summit will depend on how effectively these ambitions are translated into practical and long-term cooperation frameworks.</p>
+    </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">← Back to Home</a>
+    </div>
+    <div class="foot">
+      <span>Bharat Samvad · Foreign Policy Desk</span><span>© 2026 Bharat Samvad Publications</span><span>Page 03</span>
+    </div>
+  </div>
   <div class="langblock lang-ur" dir="rtl" data-lang="ur">
     <div class="masthead" style="border-bottom:2px solid var(--rule);padding:4px 0 6px;">
-      <h1 style="font-size:36px;">بھارت سنواد</h1>
+      <a href="index.html" class="home-logo-link" title="Home"><h1 style="font-size:36px;">بھارت سنواد</h1></a>
     </div>
     <div class="strip">
       <span>صفحہ 03 · خارجہ پالیسی</span>
@@ -221,6 +256,9 @@ body{background:#cfc7b3;font-family:"Tiro Devanagari Hindi",Georgia,serif;color:
     <div class="byline"><b>خصوصی نامہ نگار</b> · نئی دہلی</div>
     <div class="body">
 <p class="lead">ہندوستان اس سال چوتھی ہندوستان-افریقہ فورم چوٹی کانفرنس کی میزبانی کرنے کی تیاری کر رہا ہے، جو گلوبل ساؤتھ میں سب سے اہم شراکت میں سے ایک کے لیے تجدید عہد کا اشارہ دیتا ہے۔ توقع ہے کہ افریقہ بھر سے رہنماؤں اور نمائندوں کی بات چیت میں شرکت کی توقع ہے جس کا مقصد تجارت، ٹیکنالوجی، بنیادی ڈھانچے، صحت کی دیکھ بھال اور پائیدار ترقی میں تعاون کو بڑھانا ہے۔</p><p>اس سربراہی اجلاس کو ہندوستان اور افریقی ممالک کے درمیان سیاسی تال میل کو مضبوط بنانے اور طویل مدتی اقتصادی لچک پیدا کرنے کی جانب ایک اہم قدم کے طور پر دیکھا جا رہا ہے۔ حکام اور سفارت کاروں نے شراکت داری کو مساوات، باہمی احترام اور مشترکہ ترقیاتی ترجیحات پر مبنی قرار دیا ہے۔</p><h3>معاہدے کا احاطہ کیا ہے۔</h3><p>حکام کے مطابق یہ فریم ورک دفاعی ٹیکنالوجی، مشترکہ تیاری اور تربیت پر محیط ہے۔ یہ ابھرتی ہوئی ٹیکنالوجیز اور سپلائی چین لچک پر بھی تعاون کا تصور کرتا ہے۔</p><p>معاہدے کا متن آنے والے دنوں میں منظر عام پر آنے کی امید ہے۔ حکام نے بتایا کہ اس پر عمل درآمد مرحلہ وار کیا جائے گا۔</p><p></p><p>پلیٹ فارم — انڈیا-افریقہ فورم سمٹ پہلا سمٹ — نئی دہلی، 2008 کلیدی شعبے — تجارت، ٹیکنالوجی، صحت کی دیکھ بھال، بنیادی ڈھانچہ، توانائی کا موجودہ تجارتی حجم — افریقہ میں تقریباً 100 بلین ڈالر کی ہندوستانی سرمایہ کاری — 80 بلین ڈالر سے زیادہ کے وظائف فراہم کیے گئے — گزشتہ دہائی میں تقریباً 80,000</p><p></p><h3>اس کا کیا مطلب ہے۔</h3><p>ماہرین کا خیال ہے کہ یہ فریم ورک دونوں ممالک کو زیادہ اسٹریٹجک لچک فراہم کرے گا۔ مشترکہ مینوفیکچرنگ، خاص طور پر، ہندوستان کے اندر نئے صنعتی مواقع پیدا کر سکتی ہے۔</p><h3>آگے کی سڑک</h3><p>چوتھی ہندوستان-افریقہ فورم سمٹ ایک ایسے وقت میں ہو رہی ہے جب بڑھتی ہوئی جغرافیائی سیاسی غیر یقینی صورتحال، تکنیکی تبدیلی اور اقتصادی صف بندی میں تبدیلی آ رہی ہے۔ ہندوستان اور افریقی ممالک دونوں کے لیے، شراکت داری کو تیزی سے گلوبل ساؤتھ میں لچک پیدا کرنے کے لیے مرکزی حیثیت سے دیکھا جا رہا ہے۔</p><p>سفارت کاروں اور تجزیہ کاروں کا خیال ہے کہ سربراہی اجلاس توانائی کی حفاظت، سپلائی چینز، مینوفیکچرنگ، اختراعات اور ڈیجیٹل کنیکٹیویٹی میں تعاون کو تیز کرنے میں مدد دے سکتا ہے جبکہ عالمی مسائل پر سیاسی ہم آہنگی کو تقویت دیتا ہے۔</p><p>مجموعی طور پر، ہندوستان-افریقہ شراکت داری ایک نئے مرحلے میں داخل ہو رہی ہے جس کی تشکیل مشترکہ ترقیاتی اہداف، اقتصادی تعلقات کو وسعت دے رہی ہے اور زیادہ متوازن بین الاقوامی نظم کے لیے مشترکہ وژن ہے۔ آئندہ سربراہی اجلاس کی کامیابی کا انحصار اس بات پر ہوگا کہ ان عزائم کو عملی اور طویل مدتی تعاون کے فریم ورک میں کس حد تک مؤثر طریقے سے ترجمہ کیا جاتا ہے۔</p>
+    </div>
+    <div class="back-home-wrap">
+      <a class="back-home-btn" href="index.html">مرکزی صفحہ پر واپس →</a>
     </div>
     <div class="foot">
       <span>Bharat Samvad · خارجہ پالیسی Desk</span><span>© 2026 Bharat Samvad Publications</span><span>صفحہ 03</span>
