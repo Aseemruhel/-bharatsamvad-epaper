@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -344,6 +344,81 @@ body{
   line-height:2;
 }
 
+
+/* breaking-news ticker */
+.ticker-wrap{
+  background:#0d0907;
+  border-bottom:2px solid var(--accent);
+  border-top:1px solid #2a1f1a;
+  overflow:hidden;
+  position:relative;
+  z-index:40;
+}
+.ticker-label{
+  position:absolute;
+  left:0;
+  top:0;
+  bottom:0;
+  display:flex;
+  align-items:center;
+  padding:0 14px;
+  background:var(--accent);
+  color:#fff;
+  font-family:"Khand","Mukta",sans-serif;
+  font-weight:700;
+  font-size:13px;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  z-index:2;
+  box-shadow:6px 0 12px -4px rgba(0,0,0,.6);
+}
+.ticker-label::after{
+  content:"";
+  position:absolute;
+  right:-10px;
+  top:0;
+  bottom:0;
+  width:0;
+  border-top:18px solid transparent;
+  border-bottom:18px solid transparent;
+  border-left:10px solid var(--accent);
+}
+.ticker-track{
+  display:flex;
+  gap:60px;
+  padding:11px 18px 11px 110px;
+  white-space:nowrap;
+  width:max-content;
+  animation:ticker-scroll 60s linear infinite;
+  font-family:"Mukta",Georgia,sans-serif;
+  font-size:14px;
+  color:#f3ead7;
+}
+.ticker-item{
+  display:inline-flex;
+  align-items:center;
+  gap:60px;
+}
+.ticker-item::before{
+  content:"C6";
+  color:var(--gold);
+  font-size:9px;
+  margin-right:14px;
+}
+.ticker-wrap:hover .ticker-track{
+  animation-play-state:paused;
+}
+@keyframes ticker-scroll{
+  from{ transform:translateX(0); }
+  to  { transform:translateX(-50%); }
+}
+@media(max-width:700px){
+  .ticker-label{font-size:11px; padding:0 10px;}
+  .ticker-label::after{border-top-width:16px; border-bottom-width:16px;}
+  .ticker-track{padding-left:90px; gap:40px; font-size:13px; animation-duration:45s;}
+  .ticker-item::before{margin-right:10px;}
+}
+
 @media(max-width:700px){
   .wrap{
     padding:25px 22px 38px;
@@ -395,88 +470,14 @@ body{
 <body>
 <div class="topbar">
   <div class="langbar">
-    <button data-l="en" onclick="setLang('en')">English</button>
     <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
+    <button data-l="en" onclick="setLang('en')">English</button>
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>
 </div>
 
+
 <div class="wrap">
-  <div class="langblock en" data-lang="en">
-<div class="mast">
-<a href="index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
-<div class="tag">Truth · Creation · Concern</div>
-</div>
-<div class="navribbon">
-<a class="navlink" href="index.html">Home</a>
-<span class="navsep">·</span>
-<a class="navlink active" href="archive.html">Archive</a>
-</div>
-<div class="issue">E-paper · Older editions</div>
-<section class="day">
-<div class="day-head">
-<h2>Monday, 1 June 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-06-01-page1.html"><small>Page 1 · Defence &amp; Strategic Affairs</small><strong>Nepali Army Contingent Participates in First Edition of Multinational Exercise ‘Ex Pragati’</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-01-page2.html"><small>Page 2 · National Security</small><strong>Centre deploys elite COBRA commandos in Manipur to bolster anti-violence operations</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-01-page3.html"><small>Page 3 · Business</small><strong>India's chip startups cross from prototype to production</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-01-page4.html"><small>Page 4 · National Security</small><strong>Agencies intensify monitoring of cross-border signal networks in Jammu and Kashmir</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Saturday, 30 May 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-30-page1.html"><small>Page 1 · Border Policy</small><strong>Border development initiatives reshape life in Jammu and Kashmir’s frontier districts</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Friday, 29 May 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-29-page1.html"><small>Page 1 · National Security</small><strong>HM Amit Shah visits Border Outposts in Bhuj, Calls for a Stronger ‘Leak-Proof’ Security Grid</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-29-page2.html"><small>Page 02 · Foreign Policy</small><strong>India Rejects China-Pakistan Remarks on J&amp;K; Calls Kashmir and Ladakh 'Integral Parts' of the Country</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-29-page03.html"><small>Page 03 · Foreign Policy</small><strong>India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Wednesday, 27 May 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-27-page1.html"><small>Page 01 · World</small><strong>Truckers Strike in Balochistan: Rising Security Fears as Several Cargo Trucks Reported Set Ablaze</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-27-page3.html"><small>Page 3 · Special</small><strong>भारत संवाद - पृष्ठ 03 : ऊर्जा</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Tuesday, 26 May 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-05-26-page1.html"><small>Page 01 · Foreign Policy</small><strong>Amid Global Supply-Chain Race, India and US Seal Critical Minerals and Rare Earths Pact</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page2.html"><small>Page 02 · National</small><strong>"The Farthest, First": Kohima Launches 'Jan Bhagidari Abhiyan', Vowing Last-Mile Reach of Schemes</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page3.html"><small>Page 03 · Kashmir</small><strong>After a gondola malfunction in Kashmir, the Indian Army launched a major rescue operation</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-26-page4.html"><small>Page 4 · Special</small><strong>भारत संवाद - पուգा वैली भू-तापीय उपलब्धि</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Monday, 25 May 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-edition-2026-05-25.html"><small>Page 01 · Foreign Policy</small><strong>From the Gulf to Europe, India Makes Its Mark: Modi's Five-Nation Tour Returns with Billion-Dollar Deals and Energy Security</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page2.html"><small>Page 02 · National</small><strong>India's New Pivot in the Indian Ocean: Great Nicobar Integrated Development Project to Open Doors of Strategic and Economic Promise</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page3.html"><small>Page 03 · World</small><strong>Wealth Versus Development: Questions of Transparency and Local Rights Over Balochistan's Mineral Resources</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page4.html"><small>Page 04 · Diplomacy</small><strong>Bridges of Collaboration: The Cyprus-India Partnership Moves Beyond the Bilateral Toward Geopolitical Synergy</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page5.html"><small>Page 05 · Defence</small><strong>13 Nations' Armies in the Jungles of Meghalaya: Multinational Exercise 'Pragati 2026' Begins</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-05-25-page6.html"><small>Page 06 · Business</small><strong>Feeding a Global Hunger for Satellite Data: Indian Startups Emerge as Global Providers of Earth-Observation Services</strong><span>Read full article →</span></a>
-</section>
-<div class="footer"><span>Bharat Samwad</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
-</div>
   <div class="langblock hi" data-lang="hi">
 <div class="mast">
 <a href="index.html" class="home-logo" title="Back to Main Page"><h1>भारत संवाद</h1></a>
@@ -551,6 +552,81 @@ body{
 <a class="card" href="bharatsamvad-2026-05-25-page6.html"><small>पृष्ठ 06 · व्यापार</small><strong>उपग्रह डेटा की वैश्विक भूख: भारतीय स्टार्टअप बने पृथ्वी-अवलोकन सेवाओं के उभरते वैश्विक प्रदाता</strong><span>पूरा लेख पढ़ें →</span></a>
 </section>
 <div class="footer"><span>भारत संवाद</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
+</div>
+  <div class="langblock en" data-lang="en">
+<div class="mast">
+<a href="index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
+<div class="tag">Truth · Creation · Concern</div>
+</div>
+<div class="navribbon">
+<a class="navlink" href="index.html">Home</a>
+<span class="navsep">·</span>
+<a class="navlink active" href="archive.html">Archive</a>
+</div>
+<div class="issue">E-paper · Older editions</div>
+<section class="day">
+<div class="day-head">
+<h2>Monday, 1 June 2026</h2>
+<div class="line"></div>
+<span></span>
+</div>
+<a class="card" href="bharatsamvad-2026-06-01-page1.html"><small>Page 1 · Defence &amp; Strategic Affairs</small><strong>Nepali Army Contingent Participates in First Edition of Multinational Exercise ‘Ex Pragati’</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-01-page2.html"><small>Page 2 · National Security</small><strong>Centre deploys elite COBRA commandos in Manipur to bolster anti-violence operations</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-01-page3.html"><small>Page 3 · Business</small><strong>India's chip startups cross from prototype to production</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-01-page4.html"><small>Page 4 · National Security</small><strong>Agencies intensify monitoring of cross-border signal networks in Jammu and Kashmir</strong><span>Read full article →</span></a>
+</section>
+<section class="day">
+<div class="day-head">
+<h2>Saturday, 30 May 2026</h2>
+<div class="line"></div>
+<span></span>
+</div>
+<a class="card" href="bharatsamvad-2026-05-30-page1.html"><small>Page 1 · Border Policy</small><strong>Border development initiatives reshape life in Jammu and Kashmir’s frontier districts</strong><span>Read full article →</span></a>
+</section>
+<section class="day">
+<div class="day-head">
+<h2>Friday, 29 May 2026</h2>
+<div class="line"></div>
+<span></span>
+</div>
+<a class="card" href="bharatsamvad-2026-05-29-page1.html"><small>Page 1 · National Security</small><strong>HM Amit Shah visits Border Outposts in Bhuj, Calls for a Stronger ‘Leak-Proof’ Security Grid</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-29-page2.html"><small>Page 02 · Foreign Policy</small><strong>India Rejects China-Pakistan Remarks on J&amp;K; Calls Kashmir and Ladakh 'Integral Parts' of the Country</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-29-page03.html"><small>Page 03 · Foreign Policy</small><strong>India and Africa Strengthen Strategic Partnership Ahead of Fourth Forum Summit</strong><span>Read full article →</span></a>
+</section>
+<section class="day">
+<div class="day-head">
+<h2>Wednesday, 27 May 2026</h2>
+<div class="line"></div>
+<span></span>
+</div>
+<a class="card" href="bharatsamvad-2026-05-27-page1.html"><small>Page 01 · World</small><strong>Truckers Strike in Balochistan: Rising Security Fears as Several Cargo Trucks Reported Set Ablaze</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-27-page3.html"><small>Page 3 · Special</small><strong>भारत संवाद - पृष्ठ 03 : ऊर्जा</strong><span>Read full article →</span></a>
+</section>
+<section class="day">
+<div class="day-head">
+<h2>Tuesday, 26 May 2026</h2>
+<div class="line"></div>
+<span></span>
+</div>
+<a class="card" href="bharatsamvad-2026-05-26-page1.html"><small>Page 01 · Foreign Policy</small><strong>Amid Global Supply-Chain Race, India and US Seal Critical Minerals and Rare Earths Pact</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-26-page2.html"><small>Page 02 · National</small><strong>"The Farthest, First": Kohima Launches 'Jan Bhagidari Abhiyan', Vowing Last-Mile Reach of Schemes</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-26-page3.html"><small>Page 03 · Kashmir</small><strong>After a gondola malfunction in Kashmir, the Indian Army launched a major rescue operation</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-26-page4.html"><small>Page 4 · Special</small><strong>भारत संवाद - पուգा वैली भू-तापीय उपलब्धि</strong><span>Read full article →</span></a>
+</section>
+<section class="day">
+<div class="day-head">
+<h2>Monday, 25 May 2026</h2>
+<div class="line"></div>
+<span></span>
+</div>
+<a class="card" href="bharatsamvad-edition-2026-05-25.html"><small>Page 01 · Foreign Policy</small><strong>From the Gulf to Europe, India Makes Its Mark: Modi's Five-Nation Tour Returns with Billion-Dollar Deals and Energy Security</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-25-page2.html"><small>Page 02 · National</small><strong>India's New Pivot in the Indian Ocean: Great Nicobar Integrated Development Project to Open Doors of Strategic and Economic Promise</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-25-page3.html"><small>Page 03 · World</small><strong>Wealth Versus Development: Questions of Transparency and Local Rights Over Balochistan's Mineral Resources</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-25-page4.html"><small>Page 04 · Diplomacy</small><strong>Bridges of Collaboration: The Cyprus-India Partnership Moves Beyond the Bilateral Toward Geopolitical Synergy</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-25-page5.html"><small>Page 05 · Defence</small><strong>13 Nations' Armies in the Jungles of Meghalaya: Multinational Exercise 'Pragati 2026' Begins</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-05-25-page6.html"><small>Page 06 · Business</small><strong>Feeding a Global Hunger for Satellite Data: Indian Startups Emerge as Global Providers of Earth-Observation Services</strong><span>Read full article →</span></a>
+</section>
+<div class="footer"><span>Bharat Samwad</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
   <div class="langblock ur" data-lang="ur">
 <div class="mast">
@@ -652,14 +728,14 @@ function setLang(l){
 }
 
 document.addEventListener('DOMContentLoaded', function(){
-  var s = 'en';
+  var s = 'hi';
 
   try{
-    s = localStorage.getItem('bs_lang') || 'en';
+    s = localStorage.getItem('bs_lang') || 'hi';
   }catch(e){}
 
-  if(!['en','hi','ur'].includes(s)){
-    s = 'en';
+  if(!['hi','en','ur'].includes(s)){
+    s = 'hi';
   }
 
   setLang(s);

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -344,6 +344,81 @@ body{
   line-height:2;
 }
 
+
+/* breaking-news ticker */
+.ticker-wrap{
+  background:#0d0907;
+  border-bottom:2px solid var(--accent);
+  border-top:1px solid #2a1f1a;
+  overflow:hidden;
+  position:relative;
+  z-index:40;
+}
+.ticker-label{
+  position:absolute;
+  left:0;
+  top:0;
+  bottom:0;
+  display:flex;
+  align-items:center;
+  padding:0 14px;
+  background:var(--accent);
+  color:#fff;
+  font-family:"Khand","Mukta",sans-serif;
+  font-weight:700;
+  font-size:13px;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  z-index:2;
+  box-shadow:6px 0 12px -4px rgba(0,0,0,.6);
+}
+.ticker-label::after{
+  content:"";
+  position:absolute;
+  right:-10px;
+  top:0;
+  bottom:0;
+  width:0;
+  border-top:18px solid transparent;
+  border-bottom:18px solid transparent;
+  border-left:10px solid var(--accent);
+}
+.ticker-track{
+  display:flex;
+  gap:60px;
+  padding:11px 18px 11px 110px;
+  white-space:nowrap;
+  width:max-content;
+  animation:ticker-scroll 60s linear infinite;
+  font-family:"Mukta",Georgia,sans-serif;
+  font-size:14px;
+  color:#f3ead7;
+}
+.ticker-item{
+  display:inline-flex;
+  align-items:center;
+  gap:60px;
+}
+.ticker-item::before{
+  content:"C6";
+  color:var(--gold);
+  font-size:9px;
+  margin-right:14px;
+}
+.ticker-wrap:hover .ticker-track{
+  animation-play-state:paused;
+}
+@keyframes ticker-scroll{
+  from{ transform:translateX(0); }
+  to  { transform:translateX(-50%); }
+}
+@media(max-width:700px){
+  .ticker-label{font-size:11px; padding:0 10px;}
+  .ticker-label::after{border-top-width:16px; border-bottom-width:16px;}
+  .ticker-track{padding-left:90px; gap:40px; font-size:13px; animation-duration:45s;}
+  .ticker-item::before{margin-right:10px;}
+}
+
 @media(max-width:700px){
   .wrap{
     padding:25px 22px 38px;
@@ -395,56 +470,14 @@ body{
 <body>
 <div class="topbar">
   <div class="langbar">
-    <button data-l="en" onclick="setLang('en')">English</button>
     <button data-l="hi" onclick="setLang('hi')">हिंदी</button>
+    <button data-l="en" onclick="setLang('en')">English</button>
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>
 </div>
 
+
 <div class="wrap">
-  <div class="langblock en" data-lang="en">
-<div class="mast">
-<a href="index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
-<div class="tag">Truth · Creation · Concern</div>
-</div>
-<div class="navribbon">
-<a class="navlink active" href="index.html">Home</a>
-<span class="navsep">·</span>
-<a class="navlink" href="archive.html">Archive</a>
-</div>
-<div class="issue">E-paper · All editions</div>
-<section class="day">
-<div class="day-head">
-<h2>Thursday, 4 June 2026</h2>
-<div class="line"></div>
-<span class="badge">Latest</span>
-</div>
-<a class="card" href="bharatsamvad-2026-06-04-page1.html"><small>Page 1 · Business</small><strong>Counterfeit currency detections rise 5.7% in FY26, led by ₹500 and ₹200 notes</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-04-page2.html"><small>Page 2 · Governance</small><strong>MHA simplifies visa security regime, removes dual clearance requirement for foreign nationals</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-04-page3.html"><small>Page 3 · Defence</small><strong>Fourth Sudarshan S-400 squadron arrives in India from Russia, fifth and final unit expected by early 2027</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Wednesday, 3 June 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-06-03-page1.html"><small>Page 1 · Business</small><strong>India's manufacturing growth quickens to three-month high in May as domestic demand offsets cost pressures</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-03-page2.html"><small>Page 2 · Business</small><strong>RBI denies reports of gold sale; says physical stock unchanged at 880.52 tonnes</strong><span>Read full article →</span></a>
-</section>
-<section class="day">
-<div class="day-head">
-<h2>Tuesday, 2 June 2026</h2>
-<div class="line"></div>
-<span></span>
-</div>
-<a class="card" href="bharatsamvad-2026-06-02-page1.html"><small>Page 1 · Front Page</small><strong>India-Oman CEPA Takes Effect: Duty-Free Trade Era Begins</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-02-page2.html"><small>Page 2 · International Affairs</small><strong>India Dispatches Second Major Consignment of Medical Aid to Fight Ebola in Africa</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-02-page3.html"><small>Page 3 · Business</small><strong>AirTrunk to invest $21 billion in 3 GW data centre near Mumbai</strong><span>Read full article →</span></a>
-<a class="card" href="bharatsamvad-2026-06-02-page4.html"><small>Page 4 · World</small><strong>Pakistan Embassy in Japan urges citizens to follow local laws on mosque construction after Kawagoe controversy</strong><span>Read full article →</span></a>
-</section>
-<div class="footer"><span>Bharat Samwad</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
-</div>
   <div class="langblock hi" data-lang="hi">
 <div class="mast">
 <a href="index.html" class="home-logo" title="Back to Main Page"><h1>भारत संवाद</h1></a>
@@ -487,6 +520,49 @@ body{
 <a class="card" href="bharatsamvad-2026-06-02-page4.html"><small>पृष्ठ 4 · दुनिया</small><strong>जापान में पाकिस्तान दूतावास ने कावागो विवाद के बाद नागरिकों से मस्जिद निर्माण पर स्थानीय कानूनों का पालन करने का आग्रह किया</strong><span>पूरा लेख पढ़ें →</span></a>
 </section>
 <div class="footer"><span>भारत संवाद</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
+</div>
+  <div class="langblock en" data-lang="en">
+<div class="mast">
+<a href="index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
+<div class="tag">Truth · Creation · Concern</div>
+</div>
+<div class="navribbon">
+<a class="navlink active" href="index.html">Home</a>
+<span class="navsep">·</span>
+<a class="navlink" href="archive.html">Archive</a>
+</div>
+<div class="issue">E-paper · All editions</div>
+<section class="day">
+<div class="day-head">
+<h2>Thursday, 4 June 2026</h2>
+<div class="line"></div>
+<span class="badge">Latest</span>
+</div>
+<a class="card" href="bharatsamvad-2026-06-04-page1.html"><small>Page 1 · Business</small><strong>Counterfeit currency detections rise 5.7% in FY26, led by ₹500 and ₹200 notes</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-04-page2.html"><small>Page 2 · Governance</small><strong>MHA simplifies visa security regime, removes dual clearance requirement for foreign nationals</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-04-page3.html"><small>Page 3 · Defence</small><strong>Fourth Sudarshan S-400 squadron arrives in India from Russia, fifth and final unit expected by early 2027</strong><span>Read full article →</span></a>
+</section>
+<section class="day">
+<div class="day-head">
+<h2>Wednesday, 3 June 2026</h2>
+<div class="line"></div>
+<span></span>
+</div>
+<a class="card" href="bharatsamvad-2026-06-03-page1.html"><small>Page 1 · Business</small><strong>India's manufacturing growth quickens to three-month high in May as domestic demand offsets cost pressures</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-03-page2.html"><small>Page 2 · Business</small><strong>RBI denies reports of gold sale; says physical stock unchanged at 880.52 tonnes</strong><span>Read full article →</span></a>
+</section>
+<section class="day">
+<div class="day-head">
+<h2>Tuesday, 2 June 2026</h2>
+<div class="line"></div>
+<span></span>
+</div>
+<a class="card" href="bharatsamvad-2026-06-02-page1.html"><small>Page 1 · Front Page</small><strong>India-Oman CEPA Takes Effect: Duty-Free Trade Era Begins</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-02-page2.html"><small>Page 2 · International Affairs</small><strong>India Dispatches Second Major Consignment of Medical Aid to Fight Ebola in Africa</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-02-page3.html"><small>Page 3 · Business</small><strong>AirTrunk to invest $21 billion in 3 GW data centre near Mumbai</strong><span>Read full article →</span></a>
+<a class="card" href="bharatsamvad-2026-06-02-page4.html"><small>Page 4 · World</small><strong>Pakistan Embassy in Japan urges citizens to follow local laws on mosque construction after Kawagoe controversy</strong><span>Read full article →</span></a>
+</section>
+<div class="footer"><span>Bharat Samwad</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
   <div class="langblock ur" data-lang="ur">
 <div class="mast">
@@ -556,14 +632,14 @@ function setLang(l){
 }
 
 document.addEventListener('DOMContentLoaded', function(){
-  var s = 'en';
+  var s = 'hi';
 
   try{
-    s = localStorage.getItem('bs_lang') || 'en';
+    s = localStorage.getItem('bs_lang') || 'hi';
   }catch(e){}
 
-  if(!['en','hi','ur'].includes(s)){
-    s = 'en';
+  if(!['hi','en','ur'].includes(s)){
+    s = 'hi';
   }
 
   setLang(s);
