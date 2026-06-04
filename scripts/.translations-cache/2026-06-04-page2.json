@@ -1,0 +1,215 @@
+{
+  "hash": "3df365413541e72a",
+  "t": {
+    "fm.section": {
+      "hi": "शासन · आप्रवासन",
+      "en": "Governance · Immigration",
+      "ur": "گورننس · امیگریشن"
+    },
+    "fm.kicker": {
+      "hi": "वीज़ा नीति · सुरक्षा मंजूरी",
+      "en": "Visa Policy · Security Clearance",
+      "ur": "ویزا پالیسی · سیکیورٹی کلیئرنس"
+    },
+    "fm.byline": {
+      "hi": "व्यापार संवाददाता",
+      "en": "Business Correspondent",
+      "ur": "کاروباری نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "गृह मंत्रालय ने वीजा सुरक्षा व्यवस्था को सरल बनाया, विदेशी नागरिकों के लिए दोहरी मंजूरी की आवश्यकता को हटा दिया",
+      "en": "MHA simplifies visa security regime, removes dual clearance requirement for foreign nationals",
+      "ur": "MHA نے ویزا سیکیورٹی نظام کو آسان بنایا، غیر ملکی شہریوں کے لیے دوہری منظوری کی ضرورت کو ہٹا دیا۔"
+    },
+    "fm.subdeck": {
+      "hi": "सरकार ने अलग-अलग पूर्व संदर्भ श्रेणी (पीआरसी) मंजूरी की आवश्यकता को खत्म करने के लिए वीज़ा मैनुअल में संशोधन किया है, जहां सुरक्षा मंजूरी पोर्टल के माध्यम से सुरक्षा मंजूरी पहले ही दी जा चुकी है, जिसका लक्ष्य चुनिंदा विदेशी आगंतुकों के लिए मंजूरी को सुव्यवस्थित करना है।",
+      "en": "The government has amended the Visa Manual to eliminate the need for separate Prior Reference Category (PRC) clearance where security approval has already been granted through the Security Clearance Portal, aiming to streamline approvals for select foreign visitors.",
+      "ur": "حکومت نے ویزہ مینول میں ترمیم کی ہے تاکہ علیحدہ پرائیر ریفرنس کیٹیگری (PRC) کلیئرنس کی ضرورت کو ختم کیا جا سکے جہاں سیکیورٹی کلیئرنس پورٹل کے ذریعے پہلے ہی سیکیورٹی منظوری دی جاچکی ہے، جس کا مقصد منتخب غیر ملکی زائرین کے لیے منظوریوں کو ہموار کرنا ہے۔"
+    },
+    "b0": {
+      "hi": "केंद्र सरकार ने विदेशी नागरिकों की कुछ श्रेणियों में दोहरी मंजूरी की लंबे समय से चली आ रही आवश्यकता को हटाते हुए, अपने वीज़ा और सुरक्षा मंजूरी ढांचे को संशोधित किया है। गृह मंत्रालय (एमएचए) के अधिकारियों के अनुसार, सुरक्षा मंजूरी पोर्टल (एससीपी) के माध्यम से सुरक्षा मंजूरी प्राप्त करने वाले व्यक्तियों को अब अलग से पूर्व संदर्भ श्रेणी (पीआरसी) मंजूरी की आवश्यकता नहीं होगी।",
+      "en": "The Union government has revised its visa and security clearance framework, removing a long-standing requirement for dual approval in certain categories of foreign nationals. According to officials in the Ministry of Home Affairs (MHA), individuals who receive security clearance through the Security Clearance Portal (SCP) will no longer need a separate Prior Reference Category (PRC) clearance.",
+      "ur": "مرکزی حکومت نے اپنے ویزا اور سیکورٹی کلیئرنس کے فریم ورک پر نظرثانی کی ہے، جس سے غیر ملکی شہریوں کے بعض زمروں میں دوہری منظوری کے لیے ایک دیرینہ شرط کو ختم کیا گیا ہے۔ وزارت داخلہ (MHA) کے حکام کے مطابق، سیکورٹی کلیئرنس پورٹل (SCP) کے ذریعے سیکورٹی کلیئرنس حاصل کرنے والے افراد کو اب علیحدہ پرائیر ریفرنس کیٹیگری (PRC) کلیئرنس کی ضرورت نہیں ہوگی۔"
+    },
+    "b1": {
+      "hi": "इस कदम से एकीकृत डिजिटल निकासी तंत्र के माध्यम से सुरक्षा निगरानी बनाए रखते हुए भारत की वीज़ा प्रशासन प्रणाली को सरल बनाने की उम्मीद है।",
+      "en": "The move is expected to simplify India’s visa administration system while maintaining security oversight through a unified digital clearance mechanism.",
+      "ur": "اس اقدام سے ہندوستان کے ویزا ایڈمنسٹریشن سسٹم کو آسان بنانے کی امید ہے جبکہ ایک متحد ڈیجیٹل کلیئرنس میکانزم کے ذریعہ سیکورٹی کی نگرانی کو برقرار رکھا جائے گا۔"
+    },
+    "b2": {
+      "hi": "\\## क्या बदल गया है",
+      "en": "\\## What has changed",
+      "ur": "\\## کیا بدل گیا ہے۔"
+    },
+    "b3": {
+      "hi": "संशोधित वीज़ा मैनुअल के तहत, पात्र आवेदकों के लिए दो-चरणीय निकासी प्रक्रिया की पूर्व आवश्यकता को समाप्त कर दिया गया है। पहले, कुछ विदेशी नागरिकों को भारत में कार्यक्रमों में भाग लेने से पहले पीआरसी मंजूरी और एससीपी-आधारित सुरक्षा अनुमोदन दोनों की आवश्यकता होती थी।",
+      "en": "Under the revised Visa Manual, the earlier requirement for a two-step clearance process has been scrapped for eligible applicants. Previously, certain foreign nationals needed both PRC clearance and SCP-based security approval before attending events in India.",
+      "ur": "نظرثانی شدہ ویزا مینول کے تحت، اہل درخواست دہندگان کے لیے دو قدمی کلیئرنس کے عمل کی پہلے کی ضرورت کو ختم کر دیا گیا ہے۔ اس سے پہلے، کچھ غیر ملکی شہریوں کو ہندوستان میں تقریبات میں شرکت سے پہلے PRC کلیئرنس اور SCP پر مبنی سیکورٹی منظوری دونوں کی ضرورت ہوتی تھی۔"
+    },
+    "b4": {
+      "hi": "अधिकारियों ने कहा कि अद्यतन प्रणाली इन मामलों में वीज़ा प्रसंस्करण के लिए एससीपी मंजूरी को पर्याप्त मानकर दोहराव को दूर करती है।",
+      "en": "Officials said the updated system removes duplication by recognising SCP clearance as sufficient for visa processing in these cases.",
+      "ur": "عہدیداروں نے کہا کہ اپ ڈیٹ شدہ نظام ایس سی پی کلیئرنس کو ان معاملات میں ویزا پروسیسنگ کے لیے کافی تسلیم کرتے ہوئے نقل کو ہٹاتا ہے۔"
+    },
+    "b5": {
+      "hi": "यह परिवर्तन व्यापक प्रशासनिक अद्यतनों का हिस्सा है जिसका उद्देश्य गृह मंत्रालय द्वारा संचालित वीज़ा-संबंधित सेवाओं में दक्षता में सुधार करना है।",
+      "en": "The change is part of broader administrative updates aimed at improving efficiency in visa-related services handled by the MHA.",
+      "ur": "یہ تبدیلی وسیع تر انتظامی اپ ڈیٹس کا حصہ ہے جس کا مقصد ایم ایچ اے کے ذریعے ویزا سے متعلق خدمات میں کارکردگی کو بہتر بنانا ہے۔"
+    },
+    "b6": {
+      "hi": "\\## पीआरसी और एससीपी को समझना",
+      "en": "\\## Understanding PRC and SCP",
+      "ur": "\\## PRC اور SCP کو سمجھنا"
+    },
+    "b7": {
+      "hi": "पूर्व संदर्भ श्रेणी (पीआरसी) विदेशी नागरिकों के विशिष्ट समूहों पर लागू होती है जिन्हें भारत में प्रवेश करने से पहले अतिरिक्त जांच की आवश्यकता होती है। इसमें अफगानिस्तान, पाकिस्तान, इराक, सूडान और चीन जैसे देशों के नागरिक (चुनिंदा श्रेणियों के लिए), साथ ही पाकिस्तानी मूल के व्यक्ति और राज्यविहीन व्यक्ति शामिल हैं।",
+      "en": "The Prior Reference Category (PRC) applies to specific groups of foreign nationals who require additional scrutiny before entering India. This includes citizens from countries such as Afghanistan, Pakistan, Iraq, Sudan, and China (for select categories), as well as individuals of Pakistani origin and stateless persons.",
+      "ur": "پیشگی حوالہ زمرہ (PRC) غیر ملکی شہریوں کے مخصوص گروہوں پر لاگو ہوتا ہے جنہیں ہندوستان میں داخل ہونے سے پہلے اضافی جانچ پڑتال کی ضرورت ہوتی ہے۔ اس میں افغانستان، پاکستان، عراق، سوڈان، اور چین جیسے ممالک کے شہری (منتخب زمروں کے لیے) کے ساتھ ساتھ پاکستانی نژاد اور بے وطن افراد شامل ہیں۔"
+    },
+    "b8": {
+      "hi": "इन व्यक्तियों को आमतौर पर सम्मेलनों, खेल प्रतियोगिताओं और अन्य संगठित दौरों जैसे कार्यक्रमों में भाग लेने के लिए मंजूरी की आवश्यकता होती है।",
+      "en": "These individuals typically require clearance for participation in events such as conferences, sports competitions, and other organised visits.",
+      "ur": "ان افراد کو عموماً کانفرنسوں، کھیلوں کے مقابلوں اور دیگر منظم دوروں جیسے پروگراموں میں شرکت کے لیے کلیئرنس کی ضرورت ہوتی ہے۔"
+    },
+    "b9": {
+      "hi": "दूसरी ओर, सुरक्षा क्लीयरेंस पोर्टल (एससीपी), एक केंद्रीकृत डिजिटल प्रणाली है जिसका उपयोग सरकारी मंत्रालयों और विभागों द्वारा ऐसे आयोजनों में भाग लेने वाले विदेशी नागरिकों के लिए सुरक्षा अनुमोदन का अनुरोध और प्रक्रिया करने के लिए किया जाता है।",
+      "en": "The Security Clearance Portal (SCP), on the other hand, is a centralised digital system used by government ministries and departments to request and process security approvals for foreign nationals attending such events.",
+      "ur": "دوسری طرف سیکیورٹی کلیئرنس پورٹل (SCP)، ایک مرکزی ڈیجیٹل نظام ہے جسے سرکاری وزارتیں اور محکمے استعمال کرتے ہیں اور اس طرح کی تقریبات میں شرکت کرنے والے غیر ملکی شہریوں کے لیے حفاظتی منظوریوں کی درخواست اور کارروائی کے لیے استعمال کرتے ہیں۔"
+    },
+    "b10": {
+      "hi": "\\## प्रमुख प्रशासनिक अद्यतन",
+      "en": "\\## Key administrative updates",
+      "ur": "\\## اہم انتظامی اپ ڈیٹس"
+    },
+    "b11": {
+      "hi": "अधिकारियों ने कहा कि वीज़ा मैनुअल का नवीनतम संशोधन पीआरसी सरलीकरण से परे है। यह कई परिचालन प्रावधानों को भी औपचारिक बनाता है जिन्हें पहले स्पष्ट रूप से परिभाषित नहीं किया गया था।",
+      "en": "Officials said the latest revision to the Visa Manual goes beyond the PRC simplification. It also formalises several operational provisions that were previously not clearly defined.",
+      "ur": "حکام نے کہا کہ ویزا مینوئل میں تازہ ترین ترمیم PRC کی آسانیاں سے آگے ہے۔ یہ کئی آپریشنل دفعات کو بھی باقاعدہ بناتا ہے جن کی پہلے واضح طور پر وضاحت نہیں کی گئی تھی۔"
+    },
+    "b12": {
+      "hi": "इसमे शामिल है:",
+      "en": "These include:",
+      "ur": "ان میں شامل ہیں:"
+    },
+    "b13": {
+      "hi": "\\- वीज़ा विस्तार और रूपांतरण के लिए स्पष्ट नियम",
+      "en": "\\- Clear rules for visa extensions and conversions",
+      "ur": "\\- ویزا کی توسیع اور تبادلوں کے لیے واضح اصول"
+    },
+    "b14": {
+      "hi": "\\- वीज़ा-संबंधित सेवाओं के लिए विस्तारित दिशानिर्देश",
+      "en": "\\- Expanded guidelines for visa-related services",
+      "ur": "\\- ویزا سے متعلق خدمات کے لیے وسیع رہنما خطوط"
+    },
+    "b15": {
+      "hi": "\\- ई-वीज़ा प्रणाली के तहत बहु-प्रवेश प्रावधानों का औपचारिक समावेश",
+      "en": "\\- Formal inclusion of multiple-entry provisions under the e-Visa system",
+      "ur": "\\- ای ویزا سسٹم کے تحت ایک سے زیادہ داخلے کی دفعات کا باضابطہ شمولیت"
+    },
+    "b16": {
+      "hi": "चार साल के निचले स्तर से नीचे",
+      "en": "Off a four-year low",
+      "ur": "چار سال کی کم ترین سطح پر"
+    },
+    "b17": {
+      "hi": "अधिकारियों के अनुसार, इन अद्यतनों का उद्देश्य वीज़ा प्रसंस्करण में अस्पष्टता को कम करना और विभागों में स्थिरता में सुधार करना है।",
+      "en": "According to officials, these updates are intended to reduce ambiguity in visa processing and improve consistency across departments.",
+      "ur": "حکام کے مطابق، ان اپ ڈیٹس کا مقصد ویزا پروسیسنگ میں ابہام کو کم کرنا اور محکموں میں مستقل مزاجی کو بہتر بنانا ہے۔"
+    },
+    "b18.title": {
+      "hi": "एक नज़र में",
+      "en": "At a Glance",
+      "ur": "ایک نظر میں"
+    },
+    "b19": {
+      "hi": "* पीआरसी क्लीयरेंस आवश्यकता: हटा दी गई जहां एससीपी क्लीयरेंस पहले से मौजूद है * सिस्टम शामिल: सुरक्षा क्लीयरेंस पोर्टल (एससीपी) * प्रभावित श्रेणी: एमएचए सुरक्षा अनुमोदन की आवश्यकता वाले चुनिंदा विदेशी नागरिक * पीआरसी जांच के तहत देश: अफगानिस्तान, पाकिस्तान, इराक, सूडान, चीन (चुनिंदा मामले) शामिल हैं * नीति लक्ष्य: डुप्लिकेट अनुमोदन को खत्म करना और वीज़ा प्रसंस्करण को सुव्यवस्थित करना * ई-वीज़ा का दायरा: बहु-प्रवेश प्रावधानों को औपचारिक रूप से जोड़ा गया * भारत का ई-वीज़ा कवरेज: 172 देशों के नागरिकों के लिए उपलब्ध है",
+      "en": "* PRC clearance requirement: Removed where SCP clearance already exists * System involved: Security Clearance Portal (SCP) * Affected category: Select foreign nationals requiring MHA security approval * Countries under PRC scrutiny: Includes Afghanistan, Pakistan, Iraq, Sudan, China (select cases) * Policy goal: Eliminate duplicate approvals and streamline visa processing * e-Visa scope: Multiple-entry provisions formally added * India’s e-Visa coverage: Available to nationals of 172 countries",
+      "ur": "* PRC کلیئرنس کی ضرورت: ہٹا دیا گیا جہاں SCP کلیئرنس پہلے سے موجود ہے * سسٹم شامل ہے: سیکیورٹی کلیئرنس پورٹل (SCP) * متاثرہ زمرہ: غیر ملکی شہریوں کو منتخب کریں جن کو MHA سیکیورٹی کی منظوری درکار ہے * PRC کی جانچ پڑتال کے تحت ممالک: افغانستان، پاکستان، عراق، سوڈان، چین (منتخب معاملات) * پالیسی کا مقصد: ڈپلیکیٹ ایپس کو ختم کرنا اور ای وی اسٹریم ایپ کو ختم کرنا۔ متعدد داخلے کی دفعات باضابطہ طور پر شامل کی گئیں * ہندوستان کا ای ویزا کوریج: 172 ممالک کے شہریوں کے لیے دستیاب"
+    },
+    "b20": {
+      "hi": "\\##यह क्यों मायने रखता है",
+      "en": "\\## Why this matters",
+      "ur": "\\## یہ کیوں اہمیت رکھتا ہے۔"
+    },
+    "b21": {
+      "hi": "यह बदलाव सख्त सुरक्षा जांच मानकों को बनाए रखते हुए आव्रजन और वीजा प्रक्रियाओं को डिजिटल बनाने और सुव्यवस्थित करने के भारत के व्यापक प्रयास का हिस्सा है। स्वीकृतियों को एक ही मंच पर समेकित करके, सरकार का लक्ष्य निरीक्षण को कम किए बिना घटना-आधारित यात्रा के लिए प्रसंस्करण में देरी को कम करना है।",
+      "en": "The change is part of India’s broader effort to digitise and streamline immigration and visa processes while maintaining strict security screening standards. By consolidating approvals into a single platform, the government aims to reduce processing delays for event-based travel without diluting oversight.",
+      "ur": "یہ تبدیلی سخت حفاظتی اسکریننگ معیارات کو برقرار رکھتے ہوئے امیگریشن اور ویزا کے عمل کو ڈیجیٹل اور ہموار کرنے کی ہندوستان کی وسیع تر کوششوں کا حصہ ہے۔ منظوریوں کو ایک پلیٹ فارم میں یکجا کر کے، حکومت کا مقصد نگرانی کو کم کیے بغیر ایونٹ پر مبنی سفر کے لیے پروسیسنگ میں تاخیر کو کم کرنا ہے۔"
+    },
+    "b22": {
+      "hi": "##",
+      "en": "##",
+      "ur": "##"
+    },
+    "b23": {
+      "hi": "मंत्रालयों और विभागों के लिए जो नियमित रूप से अंतरराष्ट्रीय सम्मेलनों, खेल आयोजनों और राजनयिक व्यस्तताओं की मेजबानी करते हैं, सरलीकृत प्रक्रिया प्रशासनिक कार्यभार और बदलाव के समय को काफी कम कर सकती है।",
+      "en": "For ministries and departments that regularly host international conferences, sports events, and diplomatic engagements, the simplified process could significantly reduce administrative workload and turnaround time.",
+      "ur": "ان وزارتوں اور محکموں کے لیے جو باقاعدگی سے بین الاقوامی کانفرنسوں، کھیلوں کی تقریبات اور سفارتی مصروفیات کی میزبانی کرتے ہیں، آسان عمل انتظامی کام کے بوجھ اور تبدیلی کے وقت کو نمایاں طور پر کم کر سکتا ہے۔"
+    },
+    "b24": {
+      "hi": "##",
+      "en": "##",
+      "ur": "##"
+    },
+    "b25": {
+      "hi": "\\## सुरक्षा और दक्षता को संतुलित करना",
+      "en": "\\## Balancing security and efficiency",
+      "ur": "\\## سیکیورٹی اور کارکردگی کو متوازن کرنا"
+    },
+    "b26": {
+      "hi": "##",
+      "en": "##",
+      "ur": "##"
+    },
+    "b27": {
+      "hi": "अधिकारियों ने इस बात पर जोर दिया कि संशोधन सुरक्षा जांच को कम नहीं करता है बल्कि इसे एकल वर्कफ़्लो में एकीकृत करता है। एससीपी सुरक्षा जोखिम के मूल्यांकन के लिए केंद्रीय तंत्र बना हुआ है, जबकि वीज़ा प्रसंस्करण अब सीधे इसके परिणाम पर निर्भर करता है।",
+      "en": "Officials emphasised that the revision does not reduce security scrutiny but instead integrates it into a single workflow. The SCP remains the central mechanism for evaluating security risk, while visa processing now relies more directly on its outcome.",
+      "ur": "عہدیداروں نے اس بات پر زور دیا کہ نظرثانی سے سیکورٹی کی جانچ پڑتال میں کمی نہیں آتی بلکہ اسے ایک ہی ورک فلو میں ضم کر دیتی ہے۔ سیکورٹی رسک کا جائزہ لینے کے لیے ایس سی پی مرکزی طریقہ کار بنا ہوا ہے، جبکہ ویزا پروسیسنگ اب اپنے نتائج پر زیادہ انحصار کرتی ہے۔"
+    },
+    "b28": {
+      "hi": "##",
+      "en": "##",
+      "ur": "##"
+    },
+    "b29": {
+      "hi": "यह दृष्टिकोण डिजिटल समेकन की ओर सरकारी सेवाओं में व्यापक रुझान को दर्शाता है, जहां कई अनुमोदन परतों को एकीकृत निकासी प्रणालियों से बदल दिया जाता है।",
+      "en": "This approach reflects a wider trend in government services toward digital consolidation, where multiple approval layers are replaced with unified clearance systems.",
+      "ur": "یہ نقطہ نظر حکومتی خدمات میں ڈیجیٹل یکجہتی کی طرف وسیع تر رجحان کی عکاسی کرتا ہے، جہاں متعدد منظوری کی تہوں کو متحد کلیئرنس سسٹم سے تبدیل کیا جاتا ہے۔"
+    },
+    "b30": {
+      "hi": "##",
+      "en": "##",
+      "ur": "##"
+    },
+    "b31": {
+      "hi": "\\## आगे का रास्ता",
+      "en": "\\## The road ahead",
+      "ur": "\\## آگے کا راستہ"
+    },
+    "b32": {
+      "hi": "##",
+      "en": "##",
+      "ur": "##"
+    },
+    "b33": {
+      "hi": "अद्यतन वीज़ा मैनुअल अब प्रभावी होने के साथ, कार्यान्वयन इस बात पर निर्भर करेगा कि मंत्रालय अपनी आंतरिक प्रक्रियाओं को संशोधित ढांचे के लिए कितनी जल्दी अनुकूलित करते हैं। इसमें और सुधार की उम्मीद है क्योंकि एससीपी प्रणाली अपने कवरेज का विस्तार करती है और अतिरिक्त वीज़ा श्रेणियों को एकीकृत करती है।",
+      "en": "With the updated Visa Manual now in effect, implementation will depend on how quickly ministries adapt their internal processes to the revised framework. Further refinements are expected as the SCP system expands its coverage and integrates additional visa categories.",
+      "ur": "اپ ڈیٹ شدہ ویزا مینوئل کے اب عمل میں آنے کے بعد، عمل درآمد کا انحصار اس بات پر ہوگا کہ وزارتیں اپنے داخلی عمل کو نظر ثانی شدہ فریم ورک کے مطابق کتنی تیزی سے ڈھال لیتی ہیں۔ مزید تطہیر کی توقع کی جاتی ہے کیونکہ SCP نظام اپنی کوریج کو بڑھاتا ہے اور اضافی ویزا زمروں کو مربوط کرتا ہے۔"
+    },
+    "b34": {
+      "hi": "##",
+      "en": "##",
+      "ur": "##"
+    },
+    "b35": {
+      "hi": "भविष्य के अपडेट वीज़ा निर्णयों के और अधिक स्वचालन और सुरक्षा डेटाबेस और आव्रजन वर्कफ़्लो के बीच सख्त एकीकरण पर केंद्रित हो सकते हैं।",
+      "en": "Future updates may focus on further automation of visa decisions and tighter integration between security databases and immigration workflows.",
+      "ur": "مستقبل کے اپ ڈیٹس ویزا فیصلوں کے مزید آٹومیشن اور سیکیورٹی ڈیٹا بیس اور امیگریشن ورک فلو کے درمیان سخت انضمام پر توجہ مرکوز کر سکتے ہیں۔"
+    }
+  }
+}
