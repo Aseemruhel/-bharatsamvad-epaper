@@ -1,0 +1,250 @@
+{
+  "hash": "d23d767503f82a6e",
+  "t": {
+    "fm.section": {
+      "hi": "व्यापार",
+      "en": "Business",
+      "ur": "کاروبار"
+    },
+    "fm.kicker": {
+      "hi": "महत्वपूर्ण खनिज · ईवी आपूर्ति श्रृंखला",
+      "en": "Critical Minerals · EV Supply Chain",
+      "ur": "اہم معدنیات · ای وی سپلائی چین"
+    },
+    "fm.byline": {
+      "hi": "व्यापार संवाददाता",
+      "en": "Business Correspondent",
+      "ur": "کاروباری نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "सरकार जल्द ही लिथियम और निकल प्रसंस्करण के लिए 3,000 करोड़ रुपये की प्रोत्साहन योजना का अनावरण करेगी",
+      "en": "Government to soon unveil Rs 3,000 crore incentive scheme for lithium and nickel processing",
+      "ur": "حکومت جلد ہی لتیم اور نکل پروسیسنگ کے لیے 3,000 کروڑ روپے کی مراعاتی اسکیم کی نقاب کشائی کرے گی"
+    },
+    "fm.subdeck": {
+      "hi": "उम्मीद है कि केंद्रीय खान मंत्रालय जल्द ही न्यूनतम क्षमता सीमा को पूरा करने वाले नए लिथियम और निकल प्रसंस्करण संयंत्रों के लिए 15 प्रतिशत पूंजी सब्सिडी की पेशकश करने वाली नीति को अधिसूचित करेगा, जिसका उद्देश्य देश के इलेक्ट्रिक वाहन संक्रमण के लिए महत्वपूर्ण बैटरी-ग्रेड परिष्कृत खनिजों के लिए चीन पर भारत की आयात निर्भरता को कम करना है।",
+      "en": "The Union Ministry of Mines is expected to shortly notify a policy offering a 15 per cent capital subsidy for new lithium and nickel processing plants meeting minimum capacity thresholds, aimed at reducing India's import dependence on China for battery-grade refined minerals critical to the country's electric vehicle transition.",
+      "ur": "مرکزی وزارت کانوں سے جلد ہی ایک پالیسی کو مطلع کرنے کی توقع ہے جو نئے لیتھیم اور نکل پروسیسنگ پلانٹس کے لیے 15 فیصد کیپٹل سبسڈی کی پیشکش کرے گی جو کم از کم صلاحیت کی حد کو پورا کرتی ہے، جس کا مقصد ملک کی برقی گاڑیوں کی منتقلی کے لیے اہم بیٹری گریڈ ریفائنڈ معدنیات کے لیے چین پر ہندوستان کا درآمدی انحصار کم کرنا ہے۔"
+    },
+    "b0": {
+      "hi": "भारत इलेक्ट्रिक वाहन बैटरी विनिर्माण के केंद्र में दो खनिजों लिथियम और निकल के घरेलू प्रसंस्करण के लिए एक लंबे समय से प्रतीक्षित प्रोत्साहन योजना शुरू करने की तैयारी कर रहा है। इस मामले से परिचित दो सूत्रों के अनुसार, जो सार्वजनिक रूप से बोलने के लिए अधिकृत नहीं थे, केंद्रीय खान मंत्रालय द्वारा जल्द ही लगभग 3,000 करोड़ रुपये या लगभग 313 मिलियन अमेरिकी डॉलर के परिव्यय के साथ एक नीति अधिसूचित करने की उम्मीद है।",
+      "en": "India is preparing to roll out a long-awaited incentive scheme for the domestic processing of lithium and nickel — two minerals at the heart of electric vehicle battery manufacturing. The Union Ministry of Mines is expected to shortly notify a policy with an outlay of around 3,000 crore rupees, or about 313 million US dollars, according to two sources familiar with the matter who were not authorised to speak publicly.",
+      "ur": "ہندوستان الیکٹرک گاڑیوں کی بیٹری مینوفیکچرنگ کے مرکز میں دو معدنیات - لیتھیم اور نکل کی گھریلو پروسیسنگ کے لیے ایک طویل انتظار کی ترغیباتی اسکیم شروع کرنے کی تیاری کر رہا ہے۔ اس معاملے سے واقف دو ذرائع کے مطابق جنہیں عوامی طور پر بات کرنے کا اختیار نہیں دیا گیا تھا، کے مطابق، مرکزی وزارت کانوں سے جلد ہی تقریباً 3,000 کروڑ روپے، یا تقریباً 313 ملین امریکی ڈالر کے اخراجات والی پالیسی کو مطلع کرنے کی توقع ہے۔"
+    },
+    "b1": {
+      "hi": "इस योजना का उद्देश्य भारत की स्वच्छ ऊर्जा और इलेक्ट्रिक गतिशीलता महत्वाकांक्षाओं में एक गंभीर संरचनात्मक अंतर को संबोधित करना है: जबकि देश ने ईवी अपनाने और बैटरी विनिर्माण के लिए आक्रामक लक्ष्य निर्धारित किए हैं, लेकिन बैटरी की आवश्यकता वाले महत्वपूर्ण इनपुट के लिए इसमें बड़े पैमाने पर शोधन क्षमता नहीं है, जिससे यह बैटरी-ग्रेड परिष्कृत सामग्री के लिए आयात पर निर्भर हो गया है - ज्यादातर चीन से।",
+      "en": "The scheme is intended to address a stark structural gap in India's clean energy and electric mobility ambitions: while the country has set aggressive targets for EV adoption and battery manufacturing, it has almost no large-scale refining capacity for the critical inputs that batteries require, leaving it dependent on imports — overwhelmingly from China — for battery-grade refined materials.",
+      "ur": "اس اسکیم کا مقصد ہندوستان کی صاف توانائی اور برقی نقل و حرکت کے عزائم میں ایک سخت ساختی خلا کو دور کرنا ہے: جب کہ ملک نے ای وی کو اپنانے اور بیٹری مینوفیکچرنگ کے لیے جارحانہ اہداف مقرر کیے ہیں، اس کے پاس بیٹریوں کو درکار اہم آدانوں کے لیے تقریباً کوئی بڑے پیمانے پر ریفائننگ کی گنجائش نہیں ہے، جس کی وجہ سے اس کا انحصار چین سے درآمدات پر ہوتا ہے۔"
+    },
+    "b2": {
+      "hi": "यांत्रिकी",
+      "en": "The mechanism",
+      "ur": "میکانزم"
+    },
+    "b3": {
+      "hi": "पिछले कई महीनों में चरणों में सामने आए विवरणों के अनुसार, प्रस्तावित योजना 1 अप्रैल 2026 को या उसके बाद शुरू होने वाली लिथियम और निकल प्रसंस्करण परियोजनाओं में पात्र निवेश पर 15 प्रतिशत तक की पूंजी सब्सिडी के आसपास बनाई गई है। प्रोत्साहन पांच साल की अवधि के लिए उपलब्ध होगा।",
+      "en": "According to details that have emerged in stages over the past several months, the proposed scheme is built around a capital subsidy of up to 15 per cent on eligible investments in lithium and nickel processing projects starting on or after 1 April 2026. The incentives would be available for a period of five years.",
+      "ur": "تفصیلات کے مطابق جو پچھلے کئی مہینوں میں مراحل میں سامنے آئی ہیں، مجوزہ اسکیم 1 اپریل 2026 سے یا اس کے بعد شروع ہونے والی لیتھیم اور نکل پروسیسنگ پراجیکٹس میں اہل سرمایہ کاری پر 15 فیصد تک کیپٹل سبسڈی کے ارد گرد بنائی گئی ہے۔ مراعات پانچ سال کی مدت کے لیے دستیاب ہوں گی۔"
+    },
+    "b4": {
+      "hi": "सब्सिडी शुद्ध बिक्री कारोबार से जुड़ी परियोजना-विशिष्ट वार्षिक सीमा के अधीन होगी - लिथियम प्रसंस्करण संयंत्रों के लिए वार्षिक शुद्ध बिक्री कारोबार का 40 प्रतिशत और निकल प्रसंस्करण संयंत्रों के लिए 25 प्रतिशत निर्धारित किया गया है। सब्सिडी वितरण चरणबद्ध तरीके से किया जाएगा और सरकार द्वारा निर्धारित न्यूनतम संयंत्र उपयोग सीमा से जोड़ा जाएगा।",
+      "en": "The subsidy would be subject to project-specific annual caps linked to net sales turnover — set at 40 per cent of annual net sales turnover for lithium processing plants and at 25 per cent for nickel processing plants. Subsidy disbursal would be staged, and linked to minimum plant utilisation thresholds determined by the government.",
+      "ur": "سبسڈی خالص سیلز ٹرن اوور سے منسلک پروجیکٹ کے لیے مخصوص سالانہ کیپس کے ساتھ مشروط ہوگی - جو لیتھیم پروسیسنگ پلانٹس کے لیے سالانہ خالص سیلز ٹرن اوور کا 40 فیصد اور نکل پروسیسنگ پلانٹس کے لیے 25 فیصد پر مقرر ہے۔ سبسڈی کی تقسیم کی جائے گی، اور حکومت کی طرف سے مقرر کردہ پلانٹ کے استعمال کی کم از کم حد سے منسلک ہوگی۔"
+    },
+    "b5": {
+      "hi": "अर्हता प्राप्त करने के लिए, लिथियम प्रसंस्करण सुविधाओं की न्यूनतम वार्षिक क्षमता 30,000 मीट्रिक टन होनी चाहिए; निकल प्रसंस्करण संयंत्रों को प्रति वर्ष कम से कम 50,000 मीट्रिक टन का प्रसंस्करण करना होगा। प्रारंभिक रोल-आउट से दो लिथियम परियोजनाओं और दो निकल परियोजनाओं को समर्थन मिलने की उम्मीद है।",
+      "en": "To qualify, lithium processing facilities must have a minimum annual capacity of 30,000 metric tonnes; nickel processing plants must process at least 50,000 metric tonnes a year. Initial roll-out is expected to support two lithium projects and two nickel projects.",
+      "ur": "کوالیفائی کرنے کے لیے، لیتھیم پروسیسنگ کی سہولیات کی کم از کم سالانہ صلاحیت 30,000 میٹرک ٹن ہونی چاہیے۔ نکل پروسیسنگ پلانٹس کو کم از کم 50,000 میٹرک ٹن سالانہ پراسیس کرنا چاہیے۔ ابتدائی رول آؤٹ سے دو لیتھیم پروجیکٹس اور دو نکل پروجیکٹس کی حمایت کی توقع ہے۔"
+    },
+    "b6.title": {
+      "hi": "योजना एक नजर में",
+      "en": "The Scheme at a Glance",
+      "ur": "ایک نظر میں اسکیم"
+    },
+    "b6.itemlbl.0": {
+      "hi": "व्यय",
+      "en": "Outlay",
+      "ur": "خرچہ"
+    },
+    "b6.itemval.0": {
+      "hi": "लगभग 3,000 करोड़ रुपये (लगभग 313 मिलियन डॉलर)",
+      "en": "Around Rs 3,000 crore (approximately $313 million)",
+      "ur": "تقریباً 3,000 کروڑ روپے (تقریباً 313 ملین ڈالر)"
+    },
+    "b6.itemlbl.1": {
+      "hi": "समर्थन का स्वरूप",
+      "en": "Form of support",
+      "ur": "حمایت کی شکل"
+    },
+    "b6.itemval.1": {
+      "hi": "पात्र निवेश पर 15 प्रतिशत पूंजी सब्सिडी",
+      "en": "15 per cent capital subsidy on eligible investments",
+      "ur": "اہل سرمایہ کاری پر 15 فیصد کیپٹل سبسڈی"
+    },
+    "b6.itemlbl.2": {
+      "hi": "योग्य निवेश",
+      "en": "Eligible investments",
+      "ur": "اہل سرمایہ کاری"
+    },
+    "b6.itemval.2": {
+      "hi": "1 अप्रैल 2026 से",
+      "en": "From 1 April 2026 onwards",
+      "ur": "یکم اپریل 2026 سے"
+    },
+    "b6.itemlbl.3": {
+      "hi": "प्रोत्साहन अवधि",
+      "en": "Incentive duration",
+      "ur": "ترغیب کی مدت"
+    },
+    "b6.itemval.3": {
+      "hi": "प्रति प्रोजेक्ट 5 वर्ष",
+      "en": "5 years per project",
+      "ur": "5 سال فی پروجیکٹ"
+    },
+    "b6.itemlbl.4": {
+      "hi": "वार्षिक सीमा",
+      "en": "Annual cap",
+      "ur": "سالانہ ٹوپی"
+    },
+    "b6.itemval.4": {
+      "hi": "शुद्ध बिक्री का 40 प्रतिशत (लिथियम); 25 प्रतिशत (निकल)",
+      "en": "40 per cent of net sales (lithium); 25 per cent (nickel)",
+      "ur": "خالص فروخت کا 40 فیصد (لتیم)؛ 25 فیصد (نکل)"
+    },
+    "b6.itemlbl.5": {
+      "hi": "न्यूनतम पौधे का आकार",
+      "en": "Minimum plant size",
+      "ur": "پلانٹ کا کم از کم سائز"
+    },
+    "b6.itemval.5": {
+      "hi": "प्रति वर्ष 30,000 टन (लिथियम); 50,000 टन प्रति वर्ष (निकल)",
+      "en": "30,000 tonnes per year (lithium); 50,000 tonnes per year (nickel)",
+      "ur": "30,000 ٹن فی سال (لتیم)؛ 50,000 ٹن سالانہ (نکل)"
+    },
+    "b6.itemlbl.6": {
+      "hi": "प्रारंभिक रोलआउट",
+      "en": "Initial rollout",
+      "ur": "ابتدائی رول آؤٹ"
+    },
+    "b6.itemval.6": {
+      "hi": "दो लिथियम परियोजनाएं और दो निकल परियोजनाएं",
+      "en": "Two lithium projects and two nickel projects",
+      "ur": "دو لیتھیم پروجیکٹس اور دو نکل پروجیکٹس"
+    },
+    "b6.itemlbl.7": {
+      "hi": "जुड़ी हुई नीति",
+      "en": "Linked policy",
+      "ur": "منسلک پالیسی"
+    },
+    "b6.itemval.7": {
+      "hi": "1,500 करोड़ रुपये की महत्वपूर्ण खनिज पुनर्चक्रण योजना (कैबिनेट, सितंबर 2025)",
+      "en": "Rs 1,500 crore critical mineral recycling scheme (Cabinet, Sept 2025)",
+      "ur": "1,500 کروڑ روپے کی اہم معدنی ری سائیکلنگ اسکیم (کابینہ، ستمبر 2025)"
+    },
+    "b6.itemlbl.8": {
+      "hi": "ईवी लक्ष्य",
+      "en": "EV targets",
+      "ur": "ای وی اہداف"
+    },
+    "b6.itemval.8": {
+      "hi": "30 प्रतिशत यात्री कारें; 2030 तक 80 प्रतिशत दोपहिया वाहन",
+      "en": "30 per cent of passenger cars; 80 per cent of two-wheelers by 2030",
+      "ur": "30 فیصد مسافر کاریں؛ 2030 تک 80 فیصد دو پہیہ گاڑیاں"
+    },
+    "b7.q": {
+      "hi": "भारत ने अपने ऊर्जा परिवर्तन के लिए महत्वपूर्ण दो दर्जन से अधिक खनिजों की पहचान की है; घरेलू स्तर पर बैटरी-ग्रेड लिथियम और निकल प्रसंस्करण क्षमता शून्य के करीब बनी हुई है, जिसमें अधिकांश वैश्विक रिफाइनिंग चीन में केंद्रित है।",
+      "en": "India has identified more than two dozen minerals as critical to its energy transition; battery-grade lithium and nickel processing capacity domestically remains close to zero, with much of the global refining concentrated in China.",
+      "ur": "ہندوستان نے دو درجن سے زائد معدنیات کی نشاندہی کی ہے جو اس کی توانائی کی منتقلی کے لیے اہم ہیں۔ بیٹری گریڈ لیتھیم اور نکل پروسیسنگ کی صلاحیت مقامی طور پر صفر کے قریب ہے، زیادہ تر عالمی ریفائننگ چین میں مرکوز ہے۔"
+    },
+    "b7.c": {
+      "hi": "- उद्योग मूल्यांकन (संक्षेप में)",
+      "en": "— Industry assessment (paraphrased)",
+      "ur": "- صنعت کی تشخیص (تفصیلی)"
+    },
+    "b8": {
+      "hi": "प्रसंस्करण क्यों - सिर्फ खनन नहीं",
+      "en": "Why processing — not just mining",
+      "ur": "کیوں پروسیسنگ - نہ صرف کان کنی"
+    },
+    "b9": {
+      "hi": "नीति महत्वपूर्ण खनिज मूल्य श्रृंखला के एक विशिष्ट खंड को लक्षित करती है: खनन के बजाय शोधन और प्रसंस्करण। भेद मायने रखता है. यहां तक ​​कि जहां भारत ने जमा की पहचान की है - जिसमें हाल के वर्षों में जम्मू और कश्मीर में खोजे गए लिथियम भंडार भी शामिल हैं - कैथोड और एनोड सामग्री बनाने के लिए आवश्यक परिष्कृत, बैटरी-ग्रेड सामग्री को अलग, पूंजी-गहन प्रसंस्करण बुनियादी ढांचे की आवश्यकता है।",
+      "en": "The policy targets a specific segment of the critical mineral value chain: refining and processing, rather than mining. The distinction matters. Even where India has identified deposits — including the lithium reserves discovered in Jammu and Kashmir in recent years — the refined, battery-grade material required to make cathode and anode materials needs separate, capital-intensive processing infrastructure.",
+      "ur": "یہ پالیسی اہم معدنی قدر کی زنجیر کے ایک مخصوص طبقے کو نشانہ بناتی ہے: کان کنی کے بجائے ریفائننگ اور پروسیسنگ۔ فرق اہمیت رکھتا ہے۔ یہاں تک کہ جہاں ہندوستان نے ذخائر کی نشاندہی کی ہے — بشمول جموں اور کشمیر میں حالیہ برسوں میں دریافت ہونے والے لیتھیم کے ذخائر — کیتھوڈ اور اینوڈ مواد بنانے کے لیے درکار بہتر، بیٹری کے درجے کے مواد کے لیے الگ، کیپیٹل انٹینسیو پروسیسنگ انفراسٹرکچر کی ضرورت ہے۔"
+    },
+    "b10": {
+      "hi": "विश्व स्तर पर, यह प्रसंस्करण क्षमता चीन में अत्यधिक केंद्रित है। विश्लेषकों ने बार-बार इस एकाग्रता को इलेक्ट्रिक वाहन महत्वाकांक्षाओं लेकिन सीमित घरेलू शोधन क्षमता वाले किसी भी देश के लिए रणनीतिक और आपूर्ति-श्रृंखला भेद्यता के रूप में पहचाना है। नई योजना सीधे तौर पर उस अंतर को दूर करने का एक प्रयास है।",
+      "en": "Globally, this processing capacity is heavily concentrated in China. Analysts have repeatedly identified this concentration as a strategic and supply-chain vulnerability for any country with electric vehicle ambitions but limited domestic refining capability. The new scheme is an attempt to address that gap directly.",
+      "ur": "عالمی سطح پر، پروسیسنگ کی یہ صلاحیت بہت زیادہ چین میں مرکوز ہے۔ تجزیہ کاروں نے بار بار اس ارتکاز کی نشاندہی کسی بھی ملک کے لیے ایک اسٹریٹجک اور سپلائی چین کے خطرے کے طور پر کی ہے جس میں الیکٹرک گاڑیوں کے عزائم ہیں لیکن گھریلو ریفائننگ کی صلاحیت محدود ہے۔ نئی اسکیم اس فرق کو براہ راست دور کرنے کی کوشش ہے۔"
+    },
+    "b11": {
+      "hi": "ईवी मांग पृष्ठभूमि",
+      "en": "The EV demand backdrop",
+      "ur": "EV مانگ کا پس منظر"
+    },
+    "b12": {
+      "hi": "भारत की ईवी महत्वाकांक्षा का पैमाना तात्कालिकता को स्पष्ट करता है। नई दिल्ली ने 2030 तक यात्री कारों के लिए 30 प्रतिशत और दोपहिया वाहनों के लिए 80 प्रतिशत इलेक्ट्रिक वाहन प्रवेश का लक्ष्य रखा है - जो कि मौजूदा हिस्सेदारी क्रमशः लगभग 6 प्रतिशत और 9 प्रतिशत से अधिक है। उन लक्ष्यों को प्राप्त करने का तात्पर्य शेष दशक में देश के भीतर बैटरी विनिर्माण क्षमता में कई गुना विस्तार है।",
+      "en": "The scale of India's EV ambition explains the urgency. New Delhi has set targets of 30 per cent electric vehicle penetration for passenger cars and 80 per cent for two-wheelers by 2030 — up from current shares of around 6 per cent and 9 per cent respectively. Achieving those targets implies a multifold expansion in battery manufacturing capacity within the country over the rest of the decade.",
+      "ur": "ہندوستان کی ای وی کی خواہش کا پیمانہ اس عجلت کی وضاحت کرتا ہے۔ نئی دہلی نے 2030 تک مسافر کاروں کے لیے الیکٹرک گاڑیوں کے 30 فیصد اور دو پہیوں کے لیے 80 فیصد تک رسائی کا ہدف مقرر کیا ہے - جو بالترتیب تقریباً 6 فیصد اور 9 فیصد کے موجودہ حصص سے زیادہ ہے۔ ان اہداف کو حاصل کرنے کا مطلب باقی دہائی کے دوران ملک کے اندر بیٹری کی تیاری کی صلاحیت میں کئی گنا اضافہ ہے۔"
+    },
+    "b13": {
+      "hi": "कई बड़े निवेश पहले से ही गति में हैं। एक्साइड इंडस्ट्रीज 6 गीगावॉट बैटरी सेल गीगाफैक्ट्री का विस्तार करने की प्रक्रिया में है। हिमाद्री स्पेशलिटी ने ओडिशा में लिथियम आयरन फॉस्फेट कैथोड-मटेरियल प्लांट की योजना की घोषणा की है। कई भारतीय और विदेशी कंपनियों ने नए पहचाने गए महत्वपूर्ण खनिज ब्लॉकों की सरकार की नीलामी में भाग लिया है। प्रसंस्करण-प्रोत्साहन योजना का उद्देश्य यह सुनिश्चित करना है कि इन विनिर्माण निवेशों के पास आयातित संसाधित सामग्री पर निर्भर होने के बजाय परिष्कृत इनपुट का एक सुरक्षित घरेलू स्रोत हो।",
+      "en": "Several large investments are already in motion. Exide Industries is in the process of expanding a 6 GWh battery cell gigafactory. Himadri Speciality has announced plans for a lithium iron phosphate cathode-material plant in Odisha. Multiple Indian and foreign companies have participated in the government's auctions of newly identified critical mineral blocks. The processing-incentive scheme is intended to ensure that these manufacturing investments have a secure domestic source of refined inputs, rather than relying on imported processed material.",
+      "ur": "کئی بڑی سرمایہ کاری پہلے ہی حرکت میں ہے۔ Exide Industries 6 GWh بیٹری سیل گیگا فیکٹری کو توسیع دینے کے عمل میں ہے۔ ہمادری اسپیشلٹی نے اوڈیشہ میں لیتھیم آئرن فاسفیٹ کیتھوڈ میٹریل پلانٹ کے منصوبوں کا اعلان کیا ہے۔ متعدد ہندوستانی اور غیر ملکی کمپنیوں نے نئے شناخت شدہ اہم معدنی بلاکس کی حکومت کی نیلامی میں حصہ لیا ہے۔ پروسیسنگ انسینٹیو اسکیم کا مقصد اس بات کو یقینی بنانا ہے کہ ان مینوفیکچرنگ سرمایہ کاری میں درآمد شدہ پروسیس شدہ مواد پر انحصار کرنے کے بجائے بہتر ان پٹس کا ایک محفوظ گھریلو ذریعہ ہو۔"
+    },
+    "b14": {
+      "hi": "व्यापक नीति स्टैक का हिस्सा",
+      "en": "Part of a broader policy stack",
+      "ur": "ایک وسیع تر پالیسی اسٹیک کا حصہ"
+    },
+    "b15": {
+      "hi": "लिथियम-निकल प्रोत्साहन भारत की महत्वपूर्ण खनिज आपूर्ति श्रृंखला पर निर्देशित नीतिगत कदमों की श्रृंखला में नवीनतम है। सितंबर 2025 में, केंद्रीय मंत्रिमंडल ने 1,500 करोड़ रुपये के परिव्यय के साथ एक अलग महत्वपूर्ण खनिज रीसाइक्लिंग योजना को मंजूरी दी, जिसका उद्देश्य ई-कचरे और प्रयुक्त लिथियम-आयन बैटरी जैसे माध्यमिक स्रोतों से महत्वपूर्ण खनिजों को अलग करने और उत्पादन करने के लिए घरेलू क्षमता का निर्माण करना है। पुनर्चक्रण योजना का कार्यकाल छह वर्ष का है।",
+      "en": "The lithium-nickel incentive is the latest in a series of policy moves directed at India's critical mineral supply chain. In September 2025, the Union Cabinet approved a separate critical mineral recycling scheme with an outlay of 1,500 crore rupees, aimed at building domestic capacity for separating and producing critical minerals from secondary sources such as e-waste and used lithium-ion batteries. The recycling scheme has a six-year tenure.",
+      "ur": "لتیم نکل کی ترغیب ہندوستان کی اہم معدنی سپلائی چین پر مبنی پالیسی اقدامات کی ایک سیریز میں تازہ ترین ہے۔ ستمبر 2025 میں، مرکزی کابینہ نے 1,500 کروڑ روپے کی لاگت کے ساتھ ایک الگ اہم معدنیات کی ری سائیکلنگ اسکیم کو منظوری دی، جس کا مقصد ثانوی ذرائع جیسے ای ویسٹ اور استعمال شدہ لیتھیم آئن بیٹریوں سے اہم معدنیات کو الگ کرنے اور پیدا کرنے کے لیے گھریلو صلاحیت کو بڑھانا ہے۔ ری سائیکلنگ اسکیم کی مدت چھ سال ہے۔"
+    },
+    "b16": {
+      "hi": "अप्रैल 2026 में, खान सचिव ने सार्वजनिक रूप से पुष्टि की कि सरकार ने प्रसंस्करण नीति के लिए इलेक्ट्रिक वाहन मूल्य श्रृंखला को सुरक्षित करने से जुड़े दो महत्वपूर्ण खनिजों को शॉर्टलिस्ट किया था, उस समय और अधिक निर्दिष्ट किए बिना। रॉयटर्स की रिपोर्ट जिस पर नवीनतम विवरण बाकी है, उस घोषणा के अनुरूप है।",
+      "en": "In April 2026, the Mines Secretary publicly confirmed that the government had shortlisted two critical minerals linked to securing an electric vehicle value chain for a processing policy, without specifying further at the time. The Reuters report on which the latest details rest is consistent with that announcement.",
+      "ur": "اپریل 2026 میں، مائنز سکریٹری نے عوامی طور پر اس بات کی تصدیق کی کہ حکومت نے اس وقت مزید وضاحت کیے بغیر، پروسیسنگ پالیسی کے لیے الیکٹرک وہیکل ویلیو چین کو محفوظ بنانے سے منسلک دو اہم معدنیات کو شارٹ لسٹ کیا ہے۔ رائٹرز کی رپورٹ جس پر تازہ ترین تفصیلات باقی ہیں اس اعلان کے مطابق ہے۔"
+    },
+    "b17": {
+      "hi": "प्रसंस्करण प्रोत्साहन, पुनर्चक्रण योजना, महत्वपूर्ण खनिज ब्लॉकों की नीलामी और चल रहे अन्वेषण प्रयास मिलकर, सरकार ने राष्ट्रीय महत्वपूर्ण खनिज मिशन के रूप में जो रूपरेखा तैयार की है, उसके घटक हैं।",
+      "en": "Together, the processing incentives, the recycling scheme, the auction of critical mineral blocks, and ongoing exploration efforts form the components of what the government has framed as the National Critical Mineral Mission.",
+      "ur": "ایک ساتھ، پروسیسنگ کی ترغیبات، ری سائیکلنگ اسکیم، اہم معدنی بلاکس کی نیلامی، اور تلاش کی جاری کوششیں اس کے اجزاء کی تشکیل کرتی ہیں جسے حکومت نے نیشنل کریٹیکل منرل مشن کے طور پر وضع کیا ہے۔"
+    },
+    "b18": {
+      "hi": "यह क्या अनलॉक कर सकता है",
+      "en": "What it could unlock",
+      "ur": "یہ کیا کھول سکتا ہے۔"
+    },
+    "b19": {
+      "hi": "यदि घोषित पैमाने पर क्रियान्वित किया जाता है, तो यह योजना घरेलू रिफाइनिंग क्षमता में सार्थक निजी निवेश को गति प्रदान कर सकती है। प्रसंस्करण संयंत्रों के लिए आवश्यक पर्याप्त पूंजी लगाने से पहले उद्योग भागीदार स्पष्ट नीति संकेत की प्रतीक्षा कर रहे हैं। परिभाषित 15 प्रतिशत पूंजी सब्सिडी, 5-वर्षीय सब्सिडी विंडो और न्यूनतम पैमाने की आवश्यकताओं पर दृश्यता का संयोजन निवेशकों को एक स्पष्ट योजना क्षितिज प्रदान करता है।",
+      "en": "If executed at announced scale, the scheme could trigger meaningful private investment in domestic refining capacity. Industry participants have been waiting for clearer policy signalling before committing the substantial capital that processing plants require. The combination of a defined 15 per cent capital subsidy, a 5-year subsidy window, and visibility on minimum-scale requirements gives investors a clearer planning horizon.",
+      "ur": "اگر اعلان کردہ پیمانے پر عملدرآمد کیا جاتا ہے، تو اسکیم گھریلو تطہیر کی صلاحیت میں بامعنی نجی سرمایہ کاری کو متحرک کر سکتی ہے۔ صنعت کے شرکاء خاطر خواہ سرمائے کا ارتکاب کرنے سے پہلے واضح پالیسی سگنلنگ کا انتظار کر رہے ہیں جس کی پروسیسنگ پلانٹس کو ضرورت ہے۔ ایک متعین 15 فیصد کیپٹل سبسڈی، 5 سالہ سبسڈی ونڈو، اور کم از کم پیمانے کی ضروریات پر مرئیت کا مجموعہ سرمایہ کاروں کو منصوبہ بندی کا ایک واضح افق فراہم کرتا ہے۔"
+    },
+    "b20": {
+      "hi": "भारत की दीर्घकालिक स्वच्छ ऊर्जा और शुद्ध-शून्य उद्देश्यों के लिए - जिसमें 2030 तक 500 गीगावाट गैर-जीवाश्म-ईंधन बिजली क्षमता का लक्ष्य और 2070 तक शुद्ध-शून्य उत्सर्जन लक्ष्य शामिल है - घरेलू प्रसंस्करण क्षमता वैकल्पिक नहीं है। ईवीएस के अलावा, ग्रिड स्केल पर बैटरी भंडारण, समान संसाधित इनपुट पर निर्भर करता है।",
+      "en": "For India's longer-term clean energy and net-zero objectives — which include a target of 500 gigawatts of non-fossil-fuel power capacity by 2030 and a net-zero emissions target by 2070 — domestic processing capability is not optional. Battery storage at grid scale, in addition to EVs, depends on the same processed inputs.",
+      "ur": "ہندوستان کی طویل مدتی صاف توانائی اور خالص صفر مقاصد کے لیے - جس میں 2030 تک 500 گیگا واٹ غیر جیواشم ایندھن کی توانائی کی صلاحیت کا ہدف اور 2070 تک خالص صفر کے اخراج کا ہدف شامل ہے - گھریلو پروسیسنگ کی صلاحیت اختیاری نہیں ہے۔ گرڈ پیمانے پر بیٹری اسٹوریج، ای وی کے علاوہ، اسی پروسیس شدہ ان پٹس پر منحصر ہے۔"
+    },
+    "b21": {
+      "hi": "आगे का रास्ता",
+      "en": "The road ahead",
+      "ur": "آگے کی سڑک"
+    },
+    "b22": {
+      "hi": "देखने लायक तत्काल ट्रिगर खान मंत्रालय द्वारा योजना की औपचारिक अधिसूचना है, जो शीघ्र ही अपेक्षित है। कार्यान्वयन तब इस बात पर निर्भर करेगा कि क्या प्रारंभिक चार परियोजनाएं - दो लिथियम, दो निकल - गंभीर पूंजी को आकर्षित करती हैं, और क्या संयंत्र उपयोग से जुड़ी चरणबद्ध सब्सिडी वितरण तंत्र को उस तरह से कैलिब्रेट किया जाता है जो उद्योग को व्यावहारिक लगता है।",
+      "en": "The immediate trigger to watch is the formal notification of the scheme by the Ministry of Mines, which is expected shortly. Implementation will then depend on whether the initial four projects — two lithium, two nickel — attract serious capital, and whether the staged subsidy disbursal mechanism, linked to plant utilisation, is calibrated in a way industry finds workable.",
+      "ur": "دیکھنے کا فوری محرک وزارت کانوں کی جانب سے اسکیم کا باضابطہ نوٹیفکیشن ہے، جو جلد ہی متوقع ہے۔ اس کے بعد عمل درآمد کا انحصار اس بات پر ہوگا کہ آیا ابتدائی چار پروجیکٹس - دو لیتھیم، دو نکل - سنجیدہ سرمایہ کو اپنی طرف متوجہ کرتے ہیں، اور آیا سبسڈی کی تقسیم کا طریقہ کار، جو پلانٹ کے استعمال سے منسلک ہے، اس طرح کیلیبریٹ کیا جاتا ہے کہ صنعت کو قابل عمل معلوم ہو۔"
+    },
+    "b23": {
+      "hi": "शीर्षक परिव्यय से परे, गहरा सवाल यह है कि क्या यह योजना भारत में एक वास्तविक प्रसंस्करण पारिस्थितिकी तंत्र को उत्प्रेरित करती है - एक ऐसा, जो दशक के अंत तक, आयातित परिष्कृत सामग्री के बजाय घरेलू स्रोतों से देश की लिथियम-आयन बैटरी आवश्यकताओं का एक सार्थक हिस्सा प्रदान कर सकता है। यह उत्तर आने वाले कई वर्षों में ही दिखाई देगा।",
+      "en": "Beyond the headline outlay, the deeper question is whether the scheme catalyses an actual processing ecosystem in India — one that, by the end of the decade, can supply a meaningful share of the country's lithium-ion battery requirements from domestic sources rather than from imported refined material. That answer will become visible only over the coming several years.",
+      "ur": "شہ سرخی سے ہٹ کر، گہرا سوال یہ ہے کہ آیا یہ اسکیم ہندوستان میں ایک حقیقی پروسیسنگ ایکو سسٹم کو متحرک کرتی ہے - جو کہ دہائی کے آخر تک ملک کی لیتھیم آئن بیٹری کی ضروریات کا ایک بامعنی حصہ درآمدی بہتر مواد کے بجائے گھریلو ذرائع سے فراہم کر سکتی ہے۔ یہ جواب آنے والے چند سالوں میں ہی نظر آئے گا۔"
+    }
+  }
+}
