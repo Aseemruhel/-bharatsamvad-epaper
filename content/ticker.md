@@ -7,3 +7,5 @@ Fourth S-400 Sudarshan squadron arrives in India from Russia
 HSBC India Manufacturing PMI rises to 55.0 in May, a three-month high
 AirTrunk announces $21 billion data centre near Mumbai
 India-Myanmar pledge to fast-track Kaladan and Trilateral Highway projects
+Year after backing Pakistan during Operation Sindoor, Turkey publicly courts India for a reset
+India's rise no accident, achievement of hard work and able leadership: Putin at SPIEF 2026
