@@ -11,3 +11,4 @@ AirTrunk announces $21 billion data centre near Mumbai
 India-Myanmar pledge to fast-track Kaladan and Trilateral Highway projects
 Year after backing Pakistan during Operation Sindoor, Turkey publicly courts India for a reset
 India's rise no accident, achievement of hard work and able leadership: Putin at SPIEF 2026
+After Operation Sindoor, the BSF modernisation push accelerates
