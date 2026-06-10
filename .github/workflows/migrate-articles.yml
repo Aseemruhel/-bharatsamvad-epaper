@@ -1,0 +1,42 @@
+name: Migrate Articles to Subfolder
+
+# This workflow only runs when you click "Run workflow" in the Actions tab.
+# It does NOT run on every commit.
+on:
+  workflow_dispatch:
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    permissions:
+      # Need write access so the workflow can commit and push back
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          # Use a token that can push back to the repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run migration script
+        run: python scripts/migrate_to_articles.py
+
+      - name: Commit changes back to the repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing to commit — repo is already in the target state."
+          else
+            git commit -m "Move article HTML files into /articles/ subfolder"
+            git push
+            echo "✓ Migration committed and pushed."
+          fi
