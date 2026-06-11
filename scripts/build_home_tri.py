@@ -4,10 +4,6 @@ import html
 # This value is replaced at runtime by scripts/build_from_markdown.py.
 DAYS = []
 
-# Replaced at runtime by build_from_markdown.py from content/ticker.md.
-# Each item is a short English string shown in the scrolling ticker.
-TICKER_ITEMS = []
-
 # How many most-recent days to keep on the homepage. The rest go to archive.html.
 RECENT_LIMIT = 3
 
@@ -351,81 +347,6 @@ body{
   line-height:2;
 }
 
-
-/* breaking-news ticker */
-.ticker-wrap{
-  background:#0d0907;
-  border-bottom:2px solid var(--accent);
-  border-top:1px solid #2a1f1a;
-  overflow:hidden;
-  position:relative;
-  z-index:40;
-}
-.ticker-label{
-  position:absolute;
-  left:0;
-  top:0;
-  bottom:0;
-  display:flex;
-  align-items:center;
-  padding:0 14px;
-  background:var(--accent);
-  color:#fff;
-  font-family:"Khand","Mukta",sans-serif;
-  font-weight:700;
-  font-size:13px;
-  letter-spacing:2px;
-  text-transform:uppercase;
-  z-index:2;
-  box-shadow:6px 0 12px -4px rgba(0,0,0,.6);
-}
-.ticker-label::after{
-  content:"";
-  position:absolute;
-  right:-10px;
-  top:0;
-  bottom:0;
-  width:0;
-  border-top:18px solid transparent;
-  border-bottom:18px solid transparent;
-  border-left:10px solid var(--accent);
-}
-.ticker-track{
-  display:flex;
-  gap:60px;
-  padding:11px 18px 11px 110px;
-  white-space:nowrap;
-  width:max-content;
-  animation:ticker-scroll 60s linear infinite;
-  font-family:"Mukta",Georgia,sans-serif;
-  font-size:14px;
-  color:#f3ead7;
-}
-.ticker-item{
-  display:inline-flex;
-  align-items:center;
-  gap:60px;
-}
-.ticker-item::before{
-  content:"\25C6";
-  color:var(--gold);
-  font-size:9px;
-  margin-right:14px;
-}
-.ticker-wrap:hover .ticker-track{
-  animation-play-state:paused;
-}
-@keyframes ticker-scroll{
-  from{ transform:translateX(0); }
-  to  { transform:translateX(-50%); }
-}
-@media(max-width:700px){
-  .ticker-label{font-size:11px; padding:0 10px;}
-  .ticker-label::after{border-top-width:16px; border-bottom-width:16px;}
-  .ticker-track{padding-left:90px; gap:40px; font-size:13px; animation-duration:45s;}
-  .ticker-item::before{margin-right:10px;}
-}
-
 @media(max-width:700px){
   .wrap{
     padding:25px 22px 38px;
@@ -551,13 +472,13 @@ def page(lang, days, kind="home"):
     body = [
         f'<div class="langblock {klass}" data-lang="{lang}">',
         '<div class="mast">',
-        f'<a href="index.html" class="home-logo" title="Back to Main Page"><h1>{names[lang]}</h1></a>',
+        f'<a href="/index.html" class="home-logo" title="Back to Main Page"><h1>{names[lang]}</h1></a>',
         f'<div class="tag">{tag[lang]}</div>',
         '</div>',
         '<div class="navribbon">',
-        f'<a class="navlink{h_active}" href="index.html">{home_label[lang]}</a>',
+        f'<a class="navlink{h_active}" href="/index.html">{home_label[lang]}</a>',
         '<span class="navsep">·</span>',
-        f'<a class="navlink{a_active}" href="archive.html">{archive_label[lang]}</a>',
+        f'<a class="navlink{a_active}" href="/archive.html">{archive_label[lang]}</a>',
         '</div>',
         f'<div class="issue">{sub_text}</div>',
     ]
@@ -578,7 +499,7 @@ def page(lang, days, kind="home"):
 
         for card in day["cards"]:
             body.append(
-                f'<a class="card" href="{e(card["href"])}">'
+                f'<a class="card" href="/{e(card["href"]).lstrip("/")}">'
                 f'<small>{e(card["label"][lang])}</small>'
                 f'<strong>{e(card["title"][lang])}</strong>'
                 f'<span>{read[lang]}</span>'
@@ -599,23 +520,7 @@ def page(lang, days, kind="home"):
     return "\n".join(body)
 
 
-
-def render_ticker():
-    """Render the scrolling ticker HTML. Empty string if no items."""
-    if not TICKER_ITEMS:
-        return ""
-    # Duplicate items so the loop appears seamless (animation goes to -50%)
-    items_html = "".join(f'<span class="ticker-item">{e(item)}</span>' for item in TICKER_ITEMS)
-    return (
-        '<div class="ticker-wrap">'
-        '<div class="ticker-label">Breaking</div>'
-        f'<div class="ticker-track">{items_html}{items_html}</div>'
-        '</div>'
-    )
-
-
-def build_doc(days, kind, title_text, with_ticker=False):
-    ticker_html = render_ticker() if with_ticker else ""
+def build_doc(days, kind, title_text):
     return f"""<!DOCTYPE html>
 <html lang="hi">
 <head>
@@ -632,7 +537,6 @@ def build_doc(days, kind, title_text, with_ticker=False):
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>
 </div>
-{ticker_html}
 
 <div class="wrap">
   {page("hi", days, kind)}
@@ -689,7 +593,6 @@ home_doc = build_doc(
     recent_days,
     "home",
     "भारत संवाद · Bharat Samwad · بھارت سنواد",
-    with_ticker=True,
 )
 Path("index.html").write_text(home_doc, encoding="utf-8")
 print(f"wrote index.html (recent {len(recent_days)} day(s))")
