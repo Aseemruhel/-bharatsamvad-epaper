@@ -344,81 +344,6 @@ body{
   line-height:2;
 }
 
-
-/* breaking-news ticker */
-.ticker-wrap{
-  background:#0d0907;
-  border-bottom:2px solid var(--accent);
-  border-top:1px solid #2a1f1a;
-  overflow:hidden;
-  position:relative;
-  z-index:40;
-}
-.ticker-label{
-  position:absolute;
-  left:0;
-  top:0;
-  bottom:0;
-  display:flex;
-  align-items:center;
-  padding:0 14px;
-  background:var(--accent);
-  color:#fff;
-  font-family:"Khand","Mukta",sans-serif;
-  font-weight:700;
-  font-size:13px;
-  letter-spacing:2px;
-  text-transform:uppercase;
-  z-index:2;
-  box-shadow:6px 0 12px -4px rgba(0,0,0,.6);
-}
-.ticker-label::after{
-  content:"";
-  position:absolute;
-  right:-10px;
-  top:0;
-  bottom:0;
-  width:0;
-  border-top:18px solid transparent;
-  border-bottom:18px solid transparent;
-  border-left:10px solid var(--accent);
-}
-.ticker-track{
-  display:flex;
-  gap:60px;
-  padding:11px 18px 11px 110px;
-  white-space:nowrap;
-  width:max-content;
-  animation:ticker-scroll 60s linear infinite;
-  font-family:"Mukta",Georgia,sans-serif;
-  font-size:14px;
-  color:#f3ead7;
-}
-.ticker-item{
-  display:inline-flex;
-  align-items:center;
-  gap:60px;
-}
-.ticker-item::before{
-  content:"C6";
-  color:var(--gold);
-  font-size:9px;
-  margin-right:14px;
-}
-.ticker-wrap:hover .ticker-track{
-  animation-play-state:paused;
-}
-@keyframes ticker-scroll{
-  from{ transform:translateX(0); }
-  to  { transform:translateX(-50%); }
-}
-@media(max-width:700px){
-  .ticker-label{font-size:11px; padding:0 10px;}
-  .ticker-label::after{border-top-width:16px; border-bottom-width:16px;}
-  .ticker-track{padding-left:90px; gap:40px; font-size:13px; animation-duration:45s;}
-  .ticker-item::before{margin-right:10px;}
-}
-
 @media(max-width:700px){
   .wrap{
     padding:25px 22px 38px;
@@ -475,18 +400,17 @@ body{
     <button data-l="ur" onclick="setLang('ur')">اردو</button>
   </div>
 </div>
-<div class="ticker-wrap"><div class="ticker-label">Breaking</div><div class="ticker-track"><span class="ticker-item">Amit Shah to launch Land Port Management System on Tuesday, bringing all 15 land ports under a unified digital platform</span><span class="ticker-item">India's rise no accident, achievement of hard work and able leadership: Putin</span><span class="ticker-item">RBI denies $12 billion gold-sale reports; physical stock unchanged at 880.52 tonnes</span><span class="ticker-item">Fourth S-400 Sudarshan squadron arrives in India from Russia</span><span class="ticker-item">HSBC India Manufacturing PMI rises to 55.0 in May, a three-month high</span><span class="ticker-item">AirTrunk announces $21 billion data centre near Mumbai</span><span class="ticker-item">India-Myanmar pledge to fast-track Kaladan and Trilateral Highway projects</span><span class="ticker-item">Year after backing Pakistan during Operation Sindoor, Turkey publicly courts India for a reset</span><span class="ticker-item">India's rise no accident, achievement of hard work and able leadership: Putin at SPIEF 2026</span><span class="ticker-item">After Operation Sindoor, the BSF modernisation push accelerates</span><span class="ticker-item">Amit Shah to launch Land Port Management System on Tuesday, bringing all 15 land ports under a unified digital platform</span><span class="ticker-item">India's rise no accident, achievement of hard work and able leadership: Putin</span><span class="ticker-item">RBI denies $12 billion gold-sale reports; physical stock unchanged at 880.52 tonnes</span><span class="ticker-item">Fourth S-400 Sudarshan squadron arrives in India from Russia</span><span class="ticker-item">HSBC India Manufacturing PMI rises to 55.0 in May, a three-month high</span><span class="ticker-item">AirTrunk announces $21 billion data centre near Mumbai</span><span class="ticker-item">India-Myanmar pledge to fast-track Kaladan and Trilateral Highway projects</span><span class="ticker-item">Year after backing Pakistan during Operation Sindoor, Turkey publicly courts India for a reset</span><span class="ticker-item">India's rise no accident, achievement of hard work and able leadership: Putin at SPIEF 2026</span><span class="ticker-item">After Operation Sindoor, the BSF modernisation push accelerates</span></div></div>
 
 <div class="wrap">
   <div class="langblock hi" data-lang="hi">
 <div class="mast">
-<a href="index.html" class="home-logo" title="Back to Main Page"><h1>भारत संवाद</h1></a>
+<a href="/index.html" class="home-logo" title="Back to Main Page"><h1>भारत संवाद</h1></a>
 <div class="tag">सत्य · सृजन · सरोकार</div>
 </div>
 <div class="navribbon">
-<a class="navlink active" href="index.html">मुखपृष्ठ</a>
+<a class="navlink active" href="/index.html">मुखपृष्ठ</a>
 <span class="navsep">·</span>
-<a class="navlink" href="archive.html">पुरालेख</a>
+<a class="navlink" href="/archive.html">पुरालेख</a>
 </div>
 <div class="issue">ई-पेपर · सभी संस्करण</div>
 <section class="day">
@@ -495,8 +419,8 @@ body{
 <div class="line"></div>
 <span class="badge">ताज़ा</span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-11-page1.html"><small>पृष्ठ 1 · रक्षा</small><strong>सात कीर्ति चक्र, एक गगनयात्री, और नाविका सागर परिक्रमा II की महिलाएं - भारत ने इस सप्ताह क्या सम्मानित किया</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-11-page2.html"><small>पृष्ठ 2 · रक्षा</small><strong>पहले मेड-इन-इंडिया एयरबस C295 ने वडोदरा से पहली परीक्षण उड़ान पूरी की; निजी क्षेत्र का सैन्य विमान कार्यक्रम सितंबर डिलीवरी की ओर आगे बढ़ रहा है</strong><span>पूरा लेख पढ़ें →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-11-page1.html"><small>पृष्ठ 1 · रक्षा</small><strong>सात कीर्ति चक्र, एक गगनयात्री, और नाविका सागर परिक्रमा II की महिलाएं - भारत ने इस सप्ताह क्या सम्मानित किया</strong><span>पूरा लेख पढ़ें →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-11-page2.html"><small>पृष्ठ 2 · रक्षा</small><strong>पहले मेड-इन-इंडिया एयरबस C295 ने वडोदरा से पहली परीक्षण उड़ान पूरी की; निजी क्षेत्र का सैन्य विमान कार्यक्रम सितंबर डिलीवरी की ओर आगे बढ़ रहा है</strong><span>पूरा लेख पढ़ें →</span></a>
 </section>
 <section class="day">
 <div class="day-head">
@@ -504,8 +428,8 @@ body{
 <div class="line"></div>
 <span></span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-10-page1.html"><small>पृष्ठ 1 · दुनिया</small><strong>पीओके में बंद पांचवें दिन में प्रवेश, प्रतिबंध के बावजूद जेएएसी का लंबा मार्च मुजफ्फराबाद की ओर बढ़ा; पिछले कुछ वर्षों में पीओजेके में सबसे खराब अशांति में मरने वालों की सत्यापित संख्या में वृद्धि हुई है</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-10-page2.html"><small>पृष्ठ 2 · दुनिया</small><strong>तालिबान का कहना है कि अफगानिस्तान में पाकिस्तानी हवाई हमलों में कम से कम 13 लोग मारे गए; सीमा पर संकट गहराने से मृतकों में बच्चे भी शामिल</strong><span>पूरा लेख पढ़ें →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-10-page1.html"><small>पृष्ठ 1 · दुनिया</small><strong>पीओके में बंद पांचवें दिन में प्रवेश, प्रतिबंध के बावजूद जेएएसी का लंबा मार्च मुजफ्फराबाद की ओर बढ़ा; पिछले कुछ वर्षों में पीओजेके में सबसे खराब अशांति में मरने वालों की सत्यापित संख्या में वृद्धि हुई है</strong><span>पूरा लेख पढ़ें →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-10-page2.html"><small>पृष्ठ 2 · दुनिया</small><strong>तालिबान का कहना है कि अफगानिस्तान में पाकिस्तानी हवाई हमलों में कम से कम 13 लोग मारे गए; सीमा पर संकट गहराने से मृतकों में बच्चे भी शामिल</strong><span>पूरा लेख पढ़ें →</span></a>
 </section>
 <section class="day">
 <div class="day-head">
@@ -513,22 +437,22 @@ body{
 <div class="line"></div>
 <span></span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page1.html"><small>पृष्ठ 1 · राष्ट्रीय</small><strong>ज़ोजिला सुरंग को मिली अंतिम सफलता; दुनिया की सबसे लंबी ऊंचाई वाली द्वि-दिशात्मक सड़क सुरंग पर औपचारिक विस्फोट हुआ</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page2.html"><small>पृष्ठ 2 · राष्ट्रीय</small><strong>झारखंड और भारत के नक्सली मानचित्र का अंतिम अध्याय: एक बार केंद्रीय युद्धक्षेत्र एक लंबे अभियान के अंत तक पहुंचता है</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page3.html"><small>पृष्ठ 3 · दुनिया</small><strong>पीओके में अशांति के दूसरे सप्ताह में प्रवेश, रावलकोट संघर्ष में कम से कम 11 की मौत; सील किए गए कार्यालयों और जारी इंटरनेट बंदी के बीच JAAC ने आज लंबे मार्च की योजना बनाई है</strong><span>पूरा लेख पढ़ें →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page4.html"><small>पृष्ठ 4 · लेख</small><strong>भारत संवाद</strong><span>पूरा लेख पढ़ें →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page1.html"><small>पृष्ठ 1 · राष्ट्रीय</small><strong>ज़ोजिला सुरंग को मिली अंतिम सफलता; दुनिया की सबसे लंबी ऊंचाई वाली द्वि-दिशात्मक सड़क सुरंग पर औपचारिक विस्फोट हुआ</strong><span>पूरा लेख पढ़ें →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page2.html"><small>पृष्ठ 2 · राष्ट्रीय</small><strong>झारखंड और भारत के नक्सली मानचित्र का अंतिम अध्याय: एक बार केंद्रीय युद्धक्षेत्र एक लंबे अभियान के अंत तक पहुंचता है</strong><span>पूरा लेख पढ़ें →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page3.html"><small>पृष्ठ 3 · दुनिया</small><strong>पीओके में अशांति के दूसरे सप्ताह में प्रवेश, रावलकोट संघर्ष में कम से कम 11 की मौत; सील किए गए कार्यालयों और जारी इंटरनेट बंदी के बीच JAAC ने आज लंबे मार्च की योजना बनाई है</strong><span>पूरा लेख पढ़ें →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page4.html"><small>पृष्ठ 4 · लेख</small><strong>भारत संवाद</strong><span>पूरा लेख पढ़ें →</span></a>
 </section>
 <div class="footer"><span>भारत संवाद</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
   <div class="langblock en" data-lang="en">
 <div class="mast">
-<a href="index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
+<a href="/index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
 <div class="tag">Truth · Creation · Concern</div>
 </div>
 <div class="navribbon">
-<a class="navlink active" href="index.html">Home</a>
+<a class="navlink active" href="/index.html">Home</a>
 <span class="navsep">·</span>
-<a class="navlink" href="archive.html">Archive</a>
+<a class="navlink" href="/archive.html">Archive</a>
 </div>
 <div class="issue">E-paper · All editions</div>
 <section class="day">
@@ -537,8 +461,8 @@ body{
 <div class="line"></div>
 <span class="badge">Latest</span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-11-page1.html"><small>Page 1 · Defence</small><strong>Seven Kirti Chakras, a Gaganyatri, and the women of Navika Sagar Parikrama II — what India honoured this week</strong><span>Read full article →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-11-page2.html"><small>Page 2 · Defence</small><strong>First Made-in-India Airbus C295 completes maiden test flight from Vadodara; private-sector military aircraft programme advances toward September delivery</strong><span>Read full article →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-11-page1.html"><small>Page 1 · Defence</small><strong>Seven Kirti Chakras, a Gaganyatri, and the women of Navika Sagar Parikrama II — what India honoured this week</strong><span>Read full article →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-11-page2.html"><small>Page 2 · Defence</small><strong>First Made-in-India Airbus C295 completes maiden test flight from Vadodara; private-sector military aircraft programme advances toward September delivery</strong><span>Read full article →</span></a>
 </section>
 <section class="day">
 <div class="day-head">
@@ -546,8 +470,8 @@ body{
 <div class="line"></div>
 <span></span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-10-page1.html"><small>Page 1 · World</small><strong>POK shutdown enters fifth day as JAAC long march advances toward Muzaffarabad despite ban; verified death toll rises in worst PoJK unrest in years</strong><span>Read full article →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-10-page2.html"><small>Page 2 · World</small><strong>Pakistani airstrikes kill at least 13 in Afghanistan, Taliban says; children among dead as border crisis deepens</strong><span>Read full article →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-10-page1.html"><small>Page 1 · World</small><strong>POK shutdown enters fifth day as JAAC long march advances toward Muzaffarabad despite ban; verified death toll rises in worst PoJK unrest in years</strong><span>Read full article →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-10-page2.html"><small>Page 2 · World</small><strong>Pakistani airstrikes kill at least 13 in Afghanistan, Taliban says; children among dead as border crisis deepens</strong><span>Read full article →</span></a>
 </section>
 <section class="day">
 <div class="day-head">
@@ -555,22 +479,22 @@ body{
 <div class="line"></div>
 <span></span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page1.html"><small>Page 1 · National</small><strong>Zojila Tunnel achieves final breakthrough; triggers ceremonial blast on world's longest high-altitude bi-directional road tunnel</strong><span>Read full article →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page2.html"><small>Page 2 · National</small><strong>Jharkhand and the closing chapter of India's Naxal map: a once-central battleground reaches the end of a long campaign</strong><span>Read full article →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page3.html"><small>Page 3 · World</small><strong>At least 11 killed in Rawalakot clash as PoK enters second week of unrest; JAAC long march planned for today amid sealed offices and continuing internet shutdown</strong><span>Read full article →</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page4.html"><small>Page 4 · Article</small><strong>भारत संवाद</strong><span>Read full article →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page1.html"><small>Page 1 · National</small><strong>Zojila Tunnel achieves final breakthrough; triggers ceremonial blast on world's longest high-altitude bi-directional road tunnel</strong><span>Read full article →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page2.html"><small>Page 2 · National</small><strong>Jharkhand and the closing chapter of India's Naxal map: a once-central battleground reaches the end of a long campaign</strong><span>Read full article →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page3.html"><small>Page 3 · World</small><strong>At least 11 killed in Rawalakot clash as PoK enters second week of unrest; JAAC long march planned for today amid sealed offices and continuing internet shutdown</strong><span>Read full article →</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page4.html"><small>Page 4 · Article</small><strong>भारत संवाद</strong><span>Read full article →</span></a>
 </section>
 <div class="footer"><span>Bharat Samwad</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
   <div class="langblock ur" data-lang="ur">
 <div class="mast">
-<a href="index.html" class="home-logo" title="Back to Main Page"><h1>بھارت سنواد</h1></a>
+<a href="/index.html" class="home-logo" title="Back to Main Page"><h1>بھارت سنواد</h1></a>
 <div class="tag">سچ · تخلیق · سروکار</div>
 </div>
 <div class="navribbon">
-<a class="navlink active" href="index.html">مرکزی صفحہ</a>
+<a class="navlink active" href="/index.html">مرکزی صفحہ</a>
 <span class="navsep">·</span>
-<a class="navlink" href="archive.html">آرکائیو</a>
+<a class="navlink" href="/archive.html">آرکائیو</a>
 </div>
 <div class="issue">ای پیپر · تمام ایڈیشن</div>
 <section class="day">
@@ -579,8 +503,8 @@ body{
 <div class="line"></div>
 <span class="badge">تازہ</span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-11-page1.html"><small>صفحہ 1 · دفاع</small><strong>سات کیرتی چکر، ایک گگن یاتری، اور ناویکا ساگر پرکرما II کی خواتین - جسے ہندوستان نے اس ہفتے اعزاز سے نوازا</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-11-page2.html"><small>صفحہ 2 · دفاع</small><strong>بھارت کی پہلی ایئربس C295 نے وڈودرا سے پہلی آزمائشی پرواز مکمل کی۔ نجی شعبے کے فوجی طیارے کا پروگرام ستمبر کی ترسیل کی طرف بڑھ رہا ہے۔</strong><span>پورا مضمون پڑھیں ←</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-11-page1.html"><small>صفحہ 1 · دفاع</small><strong>سات کیرتی چکر، ایک گگن یاتری، اور ناویکا ساگر پرکرما II کی خواتین - جسے ہندوستان نے اس ہفتے اعزاز سے نوازا</strong><span>پورا مضمون پڑھیں ←</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-11-page2.html"><small>صفحہ 2 · دفاع</small><strong>بھارت کی پہلی ایئربس C295 نے وڈودرا سے پہلی آزمائشی پرواز مکمل کی۔ نجی شعبے کے فوجی طیارے کا پروگرام ستمبر کی ترسیل کی طرف بڑھ رہا ہے۔</strong><span>پورا مضمون پڑھیں ←</span></a>
 </section>
 <section class="day">
 <div class="day-head">
@@ -588,8 +512,8 @@ body{
 <div class="line"></div>
 <span></span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-10-page1.html"><small>صفحہ 1 · دنیا</small><strong>پابندی کے باوجود JAAC کا لانگ مارچ مظفرآباد کی طرف بڑھنے پر POK بند پانچویں دن میں داخل ہو گیا۔ سالوں میں PoJK کی بدترین بدامنی میں تصدیق شدہ ہلاکتوں کی تعداد میں اضافہ ہوا ہے۔</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-10-page2.html"><small>صفحہ 2 · دنیا</small><strong>افغانستان میں پاکستانی فضائی حملوں میں کم از کم 13 ہلاک، طالبان کا کہنا ہے کہ؛ سرحدی بحران مزید گہرا ہونے کے بعد مرنے والوں میں بچے بھی شامل ہیں۔</strong><span>پورا مضمون پڑھیں ←</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-10-page1.html"><small>صفحہ 1 · دنیا</small><strong>پابندی کے باوجود JAAC کا لانگ مارچ مظفرآباد کی طرف بڑھنے پر POK بند پانچویں دن میں داخل ہو گیا۔ سالوں میں PoJK کی بدترین بدامنی میں تصدیق شدہ ہلاکتوں کی تعداد میں اضافہ ہوا ہے۔</strong><span>پورا مضمون پڑھیں ←</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-10-page2.html"><small>صفحہ 2 · دنیا</small><strong>افغانستان میں پاکستانی فضائی حملوں میں کم از کم 13 ہلاک، طالبان کا کہنا ہے کہ؛ سرحدی بحران مزید گہرا ہونے کے بعد مرنے والوں میں بچے بھی شامل ہیں۔</strong><span>پورا مضمون پڑھیں ←</span></a>
 </section>
 <section class="day">
 <div class="day-head">
@@ -597,10 +521,10 @@ body{
 <div class="line"></div>
 <span></span>
 </div>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page1.html"><small>صفحہ 1 · قومی</small><strong>زوجیلا ٹنل نے آخری کامیابی حاصل کی؛ دنیا کی سب سے طویل اونچائی والی دو طرفہ سڑک سرنگ پر رسمی دھماکے کو متحرک کرتا ہے</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page2.html"><small>صفحہ 2 · قومی</small><strong>جھارکھنڈ اور ہندوستان کے نکسل نقشے کا اختتامی باب: ایک بار مرکزی میدان جنگ ایک طویل مہم کے اختتام کو پہنچ گیا</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page3.html"><small>صفحہ 3 · دنیا</small><strong>راولاکوٹ میں تصادم میں کم از کم 11 ہلاک جب کہ پی او کے بدامنی کے دوسرے ہفتے میں داخل ہے۔ سیل شدہ دفاتر اور انٹرنیٹ کی مسلسل بندش کے درمیان آج کے لیے JAAC لانگ مارچ کا منصوبہ بنایا گیا ہے۔</strong><span>پورا مضمون پڑھیں ←</span></a>
-<a class="card" href="articles/bharatsamvad-2026-06-09-page4.html"><small>صفحہ 4 · مضمون</small><strong>भारत संवाद</strong><span>پورا مضمون پڑھیں ←</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page1.html"><small>صفحہ 1 · قومی</small><strong>زوجیلا ٹنل نے آخری کامیابی حاصل کی؛ دنیا کی سب سے طویل اونچائی والی دو طرفہ سڑک سرنگ پر رسمی دھماکے کو متحرک کرتا ہے</strong><span>پورا مضمون پڑھیں ←</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page2.html"><small>صفحہ 2 · قومی</small><strong>جھارکھنڈ اور ہندوستان کے نکسل نقشے کا اختتامی باب: ایک بار مرکزی میدان جنگ ایک طویل مہم کے اختتام کو پہنچ گیا</strong><span>پورا مضمون پڑھیں ←</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page3.html"><small>صفحہ 3 · دنیا</small><strong>راولاکوٹ میں تصادم میں کم از کم 11 ہلاک جب کہ پی او کے بدامنی کے دوسرے ہفتے میں داخل ہے۔ سیل شدہ دفاتر اور انٹرنیٹ کی مسلسل بندش کے درمیان آج کے لیے JAAC لانگ مارچ کا منصوبہ بنایا گیا ہے۔</strong><span>پورا مضمون پڑھیں ←</span></a>
+<a class="card" href="/articles/bharatsamvad-2026-06-09-page4.html"><small>صفحہ 4 · مضمون</small><strong>भारत संवाद</strong><span>پورا مضمون پڑھیں ←</span></a>
 </section>
 <div class="footer"><span>بھارت سنواد</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
