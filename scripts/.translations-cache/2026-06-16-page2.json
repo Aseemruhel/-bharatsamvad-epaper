@@ -1,0 +1,390 @@
+{
+  "hash": "6057383bd3f6b3e6",
+  "t": {
+    "fm.section": {
+      "hi": "व्यापार",
+      "en": "Business",
+      "ur": "کاروبار"
+    },
+    "fm.kicker": {
+      "hi": "प्रौद्योगिकी · सॉवरेन एआई",
+      "en": "Technology · Sovereign AI",
+      "ur": "ٹیکنالوجی · خودمختار AI"
+    },
+    "fm.byline": {
+      "hi": "प्रौद्योगिकी संवाददाता",
+      "en": "Technology Correspondent",
+      "ur": "ٹیکنالوجی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली/बेंगलुरु",
+      "en": "New Delhi / Bengaluru",
+      "ur": "نئی دہلی/بنگلور"
+    },
+    "fm.headline": {
+      "hi": "भारत की संप्रभु एआई बिल्ड-आउट ने इक्विटी फंडिंग में 5.5 बिलियन अमरीकी डालर को पार कर लिया है क्योंकि इंडियाएआई मिशन में तेजी आई है और एंथ्रोपिक निर्यात प्रकरण आत्मनिर्भरता तर्क को तेज करता है",
+      "en": "India's sovereign AI build-out crosses USD 5.5 billion in equity funding as IndiaAI Mission accelerates and Anthropic export episode sharpens the self-reliance argument",
+      "ur": "انڈیا کی خودمختار AI بلڈ آؤٹ ایکویٹی فنڈنگ ​​میں USD 5.5 بلین سے تجاوز کر گئی کیونکہ انڈیا اے آئی مشن میں تیزی آتی ہے اور اینتھروپک ایکسپورٹ ایپی سوڈ خود انحصاری کی دلیل کو تیز کرتا ہے۔"
+    },
+    "fm.subdeck": {
+      "hi": "इस सप्ताह जारी ट्रैक्सन रिपोर्ट में 1,700 से अधिक भारतीय एआई-देशी कंपनियों में संचयी इक्विटी फंडिंग लगभग 5.5 बिलियन अमेरिकी डॉलर बताई गई है। ₹10,372 करोड़ का इंडियाएआई मिशन 12 मूलभूत मॉडल डेवलपर्स को संरचित जीपीयू क्षमता आवंटित कर रहा है, जिसमें सर्वम एआई को कंप्यूट सब्सिडी के साथ 4,096 एनवीआईडीआईए एच100 जीपीयू प्राप्त होंगे। विदेशी नागरिकों के लिए अपने फैबल 5 और मिथोस 5 मॉडल को निलंबित करने के अमेरिकी वाणिज्य विभाग के एंथ्रोपिक के निर्देश - 12 जून को जारी किए गए - ने घरेलू एआई बुनियादी ढांचे, मूलभूत मॉडल विकास और एकीकृत एआई स्टैक के आसपास नीति और उद्योग की सहमति को तेज कर दिया है।",
+      "en": "A Tracxn report released this week places cumulative equity funding across over 1,700 Indian AI-native companies at approximately USD 5.5 billion. The ₹10,372 crore IndiaAI Mission is allocating structured GPU capacity to 12 foundational model developers, with Sarvam AI receiving 4,096 NVIDIA H100 GPUs alongside compute subsidies. The US Commerce Department's directive to Anthropic to suspend its Fable 5 and Mythos 5 models for foreign nationals — issued on 12 June — has sharpened the policy and industry consensus around domestic AI infrastructure, foundational model development, and the integrated AI stack.",
+      "ur": "اس ہفتے جاری ہونے والی Tracxn کی رپورٹ میں تقریباً 5.5 بلین امریکی ڈالر کی 1,700 ہندوستانی AI- مقامی کمپنیوں میں مجموعی ایکویٹی فنڈنگ ​​کی گئی ہے۔ ₹ 10,372 کروڑ کا انڈیا اے آئی مشن 12 فاؤنڈیشنل ماڈل ڈویلپرز کو ساختی GPU کی گنجائش مختص کر رہا ہے، سروام AI کو کمپیوٹ سبسڈی کے ساتھ 4,096 NVIDIA H100 GPUs مل رہا ہے۔ امریکی کامرس ڈیپارٹمنٹ کی طرف سے انتھروپک کو ہدایت نامہ 5 اور Mythos 5 ماڈلز کو غیر ملکی شہریوں کے لیے معطل کرنے کے لیے – 12 جون کو جاری کیا گیا – نے گھریلو AI انفراسٹرکچر، فاؤنڈیشنل ماڈل ڈویلپمنٹ، اور مربوط AI اسٹیک کے ارد گرد پالیسی اور صنعت کے اتفاق کو تیز کر دیا ہے۔"
+    },
+    "b0": {
+      "hi": "प्रौद्योगिकी क्षेत्र की डेटा और एनालिटिक्स फर्म, ट्रैक्सन द्वारा इस सप्ताह जारी की गई \"इंडिया एंड द सॉवरेन एआई शिफ्ट\" शीर्षक वाली एक रिपोर्ट के अनुसार, भारत का संप्रभु कृत्रिम बुद्धिमत्ता प्रयास एक गहरे बुनियादी ढांचे के चरण में प्रवेश कर रहा है, जिसे विश्लेषकों ने एक गहन बुनियादी ढांचे के चरण के रूप में वर्णित किया है, देश में 1,700 से अधिक एआई-देशी कंपनियों ने सामूहिक रूप से इक्विटी फंडिंग में लगभग 5.5 बिलियन अमेरिकी डॉलर जुटाए हैं। संचयी आंकड़ा भारत के एआई पारिस्थितिकी तंत्र की चौड़ाई को दर्शाता है - जो उद्यम एआई, ऊर्ध्वाधर अनुप्रयोगों, उपभोक्ता प्लेटफार्मों और, तेजी से, एआई स्टैक की बुनियादी ढांचे की परतों तक फैला हुआ है।",
+      "en": "India's sovereign artificial intelligence push is entering what analysts describe as a deeper infrastructure phase, with more than 1,700 AI-native companies in the country having collectively raised approximately USD 5.5 billion in equity funding to date, according to a report titled \"India and the Sovereign AI Shift\" released this week by Tracxn, the technology-sector data and analytics firm. The cumulative figure reflects the breadth of India's AI ecosystem — extending across enterprise AI, vertical applications, consumer platforms, and, increasingly, the infrastructure layers of the AI stack.",
+      "ur": "بھارت کی خودمختار مصنوعی ذہانت کا پش داخل ہو رہا ہے جسے تجزیہ کار بنیادی ڈھانچے کے ایک گہرے مرحلے کے طور پر بیان کرتے ہیں، ملک میں 1,700 سے زیادہ AI- مقامی کمپنیوں نے آج تک مجموعی طور پر تقریباً 5.5 بلین امریکی ڈالر کی ایکویٹی فنڈنگ اکٹھی کی ہے، ایک رپورٹ کے مطابق \"India and the Sovereign-Sovereigns\" کے عنوان سے جاری کردہ ایک رپورٹ کے مطابق اور تجزیاتی فرم۔ مجموعی اعداد و شمار ہندوستان کے AI ماحولیاتی نظام کی وسعت کی عکاسی کرتا ہے - جس میں انٹرپرائز AI، عمودی ایپلی کیشنز، صارفین کے پلیٹ فارمز، اور، تیزی سے، AI اسٹیک کی بنیادی ڈھانچے کی تہوں تک پھیلی ہوئی ہے۔"
+    },
+    "b1": {
+      "hi": "रिपोर्ट का केंद्रीय विश्लेषणात्मक अवलोकन यह है कि भारत का एआई पारिस्थितिकी तंत्र एक एप्लिकेशन-आधारित विकास मॉडल से परिवर्तित हो रहा है - जिसमें भारतीय स्टार्ट-अप ने मुख्य रूप से विश्व स्तर पर उपलब्ध विदेशी मॉडल और विदेशी-नियंत्रित क्लाउड इंफ्रास्ट्रक्चर के शीर्ष पर उपभोक्ता और उद्यम अनुप्रयोगों का निर्माण किया है - नीति समन्वय और पूंजी निर्माण द्वारा समर्थित एक अधिक बुनियादी ढांचे-समर्थित और गणना-गहन ढांचे के लिए। यह विकास ₹10,372 करोड़ के इंडियाएआई मिशन द्वारा, कंप्यूट बुनियादी ढांचे में निजी क्षेत्र के निवेश में तेजी लाने और संप्रभु क्षमता के आसपास एक तेज नीति और उद्योग की सहमति द्वारा संचालित किया जा रहा है - बाद में वैश्विक एआई क्षेत्र में पिछले कई दिनों की घटनाओं से काफी मजबूती मिली है।",
+      "en": "The report's central analytical observation is that India's AI ecosystem is transitioning from an application-led growth model — in which Indian start-ups primarily built consumer and enterprise applications on top of globally available foreign models and foreign-controlled cloud infrastructure — to a more infrastructure-backed and compute-intensive framework, supported by policy coordination and capital formation. This evolution is being driven simultaneously by the ₹10,372 crore IndiaAI Mission, by accelerating private-sector investment in compute infrastructure, and by a sharpened policy and industry consensus around sovereign capability — the latter substantively reinforced by the events of the past several days in the global AI sector.",
+      "ur": "رپورٹ کا مرکزی تجزیاتی مشاہدہ یہ ہے کہ ہندوستان کا AI ماحولیاتی نظام ایک ایپلیکیشن کی زیر قیادت ترقی کے ماڈل سے منتقل ہو رہا ہے - جس میں ہندوستانی سٹارٹ اپس نے بنیادی طور پر صارفین اور انٹرپرائز ایپلی کیشنز کو عالمی سطح پر دستیاب غیر ملکی ماڈلز اور غیر ملکی کنٹرول والے کلاؤڈ انفراسٹرکچر کے اوپر بنایا ہے۔ یہ ارتقاء بیک وقت ₹ 10,372 کروڑ کے انڈیا اے آئی مشن کے ذریعے، کمپیوٹ انفراسٹرکچر میں نجی شعبے کی سرمایہ کاری کو تیز کر کے، اور خودمختار صلاحیت کے ارد گرد ایک تیز پالیسی اور صنعت کے اتفاق کے ذریعے چلایا جا رہا ہے۔"
+    },
+    "b2": {
+      "hi": "वित्त पोषण प्रक्षेपवक्र",
+      "en": "The funding trajectory",
+      "ur": "فنڈنگ ​​کی رفتار"
+    },
+    "b3": {
+      "hi": "ट्रैक्सन विश्लेषण पिछले चार वर्षों में भारतीय एआई फंडिंग में एक अलग प्रक्षेपवक्र का पता लगाता है। भारतीय कंपनियों में कुल एआई फंडिंग 2022 में लगभग 1.1 बिलियन अमेरिकी डॉलर तक पहुंच गई - बड़े भाषा मॉडल के सार्वजनिक उद्भव के बाद वैश्विक एआई-निवेश लहर का उच्च जल चिह्न। व्यापक वैश्विक उद्यम पूंजी मंदी के अनुरूप, 2023 और 2024 तक फंडिंग में कमी आई, जिसने सभी श्रेणियों में प्रौद्योगिकी निवेश को प्रभावित किया। पुनर्प्राप्ति 2025 में शुरू हुई, जिसमें 856 मिलियन अमरीकी डालर की फंडिंग थी, और 2026 तक जारी रही, इस वर्ष अब तक 626 मिलियन अमरीकी डालर पहले ही जुटाए जा चुके हैं।",
+      "en": "The Tracxn analysis traces a distinct trajectory in Indian AI funding over the past four years. Total AI funding into Indian companies peaked at approximately USD 1.1 billion in 2022 — the high-water mark of the global AI-investment wave following the public emergence of large language models. Funding moderated through 2023 and 2024, in line with the broader global venture capital slowdown that affected technology investment across categories. The recovery began in 2025, with USD 856 million in funding, and has continued into 2026, with USD 626 million already raised in the year to date.",
+      "ur": "Tracxn تجزیہ پچھلے چار سالوں میں ہندوستانی AI فنڈنگ ​​میں ایک الگ رفتار کا پتہ لگاتا ہے۔ ہندوستانی کمپنیوں میں کل AI فنڈنگ ​​2022 میں تقریبا USD 1.1 بلین تک پہنچ گئی - بڑے زبان کے ماڈلز کے عوامی ظہور کے بعد عالمی AI-سرمایہ کاری کی لہر کا اعلی پانی کا نشان۔ 2023 اور 2024 کے دوران فنڈنگ ​​کو معتدل کیا گیا، وسیع تر عالمی وینچر کیپیٹل کی سست روی کے مطابق جس نے مختلف زمروں میں ٹیکنالوجی کی سرمایہ کاری کو متاثر کیا۔ ریکوری 2025 میں شروع ہوئی، جس میں 856 ملین امریکی ڈالر کی فنڈنگ ​​تھی، اور یہ 2026 تک جاری رہی، جس میں پہلے ہی سال میں 626 ملین امریکی ڈالر جمع ہو چکے ہیں۔"
+    },
+    "b4": {
+      "hi": "वैश्विक एआई फंडिंग तस्वीर के विपरीत, भारतीय संख्या पूर्ण रूप से मामूली है। ट्रैक्सन की ट्रैकिंग के अनुसार, ग्लोबल एआई फंडिंग कुल मिलाकर 473 बिलियन अमेरिकी डॉलर से अधिक हो गई है, जिसमें ओपनएआई, एंथ्रोपिक और एलोन मस्क का एक्सएआई कुल मिलाकर अनुमानित 170 बिलियन अमेरिकी डॉलर है - जो वैश्विक कुल का लगभग 36 प्रतिशत है। फ्रंटियर-मॉडल परत के शीर्ष पर पूंजी की एकाग्रता पर्याप्त पैमाने की अर्थव्यवस्थाओं को दर्शाती है और खरोंच से सामान्य-उद्देश्यीय नींव मॉडल के निर्माण की आवश्यकताओं की गणना करती है। आवश्यकता के अनुसार, भारत की स्थिति अलग रही है - सबसे बड़ी अमेरिकी फाउंडेशन मॉडल प्रयोगशालाओं के साथ सीधे आमने-सामने की प्रतिस्पर्धा पर ध्यान केंद्रित नहीं किया गया है, बल्कि स्थायी पूंजी तीव्रता पर व्यापक एआई स्टैक में घरेलू क्षमता के निर्माण पर ध्यान केंद्रित किया गया है।",
+      "en": "Set against the global AI funding picture, the Indian numbers are modest in absolute terms. Global AI funding has, by Tracxn's tracking, surpassed USD 473 billion cumulatively, with OpenAI, Anthropic, and Elon Musk's xAI accounting for an estimated USD 170 billion together — roughly 36 per cent of the global total. The concentration of capital at the very top of the frontier-model layer reflects the substantial scale economies and compute requirements of building general-purpose foundation models from scratch. India's positioning has, by necessity, been different — focused not on direct head-to-head competition with the largest US foundation model laboratories, but on building domestic capability across the wider AI stack at sustainable capital intensity.",
+      "ur": "عالمی AI فنڈنگ ​​پکچر کے خلاف سیٹ کریں، ہندوستانی نمبر قطعی لحاظ سے معمولی ہیں۔ Tracxn کی ٹریکنگ کے ذریعے گلوبل AI فنڈنگ ​​نے مجموعی طور پر USD 473 بلین کو عبور کر لیا ہے، OpenAI، Anthropic، اور Elon Musk کے xAI کے ساتھ مل کر اندازاً 170 بلین امریکی ڈالر ہیں - جو عالمی کل کا تقریباً 36 فیصد ہے۔ فرنٹیئر ماڈل پرت کے بالکل اوپری حصے میں سرمائے کا ارتکاز کافی پیمانے پر معیشتوں اور عام مقصد کے فاؤنڈیشن ماڈلز کو شروع سے ہی بنانے کی ضروریات کو پورا کرتا ہے۔ ہندوستان کی پوزیشننگ، ضرورت کے مطابق، مختلف رہی ہے - سب سے بڑی امریکی فاؤنڈیشن ماڈل لیبارٹریوں کے ساتھ براہ راست مقابلہ پر نہیں، بلکہ پائیدار سرمائے کی شدت پر وسیع تر AI اسٹیک میں گھریلو صلاحیت کی تعمیر پر مرکوز ہے۔"
+    },
+    "b5": {
+      "hi": "इंडियाएआई मिशन",
+      "en": "The IndiaAI Mission",
+      "ur": "انڈیا اے آئی مشن"
+    },
+    "b6": {
+      "hi": "ट्रैक्सन रिपोर्ट में पहचाने गए संरचनात्मक बदलाव को चलाने वाला प्रमुख नीति लीवर इंडियाएआई मिशन है, जो एआई क्षमता विकास के लिए भारत सरकार का प्रमुख राष्ट्रीय कार्यक्रम है, जिसे औपचारिक रूप से लगभग ₹10,372 करोड़ के वित्तीय आवंटन के साथ लॉन्च किया गया है। मिशन का केंद्रीय परिचालन तंत्र मूलभूत या विशेष एआई मॉडल विकास में लगी चयनित घरेलू कंपनियों के लिए जीपीयू गणना क्षमता का संरचित आवंटन है - जो सीधे तौर पर भारत में बड़े पैमाने पर एआई कार्य के लिए ऐतिहासिक रूप से प्रमुख पूंजी बाधाओं में से एक रहा है।",
+      "en": "The principal policy lever driving the structural shift identified in the Tracxn report is the IndiaAI Mission, the Government of India's flagship national programme for AI capability development, formally launched with a financial allocation of approximately ₹10,372 crore. The Mission's central operational mechanism is the structured allocation of GPU compute capacity to selected domestic companies engaged in foundational or specialised AI model development — directly addressing what has historically been one of the principal capital barriers to large-scale AI work in India.",
+      "ur": "Tracxn رپورٹ میں شناخت شدہ ساختی تبدیلی کو چلانے والی بنیادی پالیسی انڈیا AI مشن ہے، جو کہ حکومت ہند کا AI صلاحیت کی ترقی کے لیے قومی پروگرام ہے، جو تقریباً 10,372 کروڑ روپے کے مالیاتی مختص کے ساتھ باضابطہ طور پر شروع کیا گیا ہے۔ مشن کا مرکزی آپریشنل طریقہ کار بنیادی یا خصوصی AI ماڈل کی ترقی میں مصروف منتخب گھریلو کمپنیوں کے لیے GPU کمپیوٹ کی صلاحیت کا منظم مختص کرنا ہے - جو ہندوستان میں بڑے پیمانے پر AI کام کے لیے تاریخی طور پر بنیادی سرمائے کی رکاوٹوں میں سے ایک رہا ہے، اس کا براہ راست حل کرنا۔"
+    },
+    "b7": {
+      "hi": "मिशन के तहत, बुनियादी और विशेष मॉडल बनाने वाली बारह कंपनियों को संरचित जीपीयू क्षमता आवंटित की गई है। वर्तमान में इस ढांचे के तहत भारत में प्रशिक्षित किए जा रहे मॉडल पैरामीटर आकार छोटे छोर पर 2.9 बिलियन पैरामीटर से लेकर बड़े छोर पर 105 बिलियन पैरामीटर तक हैं, जिसमें कई टीमें अनुमान दक्षता के लिए डिज़ाइन किए गए मिश्रण-विशेषज्ञ आर्किटेक्चर का उपयोग करती हैं। विशेषज्ञों का मिश्रण दृष्टिकोण सीमित गणना पहुंच वाले क्षेत्राधिकारों के लिए एक महत्वपूर्ण वास्तुशिल्प विकल्प के रूप में उभरा है, क्योंकि यह बड़े सक्रिय-पैरामीटर अनुमान लागत के बिना काफी बड़े कुल पैरामीटर गणना को तैनात करने की अनुमति देता है।",
+      "en": "Under the Mission, twelve companies building foundational and specialised models have been allocated structured GPU capacity. The model parameter sizes currently being trained in India under this framework range from 2.9 billion parameters at the smaller end to 105 billion parameters at the larger end, with several teams using mixture-of-experts architectures designed for inference efficiency. The mixture-of-experts approach has emerged as an important architectural choice for jurisdictions with constrained compute access, because it allows substantially larger total parameter counts to be deployed without correspondingly large active-parameter inference costs.",
+      "ur": "مشن کے تحت، بنیادی اور خصوصی ماڈلز بنانے والی 12 کمپنیوں کو ساختی GPU صلاحیت مختص کی گئی ہے۔ اس فریم ورک کے تحت فی الحال ہندوستان میں تربیت یافتہ ماڈل پیرامیٹر سائز چھوٹے سرے پر 2.9 بلین پیرامیٹرز سے لے کر بڑے سرے پر 105 بلین پیرامیٹرز تک ہیں، جس میں متعدد ٹیمیں ماہرین کی ساخت کا مرکب استعمال کر رہی ہیں جو تخمینے کی کارکردگی کے لیے ڈیزائن کیے گئے ہیں۔ ماہرین کا مرکب نقطہ نظر محدود کمپیوٹ رسائی والے دائرہ اختیار کے لیے ایک اہم آرکیٹیکچرل انتخاب کے طور پر ابھرا ہے، کیونکہ یہ کافی حد تک بڑے پیرامیٹر کی تعداد کو اسی طور پر بڑے فعال پیرامیٹر کے تخمینہ لاگت کے بغیر تعینات کرنے کی اجازت دیتا ہے۔"
+    },
+    "b8": {
+      "hi": "इंडियाएआई मिशन के कंप्यूट आवंटन ढांचे के सबसे अधिक दिखाई देने वाले लाभार्थियों में बेंगलुरु स्थित फाउंडेशनल मॉडल कंपनी सर्वम एआई है, जिसे 4,096 एनवीआईडीआईए एच100 जीपीयू आवंटित किया गया है और कंप्यूट सब्सिडी में लगभग ₹99 करोड़ का समर्थन किया गया है। सर्वम आवंटन, किसी भी उपाय से, भारतीय मानकों के अनुसार संसाधनों की गणना करने की एक बड़ी प्रतिबद्धता है - और सार्वजनिक-निजी समन्वय के पैमाने को दर्शाता है जिसे मिशन ढांचा सक्षम कर रहा है।",
+      "en": "Among the most visible beneficiaries of the IndiaAI Mission's compute allocation framework is Sarvam AI, the Bengaluru-based foundational model company, which has been allocated 4,096 NVIDIA H100 GPUs and supported through approximately ₹99 crore in compute subsidies. The Sarvam allocation is, by any measure, a substantial commitment of compute resources by Indian standards — and reflects the scale of public-private coordination that the Mission framework is enabling.",
+      "ur": "انڈیا اے آئی مشن کے کمپیوٹ ایلوکیشن فریم ورک کے سب سے زیادہ نظر آنے والے استفادہ کنندگان میں سروام اے آئی ہے، جو بنگلورو میں قائم فاؤنڈیشن ماڈل کمپنی ہے، جسے 4,096 NVIDIA H100 GPUs مختص کیے گئے ہیں اور تقریباً ₹99 کروڑ کی کمپیوٹ سبسڈی کے ذریعے تعاون کیا گیا ہے۔ سروم مختص، کسی بھی اقدام سے، ہندوستانی معیارات کے حساب سے وسائل کی ایک خاطر خواہ وابستگی ہے - اور پبلک پرائیویٹ کوآرڈینیشن کے اس پیمانے کی عکاسی کرتی ہے جسے مشن فریم ورک قابل بنا رہا ہے۔"
+    },
+    "b9.title": {
+      "hi": "भारत का सॉवरेन एआई आर्किटेक्चर एक नज़र में",
+      "en": "India's Sovereign AI Architecture at a Glance",
+      "ur": "ہندوستان کا خودمختار AI فن تعمیر ایک نظر میں"
+    },
+    "b9.itemlbl.0": {
+      "hi": "कुल भारतीय एआई इक्विटी फंडिंग जुटाई गई",
+      "en": "Total Indian AI equity funding raised",
+      "ur": "کل ہندوستانی AI ایکویٹی فنڈ جمع کیا گیا۔"
+    },
+    "b9.itemval.0": {
+      "hi": "1,700+ कंपनियों में लगभग 5.5 बिलियन अमेरिकी डॉलर",
+      "en": "Approx USD 5.5 billion across 1,700+ companies",
+      "ur": "1,700+ کمپنیوں میں تقریبا USD 5.5 بلین"
+    },
+    "b9.itemlbl.1": {
+      "hi": "2022 फंडिंग शिखर",
+      "en": "2022 funding peak",
+      "ur": "2022 فنڈنگ ​​کی چوٹی"
+    },
+    "b9.itemval.1": {
+      "hi": "1.1 बिलियन अमेरिकी डॉलर",
+      "en": "USD 1.1 billion",
+      "ur": "USD 1.1 بلین"
+    },
+    "b9.itemlbl.2": {
+      "hi": "2025",
+      "en": "2025",
+      "ur": "2025"
+    },
+    "b9.itemval.2": {
+      "hi": "856 मिलियन अमेरिकी डॉलर",
+      "en": "USD 856 million",
+      "ur": "USD 856 ملین"
+    },
+    "b9.itemlbl.3": {
+      "hi": "2026 YTD",
+      "en": "2026 YTD",
+      "ur": "2026 YTD"
+    },
+    "b9.itemval.3": {
+      "hi": "626 मिलियन अमेरिकी डॉलर",
+      "en": "USD 626 million",
+      "ur": "USD 626 ملین"
+    },
+    "b9.itemlbl.4": {
+      "hi": "वैश्विक एआई फंडिंग संचयी",
+      "en": "Global AI funding cumulative",
+      "ur": "عالمی AI فنڈنگ ​​مجموعی"
+    },
+    "b9.itemval.4": {
+      "hi": "473 बिलियन अमरीकी डालर+",
+      "en": "USD 473 billion+",
+      "ur": "USD 473 بلین+"
+    },
+    "b9.itemlbl.5": {
+      "hi": "सीमांत-मॉडल एकाग्रता",
+      "en": "Frontier-model concentration",
+      "ur": "فرنٹیئر ماڈل کی حراستی"
+    },
+    "b9.itemval.5": {
+      "hi": "ओपनएआई, एंथ्रोपिक, एक्सएआई ≈ 170 बिलियन अमेरिकी डॉलर (वैश्विक का 36%)",
+      "en": "OpenAI, Anthropic, xAI ≈ USD 170 billion (36% of global)",
+      "ur": "OpenAI, Anthropic, xAI ≈ USD 170 بلین (عالمی سطح کا 36%)"
+    },
+    "b9.itemlbl.6": {
+      "hi": "इंडियाएआई मिशन वित्तीय आवंटन",
+      "en": "IndiaAI Mission financial allocation",
+      "ur": "انڈیا اے آئی مشن کی مالی تقسیم"
+    },
+    "b9.itemval.6": {
+      "hi": "₹10,372 करोड़",
+      "en": "₹10,372 crore",
+      "ur": "10,372 کروڑ روپے"
+    },
+    "b9.itemlbl.7": {
+      "hi": "IndiaAI मिशन GPU प्राप्तकर्ता",
+      "en": "IndiaAI Mission GPU recipients",
+      "ur": "انڈیا اے آئی مشن GPU وصول کنندگان"
+    },
+    "b9.itemval.7": {
+      "hi": "12 कंपनियाँ मूलभूत/विशिष्ट मॉडल बना रही हैं",
+      "en": "12 companies building foundational/specialised models",
+      "ur": "12 کمپنیاں جو بنیادی/خصوصی ماڈلز بنا رہی ہیں۔"
+    },
+    "b9.itemlbl.8": {
+      "hi": "भारतीय मॉडल पैरामीटर रेंज",
+      "en": "Indian model parameter range",
+      "ur": "ہندوستانی ماڈل پیرامیٹر کی حد"
+    },
+    "b9.itemval.8": {
+      "hi": "2.9 बिलियन से 105 बिलियन (एमओई आर्किटेक्चर सहित)",
+      "en": "2.9 billion to 105 billion (including MoE architectures)",
+      "ur": "2.9 بلین سے 105 بلین (بشمول ایم او ای آرکیٹیکچرز)"
+    },
+    "b9.itemlbl.9": {
+      "hi": "सर्वम एआई गणना आवंटन",
+      "en": "Sarvam AI compute allocation",
+      "ur": "سروم اے آئی کمپیوٹ ایلوکیشن"
+    },
+    "b9.itemval.9": {
+      "hi": "4,096 एनवीडिया एच100 जीपीयू",
+      "en": "4,096 NVIDIA H100 GPUs",
+      "ur": "4,096 NVIDIA H100 GPUs"
+    },
+    "b9.itemlbl.10": {
+      "hi": "सर्वम एआई गणना सब्सिडी",
+      "en": "Sarvam AI compute subsidy",
+      "ur": "سروم اے آئی کمپیوٹ سبسڈی"
+    },
+    "b9.itemval.10": {
+      "hi": "लगभग ₹99 करोड़",
+      "en": "Approximately ₹99 crore",
+      "ur": "تقریباً 99 کروڑ روپے"
+    },
+    "b9.itemlbl.11": {
+      "hi": "रिलायंस जियो डेटा सेंटर प्लान",
+      "en": "Reliance Jio data centre plans",
+      "ur": "ریلائنس جیو ڈیٹا سینٹر کا منصوبہ"
+    },
+    "b9.itemval.11": {
+      "hi": "जामनगर सहित मल्टी-गीगावाट एआई-तैयार सुविधाएं (~120 मेगावाट अतिरिक्त एच2 2026)",
+      "en": "Multi-gigawatt AI-ready facilities including Jamnagar (~120 MW addition H2 2026)",
+      "ur": "ملٹی گیگا واٹ AI کے لیے تیار سہولیات بشمول جام نگر (~ 120 میگاواٹ اضافہ H2 2026)"
+    },
+    "b9.itemlbl.12": {
+      "hi": "अदानी एंटरप्राइजेज डेटा सेंटर प्रतिबद्धता",
+      "en": "Adani Enterprises data centre commitment",
+      "ur": "اڈانی انٹرپرائزز ڈیٹا سینٹر کا عہد"
+    },
+    "b9.itemval.12": {
+      "hi": "2035 तक 100 बिलियन अमरीकी डालर",
+      "en": "USD 100 billion by 2035",
+      "ur": "2035 تک 100 بلین امریکی ڈالر"
+    },
+    "b9.itemlbl.13": {
+      "hi": "मौजूदा बहस के लिए ट्रिगर इवेंट",
+      "en": "Trigger event for current debate",
+      "ur": "موجودہ بحث کے لیے ایونٹ کو متحرک کریں۔"
+    },
+    "b9.itemval.13": {
+      "hi": "अमेरिकी वाणिज्य विभाग के निर्यात-नियंत्रण निर्देश (12 जून 2026) ने विदेशी नागरिकों के लिए एंथ्रोपिक फ़ेबल 5 और मिथोस 5 को निलंबित कर दिया",
+      "en": "US Commerce Department export-control directive (12 June 2026) suspending Anthropic Fable 5 and Mythos 5 for foreign nationals",
+      "ur": "یو ایس کامرس ڈیپارٹمنٹ ایکسپورٹ کنٹرول ڈائریکٹیو (12 جون 2026) غیر ملکی شہریوں کے لیے اینتھروپک فیبل 5 اور میتھوس 5 کو معطل کر رہا ہے۔"
+    },
+    "b9.itemlbl.14": {
+      "hi": "मानव कल्पित कथा 5",
+      "en": "Anthropic Fable 5",
+      "ur": "بشری افسانہ 5"
+    },
+    "b9.itemval.14": {
+      "hi": "सार्वजनिक रूप से उपलब्ध मॉडल",
+      "en": "Publicly available model",
+      "ur": "عوامی طور پر دستیاب ماڈل"
+    },
+    "b9.itemlbl.15": {
+      "hi": "एंथ्रोपिक मिथोस 5",
+      "en": "Anthropic Mythos 5",
+      "ur": "بشری خرافات 5"
+    },
+    "b9.itemval.15": {
+      "hi": "सीमित विश्वसनीय-संगठन परिनियोजन तक सीमित",
+      "en": "Restricted to limited trusted-organisation deployment",
+      "ur": "محدود بھروسہ مند تنظیم کی تعیناتی تک محدود"
+    },
+    "b9.itemlbl.16": {
+      "hi": "अमेरिकी सरकार का तर्क",
+      "en": "US government rationale",
+      "ur": "امریکی حکومت کا استدلال"
+    },
+    "b9.itemval.16": {
+      "hi": "मिथोस साइबर सुरक्षा क्षमताओं तक पहुँचने वाली जेलब्रेक तकनीक के बारे में चिंता",
+      "en": "Concern about jailbreak technique accessing Mythos cybersecurity capabilities",
+      "ur": "Mythos سائبرسیکیوریٹی صلاحیتوں تک رسائی حاصل کرنے والی جیل بریک تکنیک کے بارے میں تشویش"
+    },
+    "b10.q": {
+      "hi": "\"प्रौद्योगिकी अंतिम हथियार है। राष्ट्रीय संप्रभुता, राष्ट्रीय सुरक्षा, यह सब अब प्रौद्योगिकी के बारे में है। वैश्वीकरण मर चुका है और भारत को अपना रास्ता खुद खोजना होगा।\"",
+      "en": "\"Technology is the ultimate weapon. National sovereignty, national security, all of it is now about technology. Globalisation is dead and Bharat must find her own way ahead.\"",
+      "ur": "\"ٹیکنالوجی حتمی ہتھیار ہے۔ قومی خودمختاری، قومی سلامتی، یہ سب اب ٹیکنالوجی کے بارے میں ہے۔ عالمگیریت ختم ہو چکی ہے اور بھارت کو آگے بڑھنے کا اپنا راستہ تلاش کرنا ہوگا۔\""
+    },
+    "b10.c": {
+      "hi": "- श्रीधर वेम्बू, संस्थापक, ज़ोहो कॉर्पोरेशन (एंथ्रोपिक मॉडल पर अमेरिकी निर्यात नियंत्रण पर प्रतिक्रिया, जून 2026)",
+      "en": "— Sridhar Vembu, Founder, Zoho Corporation (responding to US export controls on Anthropic models, June 2026)",
+      "ur": "- سریدھر ویمبو، بانی، زوہو کارپوریشن (انتھروپک ماڈلز پر امریکی برآمدی کنٹرول کا جواب، جون 2026)"
+    },
+    "b11": {
+      "hi": "एआई स्टैक को ऊपर ले जाना",
+      "en": "Moving up the AI stack",
+      "ur": "AI اسٹیک کو اوپر منتقل کرنا"
+    },
+    "b12": {
+      "hi": "ट्रैक्सन रिपोर्ट और इंडियाएआई मिशन फ्रेमवर्क मिलकर जो प्रतिबिंबित करते हैं, वह एआई मूल्य श्रृंखला में भारतीय भागीदारी को बढ़ाने के लिए एक जानबूझकर, बहु-वर्षीय प्रयास है - अनुप्रयोगों और सेवाओं से, जहां भारत वर्षों से मजबूत रहा है, अंतर्निहित बुनियादी ढांचे और गणना परतों तक, जहां भारतीय भागीदारी ऐतिहासिक रूप से पतली रही है।",
+      "en": "What the Tracxn report and the IndiaAI Mission framework together reflect is a deliberate, multi-year effort to extend Indian participation up the AI value chain — from applications and services, where India has been strong for years, into the underlying infrastructure and compute layers, where Indian participation has historically been thin.",
+      "ur": "Tracxn رپورٹ اور انڈیا AI مشن کا فریم ورک مل کر جس چیز کی عکاسی کرتا ہے وہ AI ویلیو چین میں ہندوستانی شرکت کو بڑھانے کے لیے ایک دانستہ، کثیر سالہ کوشش ہے - ایپلی کیشنز اور سروسز سے، جہاں ہندوستان برسوں سے مضبوط رہا ہے، بنیادی ڈھانچے اور کمپیوٹ کی تہوں میں، جہاں ہندوستانی شرکت تاریخی طور پر پتلی رہی ہے۔"
+    },
+    "b13": {
+      "hi": "भारत की एआई भागीदारी के पहले चरण में विदेशी-विकसित फाउंडेशन मॉडल के शीर्ष पर उपभोक्ता-सामना वाले अनुप्रयोगों या उद्यम सेवाओं का निर्माण करने वाले स्टार्ट-अप की विशेषता थी, जो विदेशी-नियंत्रित क्लाउड इंफ्रास्ट्रक्चर (मुख्य रूप से एडब्ल्यूएस, माइक्रोसॉफ्ट एज़्योर और Google क्लाउड प्लेटफ़ॉर्म) के माध्यम से पहुंचा था। यह व्यावसायिक रूप से एक टिकाऊ मॉडल था, लेकिन इसने भारतीय एआई पारिस्थितिकी तंत्र को संरचनात्मक रूप से विदेशी प्रौद्योगिकी प्लेटफार्मों पर निर्भर छोड़ दिया, जिनकी पहुंच की शर्तें, मूल्य निर्धारण और नीतिगत निर्णय अंततः वाशिंगटन, सिएटल, माउंटेन व्यू या रेडमंड में निर्धारित किए गए थे।",
+      "en": "The earlier phase of India's AI participation was characterised by start-ups building consumer-facing applications or enterprise services on top of foreign-developed foundation models, accessed via foreign-controlled cloud infrastructure (primarily AWS, Microsoft Azure, and Google Cloud Platform). This was a sustainable model commercially, but it left the Indian AI ecosystem structurally dependent on foreign technology platforms whose access terms, pricing, and policy decisions were ultimately set in Washington, Seattle, Mountain View, or Redmond.",
+      "ur": "ہندوستان کی AI شرکت کے پہلے مرحلے کی خصوصیت غیر ملکی ترقی یافتہ فاؤنڈیشن ماڈلز کے سب سے اوپر صارفین کو درپیش ایپلی کیشنز یا انٹرپرائز سروسز کی تعمیر کے اسٹارٹ اپس کی طرف سے تھی، جس تک غیر ملکی کنٹرول والے کلاؤڈ انفراسٹرکچر (بنیادی طور پر AWS، Microsoft Azure، اور Google Cloud Platform) کے ذریعے رسائی حاصل کی گئی تھی۔ یہ تجارتی طور پر ایک پائیدار ماڈل تھا، لیکن اس نے ہندوستانی AI ماحولیاتی نظام کو ساختی طور پر غیر ملکی ٹیکنالوجی پلیٹ فارمز پر منحصر چھوڑ دیا جن کی رسائی کی شرائط، قیمتوں کا تعین، اور پالیسی کے فیصلے بالآخر واشنگٹن، سیٹل، ماؤنٹین ویو، یا ریڈمنڈ میں طے کیے گئے تھے۔"
+    },
+    "b14": {
+      "hi": "ट्रैक्सन विश्लेषण पर वर्तमान चरण, अपस्ट्रीम परतों में गहरी भागीदारी को दर्शाता है - जिसमें भारतीय डेटा सेंटर ऑपरेटरों के माध्यम से गणना प्रावधान, इंडियाएआई मिशन गणना आवंटन द्वारा समर्थित मूलभूत मॉडल विकास, और सेमीकंडक्टर विनिर्माण और डिजाइन के लिए उत्पादन लिंक्ड प्रोत्साहन (पीएलआई) योजनाओं द्वारा समर्थित उभरती सेमीकंडक्टर-डिज़ाइन और फैब्रिकेशन-संबंधित गतिविधि शामिल है।",
+      "en": "The current phase, on the Tracxn analysis, reflects deeper participation across upstream layers — including compute provisioning through Indian data centre operators, foundational model development supported by IndiaAI Mission compute allocations, and emerging semiconductor-design and fabrication-related activity supported by the Production Linked Incentive (PLI) schemes for semiconductor manufacturing and design.",
+      "ur": "موجودہ مرحلہ، Tracxn تجزیہ پر، اپ اسٹریم پرتوں میں گہری شرکت کی عکاسی کرتا ہے - بشمول ہندوستانی ڈیٹا سینٹر آپریٹرز کے ذریعے کمپیوٹ پروویژننگ، انڈیا اے آئی مشن کمپیوٹ ایلوکیشنز کے ذریعے تعاون یافتہ فاؤنڈیشنل ماڈل ڈیولپمنٹ، اور ابھرتی ہوئی سیمی کنڈکٹر ڈیزائن اور فیبریکیشن سے متعلق سرگرمی پروڈکشن لنکڈ انسینٹیو (PLI) کے لیے پروڈکشن لنکڈ انسینٹیو (PLI) اور مینڈککٹ مین ڈیزائننگ اسکیم کے ذریعے تعاون یافتہ ہے۔"
+    },
+    "b15": {
+      "hi": "एंथ्रोपिक फ़ेबल और मिथोस एपिसोड",
+      "en": "The Anthropic Fable and Mythos episode",
+      "ur": "انتھروپک فیبل اور میتھوس کا واقعہ"
+    },
+    "b16": {
+      "hi": "पिछले कई दिनों की घटनाओं से इस संक्रमण की गति काफी तेज हो गई है। 12 जून 2026 को, अमेरिकी वाणिज्य विभाग ने एआई कंपनी एंथ्रोपिक को निर्देश देते हुए एक निर्यात-नियंत्रण निर्देश जारी किया - जो वैश्विक स्तर पर प्रमुख फाउंडेशन-मॉडल डेवलपर्स में से एक है - अपने दो सबसे उन्नत मॉडल, क्लाउड फैबल 5 (उद्यम और सामान्य उपयोग के लिए सार्वजनिक रूप से उपलब्ध) और मिथोस 5 (विश्वसनीय-संगठन उपयोगकर्ताओं के एक सीमित समूह तक सीमित) तक पहुंच को निलंबित करने के लिए, सभी विदेशी नागरिकों के लिए, चाहे संयुक्त राज्य अमेरिका के अंदर या बाहर। एंथ्रोपिक ने अल्प सूचना पर निर्देश का अनुपालन किया और दुनिया भर में दोनों मॉडलों तक पहुंच को अक्षम कर दिया।",
+      "en": "The pace of this transition has been substantively sharpened by the events of the past several days. On 12 June 2026, the US Commerce Department issued an export-control directive instructing the AI company Anthropic — one of the principal foundation-model developers globally — to suspend access to its two most advanced models, Claude Fable 5 (publicly available for enterprise and general use) and Mythos 5 (restricted to a limited group of trusted-organisation users), for all foreign nationals, whether inside or outside the United States. Anthropic complied with the directive at short notice and disabled access to both models worldwide.",
+      "ur": "اس منتقلی کی رفتار گزشتہ کئی دنوں کے واقعات سے کافی تیز ہوئی ہے۔ 12 جون 2026 کو، یو ایس کامرس ڈیپارٹمنٹ نے ایک ایکسپورٹ کنٹرول ڈائریکٹو جاری کیا جس میں AI کمپنی Anthropic - جو عالمی سطح پر بنیادی فاؤنڈیشن ماڈل ڈویلپرز میں سے ایک ہے - کو اپنے دو جدید ترین ماڈلز، Claude Fable 5 (عوامی طور پر انٹرپرائز اور عام استعمال کے لیے دستیاب) اور Mythos a 5-غیر ملکی صارفین کے لیے ٹرسٹ گروپ کے لیے رسائی کو معطل کرنے کی ہدایت کی گئی۔ شہری خواہ امریکہ کے اندر ہوں یا باہر۔ Anthropic نے مختصر نوٹس پر ہدایت کی تعمیل کی اور دنیا بھر میں دونوں ماڈلز تک رسائی کو غیر فعال کر دیا۔"
+    },
+    "b17": {
+      "hi": "अपने सार्वजनिक बयान में, एंथ्रोपिक ने कहा कि वह अमेरिकी सरकार के दृढ़ संकल्प से असहमत है - जिसे वह एक संभावित जेलब्रेक तकनीक की खोज पर आधारित मानता है जो उपयोगकर्ताओं को फ़ेबल 5 में सुरक्षा रेलिंग को बायपास करने और अंतर्निहित मिथोस मॉडल की अधिक शक्तिशाली साइबर सुरक्षा क्षमताओं तक पहुंचने की अनुमति दे सकता है। एंथ्रोपिक ने सार्वजनिक रूप से कहा कि विचाराधीन साइबर सुरक्षा क्षमता OpenAI के GPT-5.5 सहित \"अन्य मॉडलों से व्यापक रूप से उपलब्ध है\", और यह कार्रवाई \"पारदर्शी, निष्पक्ष, स्पष्ट और तकनीकी तथ्यों पर आधारित\" वैधानिक प्रक्रिया के सिद्धांतों का पालन नहीं करती है। फिर भी कंपनी ने इस प्रश्न पर व्हाइट हाउस से बातचीत करते हुए इसका अनुपालन किया है।",
+      "en": "In its public statement, Anthropic noted that it disagreed with the US government's determination — which it understood to be based on the discovery of a potential jailbreak technique that might allow users to bypass safety guardrails in Fable 5 and access the more powerful cybersecurity capabilities of the underlying Mythos model. Anthropic publicly stated that the cybersecurity capability in question is \"widely available from other models\" including OpenAI's GPT-5.5, and that the action did not adhere to the principles of a \"transparent, fair, clear, and grounded in technical facts\" statutory process. The company has nonetheless complied while engaging with the White House on the question.",
+      "ur": "اپنے عوامی بیان میں، انتھروپک نے نوٹ کیا کہ وہ امریکی حکومت کے عزم سے متفق نہیں ہے - جسے اس نے جیل بریک کی ممکنہ تکنیک کی دریافت پر مبنی سمجھا ہے جو صارفین کو Fable 5 میں حفاظتی محافظوں کو نظرانداز کرنے اور بنیادی Mythos ماڈل کی زیادہ طاقتور سائبر سیکیورٹی صلاحیتوں تک رسائی حاصل کرنے کی اجازت دے سکتی ہے۔ انتھروپک نے عوامی طور پر کہا کہ سائبر سیکیورٹی کی قابلیت سوال میں \"دیگر ماڈلز سے وسیع پیمانے پر دستیاب ہے\" بشمول OpenAI کے GPT-5.5، اور یہ کہ یہ کارروائی \"شفاف، منصفانہ، واضح، اور تکنیکی حقائق پر مبنی\" قانونی عمل کے اصولوں پر عمل نہیں کرتی ہے۔ کمپنی نے بہر حال اس سوال پر وائٹ ہاؤس کے ساتھ بات چیت کرتے ہوئے تعمیل کی ہے۔"
+    },
+    "b18": {
+      "hi": "भारतीय प्रौद्योगिकी हितधारकों के लिए, इस प्रकरण ने उन चिंताओं को स्पष्ट कर दिया जो कुछ वर्षों से व्यक्त की गई थीं, लेकिन पहले उनके साथ वास्तविक दुनिया का इतना ठोस उदाहरण नहीं जुड़ा था। फैबल और मिथोस निर्देश तक, एआई पर अमेरिकी निर्यात नियंत्रण मुख्य रूप से हार्डवेयर - हाई-एंड जीपीयू और चिप-फैब्रिकेशन उपकरण पर केंद्रित था। 12 जून के निर्देश ने पहली बार चिह्नित किया कि एआई सॉफ़्टवेयर को स्वयं एक तुलनीय निर्यात-नियंत्रण व्यवस्था के अधीन किया गया था, जिसमें मॉडल वज़न को सिलिकॉन के बजाय रणनीतिक संपत्ति के रूप में माना गया था।",
+      "en": "For Indian technology stakeholders, the episode crystallised concerns that had been articulated for some years but had not previously had so concrete a real-world instance attached to them. Until the Fable and Mythos directive, US export controls on AI had primarily focused on hardware — high-end GPUs and chip-fabrication equipment. The 12 June directive marked the first time that AI software itself had been subjected to a comparable export-control regime, treating the model weights as the strategic asset rather than the silicon they run on.",
+      "ur": "ہندوستانی ٹکنالوجی کے اسٹیک ہولڈرز کے لیے، اس واقعہ نے ان خدشات کو کرسٹل بنا دیا جو کچھ سالوں سے بیان کیے جا رہے تھے لیکن اس سے پہلے ان کے ساتھ کوئی حقیقی دنیا کی مثال منسلک نہیں تھی۔ Fable اور Mythos کی ہدایت تک، AI پر امریکی برآمدی کنٹرول بنیادی طور پر ہارڈ ویئر - اعلی درجے کے GPUs اور چپ سازی کے آلات پر مرکوز تھے۔ 12 جون کی ہدایت میں پہلی بار نشان زد کیا گیا کہ AI سافٹ ویئر خود ایک موازنہ ایکسپورٹ کنٹرول رجیم کا شکار ہوا، جس میں ماڈل کے وزن کو سلیکون کے بجائے اسٹریٹجک اثاثہ سمجھا جاتا ہے۔"
+    },
+    "b19": {
+      "hi": "उद्योग की प्रतिक्रिया",
+      "en": "The industry response",
+      "ur": "صنعت کا ردعمل"
+    },
+    "b20": {
+      "hi": "भारतीय प्रौद्योगिकी नेतृत्व की प्रतिक्रिया तीव्र और नीतिगत दिशा के अनुरूप थी। ज़ोहो कॉर्पोरेशन के संस्थापक श्री श्रीधर वेम्बू ने इस प्रकरण को सबसे सीधे शब्दों में प्रस्तुत किया - प्रौद्योगिकी को \"अंतिम हथियार\" के रूप में वर्णित किया और तर्क दिया कि \"वैश्वीकरण मर चुका है और भारत को आगे बढ़ने का अपना रास्ता खुद खोजना होगा।\" श्री वेम्बू ने, हाल के वर्षों में, लगातार छोटे ओपन-सोर्स मॉडल के भारतीय विकास, घरेलू अनुसंधान एवं विकास निवेश का विस्तार और विदेशी प्रौद्योगिकी प्लेटफार्मों पर निर्भरता कम करने की वकालत की है।",
+      "en": "The response from Indian technology leadership was both swift and substantively aligned on the policy direction. Mr Sridhar Vembu, founder of Zoho Corporation, framed the episode in the most direct terms — describing technology as \"the ultimate weapon\" and arguing that \"globalisation is dead and Bharat must find her own way ahead.\" Mr Vembu has, over recent years, consistently advocated for Indian development of smaller open-source models, expanded domestic R&D investment, and reduced dependence on foreign technology platforms.",
+      "ur": "ہندوستانی ٹکنالوجی قیادت کی طرف سے ردعمل تیز اور کافی حد تک پالیسی کی سمت کے مطابق تھا۔ زوہو کارپوریشن کے بانی مسٹر سریدھر ویمبو نے اس واقعہ کو انتہائی براہ راست الفاظ میں تیار کیا - ٹیکنالوجی کو \"حتمی ہتھیار\" کے طور پر بیان کرتے ہوئے اور دلیل دی کہ \"عالمگیریت ختم ہو چکی ہے اور بھارت کو آگے بڑھنے کا اپنا راستہ تلاش کرنا ہوگا۔\" مسٹر ویمبو نے، حالیہ برسوں میں، چھوٹے اوپن سورس ماڈلز کی ہندوستانی ترقی، وسیع گھریلو R&D سرمایہ کاری، اور غیر ملکی ٹیکنالوجی پلیٹ فارمز پر انحصار کم کرنے کی مسلسل وکالت کی ہے۔"
+    },
+    "b21": {
+      "hi": "वेंचर कैपिटल फर्म 3one4 कैपिटल के संस्थापक भागीदार श्री सिद्दार्थ पई ने व्यापक तर्क को दोहराया, जिसमें भारत से ओपन-सोर्स मॉडल विकास के साथ-साथ सेमीकंडक्टर डिजाइन में निवेश करने का आह्वान किया गया। निवेशक संदीप मॉल ने अलग से, भारत को विदेशी प्लेटफार्मों पर निर्मित सेवाओं पर निर्भर रहने के बजाय मूलभूत एआई मॉडल बनाने की आवश्यकता पर जोर दिया।",
+      "en": "Mr Siddarth Pai, founding partner at the venture capital firm 3one4 Capital, echoed the broader argument, calling for India to invest in semiconductor design alongside open-source model development. The investor Sandeep Mall, separately, emphasised the need for India to build foundational AI models rather than relying on services built on foreign platforms.",
+      "ur": "وینچر کیپیٹل فرم 3one4 کیپیٹل کے بانی پارٹنر مسٹر سدھارتھ پائی نے وسیع تر دلیل کی بازگشت کرتے ہوئے ہندوستان سے اوپن سورس ماڈل کی ترقی کے ساتھ سیمی کنڈکٹر ڈیزائن میں سرمایہ کاری کرنے کا مطالبہ کیا۔ سرمایہ کار سندیپ مال نے الگ سے، ہندوستان کو غیر ملکی پلیٹ فارمز پر بنی خدمات پر انحصار کرنے کے بجائے بنیادی AI ماڈلز بنانے کی ضرورت پر زور دیا۔"
+    },
+    "b22": {
+      "hi": "प्रमुख भारतीय औद्योगिक नेतृत्व के स्तर पर भी स्थिति स्पष्ट की जा रही है। फरवरी में इंडिया एआई इम्पैक्ट समिट 2026 में, टाटा संस के अध्यक्ष श्री एन. चन्द्रशेखरन ने एआई को \"बुद्धिमत्ता के बुनियादी ढांचे\" के रूप में परिभाषित किया और गणना, डेटा, मॉडल और अनुप्रयोगों को शामिल करते हुए एक पूर्ण-स्टैक राष्ट्रीय रणनीति का आह्वान किया। फ़्रेमिंग उस वैचारिक बदलाव को दर्शाती है जिसे इंडियाएआई मिशन और समानांतर निजी क्षेत्र की प्रतिबद्धताएं क्रियान्वित कर रही हैं।",
+      "en": "The position is also being articulated at the level of major Indian industrial leadership. At the India AI Impact Summit 2026 in February, Mr N. Chandrasekaran, Chairman of Tata Sons, framed AI as the \"infrastructure of intelligence\" and called for a full-stack national strategy spanning compute, data, models, and applications. The framing reflects the conceptual shift that the IndiaAI Mission and parallel private-sector commitments are operationalising.",
+      "ur": "یہ پوزیشن بڑی ہندوستانی صنعتی قیادت کی سطح پر بھی بیان کی جا رہی ہے۔ فروری میں انڈیا AI امپیکٹ سمٹ 2026 میں، ٹاٹا سنز کے چیئرمین، مسٹر این چندر شیکرن نے AI کو \"انٹیلی جنس کے بنیادی ڈھانچے\" کے طور پر تیار کیا اور کمپیوٹ، ڈیٹا، ماڈلز اور ایپلیکیشنز پر محیط ایک مکمل اسٹیک قومی حکمت عملی کا مطالبہ کیا۔ ڈھانچہ اس تصوراتی تبدیلی کی عکاسی کرتا ہے کہ انڈیا اے آئی مشن اور متوازی نجی شعبے کے وعدے کام کر رہے ہیں۔"
+    },
+    "b23": {
+      "hi": "डेटा सेंटर बिल्ड-आउट",
+      "en": "The data centre build-out",
+      "ur": "ڈیٹا سینٹر کی تعمیر"
+    },
+    "b24": {
+      "hi": "नीति और स्टार्ट-अप गतिविधि को सुदृढ़ करना भारत के सबसे बड़े औद्योगिक समूहों द्वारा एआई-तैयार डेटा सेंटर बुनियादी ढांचे में निवेश की एक बड़ी लहर है। रिलायंस जियो मल्टी-गीगावाट, एआई-रेडी डेटा सेंटर विकसित कर रहा है, जिसमें गुजरात के जामनगर में एक सुविधा भी शामिल है, जिससे 2026 की दूसरी छमाही में 120 मेगावाट से अधिक क्षमता जुड़ने की उम्मीद है। अदानी एंटरप्राइजेज ने एआई-सक्षम, नवीकरणीय-संचालित डेटा सेंटर बुनियादी ढांचे में 2035 तक लगभग 100 बिलियन अमरीकी डालर का निवेश करने के लिए अलग से प्रतिबद्धता जताई है।",
+      "en": "Reinforcing the policy and start-up activity is a substantial wave of investment in AI-ready data centre infrastructure by India's largest industrial groups. Reliance Jio is developing multi-gigawatt, AI-ready data centres, including a facility at Jamnagar in Gujarat that is expected to add more than 120 megawatts of capacity in the second half of 2026. Adani Enterprises has separately committed to invest approximately USD 100 billion by 2035 in AI-enabled, renewable-powered data centre infrastructure.",
+      "ur": "پالیسی اور اسٹارٹ اپ سرگرمی کو تقویت دینا ہندوستان کے سب سے بڑے صنعتی گروپوں کی طرف سے AI کے لیے تیار ڈیٹا سینٹر کے بنیادی ڈھانچے میں سرمایہ کاری کی ایک اہم لہر ہے۔ Reliance Jio ملٹی گیگا واٹ، AI کے لیے تیار ڈیٹا سینٹرز تیار کر رہا ہے، جس میں گجرات کے جام نگر میں ایک سہولت بھی شامل ہے جس سے 2026 کی دوسری ششماہی میں 120 میگاواٹ سے زیادہ کی صلاحیت کا اضافہ متوقع ہے۔ اڈانی انٹرپرائزز نے الگ سے 2035 تک تقریباً 100 بلین امریکی ڈالر کی سرمایہ کاری کرنے کا عہد کیا ہے، AI- سنٹر ایبل ڈیٹا سنٹر میں۔"
+    },
+    "b25": {
+      "hi": "इस निर्माण को रेखांकित करने वाला आर्थिक तर्क विशिष्ट है। रिलायंस और अदानी दोनों को नवीकरणीय ऊर्जा उत्पादन में पर्याप्त पिछड़े एकीकरण से लाभ होता है, जिसका अर्थ है कि उनके डेटा केंद्र बिजली संयंत्रों के निकट स्थित हो सकते हैं, ट्रांसमिशन घाटे को कम कर सकते हैं और उन्हें बढ़ती ग्रिड बिजली की कीमतों से बचा सकते हैं। जैसा कि एक स्वतंत्र बाज़ार विश्लेषक ने कहा, \"अपने पिछड़े एकीकरण के साथ, नवीकरणीय-संचालित डेटा केंद्र लंबे समय में उनके लिए सबसे सस्ता विकल्प हैं।\" कम लागत वाली नवीकरणीय ऊर्जा, एकीकृत औद्योगिक समूहों और बढ़ती एआई कंप्यूट मांग का मेल भारतीय डेटा सेंटर निवेश के लिए एक संरचनात्मक लाभ पैदा करता है जिसे वैश्विक स्तर पर कुछ अन्य बाजार बड़े पैमाने पर दोहरा सकते हैं।",
+      "en": "The economic logic underpinning this build-out is distinctive. Both Reliance and Adani benefit from substantial backward integration into renewable power generation, which means their data centres can be located adjacent to power plants, reducing transmission losses and shielding them from rising grid electricity prices. As one independent market analyst observed, \"with their backward integration, renewable-powered data centres are simply the cheapest option for them in the long run.\" The intersection of low-cost renewable power, integrated industrial groups, and growing AI compute demand creates a structural advantage for Indian data centre investment that few other markets globally can replicate at scale.",
+      "ur": "اس تعمیر کی بنیاد پر اقتصادی منطق مخصوص ہے۔ ریلائنس اور اڈانی دونوں قابل تجدید پاور جنریشن میں کافی پسماندہ انضمام سے فائدہ اٹھاتے ہیں، جس کا مطلب ہے کہ ان کے ڈیٹا سینٹرز پاور پلانٹس سے ملحق ہو سکتے ہیں، ٹرانسمیشن کے نقصانات کو کم کر سکتے ہیں اور انہیں گرڈ بجلی کی بڑھتی ہوئی قیمتوں سے بچا سکتے ہیں۔ جیسا کہ ایک آزاد مارکیٹ تجزیہ کار نے مشاہدہ کیا، \"ان کے پسماندہ انضمام کے ساتھ، قابل تجدید طاقت والے ڈیٹا سینٹرز ان کے لیے طویل مدت میں سب سے سستا آپشن ہیں۔\" کم لاگت قابل تجدید توانائی، مربوط صنعتی گروپس، اور بڑھتی ہوئی AI کمپیوٹ کی طلب ہندوستانی ڈیٹا سینٹر کی سرمایہ کاری کے لیے ایک ساختی فائدہ پیدا کرتی ہے جسے عالمی سطح پر چند دیگر مارکیٹیں پیمانے پر نقل کر سکتی ہیں۔"
+    },
+    "b26": {
+      "hi": "ईमानदार पढ़ना",
+      "en": "The honest reading",
+      "ur": "ایماندارانہ پڑھنا"
+    },
+    "b27": {
+      "hi": "सभी गति के लिए, भारतीय एआई तस्वीर में कई संरचनात्मक अंतराल स्पष्ट बने हुए हैं। भारत में अभी तक बड़े पैमाने पर उन्नत-नोड सेमीकंडक्टर निर्माण क्षमता नहीं है - जिसका अर्थ है कि उच्च-स्तरीय जीपीयू, जिन पर भारतीय मूलभूत मॉडल डेवलपर्स प्रशिक्षण लेते हैं, मुख्य रूप से एनवीडिया से आयात किए जाते हैं, और अमेरिकी निर्यात-नियंत्रण निरीक्षण के अधीन होते हैं। पीएलआई सेमीकंडक्टर योजनाओं के तहत भारत की पहली प्रमुख फैब परियोजनाएं उन्नत योजना और प्रारंभिक निर्माण चरण में हैं, लेकिन कुछ वर्षों तक व्यावसायिक मात्रा में फ्रंटियर-नोड चिप्स का उत्पादन नहीं करेंगी।",
+      "en": "For all the momentum, several structural gaps remain candid in the Indian AI picture. India does not yet have large-scale advanced-node semiconductor fabrication capability — meaning the high-end GPUs that Indian foundational model developers train on continue to be imported, primarily from Nvidia, and to be subject to US export-control oversight. India's first major fab projects, under the PLI semiconductor schemes, are at advanced planning and early-construction stages but will not produce frontier-node chips in commercial volumes for some years.",
+      "ur": "تمام رفتار کے لیے، ہندوستانی AI تصویر میں کئی ساختی خلاء واضح رہتے ہیں۔ ہندوستان کے پاس ابھی تک بڑے پیمانے پر ایڈوانسڈ نوڈ سیمی کنڈکٹر فیبریکیشن کی صلاحیت نہیں ہے - یعنی وہ اعلیٰ درجے کے GPUs جن پر ہندوستانی فاؤنڈیشنل ماڈل ڈویلپرز تربیت کرتے ہیں، بنیادی طور پر Nvidia سے درآمد کیے جاتے ہیں، اور امریکی برآمدی کنٹرول کی نگرانی کے تابع ہوتے ہیں۔ پی ایل آئی سیمی کنڈکٹر اسکیموں کے تحت ہندوستان کے پہلے بڑے فیب پروجیکٹس جدید منصوبہ بندی اور ابتدائی تعمیر کے مراحل میں ہیں لیکن کچھ سالوں تک تجارتی حجم میں فرنٹیئر نوڈ چپس تیار نہیں کریں گے۔"
+    },
+    "b28": {
+      "hi": "भारतीय एआई निवेश और अग्रणी अमेरिकी प्रयोगशालाओं के बीच फंडिंग-पैमाने का अंतर भी काफी बना हुआ है। लगभग 5.5 बिलियन अमेरिकी डॉलर की भारतीय संचयी एआई फंडिंग एक सार्थक राष्ट्रीय क्षमता निवेश का प्रतिनिधित्व करती है, लेकिन यह अकेले ओपनएआई द्वारा जुटाई गई संचयी फंडिंग से काफी कम है, और अमेरिका और चीन में संयुक्त फ्रंटियर-मॉडल निवेश से काफी कम है। इस अंतर को सार्थक रूप से बंद करने के लिए - इस हद तक कि भारत फ्रंटियर-मॉडल स्तर पर प्रतिस्पर्धा कर सके - भारतीय एआई, सार्वजनिक निवेश, या दोनों में प्रवाहित होने वाली निजी पूंजी में निरंतर वृद्धि की आवश्यकता होगी।",
+      "en": "The funding-scale gap between Indian AI investment and the frontier US laboratories also remains substantial. Indian cumulative AI funding of approximately USD 5.5 billion represents a meaningful national capability investment, but it is roughly an order of magnitude smaller than the cumulative funding raised by OpenAI alone, and substantially smaller than the combined frontier-model investment in the US and China. Closing this gap meaningfully — to the extent that India can compete at the frontier-model layer — would require sustained increases in either private capital flowing into Indian AI, public investment, or both.",
+      "ur": "ہندوستانی AI سرمایہ کاری اور فرنٹیئر یو ایس لیبارٹریز کے درمیان فنڈنگ ​​پیمانے کا فرق بھی کافی ہے۔ تقریباً 5.5 بلین امریکی ڈالر کی ہندوستانی مجموعی AI فنڈنگ ​​ایک بامعنی قومی صلاحیت کی سرمایہ کاری کی نمائندگی کرتی ہے، لیکن یہ تقریباً اکیلے OpenAI کی طرف سے جمع کی گئی مجموعی فنڈنگ ​​سے کم مقدار کا آرڈر ہے، اور امریکہ اور چین میں مشترکہ فرنٹیئر ماڈل سرمایہ کاری سے کافی حد تک چھوٹا ہے۔ اس فرق کو معنی خیز طریقے سے ختم کرنے کے لیے - اس حد تک کہ ہندوستان فرنٹیئر ماڈل پرت پر مقابلہ کرسکتا ہے - ہندوستانی AI، عوامی سرمایہ کاری، یا دونوں میں بہنے والے نجی سرمائے میں مسلسل اضافے کی ضرورت ہوگی۔"
+    },
+    "b29": {
+      "hi": "प्रतिभा चुनौती भी वास्तविक है. भारत बड़ी संख्या में सक्षम एआई इंजीनियरों और शोधकर्ताओं का उत्पादन करता है, लेकिन अनुसंधान प्रतिभा का शीर्ष स्तर ऐतिहासिक रूप से अमेरिका स्थित प्रयोगशालाओं में स्थानांतरित हो गया है, जहां मुआवजा, गणना पहुंच और सहकर्मी-अनुसंधान घनत्व काफी बेहतर है। इंडियाएआई मिशन, घरेलू टीमों को कंप्यूटिंग संसाधन आवंटित करके, इस गतिशीलता में प्रमुख कारकों में से एक को संबोधित कर रहा है; अन्य - अनुसंधान संस्कृति, सहकर्मी घनत्व, और मुआवजा - को संबोधित करने में अधिक समय लगेगा।",
+      "en": "The talent challenge is also real. India produces a large number of competent AI engineers and researchers, but the very top tier of research talent has historically tended to migrate to US-based laboratories, where compensation, compute access, and peer-research density are substantially superior. The IndiaAI Mission, by allocating compute resources to domestic teams, is addressing one of the principal factors in this dynamic; the others — research culture, peer density, and compensation — will take longer to address.",
+      "ur": "ٹیلنٹ چیلنج بھی حقیقی ہے۔ ہندوستان قابل AI انجینئرز اور محققین کی ایک بڑی تعداد پیدا کرتا ہے، لیکن تحقیقی ہنر کے انتہائی اعلی درجے نے تاریخی طور پر امریکہ میں قائم لیبارٹریوں کی طرف ہجرت کی ہے، جہاں معاوضہ، کمپیوٹ رسائی، اور ہم مرتبہ تحقیق کی کثافت کافی حد تک بہتر ہے۔ انڈیا اے آئی مشن، گھریلو ٹیموں کے لیے کمپیوٹ وسائل مختص کر کے، اس متحرک میں ایک اہم عنصر کو حل کر رہا ہے۔ دیگر - ریسرچ کلچر، ہم مرتبہ کی کثافت، اور معاوضہ - کو حل کرنے میں زیادہ وقت لگے گا۔"
+    },
+    "b30": {
+      "hi": "क्षण क्या स्थापित करता है",
+      "en": "What the moment establishes",
+      "ur": "جو لمحہ قائم کرتا ہے۔"
+    },
+    "b31": {
+      "hi": "ट्रैक्सन रिपोर्ट में वर्णित संचयी तस्वीर के साथ पिछले कई दिनों में जो स्थापित हुआ है, वह इस प्रकार है: भारत का एआई पारिस्थितिकी तंत्र एक सार्थक पैमाने पर पहुंच गया है, नीति ढांचा अब सक्रिय रूप से अपस्ट्रीम क्षमता के निर्माण का समर्थन कर रहा है, सहायक बुनियादी ढांचे के लिए निजी क्षेत्र की प्रतिबद्धता पर्याप्त है, और संप्रभु एआई क्षमता के लिए रणनीतिक मामले को विदेशी-प्लेटफॉर्म निर्भरता की दृश्यमान भेद्यता द्वारा काफी हद तक मजबूत किया गया है।",
+      "en": "What the past several days have established, taken together with the cumulative picture the Tracxn report describes, is the following: India's AI ecosystem has reached a meaningful scale, the policy framework is now actively supporting the build-out of upstream capability, the private-sector commitment to the supporting infrastructure is substantial, and the strategic case for sovereign AI capability has been substantively reinforced by the visible vulnerability of foreign-platform dependence.",
+      "ur": "Tracxn کی رپورٹ میں بیان کردہ مجموعی تصویر کے ساتھ جو کچھ پچھلے کئی دنوں نے قائم کیا ہے، وہ مندرجہ ذیل ہے: ہندوستان کا AI ماحولیاتی نظام ایک بامعنی پیمانے پر پہنچ گیا ہے، پالیسی فریم ورک اب فعال طور پر اپ اسٹریم صلاحیت کی تعمیر کی حمایت کر رہا ہے، معاون انفراسٹرکچر کے لیے نجی شعبے کی وابستگی کافی ہے، اور سٹریٹجک طور پر AI کے لیے اس طرح کی صلاحیت کو مضبوط بنایا گیا ہے۔ غیر ملکی پلیٹ فارم پر انحصار کا واضح خطرہ۔"
+    },
+    "b32": {
+      "hi": "इस अर्थ में, एंथ्रोपिक प्रकरण एक स्पष्ट क्षण से कम एक महत्वपूर्ण मोड़ है। भारतीय संप्रभु एआई क्षमता के लिए तर्क - पिछले कई वर्षों में श्री वेम्बू, श्री चंद्रशेखरन, इंडियाएआई मिशन टीम और कई अन्य लोगों द्वारा व्यक्त किए गए - उनकी सामग्री में महत्वपूर्ण बदलाव नहीं हुआ है। फ़ेबल और मिथोस निर्देश ने जो किया है वह प्लेटफ़ॉर्म-निर्भरता की ठोस, परिचालन वास्तविकता को इस तरह से दृश्यमान बनाना है कि अकादमिक और नीतिगत तर्क अकेले हासिल नहीं कर सके। विदेशी क्षमता की एक श्रेणी जिसे भारतीय शोधकर्ता और कंपनियां अपने कामकाजी ढांचे के हिस्से के रूप में उपयोग कर रहे थे, वाशिंगटन में किए गए एक नियामक निर्धारण के आधार पर, अल्प सूचना पर गायब हो गई। इसका स्पष्टीकरण प्रभाव पर्याप्त रहा है।",
+      "en": "The Anthropic episode is, in this sense, less a turning point than a clarifying moment. The arguments for Indian sovereign AI capability — articulated by Mr Vembu, Mr Chandrasekaran, the IndiaAI Mission team, and a range of others over the past several years — have not changed substantively in their content. What the Fable and Mythos directive has done is to make the concrete, operational reality of platform-dependence visible in a way that academic and policy argument alone had not achieved. A category of foreign capability that Indian researchers and companies had been using as part of their working stack disappeared, at short notice, on the basis of a regulatory determination made in Washington. The clarifying effect of this has been substantial.",
+      "ur": "انتھروپک واقعہ، اس لحاظ سے، واضح کرنے والے لمحے سے کم ایک اہم موڑ ہے۔ ہندوستانی خود مختار AI صلاحیت کے لیے دلائل - مسٹر ویمبو، مسٹر چندر شیکرن، انڈیا اے آئی مشن ٹیم، اور کئی دوسرے لوگوں کے ذریعہ گزشتہ کئی سالوں میں بیان کیے گئے - ان کے مواد میں کوئی خاص تبدیلی نہیں آئی ہے۔ Fable اور Mythos کی ہدایت نے جو کچھ کیا ہے وہ یہ ہے کہ پلیٹ فارم پر انحصار کی ٹھوس، عملی حقیقت کو اس طرح ظاہر کیا جائے جو اکیلے اکیڈمک اور پالیسی دلیل نے حاصل نہیں کیا تھا۔ غیر ملکی صلاحیتوں کا ایک زمرہ جسے ہندوستانی محققین اور کمپنیاں اپنے ورکنگ اسٹیک کے حصے کے طور پر استعمال کر رہی تھیں، واشنگٹن میں کیے گئے ایک ریگولیٹری عزم کی بنیاد پر، مختصر نوٹس پر غائب ہو گئیں۔ اس کا واضح اثر کافی رہا ہے۔"
+    },
+    "b33": {
+      "hi": "आगे का रास्ता",
+      "en": "The road ahead",
+      "ur": "آگے کی سڑک"
+    },
+    "b34": {
+      "hi": "भारत के संप्रभु एआई निर्माण के तात्कालिक क्षितिज में कई समानांतर कार्य धाराएँ शामिल हैं। इंडियाएआई मिशन अतिरिक्त कंपनियों को गणना आवंटन जारी रखना और मॉडल-विकास समर्थन ढांचे को परिष्कृत करना जारी रखेगा। रिलायंस, अदानी और अन्य समूहों द्वारा निजी क्षेत्र के डेटा सेंटर निवेश से अगले कई वर्षों में क्षमता में वृद्धि जारी रहेगी। सेमीकंडक्टर पीएलआई परियोजनाएं बहु-वर्षीय क्षितिज पर योजना से निर्माण की ओर बढ़ती रहेंगी। सर्वम एआई, क्रुट्रिम और अन्य समर्थित टीमों में मूलभूत और विशिष्ट मॉडल विकास कार्य परिपक्व होता रहेगा, 2026 और 2027 तक क्रमिक मॉडल जारी होने की उम्मीद है।",
+      "en": "The immediate horizon for India's sovereign AI build-out involves several parallel work streams. The IndiaAI Mission will continue to roll out compute allocations to additional companies and to refine the model-development support framework. Private-sector data centre investment by Reliance, Adani, and other groups will continue to add capacity over the next several years. The semiconductor PLI projects will continue to move from planning to construction to production over a multi-year horizon. The foundational and specialised model development work across Sarvam AI, Krutrim, and the other supported teams will continue to mature, with successive model releases expected through 2026 and 2027.",
+      "ur": "ہندوستان کے خودمختار AI تعمیر کے لیے فوری افق میں متعدد متوازی کام کے سلسلے شامل ہیں۔ انڈیا اے آئی مشن اضافی کمپنیوں کو کمپیوٹ مختص کرنے اور ماڈل ڈیولپمنٹ سپورٹ فریم ورک کو بہتر بنانے کے لیے جاری رکھے گا۔ ریلائنس، اڈانی، اور دیگر گروپوں کی طرف سے نجی شعبے کے ڈیٹا سینٹر کی سرمایہ کاری اگلے کئی سالوں میں صلاحیت میں اضافہ کرتی رہے گی۔ سیمی کنڈکٹر PLI پروجیکٹس کئی سال کے افق پر منصوبہ بندی سے تعمیر سے پیداوار کی طرف بڑھتے رہیں گے۔ سروام AI، Krutrim، اور دیگر معاون ٹیموں میں بنیادی اور خصوصی ماڈل کی ترقی کا کام پختہ ہوتا رہے گا، 2026 اور 2027 تک یکے بعد دیگرے ماڈل ریلیز ہونے کی توقع ہے۔"
+    },
+    "b35": {
+      "hi": "अभी के लिए, Tracxn रिपोर्ट और व्यापक संदर्भ जो स्थापित करते हैं वह एक मूल आधार रेखा है: 5.5 बिलियन अमेरिकी डॉलर की संचयी इक्विटी फंडिंग, संरचित गणना आवंटन के साथ एक प्रमुख राष्ट्रीय मिशन, बहु-अरब डॉलर के निजी क्षेत्र के बुनियादी ढांचे की प्रतिबद्धताएं, और एक नीतिगत माहौल जो तेजी से पूर्ण-स्टैक संप्रभु क्षमता के आसपास उन्मुख है। कठिन प्रश्न - क्या भारत सीमांत-मॉडल अंतर को पाट सकता है, क्या सेमीकंडक्टर क्षमता को सीमांत पैमाने पर बनाया जा सकता है, क्या अनुसंधान-प्रतिभा प्रतिधारण तस्वीर में सुधार किया जा सकता है - खुले रहेंगे। लेकिन पिछले कई महीनों के साक्ष्य के आधार पर, संस्थागत और पूंजीगत आधार अब अपनी जगह पर है।",
+      "en": "For now, what the Tracxn report and the wider context establish is a substantive baseline: USD 5.5 billion of cumulative equity funding, a flagship national mission with structured compute allocations, multi-billion-dollar private-sector infrastructure commitments, and a policy environment increasingly oriented around full-stack sovereign capability. The harder questions — of whether India can close the frontier-model gap, of whether semiconductor capability can be built at frontier scale, of whether the research-talent retention picture can be improved — remain open. But the institutional and capital foundation, on the evidence of the past several months, is now substantively in place.",
+      "ur": "ابھی کے لیے، Tracxn کی رپورٹ اور وسیع تر سیاق و سباق جو کچھ قائم کرتے ہیں وہ ایک بنیادی بنیاد ہے: USD 5.5 بلین کی مجموعی ایکویٹی فنڈنگ، ساختی کمپیوٹ مختص کے ساتھ ایک پرچم بردار قومی مشن، ملٹی بلین ڈالر کے نجی شعبے کے بنیادی ڈھانچے کے وعدے، اور ایک پالیسی ماحول جو تیزی سے مکمل اسٹیک خودمختار صلاحیت کے ارد گرد مرکوز ہے۔ مشکل سوالات — کہ آیا ہندوستان فرنٹیئر ماڈل کے فرق کو ختم کر سکتا ہے، آیا سیمی کنڈکٹر کی صلاحیت فرنٹیئر پیمانے پر تعمیر کی جا سکتی ہے، یہ کہ آیا تحقیقی صلاحیتوں کو برقرار رکھنے کی تصویر کو بہتر بنایا جا سکتا ہے — کھلے رہیں۔ لیکن ادارہ جاتی اور سرمایہ فاؤنڈیشن، پچھلے کئی مہینوں کے ثبوت پر، اب کافی حد تک اپنی جگہ پر ہے۔"
+    }
+  }
+}
