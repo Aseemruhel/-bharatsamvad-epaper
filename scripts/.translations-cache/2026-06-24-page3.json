@@ -1,570 +1,520 @@
 {
-  "hash": "66f0140f63cc742c",
+  "hash": "70297307dc88dea5",
   "t": {
     "fm.section": {
-      "hi": "राष्ट्रीय",
-      "en": "National",
-      "ur": "قومی"
+      "hi": "व्यापार",
+      "en": "Business",
+      "ur": "کاروبار"
     },
     "fm.kicker": {
-      "hi": "\"हाई-स्पीड रेल · आत्मनिर्भर भारत\"",
-      "en": "\"High-Speed Rail · Aatmanirbhar Bharat\"",
-      "ur": "\"ہائی سپیڈ ریل · اتمنیر بھر بھارت\""
+      "hi": "\"अर्धचालक · आत्मनिर्भर भारत\"",
+      "en": "\"Semiconductors · Aatmanirbhar Bharat\"",
+      "ur": "\"سیمک کنڈکٹرز · اتمنیر بھر بھارت\""
     },
     "fm.byline": {
-      "hi": "विशेष संवाददाता",
-      "en": "Special Correspondent",
-      "ur": "خصوصی نامہ نگار"
+      "hi": "व्यापार संवाददाता",
+      "en": "Business Correspondent",
+      "ur": "کاروباری نامہ نگار"
     },
     "fm.location": {
-      "hi": "नई दिल्ली/बेंगलुरु",
-      "en": "New Delhi / Bengaluru",
-      "ur": "نئی دہلی/بنگلور"
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
     },
     "fm.headline": {
-      "hi": "\"बीईएमएल बेंगलुरु से सूरत-वापी तक: भारत की पहली स्वदेशी बुलेट ट्रेन बी28 सेट अगस्त 2027 में मुंबई-अहमदाबाद कॉरिडोर पर शुरू होगी, जो अपनी शर्तों पर विशिष्ट वैश्विक हाई-स्पीड रेल क्लब में शामिल होगी\"",
-      "en": "\"From BEML Bengaluru to Surat-Vapi: India's first indigenous bullet train B28 set for August 2027 debut on Mumbai-Ahmedabad corridor, joining the elite global high-speed rail club on its own terms\"",
-      "ur": "\"BEML بنگلورو سے سورت-واپی تک: ہندوستان کی پہلی دیسی بلٹ ٹرین B28 اگست 2027 کو ممبئی-احمد آباد کوریڈور پر ڈیبیو کے لیے تیار ہے، اپنی شرائط پر ایلیٹ گلوبل ہائی سپیڈ ریل کلب میں شامل ہو رہی ہے\""
+      "hi": "\"FY27 चिप पुश के लिए ₹7,100 करोड़: व्यय विभाग ने एक प्रमुख फैब, नौ विशेष सुविधाओं और 30 डिज़ाइन फर्मों को लक्षित करते हुए एकीकृत प्रोत्साहन पैकेज का अनावरण किया - निजी निवेश में ₹15,000 करोड़ जुटाने का लक्ष्य\"",
+      "en": "\"₹7,100 crore for FY27 chip push: Department of Expenditure unveils integrated incentive package targeting one major fab, nine specialised facilities, and 30 design firms — aiming to crowd in ₹15,000 crore in private investment\"",
+      "ur": "\"FY27 چپ پش کے لیے ₹7,100 کروڑ: محکمہ اخراجات نے ایک بڑے فیب، نو خصوصی سہولیات، اور 30 ​​ڈیزائن فرموں کو نشانہ بناتے ہوئے مربوط مراعاتی پیکج کی نقاب کشائی کی – جس کا مقصد نجی سرمایہ کاری میں ₹15,000 کروڑ میں جمع کرنا ہے۔\""
     },
     "fm.subdeck": {
-      "hi": "\"भारत का पहला स्वदेशी रूप से डिजाइन और निर्मित हाई-स्पीड ट्रेनसेट - बी28, जिसे लोकप्रिय रूप से 'वंदे बुलेट' के नाम से जाना जाता है - अगस्त 2027 में 508 किलोमीटर के मुंबई-अहमदाबाद हाई-स्पीड रेल कॉरिडोर के सूरत-वापी खंड पर वाणिज्यिक परिचालन शुरू करने वाला है। इंटीग्रल कोच फैक्ट्री चेन्नई द्वारा डिजाइन किया गया है, जिसे भारत अर्थ मूवर्स लिमिटेड ने अपनी बेंगलुरु सुविधा में ₹866.87 करोड़ अक्टूबर में बनाया है। 2024 अनुबंध, 250 किमी/घंटा और अधिकतम 280 किमी/घंटा की परिचालन गति के लिए डिज़ाइन किया गया है, जिसमें भविष्य में 320-350 किमी/घंटा की उन्नयन क्षमता है - बी28 भारत को जापान, फ्रांस, जर्मनी, स्पेन, चीन और कुछ अन्य देशों के साथ हाई-स्पीड रेल रोलिंग स्टॉक के एक संप्रभु उत्पादक के रूप में स्थापित करता है, जिनके पास उन्नत औद्योगिक क्षमता की यह श्रेणी है।''",
-      "en": "\"India's first indigenously designed and manufactured high-speed trainset — the B28, popularly referred to as the 'Vande Bullet' — is on schedule to commence commercial operations in August 2027 on the Surat-Vapi section of the 508-kilometre Mumbai-Ahmedabad High-Speed Rail Corridor. Designed by the Integral Coach Factory Chennai, built by Bharat Earth Movers Limited at its Bengaluru facility under a ₹866.87 crore October 2024 contract, designed for an operational speed of 250 km/h and a maximum of 280 km/h, with future upgrade potential to 320-350 km/h — the B28 establishes India as a sovereign producer of high-speed rail rolling stock alongside Japan, France, Germany, Spain, China, and a handful of other nations that possess this category of advanced industrial capability.\"",
-      "ur": "\"ہندوستان کی پہلی مقامی طور پر ڈیزائن اور تیار کردہ تیز رفتار ٹرین سیٹ - B28، جسے 'واندے بلٹ' کے نام سے جانا جاتا ہے - اگست 2027 میں 508 کلومیٹر کے ممبئی-احمد آباد ہائی اسپیڈ ریل کے ذریعے تعمیر کردہ 508 کلومیٹر کے سورت-واپی سیکشن پر تجارتی آپریشن شروع کرنے کے لیے شیڈول پر ہے۔ بھارت ارتھ موورز لمیٹڈ اپنی بنگلورو سہولت میں ₹ 866.87 کروڑ اکتوبر 2024 کے معاہدے کے تحت، جو 250 کلومیٹر فی گھنٹہ اور زیادہ سے زیادہ 280 کلومیٹر فی گھنٹہ کی آپریشنل رفتار کے لیے ڈیزائن کیا گیا ہے، جس میں مستقبل میں 320-350 کلومیٹر فی گھنٹہ تک اپ گریڈ کرنے کی صلاحیت ہے — B28 نے ہندوستان کو ایک خودمختار، فرانس کے اعلیٰ جرمن اسٹاک پروڈیوسر کے طور پر قائم کیا ہے۔ اسپین، چین، اور مٹھی بھر دوسری قومیں جو اس زمرے کی اعلی درجے کی صنعتی صلاحیت کے مالک ہیں۔\""
+      "hi": "\"व्यय विभाग ने वित्त वर्ष 2026-27 में भारतीय सेमीकंडक्टर पारिस्थितिकी तंत्र के लिए एक व्यापक ₹7,100 करोड़ के राजकोषीय-सहायता पैकेज को अंतिम रूप दिया है - निजी पूंजी में ₹4,000 करोड़ आकर्षित करने और 1,500 प्रत्यक्ष रोजगार सृजित करने के लिए अनुमानित एक प्रमुख निर्माण इकाई के लिए ₹2,000 करोड़; एटीएमपी/ओएसएटी, कंपाउंड सेमीकंडक्टर और सेंसर में नौ विशेष सुविधाओं के लिए ₹5,000 करोड़, अतिरिक्त में ₹11,000 करोड़ का लक्ष्य निजी निवेश और 3,000 नौकरियां; और 30 डिजाइन फर्मों को समर्थन देने और दस स्वदेशी सेमीकंडक्टर आईपी कोर के विकास के लिए डिजाइन लिंक्ड इंसेंटिव (डीएलआई) योजना के माध्यम से ₹100 करोड़, ताजा निजी निवेश में लगभग ₹15,000 करोड़ का पैकेज और आईएसएम 1.0 के तहत सेमीकंडक्टर-इकोसिस्टम निर्माण से आईएसएम के तहत सेमीकंडक्टर-इकोसिस्टम गहराई और आत्मनिर्भरता के लिए भारत के संक्रमण को समेकित करता है। 2.0\"",
+      "en": "\"The Department of Expenditure has finalised a comprehensive ₹7,100 crore fiscal-support package for the Indian semiconductor ecosystem in FY 2026-27 — ₹2,000 crore for one major fabrication unit projected to attract ₹4,000 crore in private capital and create 1,500 direct jobs; ₹5,000 crore for nine specialised facilities across ATMP/OSAT, compound semiconductors and sensors targeting ₹11,000 crore in additional private investment and 3,000 jobs; and ₹100 crore through the Design Linked Incentive (DLI) scheme to back 30 design firms and the development of ten indigenous semiconductor IP cores. The package crowds in approximately ₹15,000 crore in fresh private investment and consolidates India's transition from semiconductor-ecosystem creation under ISM 1.0 to semiconductor-ecosystem depth and self-sufficiency under ISM 2.0.\"",
+      "ur": "\"محکمہ اخراجات نے مالی سال 2026-27 میں ہندوستانی سیمی کنڈکٹر ایکو سسٹم کے لیے ₹ 7,100 کروڑ کے ایک جامع مالی امدادی پیکج کو حتمی شکل دی ہے - ایک بڑے فیبریکیشن یونٹ کے لیے ₹ 2,000 کروڑ جس کا پراجیکٹ پرائیویٹ سرمائے میں ₹ 4,000 کروڑ کو متوجہ کرنے اور 1,500 کروڑ روپے کی براہ راست ملازمتوں کے لیے 1,500 کروڑ کی خصوصی سہولیات پیدا کرنے کا ہے۔ ATMP/OSAT، اضافی نجی سرمایہ کاری اور 3,000 ملازمتوں میں ₹11,000 کروڑ کا ہدف بنانے والے کمپاؤنڈ سیمی کنڈکٹرز اور 30 ڈیزائن فرموں کی پشت پناہی کرنے کے لیے ₹100 کروڑ اور ₹100 کروڑ روپے کی نجی سرمایہ کاری کے پیکج میں 100 کروڑ روپے کی سرمایہ کاری آئی ایس ایم 1.0 کے تحت سیمی کنڈکٹر-ایکو سسٹم کی تخلیق سے سیمی کنڈکٹر-ایکو سسٹم کی گہرائی اور ISM 2.0 کے تحت خود کفالت میں ہندوستان کی منتقلی۔\""
     },
     "b0": {
-      "hi": "भारत वर्तमान दशक के सबसे परिणामी औद्योगिक और बुनियादी ढांचे के मील के पत्थर में से एक की दहलीज पर है। देश की पहली स्वदेशी रूप से डिज़ाइन और निर्मित हाई-स्पीड बुलेट ट्रेन - जिसे B28 नामित किया गया है और लोकप्रिय रूप से \"वंदे बुलेट\" के रूप में जाना जाता है - अगस्त 2027 में अपनी व्यावसायिक शुरुआत करने वाली है, जब यह 508 किलोमीटर के मुंबई-अहमदाबाद हाई-स्पीड रेल कॉरिडोर (MAHSR) के सूरत-वापी खंड पर परिचालन शुरू करेगी। इस शुरुआत के साथ, भारत उन देशों के एक छोटे वैश्विक क्लब में शामिल हो जाएगा, जिनके पास हाई-स्पीड रेल ट्रेनसेट को डिजाइन करने, इंजीनियर करने और निर्माण करने की संप्रभु औद्योगिक क्षमता है - इस श्रेणी में वर्तमान में जापान, फ्रांस, जर्मनी, स्पेन, चीन, दक्षिण कोरिया और ताइवान का वर्चस्व है।",
-      "en": "India is on the threshold of one of the most consequential industrial and infrastructure milestones of the current decade. The country's first indigenously designed and manufactured high-speed bullet train — designated the B28 and popularly referred to as the \"Vande Bullet\" — is on schedule to make its commercial debut in August 2027, when it will commence operations on the Surat-Vapi section of the 508-kilometre Mumbai-Ahmedabad High-Speed Rail Corridor (MAHSR). With this debut, India will join a small global club of nations that possess the sovereign industrial capability to design, engineer, and manufacture high-speed rail trainsets — a category currently dominated by Japan, France, Germany, Spain, China, South Korea, and Taiwan.",
-      "ur": "ہندوستان موجودہ دہائی کے سب سے زیادہ نتیجہ خیز صنعتی اور بنیادی ڈھانچے کے سنگ میل کی دہلیز پر ہے۔ ملک کی پہلی مقامی طور پر ڈیزائن اور تیار کردہ تیز رفتار بلٹ ٹرین — جسے B28 نامزد کیا گیا ہے اور اسے \"واندے بلیٹ\" کے نام سے جانا جاتا ہے — اگست 2027 میں اپنا تجارتی آغاز کرنے کے لیے شیڈول پر ہے، جب یہ 508 کلومیٹر کے سورت-واپی سیکشن پر کام شروع کرے گی۔ اس ڈیبیو کے ساتھ، ہندوستان ایسے ممالک کے ایک چھوٹے سے عالمی کلب میں شامل ہو جائے گا جو تیز رفتار ریل ٹرین سیٹوں کو ڈیزائن کرنے، انجینئر کرنے اور تیار کرنے کی خودمختار صنعتی صلاحیت کے مالک ہیں - ایک زمرہ جس پر اس وقت جاپان، فرانس، جرمنی، اسپین، چین، جنوبی کوریا اور تائیوان کا غلبہ ہے۔"
+      "hi": "भारत की सेमीकंडक्टर महत्वाकांक्षाएं निर्णायक रूप से नीतिगत आकांक्षा से औद्योगिक वास्तविकता की ओर बढ़ गई हैं। व्यय विभाग ने वित्त वर्ष 2026-27 के लिए ₹7,100 करोड़ के राजकोषीय-सहायता पैकेज को अंतिम रूप दिया है, जिसे विशेष रूप से घरेलू चिप पारिस्थितिकी तंत्र को सुपरचार्ज करने के लिए डिज़ाइन किया गया है - जिसमें एक प्रमुख निर्माण इकाई, नौ विशेष अर्धचालक सुविधाएं और डिजाइन लिंक्ड प्रोत्साहन योजना का एक बड़ा विस्तार शामिल है जो भारतीय अर्धचालक डिजाइन फर्मों का समर्थन करता है। पैकेज को नए निजी निवेश में लगभग ₹15,000 करोड़ जुटाने, विनिर्माण और डिजाइन में 4,500 से अधिक प्रत्यक्ष रोजगार पैदा करने और भारत के स्वदेशी सेमीकंडक्टर बौद्धिक संपदा कोर के पहले सेट की स्थापना के लिए कैलिब्रेट किया गया है - जो 2021 के मूल भारत सेमीकंडक्टर मिशन और केंद्रीय बजट 2026-27 में घोषित नए लॉन्च किए गए भारत सेमीकंडक्टर मिशन 2.0 के तहत रखी गई नींव पर काफी हद तक आधारित है।",
+      "en": "India's semiconductor ambitions have moved decisively from policy aspiration to industrial reality. The Department of Expenditure has finalised a ₹7,100 crore fiscal-support package for FY 2026-27 specifically designed to supercharge the domestic chip ecosystem — covering one major fabrication unit, nine specialised semiconductor facilities, and a substantial expansion of the Design Linked Incentive scheme that backs Indian semiconductor design firms. The package is calibrated to crowd in approximately ₹15,000 crore in fresh private investment, generate over 4,500 direct jobs across manufacturing and design, and establish India's first set of indigenous semiconductor intellectual property cores — building substantially on the foundation laid under the original India Semiconductor Mission of 2021 and the newly-launched India Semiconductor Mission 2.0 announced in the Union Budget 2026-27.",
+      "ur": "ہندوستان کے سیمی کنڈکٹر عزائم فیصلہ کن طور پر پالیسی کی خواہش سے صنعتی حقیقت کی طرف بڑھ چکے ہیں۔ اخراجات کے محکمے نے مالی سال 2026-27 کے لیے ₹7,100 کروڑ کے مالی امدادی پیکج کو حتمی شکل دی ہے جو خاص طور پر گھریلو چپ ایکو سسٹم کو سپرچارج کرنے کے لیے ڈیزائن کیا گیا ہے - جس میں ایک بڑے فیبریکیشن یونٹ، نو خصوصی سیمی کنڈکٹر سہولیات، اور ڈیزائن لنکڈ انسینٹیو اسکیم کی خاطر خواہ توسیع ہے جو ہندوستانی سیمی کنڈکٹر ڈیزائن فرم کی حمایت کرتی ہے۔ یہ پیکیج تقریباً 15,000 کروڑ روپے کی تازہ نجی سرمایہ کاری میں بھیڑ کے حساب سے ترتیب دیا گیا ہے، جس سے مینوفیکچرنگ اور ڈیزائن میں 4,500 سے زیادہ براہ راست ملازمتیں پیدا ہوں گی، اور ہندوستان کے دیسی سیمی کنڈکٹر انٹلیکچوئل پراپرٹی کور کے پہلے سیٹ کو قائم کیا جائے گا - جو کہ اصل انڈیا سیمی کنڈکٹر20 کے تحت رکھی گئی بنیاد پر کافی حد تک تعمیر کیا گیا ہے۔ سیمی کنڈکٹر مشن 2.0 کا اعلان مرکزی بجٹ 2026-27 میں کیا گیا۔"
     },
     "b1": {
-      "hi": "B28 ट्रेनसेट - जिसे भारत अर्थ मूवर्स लिमिटेड (BEML) के साथ साझेदारी में चेन्नई में इंटीग्रल कोच फैक्ट्री (ICF) द्वारा डिजाइन किया गया है, और बेंगलुरु में BEML की सुविधा में निर्मित किया जा रहा है - अपने इतिहास में भारतीय रेलवे द्वारा किए गए सबसे महत्वाकांक्षी स्वदेशीकरण कार्यक्रमों में से एक का प्रतीक है। 250 किलोमीटर प्रति घंटे की परिचालन गति, 280 किलोमीटर प्रति घंटे की अधिकतम डिजाइन गति और भविष्य में 320-350 किलोमीटर प्रति घंटे के उन्नयन के लिए आगे-अनुकूलता के साथ, ट्रेनसेट को वैश्विक हाई-स्पीड-रेल मानकों के अनुसार बनाया गया है, जिसमें पर्याप्त भारतीय इंजीनियरिंग क्षमता और एक घरेलू विनिर्माण पदचिह्न शामिल है जो पांच साल पहले भी अस्तित्व में नहीं था। यह उपलब्धि भारत को हाई-स्पीड-रेल-सक्षम देशों के वैश्विक अभिजात वर्ग में मजबूती से रखती है - और मध्यम अवधि में, ऐसी तकनीक का निर्यातक बनने की दिशा में अग्रसर है।",
-      "en": "The B28 trainset — designed by the Integral Coach Factory (ICF) at Chennai in partnership with Bharat Earth Movers Limited (BEML), and being manufactured at BEML's facility in Bengaluru — embodies one of the most ambitious indigenisation programmes attempted by Indian Railways in its history. With an operational speed of 250 kilometres per hour, a maximum design speed of 280 kilometres per hour, and forward-compatibility for future upgrades to 320-350 kilometres per hour, the trainset is built to global high-speed-rail standards while incorporating substantial Indian engineering capability and a domestic manufacturing footprint that did not exist even five years ago. The achievement places India firmly within the global elite of high-speed-rail-capable nations — and on a trajectory toward becoming, in the medium term, an exporter of such technology.",
-      "ur": "B28 ٹرین سیٹ – بھارت ارتھ موورز لمیٹڈ (BEML) کے ساتھ شراکت میں چنئی میں انٹیگرل کوچ فیکٹری (ICF) کے ذریعہ ڈیزائن کیا گیا ہے، اور بنگلورو میں BEML کی سہولت میں تیار کیا جا رہا ہے – اپنی تاریخ میں ہندوستانی ریلوے کی طرف سے کوشش کی گئی سب سے زیادہ پرجوش مقامی پروگراموں میں سے ایک ہے۔ 250 کلومیٹر فی گھنٹہ کی آپریشنل رفتار، 280 کلومیٹر فی گھنٹہ کی زیادہ سے زیادہ ڈیزائن کی رفتار، اور مستقبل میں 320-350 کلومیٹر فی گھنٹہ تک اپ گریڈ کرنے کے لیے آگے کی مطابقت کے ساتھ، ٹرین سیٹ کو عالمی ہائی اسپیڈ ریل کے معیارات کے مطابق بنایا گیا ہے جبکہ اس میں خاطر خواہ ہندوستانی انجینئرنگ کی صلاحیت کو شامل کیا گیا ہے جو کہ پانچ سال پہلے تک مقامی سطح پر بھی موجود نہیں تھی۔ اس کامیابی نے ہندوستان کو تیز رفتار ریل کے قابل ممالک کی عالمی اشرافیہ کے اندر مضبوطی سے جگہ دی ہے - اور درمیانی مدت میں، اس طرح کی ٹیکنالوجی کا برآمد کنندہ بننے کی راہ پر ہے۔"
+      "hi": "यह पैकेज ऐसे क्षण में आया है जब भारत का सेमीकंडक्टर पारिस्थितिकी तंत्र, किसी भी उपाय से, अपने विभक्ति बिंदु पर पहुंच गया है। दिसंबर 2021 से आईएसएम 1.0 के तहत ₹1.60 लाख करोड़ के संयुक्त प्रतिबद्ध निवेश वाली दस प्रमुख सेमीकंडक्टर परियोजनाओं को मंजूरी दी गई है। गुजरात के साणंद में माइक्रोन टेक्नोलॉजी की असेंबली, टेस्ट और पैकेजिंग (एटीएमपी) सुविधा में वाणिज्यिक उत्पादन पहले से ही चल रहा है, जिसका उद्घाटन फरवरी 2026 में प्रधान मंत्री नरेंद्र मोदी ने किया था; कायन्स सेमीकॉन के सानंद स्थित संयंत्र में भी, मार्च 2026 में उद्घाटन किया गया; और सीजी पावर की सुविधा जुलाई 2026 में परिचालन शुरू करने वाली है। गुजरात के धोलेरा में टाटा इलेक्ट्रॉनिक्स फैब्रिकेशन प्लांट - भारत के इतिहास में ₹91,000 करोड़ का सबसे बड़ा एकल सेमीकंडक्टर निवेश - 2028 तक पूरा होने की राह पर है। असम में टाटा ओएसएटी प्लांट, जो उत्तर-पूर्व में भारत की पहली प्रमुख सेमीकंडक्टर उपस्थिति है, 2026 के अंत तक परिचालन शुरू करने की उम्मीद है।",
+      "en": "The package arrives at a moment when India's semiconductor ecosystem has, by any measure, reached its inflection point. Ten major semiconductor projects with a combined committed investment of ₹1.60 lakh crore have been approved under ISM 1.0 since December 2021. Commercial production is already underway at Micron Technology's Assembly, Test and Packaging (ATMP) facility at Sanand in Gujarat, inaugurated by Prime Minister Narendra Modi in February 2026; at Kaynes Semicon's plant also at Sanand, inaugurated in March 2026; and at CG Power's facility scheduled to commence operations in July 2026. The Tata Electronics fabrication plant at Dholera in Gujarat — the largest single semiconductor investment in India's history at ₹91,000 crore — is on track for completion by 2028. The Tata OSAT plant in Assam, India's first major semiconductor presence in the North-East, is slated to commence operations by end of 2026.",
+      "ur": "یہ پیکج ایک ایسے لمحے میں آتا ہے جب ہندوستان کا سیمی کنڈکٹر ماحولیاتی نظام، کسی بھی حد تک، اپنے موڑ پر پہنچ چکا ہے۔ دسمبر 2021 سے ISM 1.0 کے تحت ₹ 1.60 لاکھ کروڑ کی مشترکہ پرعزم سرمایہ کاری کے ساتھ دس بڑے سیمی کنڈکٹر پروجیکٹوں کو منظوری دی گئی ہے۔ گجرات کے سانند میں مائکرون ٹیکنالوجی کی اسمبلی، ٹیسٹ اور پیکیجنگ (ATMP) سہولت میں تجارتی پیداوار پہلے ہی جاری ہے، جس کا افتتاح وزیر اعظم نریندر مودی نے فروری 2026 میں کیا تھا۔ سانند میں بھی Kaynes Semicon کے پلانٹ میں، مارچ 2026 میں افتتاح کیا گیا؛ اور CG پاور کی سہولت پر جولائی 2026 میں کام شروع کرنا ہے۔ گجرات کے دھولیرا میں ٹاٹا الیکٹرانکس کا فیبریکیشن پلانٹ – ہندوستان کی تاریخ میں ₹ 91,000 کروڑ کی سب سے بڑی واحد سیمی کنڈکٹر سرمایہ کاری – 2028 تک مکمل ہونے کے راستے پر ہے۔ ٹاٹا OSAT پلانٹ آسام میں سیمی کنڈکٹر سے جڑا ہوا پہلا سیمی کنڈکٹر پلانٹ ہے جو بھارت کے شمال مشرقی ایشیا میں واقع ہے۔ 2026 کے آخر تک کام شروع کرنا۔"
     },
     "b2": {
-      "hi": "बी28 ही: भारत क्या बना रहा है",
-      "en": "The B28 itself: what India is building",
-      "ur": "خود B28: ہندوستان کیا بنا رہا ہے۔"
+      "hi": "₹7,100 करोड़ में क्या शामिल है?",
+      "en": "What the ₹7,100 crore covers",
+      "ur": "کیا 7,100 کروڑ کا احاطہ کرتا ہے۔"
     },
     "b3": {
-      "hi": "बी28 ट्रेनसेट आयातित रोलिंग स्टॉक के साथ अनिश्चित काल तक जारी रखने के बजाय स्वदेशी हाई-स्पीड-रेल क्षमता विकसित करने के एक जानबूझकर किए गए राष्ट्रीय निर्णय की परिणति है। अक्टूबर 2024 में, चेन्नई में इंटीग्रल कोच फैक्ट्री ने BEML को दो आठ-कार हाई-स्पीड ट्रेनसेट के डिजाइन, निर्माण और कमीशन के लिए ₹866.87 करोड़ का अनुबंध दिया। बेंगलुरू मुख्यालय वाली रक्षा और भारी-इंजीनियरिंग सार्वजनिक क्षेत्र की कंपनी बीईएमएल इस अनुबंध के लिए एकमात्र बोली लगाने वाली कंपनी बन गई - और उसने प्रतिस्पर्धी प्रति-कोच लागत पर इसे जीता, जो अंतरराष्ट्रीय बेंचमार्क के साथ अनुकूल तुलना में थी।",
-      "en": "The B28 trainset is the culmination of a deliberate national decision to develop indigenous high-speed-rail capability rather than continue indefinitely with imported rolling stock. In October 2024, the Integral Coach Factory at Chennai awarded BEML a contract valued at ₹866.87 crore to design, manufacture and commission two eight-car high-speed trainsets. BEML, the Bengaluru-headquartered defence and heavy-engineering public-sector undertaking, became the sole bidder for the contract — and won it at a competitive per-coach cost that compared favourably with international benchmarks.",
-      "ur": "B28 ٹرین سیٹ درآمد شدہ رولنگ اسٹاک کے ساتھ غیر معینہ مدت تک جاری رکھنے کے بجائے مقامی ہائی سپیڈ ریل کی صلاحیت کو تیار کرنے کے دانستہ قومی فیصلے کی انتہا ہے۔ اکتوبر 2024 میں، چنئی میں انٹیگرل کوچ فیکٹری نے BEML کو 866.87 کروڑ روپے کا ایک ٹھیکہ دیا جس کی مالیت آٹھ کاروں والی دو تیز رفتار ٹرین سیٹوں کے ڈیزائن، تیاری اور کمیشن کو دی گئی۔ BEML، بنگلور میں ہیڈ کوارٹر ڈیفنس اور ہیوی انجینئرنگ پبلک سیکٹر انڈرٹیکنگ، کنٹریکٹ کے لیے واحد بولی دہندہ بن گیا - اور اسے ایک مسابقتی فی کوچ لاگت پر جیتا جو بین الاقوامی معیارات کے ساتھ سازگار طور پر موازنہ کرتا ہے۔"
+      "hi": "व्यय विभाग का FY27 पैकेज तीन समन्वित घटकों के आसपास संरचित है, प्रत्येक अर्धचालक मूल्य श्रृंखला के एक अलग खंड को संबोधित करता है।",
+      "en": "The Department of Expenditure's FY27 package is structured around three coordinated components, each addressing a distinct segment of the semiconductor value chain.",
+      "ur": "محکمہ اخراجات کا FY27 پیکج تین مربوط اجزاء کے ارد گرد تشکیل دیا گیا ہے، ہر ایک سیمی کنڈکٹر ویلیو چین کے ایک الگ حصے سے خطاب کرتا ہے۔"
     },
     "b4": {
-      "hi": "तकनीकी विशिष्टताएँ B28 को आधुनिक हाई-स्पीड रेल श्रेणी में रखती हैं। प्रति ट्रेन आठ कोच, चेयर-कार और एक्जीक्यूटिव-क्लास लेआउट में कॉन्फ़िगर किए गए। आईजीबीटी-आधारित पावर कन्वर्टर्स के साथ वितरित ट्रैक्शन आर्किटेक्चर। स्थिर उच्च गति से चलने के लिए बोल्स्टरलेस बोगियाँ। माइक्रोप्रोसेसर-नियंत्रित ब्रेकिंग सिस्टम। EN 45545 अंतर्राष्ट्रीय अग्नि-सुरक्षा मानक का अनुपालन। यूरोपीय ट्रेन नियंत्रण प्रणाली (ईटीसीएस) लेवल-2 सिग्नलिंग प्रोटोकॉल के साथ संगतता - विश्व स्तर पर हाई-स्पीड रेल सिस्टम द्वारा उपयोग किया जाने वाला आधुनिक सिग्नलिंग मानक। ट्रेनसेट को भारत की जलवायु और पर्यावरणीय परिस्थितियों की पूरी श्रृंखला में संचालित करने के लिए डिज़ाइन किया गया है - तापमान शून्य से 10 डिग्री सेल्सियस से प्लस 55 डिग्री सेल्सियस तक, मानसून वर्षा, तटीय आर्द्रता, धूल और संक्षारक वातावरण - धूल फिल्टर, उन्नत दबाव वाली एयर कंडीशनिंग और मजबूत विद्युत प्रणालियों के साथ।",
-      "en": "The technical specifications place the B28 squarely in the modern high-speed rail category. Eight coaches per trainset, configured in chair-car and executive-class layouts. Distributed traction architecture with IGBT-based power converters. Bolsterless bogies for stable high-speed running. Microprocessor-controlled braking systems. Compliance with the EN 45545 international fire-safety standard. Compatibility with the European Train Control System (ETCS) Level-2 signalling protocol — the modern signalling standard used by high-speed rail systems globally. The trainset is designed to operate across India's full range of climatic and environmental conditions — temperatures from minus 10 degrees Celsius to plus 55 degrees Celsius, monsoon rainfall, coastal humidity, dust, and corrosive environments — with dust filters, enhanced pressurised air-conditioning, and ruggedised electrical systems.",
-      "ur": "تکنیکی وضاحتیں B28 کو جدید تیز رفتار ریل کے زمرے میں مربع طور پر رکھتی ہیں۔ آٹھ کوچز فی ٹرین سیٹ، کرسی کار اور ایگزیکٹو کلاس لے آؤٹ میں ترتیب دی گئی ہیں۔ IGBT پر مبنی پاور کنورٹرز کے ساتھ تقسیم شدہ کرشن فن تعمیر۔ مستحکم تیز رفتار دوڑنے کے لیے بے باک بوگیاں۔ مائکرو پروسیسر کے زیر کنٹرول بریکنگ سسٹم۔ EN 45545 بین الاقوامی فائر سیفٹی معیار کے ساتھ تعمیل۔ یورپی ٹرین کنٹرول سسٹم (ETCS) لیول-2 سگنلنگ پروٹوکول کے ساتھ مطابقت — عالمی سطح پر ہائی سپیڈ ریل سسٹمز کے ذریعے استعمال ہونے والا جدید سگنلنگ معیار۔ ٹرین سیٹ کو ہندوستان کے موسمی اور ماحولیاتی حالات کی مکمل رینج میں کام کرنے کے لیے ڈیزائن کیا گیا ہے — درجہ حرارت منفی 10 ڈگری سیلسیس سے لے کر 55 ڈگری سیلسیس تک، مون سون کی بارشیں، ساحلی نمی، دھول، اور سنکنار ماحول — دھول کے فلٹرز، بہتر دباؤ والے نظام، اور بجلی سے چلنے والے نظام کے ساتھ۔"
+      "hi": "**घटक एक - प्रमुख निर्माण इकाई:** एक प्रमुख अर्धचालक निर्माण इकाई के लिए वित्तीय सहायता में ₹2,000 करोड़ आवंटित किए गए हैं। यह प्रावधान निजी निवेश के अनुरूप ₹4,000 करोड़ को आकर्षित करने और लगभग 1,500 प्रत्यक्ष रोजगार सृजित करने के लिए समायोजित किया गया है। यह घटक भारत की सिलिकॉन-वेफर विनिर्माण क्षमता के निर्माण पर रणनीतिक जोर जारी रखता है - मूल्य श्रृंखला का सबसे अधिक पूंजी-गहन खंड, जो किसी भी संप्रभु अर्धचालक क्षमता की नींव बनाता है।",
+      "en": "**Component One — Major Fabrication Unit:** ₹2,000 crore in fiscal support is allocated for one major semiconductor fabrication unit. The provision is calibrated to attract ₹4,000 crore in matching private investment and create approximately 1,500 direct jobs. This component continues the strategic emphasis on building India's silicon-wafer manufacturing capability — the most capital-intensive segment of the value chain, which forms the foundation of any sovereign semiconductor capability.",
+      "ur": "**کمپوننٹ ون — میجر فیبریکیشن یونٹ:** ایک بڑے سیمی کنڈکٹر فیبریکیشن یونٹ کے لیے 2,000 کروڑ روپے مالی امداد میں مختص کیے گئے ہیں۔ نجی سرمایہ کاری کے مماثل ₹4,000 کروڑ کو متوجہ کرنے اور تقریباً 1,500 براہ راست ملازمتیں پیدا کرنے کے لیے اس پروویژن کی پیمائش کی گئی ہے۔ یہ جزو ہندوستان کی سلکان ویفر مینوفیکچرنگ کی صلاحیت کی تعمیر پر سٹریٹجک زور کو جاری رکھتا ہے - ویلیو چین کا سب سے زیادہ سرمایہ دار طبقہ، جو کسی بھی خودمختار سیمی کنڈکٹر کی صلاحیت کی بنیاد بناتا ہے۔"
     },
     "b5": {
-      "hi": "ट्रेनसेट को लगभग 2,000 किलोमीटर की औसत दैनिक दौड़ के लिए डिज़ाइन किया गया है - परिचालन गति जो एक व्यस्त गलियारे पर उच्च आवृत्ति इंटरसिटी सेवा के लिए आवश्यक है। यूरोपीय कंपनी नॉर-ब्रेमसे ने दो प्रोटोटाइप के लिए ब्रेकिंग सिस्टम, यात्री प्रवेश प्रणाली, एयर कंडीशनिंग उपकरण और सैनिटरी सिस्टम की आपूर्ति के लिए सितंबर 2025 में बीईएमएल के साथ एक उपकरण अनुबंध पर हस्ताक्षर किए - दुनिया के अग्रणी रेल-सिस्टम इंटीग्रेटर्स में से एक के साथ एक केंद्रित सहयोग, जबकि ट्रेनसेट की इंजीनियरिंग और एकीकरण का बड़ा हिस्सा भारतीय बना हुआ है।",
-      "en": "The trainset is designed for an average daily run of approximately 2,000 kilometres — the operational tempo that high-frequency intercity service on a busy corridor requires. The European company Knorr-Bremse signed an equipment contract with BEML in September 2025 to supply braking systems, passenger entrance systems, air-conditioning equipment, and sanitary systems for the two prototypes — a focused collaboration with one of the world's leading rail-systems integrators, while the bulk of the trainset's engineering and integration remains Indian.",
-      "ur": "ٹرین سیٹ کو تقریباً 2,000 کلومیٹر کی اوسط یومیہ دوڑ کے لیے ڈیزائن کیا گیا ہے - وہ آپریشنل ٹیمپو جس کی ایک مصروف راہداری پر ہائی فریکوئنسی انٹرسٹی سروس کی ضرورت ہوتی ہے۔ یورپی کمپنی Knorr-Bremse نے ستمبر 2025 میں BEML کے ساتھ دو پروٹوٹائپس کے لیے بریکنگ سسٹم، مسافروں کے داخلے کے نظام، ایئر کنڈیشنگ کا سامان، اور سینیٹری سسٹم کی فراہمی کے لیے ایک سازوسامان کے معاہدے پر دستخط کیے - دنیا کے معروف ریل سسٹم انٹیگریٹرز میں سے ایک کے ساتھ ایک توجہ مرکوز تعاون، جبکہ ٹریننگ کے انجن اور ہندوستانی انجنوں کے انٹیگریشن میں شامل ہیں۔"
+      "hi": "**घटक दो - विशिष्ट सुविधाएं:** ₹5,000 करोड़ नौ विशिष्ट अर्धचालक सुविधाओं के लिए आवंटित किए गए हैं, जिसमें तीन अलग-अलग प्रौद्योगिकी श्रेणियां शामिल हैं। असेंबली, टेस्टिंग, मार्किंग और पैकेजिंग (एटीएमपी) और आउटसोर्स्ड सेमीकंडक्टर असेंबली और टेस्ट (ओएसएटी) सुविधाएं - जो कच्चे सिलिकॉन वेफर्स लेती हैं और उन्हें पैक किए गए, परीक्षण किए गए, बाजार के लिए तैयार चिप्स में परिवर्तित करती हैं - सबसे बड़ी उप-श्रेणी बनाती हैं। कंपाउंड सेमीकंडक्टर सुविधाएं, सिलिकॉन कार्बाइड (SiC) और गैलियम नाइट्राइड (GaN) जैसी श्रेणियों को संबोधित करती हैं, जो बिजली इलेक्ट्रॉनिक्स, इलेक्ट्रिक वाहनों, नवीकरणीय ऊर्जा प्रणालियों और उच्च-आवृत्ति संचार के लिए आवश्यक हैं, दूसरी उप-श्रेणी बनाती हैं। सेंसर-विनिर्माण सुविधाएं, ऑटोमोटिव, औद्योगिक, रक्षा और उपभोक्ता इलेक्ट्रॉनिक्स अनुप्रयोगों में सेंसर की तेजी से बढ़ती मांग को संबोधित करते हुए, तीसरे स्थान पर हैं। इस घटक को निजी पूंजी में ₹11,000 करोड़ आकर्षित करने और लगभग 3,000 नौकरियां पैदा करने के लिए कैलिब्रेट किया गया है।",
+      "en": "**Component Two — Specialised Facilities:** ₹5,000 crore is allocated across nine specialised semiconductor facilities, covering three distinct technology categories. Assembly, Testing, Marking and Packaging (ATMP) and Outsourced Semiconductor Assembly and Test (OSAT) facilities — which take raw silicon wafers and convert them into packaged, tested, market-ready chips — form the largest sub-category. Compound semiconductor facilities, addressing categories such as silicon carbide (SiC) and gallium nitride (GaN) that are essential to power electronics, electric vehicles, renewable energy systems, and high-frequency communications, form the second sub-category. Sensor-manufacturing facilities, addressing the rapidly-growing demand for sensors in automotive, industrial, defence, and consumer electronics applications, form the third. The component is calibrated to attract ₹11,000 crore in private capital and generate approximately 3,000 jobs.",
+      "ur": "**جز دو — خصوصی سہولیات:** نو خصوصی سیمی کنڈکٹر سہولیات میں ₹5,000 کروڑ مختص کیے گئے ہیں، جس میں ٹیکنالوجی کے تین الگ زمرے شامل ہیں۔ اسمبلی، ٹیسٹنگ، مارکنگ اور پیکیجنگ (ATMP) اور آؤٹ سورسڈ سیمی کنڈکٹر اسمبلی اینڈ ٹیسٹ (OSAT) سہولیات — جو خام سلکان ویفرز لیتے ہیں اور انہیں پیکڈ، ٹیسٹ شدہ، مارکیٹ کے لیے تیار چپس میں تبدیل کرتے ہیں — سب سے بڑی ذیلی زمرہ تشکیل دیتے ہیں۔ کمپاؤنڈ سیمی کنڈکٹر سہولیات، سلکان کاربائیڈ (SiC) اور گیلیم نائٹرائڈ (GaN) جیسی زمرہ جات جو کہ پاور الیکٹرانکس، الیکٹرک گاڑیوں، قابل تجدید توانائی کے نظام، اور اعلی تعدد مواصلات کے لیے ضروری ہیں، دوسری ذیلی قسم کی تشکیل کرتی ہیں۔ سینسر مینوفیکچرنگ کی سہولیات، آٹوموٹیو، صنعتی، دفاع، اور کنزیومر الیکٹرانکس ایپلی کیشنز میں سینسر کی تیزی سے بڑھتی ہوئی مانگ کو پورا کرتے ہوئے، تیسرا تشکیل دیتی ہیں۔ پرائیویٹ سرمائے میں ₹ 11,000 کروڑ کو راغب کرنے اور تقریباً 3,000 ملازمتیں پیدا کرنے کے لیے جزو کو کیلیبریٹ کیا گیا ہے۔"
     },
     "b6": {
-      "hi": "विनिर्माण कार्यक्रम",
-      "en": "The manufacturing programme",
-      "ur": "مینوفیکچرنگ پروگرام"
+      "hi": "**घटक तीन - डिज़ाइन लिंक्ड प्रोत्साहन:** 30 सेमीकंडक्टर डिज़ाइन फर्मों को समर्थन देने के लिए विस्तारित डिज़ाइन लिंक्ड इंसेंटिव (डीएलआई) योजना के माध्यम से ₹100 करोड़ आवंटित किए गए हैं - स्वदेशी चिप डिज़ाइन, बौद्धिक संपदा कोर और डिज़ाइन-सेवा क्षमताओं का विकास करने वाली भारतीय कंपनियां। लक्ष्य परिणाम दस भारतीय सेमीकंडक्टर आईपी कोर का विकास है - मूलभूत डिजाइन ब्लॉक जो भविष्य में भारतीय-डिज़ाइन किए गए चिप्स को शामिल करेंगे, विदेशी आईपी पर निर्भरता के बिना अपनी विशिष्ट अनुप्रयोग आवश्यकताओं के लिए चिप्स डिजाइन करने के लिए देश की रणनीतिक क्षमता का निर्माण करेंगे।",
+      "en": "**Component Three — Design Linked Incentive:** ₹100 crore is allocated through an expanded Design Linked Incentive (DLI) scheme to back 30 semiconductor design firms — Indian companies developing indigenous chip designs, intellectual property cores, and design-services capabilities. The target outcome is the development of ten Indian semiconductor IP cores — the foundational design blocks that future Indian-designed chips will incorporate, building the country's strategic capacity to design chips for its specific application requirements without dependence on foreign IP.",
+      "ur": "**جزاء تین — ڈیزائن سے منسلک ترغیب:** 30 سیمی کنڈکٹر ڈیزائن فرموں - ہندوستانی کمپنیاں جو دیسی چپ ڈیزائن، دانشورانہ املاک کور، اور ڈیزائن-سروسز کی صلاحیتوں کو تیار کر رہی ہیں، کی پشت پناہی کے لیے 100 کروڑ روپے ایک توسیع شدہ ڈیزائن لنکڈ انسینٹیو (DLI) اسکیم کے ذریعے مختص کیے گئے ہیں۔ ہدف کا نتیجہ دس ہندوستانی سیمی کنڈکٹر آئی پی کور کی ترقی ہے - بنیادی ڈیزائن بلاکس جو مستقبل میں ہندوستانی ڈیزائن کردہ چپس شامل کریں گے، غیر ملکی IP پر انحصار کیے بغیر اس کی مخصوص درخواست کی ضروریات کے لیے چپس کو ڈیزائن کرنے کی ملک کی اسٹریٹجک صلاحیت کو بڑھانا ہے۔"
     },
     "b7": {
-      "hi": "विनिर्माण कार्यक्रम बेंगलुरु में बीईएमएल की आदित्य सुविधा में क्रियान्वित किया जा रहा है - एक अत्याधुनिक रेल-विनिर्माण परिसर जिसका केंद्रीय रेल मंत्री अश्विनी वैष्णव ने औपचारिक रूप से 25 अप्रैल 2026 को विशेष रूप से बी28 उत्पादन और स्वदेशी हाई-स्पीड-रेल रोलिंग स्टॉक के व्यापक विकास के लिए उद्घाटन किया था। यह सुविधा कार-बॉडी निर्माण, संरचनात्मक तत्व निर्माण, बोगी उत्पादन, ट्रैक्शन उपकरण एकीकरण और अंतिम असेंबली को एक परिचालन पदचिह्न के तहत एकीकृत करती है - विनिर्माण प्रवाह को काफी हद तक सुव्यवस्थित करती है और प्रारंभिक बी28 कार्यक्रम से परे निरंतर उच्च गति-रेल उत्पादन के लिए संस्थागत आधार प्रदान करती है।",
-      "en": "The manufacturing programme is being executed at BEML's Aditya facility in Bengaluru — a state-of-the-art rail-manufacturing complex that Union Railway Minister Ashwini Vaishnaw formally inaugurated on 25 April 2026 specifically for B28 production and the broader development of indigenous high-speed-rail rolling stock. The facility integrates car-body manufacturing, structural element fabrication, bogie production, traction equipment integration, and final assembly under one operational footprint — substantially streamlining the manufacturing flow and providing the institutional foundation for sustained high-speed-rail production beyond the initial B28 programme.",
-      "ur": "مینوفیکچرنگ پروگرام بنگلورو میں بی ای ایم ایل کی آدتیہ سہولت پر چلایا جا رہا ہے - ایک جدید ترین ریل مینوفیکچرنگ کمپلیکس جس کا مرکزی وزیر ریلوے اشونی ویشنو نے 25 اپریل 2026 کو باضابطہ طور پر افتتاح کیا تھا خاص طور پر B28 کی پیداوار اور دیسی ہائی-رول سٹاک کی وسیع تر ترقی کے لیے۔ یہ سہولت کار باڈی مینوفیکچرنگ، سٹرکچرل ایلیمنٹ فیبریکیشن، بوگی پروڈکشن، ٹریکشن ایکویپمنٹ انٹیگریشن، اور فائنل اسمبلی کو ایک آپریشنل فٹ پرنٹ کے تحت مربوط کرتی ہے - مینوفیکچرنگ کے بہاؤ کو کافی حد تک ہموار کرنا اور ابتدائی B28 پروگرام سے آگے مسلسل تیز رفتار ریل کی پیداوار کے لیے ادارہ جاتی بنیاد فراہم کرنا۔"
+      "hi": "तीनों घटक मिलकर सरकारी राजकोषीय सहायता में ₹7,100 करोड़ की राशि देते हैं, जिसे निजी निवेश में लगभग ₹15,000 करोड़ आकर्षित करने और उच्च-कौशल सेमीकंडक्टर विनिर्माण और डिजाइन पारिस्थितिकी तंत्र में पर्याप्त रोजगार उत्पन्न करने के लिए कैलिब्रेट किया गया है।",
+      "en": "The three components together amount to ₹7,100 crore in government fiscal support, calibrated to attract approximately ₹15,000 crore in private investment, and generate substantial employment across the high-skill semiconductor manufacturing and design ecosystem.",
+      "ur": "تین اجزاء مل کر سرکاری مالی امداد میں ₹7,100 کروڑ بنتے ہیں، نجی سرمایہ کاری میں تقریباً ₹15,000 کروڑ کو متوجہ کرنے کے لیے کیلیبریٹ کیا جاتا ہے، اور اعلیٰ مہارت والے سیمی کنڈکٹر مینوفیکچرنگ اور ڈیزائن ماحولیاتی نظام میں خاطر خواہ روزگار پیدا کرتے ہیں۔"
     },
     "b8": {
-      "hi": "कार बॉडी और संरचनात्मक तत्वों का विनिर्माण वर्तमान में प्रगति पर है। अंडरफ़्रेम, कार बॉडी और बोगी के लिए प्रारंभिक डिज़ाइन समीक्षा और विस्तृत डिज़ाइन समीक्षा काफी हद तक पूरी हो चुकी है। 2026 की पहली तिमाही में एक पूर्ण-स्तरीय मॉक-अप का अनावरण किया गया, जिसमें B28 की वायुगतिकीय प्रोफ़ाइल, आंतरिक विन्यास और इंजीनियरिंग सौंदर्यशास्त्र की पहली सार्वजनिक रूप से दृश्यमान झलक प्रदान की गई। 18 मई 2026 को, रेल मंत्रालय ने नई दिल्ली के रेल भवन में प्रस्तावित ट्रेनसेट का एक प्रतिनिधित्वात्मक ग्राफिक डिज़ाइन प्रदर्शित किया - एक प्रतीकात्मक सार्वजनिक क्षण जिसने भौतिक वास्तविकता की ओर कार्यक्रम की वास्तविक प्रगति का संकेत दिया।",
-      "en": "Manufacturing of car bodies and structural elements is currently in progress. The preliminary design review and detailed design review for underframe, car body, and bogie have been substantially completed. A full-scale mock-up was unveiled in the first quarter of 2026, providing the first publicly visible glimpse of the B28's aerodynamic profile, interior configuration, and engineering aesthetics. On 18 May 2026, the Ministry of Railways displayed a representational graphic design of the proposed trainset at Rail Bhawan in New Delhi — a symbolic public moment that signalled the programme's substantive progress toward physical reality.",
-      "ur": "کار باڈیز اور ساختی عناصر کی تیاری فی الحال جاری ہے۔ انڈر فریم، کار باڈی اور بوگی کے لیے ابتدائی ڈیزائن کا جائزہ اور تفصیلی ڈیزائن کا جائزہ کافی حد تک مکمل ہو چکا ہے۔ 2026 کی پہلی سہ ماہی میں ایک مکمل پیمانے پر فرضی شکل کی نقاب کشائی کی گئی تھی، جو B28 کے ایروڈینامک پروفائل، اندرونی ترتیب، اور انجینئرنگ جمالیات کی پہلی عوامی طور پر نظر آنے والی جھلک فراہم کرتی ہے۔ 18 مئی 2026 کو، ریلوے کی وزارت نے نئی دہلی کے ریل بھون میں مجوزہ ٹرین سیٹ کا ایک نمائندہ گرافک ڈیزائن دکھایا - یہ ایک علامتی عوامی لمحہ ہے جس نے جسمانی حقیقت کی طرف پروگرام کی نمایاں پیش رفت کا اشارہ دیا۔"
+      "hi": "व्यापक आईएसएम वास्तुकला",
+      "en": "The wider ISM architecture",
+      "ur": "وسیع تر ISM فن تعمیر"
     },
     "b9": {
-      "hi": "पहला प्रोटोटाइप मार्च 2027 में लॉन्च करने का लक्ष्य है। दूसरा प्रोटोटाइप उसी वर्ष के अंत में लॉन्च किया जाएगा। वाणिज्यिक संचालन के लिए अंतिम प्रमाणन से पहले दोनों प्रोटोटाइप सात से आठ महीने के व्यापक परीक्षण कार्यक्रम से गुजरेंगे - जिसमें स्थैतिक परीक्षण, दोलन परीक्षण, पूर्ण कार-बॉडी निचोड़ परीक्षण और उच्च गति गतिशील परीक्षणों को शामिल करने वाला संरचनात्मक सत्यापन शामिल है। इस परीक्षण कार्यक्रम के सफल समापन पर, अगस्त 2027 में, B28 MAHSR कॉरिडोर के सूरत-वापी खंड पर वाणिज्यिक यात्री सेवा में प्रवेश करेगा।",
-      "en": "The first prototype is targeted for rollout in March 2027. The second prototype will follow later the same year. Both prototypes will undergo a comprehensive seven-to-eight-month testing programme — including static tests, oscillation trials, structural validation incorporating full car-body squeeze tests, and high-speed dynamic trials — before final certification for commercial operations. The successful completion of this testing programme will, in August 2027, see the B28 enter commercial passenger service on the Surat-Vapi section of the MAHSR corridor.",
-      "ur": "پہلا پروٹو ٹائپ مارچ 2027 میں رول آؤٹ کے لیے ہدف بنایا گیا ہے۔ دوسرا پروٹو ٹائپ اسی سال کے بعد آئے گا۔ تجارتی آپریشنز کے لیے حتمی سرٹیفیکیشن سے پہلے دونوں پروٹوٹائپس سات سے آٹھ ماہ کے جامع ٹیسٹنگ پروگرام سے گزریں گے - بشمول جامد ٹیسٹ، دوغلی آزمائش، ساختی توثیق جس میں مکمل کار باڈی سکوز ٹیسٹ شامل ہیں، اور تیز رفتار ڈائنامک ٹرائلز۔ اس ٹیسٹنگ پروگرام کی کامیاب تکمیل، اگست 2027 میں، MAHSR کوریڈور کے سورت-واپی سیکشن پر B28 کمرشل مسافروں کی خدمت میں داخل ہو گی۔"
+      "hi": "व्यय विभाग का FY27 पैकेज भारत सेमीकंडक्टर मिशन (ISM) की काफी बड़ी वास्तुकला के अंतर्गत आता है। दिसंबर 2021 में केंद्रीय मंत्रिमंडल द्वारा अनुमोदित मूल आईएसएम ने ₹76,000 करोड़ का प्रोत्साहन परिव्यय स्थापित किया - सिलिकॉन निर्माण इकाइयों, मिश्रित अर्धचालक सुविधाओं, एटीएमपी/ओएसएटी संयंत्रों और चिप डिजाइन गतिविधियों के लिए 50 प्रतिशत तक वित्तीय सहायता की पेशकश की। दिसंबर 2025 तक, छह भारतीय राज्यों में लगभग ₹1.60 लाख करोड़ के संचयी निवेश वाली दस परियोजनाओं को मंजूरी दे दी गई थी, जिसमें सिलिकॉन फैब्रिकेशन, सिलिकॉन कार्बाइड फैब्स, उन्नत और मेमोरी पैकेजिंग सुविधाएं, और विशेष असेंबली और परीक्षण बुनियादी ढांचे शामिल थे।",
+      "en": "The Department of Expenditure's FY27 package sits within the substantially larger architecture of the India Semiconductor Mission (ISM). The original ISM, approved by the Union Cabinet in December 2021, established an incentive outlay of ₹76,000 crore — offering up to 50 per cent fiscal support for silicon fabrication units, compound semiconductor facilities, ATMP/OSAT plants, and chip design activities. As of December 2025, ten projects with cumulative investments of approximately ₹1.60 lakh crore had been approved across six Indian states, covering silicon fabrication, silicon carbide fabs, advanced and memory packaging facilities, and specialised assembly and testing infrastructure.",
+      "ur": "محکمہ اخراجات کا FY27 پیکیج انڈیا سیمی کنڈکٹر مشن (ISM) کے کافی بڑے فن تعمیر کے اندر بیٹھتا ہے۔ اصل ISM، جسے مرکزی کابینہ نے دسمبر 2021 میں منظور کیا، نے ₹76,000 کروڑ کا ایک ترغیبی تخمینہ قائم کیا — جو سلیکن فیبریکیشن یونٹس، کمپاؤنڈ سیمی کنڈکٹر سہولیات، ATMP/OSAT پلانٹس، اور چپ ڈیزائن کی سرگرمیوں کے لیے 50 فیصد تک مالی معاونت کی پیشکش کرتا ہے۔ دسمبر 2025 تک، چھ ہندوستانی ریاستوں میں تقریباً 1.60 لاکھ کروڑ کی مجموعی سرمایہ کاری کے ساتھ دس پروجیکٹوں کی منظوری دی گئی تھی، جن میں سلیکون فیبریکیشن، سلکان کاربائیڈ فیبس، جدید اور میموری پیکیجنگ کی سہولیات، اور خصوصی اسمبلی اور ٹیسٹنگ انفراسٹرکچر شامل ہیں۔"
     },
     "b10": {
-      "hi": "आदेश का विस्तार",
-      "en": "The order expansion",
-      "ur": "آرڈر کی توسیع"
+      "hi": "फरवरी 2026 में प्रस्तुत केंद्रीय बजट 2026-27 ने अगला चरण - भारत सेमीकंडक्टर मिशन 2.0 लॉन्च किया। नया चरण पारिस्थितिकी तंत्र निर्माण से पारिस्थितिकी तंत्र समेकन, तकनीकी गहराई और वैश्विक एकीकरण की ओर एक रणनीतिक बदलाव का प्रतीक है। आईएसएम 2.0 को वित्त वर्ष 2026-27 के लिए ₹1,000 करोड़ का मूलभूत प्रावधान आवंटित किया गया है, जिसमें उद्योग के नेतृत्व वाले अनुसंधान और प्रशिक्षण केंद्रों, भारत के भीतर सेमीकंडक्टर उपकरण और सामग्रियों के स्वदेशी उत्पादन, पूर्ण-स्टैक भारतीय सेमीकंडक्टर बौद्धिक संपदा विकास और घरेलू और वैश्विक आपूर्ति श्रृंखलाओं की मजबूती पर जोर दिया गया है।",
+      "en": "The Union Budget 2026-27, presented in February 2026, launched the next phase — India Semiconductor Mission 2.0. The new phase marks a strategic shift from ecosystem creation to ecosystem consolidation, technological depth, and global integration. ISM 2.0 has been allocated a foundational provision of ₹1,000 crore for FY 2026-27, with a strong emphasis on industry-led research and training centres, indigenous production of semiconductor equipment and materials within India, full-stack Indian semiconductor intellectual property development, and the fortification of domestic and global supply chains.",
+      "ur": "مرکزی بجٹ 2026-27، جو فروری 2026 میں پیش کیا گیا، نے اگلا مرحلہ شروع کیا — انڈیا سیمی کنڈکٹر مشن 2.0۔ نیا مرحلہ ماحولیاتی نظام کی تخلیق سے ایکو سسٹم کے استحکام، تکنیکی گہرائی اور عالمی انضمام کی طرف ایک اسٹریٹجک تبدیلی کی نشاندہی کرتا ہے۔ ISM 2.0 کو مالی سال 2026-27 کے لیے ₹ 1,000 کروڑ کی بنیادی فراہمی مختص کی گئی ہے، جس میں صنعت کی قیادت میں تحقیق اور تربیتی مراکز، ہندوستان کے اندر سیمی کنڈکٹر آلات اور مواد کی مقامی پیداوار، مکمل اسٹیک ہندوستانی سیمی کنڈکٹر دانشورانہ املاک کی ترقی، اور گھریلو اور عالمی سپلائی کی مضبوطی پر زور دیا گیا ہے۔"
     },
     "b11": {
-      "hi": "बी28 कार्यक्रम में विश्वास के पर्याप्त संकेत में, रेल मंत्रालय सोलह और ट्रेनसेटों के लिए एक अतिरिक्त ऑर्डर पर आगे बढ़ रहा है - कुल संभावित बी28 बेड़े को अठारह ट्रेनसेट तक ले जा रहा है। 20 मार्च 2026 की मनीकंट्रोल रिपोर्ट ने संकेत दिया कि बीईएमएल-मेधा सर्वो ड्राइव्स कंसोर्टियम को यह ऑर्डर मिलने की संभावना है, जो परीक्षण और परिचालन प्रतिक्रिया के आधार पर शामिल मामूली संवर्द्धन के साथ पहले दो प्रोटोटाइप के समान मूल बी 28 डिजाइन का पालन करेगा।",
-      "en": "In a substantial signal of confidence in the B28 programme, the Ministry of Railways is moving forward on an additional order for sixteen more trainsets — taking the total potential B28 fleet to eighteen trainsets. The Moneycontrol report of 20 March 2026 indicated that the BEML-Medha Servo Drives consortium was likely to receive this order, which would follow the same basic B28 design as the first two prototypes with minor enhancements incorporated based on testing and operational feedback.",
-      "ur": "B28 پروگرام میں اعتماد کے ایک اہم اشارے میں، وزارت ریلوے سولہ مزید ٹرین سیٹوں کے لیے ایک اضافی آرڈر پر آگے بڑھ رہی ہے - جس سے B28 کے کل ممکنہ بیڑے کو اٹھارہ ٹرین سیٹوں تک لے جایا جائے گا۔ 20 مارچ 2026 کی منی کنٹرول رپورٹ نے اشارہ کیا کہ BEML-Medha Servo Drives کنسورشیم کو یہ آرڈر ملنے کا امکان ہے، جو ٹیسٹنگ اور آپریشنل فیڈ بیک کی بنیاد پر شامل کیے گئے معمولی اضافہ کے ساتھ پہلے دو پروٹو ٹائپس کے طور پر اسی بنیادی B28 ڈیزائن کی پیروی کرے گا۔"
+      "hi": "भारत में सेमीकंडक्टर और डिस्प्ले मैन्युफैक्चरिंग इकोसिस्टम के विकास के लिए संशोधित कार्यक्रम - आईएसएम 2.0 के समानांतर चल रहा है - 2026-27 के लिए कुल वित्तीय परिव्यय ₹8,000 करोड़ है, जो पूंजी निवेश, रोजगार सृजन और निर्माण, पैकेजिंग और चिप डिजाइन में क्षमता विस्तार में तेजी लाएगा। इलेक्ट्रॉनिक्स घटक विनिर्माण योजना (ईसीएमएस) - जो सेमीकंडक्टर विनिर्माण का समर्थन करने वाले अपस्ट्रीम इलेक्ट्रॉनिक घटक पारिस्थितिकी तंत्र को संबोधित करती है - का बजट परिव्यय केंद्रीय बजट 2026-27 में बढ़कर ₹40,000 करोड़ हो गया है। साथ में, ये कार्यक्रम किसी भी देश के सेमीकंडक्टर इतिहास में सबसे बड़ी एकीकृत औद्योगिक-रणनीति प्रतिबद्धताओं में से एक हैं।",
+      "en": "The Modified Programme for Development of Semiconductor and Display Manufacturing Ecosystem in India — operating in parallel with ISM 2.0 — has a total financial outlay of ₹8,000 crore for 2026-27, accelerating capital investment, employment generation, and capability expansion across fabrication, packaging, and chip design. The Electronics Components Manufacturing Scheme (ECMS) — which addresses the upstream electronic components ecosystem that supports semiconductor manufacturing — has had its budget outlay increased to ₹40,000 crore in the Union Budget 2026-27. Together, these programmes constitute one of the largest integrated industrial-strategy commitments in any nation's semiconductor history.",
+      "ur": "ہندوستان میں سیمی کنڈکٹر اور ڈسپلے مینوفیکچرنگ ایکو سسٹم کی ترقی کے لیے ترمیم شدہ پروگرام - ISM 2.0 کے متوازی طور پر کام کر رہا ہے - 2026-27 کے لیے کل 8,000 کروڑ کا مالیاتی خرچہ ہے، جس میں سرمایہ کاری کو تیز کرنا، روزگار پیدا کرنا، اور فیبریکیشن، پیکیجنگ اور پیکجنگ، میں صلاحیت کی توسیع ہے۔ الیکٹرانکس اجزاء مینوفیکچرنگ اسکیم (ECMS) - جو سیمی کنڈکٹر مینوفیکچرنگ کو سپورٹ کرنے والے اپ اسٹریم الیکٹرانک اجزاء ایکو سسٹم کو ایڈریس کرتی ہے - نے مرکزی بجٹ 2026-27 میں اس کے بجٹ کا تخمینہ بڑھا کر ₹40,000 کروڑ کردیا ہے۔ ایک ساتھ، یہ پروگرام کسی بھی ملک کی سیمی کنڈکٹر تاریخ میں سب سے بڑے مربوط صنعتی حکمت عملی کے وعدوں میں سے ایک ہیں۔"
     },
     "b12": {
-      "hi": "आदेश का विस्तार कई मायनों में परिणामी है। सबसे पहले, यह बीईएमएल और उसके भारतीय आपूर्ति-श्रृंखला भागीदारों को निरंतर उत्पादन मात्रा प्रदान करता है - जो विनिर्माण कार्यक्रम की पर्याप्त निश्चित लागतों को कम करने और प्रति-यूनिट लागत को अंतरराष्ट्रीय स्तर पर प्रतिस्पर्धी स्तरों पर लाने के लिए आवश्यक है। दूसरा, यह वैश्विक रेल-आपूर्ति पारिस्थितिकी तंत्र को संकेत देता है कि भारत स्वदेशी हाई-स्पीड-रेल क्षमता के बारे में गंभीर है और एकमुश्त खरीद के बजाय भारतीय निर्मित ट्रेनसेट का निरंतर खरीदार होगा जो आयात पर वापस आ सकता है। तीसरा, यह भविष्य के निर्यात-उन्मुख उत्पादन के लिए संस्थागत आधार तैयार करता है - एक अवसर जिसका देश मध्यम अवधि में फायदा उठाने के लिए खुद को तैयार कर रहा है।",
-      "en": "The expansion of the order is consequential in several respects. First, it provides BEML and its Indian supply-chain partners with sustained production volume — essential to amortising the substantial fixed costs of the manufacturing programme and bringing per-unit costs down to internationally competitive levels. Second, it signals to the global rail-supply ecosystem that India is serious about indigenous high-speed-rail capability and will be a sustained buyer of Indian-built trainsets, rather than a one-off procurement that could revert to imports. Third, it creates the institutional basis for future export-oriented production — an opportunity that the country is positioning itself to exploit over the medium term.",
-      "ur": "آرڈر کی توسیع کئی حوالوں سے نتیجہ خیز ہے۔ سب سے پہلے، یہ BEML اور اس کے ہندوستانی سپلائی چین کے شراکت داروں کو مسلسل پیداواری حجم فراہم کرتا ہے - جو مینوفیکچرنگ پروگرام کے کافی مقررہ اخراجات کو کم کرنے اور فی یونٹ لاگت کو بین الاقوامی سطح پر مسابقتی سطح تک لانے کے لیے ضروری ہے۔ دوسرا، یہ عالمی ریل سپلائی ماحولیاتی نظام کی طرف اشارہ کرتا ہے کہ ہندوستان مقامی ہائی اسپیڈ ریل کی صلاحیت کے بارے میں سنجیدہ ہے اور ہندوستانی ساختہ ٹرین سیٹوں کا مستقل خریدار ہوگا، بجائے اس کے کہ درآمدات پر واپس آسکتا ہے۔ تیسرا، یہ مستقبل کی برآمدات پر مبنی پیداوار کے لیے ادارہ جاتی بنیاد بناتا ہے - ایک ایسا موقع جس سے ملک درمیانی مدت میں فائدہ اٹھانے کے لیے خود کو پوزیشن میں لے رہا ہے۔"
+      "hi": "भारत आज कहां खड़ा है: दस स्वीकृत परियोजनाएं",
+      "en": "Where India stands today: the ten approved projects",
+      "ur": "آج ہندوستان کہاں کھڑا ہے: منظور شدہ دس منصوبے"
     },
     "b13": {
-      "hi": "मुंबई-अहमदाबाद हाई-स्पीड रेल कॉरिडोर",
-      "en": "The Mumbai-Ahmedabad High-Speed Rail Corridor",
-      "ur": "ممبئی-احمد آباد ہائی اسپیڈ ریل کوریڈور"
+      "hi": "FY27 पैकेज जिस पारिस्थितिकी तंत्र को और गति देगा, उसके पास पहले से ही जमीन पर पर्याप्त भौतिक बुनियादी ढांचा मौजूद है। आईएसएम 1.0 के तहत स्वीकृत दस परियोजनाएं छह भारतीय राज्यों में फैली हुई हैं और सेमीकंडक्टर विनिर्माण की पूरी चौड़ाई को कवर करती हैं।",
+      "en": "The ecosystem that the FY27 package will further accelerate already has substantial physical infrastructure on the ground. The ten approved projects under ISM 1.0 span six Indian states and cover the full breadth of semiconductor manufacturing.",
+      "ur": "FY27 پیکج جس ماحولیاتی نظام کو مزید تیز کرے گا اس میں پہلے سے ہی زمین پر کافی فزیکل انفراسٹرکچر موجود ہے۔ ISM 1.0 کے تحت منظور شدہ دس پروجیکٹ چھ ہندوستانی ریاستوں پر محیط ہیں اور سیمی کنڈکٹر مینوفیکچرنگ کی پوری وسعت کا احاطہ کرتے ہیں۔"
     },
     "b14": {
-      "hi": "वह गलियारा जो बी28 - मुंबई-अहमदाबाद हाई-स्पीड रेल कॉरिडोर (एमएएचएसआर) की मेजबानी करेगा - भारत के हाल के इतिहास में सबसे महत्वाकांक्षी सिविल-इंजीनियरिंग परियोजनाओं में से एक है। 508 किलोमीटर लंबी लाइन तीन क्षेत्रों से होकर गुजरती है: महाराष्ट्र राज्य, गुजरात राज्य और केंद्र शासित प्रदेश दादरा और नगर हवेली। गलियारे के साथ बारह स्टेशनों की योजना बनाई गई है, जिसमें मुंबई में बांद्रा कुर्ला कॉम्प्लेक्स (बीकेसी) में भूमिगत टर्मिनस भी शामिल है; ठाणे; विरार; बोईसर; वापी; बिलिमोरा; सूरत; भरूच; वडोदरा; आनंद; अहमदाबाद; और साबरमती - साबरमती पूरे गलियारे के लिए एक यात्री स्टेशन और संचालन नियंत्रण केंद्र दोनों के रूप में कार्य करता है।",
-      "en": "The corridor that will host the B28 — the Mumbai-Ahmedabad High-Speed Rail Corridor (MAHSR) — is one of the most ambitious civil-engineering projects in India's recent history. The 508-kilometre line traverses three jurisdictions: the State of Maharashtra, the State of Gujarat, and the Union Territory of Dadra and Nagar Haveli. Twelve stations are planned along the corridor, including the underground terminus at Bandra Kurla Complex (BKC) in Mumbai; Thane; Virar; Boisar; Vapi; Bilimora; Surat; Bharuch; Vadodara; Anand; Ahmedabad; and Sabarmati — the latter functioning as both a passenger station and the Operations Control Centre for the entire corridor.",
-      "ur": "وہ کوریڈور جو B28 کی میزبانی کرے گا — ممبئی-احمد آباد ہائی اسپیڈ ریل کوریڈور (MAHSR) — ہندوستان کی حالیہ تاریخ میں سول انجینئرنگ کے سب سے زیادہ پرجوش منصوبوں میں سے ایک ہے۔ 508 کلومیٹر کی لائن تین دائرہ اختیار سے گزرتی ہے: ریاست مہاراشٹر، ریاست گجرات، اور مرکز کے زیر انتظام علاقہ دادرا اور نگر حویلی۔ راہداری کے ساتھ ساتھ بارہ اسٹیشنوں کی منصوبہ بندی کی گئی ہے، بشمول ممبئی میں باندرہ کرلا کمپلیکس (BKC) میں زیر زمین ٹرمینس؛ تھانے; ویرار؛ بوئسر; واپی; بلیمورہ؛ سورت؛ بھروچ; وڈودرا؛ آنند; احمد آباد؛ اور سابرمتی - مؤخر الذکر ایک مسافر اسٹیشن اور پورے کوریڈور کے لیے آپریشنز کنٹرول سینٹر دونوں کے طور پر کام کر رہا ہے۔"
-    },
-    "b15": {
-      "hi": "कार्यान्वयन एजेंसी नेशनल हाई स्पीड रेल कॉरपोरेशन लिमिटेड (एनएचएसआरसीएल) है - एक विशेष प्रयोजन वाहन जिसे विशेष रूप से भारत में हाई-स्पीड-रेल कॉरिडोर के वित्तपोषण, निर्माण, रखरखाव और प्रबंधन के लिए 12 फरवरी 2016 को शामिल किया गया था। परियोजना के लिए वित्त पोषण जापान द्वारा विस्तारित नरम ऋण से आता है - ₹88,087 करोड़ (लगभग यूएस $12 बिलियन) 0.1 प्रतिशत की ब्याज दर पर, पचास साल की पुनर्भुगतान अवधि के साथ और लाइन के चालू होने के पंद्रह साल बाद पुनर्भुगतान शुरू होने वाला है। जापानी वित्तीय और तकनीकी साझेदारी - जापान अंतर्राष्ट्रीय सहयोग एजेंसी (जेआईसीए) द्वारा संचालित और व्यापक जापानी इंजीनियरिंग विशेषज्ञता द्वारा समर्थित - विश्व स्तर पर किसी भी दो देशों के बीच सबसे बड़ी और सबसे परिणामी द्विपक्षीय बुनियादी ढांचा सहयोग व्यवस्थाओं में से एक का प्रतिनिधित्व करती है।",
-      "en": "The implementing agency is the National High Speed Rail Corporation Limited (NHSRCL) — a special-purpose vehicle incorporated on 12 February 2016 specifically to finance, construct, maintain and manage high-speed-rail corridors in India. Funding for the project comes from a soft loan extended by Japan — ₹88,087 crore (approximately US$12 billion) at an interest rate of 0.1 per cent, with a fifty-year repayment tenure and repayments scheduled to commence fifteen years after the line becomes operational. The Japanese financial and technical partnership — anchored by the Japan International Cooperation Agency (JICA) and supported by extensive Japanese engineering expertise — represents one of the largest and most consequential bilateral infrastructure cooperation arrangements between any two countries globally.",
-      "ur": "عمل درآمد کرنے والی ایجنسی نیشنل ہائی اسپیڈ ریل کارپوریشن لمیٹڈ (NHSRCL) ہے - ایک خاص مقصد والی گاڑی جو 12 فروری 2016 کو خاص طور پر ہندوستان میں ہائی اسپیڈ ریل کوریڈورز کی مالی اعانت، تعمیر، دیکھ بھال اور انتظام کے لیے شامل کی گئی تھی۔ اس منصوبے کے لیے فنڈنگ ​​جاپان کی طرف سے دیے گئے نرم قرض سے حاصل ہوتی ہے — ₹ 88,087 کروڑ (تقریباً US$12 بلین) 0.1 فیصد کی شرح سود پر، ادائیگی کی پچاس سالہ مدت کے ساتھ اور ادائیگیاں لائن کے فعال ہونے کے پندرہ سال بعد شروع ہونے والی ہیں۔ جاپانی مالیاتی اور تکنیکی شراکت - جاپان انٹرنیشنل کوآپریشن ایجنسی (JICA) کی طرف سے لنگر انداز اور وسیع جاپانی انجینئرنگ کی مہارت سے تعاون یافتہ - عالمی سطح پر کسی بھی دو ممالک کے درمیان سب سے بڑے اور نتیجہ خیز دو طرفہ بنیادی ڈھانچے کے تعاون کے انتظامات میں سے ایک کی نمائندگی کرتا ہے۔"
-    },
-    "b16": {
-      "hi": "गलियारे की डिज़ाइन विशिष्टताएँ अंतरराष्ट्रीय हाई-स्पीड-रेल मानकों से मेल खाती हैं। अधिकतम डिज़ाइन गति: 350 किलोमीटर प्रति घंटा। परिचालन गति: 320 किलोमीटर प्रति घंटा। एक बार पूरी तरह से चालू होने पर, गलियारा सत्तर दैनिक सेवाओं का समर्थन करेगा - प्रत्येक दिशा में पैंतीस - पीक घंटों के दौरान लगभग बीस मिनट की आवृत्ति और ऑफ-पीक घंटों के दौरान तीस मिनट की आवृत्ति के साथ। केवल सूरत और वडोदरा में रुकने वाली एक्सप्रेस सेवा मुंबई-अहमदाबाद की यात्रा दो घंटे सात मिनट में पूरी करेगी। ऑल-स्टॉप सेवा में दो घंटे अट्ठाईस मिनट लगेंगे। दोनों शहरों के बीच वर्तमान ट्रेन यात्रा में लगभग सात से नौ घंटे लगते हैं - जिसका अर्थ है कि बुलेट ट्रेन पश्चिमी भारत में इंटरसिटी गतिशीलता को सबसे बुनियादी तरीके से बदल देगी।",
-      "en": "The corridor's design specifications match international high-speed-rail standards. Maximum design speed: 350 kilometres per hour. Operational speed: 320 kilometres per hour. Once fully operational, the corridor will support seventy daily services — thirty-five in each direction — with a frequency of approximately twenty minutes during peak hours and thirty minutes during off-peak hours. The express service, stopping only at Surat and Vadodara, will complete the Mumbai-Ahmedabad journey in two hours and seven minutes. The all-stops service will take two hours and fifty-eight minutes. The current train journey between the two cities takes approximately seven to nine hours — meaning that the bullet train will transform intercity mobility in western India in the most fundamental way.",
-      "ur": "کوریڈور کے ڈیزائن کی وضاحتیں بین الاقوامی ہائی سپیڈ ریل معیارات سے ملتی ہیں۔ زیادہ سے زیادہ ڈیزائن کی رفتار: 350 کلومیٹر فی گھنٹہ۔ آپریشنل رفتار: 320 کلومیٹر فی گھنٹہ۔ ایک بار مکمل طور پر کام کرنے کے بعد، کوریڈور روزانہ ستر خدمات کو سپورٹ کرے گا - ہر سمت میں پینتیس - چوٹی کے اوقات میں تقریباً بیس منٹ اور آف پیک اوقات میں تیس منٹ کی فریکوئنسی کے ساتھ۔ ایکسپریس سروس، صرف سورت اور وڈودرا میں رکتی ہے، ممبئی-احمد آباد کا سفر دو گھنٹے اور سات منٹ میں مکمل کرے گی۔ آل اسٹاپ سروس میں دو گھنٹے اور اٹھاون منٹ لگیں گے۔ دونوں شہروں کے درمیان ٹرین کے موجودہ سفر میں تقریباً سات سے نو گھنٹے لگتے ہیں - یعنی بلٹ ٹرین مغربی ہندوستان میں انٹرسٹی موبلیٹی کو سب سے بنیادی طریقے سے بدل دے گی۔"
-    },
-    "b17.title": {
-      "hi": "बी28 और एमएएचएसआर कॉरिडोर एक नज़र में",
-      "en": "The B28 and the MAHSR Corridor at a Glance",
-      "ur": "B28 اور MAHSR کوریڈور ایک نظر میں"
-    },
-    "b17.itemlbl.0": {
-      "hi": "ट्रेनसेट पदनाम",
-      "en": "Trainset designation",
-      "ur": "ٹرین سیٹ کا عہدہ"
-    },
-    "b17.itemval.0": {
-      "hi": "बी28 (\"वंदे बुलेट\")",
-      "en": "B28 (\"Vande Bullet\")",
-      "ur": "B28 (\"واندے گولی\")"
-    },
-    "b17.itemlbl.1": {
-      "hi": "डिजाइनर",
-      "en": "Designer",
-      "ur": "ڈیزائنر"
-    },
-    "b17.itemval.1": {
-      "hi": "इंटीग्रल कोच फैक्ट्री (आईसीएफ), चेन्नई",
-      "en": "Integral Coach Factory (ICF), Chennai",
-      "ur": "انٹیگرل کوچ فیکٹری (ICF)، چنئی"
-    },
-    "b17.itemlbl.2": {
-      "hi": "उत्पादक",
-      "en": "Manufacturer",
-      "ur": "کارخانہ دار"
-    },
-    "b17.itemval.2": {
-      "hi": "भारत अर्थ मूवर्स लिमिटेड (बीईएमएल), बेंगलुरु",
-      "en": "Bharat Earth Movers Limited (BEML), Bengaluru",
-      "ur": "بھارت ارتھ موورز لمیٹڈ (BEML)، بنگلورو"
-    },
-    "b17.itemlbl.3": {
-      "hi": "प्रारंभिक अनुबंध (अक्टूबर 2024)",
-      "en": "Initial contract (October 2024)",
-      "ur": "ابتدائی معاہدہ (اکتوبر 2024)"
-    },
-    "b17.itemval.3": {
-      "hi": "दो 8-कार प्रोटोटाइप के लिए ₹866.87 करोड़",
-      "en": "₹866.87 crore for two 8-car prototypes",
-      "ur": "دو 8 کاروں کے پروٹوٹائپس کے لیے 866.87 کروڑ"
-    },
-    "b17.itemlbl.4": {
-      "hi": "परिचालन गति",
-      "en": "Operational speed",
-      "ur": "آپریشنل رفتار"
-    },
-    "b17.itemval.4": {
-      "hi": "250 किमी/घंटा",
-      "en": "250 km/h",
-      "ur": "250 کلومیٹر فی گھنٹہ"
-    },
-    "b17.itemlbl.5": {
-      "hi": "अधिकतम डिज़ाइन गति",
-      "en": "Maximum design speed",
-      "ur": "زیادہ سے زیادہ ڈیزائن کی رفتار"
-    },
-    "b17.itemval.5": {
-      "hi": "280 किमी/घंटा",
-      "en": "280 km/h",
-      "ur": "280 کلومیٹر فی گھنٹہ"
-    },
-    "b17.itemlbl.6": {
-      "hi": "भविष्य में उन्नयन की संभावना",
-      "en": "Future upgrade potential",
-      "ur": "مستقبل میں اپ گریڈ کی صلاحیت"
-    },
-    "b17.itemval.6": {
-      "hi": "320-350 किमी/घंटा",
-      "en": "320-350 km/h",
-      "ur": "320-350 کلومیٹر فی گھنٹہ"
-    },
-    "b17.itemlbl.7": {
-      "hi": "प्रति ट्रेनसेट कोच",
-      "en": "Coaches per trainset",
-      "ur": "کوچز فی ٹرین سیٹ"
-    },
-    "b17.itemval.7": {
-      "hi": "8 (कुर्सी कार + एक्जीक्यूटिव क्लास)",
-      "en": "8 (chair car + executive class)",
-      "ur": "8 (کرسی کار + ایگزیکٹو کلاس)"
-    },
-    "b17.itemlbl.8": {
-      "hi": "दैनिक चलाने की क्षमता",
-      "en": "Daily run capability",
-      "ur": "روزانہ چلانے کی صلاحیت"
-    },
-    "b17.itemval.8": {
-      "hi": "लगभग 2,000 कि.मी",
-      "en": "Approximately 2,000 km",
-      "ur": "تقریباً 2000 کلومیٹر"
-    },
-    "b17.itemlbl.9": {
-      "hi": "परिचालन की स्थिति",
-      "en": "Operating conditions",
-      "ur": "آپریٹنگ حالات"
-    },
-    "b17.itemval.9": {
-      "hi": "माइनस 10°C से प्लस 55°C, उच्च आर्द्रता, धूल, संक्षारक वातावरण",
-      "en": "Minus 10°C to plus 55°C, high humidity, dust, corrosive environments",
-      "ur": "مائنس 10 ° C سے جمع 55 ° C، زیادہ نمی، دھول، سنکنار ماحول"
-    },
-    "b17.itemlbl.10": {
-      "hi": "सिग्नलिंग",
-      "en": "Signalling",
-      "ur": "سگنلنگ"
-    },
-    "b17.itemval.10": {
-      "hi": "ईटीसीएस लेवल-2 संगत",
-      "en": "ETCS Level-2 compatible",
-      "ur": "ETCS لیول-2 ہم آہنگ"
-    },
-    "b17.itemlbl.11": {
-      "hi": "अग्नि अनुपालन",
-      "en": "Fire compliance",
-      "ur": "آگ کی تعمیل"
-    },
-    "b17.itemval.11": {
-      "hi": "एन 45545",
-      "en": "EN 45545",
-      "ur": "EN 45545"
-    },
-    "b17.itemlbl.12": {
-      "hi": "उपकरण भागीदार (ब्रेकिंग, एसी, सेनेटरी)",
-      "en": "Equipment partner (braking, AC, sanitary)",
-      "ur": "سامان کا ساتھی (بریک لگانا، اے سی، سینیٹری)"
-    },
-    "b17.itemval.12": {
-      "hi": "नॉर-ब्रेमसे (जर्मनी)",
-      "en": "Knorr-Bremse (Germany)",
-      "ur": "Knorr-Bremse (جرمنی)"
-    },
-    "b17.itemlbl.13": {
-      "hi": "पहला प्रोटोटाइप रोलआउट",
-      "en": "First prototype rollout",
-      "ur": "پہلا پروٹو ٹائپ رول آؤٹ"
-    },
-    "b17.itemval.13": {
-      "hi": "मार्च 2027",
-      "en": "March 2027",
-      "ur": "مارچ 2027"
-    },
-    "b17.itemlbl.14": {
-      "hi": "परीक्षण अवधि",
-      "en": "Testing period",
-      "ur": "جانچ کی مدت"
-    },
-    "b17.itemval.14": {
-      "hi": "7-8 महीने (स्थैतिक, दोलन, संरचनात्मक, उच्च गति परीक्षण)",
-      "en": "7-8 months (static, oscillation, structural, high-speed trials)",
-      "ur": "7-8 ماہ (جامد، دولن، ساختی، تیز رفتار ٹرائلز)"
-    },
-    "b17.itemlbl.15": {
-      "hi": "व्यावसायिक शुरुआत",
-      "en": "Commercial debut",
-      "ur": "کمرشل ڈیبیو"
-    },
-    "b17.itemval.15": {
-      "hi": "अगस्त 2027",
-      "en": "August 2027",
-      "ur": "اگست 2027"
-    },
-    "b17.itemlbl.16": {
-      "hi": "प्रारंभिक वाणिज्यिक मार्ग",
-      "en": "Initial commercial route",
-      "ur": "ابتدائی تجارتی راستہ"
-    },
-    "b17.itemval.16": {
-      "hi": "सूरत-वापी (97 किमी)",
-      "en": "Surat-Vapi (97 km)",
-      "ur": "سورت-واپی (97 کلومیٹر)"
-    },
-    "b17.itemlbl.17": {
-      "hi": "अतिरिक्त आदेश को अंतिम रूप दिया जा रहा है",
-      "en": "Additional order under finalisation",
-      "ur": "حتمی شکل کے تحت اضافی آرڈر"
-    },
-    "b17.itemval.17": {
-      "hi": "16 ट्रेनसेट (बीईएमएल-मेधा सर्वो ड्राइव्स कंसोर्टियम)",
-      "en": "16 trainsets (BEML-Medha Servo Drives consortium)",
-      "ur": "16 ٹرین سیٹ (BEML-Medha Servo Drives کنسورشیم)"
-    },
-    "b17.itemlbl.18": {
-      "hi": "कुल नियोजित B28 बेड़ा",
-      "en": "Total planned B28 fleet",
-      "ur": "کل منصوبہ بند B28 فلیٹ"
-    },
-    "b17.itemval.18": {
-      "hi": "18 ट्रेनसेट",
-      "en": "18 trainsets",
-      "ur": "18 ٹرین سیٹ"
-    },
-    "b17.itemlbl.19": {
-      "hi": "एमएएचएसआर कॉरिडोर की कुल लंबाई",
-      "en": "MAHSR corridor total length",
-      "ur": "MAHSR کوریڈور کی کل لمبائی"
-    },
-    "b17.itemval.19": {
-      "hi": "508 कि.मी",
-      "en": "508 km",
-      "ur": "508 کلومیٹر"
-    },
-    "b17.itemlbl.20": {
-      "hi": "एमएएचएसआर स्टेशन",
-      "en": "MAHSR stations",
-      "ur": "MAHSR اسٹیشنز"
-    },
-    "b17.itemval.20": {
-      "hi": "12",
-      "en": "12",
-      "ur": "12"
-    },
-    "b17.itemlbl.21": {
-      "hi": "एमएएचएसआर क्षेत्राधिकार",
-      "en": "MAHSR jurisdictions",
-      "ur": "MAHSR کے دائرہ اختیار"
-    },
-    "b17.itemval.21": {
-      "hi": "महाराष्ट्र, गुजरात, दादरा और नगर हवेली (यूटी)",
-      "en": "Maharashtra, Gujarat, Dadra and Nagar Haveli (UT)",
-      "ur": "مہاراشٹر، گجرات، دادرا اور نگر حویلی (UT)"
-    },
-    "b17.itemlbl.22": {
-      "hi": "एमएएचएसआर कार्यान्वयन एजेंसी",
-      "en": "MAHSR implementing agency",
-      "ur": "MAHSR نافذ کرنے والی ایجنسی"
-    },
-    "b17.itemval.22": {
-      "hi": "नेशनल हाई स्पीड रेल कॉर्पोरेशन लिमिटेड (एनएचएसआरसीएल, निगमित 12 फरवरी 2016)",
-      "en": "National High Speed Rail Corporation Limited (NHSRCL, incorporated 12 February 2016)",
-      "ur": "نیشنل ہائی سپیڈ ریل کارپوریشن لمیٹڈ (NHSRCL، 12 فروری 2016 کو شامل)"
-    },
-    "b17.itemlbl.23": {
-      "hi": "वित्त पोषण स्रोत",
-      "en": "Funding source",
-      "ur": "فنڈنگ ​​کا ذریعہ"
-    },
-    "b17.itemval.23": {
-      "hi": "जापान (JICA) आसान ऋण: 50 वर्षों में 0.1% ब्याज पर ₹88,087 करोड़",
-      "en": "Japan (JICA) soft loan: ₹88,087 crore at 0.1% interest over 50 years",
-      "ur": "جاپان (JICA) نرم قرض: 50 سالوں میں 0.1% سود پر ₹88,087 کروڑ"
-    },
-    "b17.itemlbl.24": {
-      "hi": "MAHSR अधिकतम डिजाइन गति",
-      "en": "MAHSR maximum design speed",
-      "ur": "MAHSR زیادہ سے زیادہ ڈیزائن کی رفتار"
-    },
-    "b17.itemval.24": {
-      "hi": "350 किमी/घंटा",
-      "en": "350 km/h",
-      "ur": "350 کلومیٹر فی گھنٹہ"
-    },
-    "b17.itemlbl.25": {
-      "hi": "एमएएचएसआर परिचालन गति",
-      "en": "MAHSR operational speed",
-      "ur": "MAHSR آپریشنل رفتار"
-    },
-    "b17.itemval.25": {
-      "hi": "320 किमी/घंटा",
-      "en": "320 km/h",
-      "ur": "320 کلومیٹر فی گھنٹہ"
-    },
-    "b17.itemlbl.26": {
-      "hi": "एक्सप्रेस सेवा समय (मुंबई-अहमदाबाद)",
-      "en": "Express service time (Mumbai-Ahmedabad)",
-      "ur": "ایکسپریس سروس کا وقت (ممبئی-احمد آباد)"
-    },
-    "b17.itemval.26": {
-      "hi": "2 घंटे 7 मिनट",
-      "en": "2 hours 7 minutes",
-      "ur": "2 گھنٹے 7 منٹ"
-    },
-    "b17.itemlbl.27": {
-      "hi": "ऑल-स्टॉप सेवा समय",
-      "en": "All-stops service time",
-      "ur": "سب اسٹاپس سروس کا وقت"
-    },
-    "b17.itemval.27": {
-      "hi": "2 घंटे 58 मिनट",
-      "en": "2 hours 58 minutes",
-      "ur": "2 گھنٹے 58 منٹ"
-    },
-    "b17.itemlbl.28": {
-      "hi": "वर्तमान ट्रेन यात्रा का समय",
-      "en": "Current train journey time",
-      "ur": "موجودہ ٹرین کے سفر کا وقت"
-    },
-    "b17.itemval.28": {
-      "hi": "लगभग 9 घंटे",
-      "en": "Approximately 9 hours",
-      "ur": "تقریباً 9 گھنٹے"
-    },
-    "b17.itemlbl.29": {
-      "hi": "निर्माण प्रगति (जनवरी 2026)",
-      "en": "Construction progress (January 2026)",
-      "ur": "تعمیراتی پیشرفت (جنوری 2026)"
-    },
-    "b17.itemval.29": {
-      "hi": "334 किमी वायाडक्ट, 415 किमी घाट कार्य, 292 ट्रैक किमी बेड, 4,800 ओएचई मस्तूल",
-      "en": "334 km viaduct, 415 km pier work, 292 track km bed, 4,800 OHE masts",
-      "ur": "334 کلومیٹر وایاڈکٹ، 415 کلومیٹر پیئر ورک، 292 ٹریک کلومیٹر بیڈ، 4,800 OHE ماسٹ"
-    },
-    "b17.itemlbl.30": {
-      "hi": "पूर्ण गलियारा पूरा करने का लक्ष्य",
-      "en": "Full corridor completion target",
-      "ur": "مکمل کوریڈور کی تکمیل کا ہدف"
-    },
-    "b17.itemval.30": {
-      "hi": "2029",
-      "en": "2029",
-      "ur": "2029"
-    },
-    "b17.itemlbl.31": {
-      "hi": "नए एचएसआर गलियारे प्रस्तावित (केंद्रीय बजट 2026-27)",
-      "en": "New HSR corridors proposed (Union Budget 2026-27)",
-      "ur": "نئے HSR راہداریوں کی تجویز (مرکزی بجٹ 2026-27)"
-    },
-    "b17.itemval.31": {
-      "hi": "7",
-      "en": "7",
-      "ur": "7"
-    },
-    "b18.q": {
-      "hi": "\"बीईएमएल द्वारा निर्मित बी28 ट्रेनसेट, अगस्त 2027 में सूरत-वापी खंड पर वाणिज्यिक परिचालन शुरू करेगा, जिसकी परिचालन गति 250 किमी/घंटा और डिजाइन गति 280 किमी/घंटा है, भविष्य में 320-350 किमी/घंटा तक अपग्रेड संभव है। यह परियोजना भारत में हाई-स्पीड रेल प्रौद्योगिकी के स्वदेशीकरण की दिशा में महत्वपूर्ण प्रगति का प्रतीक है।\"",
-      "en": "\"The B28 trainsets, manufactured by BEML, will commence commercial operations on the Surat-Vapi section in August 2027, with an operational speed of 250 km/h and a design speed of 280 km/h, with future upgrades to 320-350 km/h possible. The project marks substantive progress towards indigenisation of high-speed rail technology in India.\"",
-      "ur": "\"BEML کی طرف سے تیار کردہ B28 ٹرین سیٹ، اگست 2027 میں سورت-واپی سیکشن پر کمرشل آپریشن شروع کریں گے، جس کی آپریشنل رفتار 250 کلومیٹر فی گھنٹہ اور ڈیزائن کی رفتار 280 کلومیٹر فی گھنٹہ ہے، جس میں مستقبل میں 320-350 کلومیٹر فی گھنٹہ تک اپ گریڈ کیا جا سکتا ہے۔ یہ پروجیکٹ بھارت کی تیز رفتار ٹیکنالوجی میں نمایاں پیش رفت کی نشاندہی کرتا ہے۔\""
-    },
-    "b18.c": {
-      "hi": "- रेल मंत्रालय ने रेलवे पर संसदीय स्थायी समिति को अनुदान मांगों की रिपोर्ट (2026-27) सौंपी, जो मार्च 2026 में पेश की गई",
-      "en": "— Ministry of Railways submission to the Parliamentary Standing Committee on Railways, Demands for Grants Report (2026-27), tabled March 2026",
-      "ur": "- ریلوے کی وزارت نے پارلیمانی قائمہ کمیٹی برائے ریلوے کو پیش کیا، گرانٹس کی رپورٹ (2026-27) کے مطالبات، مارچ 2026 کو پیش کی گئی"
+      "hi": "धोलेरा, गुजरात में टाटा इलेक्ट्रॉनिक्स फैब - ₹91,000 करोड़ का सबसे बड़ा एकल निवेश (आईएसएम 1.0 के तहत कुल प्रतिबद्ध निवेश का 55 प्रतिशत) - 2028 में पूरा करने का लक्ष्य है और यह भारत की पहली प्रमुख सिलिकॉन निर्माण सुविधा होगी। साणंद, गुजरात में माइक्रोन टेक्नोलॉजी एटीएमपी संयंत्र प्रारंभिक प्रमुख रहा है - वाणिज्यिक उत्पादन वित्त वर्ष 2025-26 में शुरू हुआ, और इस सुविधा का औपचारिक रूप से फरवरी 2026 में प्रधान मंत्री मोदी द्वारा उद्घाटन किया गया था। साणंद में कायन्स सेमीकॉन संयंत्र का उद्घाटन मार्च 2026 में प्रधान मंत्री द्वारा किया गया था और इसने वाणिज्यिक उत्पादन शुरू कर दिया है। सीजी पावर सेमीकंडक्टर सुविधा से जुलाई 2026 में व्यावसायिक उत्पादन शुरू होने की उम्मीद है। असम में टाटा ओएसएटी संयंत्र - उत्तर-पूर्व में भारत की पहली प्रमुख सेमीकंडक्टर उपस्थिति - 2026 के अंत तक परिचालन शुरू करने की उम्मीद है। 5 मई 2026 को कैबिनेट द्वारा दो अतिरिक्त सेमीकंडक्टर विनिर्माण इकाइयों को मंजूरी दी गई, जिसमें ₹3,900 करोड़ से अधिक का संचयी निवेश होगा। राजस्थान को 15 मई 2026 को अपना पहला सेमीकंडक्टर प्लांट की मंजूरी मिली। ओडिशा में भारत की पहली उन्नत 3डी सेमीकंडक्टर पैकेजिंग इकाई का 19 अप्रैल 2026 को ग्राउंडब्रेकिंग समारोह हुआ, जो एआई, 5जी और रक्षा-इलेक्ट्रॉनिक्स अनुप्रयोगों के लिए महत्वपूर्ण क्षमता प्रदान करता है। एचसीएल-फॉक्सकॉन संयुक्त उद्यम परियोजना का शिलान्यास समारोह 21 फरवरी 2026 को हुआ था।",
+      "en": "The Tata Electronics fab at Dholera, Gujarat — the largest single investment at ₹91,000 crore (55 per cent of total committed investment under ISM 1.0) — is targeted for completion in 2028 and will be India's first major silicon fabrication facility. The Micron Technology ATMP plant at Sanand, Gujarat, has been the early flagship — commercial production began in FY 2025-26, and the facility was formally inaugurated by Prime Minister Modi in February 2026. The Kaynes Semicon plant at Sanand was inaugurated by the Prime Minister in March 2026 and has commenced commercial production. The CG Power semiconductor facility is expected to commence commercial production in July 2026. The Tata OSAT plant in Assam — India's first major semiconductor presence in the North-East — is slated to commence operations by end of 2026. Two additional semiconductor manufacturing units were approved by the Cabinet on 5 May 2026, with cumulative investment of more than ₹3,900 crore. Rajasthan received its first semiconductor plant approval on 15 May 2026. India's first advanced 3D semiconductor packaging unit, in Odisha, had its groundbreaking ceremony on 19 April 2026, providing critical capability for AI, 5G, and defence-electronics applications. The HCL-Foxconn joint venture project had its groundbreaking ceremony on 21 February 2026.",
+      "ur": "دھولرا، گجرات میں Tata Electronics fab - ₹91,000 کروڑ کی سب سے بڑی واحد سرمایہ کاری (ISM 1.0 کے تحت کل پرعزم سرمایہ کاری کا 55 فیصد) - 2028 میں مکمل ہونے کا ہدف ہے اور یہ ہندوستان کی پہلی بڑی سلیکون فیبریکیشن سہولت ہوگی۔ سانند، گجرات میں مائیکرون ٹیکنالوجی اے ٹی ایم پی پلانٹ ابتدائی پرچم بردار رہا ہے — تجارتی پیداوار مالی سال 2025-26 میں شروع ہوئی تھی، اور اس سہولت کا باقاعدہ افتتاح وزیر اعظم مودی نے فروری 2026 میں کیا تھا۔ سانند میں کینس سیمیکان پلانٹ کا افتتاح وزیر اعظم نے مارچ 2026 میں کیا تھا اور اس نے تجارتی پیداوار شروع کر دی تھی۔ توقع ہے کہ سی جی پاور سیمی کنڈکٹر کی سہولت جولائی 2026 میں تجارتی پیداوار شروع کر دے گی۔ آسام میں ٹاٹا او ایس اے ٹی پلانٹ - شمال مشرق میں ہندوستان کی پہلی بڑی سیمی کنڈکٹر موجودگی - 2026 کے آخر تک کام شروع کرنے والا ہے۔ دو اضافی سیمی کنڈکٹر مینوفیکچرنگ یونٹس کی منظوری دی گئی، کابینہ نے مئی 2020 سے زیادہ سرمایہ کاری کے ساتھ ₹3,900 کروڑ۔ راجستھان کو اپنے پہلے سیمی کنڈکٹر پلانٹ کی منظوری 15 مئی 2026 کو ملی۔ ہندوستان کے پہلے جدید ترین 3D سیمی کنڈکٹر پیکیجنگ یونٹ، اڈیشہ میں، 19 اپریل 2026 کو اس کی سنگ بنیاد کی تقریب ہوئی، جس میں AI، 5G، اور دفاعی الیکٹرانکس ایپلی کیشنز کے لیے اہم صلاحیت فراہم کی گئی۔ HCL-Foxconn کے مشترکہ منصوبے کی 21 فروری 2026 کو سنگ بنیاد کی تقریب ہوئی۔"
+    },
+    "b15.title": {
+      "hi": "भारत की सेमीकंडक्टर रणनीति एक नज़र में",
+      "en": "India's Semiconductor Strategy at a Glance",
+      "ur": "ہندوستان کی سیمی کنڈکٹر حکمت عملی ایک نظر میں"
+    },
+    "b15.itemlbl.0": {
+      "hi": "आज की घोषणा",
+      "en": "Today's announcement",
+      "ur": "آج کا اعلان"
+    },
+    "b15.itemval.0": {
+      "hi": "₹7,100 करोड़ FY27 प्रोत्साहन पैकेज (व्यय विभाग)",
+      "en": "₹7,100 crore FY27 incentive package (Department of Expenditure)",
+      "ur": "₹7,100 کروڑ مالی سال 27 کا ترغیبی پیکج (محکمہ اخراجات)"
+    },
+    "b15.itemlbl.1": {
+      "hi": "निजी निवेश को लक्षित करें",
+      "en": "Target private investment",
+      "ur": "نجی سرمایہ کاری کو ہدف بنائیں"
+    },
+    "b15.itemval.1": {
+      "hi": "₹15,000 करोड़",
+      "en": "₹15,000 crore",
+      "ur": "15,000 کروڑ روپے"
+    },
+    "b15.itemlbl.2": {
+      "hi": "घटक 1",
+      "en": "Component 1",
+      "ur": "جزو 1"
+    },
+    "b15.itemval.2": {
+      "hi": "1 प्रमुख फैब के लिए ₹2,000 करोड़ (लक्ष्य ₹4,000 करोड़ निवेश, 1,500 नौकरियां)",
+      "en": "₹2,000 crore for 1 major fab (target ₹4,000 cr investment, 1,500 jobs)",
+      "ur": "1 بڑے فیب کے لیے ₹2,000 کروڑ (ہدف ₹4,000 کروڑ سرمایہ کاری، 1,500 نوکریاں)"
+    },
+    "b15.itemlbl.3": {
+      "hi": "घटक 2",
+      "en": "Component 2",
+      "ur": "جزو 2"
+    },
+    "b15.itemval.3": {
+      "hi": "9 विशेष सुविधाओं (एटीएमपी/ओएसएटी, कंपाउंड सेमी, सेंसर) के लिए ₹5,000 करोड़ (लक्ष्य ₹11,000 करोड़ निवेश, 3,000 नौकरियां)",
+      "en": "₹5,000 crore for 9 specialised facilities (ATMP/OSAT, compound semis, sensors) (target ₹11,000 cr investment, 3,000 jobs)",
+      "ur": "9 خصوصی سہولیات (ATMP/OSAT، کمپاؤنڈ سیمیس، سینسرز) کے لیے ₹5,000 کروڑ (ہدف ₹11,000 کروڑ سرمایہ کاری، 3,000 ملازمتیں)"
+    },
+    "b15.itemlbl.4": {
+      "hi": "घटक 3",
+      "en": "Component 3",
+      "ur": "جزو 3"
+    },
+    "b15.itemval.4": {
+      "hi": "30 डिज़ाइन फर्मों के लिए डीएलआई के माध्यम से ₹100 करोड़; 10 स्वदेशी आईपी कोर का लक्ष्य",
+      "en": "₹100 crore via DLI for 30 design firms; target 10 indigenous IP cores",
+      "ur": "30 ڈیزائن فرموں کے لیے DLI کے ذریعے ₹100 کروڑ؛ 10 مقامی آئی پی کور کو نشانہ بنائیں"
+    },
+    "b15.itemlbl.5": {
+      "hi": "कुल अपेक्षित नौकरियाँ (अकेले FY27 पैकेज)",
+      "en": "Total expected jobs (FY27 package alone)",
+      "ur": "کل متوقع ملازمتیں (صرف FY27 پیکیج)"
+    },
+    "b15.itemval.5": {
+      "hi": "4,500+ प्रत्यक्ष",
+      "en": "4,500+ direct",
+      "ur": "4,500+ براہ راست"
+    },
+    "b15.itemlbl.6": {
+      "hi": "अभिभावक कार्यक्रम",
+      "en": "Parent programme",
+      "ur": "پیرنٹ پروگرام"
+    },
+    "b15.itemval.6": {
+      "hi": "भारत सेमीकंडक्टर मिशन (आईएसएम)",
+      "en": "India Semiconductor Mission (ISM)",
+      "ur": "انڈیا سیمی کنڈکٹر مشن (ISM)"
+    },
+    "b15.itemlbl.7": {
+      "hi": "आईएसएम 1.0 अनुमोदन",
+      "en": "ISM 1.0 approval",
+      "ur": "ISM 1.0 کی منظوری"
+    },
+    "b15.itemval.7": {
+      "hi": "दिसंबर 2021",
+      "en": "December 2021",
+      "ur": "دسمبر 2021"
+    },
+    "b15.itemlbl.8": {
+      "hi": "आईएसएम 1.0 प्रोत्साहन परिव्यय",
+      "en": "ISM 1.0 incentive outlay",
+      "ur": "ISM 1.0 ترغیبی اخراجات"
+    },
+    "b15.itemval.8": {
+      "hi": "₹76,000 करोड़ (50% तक वित्तीय सहायता)",
+      "en": "₹76,000 crore (up to 50% fiscal support)",
+      "ur": "₹76,000 کروڑ (50% تک مالی امداد)"
+    },
+    "b15.itemlbl.9": {
+      "hi": "आईएसएम 1.0 परियोजनाएं स्वीकृत (दिसंबर 2025)",
+      "en": "ISM 1.0 projects approved (Dec 2025)",
+      "ur": "ISM 1.0 پروجیکٹ منظور شدہ (دسمبر 2025)"
+    },
+    "b15.itemval.9": {
+      "hi": "6 राज्यों में 10",
+      "en": "10 across 6 states",
+      "ur": "6 ریاستوں میں 10"
+    },
+    "b15.itemlbl.10": {
+      "hi": "आईएसएम 1.0 संचयी प्रतिबद्ध निवेश",
+      "en": "ISM 1.0 cumulative committed investment",
+      "ur": "ISM 1.0 مجموعی کمٹڈ سرمایہ کاری"
+    },
+    "b15.itemval.10": {
+      "hi": "₹1.60 लाख करोड़",
+      "en": "₹1.60 lakh crore",
+      "ur": "1.60 لاکھ کروڑ روپے"
+    },
+    "b15.itemlbl.11": {
+      "hi": "आईएसएम 2.0 लॉन्च किया गया",
+      "en": "ISM 2.0 launched",
+      "ur": "ISM 2.0 لانچ کیا گیا۔"
+    },
+    "b15.itemval.11": {
+      "hi": "केंद्रीय बजट 2026-27 (फरवरी 2026)",
+      "en": "Union Budget 2026-27 (February 2026)",
+      "ur": "مرکزی بجٹ 2026-27 (فروری 2026)"
+    },
+    "b15.itemlbl.12": {
+      "hi": "आईएसएम 2.0 FY27 प्रावधान",
+      "en": "ISM 2.0 FY27 provision",
+      "ur": "ISM 2.0 FY27 پروویژن"
+    },
+    "b15.itemval.12": {
+      "hi": "₹1,000 करोड़",
+      "en": "₹1,000 crore",
+      "ur": "1,000 کروڑ روپے"
+    },
+    "b15.itemlbl.13": {
+      "hi": "संशोधित कार्यक्रम परिव्यय FY27",
+      "en": "Modified Programme outlay FY27",
+      "ur": "ترمیم شدہ پروگرام کا تخمینہ FY27"
+    },
+    "b15.itemval.13": {
+      "hi": "₹8,000 करोड़",
+      "en": "₹8,000 crore",
+      "ur": "8000 کروڑ روپے"
+    },
+    "b15.itemlbl.14": {
+      "hi": "ईसीएमएस बजट परिव्यय",
+      "en": "ECMS budget outlay",
+      "ur": "ECMS بجٹ کا تخمینہ"
+    },
+    "b15.itemval.14": {
+      "hi": "₹40,000 करोड़ (केंद्रीय बजट 2026-27)",
+      "en": "₹40,000 crore (Union Budget 2026-27)",
+      "ur": "₹40,000 کروڑ (مرکزی بجٹ 2026-27)"
+    },
+    "b15.itemlbl.15": {
+      "hi": "सबसे बड़ी एकल स्वीकृत परियोजना",
+      "en": "Largest single approved project",
+      "ur": "سب سے بڑا واحد منظور شدہ پروجیکٹ"
+    },
+    "b15.itemval.15": {
+      "hi": "टाटा इलेक्ट्रॉनिक्स फैब, धोलेरा (₹91,000 करोड़, पूर्णता 2028)",
+      "en": "Tata Electronics fab, Dholera (₹91,000 crore, completion 2028)",
+      "ur": "Tata Electronics fab، Dholera (₹91,000 کروڑ، تکمیل 2028)"
+    },
+    "b15.itemlbl.16": {
+      "hi": "वाणिज्यिक उत्पादन पहले से ही चल रहा है",
+      "en": "Commercial production already underway",
+      "ur": "تجارتی پیداوار پہلے ہی جاری ہے۔"
+    },
+    "b15.itemval.16": {
+      "hi": "माइक्रोन सानंद (फरवरी 2026), कायन्स सेमीकॉन सानंद (मार्च 2026)",
+      "en": "Micron Sanand (Feb 2026), Kaynes Semicon Sanand (Mar 2026)",
+      "ur": "مائکرون سانند (فروری 2026)، کینس سیمیکون سانند (مارچ 2026)"
+    },
+    "b15.itemlbl.17": {
+      "hi": "सीजी पावर की व्यावसायिक शुरुआत",
+      "en": "CG Power commercial start",
+      "ur": "سی جی پاور کا تجارتی آغاز"
+    },
+    "b15.itemval.17": {
+      "hi": "जुलाई 2026",
+      "en": "July 2026",
+      "ur": "جولائی 2026"
+    },
+    "b15.itemlbl.18": {
+      "hi": "टाटा ओएसएटी असम प्रारंभ",
+      "en": "Tata OSAT Assam start",
+      "ur": "ٹاٹا OSAT آسام شروع"
+    },
+    "b15.itemval.18": {
+      "hi": "अंत 2026",
+      "en": "End 2026",
+      "ur": "2026 کا اختتام"
+    },
+    "b15.itemlbl.19": {
+      "hi": "डीएलआई योजना सहायता (जनवरी 2026)",
+      "en": "DLI Scheme support (Jan 2026)",
+      "ur": "ڈی ایل آئی اسکیم سپورٹ (جنوری 2026)"
+    },
+    "b15.itemval.19": {
+      "hi": "24 डिज़ाइन स्टार्टअप",
+      "en": "24 design startups",
+      "ur": "24 ڈیزائن اسٹارٹ اپس"
+    },
+    "b15.itemlbl.20": {
+      "hi": "डीएलआई वीसी फंडिंग आकर्षित हुई",
+      "en": "DLI VC funding attracted",
+      "ur": "DLI VC فنڈنگ ​​کو راغب کیا۔"
+    },
+    "b15.itemval.20": {
+      "hi": "₹430 करोड़",
+      "en": "₹430 crore",
+      "ur": "430 کروڑ روپے"
+    },
+    "b15.itemlbl.21": {
+      "hi": "भारतीय अकादमिक टेप-आउट",
+      "en": "Indian academic tape-outs",
+      "ur": "ہندوستانی تعلیمی ٹیپ آؤٹ"
+    },
+    "b15.itemval.21": {
+      "hi": "122",
+      "en": "122",
+      "ur": "122"
+    },
+    "b15.itemlbl.22": {
+      "hi": "चिप्स 180 एनएम (एससीएल मोहाली) पर निर्मित",
+      "en": "Chips fabricated at 180 nm (SCL Mohali)",
+      "ur": "چپس 180 این ایم (ایس سی ایل موہالی) پر من گھڑت"
+    },
+    "b15.itemval.22": {
+      "hi": "56",
+      "en": "56",
+      "ur": "56"
+    },
+    "b15.itemlbl.23": {
+      "hi": "उन्नत नोड हासिल किया गया (भारतीय स्टार्टअप)",
+      "en": "Advanced node achieved (Indian startups)",
+      "ur": "اعلی درجے کا نوڈ حاصل کیا گیا (ہندوستانی آغاز)"
+    },
+    "b15.itemval.23": {
+      "hi": "12 नैनोमीटर",
+      "en": "12 nanometres",
+      "ur": "12 نینو میٹر"
+    },
+    "b15.itemlbl.24": {
+      "hi": "भारतीय प्रोसेसर विकसित हुए",
+      "en": "Indian processors developed",
+      "ur": "ہندوستانی پروسیسر تیار ہوئے۔"
+    },
+    "b15.itemval.24": {
+      "hi": "विक्रम, थेजस (आरआईएससी-वी डीआईआर-वी कार्यक्रम)",
+      "en": "VIKRAM, THEJAS (RISC-V DIR-V Programme)",
+      "ur": "وکرم، تھیجس (RISC-V DIR-V پروگرام)"
+    },
+    "b15.itemlbl.25": {
+      "hi": "भारत के सेमीकंडक्टर बाज़ार का आकार (2024-25)",
+      "en": "India's semiconductor market size (2024-25)",
+      "ur": "ہندوستان کی سیمی کنڈکٹر مارکیٹ کا سائز (2024-25)"
+    },
+    "b15.itemval.25": {
+      "hi": "$45-50 बिलियन",
+      "en": "$45-50 billion",
+      "ur": "$45-50 بلین"
+    },
+    "b15.itemlbl.26": {
+      "hi": "भारत का सेमीकंडक्टर बाज़ार अनुमान (2030)",
+      "en": "India's semiconductor market projection (2030)",
+      "ur": "ہندوستان کی سیمی کنڈکٹر مارکیٹ پروجیکشن (2030)"
+    },
+    "b15.itemval.26": {
+      "hi": "$100-110 बिलियन",
+      "en": "$100-110 billion",
+      "ur": "$100-110 بلین"
+    },
+    "b15.itemlbl.27": {
+      "hi": "आत्मनिर्भरता लक्ष्य (2029)",
+      "en": "Self-sufficiency target (2029)",
+      "ur": "خود کفالت کا ہدف (2029)"
+    },
+    "b15.itemval.27": {
+      "hi": "घरेलू चिप की मांग 70-75 प्रतिशत है",
+      "en": "70-75 per cent of domestic chip demand",
+      "ur": "گھریلو چپ کی مانگ کا 70-75 فیصد"
+    },
+    "b15.itemlbl.28": {
+      "hi": "उन्नत नोड लक्ष्य (2035)",
+      "en": "Advanced node target (2035)",
+      "ur": "ایڈوانسڈ نوڈ ہدف (2035)"
+    },
+    "b15.itemval.28": {
+      "hi": "3nm और 2nm विनिर्माण क्षमता",
+      "en": "3nm and 2nm manufacturing capability",
+      "ur": "3nm اور 2nm مینوفیکچرنگ کی صلاحیت"
+    },
+    "b15.itemlbl.29": {
+      "hi": "भारत की वैश्विक माइक्रोप्रोसेसर खपत हिस्सेदारी",
+      "en": "India's global microprocessor consumption share",
+      "ur": "ہندوستان کا عالمی مائیکرو پروسیسر کی کھپت کا حصہ"
+    },
+    "b15.itemval.29": {
+      "hi": "लगभग 20 प्रतिशत",
+      "en": "Approximately 20 per cent",
+      "ur": "تقریباً 20 فیصد"
+    },
+    "b16.q": {
+      "hi": "\"भारत सेमीकंडक्टर मिशन 2.0 पारिस्थितिकी तंत्र निर्माण से पारिस्थितिकी तंत्र समेकन और वैश्विक एकीकरण की ओर एक निर्णायक बदलाव का प्रतीक है। विनिर्माण, डिजाइन और उन्नत कौशल के लिए समर्थन को गहरा करके, आईएसएम 2.0 अर्धचालकों को एक रणनीतिक राष्ट्रीय क्षमता के रूप में स्थापित करता है - आर्थिक लचीलापन, डिजिटल बुनियादी ढांचे और तकनीकी संप्रभुता के लिए केंद्रीय।\"",
+      "en": "\"India Semiconductor Mission 2.0 marks a decisive shift from ecosystem creation to ecosystem consolidation and global integration. By deepening support for manufacturing, design, and advanced skills, ISM 2.0 positions semiconductors as a strategic national capability — central to economic resilience, digital infrastructure, and technological sovereignty.\"",
+      "ur": "\"انڈیا سیمی کنڈکٹر مشن 2.0 ماحولیاتی نظام کی تخلیق سے ایکو سسٹم کے استحکام اور عالمی انضمام کی طرف ایک فیصلہ کن تبدیلی کی نشاندہی کرتا ہے۔ مینوفیکچرنگ، ڈیزائن اور جدید مہارتوں کے لیے تعاون کو گہرا کرتے ہوئے، ISM 2.0 سیمی کنڈکٹرز کو ایک اسٹریٹجک قومی صلاحیت کے طور پر پوزیشن دیتا ہے، جو کہ ڈیجیٹل ٹیکنا لوجیکل ڈھانچہ میں مرکزی اور اقتصادی ڈھانچہ کے لیے مرکزی ہے۔\""
+    },
+    "b16.c": {
+      "hi": "- इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (आईएसएम 2.0 पर पीआईबी वक्तव्य, फरवरी 2026)",
+      "en": "— Ministry of Electronics and Information Technology (PIB statement on ISM 2.0, February 2026)",
+      "ur": "— الیکٹرانکس اور انفارمیشن ٹیکنالوجی کی وزارت (آئی ایس ایم 2.0، فروری 2026 پر پی آئی بی کا بیان)"
+    },
+    "b17": {
+      "hi": "डिज़ाइन पारिस्थितिकी तंत्र: जहां डीएलआई मेल खाता है",
+      "en": "The design ecosystem: where the DLI dovetails",
+      "ur": "ڈیزائن ماحولیاتی نظام: جہاں ڈی ایل آئی ڈوویٹیلز ہے۔"
+    },
+    "b18": {
+      "hi": "FY27 पैकेज का ₹100 करोड़ डिज़ाइन लिंक्ड इंसेंटिव घटक उस ठोस गति पर आधारित है जो हाल के वर्षों में भारत के सेमीकंडक्टर डिज़ाइन पारिस्थितिकी तंत्र में जमा हुई है। जनवरी 2026 तक, डीएलआई योजना पहले से ही देश भर में 24 सेमीकंडक्टर डिज़ाइन स्टार्टअप का समर्थन करती है। इन स्टार्टअप्स ने सामूहिक रूप से उद्यम पूंजीगत निधि में लगभग ₹430 करोड़ आकर्षित किए हैं - जो भारत की डिजाइन क्षमताओं में निवेशकों के विश्वास का एक वास्तविक सत्यापन है। उन्नत इलेक्ट्रॉनिक डिज़ाइन ऑटोमेशन (ईडीए) राष्ट्रीय चिप-डिज़ाइन प्लेटफ़ॉर्म ने अकादमिक और स्टार्टअप उपयोगकर्ताओं के लिए उच्च-स्तरीय डिज़ाइन टूल तक पहुंच को सक्षम किया है, जिसमें लगभग 2.25 करोड़ (22.5 मिलियन) टूल घंटे का उपयोग दर्ज किया गया है। लगभग 67,000 छात्र और 1,000 से अधिक स्टार्टअप इंजीनियर चिप डिजाइन और विकास के लिए इन उपकरणों का सक्रिय रूप से उपयोग कर रहे हैं।",
+      "en": "The ₹100 crore Design Linked Incentive component of the FY27 package builds on substantive momentum that has accumulated in India's semiconductor design ecosystem over recent years. As of January 2026, the DLI scheme already supports 24 semiconductor design startups across the country. These startups have collectively attracted nearly ₹430 crore in venture capital funding — a substantive validation of investor confidence in India's design capabilities. The Advanced Electronic Design Automation (EDA) national chip-design platform has enabled access to high-end design tools for academic and startup users, recording approximately 2.25 crore (22.5 million) tool hours of usage. Around 67,000 students and over 1,000 startup engineers are actively using these tools for chip design and development.",
+      "ur": "FY27 پیکیج کا ₹100 کروڑ کا ڈیزائن لنکڈ انسینٹیو جزو کافی رفتار پر استوار ہے جو حالیہ برسوں میں ہندوستان کے سیمی کنڈکٹر ڈیزائن ماحولیاتی نظام میں جمع ہوا ہے۔ جنوری 2026 تک، ڈی ایل آئی اسکیم پہلے ہی ملک بھر میں 24 سیمی کنڈکٹر ڈیزائن اسٹارٹ اپس کو سپورٹ کرتی ہے۔ ان سٹارٹ اپس نے اجتماعی طور پر تقریباً ₹430 کروڑ کی وینچر کیپیٹل فنڈنگ ​​حاصل کی ہے جو کہ ہندوستان کی ڈیزائن کی صلاحیتوں پر سرمایہ کاروں کے اعتماد کی ایک اہم توثیق ہے۔ ایڈوانسڈ الیکٹرانک ڈیزائن آٹومیشن (EDA) قومی چپ ڈیزائن پلیٹ فارم نے تعلیمی اور ابتدائی صارفین کے لیے اعلیٰ درجے کے ڈیزائن ٹولز تک رسائی کو قابل بنایا ہے، جس سے تقریباً 2.25 کروڑ (22.5 ملین) ٹول کے استعمال کے اوقات ریکارڈ کیے گئے ہیں۔ تقریباً 67,000 طلباء اور 1,000 سے زیادہ سٹارٹ اپ انجینئرز ان ٹولز کو چپ ڈیزائن اور ترقی کے لیے استعمال کر رہے ہیں۔"
     },
     "b19": {
-      "hi": "निर्माण की स्थिति",
-      "en": "The construction status",
-      "ur": "تعمیر کی حیثیت"
+      "hi": "मूर्त परिणाम तेजी से दिखाई दे रहे हैं। शैक्षणिक सेटिंग्स में, 122 चिप डिज़ाइन को \"टेप आउट\" किया गया है - एक डिज़ाइन को पूरा करने और इसे विनिर्माण के लिए प्रस्तुत करने के लिए तकनीकी शब्द। इनमें से 56 चिप्स का निर्माण मोहाली में सेमीकंडक्टर प्रयोगशाला में 180-नैनोमीटर प्रौद्योगिकी नोड्स पर किया गया है। स्टार्टअप्स ने 16 टेप-आउट पूरे कर लिए हैं, जिसके परिणामस्वरूप उन्नत फाउंड्री नोड्स में छह चिप्स तैयार किए गए हैं - जिनमें 12 नैनोमीटर जितनी उन्नत प्रौद्योगिकियां शामिल हैं, जो प्रमुख वैश्विक फाउंड्री में वाणिज्यिक उत्पादन के बराबर हैं।",
+      "en": "The tangible outputs are increasingly visible. In academic settings, 122 chip designs have been \"taped out\" — the technical term for completing a design and submitting it for manufacturing. Of these, 56 chips have been fabricated at 180-nanometre technology nodes at the Semiconductor Laboratory in Mohali. Startups have completed 16 tape-outs, resulting in six chips fabricated at advanced foundry nodes — including technologies as advanced as 12 nanometres, comparable to commercial production at major global foundries.",
+      "ur": "ٹھوس نتائج تیزی سے دکھائی دے رہے ہیں۔ تعلیمی ترتیبات میں، 122 چپ ڈیزائنوں کو \"ٹیپ آؤٹ\" کیا گیا ہے - ایک ڈیزائن کو مکمل کرنے اور اسے مینوفیکچرنگ کے لیے جمع کرنے کے لیے تکنیکی اصطلاح۔ ان میں سے 56 چپس موہالی میں سیمی کنڈکٹر لیبارٹری میں 180 نینو میٹر ٹیکنالوجی نوڈس پر بنائی گئی ہیں۔ اسٹارٹ اپس نے 16 ٹیپ آؤٹ مکمل کیے ہیں، جس کے نتیجے میں ایڈوانس فاؤنڈری نوڈس پر چھ چپس تیار کی گئی ہیں - بشمول 12 نینو میٹر تک جدید ٹیکنالوجیز، جو بڑی عالمی فاؤنڈریوں میں تجارتی پیداوار کے مقابلے ہیں۔"
     },
     "b20": {
-      "hi": "एमएएचएसआर कॉरिडोर पर सिविल-इंजीनियरिंग की प्रगति पर्याप्त रही है। जनवरी 2026 तक, 334 किलोमीटर वियाडक्ट स्थापना पूरी हो चुकी थी; 415 किलोमीटर का घाट कार्य; 292 ट्रैक-किलोमीटर प्रबलित कंक्रीट ट्रैक-बेड; और सत्रह नदी पुलों के साथ-साथ पांच पूर्व-प्रतिबलित कंक्रीट पुल भी शामिल हैं। मेनलाइन वियाडक्ट के 111 रूट-किलोमीटर में लगभग 4,800 ओवरहेड विद्युतीकरण (ओएचई) मस्तूल स्थापित किए गए थे - 2 x 25 केवी ओवरहेड ट्रैक्शन पावर सिस्टम का समर्थन करते हुए जो उच्च गति संचालन के लिए आवश्यक पर्याप्त विद्युत भार प्रदान करेगा। निकटवर्ती समुदायों पर हाई-स्पीड-ट्रेन मार्ग के पर्यावरणीय प्रभाव को कम करने के लिए 245 किलोमीटर की दूरी पर 490,000 से अधिक शोर अवरोधक स्थापित किए गए थे।",
-      "en": "The civil-engineering progress on the MAHSR corridor has been substantial. As of January 2026, 334 kilometres of viaduct installation had been completed; 415 kilometres of pier work; 292 track-kilometres of reinforced concrete track-bed; and seventeen river bridges along with five prestressed concrete bridges. Approximately 4,800 overhead electrification (OHE) masts had been installed across 111 route-kilometres of the mainline viaduct — supporting the 2 x 25 kV overhead traction power system that will deliver the substantial electrical loads required for high-speed operations. Over 490,000 noise barriers had been installed along a 245-kilometre stretch to mitigate the environmental impact of high-speed-train passage on adjacent communities.",
-      "ur": "MAHSR راہداری پر سول انجینئرنگ کی پیش رفت کافی رہی ہے۔ جنوری 2026 تک، 334 کلومیٹر وائڈکٹ کی تنصیب مکمل ہو چکی تھی۔ 415 کلومیٹر گھاٹ کا کام؛ 292 ٹریک کلومیٹر مضبوط کنکریٹ ٹریک بیڈ؛ اور سترہ دریائی پلوں کے ساتھ ساتھ پانچ پریسسٹریسڈ کنکریٹ پل۔ تقریباً 4,800 اوور ہیڈ الیکٹریفیکیشن (OHE) ماسٹ مین لائن وایاڈکٹ کے 111 روٹ کلو میٹر پر نصب کیے گئے تھے - جو 2 x 25 kV اوور ہیڈ کرشن پاور سسٹم کو سپورٹ کرتے ہیں جو تیز رفتار آپریشنز کے لیے درکار کافی برقی بوجھ فراہم کرے گا۔ ملحقہ کمیونٹیز پر تیز رفتار ٹرین کے گزرنے کے ماحولیاتی اثرات کو کم کرنے کے لیے 245 کلومیٹر طویل 490,000 سے زیادہ شور رکاوٹیں نصب کی گئی تھیں۔"
+      "hi": "डिजिटल इंडिया आरआईएससी-वी (डीआईआर-वी) कार्यक्रम एक विशेष असाधारण कार्यक्रम रहा है। कार्यक्रम ने स्वदेशी भारतीय प्रोसेसर विकसित किया है - जिसमें विक्रम और थेजस शामिल हैं - जो ओपन-सोर्स आरआईएससी-वी आर्किटेक्चर पर बनाया गया है, जो लाइसेंस लागत को समाप्त करता है और पूरे पारिस्थितिकी तंत्र में सहयोगात्मक नवाचार को सक्षम बनाता है। ये प्रोसेसर सामूहिक रूप से 5जी इंफ्रास्ट्रक्चर, ऑटोमोटिव इलेक्ट्रॉनिक्स, औद्योगिक स्वचालन, उपभोक्ता उपकरणों और इंटरनेट ऑफ थिंग्स में अनुप्रयोगों के साथ एक भारतीय प्रोसेसर पारिस्थितिकी तंत्र की नींव बनाते हैं। स्वदेशी प्रोसेसर प्लेटफार्मों का विकास विशेष रूप से परिणामी है क्योंकि भारत वैश्विक माइक्रोप्रोसेसर मांग का लगभग 20 प्रतिशत उपभोग करता है - एक बड़ा बाजार, जो हाल तक, लगभग पूरी तरह से आयातित प्रोसेसर द्वारा परोसा जाता था।",
+      "en": "The Digital India RISC-V (DIR-V) Programme has been a particular standout. The programme has developed indigenous Indian processors — including VIKRAM and THEJAS — built on the open-source RISC-V architecture, which eliminates licence costs and enables collaborative innovation across the ecosystem. These processors collectively form the foundation of an Indian processor ecosystem with applications across 5G infrastructure, automotive electronics, industrial automation, consumer devices, and the Internet of Things. The development of indigenous processor platforms is particularly consequential given that India consumes approximately 20 per cent of global microprocessor demand — a substantial market that, until recently, was almost entirely served by imported processors.",
+      "ur": "ڈیجیٹل انڈیا RISC-V (DIR-V) پروگرام ایک خاص اسٹینڈ آؤٹ رہا ہے۔ پروگرام نے مقامی ہندوستانی پروسیسرز تیار کیے ہیں - بشمول VIKRAM اور THEJAS - جو اوپن سورس RISC-V فن تعمیر پر بنائے گئے ہیں، جو لائسنس کے اخراجات کو ختم کرتے ہیں اور پورے ماحولیاتی نظام میں باہمی تعاون کے ساتھ اختراع کو قابل بناتے ہیں۔ یہ پروسیسرز مجموعی طور پر 5G انفراسٹرکچر، آٹوموٹیو الیکٹرانکس، صنعتی آٹومیشن، صارفین کے آلات، اور چیزوں کے انٹرنیٹ پر ایپلی کیشنز کے ساتھ ایک ہندوستانی پروسیسر ماحولیاتی نظام کی بنیاد بناتے ہیں۔ دیسی پروسیسر پلیٹ فارمز کی ترقی خاص طور پر نتیجہ خیز ہے کہ ہندوستان عالمی مائیکرو پروسیسر کی مانگ کا تقریباً 20 فیصد استعمال کرتا ہے - ایک اہم مارکیٹ جو کہ حال ہی میں، تقریباً مکمل طور پر درآمد شدہ پروسیسرز کے ذریعہ فراہم کی جاتی تھی۔"
     },
     "b21": {
-      "hi": "निर्माण में फुल स्पैन लॉन्चिंग मेथड (एफएसएलएम) को नियोजित किया गया है - एक ऐसी तकनीक जो पारंपरिक निर्माण दृष्टिकोण की तुलना में दस गुना तेज गति से 40 मीटर लंबे प्री-स्ट्रेस्ड कंक्रीट बॉक्स गर्डर्स की स्थापना की अनुमति देती है। कॉरिडोर के पुलों पर कुल 6,455 पूर्ण-स्पैन और 925 स्पैन इकाइयां कार्यरत हैं। लार्सन एंड टुब्रो ने विशेष रूप से इस परियोजना के लिए पहले स्वदेशी रूप से डिजाइन और निर्मित फुल स्पैन लॉन्चिंग उपकरण - स्ट्रैडल कैरियर और गर्डर ट्रांसपोर्टर का उद्घाटन किया, जो ट्रेनसेट कार्यक्रम के साथ-साथ स्वदेशी निर्माण-प्रौद्योगिकी क्षमता का पर्याप्त प्रदर्शन प्रदान करता है।",
-      "en": "The construction has employed the Full Span Launching Method (FSLM) — a technique that allows installation of 40-metre-long pre-stressed concrete box girders at rates up to ten times faster than traditional construction approaches. A total of 6,455 full-span and 925 span units have been employed across the corridor's viaducts. Larsen & Toubro inaugurated the first indigenously designed and manufactured Full Span Launching Equipment — straddle carrier and girder transporter — specifically for this project, providing a substantial demonstration of indigenous construction-technology capability alongside the trainset programme.",
-      "ur": "اس تعمیر میں فل اسپین لانچنگ میتھڈ (FSLM) کا استعمال کیا گیا ہے - ایک ایسی تکنیک جو 40 میٹر طویل پری اسٹریسڈ کنکریٹ باکس گرڈرز کی تنصیب کی اجازت دیتی ہے جو روایتی تعمیراتی طریقوں سے دس گنا زیادہ تیز رفتاری سے چلتی ہے۔ کل 6,455 فل اسپین اور 925 اسپین یونٹ کاریڈور کے وایاڈکٹس میں کام کر چکے ہیں۔ لارسن اینڈ ٹوبرو نے پہلے دیسی ساختہ اور تیار کردہ فل اسپین لانچنگ ایکوئپمنٹ - اسٹریڈل کیریئر اور گرڈر ٹرانسپورٹر - کا افتتاح کیا خاص طور پر اس پروجیکٹ کے لیے، جو ٹرین سیٹ پروگرام کے ساتھ ساتھ مقامی تعمیراتی ٹیکنالوجی کی قابلیت کا خاطر خواہ مظاہرہ فراہم کرتا ہے۔"
+      "hi": "FY27 ₹100 करोड़ डीएलआई विस्तार इस डिज़ाइन पारिस्थितिकी तंत्र को 24 समर्थित स्टार्टअप से बढ़ाकर 50 से अधिक कर देगा, और दस स्वदेशी सेमीकंडक्टर आईपी कोर के विकास को लक्षित करेगा - मूलभूत डिज़ाइन ब्लॉक जिन्हें भारतीय-डिज़ाइन किए गए चिप्स आगे चलकर शामिल करेंगे।",
+      "en": "The FY27 ₹100 crore DLI expansion will scale this design ecosystem from 24 supported startups to over 50, and will target the development of ten indigenous semiconductor IP cores — the foundational design blocks that Indian-designed chips will incorporate going forward.",
+      "ur": "FY27 ₹100 کروڑ کی DLI توسیع اس ڈیزائن ایکو سسٹم کو 24 سپورٹ شدہ سٹارٹ اپس سے 50 سے زیادہ تک لے جائے گی، اور دس دیسی سیمی کنڈکٹر آئی پی کور کی ترقی کو ہدف بنائے گی - وہ بنیادی ڈیزائن بلاکس جنہیں ہندوستانی ڈیزائن کردہ چپس آگے بڑھ کر شامل کریں گی۔"
     },
     "b22": {
-      "hi": "गलियारे का एक विशेष रूप से उल्लेखनीय तत्व मुंबई के पास 21 किलोमीटर का सुरंग खंड है, जिसमें सात किलोमीटर का समुद्र के नीचे का खंड भी शामिल है जो ठाणे क्रीक के नीचे चलता है - भारत की पहली समुद्र के नीचे रेल सुरंग। टनल बोरिंग मशीन असेंबली 9 अप्रैल 2026 को शुरू हुई, अगले 97 दिनों के भीतर खुदाई का काम शुरू होने की उम्मीद है। समुद्र के नीचे की सुरंग पूरे गलियारे के सबसे तकनीकी रूप से मांग वाले तत्वों में से एक का प्रतिनिधित्व करती है और पूरा होने पर, भारतीय इंजीनियरिंग में एक मील का पत्थर साबित होगी।",
-      "en": "A particularly noteworthy element of the corridor is the 21-kilometre tunnel section near Mumbai, including a seven-kilometre undersea section that runs beneath Thane Creek — India's first undersea rail tunnel. Tunnel Boring Machine assembly began on 9 April 2026, with excavation work expected to commence within the subsequent 97 days. The undersea tunnel represents one of the most technically demanding elements of the entire corridor and will, when complete, stand as a milestone in Indian engineering.",
-      "ur": "کوریڈور کا ایک خاص طور پر قابل ذکر عنصر ممبئی کے قریب 21 کلومیٹر طویل سرنگ کا حصہ ہے، جس میں سات کلومیٹر کا زیر سمندر سیکشن بھی شامل ہے جو تھانے کریک کے نیچے سے گزرتا ہے — ہندوستان کی پہلی زیر سمندر ریل سرنگ۔ ٹنل بورنگ مشین کی اسمبلی 9 اپریل 2026 کو شروع ہوئی، کھدائی کا کام اگلے 97 دنوں میں شروع ہونے کی امید ہے۔ زیر سمندر سرنگ پورے کوریڈور کے تکنیکی طور پر سب سے زیادہ مطالبہ کرنے والے عناصر میں سے ایک کی نمائندگی کرتی ہے اور جب مکمل ہو جائے گی، ہندوستانی انجینئرنگ میں سنگ میل کے طور پر کھڑی ہو گی۔"
+      "hi": "बाज़ार का अवसर",
+      "en": "The market opportunity",
+      "ur": "مارکیٹ کا موقع"
     },
     "b23": {
-      "hi": "नवंबर 2025 के लिए सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय की मासिक परियोजना निगरानी फ्लैश रिपोर्ट के अनुसार, गलियारे पर भौतिक प्रगति 56 प्रतिशत थी। गलियारे का पूर्ण निर्माण 2029 तक लक्ष्य रखा गया है।",
-      "en": "The physical progress on the corridor, according to the Ministry of Statistics and Programme Implementation's monthly project monitoring flash report for November 2025, was 56 per cent. Full completion of the corridor is targeted for 2029.",
-      "ur": "وزارت شماریات اور پروگرام کے نفاذ کی ماہانہ پروجیکٹ مانیٹرنگ فلیش رپورٹ برائے نومبر 2025 کے مطابق راہداری پر جسمانی پیش رفت 56 فیصد تھی۔ کوریڈور کی مکمل تکمیل کا ہدف 2029 تک ہے۔"
+      "hi": "भारत की सेमीकंडक्टर रणनीति जिस अवसर को संबोधित करती है उसका पैमाना पर्याप्त है। भारत का सेमीकंडक्टर बाजार 2023 में लगभग 38 बिलियन अमेरिकी डॉलर से बढ़कर 2024-25 में 45-50 बिलियन अमेरिकी डॉलर हो गया है, और 2030 तक 100-110 बिलियन अमेरिकी डॉलर तक पहुंचने का अनुमान है - पांच साल से भी कम समय में दोगुना से अधिक। भारत वैश्विक माइक्रोप्रोसेसर मांग का लगभग 20 प्रतिशत उपभोग करता है, जो इसे वैश्विक स्तर पर सबसे बड़े बाजारों में से एक बनाता है। सरकार ने महत्वाकांक्षी मील के पत्थर स्थापित किए हैं: 2029 तक घरेलू चिप मांग में 70 से 75 प्रतिशत आत्मनिर्भरता, और 2035 तक 3-नैनोमीटर और 2-नैनोमीटर विनिर्माण क्षमताएं - जिससे भारत उत्तरोत्तर वैश्विक सेमीकंडक्टर क्षमता की सीमा पर पहुंच जाएगा।",
+      "en": "The scale of the opportunity that India's semiconductor strategy addresses is substantial. India's semiconductor market has grown from approximately USD 38 billion in 2023 to USD 45-50 billion in 2024-25, and is projected to reach USD 100-110 billion by 2030 — more than doubling in less than five years. India consumes approximately 20 per cent of global microprocessor demand, making it one of the largest end-markets globally. The Government has set ambitious milestones: 70 to 75 per cent self-sufficiency in domestic chip demand by 2029, and 3-nanometre and 2-nanometre manufacturing capabilities by 2035 — placing India progressively at the frontier of global semiconductor capability.",
+      "ur": "ہندوستان کی سیمی کنڈکٹر حکمت عملی سے خطاب کرنے والے مواقع کا پیمانہ کافی ہے۔ ہندوستان کی سیمی کنڈکٹر مارکیٹ 2023 میں لگ بھگ USD 38 بلین سے بڑھ کر 2024-25 میں USD 45-50 بلین ہوگئی ہے، اور 2030 تک USD 100-110 بلین تک پہنچنے کا امکان ہے - جو کہ پانچ سال سے بھی کم عرصے میں دوگنا ہو جائے گا۔ ہندوستان عالمی مائیکرو پروسیسر کی مانگ کا تقریباً 20 فیصد استعمال کرتا ہے، جو اسے عالمی سطح پر سب سے بڑی اینڈ مارکیٹ میں سے ایک بناتا ہے۔ حکومت نے مہتواکانکشی سنگ میل طے کیے ہیں: 2029 تک گھریلو چپ کی مانگ میں 70 سے 75 فیصد خود کفالت، اور 2035 تک 3-نینو میٹر اور 2-نینو میٹر مینوفیکچرنگ کی صلاحیتیں - ہندوستان کو بتدریج عالمی سیمی کنڈکٹر کی صلاحیت کے محاذ پر رکھنا۔"
     },
     "b24": {
-      "hi": "चरणबद्ध वाणिज्यिक रोलआउट",
-      "en": "The phased commercial rollout",
-      "ur": "مرحلہ وار کمرشل رول آؤٹ"
+      "hi": "इस वृद्धि को चलाने वाले अनुप्रयोग भारतीय अर्थव्यवस्था के लगभग हर परिणामी क्षेत्र में फैले हुए हैं: इलेक्ट्रिक वाहन (जिसमें आंतरिक-दहन वाहनों की तुलना में काफी अधिक अर्धचालक सामग्री की आवश्यकता होती है), 5जी और उभरते 6जी दूरसंचार, रक्षा इलेक्ट्रॉनिक्स, नवीकरणीय ऊर्जा बिजली इलेक्ट्रॉनिक्स, इलेक्ट्रिक ग्रिड बुनियादी ढांचे, उपभोक्ता इलेक्ट्रॉनिक्स, औद्योगिक स्वचालन, स्वास्थ्य देखभाल उपकरण, और तेजी से विस्तार करने वाला एआई बुनियादी ढांचा। इनमें से प्रत्येक अंतिम बाज़ार का भारत में अपना पर्याप्त विकास प्रक्षेप पथ है, और संचयी मांग प्रोफ़ाइल घरेलू अर्धचालक क्षमता के मामले को संरचनात्मक रूप से सम्मोहक बनाती है।",
+      "en": "The applications driving this growth span virtually every consequential sector of the Indian economy: electric vehicles (which require substantially more semiconductor content than internal-combustion vehicles), 5G and emerging 6G telecommunications, defence electronics, renewable energy power electronics, electric grid infrastructure, consumer electronics, industrial automation, healthcare devices, and the rapidly-expanding AI infrastructure. Each of these end-markets has its own substantial growth trajectory in India, and the cumulative demand profile makes the case for domestic semiconductor capability structurally compelling.",
+      "ur": "اس ترقی کو چلانے والی ایپلی کیشنز ہندوستانی معیشت کے عملی طور پر ہر نتیجہ خیز شعبے پر محیط ہیں: الیکٹرک گاڑیاں (جس میں اندرونی دہن والی گاڑیوں کے مقابلے میں کافی زیادہ سیمی کنڈکٹر مواد کی ضرورت ہوتی ہے)، 5G اور ابھرتی ہوئی 6G ٹیلی کمیونیکیشن، دفاعی الیکٹرانکس، قابل تجدید توانائی پاور الیکٹرانکس، الیکٹرک گرڈ انفراسٹرکچر، کنزیومر ہیلتھ کیئر ڈیوائسز، الیکٹرک گرڈ انفراسٹرکچر، صحت کی دیکھ بھال اور صنعتی آلات۔ تیزی سے پھیلتا ہوا AI انفراسٹرکچر۔ ان اختتامی منڈیوں میں سے ہر ایک کی ہندوستان میں اپنی کافی ترقی کی رفتار ہے، اور مجموعی ڈیمانڈ پروفائل گھریلو سیمی کنڈکٹر کی صلاحیت کو ساختی طور پر مجبور کرتی ہے۔"
     },
     "b25": {
-      "hi": "व्यावसायिक रोलआउट प्रगतिशील होगा. सूरत-वापी खंड - गलियारे का 97 किलोमीटर - अगस्त 2027 में वाणिज्यिक सेवा में प्रवेश करने वाला पहला खंड होगा। इस खंड को प्रारंभिक परिचालन खंड के रूप में चुना गया था क्योंकि यह B28 ट्रेनसेट को उत्तरोत्तर प्रमाणित करने और मापा तरीके से व्यावसायिक रूप से तैनात करने की अनुमति देते हुए सार्थक उच्च गति संचालन के लिए पर्याप्त लंबा खंड प्रदान करता है। सूरत-बिलीमोरा खंड, लगभग 50 किलोमीटर, पहले भी सेवा में प्रवेश कर सकता है - कुछ संकेतों के साथ कि यह भारत के स्वतंत्रता दिवस पर 15 अगस्त 2027 तक शुरू हो सकता है, जो एक विचारोत्तेजक प्रतीकात्मक लॉन्च क्षण प्रदान करेगा।",
-      "en": "The commercial rollout will be progressive. The Surat-Vapi section — 97 kilometres of the corridor — will be the first to enter commercial service in August 2027. This section was selected as the initial operational segment because it provides a sufficiently long stretch for meaningful high-speed operations while allowing the B28 trainsets to be progressively certified and commercially deployed in a measured manner. The Surat-Bilimora segment, approximately 50 kilometres, may enter service even earlier — with some indications that this could commence by 15 August 2027 on India's Independence Day, providing an evocative symbolic launch moment.",
-      "ur": "کمرشل رول آؤٹ بتدریج ہو گا۔ سورت-واپی سیکشن — کوریڈور کا 97 کلومیٹر — اگست 2027 میں کمرشل سروس میں داخل ہونے والا پہلا حصہ ہوگا۔ اس سیکشن کو ابتدائی آپریشنل سیگمنٹ کے طور پر منتخب کیا گیا تھا کیونکہ یہ بامعنی تیز رفتار آپریشنز کے لیے کافی لمبا راستہ فراہم کرتا ہے جبکہ B28 ٹرین سیٹوں کو بتدریج تصدیق شدہ اور تجارتی طور پر مردانہ پیمائش کرنے کی اجازت دیتا ہے۔ سورت-بلیمورہ سیگمنٹ، تقریباً 50 کلومیٹر، اس سے بھی پہلے سروس میں داخل ہو سکتا ہے - کچھ اشارے کے ساتھ کہ یہ ہندوستان کے یوم آزادی پر 15 اگست 2027 تک شروع ہو سکتا ہے، جو ایک اشتعال انگیز علامتی لانچ کا لمحہ فراہم کرتا ہے۔"
+      "hi": "रणनीतिक आयाम",
+      "en": "The strategic dimensions",
+      "ur": "اسٹریٹجک ابعاد"
     },
     "b26": {
-      "hi": "बाद का विस्तार धीरे-धीरे गलियारे के बाकी हिस्से को संचालन में लाएगा - 2028 तक साबरमती से अहमदाबाद, आनंद, वडोदरा, भरूच, सूरत, बिलिमोरा और वापी के माध्यम से गुजरात खंड को और 2029 तक बोइसर, विरार, ठाणे और मुंबई बीकेसी भूमिगत टर्मिनस के माध्यम से महाराष्ट्र खंड को जोड़ देगा। 320 किमी / घंटा की परिचालन गति पर पूर्ण मुंबई-अहमदाबाद यात्रा गलियारे के पूर्ण होने के साथ उपलब्ध हो जाएगी।",
-      "en": "The subsequent expansion will progressively bring the rest of the corridor into operation — connecting the Gujarat segment from Sabarmati through Ahmedabad, Anand, Vadodara, Bharuch, Surat, Bilimora, and Vapi by 2028, and the Maharashtra segment through Boisar, Virar, Thane, and the Mumbai BKC underground terminus by 2029. The full Mumbai-Ahmedabad journey at the 320 km/h operational speed will become available with the corridor's full completion.",
-      "ur": "اس کے بعد کی توسیع بتدریج کاریڈور کے باقی حصوں کو کام میں لائے گی — جو گجرات کے حصے کو سابرمتی سے احمد آباد، آنند، وڈودرا، بھروچ، سورت، بلیمورہ، اور واپی کے ذریعے 2028 تک، اور مہاراشٹر کے حصے کو بوئسر، ویرار، تھانے، اور ممبئی BKC کے ذریعے 2028 تک جوڑتا ہے۔ کوریڈور کی مکمل تکمیل کے ساتھ ہی 320 کلومیٹر فی گھنٹہ کی رفتار دستیاب ہو جائے گی۔"
+      "hi": "भारतीय सेमीकंडक्टर रणनीति तात्कालिक आर्थिक आयाम से कहीं अधिक रणनीतिक निहितार्थ रखती है।",
+      "en": "The Indian semiconductor strategy carries strategic implications well beyond the immediate economic dimension.",
+      "ur": "ہندوستانی سیمی کنڈکٹر کی حکمت عملی فوری اقتصادی جہت سے آگے اسٹریٹجک اثرات رکھتی ہے۔"
     },
     "b27": {
-      "hi": "व्यापक हाई-स्पीड-रेल नेटवर्क",
-      "en": "The wider high-speed-rail network",
-      "ur": "وسیع تر تیز رفتار ریل نیٹ ورک"
+      "hi": "**आर्थिक लचीलेपन के लिए**, घरेलू सेमीकंडक्टर क्षमता वैश्विक आपूर्ति-श्रृंखला व्यवधानों के प्रति भारत के जोखिम को कम करती है, जो पिछले कई वर्षों में आयातित चिप्स पर निर्भर देशों की रणनीतिक भेद्यता को प्रदर्शित करता है। COVID-काल की चिप की कमी, उसके बाद के भू-राजनीतिक तनाव, और निर्यात-नियंत्रण व्यवस्थाएं जिन्हें प्रमुख चिप-उत्पादक देशों ने उत्तरोत्तर लागू किया है, सभी संप्रभु अर्धचालक क्षमता के रणनीतिक मूल्य को रेखांकित करते हैं।",
+      "en": "**For economic resilience**, domestic semiconductor capability reduces India's exposure to global supply-chain disruptions of the kind that have, over the past several years, demonstrated the strategic vulnerability of countries dependent on imported chips. The COVID-period chip shortages, the subsequent geopolitical tensions, and the export-control regimes that major chip-producing nations have progressively implemented all underline the strategic value of sovereign semiconductor capability.",
+      "ur": "**معاشی لچک کے لیے**، گھریلو سیمی کنڈکٹر کی قابلیت ہندوستان کی عالمی سپلائی چین میں رکاوٹوں کو کم کرتی ہے جس نے پچھلے کئی سالوں میں درآمد شدہ چپس پر انحصار کرنے والے ممالک کی اسٹریٹجک کمزوری کو ظاہر کیا ہے۔ کووڈ کے دورانیے میں چپ کی قلت، اس کے نتیجے میں جغرافیائی سیاسی تناؤ، اور برآمدی کنٹرول کی وہ حکومتیں جنہیں چپ تیار کرنے والی بڑی قوموں نے بتدریج لاگو کیا ہے، یہ سب خودمختار سیمی کنڈکٹر کی صلاحیت کی اسٹریٹجک قدر کی نشاندہی کرتے ہیں۔"
     },
     "b28": {
-      "hi": "मुंबई-अहमदाबाद कॉरिडोर पहला है जिसे एक बड़े राष्ट्रीय हाई-स्पीड-रेल नेटवर्क के रूप में योजनाबद्ध किया जा रहा है। केंद्रीय बजट 2026-27 में सात नए हाई-स्पीड-रेल कॉरिडोर प्रस्तावित हैं - वर्तमान में निर्माणाधीन सिंगल लाइन से मल्टी-कॉरिडोर सिस्टम तक वास्तुकला का विस्तार जो भारत के प्रमुख आर्थिक केंद्रों को जोड़ेगा।",
-      "en": "The Mumbai-Ahmedabad corridor is the first of what is being planned as a substantial national high-speed-rail network. The Union Budget 2026-27 proposed seven new high-speed-rail corridors — substantially expanding the architecture from the single line currently under construction to a multi-corridor system that will connect India's major economic centres.",
-      "ur": "ممبئی-احمد آباد کوریڈور ان میں سے پہلا ہے جس کی منصوبہ بندی قومی ہائی سپیڈ ریل نیٹ ورک کے طور پر کی جا رہی ہے۔ مرکزی بجٹ 2026-27 میں سات نئے ہائی سپیڈ ریل کوریڈورز کی تجویز پیش کی گئی ہے - فن تعمیر کو اس وقت زیر تعمیر سنگل لائن سے ملٹی کوریڈور سسٹم تک وسیع کرنا جو ہندوستان کے بڑے اقتصادی مراکز کو جوڑ دے گا۔"
+      "hi": "**तकनीकी संप्रभुता के लिए**, अर्धचालकों को डिजाइन और निर्माण करने की क्षमता भारत को अपने स्वयं के प्रौद्योगिकी प्रक्षेप पथ को आगे बढ़ाने की स्वायत्तता देती है - विशेष रूप से रक्षा प्रणालियों, सुरक्षित संचार, वित्तीय बुनियादी ढांचे और एआई जैसे राष्ट्रीय रणनीतिक महत्व के क्षेत्रों में। स्वदेशी आईपी कोर, स्वदेशी प्रोसेसर (विक्रम, टीएचजेएएस), और स्वदेशी विनिर्माण क्षमता मिलकर ऐसी स्वायत्तता की नींव प्रदान करती है।",
+      "en": "**For technological sovereignty**, the ability to design and manufacture semiconductors gives India the autonomy to pursue its own technology trajectory — particularly in areas of national strategic importance such as defence systems, secure communications, financial infrastructure, and AI. Indigenous IP cores, indigenous processors (VIKRAM, THEJAS), and indigenous manufacturing capability together provide the foundations for such autonomy.",
+      "ur": "**ٹیکنالوجیکل خودمختاری کے لیے**، سیمی کنڈکٹرز کو ڈیزائن اور تیار کرنے کی صلاحیت ہندوستان کو خود مختاری دیتی ہے کہ وہ اپنی ٹکنالوجی کی رفتار کو آگے بڑھا سکے — خاص طور پر دفاعی نظام، محفوظ مواصلات، مالیاتی ڈھانچہ اور AI جیسے قومی اسٹریٹجک اہمیت کے شعبوں میں۔ دیسی آئی پی کور، دیسی پروسیسرز (VIKRAM، THEJAS)، اور مقامی مینوفیکچرنگ کی صلاحیت مل کر ایسی خود مختاری کی بنیاد فراہم کرتے ہیں۔"
     },
     "b29": {
-      "hi": "उत्तरोत्तर आगे बढ़ने वाले गलियारों में: दिल्ली-अहमदाबाद हाई-स्पीड रेल कॉरिडोर (डीएएचएसआर), 886 किलोमीटर लंबा, जो दिल्ली, हरियाणा, राजस्थान और गुजरात से होकर गुजरेगा - और जो एमएएचएसआर के साथ मिलकर लगभग 1,400 किलोमीटर की कुल लंबाई का दिल्ली-मुंबई हाई-स्पीड रेल कॉरिडोर (डीएमएचएसआर) बनाएगा, जो राष्ट्रीय राजधानी को भारत की वित्तीय राजधानी से लगभग तीन से चार घंटे में जोड़ देगा। मुंबई-पुणे हाई-स्पीड रेल कॉरिडोर, महाराष्ट्र के दो सबसे बड़े शहरों को जोड़ता है। दिल्ली-वाराणसी गलियारा, राजनीतिक राजधानी को भारत के सबसे महत्वपूर्ण सांस्कृतिक और आध्यात्मिक केंद्रों में से एक से जोड़ता है। चेन्नई-बेंगलुरु कॉरिडोर, दक्षिणी भारत के दो प्रमुख आर्थिक इंजनों को जोड़ता है। हैदराबाद-बेंगलुरु गलियारा, दक्षिणी प्रायद्वीप के आगे आर्थिक एकीकरण का आधार है। 240 किलोमीटर का अमृतसर-जम्मू कॉरिडोर, जिसके लिए संरेखण-डिज़ाइन बोलियां नवंबर 2025 में आमंत्रित की गईं थीं।",
-      "en": "Among the corridors progressively moving forward: the Delhi-Ahmedabad High-Speed Rail Corridor (DAHSR), 886 kilometres in length, which will pass through Delhi, Haryana, Rajasthan, and Gujarat — and which, when combined with the MAHSR, will form the Delhi-Mumbai High-Speed Rail Corridor (DMHSR) of nearly 1,400 kilometres total length, connecting the national capital with India's financial capital in approximately three to four hours. The Mumbai-Pune High-Speed Rail Corridor, connecting Maharashtra's two largest cities. The Delhi-Varanasi corridor, connecting the political capital with one of India's most consequential cultural and spiritual centres. The Chennai-Bengaluru corridor, connecting two of southern India's principal economic engines. The Hyderabad-Bengaluru corridor, anchoring further economic integration of the southern peninsula. The Amritsar-Jammu corridor of 240 kilometres, for which alignment-design bids were invited in November 2025.",
-      "ur": "بتدریج آگے بڑھنے والے راہداریوں میں: دہلی-احمد آباد ہائی اسپیڈ ریل کوریڈور (DAHSR)، لمبائی 886 کلومیٹر، جو دہلی، ہریانہ، راجستھان، اور گجرات سے گزرے گی - اور جو MAHSR کے ساتھ مل جانے پر، دہلی-ممبئی ہائی اسپیڈ ریل کوریڈور (ڈی ایچ ایس آر) کے قریب بنے گی۔ کلومیٹر کی کل لمبائی، تقریباً تین سے چار گھنٹے میں قومی دارالحکومت کو ہندوستان کے مالیاتی دارالحکومت سے جوڑتی ہے۔ ممبئی-پونے ہائی سپیڈ ریل کوریڈور، مہاراشٹر کے دو بڑے شہروں کو جوڑتا ہے۔ دہلی وارانسی کوریڈور، سیاسی دارالحکومت کو ہندوستان کے سب سے زیادہ نتیجہ خیز ثقافتی اور روحانی مراکز سے جوڑتا ہے۔ چنئی-بنگلور کوریڈور، جو جنوبی ہندوستان کے دو اہم اقتصادی انجنوں کو جوڑتا ہے۔ حیدرآباد-بنگلور کوریڈور، جنوبی جزیرہ نما کے مزید اقتصادی انضمام کو لنگر انداز کر رہا ہے۔ 240 کلومیٹر کا امرتسر-جموں کوریڈور، جس کے لیے نومبر 2025 میں الائنمنٹ ڈیزائن کی بولیاں طلب کی گئیں۔"
+      "hi": "**व्यापक आत्मनिर्भर भारत सिद्धांत के लिए**, अर्धचालक भारत की औद्योगिक-रणनीति वास्तुकला में एक महत्वपूर्ण गायब हिस्से को पूरा करते हैं। देश ने रक्षा विनिर्माण (वित्त वर्ष 2025-26 के लिए रक्षा निर्यात में ₹38,424 करोड़), फार्मास्यूटिकल्स ('दुनिया की फार्मेसी' स्थिति), डिजिटल बुनियादी ढांचे (यूपीआई, ओएनडीसी, दुनिया की सबसे बड़ी डिजिटल पहचान प्रणाली), और अब महत्वपूर्ण खनिज प्रसंस्करण और हाई-स्पीड रेल में क्षमताओं का निर्माण किया है। अर्धचालक इस वास्तुकला को मूलभूत परत जोड़कर पूरा करते हैं जिस पर अधिकांश आधुनिक तकनीक टिकी हुई है।",
+      "en": "**For the broader Aatmanirbhar Bharat doctrine**, semiconductors complete a critical missing piece in India's industrial-strategy architecture. The country has progressively built capabilities across defence manufacturing (₹38,424 crore in defence exports for FY 2025-26), pharmaceuticals (the \"pharmacy of the world\" positioning), digital infrastructure (UPI, ONDC, the world's largest digital identity system), and now critical minerals processing and high-speed rail. Semiconductors complete this architecture by adding the foundational layer on which most modern technology rests.",
+      "ur": "** وسیع تر آتمنیر بھر بھارت نظریے کے لیے **، سیمی کنڈکٹرز ہندوستان کی صنعتی حکمت عملی کے فن تعمیر میں ایک اہم گمشدہ حصے کو مکمل کرتے ہیں۔ ملک نے بتدریج دفاعی مینوفیکچرنگ (2025-26 کے لیے دفاعی برآمدات میں ₹38,424 کروڑ)، فارماسیوٹیکلز (دنیا کی فارمیسی\" پوزیشننگ)، ڈیجیٹل انفراسٹرکچر (UPI, ONDC، دنیا کا سب سے بڑا ڈیجیٹل شناختی نظام)، اور اب اہم معدنیات اور اعلیٰ معدنیات کی پروسیسنگ میں بتدریج صلاحیتیں تیار کی ہیں۔ سیمی کنڈکٹر اس فن تعمیر کو بنیادی تہہ جوڑ کر مکمل کرتے ہیں جس پر زیادہ تر جدید ٹیکنالوجی ٹکی ہوئی ہے۔"
     },
     "b30": {
-      "hi": "साथ में, ये गलियारे एक हाई-स्पीड-रेल ग्रिड का वर्णन करते हैं, जो पूरा होने पर, दुनिया के सबसे परिणामी राष्ट्रीय हाई-स्पीड-रेल नेटवर्क में शुमार होगा - चीनी, जापानी और यूरोपीय प्रणालियों के पैमाने और महत्वाकांक्षा में तुलनीय।",
-      "en": "Together, these corridors describe a high-speed-rail grid that, when complete, will rank among the world's most consequential national high-speed-rail networks — comparable in scale and ambition to the Chinese, Japanese, and European systems.",
-      "ur": "ایک ساتھ، یہ کوریڈورز ایک تیز رفتار ریل گرڈ کی وضاحت کرتے ہیں جو، مکمل ہونے پر، دنیا کے سب سے زیادہ نتیجہ خیز قومی ہائی اسپیڈ ریل نیٹ ورکس میں شمار کیا جائے گا - جس کا موازنہ چینی، جاپانی، اور یورپی نظاموں سے کیا جا سکتا ہے۔"
+      "hi": "**भारत की कूटनीतिक स्थिति के लिए**, सेमीकंडक्टर क्षमता क्वाड, इंडो-पैसिफिक इकोनॉमिक फ्रेमवर्क और संयुक्त राज्य अमेरिका, जापान, दक्षिण कोरिया, ताइवान, नीदरलैंड, जर्मनी और अन्य प्रमुख सेमीकंडक्टर-अर्थव्यवस्था भागीदारों के साथ द्विपक्षीय संबंधों में भारत की स्थिति को मजबूत करती है। वैश्विक सेमीकंडक्टर मूल्य श्रृंखला में भारत का प्रगतिशील एकीकरण - एक डिजाइनर, निर्माता, पैकेजिंग हब और अंतिम बाजार के रूप में - देश को वर्तमान शताब्दी की सबसे परिणामी प्रौद्योगिकी के भविष्य को आकार देने में पर्याप्त रणनीतिक एजेंसी प्रदान करता है।",
+      "en": "**For India's diplomatic positioning**, semiconductor capability strengthens India's positioning in the Quad, the Indo-Pacific Economic Framework, and bilateral relationships with the United States, Japan, South Korea, Taiwan, the Netherlands, Germany, and other major semiconductor-economy partners. India's progressive integration into the global semiconductor value chain — as a designer, manufacturer, packaging hub, and end-market — gives the country substantial strategic agency in shaping the future of the most consequential technology of the present century.",
+      "ur": "**ہندوستان کی سفارتی پوزیشننگ کے لیے**، سیمی کنڈکٹر کی صلاحیت کواڈ، انڈو پیسیفک اکنامک فریم ورک، اور ریاستہائے متحدہ، جاپان، جنوبی کوریا، تائیوان، نیدرلینڈ، جرمنی، اور دیگر بڑے سیمی کنڈکٹر اقتصادی شراکت داروں کے ساتھ دو طرفہ تعلقات میں ہندوستان کی پوزیشن کو مضبوط کرتی ہے۔ عالمی سیمی کنڈکٹر ویلیو چین میں ہندوستان کا ترقی پسند انضمام - ایک ڈیزائنر، مینوفیکچرر، پیکیجنگ ہب، اور اینڈ مارکیٹ کے طور پر - موجودہ صدی کی سب سے زیادہ نتیجہ خیز ٹیکنالوجی کے مستقبل کو تشکیل دینے میں ملک کو کافی اسٹریٹجک ایجنسی فراہم کرتا ہے۔"
     },
     "b31": {
-      "hi": "रणनीतिक रूप से इसका क्या मतलब है",
-      "en": "What this means strategically",
-      "ur": "اس کا حکمت عملی سے کیا مطلب ہے۔"
-    },
-    "b32": {
-      "hi": "अगस्त 2027 में B28 की शुरुआत एक ही कॉरिडोर पर एकल ट्रेन के लॉन्च से कहीं अधिक का प्रतिनिधित्व करती है। यह भारत के हाई-स्पीड-रेल प्रौद्योगिकी के उत्पादक - न कि केवल उपभोक्ता - के रूप में उभरने का प्रतीक है। निहितार्थ कई आयामों में फैले हुए हैं।",
-      "en": "The B28's debut in August 2027 represents substantially more than the launch of a single train on a single corridor. It marks India's emergence as a producer — not just a consumer — of high-speed-rail technology. The implications cut across multiple dimensions.",
-      "ur": "اگست 2027 میں B28 کا آغاز ایک راہداری پر واحد ٹرین کے آغاز سے کافی زیادہ نمائندگی کرتا ہے۔ یہ تیز رفتار ریل ٹکنالوجی کے ایک پروڈیوسر — نہ صرف ایک صارف — کے طور پر ہندوستان کے ابھرنے کی نشاندہی کرتا ہے۔ مضمرات متعدد جہتوں میں کاٹتے ہیں۔"
-    },
-    "b33": {
-      "hi": "**भारत की औद्योगिक क्षमता के लिए**, B28 एक घरेलू हाई-स्पीड-रेल विनिर्माण पारिस्थितिकी तंत्र स्थापित करता है - बेंगलुरु में BEML की आदित्य सुविधा, ट्रैक्शन उपकरण, बोगियों, ब्रेकिंग सिस्टम और इलेक्ट्रिकल सिस्टम के लिए आपूर्तिकर्ता आधार, NHSRCL में अंतर्निहित संस्थागत ज्ञान, वडोदरा प्रशिक्षण केंद्र में प्रशिक्षित इंजीनियरिंग प्रतिभा, और निर्माण और परामर्श फर्मों का नेटवर्क जिन्होंने सिविल कार्य किए हैं। यह पारिस्थितिकी तंत्र भविष्य के स्वदेशी हाई-स्पीड-रेल रोलिंग स्टॉक की नींव बन जाता है - जिसमें पहले से ही 350 किमी/घंटा अधिकतम डिज़ाइन गति के साथ ड्राइंग बोर्ड पर बी 35 ट्रेनसेट शामिल है।",
-      "en": "**For India's industrial capability**, the B28 establishes a domestic high-speed-rail manufacturing ecosystem — BEML's Aditya facility in Bengaluru, the supplier base for traction equipment, bogies, braking systems, and electrical systems, the institutional knowledge embedded in NHSRCL, the engineering talent trained at the Vadodara Training Centre, and the network of construction and consulting firms that have delivered the civil works. This ecosystem becomes the foundation for future indigenous high-speed-rail rolling stock — including the B35 trainset already on the drawing board with a 350 km/h maximum design speed.",
-      "ur": "**ہندوستان کی صنعتی صلاحیت کے لیے**، B28 ایک گھریلو تیز رفتار ریل مینوفیکچرنگ ماحولیاتی نظام قائم کرتا ہے — بنگلورو میں BEML کی آدتیہ سہولت، کرشن آلات، بوگیوں، بریکنگ سسٹمز، اور الیکٹریکل سسٹمز کے لیے سپلائی کرنے والا اڈہ، ادارہ جاتی علم جو کہ NHSRingal Ingenering Training in Training. مرکز، اور تعمیراتی اور مشاورتی فرموں کا نیٹ ورک جنہوں نے سول کاموں کو انجام دیا ہے۔ یہ ماحولیاتی نظام مستقبل کے مقامی ہائی اسپیڈ ریل رولنگ اسٹاک کی بنیاد بنتا ہے — بشمول B35 ٹرین سیٹ پہلے سے ڈرائنگ بورڈ پر 350 کلومیٹر فی گھنٹہ کی زیادہ سے زیادہ ڈیزائن کی رفتار کے ساتھ۔"
-    },
-    "b34": {
-      "hi": "**भारत की अर्थव्यवस्था के लिए**, गलियारा मुंबई और अहमदाबाद के बीच इंटरसिटी यात्रा के समय को नौ घंटे से घटाकर लगभग दो घंटे कर देता है - जो पश्चिमी भारत में व्यापार, वाणिज्य, पर्यटन और श्रम गतिशीलता के अर्थशास्त्र को मौलिक रूप से बदल देता है। यह गलियारा दोनों शहरों के बीच छोटी दूरी के हवाई यातायात की पर्याप्त मात्रा को अवशोषित करेगा, जिससे मुंबई और अहमदाबाद हवाई अड्डों पर विमानन की भीड़ कम हो जाएगी, जबकि काफी कम कार्बन विकल्प उपलब्ध होगा। पिछले कई वर्षों में निर्माण ने ही पर्याप्त रोजगार, सीमेंट और स्टील की मांग और कुशल इंजीनियरिंग सेवाओं की मांग का समर्थन किया है - जिससे कई भारतीय राज्यों में आर्थिक गतिविधि को बढ़ावा मिला है।",
-      "en": "**For India's economy**, the corridor reduces intercity travel time between Mumbai and Ahmedabad from nine hours to approximately two — fundamentally transforming the economics of business, commerce, tourism, and labour mobility in western India. The corridor will absorb substantial volume of short-haul air traffic between the two cities, reducing aviation congestion at Mumbai and Ahmedabad airports while providing a substantially lower-carbon alternative. The construction itself has, over the past several years, supported substantial employment, demand for cement and steel, and demand for skilled engineering services — driving economic activity across multiple Indian states.",
-      "ur": "**ہندوستان کی معیشت کے لیے**، کوریڈور ممبئی اور احمد آباد کے درمیان انٹر سٹی سفر کے وقت کو نو گھنٹے سے کم کر کے تقریباً دو کر دیتا ہے — بنیادی طور پر مغربی ہندوستان میں کاروبار، تجارت، سیاحت اور مزدوروں کی نقل و حرکت کی اقتصادیات کو تبدیل کرتا ہے۔ یہ کوریڈور دونوں شہروں کے درمیان مختصر فاصلے کی ہوائی ٹریفک کے کافی حجم کو جذب کرے گا، جس سے ممبئی اور احمد آباد ہوائی اڈوں پر ہوابازی کی بھیڑ میں کمی آئے گی جبکہ کافی حد تک کم کاربن متبادل فراہم کرے گا۔ خود تعمیر نے، پچھلے کئی سالوں میں، کافی روزگار، سیمنٹ اور اسٹیل کی مانگ، اور ہنر مند انجینئرنگ خدمات کی مانگ میں مدد کی ہے - متعدد ہندوستانی ریاستوں میں اقتصادی سرگرمی کو آگے بڑھا رہی ہے۔"
-    },
-    "b35": {
-      "hi": "**भारत की रणनीतिक स्थिति के लिए**, B28 देश को उन देशों के एक छोटे वैश्विक क्लब में रखता है जिनके पास संप्रभु हाई-स्पीड-रेल क्षमता है। जापान (1964 से शिंकानसेन अग्रणी), फ्रांस (1981 से टीजीवी), जर्मनी (आईसीई), स्पेन (एवीई), चीन (सीआरएच), दक्षिण कोरिया (केटीएक्स), और ताइवान (टीएचएसआर) मौजूदा सदस्यता का गठन करते हैं। भारत इस क्लब में विदेशी प्रौद्योगिकी के आयातक के रूप में नहीं बल्कि एक स्वदेशी उत्पादक के रूप में शामिल हुआ है - भविष्य में अन्य उभरती अर्थव्यवस्थाओं को अपने स्वयं के हाई-स्पीड-रेल संक्रमण के लिए निर्यात क्षमता के साथ।",
-      "en": "**For India's strategic posture**, the B28 places the country in a small global club of nations that possess sovereign high-speed-rail capability. Japan (the Shinkansen pioneer since 1964), France (TGV since 1981), Germany (ICE), Spain (AVE), China (CRH), South Korea (KTX), and Taiwan (THSR) constitute the existing membership. India joins this club not as an importer of foreign technology but as an indigenous producer — with future export potential to other emerging economies undertaking their own high-speed-rail transitions.",
-      "ur": "**ہندوستان کی اسٹریٹجک پوزیشن کے لیے**، B28 ملک کو اقوام کے ایک چھوٹے عالمی کلب میں رکھتا ہے جو خودمختار تیز رفتار ریل کی صلاحیت کے مالک ہیں۔ جاپان (1964 سے شنکانسن کا علمبردار)، فرانس (1981 سے TGV)، جرمنی (ICE)، اسپین (AVE)، چین (CRH)، جنوبی کوریا (KTX)، اور تائیوان (THSR) موجودہ رکنیت تشکیل دیتے ہیں۔ ہندوستان اس کلب میں غیر ملکی ٹیکنالوجی کے درآمد کنندہ کے طور پر نہیں بلکہ ایک دیسی پروڈیوسر کے طور پر شامل ہوتا ہے - مستقبل میں دیگر ابھرتی ہوئی معیشتوں کو اپنی تیز رفتار ریل کی منتقلی کے لیے برآمدی صلاحیت کے ساتھ۔"
-    },
-    "b36": {
-      "hi": "**भारत की ऊर्जा और पर्यावरण प्रोफ़ाइल के लिए**, हाई-स्पीड रेल उपलब्ध सबसे कुशल जन-परिवहन प्रौद्योगिकियों में से एक है। विद्युतीकृत हाई-स्पीड रेल समकक्ष हवाई यात्रा के प्रति-यात्री-किलोमीटर उत्सर्जन का एक अंश और समकक्ष ऑटोमोबाइल यात्रा की तुलना में काफी कम उत्सर्जन करती है। कॉरिडोर की विद्युतीकृत 2 x 25 केवी ओवरहेड ट्रैक्शन प्रणाली को भारत की विस्तारित नवीकरणीय ऊर्जा क्षमता के साथ उत्तरोत्तर एकीकृत किया जा सकता है - जो देश द्वारा निर्धारित व्यापक भारतीय रेलवे नेट-शून्य-बाय-2030 लक्ष्य को पूरा करेगा।",
-      "en": "**For India's energy and environmental profile**, high-speed rail is among the most efficient mass-transport technologies available. Electrified high-speed rail produces a fraction of the per-passenger-kilometre emissions of equivalent air travel and substantially less than equivalent automobile travel. The corridor's electrified 2 x 25 kV overhead traction system can be progressively integrated with India's expanding renewable energy capacity — feeding into the broader Indian Railways net-zero-by-2030 target that the country has set.",
-      "ur": "**ہندوستان کی توانائی اور ماحولیاتی پروفائل** کے لیے، تیز رفتار ریل سب سے زیادہ موثر بڑے پیمانے پر نقل و حمل کی دستیاب ٹیکنالوجیز میں سے ایک ہے۔ بجلی سے چلنے والی تیز رفتار ریل مساوی ہوائی سفر کے فی مسافر کلومیٹر کے اخراج کا ایک حصہ پیدا کرتی ہے اور مساوی آٹوموبائل سفر سے کافی کم۔ کوریڈور کے الیکٹریفائیڈ 2 x 25 kV اوور ہیڈ کرشن سسٹم کو ہندوستان کی قابل تجدید توانائی کی وسعت کے ساتھ بتدریج ضم کیا جا سکتا ہے - 2030 تک وسیع تر ہندوستانی ریلوے کے خالص-صفر ہدف کو پورا کرنا جو ملک نے مقرر کیا ہے۔"
-    },
-    "b37": {
       "hi": "आगे का रास्ता",
       "en": "The road ahead",
       "ur": "آگے کی سڑک"
     },
-    "b38": {
-      "hi": "अगले बारह महीने B28 कार्यक्रम के इतिहास में सबसे महत्वपूर्ण होंगे। पहला प्रोटोटाइप मार्च 2027 तक बीईएमएल की आदित्य सुविधा से तैयार किया जाना है। इसके तुरंत बाद स्थैतिक और संरचनात्मक परीक्षण शुरू हो जाएगा। दोलन परीक्षण और उच्च गति गतिशील परीक्षण ट्रेनसेट की परिचालन विशेषताओं को उत्तरोत्तर मान्य करेंगे। रेलवे सुरक्षा आयुक्त और अनुसंधान डिजाइन और मानक संगठन (आरडीएसओ) द्वारा अंतिम प्रमाणीकरण ट्रेनसेट को वाणिज्यिक संचालन के लिए मंजूरी दे देगा। अगस्त 2027 तक, यात्री 250 किलोमीटर प्रति घंटे की रफ्तार से वापी की यात्रा के लिए सूरत में पहली भारत निर्मित बुलेट ट्रेन में सवार होंगे।",
-      "en": "The next twelve months will be the most consequential in the B28 programme's history. The first prototype is to be rolled out from BEML's Aditya facility by March 2027. Static and structural testing will commence immediately thereafter. Oscillation trials and high-speed dynamic trials will progressively validate the trainset's operational characteristics. Final certification by the Commissioner of Railway Safety and the Research Designs and Standards Organisation (RDSO) will clear the trainset for commercial operations. By August 2027, passengers will board the first Indian-made bullet train at Surat for the journey to Vapi at 250 kilometres per hour.",
-      "ur": "اگلے بارہ مہینے B28 پروگرام کی تاریخ میں سب سے زیادہ نتیجہ خیز ہوں گے۔ پہلا پروٹو ٹائپ مارچ 2027 تک BEML کی آدتیہ سہولت سے شروع کیا جانا ہے۔ اس کے فوراً بعد جامد اور ساختی جانچ شروع ہو جائے گی۔ Oscillation ٹرائلز اور تیز رفتار ڈائنامک ٹرائلز آہستہ آہستہ ٹرین سیٹ کی آپریشنل خصوصیات کی توثیق کریں گے۔ کمشنر آف ریلوے سیفٹی اور ریسرچ ڈیزائنز اینڈ اسٹینڈرڈز آرگنائزیشن (RDSO) کی طرف سے حتمی سرٹیفیکیشن تجارتی آپریشنز کے لیے ٹرین سیٹ کو صاف کرے گا۔ اگست 2027 تک، مسافر 250 کلومیٹر فی گھنٹہ کی رفتار سے واپی کے سفر کے لیے سورت میں ہندوستانی ساختہ پہلی بلٹ ٹرین میں سوار ہوں گے۔"
+    "b32": {
+      "hi": "FY27 ₹7,100 करोड़ का पैकेज आने वाले बारह महीनों में कार्यान्वयन के माध्यम से आगे बढ़ेगा। निर्माण-इकाई घटक, विशिष्ट-सुविधा घटक और विस्तारित डीएलआई घटक के लिए आवेदन भारत सेमीकंडक्टर मिशन की स्थापित संस्थागत प्रक्रियाओं के माध्यम से आमंत्रित और मूल्यांकन किए जाएंगे। परियोजना मंजूरी से विकास पाइपलाइन में उत्तरोत्तर अतिरिक्त क्षमता आएगी। निवेश FY27 में शुरू होगा और बाद के वर्षों में उत्तरोत्तर बढ़ेगा।",
+      "en": "The FY27 ₹7,100 crore package will move through implementation over the coming twelve months. Applications for the fabrication-unit component, the specialised-facilities component, and the expanded DLI component will be invited and evaluated through the established institutional processes of the India Semiconductor Mission. Project clearances will progressively bring additional capacity into the development pipeline. Investments will commence in FY27 and progressively scale through subsequent years.",
+      "ur": "FY27 ₹ 7,100 کروڑ کا پیکج آنے والے بارہ مہینوں کے دوران عمل میں آئے گا۔ فیبریکیشن یونٹ کے جزو، خصوصی سہولتوں کے جزو، اور توسیع شدہ DLI جزو کے لیے درخواستیں انڈیا سیمی کنڈکٹر مشن کے قائم کردہ ادارہ جاتی عمل کے ذریعے مدعو کی جائیں گی اور ان کا جائزہ لیا جائے گا۔ پروجیکٹ کی منظوری سے ترقیاتی پائپ لائن میں بتدریج اضافی صلاحیت آئے گی۔ سرمایہ کاری مالی سال 27 میں شروع ہوگی اور بتدریج اس کے بعد کے سالوں تک پھیلے گی۔"
     },
-    "b39": {
-      "hi": "मध्यम अवधि में, B28 बेड़े का उत्तरोत्तर विस्तार होगा। आने वाले वर्षों में कंसोर्टियम ऑर्डर के तहत सोलह अतिरिक्त ट्रेनसेट बीईएमएल से शुरू किए जाएंगे, जो पूर्ण एमएएचएसआर कॉरिडोर की नियोजित सत्तर दैनिक सेवाओं का समर्थन करने के लिए परिचालन पैमाने प्रदान करेंगे। बी35 ट्रेनसेट - 350 किमी/घंटा के लिए डिज़ाइन किया गया - पहले से ही वैचारिक विकास के अधीन है, बी28 कार्यक्रम से संचित संस्थागत ज्ञान और भी अधिक महत्वाकांक्षी अगली पीढ़ी के ट्रेनसेट के लिए आधार प्रदान करता है।",
-      "en": "In the medium term, the B28 fleet will progressively expand. Sixteen additional trainsets under the consortium order will roll out from BEML over the coming years, providing the operational scale to support the full MAHSR corridor's planned seventy daily services. The B35 trainset — designed for 350 km/h — is already under conceptual development, with the institutional knowledge accumulated from the B28 programme providing the foundation for an even more ambitious next-generation trainset.",
-      "ur": "درمیانی مدت میں، B28 کا بیڑا بتدریج پھیلے گا۔ کنسورشیم آرڈر کے تحت سولہ اضافی ٹرین سیٹ آنے والے سالوں میں BEML سے شروع ہوں گے، جو مکمل MAHSR کوریڈور کی منصوبہ بند ستر یومیہ خدمات کو سپورٹ کرنے کے لیے آپریشنل پیمانے فراہم کریں گے۔ B35 ٹرین سیٹ — جو 350 کلومیٹر فی گھنٹہ کے لیے ڈیزائن کیا گیا ہے — پہلے سے ہی تصوراتی ترقی کے تحت ہے، B28 پروگرام سے جمع ہونے والے ادارہ جاتی علم کے ساتھ اگلی نسل کے مزید مہتواکانکشی ٹرین سیٹ کی بنیاد فراہم کرتا ہے۔"
+    "b33": {
+      "hi": "मध्यम अवधि में, प्रक्षेपवक्र अच्छी तरह से स्थापित है। इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय का अनुमान है कि आईएसएम के तहत सेमीकंडक्टर कंपनियां वित्त वर्ष 27 तक सामूहिक रूप से ₹31,299 करोड़ का निवेश करेंगी - जो इस योजना के तहत लगभग ₹1.65 लाख करोड़ के प्रतिबद्ध निवेश का लगभग पांचवां हिस्सा है। 2029 तक, भारत 70 से 75 प्रतिशत घरेलू अनुप्रयोगों के लिए आवश्यक चिप्स को डिजाइन और निर्माण करने की क्षमता का लक्ष्य रखता है। 2035 तक, देश ने 3-नैनोमीटर और 2-नैनोमीटर विनिर्माण क्षमताओं का लक्ष्य रखा है, जो इसे वैश्विक सेमीकंडक्टर प्रौद्योगिकी में सबसे आगे रखेगा।",
+      "en": "In the medium term, the trajectory is well-established. The Ministry of Electronics and Information Technology estimates that semiconductor companies under the ISM will collectively invest ₹31,299 crore by FY27 — representing approximately one-fifth of the committed investment of about ₹1.65 lakh crore under the scheme. By 2029, India targets the capability to design and manufacture chips required for 70 to 75 per cent of domestic applications. By 2035, the country targets 3-nanometre and 2-nanometre manufacturing capabilities, placing it at the frontier of global semiconductor technology.",
+      "ur": "درمیانی مدت میں، رفتار اچھی طرح سے قائم ہے. الیکٹرانکس اور انفارمیشن ٹکنالوجی کی وزارت کا اندازہ ہے کہ ISM کے تحت سیمی کنڈکٹر کمپنیاں FY27 تک مجموعی طور پر ₹31,299 کروڑ کی سرمایہ کاری کریں گی - جو اس اسکیم کے تحت تقریباً ₹1.65 لاکھ کروڑ کی پرعزم سرمایہ کاری کا تقریباً پانچواں حصہ نمائندگی کرتی ہے۔ 2029 تک، ہندوستان نے 70 سے 75 فیصد گھریلو ایپلی کیشنز کے لیے ضروری چپس کو ڈیزائن اور تیار کرنے کی صلاحیت کو ہدف بنایا ہے۔ 2035 تک، ملک نے 3-نینو میٹر اور 2-نینو میٹر کی مینوفیکچرنگ صلاحیتوں کو ہدف بنایا ہے، اسے عالمی سیمی کنڈکٹر ٹیکنالوجی کے فرنٹیئر پر رکھا جائے گا۔"
     },
-    "b40": {
-      "hi": "लंबी अवधि में, केंद्रीय बजट 2026-27 में प्रस्तावित सात नए हाई-स्पीड-रेल कॉरिडोर धीरे-धीरे योजना से निर्माण और संचालन की ओर बढ़ेंगे। भारत का राष्ट्रीय हाई-स्पीड-रेल नेटवर्क, 2030 के अंत तक, हजारों किलोमीटर तक फैला होगा और देश के लगभग हर प्रमुख आर्थिक केंद्र को जोड़ेगा। निर्यात का अवसर जो B28 पारिस्थितिकी तंत्र बनाता है - आसियान, अफ्रीका, लैटिन अमेरिका और उच्च गति-रेल परिवर्तन करने वाली अन्य उभरती अर्थव्यवस्थाओं के लिए - उत्तरोत्तर साकार होगा।",
-      "en": "In the longer term, the seven new high-speed-rail corridors proposed in the Union Budget 2026-27 will progressively move from planning to construction to operation. India's national high-speed-rail network will, by the late 2030s, span thousands of kilometres and connect virtually every major economic centre of the country. The export opportunity that the B28 ecosystem creates — to ASEAN, to Africa, to Latin America, and to other emerging economies undertaking high-speed-rail transitions — will progressively materialise.",
-      "ur": "طویل مدتی میں، مرکزی بجٹ 2026-27 میں تجویز کردہ سات نئے ہائی سپیڈ ریل کوریڈور منصوبہ بندی سے تعمیراتی کام کی طرف بتدریج آگے بڑھیں گے۔ ہندوستان کا قومی تیز رفتار ریل نیٹ ورک 2030 کی دہائی کے آخر تک ہزاروں کلومیٹر پر محیط ہو جائے گا اور عملی طور پر ملک کے ہر بڑے اقتصادی مرکز کو جوڑ دے گا۔ برآمدی مواقع جو B28 ایکو سسٹم تخلیق کرتا ہے — آسیان، افریقہ، لاطینی امریکہ، اور تیز رفتار ریل کی منتقلی کرنے والی دیگر ابھرتی ہوئی معیشتوں کے لیے — آہستہ آہستہ پورا ہو جائے گا۔"
+    "b34": {
+      "hi": "लंबी अवधि में, भारत का सेमीकंडक्टर पारिस्थितिकी तंत्र - आरआईएससी-वी वास्तुकला पर निर्मित भारतीय-डिज़ाइन किए गए प्रोसेसर, कई प्रौद्योगिकी नोड्स में भारतीय-निर्मित चिप्स, घरेलू और निर्यात दोनों बाजारों में सेवा देने वाले भारतीय-पैक उत्पाद, और डिजाइन, विनिर्माण और उपकरण-आपूर्ति पारिस्थितिकी तंत्र में भारतीय-प्रशिक्षित सेमीकंडक्टर प्रतिभा द्वारा समर्थित - देश को अग्रणी वैश्विक सेमीकंडक्टर देशों में स्थान देने की क्षमता रखता है। यात्रा कई दशकों की है; प्रक्षेप पथ अब मजबूती से स्थापित हो गया है।",
+      "en": "In the longer term, India's semiconductor ecosystem — anchored by Indian-designed processors built on the RISC-V architecture, Indian-manufactured chips across multiple technology nodes, Indian-packaged products serving both domestic and export markets, and Indian-trained semiconductor talent across the design, manufacturing, and equipment-supply ecosystem — has the potential to position the country among the leading global semiconductor nations. The journey is multi-decade; the trajectory is now firmly established.",
+      "ur": "طویل مدتی میں، ہندوستان کا سیمی کنڈکٹر ایکو سسٹم — جو RISC-V فن تعمیر پر بنائے گئے ہندوستانی ڈیزائن کردہ پروسیسرز کے ذریعے لنگر انداز ہے، متعدد ٹکنالوجی نوڈس پر ہندوستانی تیار کردہ چپس، گھریلو اور برآمدی منڈیوں دونوں میں خدمات فراہم کرنے والی ہندوستانی پیکڈ مصنوعات، اور ہندوستانی تربیت یافتہ سیمی کنڈکٹر ٹیلنٹ - ڈیزائن، سازوسامان اور سازوسامان میں ممکنہ طور پر پوزیشن حاصل کرنے کی صلاحیت رکھتا ہے۔ معروف عالمی سیمی کنڈکٹر ممالک میں سے ایک ملک۔ سفر کئی دہائیوں پر مشتمل ہے۔ رفتار اب مضبوطی سے قائم ہے۔"
     },
-    "b41": {
-      "hi": "अभी के लिए, 24 जून 2026 की सुबह, संस्थागत रिकॉर्ड पर जो लिखा है वह यह है: पहली भारतीय-डिज़ाइन, भारत-निर्मित बुलेट ट्रेन बेंगलुरु में उन्नत उत्पादन में है। मुंबई-अहमदाबाद कॉरिडोर पर वाणिज्यिक परिचालन अगस्त 2027 के लिए निर्धारित है। ट्रेन की मेजबानी करने वाले सिविल कार्य 56 प्रतिशत पूरे हो चुके हैं। पूरक बेड़े के आदेश को अंतिम रूप दिया जा रहा है। उत्तराधिकारी B35 ट्रेनसेट ड्राइंग बोर्ड पर है। राष्ट्रीय हाई-स्पीड-रेल कॉरिडोर की अगली पीढ़ी एक प्रस्ताव से दूसरे कार्यक्रम की ओर बढ़ रही है। भारत बुलेट ट्रेन युग में प्रवेश कर रहा है - और अपनी शर्तों पर इसमें प्रवेश कर रहा है।",
-      "en": "For now, on the morning of 24 June 2026, what stands on the institutional record is this: the first Indian-designed, Indian-manufactured bullet train is in advanced production at Bengaluru. Commercial operations are scheduled for August 2027 on the Mumbai-Ahmedabad corridor. The civil works that will host the train are 56 per cent complete. The supplementary fleet order is under finalisation. The successor B35 trainset is on the drawing board. The next generation of national high-speed-rail corridors is moving from proposal to programme. India is entering the bullet train era — and entering it on its own terms.",
-      "ur": "ابھی کے لیے، 24 جون 2026 کی صبح، ادارہ جاتی ریکارڈ پر جو کچھ کھڑا ہے وہ یہ ہے: پہلی ہندوستانی ڈیزائن کردہ، ہندوستانی ساختہ بلٹ ٹرین بنگلورو میں جدید پیداوار میں ہے۔ ممبئی-احمد آباد کوریڈور پر اگست 2027 میں کمرشل آپریشنز شیڈول ہیں۔ ٹرین کی میزبانی کرنے والے سول ورکس 56 فیصد مکمل ہو چکے ہیں۔ سپلیمنٹری فلیٹ آرڈر کو حتمی شکل دی جا رہی ہے۔ جانشین B35 ٹرین سیٹ ڈرائنگ بورڈ پر ہے۔ قومی ہائی سپیڈ ریل کوریڈورز کی اگلی نسل تجویز سے پروگرام کی طرف بڑھ رہی ہے۔ ہندوستان بلٹ ٹرین کے دور میں داخل ہو رہا ہے — اور اسے اپنی شرائط پر داخل کر رہا ہے۔"
+    "b35": {
+      "hi": "अभी के लिए, 24 जून 2026 की सुबह, आधिकारिक रिकॉर्ड पर जो लिखा है वह यह है: व्यय विभाग ने निजी निवेश में 15,000 करोड़ रुपये, 4,500 से अधिक प्रत्यक्ष नौकरियों, दस स्वदेशी आईपी कोर और भारत के सेमीकंडक्टर पारिस्थितिकी तंत्र के एकीकरण को लक्षित करते हुए ₹7,100 करोड़ FY27 प्रोत्साहन पैकेज को अंतिम रूप दिया है। आईएसएम 2.0 चालू है। कई सुविधाओं में वाणिज्यिक उत्पादन चल रहा है। स्वदेशी भारतीय प्रोसेसर वास्तविक अनुप्रयोगों में काम कर रहे हैं। सेमीकंडक्टर मिशन, जो सिर्फ पांच साल पहले महत्वाकांक्षी आकांक्षा की तरह दिखता था, आज, एक ऑपरेटिंग औद्योगिक वास्तविकता है जिसका निरंतर प्रक्षेपवक्र भारत की समकालीन औद्योगिक कहानी में सबसे परिणामी रणनीतिक कथाओं में से एक है।",
+      "en": "For now, on the morning of 24 June 2026, what stands on the official record is this: the Department of Expenditure has finalised a ₹7,100 crore FY27 incentive package targeting ₹15,000 crore in private investment, 4,500-plus direct jobs, ten indigenous IP cores, and the further consolidation of India's semiconductor ecosystem. ISM 2.0 is operational. Commercial production is underway at multiple facilities. Indigenous Indian processors are operating in real applications. The semiconductor mission that, just five years ago, looked like ambitious aspiration is, today, an operating industrial reality whose continued trajectory is among the most consequential strategic narratives in India's contemporary industrial story.",
+      "ur": "ابھی کے لیے، 24 جون 2026 کی صبح، جو سرکاری ریکارڈ پر کھڑا ہے وہ یہ ہے: محکمہ اخراجات نے مالی سال 27 کے 7,100 کروڑ روپے کے ایک مراعاتی پیکج کو حتمی شکل دی ہے جس کا ہدف ₹15,000 کروڑ پرائیویٹ سرمایہ کاری، 4,500 سے زائد براہ راست ملازمتیں، دس مقامی آئی پی کور، اور بھارت کے سیمی اکانومیسٹ یا سیمی اکانومیسٹرکڈکٹ کے مزید کنسرٹ ہیں۔ ISM 2.0 آپریشنل ہے۔ متعدد سہولیات پر تجارتی پیداوار جاری ہے۔ مقامی ہندوستانی پروسیسرز حقیقی ایپلی کیشنز میں کام کر رہے ہیں۔ سیمی کنڈکٹر مشن جو کہ صرف پانچ سال پہلے، مہتواکانکشی آرزو کی طرح لگتا تھا، آج، ایک آپریٹنگ صنعتی حقیقت ہے جس کا تسلسل ہندوستان کی عصری صنعتی کہانی میں سب سے زیادہ نتیجہ خیز اسٹریٹجک بیانیہ میں سے ایک ہے۔"
     }
   }
 }
