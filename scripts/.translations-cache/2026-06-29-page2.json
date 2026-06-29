@@ -1,0 +1,150 @@
+{
+  "hash": "66336a0edd80ebc1",
+  "t": {
+    "fm.section": {
+      "hi": "व्यापार वित्त",
+      "en": "Business \\& Finance",
+      "ur": "کاروبار اور خزانہ"
+    },
+    "fm.kicker": {
+      "hi": "\"वैश्विक इक्विटी बाज़ार · मार्केट कैप रैंकिंग\"",
+      "en": "\"Global Equity Markets · Market Cap Rankings\"",
+      "ur": "\"عالمی ایکویٹی مارکیٹس · مارکیٹ کیپ کی درجہ بندی\""
+    },
+    "fm.byline": {
+      "hi": "वित्तीय संवाददाता",
+      "en": "Financial Correspondent",
+      "ur": "مالی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "मुंबई/नई दिल्ली",
+      "en": "Mumbai / New Delhi",
+      "ur": "ممبئی/ نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"भारत ने 5वां सबसे बड़ा शेयर बाजार ताज हासिल किया: वैश्विक इक्विटी शेकअप में ताइवान और दक्षिण कोरिया की गिरावट के कारण $5T मील का पत्थर टूट गया\"",
+      "en": "\"India reclaims 5th-largest stock market crown: $5T milestone breached as Taiwan and South Korea slide in global equity shakeup\"",
+      "ur": "\"ہندوستان نے 5ویں سب سے بڑی اسٹاک مارکیٹ کا تاج دوبارہ حاصل کیا: تائیوان اور جنوبی کوریا کے عالمی ایکویٹی میں تبدیلی کے ساتھ $5T کا سنگ میل عبور کیا\""
+    },
+    "fm.subdeck": {
+      "hi": "\"मई में आक्रामक पूर्वी एशियाई तकनीकी रैली के बीच थोड़े समय के लिए सातवें स्थान पर फिसलने के बाद, भारतीय इक्विटी ने निश्चित रूप से वापसी की है। जून में 2.75% घरेलू उछाल, कच्चे तेल की कीमतों में नरमी और ताइपेई और सियोल में सेमीकंडक्टर के नेतृत्व वाली मुनाफा-वसूली में तेज गिरावट के कारण, भारत का कुल बाजार पूंजीकरण $ 5.05 ट्रिलियन को पार कर गया है - जिससे दुनिया के पांचवें सबसे बड़े इक्विटी बाजार के रूप में इसकी स्थिति बहाल हो गई है।\"",
+      "en": "\"After briefly slipping to seventh place in May amid an aggressive East Asian tech rally, Indian equities have staged a definitive comeback. Driven by a 2.75% domestic surge in June, softening crude prices, and a sharp semiconductor-led profit-booking correction in Taipei and Seoul, India's aggregate market capitalization has crossed $5.05 trillion—restoring its status as the world's fifth-largest equity market.\"",
+      "ur": "\"مئی میں ایک جارحانہ مشرقی ایشیائی ٹیک ریلی کے درمیان ساتویں نمبر پر جانے کے بعد، ہندوستانی ایکوئٹیز نے ایک یقینی واپسی کی ہے۔ جون میں 2.75٪ گھریلو اضافے سے کارفرما، خام قیمتوں میں نرمی، اور تیز سیمی کنڈکٹر کی قیادت میں منافع بکنگ کی اصلاح نے تائی پے میں کراس کیپٹلائزیشن انڈیا کی مارکیٹ کو کراس کر دیا ہے۔ $5.05 ٹریلین — دنیا کی پانچویں سب سے بڑی ایکویٹی مارکیٹ کے طور پر اپنی حیثیت کو بحال کرنا۔\""
+    },
+    "b0.title": {
+      "hi": "वैश्विक इक्विटी बाजार पूंजीकरण रैंकिंग (29 जून, 2026 तक)",
+      "en": "Global Equity Market Capitalization Rankings (As of June 29, 2026)",
+      "ur": "عالمی ایکویٹی مارکیٹ کیپٹلائزیشن کی درجہ بندی (29 جون 2026 تک)"
+    },
+    "b1": {
+      "hi": "1\\. \\*\\*संयुक्त राज्य अमेरिका\\*\\* (प्रमुख वैश्विक बढ़त बरकरार रखी)",
+      "en": "1\\. \\*\\*United States\\*\\* (Maintains dominant global lead)",
+      "ur": "1\\. \\*\\*ریاستہائے متحدہ\\*\\* (غالب عالمی برتری کو برقرار رکھتا ہے)"
+    },
+    "b2": {
+      "hi": "2\\. \\*\\*मुख्य मुख्य भूमि चीन\\*\\* (स्थिर बेसलाइन होल्डिंग)",
+      "en": "2\\. \\*\\*Main mainland China\\*\\* (Stable baseline holding)",
+      "ur": "2\\. \\*\\*مین مین لینڈ چین\\*\\* (مستحکم بیس لائن ہولڈنگ)"
+    },
+    "b3": {
+      "hi": "3\\. \\*\\*जापान\\*\\* (जून में मामूली 1% की कमी)",
+      "en": "3\\. \\*\\*Japan\\*\\* (Slight 1% moderation in June)",
+      "ur": "3\\. \\*\\*جاپان\\*\\* (جون میں معمولی 1% اعتدال)"
+    },
+    "b4": {
+      "hi": "4\\. \\*\\*हांगकांग\\*\\* (8.3% जून मंदी का अनुभव)",
+      "en": "4\\. \\*\\*Hong Kong\\*\\* (Experienced an 8.3% June deceleration)",
+      "ur": "4\\. \\*\\*ہانگ کانگ\\*\\* (جون میں 8.3% کی کمی کا تجربہ ہوا)"
+    },
+    "b5": {
+      "hi": "5\\. \\*\\*भारत ($5.05 ट्रिलियन)\\*\\* — \\*सातवें स्थान से पुनः प्राप्त स्थिति\\*",
+      "en": "5\\. \\*\\*INDIA ($5.05 Trillion)\\*\\* — \\*Reclaimed position up from 7th\\*",
+      "ur": "5\\. \\*\\*انڈیا ($5.05 ٹریلین)\\*\\* — 7ویں سے دوبارہ دعویٰ کیا گیا مقام\\*"
+    },
+    "b6": {
+      "hi": "6\\. \\*\\*ताइवान ($4.97 ट्रिलियन)\\*\\* — \\*एआई लाभ-बुकिंग पर फिसल गया\\*",
+      "en": "6\\. \\*\\*Taiwan ($4.97 Trillion)\\*\\* — \\*Slipped on AI profit-booking\\*",
+      "ur": "6\\. \\*\\*تائیوان ($4.97 ٹریلین)\\*\\* — \\*AI پرافٹ بکنگ پر پھسل گیا\\*"
+    },
+    "b7": {
+      "hi": "7\\. \\*\\*दक्षिण कोरिया ($4.66 ट्रिलियन)\\*\\* — \\*चिप-स्टॉक समेकन पर फिसल गया\\*",
+      "en": "7\\. \\*\\*South Korea ($4.66 Trillion)\\*\\* — \\*Slipped on chip-stock consolidation\\*",
+      "ur": "7\\. \\*\\*جنوبی کوریا ($4.66 ٹریلین)\\*\\* — \\*چپ اسٹاک کے استحکام پر پھسل گیا\\*"
+    },
+    "b8.q": {
+      "hi": "\"तकनीकी हार्डवेयर में अत्यधिक केंद्रित बाजार परवलयिक एआई निवेश चक्र के बाद एक स्वाभाविक सांस का अनुभव कर रहे हैं। भारत की बहु-क्षेत्रीय लचीलापन और मूल्यांकन मेट्रिक्स में सुधार इसे एक बार फिर से घुमाई गई पूंजी के लिए अत्यधिक आकर्षक गंतव्य बना रहा है।\"",
+      "en": "\"Markets heavily concentrated in tech hardware are experiencing a natural breathing spell after a parabolic AI investment cycle. India's multi-sectoral resilience and improving valuation metrics are making it a highly attractive destination for rotated capital once again.\"",
+      "ur": "\"ٹیک ہارڈویئر میں بہت زیادہ توجہ مرکوز کرنے والی مارکیٹیں پیرابولک AI سرمایہ کاری کے چکر کے بعد قدرتی سانس لینے کے جادو کا تجربہ کر رہی ہیں۔ ہندوستان کی کثیر شعبہ جاتی لچک اور تشخیص کے معیارات میں بہتری اسے گھومنے والے سرمائے کے لیے ایک بار پھر انتہائی پرکشش مقام بنا رہی ہے۔\""
+    },
+    "b9": {
+      "hi": "- संस्थागत इक्विटी अनुसंधान संक्षिप्त",
+      "en": "— Institutional Equities Research Brief",
+      "ur": "- ادارہ جاتی ایکویٹی ریسرچ بریف"
+    },
+    "b10": {
+      "hi": "\\## भारतीय सूचकांकों को शक्ति प्रदान करने वाले मूलभूत चालक",
+      "en": "\\## The fundamental drivers powering Indian indices",
+      "ur": "\\## ہندوستانی انڈیکس کو طاقت دینے والے بنیادی ڈرائیور"
+    },
+    "b11": {
+      "hi": "विश्लेषकों ने तीन अलग-अलग संरचनात्मक टेलविंड्स की ओर इशारा किया है, जिसने बेंचमार्क बीएसई सेंसेक्स और एनएसई निफ्टी 50 को इस महीने डॉलर के संदर्भ में क्रमशः 3.8% और 2.8% की बढ़त हासिल करने की अनुमति दी, जो कि उनके वैश्विक प्रतिस्पर्धियों को पूरी तरह से पीछे छोड़ देता है।",
+      "en": "Analysts point to three distinct structural tailwinds that allowed the benchmark BSE Sensex and NSE Nifty 50 to gain 3.8% and 2.8% respectively in dollar terms this month, thoroughly outpacing their global peers.",
+      "ur": "تجزیہ کار تین مختلف ساختی ٹیل ونڈز کی طرف اشارہ کرتے ہیں جنہوں نے بینچ مارک بی ایس ای سینسیکس اور این ایس ای نفٹی 50 کو اس ماہ ڈالر کے لحاظ سے بالترتیب 3.8% اور 2.8% اضافے کی اجازت دی، جو اپنے عالمی ساتھیوں کو اچھی طرح سے پیچھے چھوڑتے ہیں۔"
+    },
+    "b12": {
+      "hi": "\\### 1. कच्चे तेल का विघटन",
+      "en": "\\### 1. The crude oil decompression",
+      "ur": "\\### 1. خام تیل کا ڈیکمپریشن"
+    },
+    "b13": {
+      "hi": "पश्चिम एशियाई समुद्री पारगमन विवादों के समाधान और होर्मुज जलडमरूमध्य के माध्यम से सामान्यीकृत टैंकर प्रवाह की बहाली के बाद अंतरराष्ट्रीय कच्चे तेल की कीमतों में तेज गिरावट से सबसे महत्वपूर्ण वृहद वृद्धि हुई। क्योंकि भारत अपनी 80% से अधिक तेल जरूरतों के लिए आयात पर निर्भर करता है, कच्चे तेल की कम कीमतें सीधे राष्ट्रीय आयात बिल को कम करती हैं, घरेलू मुद्रास्फीति संकेतकों को दबाती हैं, और चालू खाते के संतुलन को मजबूत करती हैं। ऐतिहासिक रूप से, भारतीय इक्विटी तब बेहतर प्रदर्शन करती है जब कच्चे तेल के मानक 90 डॉलर प्रति बैरल की सीमा से नीचे आराम से स्थिर हो जाते हैं।",
+      "en": "The most significant macro boost came from a sharp decline in international crude oil prices following the resolution of West Asian maritime transit disputes and a resumption of normalized tanker flows through the Strait of Hormuz. Because India relies on imports for over 80% of its oil needs, lower crude prices directly contract the national import bill, suppress domestic inflation indicators, and fortify the current account balance. Historically, Indian equities perform optimally when crude parameters settle comfortably below the $90 per barrel threshold.",
+      "ur": "سب سے اہم میکرو فروغ مغربی ایشیائی سمندری راہداری تنازعات کے حل اور آبنائے ہرمز کے ذریعے معمول کے مطابق ٹینکر کے بہاؤ کی بحالی کے بعد بین الاقوامی خام تیل کی قیمتوں میں تیزی سے کمی سے ہوا۔ چونکہ ہندوستان اپنی تیل کی 80% سے زیادہ ضروریات کے لیے درآمدات پر انحصار کرتا ہے، اس لیے خام تیل کی کم قیمتیں براہ راست قومی درآمدی بل کو سکڑتی ہیں، گھریلو افراط زر کے اشارے کو دباتی ہیں، اور کرنٹ اکاؤنٹ بیلنس کو مضبوط کرتی ہیں۔ تاریخی طور پر، ہندوستانی ایکویٹی بہترین کارکردگی کا مظاہرہ کرتی ہے جب خام پیرامیٹرز $90 فی بیرل حد سے نیچے آرام سے طے پاتے ہیں۔"
+    },
+    "b14": {
+      "hi": "\\### 2. मूल्यांकन गुणकों में आकर्षण",
+      "en": "\\### 2. Attractiveness in valuation multiples",
+      "ur": "\\### 2. قدر کے ضرب میں کشش"
+    },
+    "b15": {
+      "hi": "पिछले वर्ष की तुलना में अपने चरम के दौरान, निफ्टी 50 ने लगभग 24 गुना प्रीमियम मूल्य-से-आय (पी/ई) गुणक पर कारोबार किया, जिससे मूल्य-संचालित वैश्विक फंडों में सावधानी बरती गई। रणनीतिक समेकन और मजबूत अंतर्निहित कॉर्पोरेट आय वृद्धि ने निफ्टी पी/ई अनुपात को घटाकर \\*\\*18 गुना\\*\\* कर दिया है, जिससे संस्थागत खरीदारों के लिए जोखिम-इनाम अनुपात में काफी सुधार हुआ है।",
+      "en": "During its peak over the last year, the Nifty 50 traded at a premium price-to-earnings (P/E) multiple of nearly 24 times, triggering caution among value-driven global funds. Strategic consolidations and strong underlying corporate earnings growth have since moderated the Nifty P/E ratio down to a far healthier \\*\\*18 times\\*\\*, significantly improving risk-reward ratios for institutional buyers.",
+      "ur": "گزشتہ سال کے دوران اپنے عروج کے دوران، نفٹی 50 نے تقریباً 24 گنا کے ایک پریمیم پرائس ٹو ارننگ (P/E) پر تجارت کی، جس سے قدر سے چلنے والے عالمی فنڈز میں احتیاط پیدا ہوئی۔ تزویراتی استحکام اور مضبوط بنیادی کارپوریٹ آمدنی کی نمو نے نفٹی P/E تناسب کو انتہائی صحت مند \\*\\*18 گنا\\*\\* تک کم کر دیا ہے، جس سے ادارہ جاتی خریداروں کے لیے رسک ریوارڈ کے تناسب میں نمایاں بہتری آئی ہے۔"
+    },
+    "b16": {
+      "hi": "\\### 3. विदेशी संस्थागत निवेशकों (एफआईआई) की वापसी",
+      "en": "\\### 3. Return of foreign institutional investors (FIIs)",
+      "ur": "\\### 3. غیر ملکی ادارہ جاتی سرمایہ کاروں کی واپسی (FIIs)"
+    },
+    "b17": {
+      "hi": "उत्तरी एशिया में सेमीकंडक्टर हार्डवेयर उछाल का पीछा करने के लिए वर्ष की शुरुआत में भारतीय इक्विटी से भारी मात्रा में पूंजी निकालने के बाद, एफआईआई शुद्ध खरीदारों के पास वापस आ गए हैं। घरेलू ऋण और इक्विटी ढांचे में विदेशी पहुंच को आसान बनाने के लिए भारतीय रिज़र्व बैंक के हालिया सक्रिय उपायों से प्रेरित होकर, वैश्विक फंडों ने हाल के लगातार व्यापारिक सत्रों में भारतीय इक्विटी में $ 1 बिलियन से अधिक का निवेश किया है।",
+      "en": "After pulling a massive amount of capital out of Indian equities early in the year to chase the semiconductor hardware surge in North Asia, FIIs have flipped back to net buyers. Driven by recent proactive measures from the Reserve Bank of India to ease foreign access into domestic debt and equity frameworks, global funds injected over $1 billion into Indian equities over recent consecutive trading sessions.",
+      "ur": "شمالی ایشیا میں سیمی کنڈکٹر ہارڈویئر اضافے کا پیچھا کرنے کے لیے سال کے اوائل میں ہندوستانی ایکوئٹی سے بڑے پیمانے پر سرمایہ نکالنے کے بعد، FIIs واپس خالص خریداروں کی طرف پلٹ گئے ہیں۔ گھریلو قرضوں اور ایکویٹی فریم ورک میں غیر ملکی رسائی کو آسان بنانے کے لیے ریزرو بینک آف انڈیا کے حالیہ فعال اقدامات سے کارفرما، عالمی فنڈز نے حالیہ مسلسل تجارتی سیشنوں میں ہندوستانی ایکوئٹیز میں $1 بلین سے زیادہ کا اضافہ کیا۔"
+    },
+    "b18": {
+      "hi": "\\## 2026 की दूसरी छमाही के लिए आउटलुक",
+      "en": "\\## Outlook for the second half of 2026",
+      "ur": "\\## 2026 کے دوسرے نصف کے لیے آؤٹ لک"
+    },
+    "b19": {
+      "hi": "जबकि ताइवान और दक्षिण कोरिया ने वैश्विक तकनीकी विनिर्माण पाइपलाइन पर संरचनात्मक प्रभुत्व बनाए रखा है, भारत की गहरी, विविध बाजार संरचना - बैंकिंग, वित्तीय सेवाओं, उपभोक्ता वस्तुओं और एक विस्तारित घरेलू विनिर्माण ढांचे द्वारा भारी रूप से समर्थित - वैश्विक तकनीकी अस्थिरता के दौरान एक स्थिर विकल्प प्रदान करती है।",
+      "en": "While Taiwan and South Korea retain structural dominance over the global tech manufacturing pipeline, India's deep, diverse market composition—anchored heavily by banking, financial services, consumer goods, and an expanding domestic manufacturing framework—offers a stabilizing alternative during global tech volatility.",
+      "ur": "جب کہ تائیوان اور جنوبی کوریا نے عالمی ٹیک مینوفیکچرنگ پائپ لائن پر ساختی غلبہ برقرار رکھا ہے، ہندوستان کی گہری، متنوع مارکیٹ کی ساخت — جو کہ بینکنگ، مالیاتی خدمات، اشیائے صرف اور ایک بڑھتے ہوئے گھریلو مینوفیکچرنگ فریم ورک کے ذریعے بہت زیادہ لنگر انداز ہے — عالمی تکنیکی اتار چڑھاؤ کے دوران ایک مستحکم متبادل پیش کرتا ہے۔"
+    },
+    "b20": {
+      "hi": "जैसे-जैसे भू-राजनीतिक परिवर्तन आसान होते हैं और वैश्विक ब्याज दर चक्र बदलना शुरू होता है, भारत का पुनः प्राप्त $ 5 ट्रिलियन पदचिह्न वर्ष के उत्तरार्ध में देश के पूंजी बाजार के लिए एक अत्यधिक मजबूत मंजिल स्थापित करता है।",
+      "en": "As geopolitical variables ease and global interest rate cycles begin to turn, India's reclaimed $5 trillion footprint establishes a highly formidable floor for the country’s capital markets heading into the latter half of the year.",
+      "ur": "جیسے ہی جغرافیائی سیاسی تغیرات میں آسانی آتی ہے اور عالمی شرح سود کا چکر آنا شروع ہو جاتا ہے، ہندوستان کا دوبارہ دعویٰ کردہ $5 ٹریلین فٹ پرنٹ سال کے آخری نصف میں جانے والی ملک کی کیپٹل مارکیٹوں کے لیے ایک انتہائی مضبوط منزل قائم کرتا ہے۔"
+    },
+    "b21": {
+      "hi": "\\---",
+      "en": "\\---",
+      "ur": "\\---"
+    },
+    "b22": {
+      "hi": "अंतर्निहित कारकों और तकनीकी क्षेत्र की सघनता को बेहतर ढंग से समझने के लिए आप \\[फर्स्टपोस्ट का मार्केट कैप ब्रेकडाउन](https://www.youtube.com/watch?v=Jrr\\_BK8XiQQ) देख सकते हैं, जिसने दक्षिण कोरिया और ताइवान को इस साल की शुरुआत में भारत के बाजार मूल्यांकन को अस्थायी रूप से बायपास करने की अनुमति दी थी।",
+      "en": "You can check out \\[Firstpost's Market Cap Breakdown](https://www.youtube.com/watch?v=Jrr\\_BK8XiQQ) to better understand the underlying factors and tech sector concentration that allowed South Korea and Taiwan to temporarily bypass India's market valuation earlier this year.",
+      "ur": "آپ بنیادی عوامل اور ٹیک سیکٹر کے ارتکاز کو بہتر طور پر سمجھنے کے لیے \\[Firstpost's Market Cap Breakdown](https://www.youtube.com/watch?v=Jrr\\_BK8XiQQ) کو چیک کر سکتے ہیں جنہوں نے اس سال کے شروع میں جنوبی کوریا اور تائیوان کو عارضی طور پر ہندوستان کی مارکیٹ ویلیویشن کو نظرانداز کرنے کی اجازت دی۔"
+    }
+  }
+}
