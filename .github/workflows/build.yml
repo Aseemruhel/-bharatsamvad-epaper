@@ -32,6 +32,7 @@ jobs:
       - name: Install IndicTrans2
         run: |
          pip install sentencepiece sacremoses transformers torch
+         pip install "transformers==4.40.0"
          pip install IndicTransToolkit
     
       - name: Run build
