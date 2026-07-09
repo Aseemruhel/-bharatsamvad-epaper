@@ -31,12 +31,9 @@ jobs:
         
       - name: Install IndicTrans2
         run: |
-          git clone https://github.com/AI4Bharat/IndicTrans2
-          pip install sentencepiece sacremoses transformers torch
-          pip install -r IndicTrans2/requirements.txt
-          pip install IndicTransToolkit
-
-
+        pip install sentencepiece sacremoses transformers torch
+        pip install IndicTransToolkit
+    
       - name: Run build
         run: python scripts/build_from_markdown.py
 
