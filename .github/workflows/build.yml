@@ -28,13 +28,11 @@ jobs:
         with:
           path: ~/.cache/huggingface
           key: hf-indictrans2-${{ runner.os }}
-
+        
       - name: Install IndicTrans2
         run: |
           git clone https://github.com/AI4Bharat/IndicTrans2
-          cd IndicTrans2
-          pip install -e .
-          cd ..
+          pip install -e ./IndicTrans2
           pip install sentencepiece sacremoses transformers torch
 
       - name: Run build
