@@ -31,8 +31,8 @@ jobs:
         
       - name: Install IndicTrans2
         run: |
-        pip install sentencepiece sacremoses transformers torch
-        pip install IndicTransToolkit
+         pip install sentencepiece sacremoses transformers torch
+         pip install IndicTransToolkit
     
       - name: Run build
         run: python scripts/build_from_markdown.py
