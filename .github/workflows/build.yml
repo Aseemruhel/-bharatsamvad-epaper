@@ -6,10 +6,10 @@ on:
     paths:
       - 'content/**'
       - 'scripts/**'
-  workflow_dispatch:   # also lets you run it manually from the Actions tab
+  workflow_dispatch:
 
 permissions:
-  contents: write       # needed to commit generated HTML back
+  contents: write
 
 jobs:
   build:
@@ -23,6 +23,20 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Cache HuggingFace models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-indictrans2-${{ runner.os }}
+
+      - name: Install IndicTrans2
+        run: |
+          git clone https://github.com/AI4Bharat/IndicTrans2
+          cd IndicTrans2
+          pip install -e .
+          cd ..
+          pip install sentencepiece sacremoses transformers torch
+
       - name: Run build
         run: python scripts/build_from_markdown.py
 
@@ -30,10 +44,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name  "github-actions[bot]"
-          # Stage:
-          #   - index.html / archive.html / per-date pages at repo root
-          #   - everything under articles/ (the new article HTMLs)
-          #   - the translation cache
           git add index.html archive.html bharatsamvad-*.html 2>/dev/null || true
           git add articles/ 2>/dev/null || true
           git add scripts/.translations-cache/ 2>/dev/null || true
