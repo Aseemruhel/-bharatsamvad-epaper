@@ -28,13 +28,19 @@ jobs:
         with:
           path: ~/.cache/huggingface
           key: hf-indictrans2-${{ runner.os }}
-        
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-indictrans2-${{ runner.os }}
+
       - name: Install IndicTrans2
         run: |
-         pip install sentencepiece sacremoses transformers torch
-         pip install "transformers==4.40.0"
-         pip install IndicTransToolkit
-    
+          pip install sentencepiece sacremoses torch
+          pip install "transformers==4.40.0"
+          pip install IndicTransToolkit
+
       - name: Run build
         run: python scripts/build_from_markdown.py
 
