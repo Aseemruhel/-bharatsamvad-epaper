@@ -17,31 +17,67 @@ sys.path.insert(0, str(SCRIPTS))
 os.chdir(SCRIPTS)
 from tribuilder import build
 
-# ---------- Google Translate ----------
-GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
+# ---------- IndicTrans2 ----------
+from IndicTransToolkit import IndicProcessor
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+import torch
 
-def _translate_one(text, target_lang, source_lang="en"):
-    if not text:
-        return text
-    import urllib.parse, urllib.request
-    params = {"client": "gtx", "sl": source_lang, "tl": target_lang, "dt": "t", "q": text}
-    url = GOOGLE_TRANSLATE_URL + "?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        data = resp.read().decode("utf-8")
-    parsed = json.loads(data)
-    try:
-        return "".join(part[0] for part in parsed[0] if part and part[0])
-    except:
-        return text
+DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+BATCH_SIZE = 4
+
+def _load_model(src_lang_code):
+    ckpt = "ai4bharat/indictrans2-en-indic-1B"
+    tokenizer = AutoTokenizer.from_pretrained(ckpt, trust_remote_code=True)
+    model = AutoModelForSeq2SeqLM.from_pretrained(ckpt, trust_remote_code=True).to(DEVICE)
+    processor = IndicProcessor(inference=True)
+    return tokenizer, model, processor
+
+_MODEL_CACHE = {}
+
+def _get_model():
+    if "en-indic" not in _MODEL_CACHE:
+        print("  → loading IndicTrans2 model (en → Indic)...")
+        _MODEL_CACHE["en-indic"] = _load_model("eng_Latn")
+    return _MODEL_CACHE["en-indic"]
+
+LANG_CODE = {
+    "hi": "hin_Deva",
+    "ur": "urd_Arab",
+}
+
+def _translate_list(texts, tgt_lang_code):
+    tokenizer, model, processor = _get_model()
+    results = []
+    for i in range(0, len(texts), BATCH_SIZE):
+        chunk = texts[i:i + BATCH_SIZE]
+        batch = processor.preprocess_batch(chunk, src_lang="eng_Latn", tgt_lang=tgt_lang_code)
+        inputs = tokenizer(
+            batch,
+            truncation=True,
+            padding="longest",
+            return_tensors="pt",
+            return_attention_mask=True,
+        ).to(DEVICE)
+        with torch.no_grad():
+            generated = model.generate(
+                **inputs,
+                num_beams=5,
+                num_return_sequences=1,
+                max_length=256,
+            )
+        decoded = tokenizer.batch_decode(generated, skip_special_tokens=True)
+        results.extend(processor.postprocess_batch(decoded, lang=tgt_lang_code))
+    return results
 
 def translate_batch(texts_en):
-    out = {}
-    for key, text in texts_en.items():
-        out[key] = {"hi": _translate_one(text, "hi"), "ur": _translate_one(text, "ur")}
-    return out
-
-
+    keys = list(texts_en.keys())
+    texts = list(texts_en.values())
+    hi_translations = _translate_list(texts, LANG_CODE["hi"])
+    ur_translations = _translate_list(texts, LANG_CODE["ur"])
+    return {
+        key: {"hi": hi_translations[i], "ur": ur_translations[i]}
+        for i, key in enumerate(keys)
+    }
 # ---------- Markdown Parser ----------
 def parse_markdown(md_text):
     if not md_text.startswith("---"):
