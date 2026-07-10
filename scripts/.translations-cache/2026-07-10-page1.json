@@ -1,0 +1,555 @@
+{
+  "hash": "c0378701b5fe5ad7",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"भारत-ऑस्ट्रेलिया · असैन्य परमाणु · स्वच्छ ऊर्जा\"",
+      "en": "\"India-Australia · Civil Nuclear · Clean Energy\"",
+      "ur": "\"بھارت-آسٹریلیا · سول نیوکلیئر · کلین انرجی\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली/मेलबर्न",
+      "en": "New Delhi / Melbourne",
+      "ur": "نئی دہلی/میلبورن"
+    },
+    "fm.headline": {
+      "hi": "\"2014 के हस्ताक्षर से 2026 की डिलीवरी तकः ऑस्ट्रेलिया भारत के 100 गीगावाट परमाणु लक्ष्य को बिजली देने के लिए यूरेनियम की आपूर्ति करने के लिए प्रतिबद्ध है क्योंकि मेलबर्न शिखर सम्मेलन ने रक्षा, महत्वपूर्ण खनिजों और स्वच्छ ऊर्जा में व्यापक रणनीतिक साझेदारी को बढ़ाया है\"",
+      "en": "\"From 2014 signature to 2026 delivery: Australia commits to supply uranium to power India's 100 GW nuclear target as Melbourne Summit elevates Comprehensive Strategic Partnership across defence, critical minerals, and clean energy\"",
+      "ur": "2014 کے دستخط سے لے کر 2026 کی فراہمی تک: آسٹریلیا ہندوستان کے 100 جی ڈبلیو جوہری ہدف کو بجلی فراہم کرنے کے لیے یورینیم کی فراہمی کا عہد کرتا ہے کیونکہ میلبورن سمٹ دفاع، اہم معدنیات اور صاف توانائی میں جامع اسٹریٹجک شراکت داری کو بڑھاتا ہے۔"
+    },
+    "fm.subdeck": {
+      "hi": "\"गुरुवार को मेलबर्न में तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन पर, प्रधान मंत्री नरेंद्र मोदी और ऑस्ट्रेलियाई प्रधान मंत्री एंथनी अल्बनीज ने वाणिज्यिक पैमाने पर नागरिक परमाणु ऊर्जा उत्पादन के लिए भारत को ऑस्ट्रेलियाई यूरेनियम निर्यात को संचालित करने वाली प्रशासनिक व्यवस्था को अंतिम रूप दिया-2014 के नागरिक परमाणु सहयोग समझौते और इसकी पूर्ण वाणिज्यिक तैनाती के बीच बारह साल के अंतराल को हल करना। ऑस्ट्रेलिया, जो दुनिया के ज्ञात यूरेनियम भंडार का लगभग 28 प्रतिशत धारक है, 2047 तक भारत के महत्वाकांक्षी 100 गीगावाट परमाणु ऊर्जा क्षमता लक्ष्य के लिए एक प्रमुख अपस्ट्रीम भागीदार बन जाता है। यूरेनियम व्यवस्था-विशेष रूप से शांतिपूर्ण उद्देश्यों के लिए आई. ए. ई. ए. सुरक्षा उपायों के तहत काम करना-व्यापक आर्थिक सहयोग समझौते (सी. ई. सी. ए.), एक द्वीपक्षीय निवेश संधि, एक महत्वपूर्ण खनिज गलियारा, ऑस्ट्रेलिया-कनाडा (ए. सी. आई. टी. आई.) त्रिपक्षीय प्रौद्योगिकी साझेदारी, और भारत के कीगन्या में एक अस्थायी अंतरिक्ष टर्मिनल ट्रैकिंग कार्यक्रम के त्वरण के लिए एक व्यापक शिखर सम्मेलन परिणाम वास्तुकला के भीतर बैठता है।\"",
+      "en": "\"At the conclusion of the 3rd India-Australia Annual Summit in Melbourne on Thursday, Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese finalised the administrative arrangement operationalising Australian uranium exports to India for commercial-scale civilian nuclear power generation — resolving a twelve-year gap between the 2014 Civil Nuclear Cooperation Agreement and its full commercial deployment. Australia, holder of approximately 28 per cent of the world's known uranium reserves, becomes a key upstream partner for India's ambitious 100 GW nuclear energy capacity target by 2047. The uranium arrangement — operating under IAEA safeguards for exclusively peaceful purposes — sits within a wider Summit outcome architecture spanning the acceleration of the Comprehensive Economic Cooperation Agreement (CECA), a Bilateral Investment Treaty, a Critical Minerals Corridor, the Australia-Canada-India (ACITI) trilateral technology partnership, and a temporary space tracking terminal at the Cocos (Keeling) Islands to support India's Gaganyaan programme.\"",
+      "ur": "جمعرات کو میلبورن میں تیسرے ہندوستان-آسٹریلیا سالانہ اجلاس کے اختتام پر، وزیر اعظم نریندر مودی اور آسٹریلیائی وزیر اعظم انتھونی البانیز نے تجارتی پیمانے پر سویلین جوہری توانائی کی پیداوار کے لیے ہندوستان کو آسٹریلیائی یورینیم کی برآمدات کو عملی جامہ پہنانے کے انتظامی انتظام کو حتمی شکل دی-2014 کے سول نیوکلیئر کوآپریشن معاہدے اور اس کی مکمل تجارتی تعیناتی کے درمیان بارہ سال کا فرق حل کیا۔ آسٹریلیا، جو دنیا کے معلوم یورینیم کے ذخائر کا تقریبا 28 فیصد رکھتا ہے، 2047 تک ہندوستان کی 100 جی ڈبلیو جوہری توانائی کی صلاحیت کے ہدف کے لیے ایک کلیدی اپ اسٹریم پارٹنر بن جاتا ہے۔ یورینیم کا انتظام-جو خصوصی طور پر پرامن مقاصد کے لیے آئی اے ای اے کے حفاظتی اقدامات کے تحت کام کر رہا ہے-جامع اقتصادی تعاون معاہدے (سی ای سی اے)، ایک دو طرفہ سرمایہ کاری معاہدہ، ایک اہم معدنی راہداری، آسٹریلیا-کینیڈا (اے سی آئی ٹی آئی) سہ فریقی ٹیکنالوجی شراکت داری، اور کوکنیا کے جزائر پر ایک عارضی خلائی ٹرمینل ٹریکنگ کے وسیع تر سربراہی اجلاس کے نتیجے کے ڈھانچے کے اندر بیٹھتا ہے۔"
+    },
+    "b0": {
+      "hi": "भारत के स्वच्छ ऊर्जा संक्रमण ने गुरुवार, 9 जुलाई 2026 को अपनी सबसे ठोस संस्थागत नींव में से एक हासिल कर लिया, जब प्रधान मंत्री नरेंद्र मोदी और ऑस्ट्रेलियाई प्रधान मंत्री एंथनी अल्बनीज ने मेलबर्न में तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन पर, वाणिज्यिक पैमाने पर नागरिक परमाणु ऊर्जा उत्पादन के लिए भारत को ऑस्ट्रेलियाई यूरेनियम निर्यात को संचालित करने वाली प्रशासनिक व्यवस्था को औपचारिक रूप से अंतिम रूप दिया। यह व्यवस्था-2015 भारत-ऑस्ट्रेलिया नागरिक परमाणु सहयोग समझौते के तहत मूल रूप से प्रधान मंत्री मोदी और 2014 में ऑस्ट्रेलियाई प्रधान मंत्री टोनी एबॉट द्वारा हस्ताक्षरित-ऑस्ट्रेलियाई यूरेनियम को वाणिज्यिक पैमाने पर खदान से भारतीय परमाणु रिएक्टर में स्थानांतरित करने के लिए आवश्यक विशिष्ट लेखा परीक्षा, ट्रैकिंग और नियामक ढांचा प्रदान करती है। ऑस्ट्रेलिया, दुनिया के ज्ञात यूरेनियम भंडार का लगभग 28 प्रतिशत और विश्व स्तर पर सबसे बड़े यूरेनियम आपूर्तिकर्ताओं में से एक, दुनिया में कहीं भी सबसे महत्वाकांक्षी स्वच्छ-ऊर्जा कार्यक्रमों में से एक के लिए एक प्रमुख अपस्ट्रीम भागीदार बन जाता है।",
+      "en": "India's clean energy transition acquired one of its most substantive institutional foundations on Thursday, 9 July 2026, when Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese, at the conclusion of the 3rd India-Australia Annual Summit at Melbourne, formally finalised the administrative arrangement operationalising Australian uranium exports to India for commercial-scale civilian nuclear power generation. The arrangement — operating under the 2015 India-Australia Civil Nuclear Cooperation Agreement originally signed by Prime Minister Modi and then Australian Prime Minister Tony Abbott in 2014 — provides the specific auditing, tracking, and regulatory framework required to move Australian uranium from mine to Indian nuclear reactor at commercial scale. Australia, holder of approximately 28 per cent of the world's known uranium reserves and among the largest uranium suppliers globally, becomes a key upstream partner for what is arguably one of the most ambitious clean-energy expansion programmes anywhere in the world: India's target of 100 gigawatts (GW) of nuclear energy capacity by 2047, up from the approximately 8.78 GW currently operational across 24 reactors at seven sites.",
+      "ur": "ہندوستان کی صاف توانائی کی منتقلی نے جمعرات، 9 جولائی 2026 کو اس کی سب سے ٹھوس ادارہ جاتی بنیادوں میں سے ایک حاصل کر لی، جب وزیر اعظم نریندر مودی اور آسٹریلیائی وزیر اعظم انتھونی البانیز نے میلبورن میں تیسری ہندوستان-آسٹریلیا سالانہ سربراہی اجلاس کے اختتام پر، تجارتی پیمانے پر شہری جوہری توانائی کی پیداوار کے لیے ہندوستان کو آسٹریلیائی یورینیم کی برآمدات کو عملی جامہ پہنانے کے انتظامی انتظام کو باضابطہ طور پر حتمی شکل دے دی۔ یہ انتظام-جو 2015 کے ہندوستان-آسٹریلیا سول نیوکلیئر کوآپریشن معاہدے کے تحت کام کر رہا ہے جس پر اصل میں وزیر اعظم مودی اور اس وقت آسٹریلیائی وزیر اعظم ٹونی ایبٹ نے 2014 میں دستخط کیے تھے-تجارتی پیمانے پر آسٹریلیائی یورینیم کو کان سے ہندوستانی جوہری ری ایکٹر میں منتقل کرنے کے لیے درکار مخصوص آڈٹ، ٹریکنگ اور ریگولیٹری فریم ورک فراہم کرتا ہے۔ آسٹریلیا، جو دنیا کے معروف یورینیم کے ذخائر کا تقریبا 28 فیصد کا حامل ہے اور عالمی سطح پر یورینیم کے سب سے بڑے سپلائرز میں سے ایک ہے، دنیا میں کہیں بھی 100 گیگا واٹ، تقریبا 7 جی ڈبلیو 2047 تک کی توانائی کی توسیع کے اہداف کے لیے ایک کلیدی اپ اس"
+    },
+    "b1": {
+      "hi": "\"ऑस्ट्रेलिया भारत को यूरेनियम की आपूर्ति करेगा\", प्रधान मंत्री मोदी ने गुरुवार शाम मेलबर्न में प्रधान मंत्री अल्बनीज के साथ अपने संयुक्त प्रेस बयान में पुष्टि की। \"हमने परमाणु ऊर्जा के क्षेत्र में एक महत्वपूर्ण समझौते पर हस्ताक्षर किए हैं। यह हमारे स्वच्छ ऊर्जा लक्ष्यों को नई गति देगा।\" प्रधान मंत्री अल्बनीज, ऑस्ट्रेलियाई पक्ष से व्यवस्था को औपचारिक रूप देते हुए, इसे समान रूप से सीधे शब्दों में वर्णित कियाः \"आज, हम 2015 ऑस्ट्रेलिया-भारत परमाणु सहयोग समझौते के तहत शांतिपूर्ण उद्देश्यों के लिए भारत को यूरेनियम निर्यात को सक्षम करने के लिए व्यवस्था पर हस्ताक्षर करने की पुष्टि कर सकते हैं। यह व्यवस्था गैर-जीवाश्म-ईंधन बिजली क्षमता के हिस्से को बढ़ाने में मदद करने के लिए ऑस्ट्रेलियाई यूरेनियम निर्यात को सुविधाजनक बनाती है।",
+      "en": "\"Australia will supply uranium to India,\" Prime Minister Modi confirmed in his joint press statement alongside Prime Minister Albanese at Melbourne on Thursday evening. \"We have signed an important agreement in the field of nuclear energy. It will give new momentum to our clean energy goals.\" Prime Minister Albanese, formalising the arrangement from the Australian side, characterised it in equivalently direct terms: \"Today, we can confirm the signing of the arrangement to enable uranium exports to India for peaceful purposes under the 2015 Australia-India Nuclear Cooperation Agreement. The arrangement facilitates Australian uranium exports to India to help increase the share of non-fossil-fuel power capacity.\"",
+      "ur": "\"آسٹریلیا ہندوستان کو یورینیم فراہم کرے گا\"، وزیر اعظم مودی نے جمعرات کی شام میلبورن میں وزیر اعظم البانیز کے ساتھ اپنے مشترکہ پریس بیان میں تصدیق کی۔ \"ہم نے جوہری توانائی کے شعبے میں ایک اہم معاہدے پر دستخط کیے ہیں۔ اس سے ہمارے صاف توانائی کے اہداف کو نئی رفتار ملے گی۔\" وزیر اعظم البانیز نے آسٹریلیا کی طرف سے اس انتظام کو باضابطہ بناتے ہوئے، اسے مساوی طور پر براہ راست شرائط میں بیان کیا: \"آج، ہم 2015 کے آسٹریلیا-ہندوستان جوہری تعاون معاہدے کے تحت پرامن مقاصد کے لیے ہندوستان کو یورینیم کی برآمدات کو قابل بنانے کے معاہدے پر دستخط کرنے کی تصدیق کر سکتے ہیں۔ یہ انتظام ہندوستان کو آسٹریلیائی یورینیم کی برآمدات کو آسان بناتا ہے تاکہ غیر جیواشم ایندھن بجلی کی صلاحیت میں حصہ بڑھانے میں مدد ملے۔"
+    },
+    "b2": {
+      "hi": "यूरेनियम व्यवस्थाः क्या अंतिम रूप दिया गया है",
+      "en": "The uranium arrangement: what has been finalised",
+      "ur": "یورینیم کا انتظام: کیا حتمی شکل دی گئی ہے"
+    },
+    "b3": {
+      "hi": "गुरुवार के शिखर सम्मेलन का मुख्य संस्थागत परिणाम वाणिज्यिक स्तर पर 2014 के भारत-ऑस्ट्रेलिया असैन्य परमाणु सहयोग समझौते को पूरी तरह से लागू करने के लिए आवश्यक प्रशासनिक प्रक्रियाओं को अंतिम रूप देना है। रूपरेखा व्यवस्था कई महत्वपूर्ण संस्थागत स्तंभों पर काम करती है।",
+      "en": "The core institutional deliverable of Thursday's Summit is the finalisation of the administrative procedures required to fully implement the 2014 India-Australia Civil Nuclear Cooperation Agreement at commercial scale. The framework arrangement operates on several substantive institutional pillars.",
+      "ur": "جمعرات کی سمٹ کا بنیادی ادارہ جاتی انجام تجارتی پیمانے پر 2014 کے ہندوستان-آسٹریلیا سول نیوکلیئر کوآپریشن معاہدے کو مکمل طور پر نافذ کرنے کے لیے درکار انتظامی طریقہ کار کو حتمی شکل دینا ہے۔ یہ فریم ورک انتظام کئی ٹھوس ادارہ جاتی ستونوں پر کام کرتا ہے۔"
+    },
+    "b4": {
+      "hi": "* * विशेष रूप से शांतिपूर्ण उद्देश्य * *: ऑस्ट्रेलिया द्वारा भारत को आपूर्ति किए गए सभी यूरेनियम का उपयोग विशेष रूप से नागरिक परमाणु ऊर्जा उत्पादन और संबंधित शांतिपूर्ण अनुप्रयोगों के लिए किया जाएगा। यह ढांचा स्पष्ट रूप से सैन्य या अन्य गैर-नागरिक उपयोगों के लिए किसी भी मोड़ को प्रतिबंधित करता है।",
+      "en": "**Exclusively peaceful purposes**: All uranium supplied by Australia to India will be used exclusively for civilian nuclear power generation and related peaceful applications. The framework categorically restricts any diversion to military or other non-civilian uses.",
+      "ur": "* * خصوصی طور پر پرامن مقاصد * *: آسٹریلیا کی طرف سے ہندوستان کو فراہم کردہ تمام یورینیم کا استعمال خصوصی طور پر شہری جوہری توانائی کی پیداوار اور متعلقہ پرامن استعمال کے لیے کیا جائے گا۔ یہ فریم ورک واضح طور پر فوجی یا دیگر غیر شہری استعمال کی طرف کسی بھی موڑ کو محدود کرتا ہے۔"
+    },
+    "b5": {
+      "hi": "* * आई. ए. ई. ए. के सुरक्षा उपाय * *: ऑस्ट्रेलिया द्वारा भारत को आपूर्ति किए जाने वाले सभी यूरेनियम की निगरानी अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (आई. ए. ई. ए.) के सुरक्षा ढांचे के तहत की जाएगी-अंतर्राष्ट्रीय संस्थागत ढांचा जो दुनिया भर में परमाणु सामग्री के शांतिपूर्ण उपयोग का तीसरे पक्ष का सत्यापन प्रदान करता है। यह सुनिश्चित करता है कि भारतीय रिएक्टरों में प्रवेश करने वाला ऑस्ट्रेलियाई यूरेनियम ईंधन खदान से लेकर रिएक्टर से लेकर खर्च किए गए ईंधन प्रबंधन तक निरंतर अंतर्राष्ट्रीय निगरानी में रहे।",
+      "en": "**IAEA safeguards**: All uranium supplied by Australia to India will be monitored under the International Atomic Energy Agency (IAEA) safeguards framework — the international institutional architecture that provides third-party verification of the peaceful use of nuclear materials worldwide. This ensures that Australian uranium fuel entering Indian reactors remains under continuous international oversight from mine to reactor to spent-fuel management.",
+      "ur": "* * آئی اے ای اے کے حفاظتی اقدامات * *: آسٹریلیا کی طرف سے ہندوستان کو فراہم کردہ تمام یورینیم کی نگرانی بین الاقوامی جوہری توانائی ایجنسی (آئی اے ای اے) کے حفاظتی فریم ورک کے تحت کی جائے گی-بین الاقوامی ادارہ جاتی ڈھانچہ جو دنیا بھر میں جوہری مواد کے پرامن استعمال کی تیسرے فریق کی تصدیق فراہم کرتا ہے۔ یہ اس بات کو یقینی بناتا ہے کہ ہندوستانی ری ایکٹرز میں داخل ہونے والا آسٹریلیائی یورینیم ایندھن کان سے لے کر ری ایکٹر تک خرچ شدہ ایندھن کے انتظام تک مسلسل بین الاقوامی نگرانی میں رہے۔"
+    },
+    "b6": {
+      "hi": "वाणिज्यिक पैमाने पर संचालन * *: यह व्यवस्था ऑस्ट्रेलियाई यूरेनियम को वाणिज्यिक पैमाने पर भारतीय रिएक्टरों में सुरक्षित रूप से स्थानांतरित करने के लिए आवश्यक सटीक लेखा परीक्षा और ट्रैकिंग तंत्र प्रदान करती है। 2017 प्रतीकात्मक परीक्षण शिपमेंट-जिसने तकनीकी पाइपलाइन वास्तुकला को मान्य किया था-अब नियमित, चल रहे शिपमेंट का समर्थन करने वाली ठोस वाणिज्यिक वास्तुकला द्वारा सफल हो गया है।",
+      "en": "**Commercial-scale operationalisation**: The arrangement provides the precise auditing and tracking mechanisms needed to safely move Australian uranium into Indian reactors at commercial scale. The 2017 symbolic test shipment — which had validated the technical pipeline architecture — is now succeeded by the substantive commercial architecture that supports regular, ongoing shipments.",
+      "ur": "تجارتی پیمانے پر آپریشنلائزیشن * *: یہ انتظام تجارتی پیمانے پر ہندوستانی ری ایکٹروں میں آسٹریلیائی یورینیم کو محفوظ طریقے سے منتقل کرنے کے لیے درکار عین مطابق آڈیٹنگ اور ٹریکنگ میکانزم فراہم کرتا ہے۔ 2017 کی علامتی ٹیسٹ شپمنٹ-جس نے تکنیکی پائپ لائن فن تعمیر کی توثیق کی تھی-اب اس کے بعد ٹھوس تجارتی فن تعمیر ہے جو باقاعدہ، جاری ترسیل کی حمایت کرتا ہے۔"
+    },
+    "b7": {
+      "hi": "* * दीर्घकालिक आपूर्ति प्रतिबद्धता * *: संयुक्त बयान ने पुष्टि की कि यह व्यवस्था एक बार की या सीमित अवधि की वाणिज्यिक व्यवस्था के बजाय दीर्घकालिक यूरेनियम निर्यात को सक्षम बनाती है। भारत इस बात की संस्थागत निश्चितता प्राप्त करता है कि दुनिया के सबसे परिणामी उत्पादकों में से एक के साथ एक ठोस दीर्घकालिक यूरेनियम आपूर्ति संबंध अब चालू है।",
+      "en": "**Long-term supply commitment**: The joint statement confirmed that the arrangement enables long-term uranium exports rather than a one-off or limited-tenure commercial arrangement. India acquires the institutional certainty that a substantive long-term uranium supply relationship with one of the world's most consequential producers is now operational.",
+      "ur": "* * طویل مدتی سپلائی کا عزم * *: مشترکہ بیان نے اس بات کی تصدیق کی کہ یہ انتظام یک وقتی یا محدود مدت کے تجارتی انتظام کے بجائے طویل مدتی یورینیم کی برآمدات کو قابل بناتا ہے۔ ہندوستان کو ادارہ جاتی یقین حاصل ہوتا ہے کہ دنیا کے سب سے زیادہ نتیجہ خیز پروڈیوسروں میں سے ایک کے ساتھ یورینیم کی فراہمی کا ایک ٹھوس طویل مدتی تعلق اب فعال ہے۔"
+    },
+    "b8": {
+      "hi": "100 गीगावाट महत्वाकांक्षाः यूरेनियम क्या सक्षम बनाता है",
+      "en": "The 100 GW ambition: what the uranium enables",
+      "ur": "100 جی ڈبلیو کی خواہش: یورینیم کیا قابل بناتا ہے"
+    },
+    "b9": {
+      "hi": "भारत का परमाणु ऊर्जा कार्यक्रम दुनिया में कहीं भी सबसे महत्वाकांक्षी स्वच्छ-ऊर्जा विस्तार प्रक्षेपवक्रों में से एक है। 2047 तक 100 गीगावाट परमाणु क्षमता लक्ष्य-देश के स्वच्छ-ऊर्जा संक्रमण और शुद्ध-शून्य-द्वारा-70 वास्तुकला के हिस्से के रूप में भारत सरकार द्वारा निर्धारित-वर्तमान 8.78 गीगावाट क्षमता से लगभग ग्यारह गुना वृद्धि दर्शाता है। 22 गीगावाट का अंतरिम लक्ष्य 2031-32 स्वयं पर्याप्त है, जिसके लिए मौजूदा सुविधाओं के आधुनिकीकरण और क्षमता वृद्धि के साथ-साथ नए रिएक्टरों के त्वरित निर्माण की आवश्यकता है।",
+      "en": "India's nuclear energy programme is one of the most ambitious clean-energy expansion trajectories anywhere in the world. The 100 GW nuclear capacity target by 2047 — set by the Government of India as part of the country's clean-energy transition and net-zero-by-2070 architecture — represents an approximately eleven-fold increase from the current 8.78 GW capacity. The interim target of 22 GW by 2031-32 is itself substantial, requiring accelerated construction of new reactors alongside the modernisation and capacity enhancement of existing facilities.",
+      "ur": "ہندوستان کا جوہری توانائی پروگرام دنیا میں کہیں بھی صاف توانائی کی توسیع کے سب سے زیادہ مہتواکانکشی راستوں میں سے ایک ہے۔ 2047 تک 100 گیگا واٹ جوہری صلاحیت کا ہدف-جو کہ حکومت ہند کی طرف سے ملک کی صاف توانائی کی منتقلی اور خالص صفر کے فن تعمیر کے حصے کے طور پر مقرر کیا گیا ہے-موجودہ 8. 78 گیگا واٹ صلاحیت سے تقریبا گیارہ گنا اضافے کی نمائندگی کرتا ہے۔ 22 گیگا واٹ کا عبوری ہدف بذات خود کافی ہے، جس کے لیے موجودہ سہولیات کی جدید کاری اور صلاحیت میں اضافے کے ساتھ ساتھ نئے ری ایکٹرز کی تیز رفتار تعمیر کی ضرورت ہے۔"
+    },
+    "b10": {
+      "hi": "वर्तमान परमाणु संरचना-सात स्थलों पर 24 प्रचालन रिएक्टर, जो भारत के कुल बिजली उत्पादन में लगभग 3 प्रतिशत का योगदान करते हैं-वह नींव प्रदान करता है जिस पर पर्याप्त विस्तार होगा। 100 गीगावाट के प्रक्षेपवक्र में देश की सिद्ध दबाव भारी जल रिएक्टर (पी. एच. डब्ल्यू. आर.) प्रौद्योगिकी के साथ-साथ अंतर्राष्ट्रीय आपूर्तिकर्ताओं के साथ साझेदारी के माध्यम से आयातित हल्के जल रिएक्टर (एल. डब्ल्यू. आर.) प्रौद्योगिकी और उभरते छोटे मॉड्यूलर रिएक्टर (एस. एम. आर.) प्रौद्योगिकी जिसे भारत ने अपनी सबसे परिणामी भविष्य की परमाणु क्षमताओं में से एक के रूप में पहचाना है, के पर्याप्त पैमाने पर विस्तार की परिकल्पना की गई है। केंद्रीय बजट में घोषित परमाणु ऊर्जा मिशन इस विस्तार के लिए संस्थागत और वित्तीय संरचना प्रदान करता है।",
+      "en": "The current nuclear architecture — 24 operational reactors across seven sites, contributing approximately 3 per cent of India's total electricity generation — provides the foundation on which the substantial expansion will build. The trajectory to 100 GW envisages the substantial scaling of the country's proven Pressurised Heavy Water Reactor (PHWR) technology, alongside imported Light Water Reactor (LWR) technology through partnerships with international suppliers, and the emerging Small Modular Reactor (SMR) technology that India has identified as one of its most consequential future nuclear capabilities. The Nuclear Energy Mission announced in the Union Budget 2026-27 provides the institutional and financial architecture for this expansion.",
+      "ur": "موجودہ جوہری فن تعمیر-سات مقامات پر 24 آپریشنل ری ایکٹر، جو ہندوستان کی کل بجلی کی پیداوار میں تقریبا 3 فیصد کا حصہ ڈالتے ہیں-وہ بنیاد فراہم کرتا ہے جس پر خاطر خواہ توسیع ہوگی۔ 100 جی ڈبلیو تک کا راستہ ملک کی ثابت شدہ پریشرائزڈ ہیوی واٹر ری ایکٹر (پی ایچ ڈبلیو آر) ٹیکنالوجی کی خاطر خواہ پیمائش کا تصور کرتا ہے، اس کے ساتھ ساتھ بین الاقوامی سپلائرز کے ساتھ شراکت داری کے ذریعے درآمد شدہ لائٹ واٹر ری ایکٹر (ایل ڈبلیو آر) ٹیکنالوجی، اور ابھرتی ہوئی سمال ماڈیولر ری ایکٹر (ایس ایم آر) ٹیکنالوجی جسے ہندوستان نے اپنی سب سے زیادہ نتیجہ خیز مستقبل کی جوہری صلاحیتوں میں سے ایک کے طور پر شناخت کیا ہے۔ مرکزی بجٹ میں اعلان کردہ جوہری توانائی مشن اس توسیع کے لیے ادارہ جاتی اور مالی ڈھانچہ فراہم کرتا ہے۔"
+    },
+    "b11": {
+      "hi": "यूरेनियम आपूर्ति का आयाम ऐतिहासिक रूप से भारत के परमाणु विस्तार में एक बड़ी बाधा रहा है। भारत के पास पर्याप्त थोरियम भंडार हैं-वास्तव में देश की दीर्घकालिक परमाणु ऊर्जा रणनीति ने थोरियम आधारित रिएक्टरों को एक मुख्य स्तंभ के रूप में परिकल्पित किया है-लेकिन देश के भीतर यूरेनियम भंडार विस्तार कार्यक्रम के पैमाने के सापेक्ष सीमित हैं। इसलिए स्थापित वैश्विक उत्पादकों से स्थिर, पूर्वानुमेय, दीर्घकालिक यूरेनियम आपूर्ति को सुरक्षित करना एक ठोस रणनीतिक आवश्यकता है-और ऑस्ट्रेलियाई व्यवस्था एकल संस्थागत स्ट्रोक में सबसे परिणामी आवश्यकताओं में से एक को हल करती है।",
+      "en": "The uranium supply dimension has historically been a substantial constraint on India's nuclear expansion. India possesses substantial thorium reserves — indeed the country's long-term nuclear energy strategy has envisaged thorium-based reactors as a core pillar — but uranium reserves within the country are limited relative to the scale of the expansion programme. Securing stable, predictable, long-term uranium supply from established global producers is therefore a substantive strategic requirement — and the Australian arrangement resolves one of the most consequential such requirements in a single institutional stroke.",
+      "ur": "یورینیم کی فراہمی کا طول و عرض تاریخی طور پر ہندوستان کی جوہری توسیع میں کافی رکاوٹ رہا ہے۔ ہندوستان کے پاس کافی مقدار میں تھوریم کے ذخائر ہیں-درحقیقت ملک کی طویل مدتی جوہری توانائی کی حکمت عملی نے تھوریم پر مبنی ری ایکٹرز کو ایک بنیادی ستون کے طور پر تصور کیا ہے-لیکن ملک کے اندر یورینیم کے ذخائر توسیعی پروگرام کے پیمانے کے مقابلے میں محدود ہیں۔ اس لیے قائم شدہ عالمی پروڈیوسروں سے مستحکم، پیش گوئی کے قابل، طویل مدتی یورینیم کی فراہمی کو محفوظ بنانا ایک ٹھوس اسٹریٹجک ضرورت ہے-اور آسٹریلیائی انتظام ایک واحد ادارہ جاتی اسٹروک میں اس طرح کی سب سے زیادہ نتیجہ خیز ضروریات میں سے ایک کو حل کرتا ہے۔"
+    },
+    "b12": {
+      "hi": "ऑस्ट्रेलिया क्यों मायने रखता है",
+      "en": "Why Australia matters",
+      "ur": "آسٹریلیا کیوں اہمیت رکھتا ہے"
+    },
+    "b13": {
+      "hi": "वैश्विक यूरेनियम आपूर्ति संरचना में ऑस्ट्रेलिया की भूमिका जनसंख्या या अर्थव्यवस्था के अपने हिस्से की तुलना में काफी बड़ी है। देश के पास दुनिया के ज्ञात यूरेनियम भंडार का लगभग 28 प्रतिशत है-इस महत्वपूर्ण संसाधन का सबसे बड़ा एकल राष्ट्रीय स्वामित्व। ऑस्ट्रेलिया के यूरेनियम खनन क्षेत्र ने, दशकों से, प्रमुख वैश्विक उपभोक्ताओं को वाणिज्यिक यूरेनियम निर्यात का समर्थन करने के लिए आवश्यक परिचालन पैमाने, तकनीकी विशेषज्ञता, सुरक्षा वास्तुकला और नियामक ढांचे की स्थापना की है।",
+      "en": "Australia's role in the global uranium supply architecture is substantially larger than its share of population or economy would suggest. The country holds approximately 28 per cent of the world's known uranium reserves — the largest single national holding of this critical resource. Australia's uranium mining sector has, over decades, established the operational scale, technical expertise, safety architecture, and regulatory framework required to support commercial uranium exports to major global consumers.",
+      "ur": "عالمی یورینیم کی فراہمی کے ڈھانچے میں آسٹریلیا کا کردار اس کی آبادی یا معیشت کے حصے سے کافی زیادہ ہے۔ اس ملک کے پاس دنیا کے معلوم یورینیم کے ذخائر کا تقریبا 28 فیصد ہے-جو اس اہم وسائل کا سب سے بڑا واحد قومی ذخیرہ ہے۔ آسٹریلیا کے یورینیم کی کان کنی کے شعبے نے کئی دہائیوں کے دوران، بڑے عالمی صارفین کو تجارتی یورینیم کی برآمدات میں مدد کے لیے درکار آپریشنل پیمانے، تکنیکی مہارت، حفاظتی ڈھانچے اور ریگولیٹری فریم ورک کو قائم کیا ہے۔"
+    },
+    "b14": {
+      "hi": "अद्वितीय रूप से, ऑस्ट्रेलिया स्वयं कोई वाणिज्यिक परमाणु ऊर्जा संयंत्र संचालित नहीं करता है-देश का पूरा यूरेनियम उत्पादन निर्यात बाजारों के लिए निर्देशित है। यह ऑस्ट्रेलिया को एक असाधारण रूप से विश्वसनीय दीर्घकालिक आपूर्तिकर्ता बनाता हैः संसाधन के लिए प्रतिस्पर्धा करने वाली घरेलू खपत के बिना, ऑस्ट्रेलिया का यूरेनियम उत्पादन पूरी तरह से अंतर्राष्ट्रीय ग्राहकों के लिए उपलब्ध है। ऑस्ट्रेलिया पहले से ही संयुक्त राज्य अमेरिका, जापान, दक्षिण कोरिया, यूरोपीय संघ और चीन को यूरेनियम का निर्यात करता है, और अब भारत को जोड़ता है-दुनिया का सबसे अधिक आबादी वाला देश और विश्व स्तर पर सबसे तेजी से बढ़ते बिजली बाजारों में से एक-उस ग्राहक आधार में।",
+      "en": "Uniquely, Australia itself operates no commercial nuclear power plants — the country's entire uranium production is directed to export markets. This makes Australia an exceptionally reliable long-term supplier: without domestic consumption competing for the resource, Australia's uranium output is available in its entirety for international customers. Australia already exports uranium to the United States, Japan, South Korea, the European Union, and China, and now adds India — the world's most populous country and one of the fastest-growing electricity markets globally — to that customer base.",
+      "ur": "منفرد طور پر، آسٹریلیا خود کوئی تجارتی جوہری بجلی گھر نہیں چلاتا ہے-ملک کی پوری یورینیم کی پیداوار کو برآمد بازاروں کی طرف ہدایت کی جاتی ہے۔ اس سے آسٹریلیا ایک غیر معمولی قابل اعتماد طویل مدتی سپلائر بن جاتا ہے: وسائل کے لیے مقابلہ کرنے والی گھریلو کھپت کے بغیر، آسٹریلیا کی یورینیم کی پیداوار مکمل طور پر بین الاقوامی صارفین کے لیے دستیاب ہے۔ آسٹریلیا پہلے ہی امریکہ، جاپان، جنوبی کوریا، یورپی یونین اور چین کو یورینیم برآمد کرتا ہے، اور اب اس گاہک کی بنیاد میں ہندوستان کو شامل کرتا ہے-جو دنیا کا سب سے زیادہ آبادی والا ملک اور عالمی سطح پر سب سے تیزی سے بڑھتی ہوئی بجلی کی منڈیوں میں سے ایک ہے۔"
+    },
+    "b15": {
+      "hi": "ऑस्ट्रेलिया के लिए, भारत ठीक उसी समय एक महत्वपूर्ण नए बाजार का प्रतिनिधित्व करता है जब देश अपने स्थापित भागीदारों से परे अपने व्यापार संबंधों में उत्तरोत्तर विविधता ला रहा है। प्रधान मंत्री अल्बनीज ने विशेष रूप से इन शर्तों में व्यवस्था तैयार की-यूरेनियम साझेदारी प्रमुख हिंद-प्रशांत भागीदारों के साथ टिकाऊ दीर्घकालिक संबंध बनाने के लिए ऑस्ट्रेलिया के रणनीतिक प्रयास में योगदान देती है और साथ ही ऑस्ट्रेलियाई संसाधन क्षेत्र के लिए पर्याप्त वाणिज्यिक अवसर भी प्रदान करती है।",
+      "en": "For Australia, India represents a substantial new market at exactly the moment when the country is progressively diversifying its trade relationships beyond its established partners. Prime Minister Albanese specifically framed the arrangement in these terms — the uranium partnership contributes to Australia's strategic effort to build durable long-term relationships with major Indo-Pacific partners while also providing substantial commercial opportunity for the Australian resources sector.",
+      "ur": "آسٹریلیا کے لیے، ہندوستان بالکل اس وقت ایک خاطر خواہ نئی منڈی کی نمائندگی کرتا ہے جب ملک اپنے قائم کردہ شراکت داروں سے آگے بڑھ کر اپنے تجارتی تعلقات کو متنوع بنا رہا ہے۔ وزیر اعظم البانیز نے خاص طور پر ان شرائط میں انتظام وضع کیا-یورینیم کی شراکت داری آسٹریلیا کی اہم ہند بحرالکاہل کے شراکت داروں کے ساتھ پائیدار طویل مدتی تعلقات استوار کرنے کی اسٹریٹجک کوشش میں معاون ہے جبکہ آسٹریلیائی وسائل کے شعبے کے لیے خاطر خواہ تجارتی مواقع بھی فراہم کرتی ہے۔"
+    },
+    "b16": {
+      "hi": "बारह साल का चक्रः 2014 के हस्ताक्षर से 2026 के संचालन तक",
+      "en": "The twelve-year arc: from 2014 signature to 2026 operationalisation",
+      "ur": "بارہ سالہ آرک: 2014 کے دستخط سے لے کر 2026 تک آپریشنلائزیشن تک"
+    },
+    "b17": {
+      "hi": "गुरुवार को अंतिम रूप दी गई यूरेनियम व्यवस्था बारह साल के संस्थागत चक्र को पूरा करती है जो दोनों सरकारों द्वारा नागरिक परमाणु सहयोग को खोलने के लिए ठोस रणनीतिक निर्णय के साथ शुरू हुई थी।",
+      "en": "The uranium arrangement finalised on Thursday completes a twelve-year institutional arc that began with the substantive strategic decision by both governments to unlock civilian nuclear cooperation.",
+      "ur": "جمعرات کو حتمی شکل دیے گئے یورینیم کے انتظام نے بارہ سالہ ادارہ جاتی آرک کو مکمل کیا جس کا آغاز دونوں حکومتوں کی طرف سے شہری جوہری تعاون کو کھولنے کے ٹھوس اسٹریٹجک فیصلے سے ہوا۔"
+    },
+    "b18": {
+      "hi": "2014: प्रधान मंत्री टोनी एबॉट और प्रधान मंत्री नरेंद्र मोदी ने भारत-ऑस्ट्रेलिया असैन्य परमाणु सहयोग समझौते पर हस्ताक्षर किए-असैन्य परमाणु अनुप्रयोगों के लिए ऑस्ट्रेलिया से भारत को यूरेनियम की आपूर्ति के लिए रूपरेखा स्थापित करने वाला ठोस मूलभूत दस्तावेज।",
+      "en": "**2014**: Prime Minister Tony Abbott and Prime Minister Narendra Modi signed the India-Australia Civil Nuclear Cooperation Agreement — the substantive foundational document establishing the framework for uranium supply from Australia to India for civilian nuclear applications.",
+      "ur": "* * 2014 * *: وزیر اعظم ٹونی ایبٹ اور وزیر اعظم نریندر مودی نے بھارت-آسٹریلیا سول نیوکلیئر تعاون کے معاہدے پر دستخط کیے-یہ بنیادی بنیادی دستاویز ہے جو سویلین نیوکلیئر ایپلی کیشنز کے لیے آسٹریلیا سے بھارت کو یورینیم کی فراہمی کے لیے فریم ورک قائم کرتی ہے۔"
+    },
+    "b19": {
+      "hi": "* * 2015 * *: दोनों पक्षों की आवश्यक संस्थागत प्रक्रियाओं के पूरा होने के बाद समझौता औपचारिक रूप से लागू हुआ।",
+      "en": "**2015**: The Agreement formally entered into force following the completion of the required institutional procedures on both sides.",
+      "ur": "* * 2015 * *: معاہدہ دونوں طرف سے مطلوبہ ادارہ جاتی طریقہ کار کی تکمیل کے بعد باضابطہ طور پر نافذ ہوا۔"
+    },
+    "b20": {
+      "hi": "* * 2016 * *: ऑस्ट्रेलियाई संसद ने ऑस्ट्रेलिया के संवैधानिक ढांचे के भीतर विशिष्ट संसदीय और नियामक आवश्यकताओं को हल करते हुए भारत को यूरेनियम निर्यात को पूरी तरह से अधिकृत करने के लिए आवश्यक घरेलू कानूनी ढांचे को पूरा किया।",
+      "en": "**2016**: The Australian Parliament completed the domestic legal architecture required to fully authorise uranium exports to India, resolving the specific parliamentary and regulatory requirements within Australia's constitutional framework.",
+      "ur": "* * 2016 * *: آسٹریلیائی پارلیمنٹ نے آسٹریلیا کے آئینی فریم ورک کے اندر مخصوص پارلیمانی اور ریگولیٹری تقاضوں کو حل کرتے ہوئے ہندوستان کو یورینیم کی برآمدات کو مکمل طور پر اختیار دینے کے لیے درکار گھریلو قانونی ڈھانچہ مکمل کیا۔"
+    },
+    "b21": {
+      "hi": "* * 2017 * *: एक प्रतीकात्मक टोकन यूरेनियम शिपमेंट ने परिचालन पाइपलाइन का परीक्षण किया-जो ऑस्ट्रेलियाई यूरेनियम को खदान से भारतीय रिएक्टर में ले जाने के लिए आवश्यक तकनीकी बुनियादी ढांचे को मान्य करता है।",
+      "en": "**2017**: A symbolic token uranium shipment tested the operational pipeline — validating the technical infrastructure required to move Australian uranium from mine to Indian reactor.",
+      "ur": "* * 2017 * *: ایک علامتی ٹوکن یورینیم کی کھیپ نے آپریشنل پائپ لائن کا تجربہ کیا-جو آسٹریلیائی یورینیم کو کان سے ہندوستانی ری ایکٹر میں منتقل کرنے کے لیے درکار تکنیکی بنیادی ڈھانچے کی توثیق کرتا ہے۔"
+    },
+    "b22": {
+      "hi": "* * 2026 * *: मेलबर्न शिखर सम्मेलन प्रशासनिक व्यवस्था वाणिज्यिक पैमाने पर संचालन को अंतिम रूप देती है, जिससे नियमित रूप से चल रहे शिपमेंट और दीर्घकालिक आपूर्ति प्रतिबद्धताओं के द्वार खुल जाते हैं।",
+      "en": "**2026**: The Melbourne Summit administrative arrangement finalises the commercial-scale operationalisation, opening the door to regular ongoing shipments and long-term supply commitments.",
+      "ur": "* * 2026 * *: میلبورن سمٹ کا انتظامی انتظام تجارتی پیمانے پر آپریشنلائزیشن کو حتمی شکل دیتا ہے، جس سے باقاعدہ جاری ترسیل اور طویل مدتی سپلائی کے وعدوں کے دروازے کھل جاتے ہیں۔"
+    },
+    "b23": {
+      "hi": "यह प्रक्षेपवक्र भारत-ऑस्ट्रेलिया साझेदारी की संस्थागत परिपक्वता को दर्शाता है। जैसा कि प्रधान मंत्री अल्बनीज ने अपने संबोधन में कहा, \"प्रधान मंत्री मोदी, आपका नेतृत्व और ऑस्ट्रेलिया के साथ आपका व्यक्तिगत जुड़ाव इस परिवर्तन के लिए बिल्कुल केंद्रीय रहा है\"-राजनयिक और संस्थागत निवेश की बहु-दशक की निरंतरता को मान्यता देते हुए जिसने अब ठोस वाणिज्यिक परिणाम दिए हैं।",
+      "en": "The trajectory reflects the institutional maturity of the India-Australia partnership. As Prime Minister Albanese noted in his address, \"Prime Minister Modi, your leadership and your personal engagement with Australia has been absolutely central to this change\" — recognising the multi-decade continuity of the diplomatic and institutional investment that has now delivered substantive commercial outcome.",
+      "ur": "یہ رفتار ہندوستان-آسٹریلیا شراکت داری کی ادارہ جاتی پختگی کی عکاسی کرتی ہے۔ جیسا کہ وزیر اعظم البانیز نے اپنے خطاب میں کہا، \"وزیر اعظم مودی، آپ کی قیادت اور آسٹریلیا کے ساتھ آپ کی ذاتی وابستگی اس تبدیلی کے لیے بالکل مرکزی رہی ہے\"-سفارتی اور ادارہ جاتی سرمایہ کاری کے کثیر دہائی کے تسلسل کو تسلیم کرتے ہوئے جس نے اب ٹھوس تجارتی نتائج فراہم کیے ہیں۔"
+    },
+    "b24.title": {
+      "hi": "भारत-ऑस्ट्रेलिया यूरेनियम व्यवस्था एक नजर में",
+      "en": "The India-Australia Uranium Arrangement at a Glance",
+      "ur": "بھارت-آسٹریلیا یورینیم کا انتظام ایک نظر میں"
+    },
+    "b24.itemlbl.0": {
+      "hi": "आयोजन",
+      "en": "Event",
+      "ur": "تقریب"
+    },
+    "b24.itemval.0": {
+      "hi": "तीसरा भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन",
+      "en": "3rd India-Australia Annual Summit",
+      "ur": "تیسرا بھارت-آسٹریلیا سالانہ اجلاس"
+    },
+    "b24.itemlbl.1": {
+      "hi": "तिथि",
+      "en": "Date",
+      "ur": "تاریخ"
+    },
+    "b24.itemval.1": {
+      "hi": "गुरुवार, 9 जुलाई 2026",
+      "en": "Thursday, 9 July 2026",
+      "ur": "جمعرات، 9 جولائی 2026"
+    },
+    "b24.itemlbl.2": {
+      "hi": "स्थान",
+      "en": "Location",
+      "ur": "مقام"
+    },
+    "b24.itemval.2": {
+      "hi": "मेलबर्न, ऑस्ट्रेलिया",
+      "en": "Melbourne, Australia",
+      "ur": "میلبورن، آسٹریلیا"
+    },
+    "b24.itemlbl.3": {
+      "hi": "भारतीय प्रधानमंत्री",
+      "en": "Indian PM",
+      "ur": "بھارتی وزیر اعظم"
+    },
+    "b24.itemval.3": {
+      "hi": "नरेंद्र मोदी",
+      "en": "Narendra Modi",
+      "ur": "نریندر مودی"
+    },
+    "b24.itemlbl.4": {
+      "hi": "ऑस्ट्रेलिया के प्रधानमंत्री",
+      "en": "Australian PM",
+      "ur": "آسٹریلیا کے وزیر اعظم"
+    },
+    "b24.itemval.4": {
+      "hi": "एंथनी अल्बनीज",
+      "en": "Anthony Albanese",
+      "ur": "انتھونی البانیز"
+    },
+    "b24.itemlbl.5": {
+      "hi": "यूरेनियम व्यवस्था",
+      "en": "Uranium arrangement",
+      "ur": "یورینیم کی ترتیب"
+    },
+    "b24.itemval.5": {
+      "hi": "वाणिज्यिक स्तर पर आपूर्ति के लिए प्रशासनिक व्यवस्था को अंतिम रूप दिया गया",
+      "en": "Administrative arrangement finalised for commercial-scale supply",
+      "ur": "تجارتی پیمانے پر سپلائی کے لیے انتظامی انتظام کو حتمی شکل دی گئی"
+    },
+    "b24.itemlbl.6": {
+      "hi": "फ्रेमवर्क",
+      "en": "Framework",
+      "ur": "فریم ورک"
+    },
+    "b24.itemval.6": {
+      "hi": "2015 भारत-ऑस्ट्रेलिया असैन्य परमाणु सहयोग समझौता",
+      "en": "2015 India-Australia Civil Nuclear Cooperation Agreement",
+      "ur": "2015 بھارت-آسٹریلیا سول نیوکلیئر تعاون معاہدہ"
+    },
+    "b24.itemlbl.7": {
+      "hi": "मूल हस्ताक्षर",
+      "en": "Original signature",
+      "ur": "اصل دستخط"
+    },
+    "b24.itemval.7": {
+      "hi": "2014 (पीएम टोनी एबॉट + पीएम नरेंद्र मोदी)",
+      "en": "2014 (PM Tony Abbott + PM Narendra Modi)",
+      "ur": "2014 (وزیر اعظم ٹونی ایبٹ + وزیر اعظم نریندر مودی)"
+    },
+    "b24.itemlbl.8": {
+      "hi": "उद्देश्य",
+      "en": "Purpose",
+      "ur": "مقصد"
+    },
+    "b24.itemval.8": {
+      "hi": "अनन्य रूप से शांतिपूर्ण, नागरिक परमाणु शक्ति",
+      "en": "Exclusively peaceful, civilian nuclear power",
+      "ur": "خصوصی طور پر پرامن، شہری جوہری طاقت"
+    },
+    "b24.itemlbl.9": {
+      "hi": "निगरानी",
+      "en": "Monitoring",
+      "ur": "نگرانی"
+    },
+    "b24.itemval.9": {
+      "hi": "आई. ए. ई. ए. के सुरक्षा उपाय",
+      "en": "IAEA safeguards",
+      "ur": "آئی اے ای اے کے تحفظات"
+    },
+    "b24.itemlbl.10": {
+      "hi": "आपूर्ति अवधि",
+      "en": "Supply tenure",
+      "ur": "سپلائی کی مدت"
+    },
+    "b24.itemval.10": {
+      "hi": "लंबी अवधि के लिए",
+      "en": "Long-term",
+      "ur": "طویل مدتی"
+    },
+    "b24.itemlbl.11": {
+      "hi": "ऑस्ट्रेलिया के यूरेनियम भंडार",
+      "en": "Australia's uranium reserves",
+      "ur": "آسٹریلیا کے یورینیم کے ذخائر"
+    },
+    "b24.itemval.11": {
+      "hi": "दुनिया के ज्ञात यूरेनियम का लगभग 28 प्रतिशत (विश्व स्तर पर सबसे बड़ा)",
+      "en": "Approximately 28% of world's known uranium (largest globally)",
+      "ur": "دنیا کے معلوم یورینیم کا تقریبا 28 فیصد (عالمی سطح پر سب سے بڑا)"
+    },
+    "b24.itemlbl.12": {
+      "hi": "ऑस्ट्रेलिया के घरेलू परमाणु संयंत्र",
+      "en": "Australia's domestic nuclear plants",
+      "ur": "آسٹریلیا کے گھریلو جوہری پلانٹ"
+    },
+    "b24.itemval.12": {
+      "hi": "शून्य (निर्यात के लिए सभी यूरेनियम उत्पादन)",
+      "en": "Zero (all uranium production for export)",
+      "ur": "صفر (برآمد کے لیے تمام یورینیم کی پیداوار)"
+    },
+    "b24.itemlbl.13": {
+      "hi": "मौजूदा ऑस्ट्रेलियाई यूरेनियम निर्यात बाजार",
+      "en": "Existing Australian uranium export markets",
+      "ur": "موجودہ آسٹریلوی یورینیم برآمدی بازار"
+    },
+    "b24.itemval.13": {
+      "hi": "संयुक्त राज्य अमेरिका, जापान, दक्षिण कोरिया, यूरोपीय संघ, चीन",
+      "en": "United States, Japan, South Korea, European Union, China",
+      "ur": "امریکہ، جاپان، جنوبی کوریا، یورپی یونین، چین"
+    },
+    "b24.itemlbl.14": {
+      "hi": "भारत का परमाणु क्षमता लक्ष्य",
+      "en": "India's nuclear capacity target",
+      "ur": "بھارت کی جوہری صلاحیت کا ہدف"
+    },
+    "b24.itemval.14": {
+      "hi": "2047 तक 100 गीगावाट",
+      "en": "100 GW by 2047",
+      "ur": "2047 تک 100 گیگا واٹ"
+    },
+    "b24.itemlbl.15": {
+      "hi": "भारत की वर्तमान परमाणु क्षमता",
+      "en": "India's current nuclear capacity",
+      "ur": "بھارت کی موجودہ جوہری صلاحیت"
+    },
+    "b24.itemval.15": {
+      "hi": "7 स्थानों पर 24 रिएक्टरों में 8.78 गीगावाट बिजली",
+      "en": "8.78 GW across 24 reactors at 7 sites",
+      "ur": "7 مقامات پر 24 ری ایکٹروں میں 8. 78 گیگا واٹ بجلی"
+    },
+    "b24.itemlbl.16": {
+      "hi": "आज भारतीय बिजली का परमाणु हिस्सा",
+      "en": "Nuclear share of Indian electricity today",
+      "ur": "آج ہندوستانی بجلی کا جوہری حصہ"
+    },
+    "b24.itemval.16": {
+      "hi": "लगभग 3 प्रतिशत",
+      "en": "Approximately 3%",
+      "ur": "تقریبا 3 ٪"
+    },
+    "b24.itemlbl.17": {
+      "hi": "अंतरिम लक्ष्य",
+      "en": "Interim target",
+      "ur": "عبوری ہدف"
+    },
+    "b24.itemval.17": {
+      "hi": "22 जी. डब्ल्यू. 2031-32 द्वारा",
+      "en": "22 GW by 2031-32",
+      "ur": "22 GW بذریعہ 2031-32"
+    },
+    "b24.itemlbl.18": {
+      "hi": "परमाणु ऊर्जा मिशन",
+      "en": "Nuclear Energy Mission",
+      "ur": "جوہری توانائی مشن"
+    },
+    "b24.itemval.18": {
+      "hi": "घोषित केंद्रीय बजट 2026-27",
+      "en": "Announced Union Budget 2026-27",
+      "ur": "اعلان کردہ مرکزی بجٹ 2026-27"
+    },
+    "b24.itemlbl.19": {
+      "hi": "रिएक्टर प्रौद्योगिकी रोडमैप",
+      "en": "Reactor technology roadmap",
+      "ur": "ری ایکٹر ٹیکنالوجی روڈ میپ"
+    },
+    "b24.itemval.19": {
+      "hi": "पी. एच. डब्ल्यू. आर. (स्थापित); एल. डब्ल्यू. आर. (आयातित); एस. एम. आर. (उभरता हुआ)",
+      "en": "PHWR (established); LWR (imported); SMR (emerging)",
+      "ur": "پی ایچ ڈبلیو آر (قائم شدہ) ؛ ایل ڈبلیو آر (درآمد شدہ) ؛ ایس ایم آر (ابھرتا ہوا)"
+    },
+    "b24.itemlbl.20": {
+      "hi": "शिखर सम्मेलन के अन्य परिणाम",
+      "en": "Other Summit outcomes",
+      "ur": "سمٹ کے دیگر نتائج"
+    },
+    "b24.itemval.20": {
+      "hi": "सी. ई. सी. ए. में तेजी; द्वीपक्षीय निवेश संधि; महत्वपूर्ण खनिज गलियारा",
+      "en": "CECA acceleration; Bilateral Investment Treaty; Critical Minerals Corridor",
+      "ur": "سی ای سی اے میں تیزی ؛ دو طرفہ سرمایہ کاری معاہدہ ؛ اہم معدنیات کوریڈور"
+    },
+    "b24.itemlbl.21": {
+      "hi": "त्रिपक्षीय तकनीकी साझेदारी",
+      "en": "Trilateral tech partnership",
+      "ur": "سہ فریقی تکنیکی شراکت داری"
+    },
+    "b24.itemval.21": {
+      "hi": "ऑस्ट्रेलिया-भारत-कनाडा (एसीआईटीआई)",
+      "en": "Australia-India-Canada (ACITI)",
+      "ur": "آسٹریلیا-بھارت-کینیڈا (اے سی آئی ٹی آئی)"
+    },
+    "b24.itemlbl.22": {
+      "hi": "अंतरिक्ष सहयोग",
+      "en": "Space cooperation",
+      "ur": "خلائی تعاون"
+    },
+    "b24.itemval.22": {
+      "hi": "गगनयान कार्यक्रम के लिए कोकोस (कीलिंग) द्वीप समूह में अस्थायी ट्रैकिंग टर्मिनल",
+      "en": "Temporary tracking terminal at Cocos (Keeling) Islands for Gaganyaan programme",
+      "ur": "گگن یان پروگرام کے لیے جزائر کوکوس (کیلنگ) میں عارضی ٹریکنگ ٹرمینل"
+    },
+    "b24.itemlbl.23": {
+      "hi": "ऐतिहासिक मील के पत्थर",
+      "en": "Historical milestones",
+      "ur": "تاریخی سنگ میل"
+    },
+    "b24.itemval.23": {
+      "hi": "2014 के हस्ताक्षर; 2015 में प्रवेश; 2016 ऑस्ट्रेलियाई संसद की मंजूरी; 2017 प्रतीकात्मक शिपमेंट; 2026 वाणिज्यिक पैमाने पर संचालन",
+      "en": "2014 signature; 2015 entry into force; 2016 Australian Parliament clearance; 2017 symbolic shipment; 2026 commercial-scale operationalisation",
+      "ur": "2014 کے دستخط ؛ 2015 کا نفاذ ؛ 2016 آسٹریلوی پارلیمنٹ کی منظوری ؛ 2017 علامتی کھیپ ؛ 2026 تجارتی پیمانے پر آپریشنلائزیشن"
+    },
+    "b24.itemlbl.24": {
+      "hi": "भारत-ऑस्ट्रेलिया द्वीपक्षीय व्यापार वित्त वर्ष 2024-25",
+      "en": "India-Australia bilateral trade FY 2024-25",
+      "ur": "بھارت-آسٹریلیا دو طرفہ تجارت مالی سال 2024-25"
+    },
+    "b24.itemval.24": {
+      "hi": "54. 4 अरब ऑस्ट्रेलियाई डॉलर (37.7 अरब अमेरिकी डॉलर)",
+      "en": "AUD 54.4 billion (USD 37.7 billion)",
+      "ur": "54. 4 بلین آسٹریلوی ڈالر (37. 7 بلین امریکی ڈالر)"
+    },
+    "b24.itemlbl.25": {
+      "hi": "ऑस्ट्रेलिया के व्यापारिक भागीदार के रूप में भारत का स्थान",
+      "en": "India's rank as Australian trading partner",
+      "ur": "آسٹریلیا کے تجارتی شراکت دار کے طور پر ہندوستان کا درجہ"
+    },
+    "b24.itemval.25": {
+      "hi": "पाँचवाँ सबसे बड़ा",
+      "en": "5th largest",
+      "ur": "پانچواں سب سے بڑا"
+    },
+    "b24.itemlbl.26": {
+      "hi": "व्यापक रणनीतिक साझेदारी",
+      "en": "Comprehensive Strategic Partnership",
+      "ur": "جامع اسٹریٹجک پارٹنرشپ"
+    },
+    "b24.itemval.26": {
+      "hi": "2020 में स्थापित, 2022 में उन्नत",
+      "en": "Established 2020, upgraded 2022",
+      "ur": "2020 میں قائم کیا گیا، 2022 میں اپ گریڈ کیا گیا"
+    },
+    "b24.itemlbl.27": {
+      "hi": "मोदी की ऑस्ट्रेलिया यात्रा की तिथियाँ",
+      "en": "Modi's Australia visit dates",
+      "ur": "مودی کے آسٹریلیا دورے کی تاریخیں"
+    },
+    "b24.itemval.27": {
+      "hi": "8-10 जुलाई 2026",
+      "en": "8-10 July 2026",
+      "ur": "8-10 جولائی 2026"
+    },
+    "b24.itemlbl.28": {
+      "hi": "मोदी का पिछला पड़ाव",
+      "en": "Modi's previous stop",
+      "ur": "مودی کا پچھلا اسٹاپ"
+    },
+    "b24.itemval.28": {
+      "hi": "इंडोनेशिया (कृषि, रक्षा समझौते)",
+      "en": "Indonesia (agriculture, defence agreements)",
+      "ur": "انڈونیشیا (زراعت، دفاعی معاہدے)"
+    },
+    "b25.q": {
+      "hi": "\"ऑस्ट्रेलिया भारत को यूरेनियम की आपूर्ति करेगा। हमने परमाणु ऊर्जा के क्षेत्र में एक महत्वपूर्ण समझौते पर हस्ताक्षर किए हैं। यह हमारे स्वच्छ ऊर्जा लक्ष्यों को नई गति देगा।\"",
+      "en": "\"Australia will supply uranium to India. We have signed an important agreement in the field of nuclear energy. It will give new momentum to our clean energy goals.\"",
+      "ur": "\"آسٹریلیا ہندوستان کو یورینیم فراہم کرے گا۔ ہم نے جوہری توانائی کے شعبے میں ایک اہم معاہدے پر دستخط کیے ہیں۔ اس سے ہمارے صاف توانائی کے اہداف کو نئی رفتار ملے گی۔\""
+    },
+    "b25.c": {
+      "hi": "- प्रधानमंत्री नरेंद्र मोदी (संयुक्त प्रेस वक्तव्य, मेलबर्न, 9 जुलाई 2026)",
+      "en": "— Prime Minister Narendra Modi (Joint Press Statement, Melbourne, 9 July 2026)",
+      "ur": "- وزیر اعظم نریندر مودی (مشترکہ پریس بیان، میلبورن، 9 جولائی 2026)"
+    },
+    "b26": {
+      "hi": "यूरेनियम से परेः व्यापक मेलबर्न शिखर सम्मेलन वास्तुकला",
+      "en": "Beyond uranium: the wider Melbourne Summit architecture",
+      "ur": "یورینیم سے پرے: میلبورن سمٹ کا وسیع تر فن تعمیر"
+    },
+    "b27": {
+      "hi": "यूरेनियम व्यवस्था, जो कि परिणामी है, काफी हद तक व्यापक मेलबर्न शिखर सम्मेलन परिणाम संरचना का केवल एक आयाम है। प्रधान मंत्री मोदी और प्रधान मंत्री अल्बनीज ने व्यापक आर्थिक सहयोग समझौते (सी. ई. सी. ए.) पर काम में तेजी लाने पर भी सहमति व्यक्त की-जो 2022 में लागू हुए वर्तमान भारत-ऑस्ट्रेलिया आर्थिक सहयोग और व्यापार समझौते (ई. सी. टी. ए.) की तुलना में काफी अधिक महत्वाकांक्षी आर्थिक ढांचा है। प्रधान मंत्री मोदी ने अपने संयुक्त बयान में सी. ई. सी. ए. को \"संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी\" बताया, जो दोनों सरकारों की महत्वपूर्ण रूप से विस्तारित द्विपक्षीय आर्थिक जुड़ाव के लिए ठोस प्रतिबद्धता का संकेत देता है।",
+      "en": "The uranium arrangement, consequential as it is, is only one dimension of a substantially broader Melbourne Summit outcome architecture. Prime Minister Modi and Prime Minister Albanese also agreed to accelerate work on the Comprehensive Economic Cooperation Agreement (CECA) — a substantially more ambitious economic framework than the current India-Australia Economic Cooperation and Trade Agreement (ECTA) that came into force in 2022. Prime Minister Modi described the CECA in his joint statement as \"balanced, ambitious and mutually beneficial\", signalling both governments' substantive commitment to significantly expanded bilateral economic engagement.",
+      "ur": "یورینیم کا انتظام، جس کے نتیجے میں یہ ہے، کافی حد تک وسیع میلبورن سمٹ کے نتائج کے ڈھانچے کی صرف ایک جہت ہے۔ وزیر اعظم مودی اور وزیر اعظم البانیز نے جامع اقتصادی تعاون کے معاہدے (سی ای سی اے) پر کام کو تیز کرنے پر بھی اتفاق کیا-جو کہ 2022 میں نافذ ہونے والے موجودہ ہندوستان-آسٹریلیا اقتصادی تعاون اور تجارتی معاہدے (ای سی ٹی اے) کے مقابلے میں کافی زیادہ مہتواکانکشی اقتصادی ڈھانچہ ہے۔ وزیر اعظم مودی نے اپنے مشترکہ بیان میں سی ای سی اے کو \"متوازن، مہتواکانکشی اور باہمی فائدہ مند\" قرار دیا، جس سے دونوں حکومتوں کے دو طرفہ اقتصادی تعلقات کو نمایاں طور پر بڑھانے کے ٹھوس عزم کا اشارہ ملتا ہے۔"
+    },
+    "b28": {
+      "hi": "* * द्वैपाक्षिक निवेश संधि * *: दोनों पक्षों ने एक द्वैपाक्षिक निवेश संधि को आगे बढ़ाने के अपने इरादे का संकेत दिया, जो दो-तरफा निवेश प्रवाह के पर्याप्त विस्तार के लिए संस्थागत ढांचा प्रदान करता है जिससे दोनों अर्थव्यवस्थाओं को लाभ होगा।",
+      "en": "**Bilateral Investment Treaty**: Both sides indicated their intent to progress a Bilateral Investment Treaty, providing the institutional framework for the substantial expansion of two-way investment flows that both economies would benefit from.",
+      "ur": "* * دو طرفہ سرمایہ کاری معاہدہ * *: دونوں فریقوں نے دو طرفہ سرمایہ کاری کے معاہدے کو آگے بڑھانے کے اپنے ارادے کا اشارہ کیا، جس سے دو طرفہ سرمایہ کاری کے بہاؤ کی خاطر خواہ توسیع کے لیے ادارہ جاتی فریم ورک فراہم ہوتا ہے جس سے دونوں معیشتوں کو فائدہ ہوگا۔"
+    },
+    "b29": {
+      "hi": "* * महत्वपूर्ण खनिज गलियारा * *: दोनों प्रधानमंत्रियों ने स्वच्छ ऊर्जा, विद्युत गतिशीलता और उन्नत प्रौद्योगिकी के लिए आवश्यक खनिजों के लिए लचीली आपूर्ति श्रृंखलाओं को मजबूत करने के लिए भारत-ऑस्ट्रेलिया महत्वपूर्ण खनिज गलियारे के शुभारंभ की घोषणा की। ऑस्ट्रेलिया के लिथियम, कोबाल्ट, दुर्लभ पृथ्वी और अन्य महत्वपूर्ण खनिजों के पर्याप्त भंडार भारत के 34,300 करोड़ रुपये के राष्ट्रीय महत्वपूर्ण खनिज मिशन (23 जून को इन स्तंभों में व्यापक रूप से शामिल) से जुड़े हुए हैं।",
+      "en": "**Critical Minerals Corridor**: The two Prime Ministers announced the launch of an India-Australia Critical Minerals Corridor to strengthen resilient supply chains for the minerals essential to clean energy, electric mobility, and advanced technology. Australia's substantial reserves of lithium, cobalt, rare earths, and other critical minerals connect substantively to India's ₹34,300 crore National Critical Mineral Mission (covered extensively in these columns on 23 June).",
+      "ur": "* * کریٹیکل منرلز کوریڈور * *: دونوں وزرائے اعظم نے صاف توانائی، برقی نقل و حرکت اور جدید ٹیکنالوجی کے لیے ضروری معدنیات کے لچکدار سپلائی چین کو مضبوط کرنے کے لیے انڈیا-آسٹریلیا کریٹیکل منرلز کوریڈور کے آغاز کا اعلان کیا۔ آسٹریلیا کے لیتھیم، کوبالٹ، نایاب ارتھ اور دیگر اہم معدنیات کے کافی ذخائر ہندوستان کے 34, 300 کروڑ روپے کے نیشنل کریٹیکل منرل مشن (23 جون کو ان کالموں میں بڑے پیمانے پر احاطہ کیا گیا) سے کافی حد تک جڑے ہوئے ہیں۔"
+    },
+    "b30": {
+      "hi": "ऑस्ट्रेलिया-कनाडा-भारत (एसीआईटीआई) त्रिपक्षीय प्रौद्योगिकी साझेदारी * *: त्रिपक्षीय ढांचा ऑस्ट्रेलियाई अनुसंधान क्षमता, कनाडाई प्रौद्योगिकी व्यावसायीकरण विशेषज्ञता और कृत्रिम बुद्धिमत्ता, क्वांटम, जैव प्रौद्योगिकी और उन्नत सामग्रियों में भारत के तेजी से बढ़ते प्रौद्योगिकी और नवाचार पारिस्थितिकी तंत्र को एक साथ लाता है।",
+      "en": "**Australia-Canada-India (ACITI) Trilateral Technology Partnership**: The trilateral framework brings together Australian research capacity, Canadian technology commercialisation expertise, and India's rapidly expanding technology and innovation ecosystem across artificial intelligence, quantum, biotechnology, and advanced materials.",
+      "ur": "آسٹریلیا-کینیڈا-ہندوستان (اے سی آئی ٹی آئی) سہ فریقی ٹیکنالوجی پارٹنرشپ * *: سہ فریقی فریم ورک آسٹریلیائی تحقیقی صلاحیت، کینیڈا کی ٹیکنالوجی کو تجارتی بنانے کی مہارت، اور مصنوعی ذہانت، کوانٹم، بائیو ٹیکنالوجی، اور جدید مواد میں ہندوستان کی تیزی سے پھیلتی ہوئی ٹیکنالوجی اور اختراعی ماحولیاتی نظام کو اکٹھا کرتا ہے۔"
+    },
+    "b31": {
+      "hi": "* * कोकोस (कीलिंग) द्वीप समूह अंतरिक्ष ट्रैकिंग टर्मिनल * *: ऑस्ट्रेलिया ने भारत के गगनयान मानव-अंतरिक्ष उड़ान कार्यक्रम का समर्थन करने के लिए हिंद महासागर में कोकोस (कीलिंग) द्वीप समूह पर एक अस्थायी अंतरिक्ष ट्रैकिंग टर्मिनल शुरू करने पर सहमति व्यक्त की। यह टर्मिनल रणनीतिक रूप से परिणामी हिंद महासागर स्थान पर भारतीय अंतरिक्ष-उड़ान निगरानी के लिए पर्याप्त समर्थन प्रदान करेगा।",
+      "en": "**Cocos (Keeling) Islands space tracking terminal**: Australia agreed to commission a temporary space tracking terminal on the Cocos (Keeling) Islands in the Indian Ocean to support India's Gaganyaan human-spaceflight programme. The terminal will provide substantive support for Indian space-flight monitoring at a strategically consequential Indian Ocean location.",
+      "ur": "* * کوکوس (کیلنگ) جزائر خلائی ٹریکنگ ٹرمینل * *: آسٹریلیا نے ہندوستان کے گگن یان انسانی خلائی پرواز کے پروگرام کی حمایت کے لیے بحر ہند میں کوکوس (کیلنگ) جزائر پر ایک عارضی خلائی ٹریکنگ ٹرمینل شروع کرنے پر اتفاق کیا۔ یہ ٹرمینل حکمت عملی کے نتیجے میں بحر ہند کے مقام پر ہندوستانی خلائی پرواز کی نگرانی کے لیے خاطر خواہ مدد فراہم کرے گا۔"
+    },
+    "b32": {
+      "hi": "* * अतिरिक्त आयाम * *: शिखर सम्मेलन ने रक्षा सहयोग, समुद्री सुरक्षा सहयोग, आतंकवाद-रोधी सहयोग, शिक्षा, खनन और खनन उपकरण सहयोग, पारंपरिक ज्ञान की पहुंच, भू-विज्ञान और सांस्कृतिक सहयोग (सभी को 9 जुलाई को भारत संवाद के पृष्ठ 4 में शामिल किया गया है, जिसमें शिखर सम्मेलन के 12 से 18 तक के विस्तृत परिणाम शामिल हैं) में भी महत्वपूर्ण परिणाम सामने आए।",
+      "en": "**Additional dimensions**: The Summit also produced substantive outcomes across defence cooperation, maritime security cooperation, counter-terrorism cooperation, education, mining and mining equipment cooperation, traditional knowledge access, geoscience, and cultural cooperation (all covered in Bharat Samvad's Page 4 on 9 July which detailed outcomes 12 through 18 of the Summit).",
+      "ur": "* * اضافی جہتیں * *: سمٹ نے دفاعی تعاون، سمندری سلامتی تعاون، انسداد دہشت گردی تعاون، تعلیم، کان کنی اور کان کنی کے سازوسامان کے تعاون، روایتی علم تک رسائی، جیو سائنس، اور ثقافتی تعاون (ان سب کا احاطہ 9 جولائی کو بھارت سمواد کے صفحہ 4 میں کیا گیا ہے جس میں سمٹ کے 12 سے 18 تک کے تفصیلی نتائج شامل ہیں) میں ٹھوس نتائج بھی پیش کیے۔"
+    },
+    "b33": {
+      "hi": "रणनीतिक रूप से इसका क्या अर्थ है",
+      "en": "What it signifies strategically",
+      "ur": "اس کی حکمت عملی سے کیا مراد ہے"
+    },
+    "b34": {
+      "hi": "मेलबर्न शिखर सम्मेलन के परिणाम कई आयामों में महत्वपूर्ण रणनीतिक महत्व रखते हैं।",
+      "en": "The Melbourne Summit outcomes carry substantial strategic significance across multiple dimensions.",
+      "ur": "میلبورن سمٹ کے نتائج متعدد جہتوں میں کافی اسٹریٹجک اہمیت رکھتے ہیں۔"
+    },
+    "b35": {
+      "hi": "* * भारत के स्वच्छ ऊर्जा संक्रमण के लिए, यूरेनियम व्यवस्था देश द्वारा हासिल की गई सबसे परिणामी अपस्ट्रीम आपूर्ति प्रतिबद्धताओं में से एक प्रदान करती है। भारत के स्वच्छ-ऊर्जा संक्रमण के लिए सभी गैर-जीवाश्म-ईंधन क्षमता-सौर, पवन, पनबिजली और परमाणु में पर्याप्त विस्तार की आवश्यकता है। परमाणु आयाम को ऐतिहासिक रूप से सीमित घरेलू यूरेनियम भंडार और सीमित अंतर्राष्ट्रीय आपूर्ति पहुंच के माध्यम से पर्याप्त अपस्ट्रीम बाधा का सामना करना पड़ा है; ऑस्ट्रेलियाई व्यवस्था दुनिया के सबसे बड़े और सबसे विश्वसनीय उत्पादकों में से एक के लिए आपूर्ति-पहुंच बाधा को हल करती है।",
+      "en": "**For India's clean energy transition**, the uranium arrangement provides one of the most consequential upstream supply commitments the country has secured. India's clean-energy transition requires substantial expansion across all non-fossil-fuel capacity — solar, wind, hydro, and nuclear. The nuclear dimension has historically faced substantial upstream constraint through limited domestic uranium reserves and constrained international supply access; the Australian arrangement resolves the supply-access constraint for one of the world's largest and most reliable producers.",
+      "ur": "* * ہندوستان کی صاف توانائی کی منتقلی کے لیے، یورینیم کا انتظام سب سے زیادہ نتیجہ خیز اپ اسٹریم سپلائی کے وعدوں میں سے ایک فراہم کرتا ہے جو ملک نے حاصل کیا ہے۔ ہندوستان کی صاف توانائی کی منتقلی کے لیے تمام غیر جیواشم ایندھن کی صلاحیت-شمسی، ہوا، پن بجلی اور جوہری میں خاطر خواہ توسیع کی ضرورت ہے۔ جوہری جہت کو تاریخی طور پر محدود گھریلو یورینیم کے ذخائر اور بین الاقوامی سپلائی تک محدود رسائی کے ذریعے کافی حد تک اپ اسٹریم رکاوٹ کا سامنا کرنا پڑا ہے۔ آسٹریلیائی انتظام دنیا کے سب سے بڑے اور قابل اعتماد پروڈیوسروں میں سے ایک کے لیے سپلائی تک رسائی کی رکاوٹ کو حل کرتا ہے۔"
+    },
+    "b36": {
+      "hi": "भारत के आर्थिक और औद्योगिक प्रक्षेपवक्र के लिए सी. ई. सी. ए., द्वैपाक्षिक निवेश संधि, महत्वपूर्ण खनिज गलियारा, ए. सी. आई. टी. आई. त्रिपक्षीय और व्यापक संस्थागत गहनता सहित काफी विस्तारित द्विपक्षीय साझेदारी उन श्रेणियों में देश के औद्योगिक विस्तार के लिए पर्याप्त समर्थन प्रदान करती है जहां ऑस्ट्रेलियाई साझेदारी अद्वितीय रूप से मूल्यवान है।",
+      "en": "**For India's economic and industrial trajectory**, the substantially expanded bilateral partnership — encompassing CECA, Bilateral Investment Treaty, Critical Minerals Corridor, ACITI trilateral, and the broader institutional deepening — provides substantive support for the country's industrial expansion across categories where Australian partnership is uniquely valuable.",
+      "ur": "* * ہندوستان کی اقتصادی اور صنعتی رفتار کے لیے، کافی حد تک توسیع شدہ دو طرفہ شراکت داری-جس میں سی ای سی اے، دو طرفہ سرمایہ کاری معاہدہ، اہم معدنیات کوریڈور، اے سی آئی ٹی آئی سہ فریقی، اور وسیع تر ادارہ جاتی گہرائی شامل ہے-ان زمروں میں ملک کی صنعتی توسیع کے لیے ٹھوس حمایت فراہم کرتی ہے جہاں آسٹریلیائی شراکت داری منفرد طور پر قیمتی ہے۔"
+    },
+    "b37": {
+      "hi": "* * व्यापक रणनीतिक साझेदारी * * के लिए, मेलबर्न शिखर सम्मेलन में प्रदर्शित पर्याप्त विस्तार उस संबंध की संस्थागत गहराई को मजबूत करता है जिसे प्रधान मंत्री अल्बनीज ने एक ऐसे संबंध के रूप में वर्णित किया है जो \"कभी भी अधिक परिणामी नहीं रहा है\"। भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी-2020 में स्थापित और 2022 में उन्नत-पिछले छह वर्षों में, द्विपक्षीय जुड़ाव के हर परिणामी आयाम में उत्तरोत्तर गहरी हुई है।",
+      "en": "**For the Comprehensive Strategic Partnership**, the substantial expansion demonstrated at the Melbourne Summit reinforces the institutional depth of what Prime Minister Albanese characterised as a relationship that has \"never been more consequential\". The India-Australia Comprehensive Strategic Partnership — established in 2020 and upgraded in 2022 — has, over the past six years, progressively deepened across every consequential dimension of bilateral engagement.",
+      "ur": "* * جامع اسٹریٹجک پارٹنرشپ * * کے لیے، میلبورن سمٹ میں دکھائی گئی خاطر خواہ توسیع اس ادارہ جاتی گہرائی کو تقویت دیتی ہے جسے وزیر اعظم البانیز نے ایک ایسے تعلقات کے طور پر بیان کیا جو \"کبھی بھی زیادہ نتیجہ خیز نہیں رہا\"۔ ہندوستان-آسٹریلیا جامع اسٹریٹجک پارٹنرشپ-جو 2020 میں قائم ہوئی اور 2022 میں اپ گریڈ ہوئی-پچھلے چھ سالوں میں، دو طرفہ مشغولیت کے ہر نتیجہ خیز جہت میں بتدریج گہری ہوئی ہے۔"
+    },
+    "b38": {
+      "hi": "हिन्द-प्रशांत रणनीतिक संरचना के लिए भारत-ऑस्ट्रेलिया साझेदारी काफी हद तक गहरी हो गई है जो हिन्द-प्रशांत में समान विचारधारा वाले लोकतंत्रों के बीच सहयोग के व्यापक संस्थागत ढांचे में योगदान देती है। संयुक्त राज्य अमेरिका और जापान के साथ क्वाड ढांचे के साथ-साथ, व्यापक रूप से विस्तारित द्विपक्षीय सहयोग इस क्षेत्र के प्रमुख द्विपक्षीय संबंधों में से एक प्रदान करता है।",
+      "en": "**For the Indo-Pacific strategic architecture**, the substantially deepened India-Australia partnership contributes to the broader institutional architecture of cooperation among like-minded democracies in the Indo-Pacific. Alongside the Quad framework with the United States and Japan, the substantively expanded bilateral cooperation provides one of the anchor bilateral relationships of the region.",
+      "ur": "* * ہند-بحرالکاہل اسٹریٹجک ڈھانچے کے لیے، ہندوستان-آسٹریلیا کی کافی حد تک گہری شراکت داری ہند-بحرالکاہل میں ہم خیال جمہوریتوں کے درمیان تعاون کے وسیع تر ادارہ جاتی ڈھانچے میں معاون ہے۔ امریکہ اور جاپان کے ساتھ کواڈ فریم ورک کے ساتھ ساتھ، کافی حد تک توسیع شدہ دو طرفہ تعاون خطے کے اہم دو طرفہ تعلقات میں سے ایک فراہم کرتا ہے۔"
+    },
+    "b39": {
+      "hi": "* * ऑस्ट्रेलिया की अपनी हिंद-प्रशांत स्थिति के लिए, भारत के साथ काफी विस्तारित साझेदारी पूरे क्षेत्र में पर्याप्त वाणिज्यिक, सुरक्षा और संस्थागत जुड़ाव के साथ एक महत्वपूर्ण हिंद-प्रशांत शक्ति के रूप में ऑस्ट्रेलिया की रणनीतिक स्थिति को मजबूत करती है। भारत-दुनिया का सबसे अधिक आबादी वाला देश, सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्थाओं में से एक, और एक पर्याप्त हिंद-प्रशांत रणनीतिक अभिनेता-ठीक उसी तरह का भागीदार है जिसकी ऑस्ट्रेलिया की विविधीकरण रणनीति को आवश्यकता है।",
+      "en": "**For Australia's own Indo-Pacific positioning**, the substantially expanded partnership with India reinforces Australia's strategic positioning as a substantive Indo-Pacific power with substantive commercial, security, and institutional engagement across the region. India — the world's most populous country, one of the fastest-growing major economies, and a substantial Indo-Pacific strategic actor — is precisely the kind of partner that Australia's diversification strategy requires.",
+      "ur": "* * آسٹریلیا کی اپنی ہند-بحرالکاہل پوزیشننگ * * کے لیے، ہندوستان کے ساتھ کافی حد تک توسیع شدہ شراکت داری پورے خطے میں ٹھوس تجارتی، سلامتی اور ادارہ جاتی مشغولیت کے ساتھ ایک ٹھوس ہند-بحرالکاہل طاقت کے طور پر آسٹریلیا کی اسٹریٹجک پوزیشننگ کو تقویت دیتی ہے۔ ہندوستان-دنیا کا سب سے زیادہ آبادی والا ملک، سب سے تیزی سے بڑھتی ہوئی بڑی معیشتوں میں سے ایک، اور ایک خاطر خواہ ہند-بحرالکاہل اسٹریٹجک اداکار-بالکل اسی قسم کا شراکت دار ہے جس کی آسٹریلیا کی تنوع کی حکمت عملی کو ضرورت ہے۔"
+    },
+    "b40": {
+      "hi": "आगे का रास्ता",
+      "en": "The road ahead",
+      "ur": "آگے کا راستہ"
+    },
+    "b41": {
+      "hi": "तत्काल क्षितिज में, मेलबर्न शिखर सम्मेलन के परिणाम उत्तरोत्तर अपने-अपने कार्यान्वयन चरणों से गुजरेंगे। ऑस्ट्रेलियाई उत्पादकों और भारतीय परमाणु संचालकों के बीच विशिष्ट वाणिज्यिक अनुबंधों को अंतिम रूप देने के बाद आने वाले महीनों में भारत में वाणिज्यिक पैमाने पर ऑस्ट्रेलियाई यूरेनियम शिपमेंट शुरू होने की उम्मीद है। महत्वपूर्ण खनिज गलियारा अपने आपूर्ति-श्रृंखला लचीलापन उद्देश्यों को उत्तरोत्तर पूरा करेगा। एसीआईटीआई त्रिपक्षीय संस्थागत सहयोग को बढ़ाएगा। भारतीय अंतरिक्ष-उड़ान निगरानी का समर्थन करने के लिए कोकोस (कीलिंग) द्वीप अंतरिक्ष ट्रैकिंग टर्मिनल की स्थापना की जाएगी।",
+      "en": "In the immediate horizon, the Melbourne Summit outcomes will progressively move through their respective implementation phases. Commercial-scale Australian uranium shipments to India are expected to commence in the coming months, following the finalisation of specific commercial contracts between Australian producers and Indian nuclear operators. The Critical Minerals Corridor will progressively deliver against its supply-chain resilience objectives. The ACITI trilateral will scale up institutional cooperation. The Cocos (Keeling) Islands space tracking terminal will be established to support Indian space-flight monitoring.",
+      "ur": "فوری افق میں، میلبورن سمٹ کے نتائج بتدریج اپنے متعلقہ نفاذ کے مراحل سے گزریں گے۔ آسٹریلیائی پروڈیوسروں اور ہندوستانی جوہری آپریٹرز کے درمیان مخصوص تجارتی معاہدوں کو حتمی شکل دینے کے بعد، آنے والے مہینوں میں ہندوستان میں تجارتی پیمانے پر آسٹریلیائی یورینیم کی ترسیل شروع ہونے کی توقع ہے۔ کریٹیکل منرلز کوریڈور اپنے سپلائی چین لچکدار مقاصد کے خلاف بتدریج کام کرے گا۔ اے سی آئی ٹی آئی سہ فریقی ادارہ جاتی تعاون کو بڑھائے گا۔ ہندوستانی خلائی پرواز کی نگرانی میں مدد کے لیے کوکوس (کیلنگ) جزائر کا خلائی ٹریکنگ ٹرمینل قائم کیا جائے گا۔"
+    },
+    "b42": {
+      "hi": "मध्यम अवधि में, सी. ई. सी. ए. वार्ताएं उत्तरोत्तर दोनों देशों द्वारा प्रतिबद्ध अधिक व्यापक आर्थिक ढांचे को प्रदान करेंगी। द्वीपक्षीय निवेश संधि दो-तरफा निवेश प्रवाह के पर्याप्त विस्तार को कार्यान्वित करेगी। यू. एन. एस. डब्ल्यू. और विक्टोरिया विश्वविद्यालय से परे अतिरिक्त ऑस्ट्रेलियाई विश्वविद्यालय (क्रमशः 29 जून और 9 जुलाई को इन स्तंभों में शामिल) एन. ई. पी. 2020 यू. जी. सी. ढांचे के तहत क्रमिक रूप से भारतीय परिसरों की स्थापना करेंगे। मेलबर्न शिखर सम्मेलन के परिणामों का पूरा विस्तार आने वाले अठारह से चौबीस महीनों में परिचालन वास्तविकता में साकार हो जाएगा।",
+      "en": "In the medium term, the CECA negotiations will progressively deliver the substantially more comprehensive economic framework the two countries have committed to. The Bilateral Investment Treaty will operationalise the substantial expansion of two-way investment flows. Additional Australian universities beyond UNSW and Victoria University (covered in these columns on 29 June and 9 July respectively) will progressively establish Indian campuses under the NEP 2020 UGC framework. The full breadth of the Melbourne Summit outcomes will materialise into operational reality over the coming eighteen to twenty-four months.",
+      "ur": "درمیانی مدت میں، سی ای سی اے مذاکرات بتدریج کافی حد تک زیادہ جامع اقتصادی فریم ورک فراہم کریں گے جس کے لیے دونوں ممالک نے عہد کیا ہے۔ دو طرفہ سرمایہ کاری معاہدہ دو طرفہ سرمایہ کاری کے بہاؤ کی خاطر خواہ توسیع کو عملی جامہ پہنائے گا۔ یو این ایس ڈبلیو اور وکٹوریہ یونیورسٹی سے آگے اضافی آسٹریلوی یونیورسٹیاں (جن کا احاطہ بالترتیب 29 جون اور 9 جولائی کو ان کالموں میں کیا گیا ہے) این ای پی 2020 یو جی سی فریم ورک کے تحت بتدریج ہندوستانی کیمپس قائم کریں گی۔ میلبورن سمٹ کے نتائج کی مکمل وسعت آنے والے اٹھارہ سے چوبیس مہینوں میں عملی حقیقت میں بدل جائے گی۔"
+    },
+    "b43": {
+      "hi": "लंबी अवधि में, भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी हिंद-प्रशांत सदी के प्रमुख द्विपक्षीय संबंधों में से एक बनने के लिए तैयार है। पूरक आर्थिक क्षमताओं, संरेखित रणनीतिक दृष्टिकोण, साझा लोकतांत्रिक मूल्यों, पर्याप्त संस्थागत गहराई, ऑस्ट्रेलिया में बड़े और बढ़ते भारतीय प्रवासियों के माध्यम से लोगों के बीच ठोस संपर्क और निरंतर बहु-दशक प्रतिबद्धता का संयोजन मिलकर उस आधार का निर्माण करता है जिसे दोनों सरकारें अब एक अपरिहार्य साझेदारी के रूप में वर्णित करती हैं। मेलबर्न शिखर सम्मेलन उस प्रक्षेपवक्र पर एक ठोस मार्कर है।",
+      "en": "In the longer term, the India-Australia Comprehensive Strategic Partnership is positioned to become one of the anchor bilateral relationships of the Indo-Pacific century. The combination of complementary economic capabilities, aligned strategic outlooks, shared democratic values, substantial institutional depth, substantive people-to-people connections through the large and growing Indian diaspora in Australia, and sustained multi-decadal commitment together create the foundation for what both governments now describe as an indispensable partnership. The Melbourne Summit is one substantive marker on that trajectory.",
+      "ur": "طویل مدت میں، ہندوستان-آسٹریلیا جامع اسٹریٹجک پارٹنرشپ ہند-بحرالکاہل صدی کے اینکر دو طرفہ تعلقات میں سے ایک بننے کے لیے پوزیشن میں ہے۔ تکمیلی معاشی صلاحیتوں، مربوط اسٹریٹجک نقطہ نظر، مشترکہ جمہوری اقدار، خاطر خواہ ادارہ جاتی گہرائی، آسٹریلیا میں بڑے اور بڑھتے ہوئے ہندوستانی تارکین وطن کے ذریعے لوگوں سے لوگوں کے درمیان ٹھوس روابط، اور مستقل کثیر دہائی وابستگی مل کر اس کی بنیاد بناتی ہے جسے اب دونوں حکومتیں ایک ناگزیر شراکت داری کے طور پر بیان کرتی ہیں۔ میلبورن سمٹ اس راستے پر ایک ٹھوس نشان ہے۔"
+    },
+    "b44": {
+      "hi": "अभी के लिए, 10 जुलाई 2026 की सुबह, राजनयिक रिकॉर्ड में जो बात है वह यह हैः ऑस्ट्रेलिया भारत के 100 गीगावाट परमाणु विस्तार को बिजली देने के लिए यूरेनियम की आपूर्ति करेगा; 2014 के हस्ताक्षर से 2026 के वाणिज्यिक संचालन तक बारह साल का चक्र पूरा हो गया है; व्यापक रणनीतिक साझेदारी को द्विपक्षीय जुड़ाव के हर परिणामी आयाम में काफी गहरा किया गया है; और भारत-ऑस्ट्रेलिया साझेदारी द्वारा उत्पन्न सबसे महत्वपूर्ण एकल-शिखर सम्मेलन परिणाम संरचनाओं में से एक अब संस्थागत रिकॉर्ड पर है। स्वच्छ-ऊर्जा संक्रमण अपनी सबसे परिणामी अपस्ट्रीम आपूर्ति प्रतिबद्धताओं में से एक प्राप्त करता है। भारत-प्रशांत रणनीतिक संरचना पर्याप्त अतिरिक्त वजन प्राप्त करती है। भारत-ऑस्ट्रेलिया साझेदारी का प्रक्षेपवक्र दृढ़ता से स्थापित है और एक आरोही चाप पर है।",
+      "en": "For now, on the morning of 10 July 2026, what stands on the diplomatic record is this: Australia will supply uranium to power India's 100 GW nuclear expansion; the twelve-year arc from 2014 signature to 2026 commercial operationalisation is complete; the Comprehensive Strategic Partnership has been substantially deepened across every consequential dimension of bilateral engagement; and one of the most substantial single-Summit outcome architectures the India-Australia partnership has produced is now on the institutional record. The clean-energy transition acquires one of its most consequential upstream supply commitments. The Indo-Pacific strategic architecture acquires substantive additional weight. The trajectory of the India-Australia partnership is firmly established and on an ascending arc.",
+      "ur": "ابھی کے لیے، 10 جولائی 2026 کی صبح جو سفارتی ریکارڈ پر کھڑا ہے وہ یہ ہے: آسٹریلیا ہندوستان کی 100 جی ڈبلیو جوہری توسیع کو طاقت فراہم کرنے کے لیے یورینیم کی فراہمی کرے گا ؛ 2014 کے دستخط سے لے کر 2026 تک بارہ سالہ تجارتی عمل کاری مکمل ہو چکی ہے ؛ جامع اسٹریٹجک پارٹنرشپ کو دو طرفہ مشغولیت کے ہر نتیجے میں کافی گہرا کیا گیا ہے ؛ اور ہندوستان-آسٹریلیا شراکت داری کے سب سے اہم واحد سمٹ کے نتائج کے آرکیٹیکچرز میں سے ایک اب ادارہ جاتی ریکارڈ پر ہے۔ صاف توانائی کی منتقلی اس کے سب سے زیادہ نتیجے میں اپ اسٹریم سپلائی کے وعدوں میں سے ایک حاصل کرتی ہے۔ ہند-بحرالکاہل اسٹریٹجک ڈھانچہ کافی اضافی وزن حاصل کرتا ہے۔ ہندوستان-آسٹریلیا شراکت داری کی رفتار مضبوطی سے قائم ہے اور ایک چڑھتے ہوئے آرک پر ہے۔"
+    }
+  }
+}
