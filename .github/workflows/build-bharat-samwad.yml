@@ -1,0 +1,52 @@
+name: Build Bharat Samwad
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'scripts/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Cache HuggingFace models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-indictrans2-${{ runner.os }}
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-indictrans2-${{ runner.os }}
+      - name: Install IndicTrans2
+        run: |
+          pip install sentencepiece sacremoses torch
+          pip install "transformers==4.40.0"
+          pip install IndicTransToolkit
+      - name: Run build
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/build_from_markdown.py
+      - name: Commit generated HTML
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add index.html archive.html bharatsamvad-*.html 2>/dev/null || true
+          git add articles/ 2>/dev/null || true
+          git add scripts/.translations-cache/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Auto-build articles [skip ci]"
+            git push
+          fi
