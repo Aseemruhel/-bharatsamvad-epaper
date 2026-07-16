@@ -1,5 +1,5 @@
 {
-  "hash": "55b8e53648032e3f",
+  "hash": "5fe2c9f4a2bbb389",
   "t": {
     "fm.section": {
       "hi": "राष्ट्रीय",
@@ -7,309 +7,484 @@
       "ur": "قومی"
     },
     "fm.kicker": {
-      "hi": "\"लद्दाख · जमीनी लोकतंत्र\"",
-      "en": "\"Ladakh · Grassroots Democracy\"",
-      "ur": "\"لداخ · گراس روٹس ڈیموکریسی\""
+      "hi": "\"परमाणु सुरक्षा के. के. एन. पी. पी. डेटा संरक्षण\"",
+      "en": "\"Nuclear Security · KKNPP · Data Protection\"",
+      "ur": "\"نیوکلیئر سیکیورٹی · کے کے این پی پی · ڈیٹا پروٹیکشن\""
     },
     "fm.byline": {
-      "hi": "राष्ट्रीय मामलों के संवाददाता",
-      "en": "National Affairs Correspondent",
-      "ur": "قومی امور کے نامہ نگار"
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
     },
     "fm.location": {
-      "hi": "लेह",
-      "en": "Leh",
-      "ur": "لیہہ"
+      "hi": "मुंबई/नई दिल्ली/चेन्नई",
+      "en": "Mumbai / New Delhi / Chennai",
+      "ur": "ممبئی/نئی دہلی/چنئی"
     },
     "fm.headline": {
-      "hi": "\"सात जिले, सात पहाड़ी परिषदः लद्दाख प्रत्येक जिले के लिए निर्वाचित स्वशासन के साथ जमीनी स्तर पर लोकतंत्र को गहरा करता है\"",
-      "en": "\"Seven districts, seven Hill Councils: Ladakh deepens grassroots democracy with elected self-governance for every district\"",
-      "ur": "\"سات اضلاع، سات پہاڑی کونسلیں: لداخ ہر ضلع کے لیے منتخب کردہ خود مختاری کے ساتھ نچلی سطح کی جمہوریت کو گہرا کرتا ہے\""
+      "hi": "\"सुरक्षा संरचना आयोजित की गईः एन. पी. सी. आई. एल. ने स्पष्ट किया कि कुडनकुलम के लीक हुए चित्र केवल संयंत्र के बुनियादी ढांचे, परमाणु सुरक्षा और सुरक्षा प्रणालियों के पारंपरिक संतुलन से संबंधित हैं जो अछूते हैं।\"",
+      "en": "\"The security architecture held: NPCIL clarifies leaked Kudankulam drawings pertain only to conventional Balance of Plant infrastructure, nuclear safety and security systems untouched\"",
+      "ur": "\"حفاظتی ڈھانچہ برقرار ہے: این پی سی آئی ایل نے واضح کیا ہے کہ کوڈنکولم کے لیک ہونے والے خاکے صرف پلانٹ کے بنیادی ڈھانچے، جوہری تحفظ اور حفاظتی نظام کے روایتی توازن سے متعلق ہیں جو اچھوتے ہیں۔\""
     },
     "fm.subdeck": {
-      "hi": "\"लद्दाख केंद्र शासित प्रदेश प्रशासन क्षेत्र के सात जिलों-लेह, कारगिल, शाम, नुब्रा, चांगथांग, ज़ांस्कर और द्रास में से प्रत्येक में एक स्वायत्त पहाड़ी विकास परिषद का गठन करेगा-मुख्य सचिव आशीष कुंद्रा ने सोमवार को लेह में घोषणा की। प्रत्येक परिषद एल. ए. एच. डी. सी. अधिनियम की पूरी शक्तियों का प्रयोग करेगी, जो 1995 से लेह और 2003 से कारगिल के अधिकार से मेल खाती है। एक केंद्र शासित प्रदेश स्तर के शीर्ष निकाय को अलग से एक अनुकूलित अनुच्छेद 371 ढांचे के तहत प्रस्तावित किया गया है, जिसे मुख्य सचिव ने एक शासन मॉडल के रूप में वर्णित किया है जो देश में कहीं और समानांतर नहीं है। पंचायती राज संस्थान ग्राम स्तर पर जारी हैं, एक साथ तीन-स्तरीय निर्वाचित लोकतांत्रिक संरचना-गांव, जिला और केंद्र शासित प्रदेश-रणनीतिक रूप से परिणामी हिमालयी केंद्र शासित प्रदेश में स्थापित करते हैं।\"",
-      "en": "\"The Ladakh Union Territory Administration will constitute an Autonomous Hill Development Council in each of the region's seven districts — Leh, Kargil, Sham, Nubra, Changthang, Zanskar, and Drass — Chief Secretary Ashish Kundra announced at Leh on Monday. Each Council will exercise the full powers of the LAHDC Act, matching the authority that Leh has held since 1995 and Kargil since 2003. A Union Territory-level apex body is separately proposed under a customised Article 371 framework, creating what the Chief Secretary described as a governance model with no parallel elsewhere in the country. Panchayati Raj institutions continue at the village level, together establishing a three-tier elected democratic structure — village, district, and Union Territory — across the strategically consequential Himalayan Union Territory.\"",
-      "ur": "لداخ یونین ٹیریٹری ایڈمنسٹریشن خطے کے سات اضلاع میں سے ہر ایک میں ایک خود مختار پہاڑی ترقیاتی کونسل تشکیل دے گی-لیہہ، کارگل، شام، نوبرا، چانگتھانگ، زنسکار، اور دراس-چیف سکریٹری آشیش کنڈرا نے پیر کو لیہہ میں اعلان کیا۔ ہر کونسل ایل اے ایچ ڈی سی ایکٹ کے مکمل اختیارات کا استعمال کرے گی، جو اس اختیار سے ملتا جلتا ہے جو لیہہ نے 1995 سے اور کارگل نے 2003 سے حاصل کیا ہے۔ ایک مرکز کے زیر انتظام علاقے کی سطح کا اعلی ترین ادارہ علیحدہ طور پر ایک حسب ضرورت آرٹیکل 371 فریم ورک کے تحت تجویز کیا گیا ہے، جسے چیف سکریٹری نے ایک گورننس ماڈل کے طور پر بیان کیا ہے جس کا ملک میں کہیں اور کوئی متوازی نہیں ہے۔ پنچایتی راج ادارے گاؤں کی سطح پر جاری ہیں، جو مل کر حکمت عملی کے نتیجے میں ہمالیائی مرکز کے زیر انتظام علاقے میں تین درجے کا منتخب جمہوری ڈھانچہ قائم کرتے ہیں۔"
+      "hi": "\"बुधवार, 15 जुलाई 2026 को मुंबई के अनुशक्तिनगर में विक्रम साराभाई भवन से जारी एक औपचारिक प्रेस विज्ञप्ति में और कार्यकारी निदेशक (सीपी एंड सीसी) और उत्कृष्ट वैज्ञानिक प्रतीक अग्रवाल द्वारा हस्ताक्षरित, न्यूक्लियर पावर कॉरपोरेशन ऑफ इंडिया लिमिटेड (एनपीसीआईएल) ने स्पष्ट किया कि रिलायंस इंफ्रास्ट्रक्चर लिमिटेड में साइबर-उल्लंघन के बाद कथित रूप से प्रसारित होने वाले चित्र और डेटा केवल कुडनकुलम परमाणु ऊर्जा परियोजना इकाइयों 3 और 4 की पारंपरिक संतुलन संयंत्र (बीओपी) सामान्य सेवा सुविधाओं से संबंधित हैं-और किसी भी परमाणु सुरक्षा-संबंधित या परमाणु सुरक्षा-संबंधित प्रणालियों से संबंधित नहीं हैं। सामान्य सेवाओं-बीओपी पैकेज के लिए इंजीनियरिंग, खरीद और निर्माण (ईपीसी) अनुबंध 2018 में सार्वजनिक निविदा के माध्यम से रिलायंस इंफ्रास्ट्रक्चर को प्रदान किया गया था; इसमें शामिल सुविधाएं पारंपरिक प्रकृति की हैं और अन्य ताप विद्युत संयंत्रों और बहु-संरचित उद्योगों में पाई जाने वाली सुविधाओं से तुलनीय हैं।",
+      "en": "\"In a formal press release issued on Wednesday, 15 July 2026 from Vikram Sarabhai Bhavan at Anushaktinagar, Mumbai, and signed by Executive Director (CP&CC) and Outstanding Scientist Prateek Agrawal, the Nuclear Power Corporation of India Limited (NPCIL) categorically clarified that the drawings and data reportedly circulating following a cyber-breach at Reliance Infrastructure Limited relate solely to conventional Balance of Plant (BoP) common service facilities of Kudankulam Nuclear Power Project Units 3 & 4 — and do not relate to any nuclear safety-related or nuclear security-related systems. The Engineering, Procurement and Construction (EPC) contract for the Common Services-BoP package was awarded to Reliance Infrastructure in 2018 through public tender; the facilities involved are conventional in nature and comparable to those found in thermal power plants and other process industries. India's multi-layered nuclear cyber-security architecture, which isolates reactor operational systems from external networks through multiple institutional and technical safeguards, has held. Reactor operations at Kudankulam remain secure. CERT-In, NPCIL and other institutional actors are examining the incident.\"",
+      "ur": "نیوکلیئر پاور کارپوریشن آف انڈیا لمیٹڈ (این پی سی آئی ایل) نے بدھ، 15 جولائی 2026 کو انوشکتی نگر، ممبئی میں وکرم سارا بھائی بھون سے جاری کردہ ایک باضابطہ پریس ریلیز میں، جس پر ایگزیکٹو ڈائریکٹر (سی پی اینڈ سی سی) اور آؤٹ اسٹینڈنگ سائنٹسٹ پرتیک اگروال کے دستخط تھے، واضح کیا کہ ریلائنس انفراسٹرکچر لمیٹڈ میں سائبر خلاف ورزی کے بعد مبینہ طور پر گردش کرنے والی ڈرائنگ اور ڈیٹا کا تعلق صرف روایتی بیلنس آف پلانٹ (بی او پی) کوڈنکولم نیوکلیئر پاور پروجیکٹ یونٹس 3 اور 4 کی مشترکہ خدمات کی سہولیات سے ہے-اور اس کا تعلق کسی بھی جوہری حفاظت سے متعلق یا جوہری سلامتی سے متعلق نظام سے نہیں ہے۔ کامن سروسز-بی او پی پیکیج کے لیے انجینئرنگ، پروکیورمنٹ اینڈ کنسٹرکشن (ای پی سی) کا معاہدہ 2018 میں ریلائنس انفراسٹرکچر کو پبلک ٹینڈر کے ذریعے دیا گیا تھا۔"
     },
     "b0": {
-      "hi": "लोकतांत्रिक स्वशासन के लिए लद्दाख की संस्थागत संरचना ने सोमवार, 13 जुलाई 2026 को एक ठोस छलांग लगाई, जब मुख्य सचिव आशीष कुंद्रा ने लेह प्रेस कॉन्फ्रेंस में घोषणा की कि केंद्र शासित प्रदेश प्रशासन लद्दाख के सात जिलों में से प्रत्येक में एक स्वायत्त पहाड़ी विकास परिषद का गठन करेगा। निर्णय-जिसे मुख्य सचिव ने \"लोकतांत्रिक विकेंद्रीकरण और जमीनी स्तर के शासन की दिशा में एक बड़ा कदम\" के रूप में वर्णित किया है-लेह और कारगिल में मौजूदा दो परिषदों से निर्वाचित स्थानीय स्वशासन का विस्तार केंद्र शासित प्रदेश के सभी सात जिलों में किया गया है, अप्रैल 2026 में शाम, नुब्रा, चांगथांग, ज़ांस्कर और द्रास को नए प्रशासनिक जिलों के रूप में लद्दाख के दो जिलों से पुनर्गठन के बाद।",
-      "en": "Ladakh's institutional architecture for democratic self-governance took a substantive leap forward on Monday, 13 July 2026, when Chief Secretary Ashish Kundra announced at a Leh press conference that the Union Territory Administration will constitute an Autonomous Hill Development Council in each of Ladakh's seven districts. The decision — described by the Chief Secretary as \"a major step towards democratic decentralisation and grassroots governance\" — extends elected local self-governance from the existing two Councils in Leh and Kargil to all seven districts of the Union Territory, following Ladakh's reorganisation from two districts to seven in April 2026 through the notification of Sham, Nubra, Changthang, Zanskar, and Drass as new administrative districts.",
-      "ur": "جمہوری خود مختاری کے لیے لداخ کے ادارہ جاتی ڈھانچے نے پیر، 13 جولائی 2026 کو ایک ٹھوس چھلانگ لگائی، جب چیف سکریٹری آشیش کنڈرا نے لیہہ پریس کانفرنس میں اعلان کیا کہ مرکز کے زیر انتظام علاقے کی انتظامیہ لداخ کے ساتوں اضلاع میں سے ہر ایک میں ایک خود مختار پہاڑی ترقیاتی کونسل تشکیل دے گی۔ یہ فیصلہ-جسے چیف سکریٹری نے \"جمہوری وکندریقرت اور نچلی سطح کی حکمرانی کی طرف ایک بڑا قدم\" قرار دیا ہے-لیہہ اور کارگل میں موجودہ دو کونسلوں سے منتخب مقامی خود مختاری کو مرکز کے زیر انتظام علاقے کے تمام ساتوں اضلاع تک پھیلاتا ہے، جس کے بعد اپریل 2026 میں شام، نوبرا، چانگتھانگ، زنسکار اور دراس کو نئے انتظامی اضلاع کے طور پر لداخ کے دو اضلاع سے سات تک تنظیم نو کی گئی تھی۔"
+      "hi": "भारत की बहु-स्तरीय परमाणु साइबर-सुरक्षा संरचना ने बुधवार, 15 जुलाई 2026 को अपने ठोस संस्थागत लचीलेपन का प्रदर्शन किया, जब न्यूक्लियर पावर कॉरपोरेशन ऑफ इंडिया लिमिटेड (NPCIL) ने विक्रम साराभाई भवन, अनुमक्तिनगर, मुंबई में अपने मुख्यालय से एक औपचारिक प्रेस विज्ञप्ति जारी की-जिस पर कार्यकारी निदेशक (CP & CC) और उत्कृष्ट वैज्ञानिक प्रतीक अग्रवाल ने हस्ताक्षर किए-ठोस संस्थागत प्राधिकरण के साथ स्पष्ट करते हुए कि रिलायंस इंफ्रास्ट्रक्चर लिमिटेड में एक साइबर-उल्लंघन के बाद कथित रूप से प्रसारित चित्र और तकनीकी डेटा विशेष रूप से कुडनकुलम परमाणु ऊर्जा परियोजना (केकेएनपीपी) इकाइयों की पारंपरिक संतुलन संयंत्र (बीओपी) सामान्य सेवा सुविधाओं से संबंधित है।",
+      "en": "India's multi-layered nuclear cyber-security architecture demonstrated its substantive institutional resilience on Wednesday, 15 July 2026, when the Nuclear Power Corporation of India Limited (NPCIL) issued a formal press release from its headquarters at Vikram Sarabhai Bhavan, Anushaktinagar, Mumbai — signed by Executive Director (CP&CC) and Outstanding Scientist Prateek Agrawal — clarifying with substantive institutional authority that the drawings and technical data reportedly circulating following a cyber-breach at Reliance Infrastructure Limited pertain exclusively to conventional Balance of Plant (BoP) common service facilities of the Kudankulam Nuclear Power Project (KKNPP) Units 3 & 4. The information at issue, NPCIL emphasised, does not relate to any nuclear safety-related or nuclear security-related systems or information. The reactor operations at Kudankulam — India's largest nuclear power station and one of the anchor facilities in the country's ambitious 100 GW by 2047 nuclear energy expansion trajectory — remain fully secure.",
+      "ur": "ہندوستان کے کثیر سطحی جوہری سائبر سیکیورٹی فن تعمیر نے بدھ، 15 جولائی 2026 کو اپنی ٹھوس ادارہ جاتی لچک کا مظاہرہ کیا، جب نیوکلیئر پاور کارپوریشن آف انڈیا لمیٹڈ (این پی سی آئی ایل) نے وکرم سارا بھائی بھون، انوشکتی نگر، ممبئی میں اپنے ہیڈکوارٹر سے ایک باضابطہ پریس ریلیز جاری کی-جس پر ایگزیکٹو ڈائریکٹر (سی پی اینڈ سی سی) اور بقایا سائنسدان پرتیک اگروال نے دستخط کیے تھے-جس میں ٹھوس ادارہ جاتی اتھارٹی کے ساتھ واضح کیا گیا تھا کہ ریلائنس انفراسٹرکچر لمیٹڈ میں سائبر خلاف ورزی کے بعد مبینہ طور پر گردش کرنے والے ڈرائنگ اور تکنیکی ڈیٹا کا تعلق خصوصی طور پر روایتی بیلنس آف پلانٹ (بی او پی) سے ہے۔"
     },
     "b1": {
-      "hi": "इस घोषणा का पर्याप्त संस्थागत महत्व है। अक्टूबर 2019 में लद्दाख के केंद्र शासित प्रदेश बनने के बाद से, निर्वाचित प्रतिनिधित्व लेह और कारगिल में दो परिषदों तक ही सीमित रहा था, भले ही इस क्षेत्र के प्रशासनिक भूगोल का उत्तरोत्तर विस्तार हुआ हो। सोमवार की घोषणा संस्थागत रूप से निर्वाचित लोकतांत्रिक संरचना को विस्तारित प्रशासनिक संरचना के साथ संरेखित करती है, जिसमें पांच नए अधिसूचित जिलों सहित प्रत्येक जिले को निर्वाचित स्व-शासन का एक ही स्तर प्रदान किया गया है, जिसने पिछले तीन दशकों में लेह और कारगिल को पर्याप्त रूप से सेवा प्रदान की है।",
-      "en": "The announcement carries substantive institutional significance. Since Ladakh became a Union Territory in October 2019, elected representation had remained limited to the two Councils in Leh and Kargil, even as the region's administrative geography progressively expanded. Monday's announcement institutionally aligns the elected democratic structure with the expanded administrative structure, providing every district — including the five newly-notified districts — with the same tier of elected self-governance that has served Leh and Kargil substantively over the past three decades.",
-      "ur": "اس اعلان کی ٹھوس ادارہ جاتی اہمیت ہے۔ اکتوبر 2019 میں لداخ کے مرکز کے زیر انتظام علاقہ بننے کے بعد سے، منتخب نمائندگی لیہہ اور کارگل میں دو کونسلوں تک محدود رہی، یہاں تک کہ خطے کے انتظامی جغرافیہ میں بتدریج توسیع ہوئی۔ پیر کا اعلان ادارہ جاتی طور پر منتخب جمہوری ڈھانچے کو توسیع شدہ انتظامی ڈھانچے کے ساتھ ہم آہنگ کرتا ہے، جس میں ہر ضلع کو-بشمول پانچ نئے نوٹیفائیڈ اضلاع-منتخب کردہ خود مختاری کے اسی درجے کے ساتھ فراہم کیا گیا ہے جس نے گزشتہ تین دہائیوں کے دوران لیہہ اور کارگل کی خاطر خواہ خدمات انجام دی ہیں۔"
+      "hi": "रैनसमवेयर समूह वर्ल्ड लीक्स द्वारा डार्क वेब पर पोस्ट की गई फाइलों के संदर्भ में मीडिया रिपोर्टों के कुछ घंटों के भीतर जारी किया गया स्पष्टीकरण, जिसने कथित तौर पर रिलायंस इंफ्रास्ट्रक्चर लिमिटेड की ओर से प्रबंधित तीसरे पक्ष के सर्वर के माध्यम से डेटा प्राप्त किया था, भारतीय परमाणु-ऊर्जा क्षेत्र द्वारा उत्पन्न साइबर-सुरक्षा घटना के लिए अधिक तेजी से और संस्थागत रूप से स्पष्ट प्रतिक्रियाओं में से एक का प्रतिनिधित्व करता है। भारतीय कंप्यूटर आपातकालीन प्रतिक्रिया दल (CERT-In), NPCIL और अन्य संस्थागत अभिनेता तीसरे पक्ष के डेटा एक्सपोजर की सीमा निर्धारित करने के लिए घटना की जांच कर रहे हैं। लेकिन NPCIL का मूल संस्थागत संदेश-स्पष्ट रूप से, जल्दी और रिकॉर्ड पर-यह है कि बहु-स्तरीय सुरक्षा संरचना जो परिचालन रिएक्टर प्रणालियों को बाहरी प्रशासनिक नेटवर्क से अलग करती है, ठीक उसी तरह से डिज़ाइन की गई है।",
+      "en": "The clarification, issued within hours of media reports referencing files posted on the dark web by the ransomware group World Leaks that had reportedly obtained data through a third-party server managed on behalf of Reliance Infrastructure Ltd, represents one of the more substantively rapid and institutionally clear responses to a cyber-security incident that the Indian nuclear-power sector has produced. The Indian Computer Emergency Response Team (CERT-In), NPCIL, and other institutional actors are examining the incident to determine the extent of the third-party data exposure. But the substantive institutional message from NPCIL — clearly, quickly, and on the record — is that the multi-layered security architecture that separates operational reactor systems from external administrative networks has held exactly as designed.",
+      "ur": "رینسم ویئر گروپ ورلڈ لیکس کی جانب سے ڈارک ویب پر پوسٹ کی گئی فائلوں کا حوالہ دیتے ہوئے میڈیا رپورٹس کے چند گھنٹوں کے اندر جاری کی گئی وضاحت، جس میں مبینہ طور پر ریلائنس انفراسٹرکچر لمیٹڈ کی جانب سے منظم تھرڈ پارٹی سرور کے ذریعے ڈیٹا حاصل کیا گیا تھا، ہندوستانی جوہری توانائی کے شعبے میں پیدا ہونے والے سائبر سیکیورٹی کے واقعے کے بارے میں ایک زیادہ تیزی سے اور ادارہ جاتی طور پر واضح ردعمل کی نمائندگی کرتا ہے۔ انڈین کمپیوٹر ایمرجنسی رسپانس ٹیم (سی ای آر ٹی-ان)، این پی سی آئی ایل، اور دیگر ادارہ جاتی اداکار تیسرے فریق کے ڈیٹا کی نمائش کی حد کا تعین کرنے کے لیے واقعے کی جانچ کر رہے ہیں۔ لیکن این پی سی آئی ایل کا ٹھوس ادارہ جاتی پیغام-واضح طور پر، تیزی سے، اور ریکارڈ پر-یہ ہے کہ کثیر سطحی حفاظتی ڈھانچہ جو آپریشنل ری ایکٹر سسٹم کو بیرونی انتظامی نیٹ ورکس سے الگ کرتا ہے، بالکل اسی طرح ڈیزائن کیا گیا ہے۔"
     },
     "b2": {
-      "hi": "सात जिले और कानूनी ढांचा",
-      "en": "The seven districts and the legal framework",
-      "ur": "سات اضلاع اور قانونی ڈھانچہ"
+      "hi": "एन. पी. सी. आई. एल. ने क्या स्पष्ट किया",
+      "en": "What NPCIL clarified",
+      "ur": "این پی سی آئی ایل نے کیا واضح کیا"
     },
     "b3": {
-      "hi": "सात स्वायत्त पहाड़ी विकास परिषदों का गठन लद्दाख स्वायत्त पहाड़ी विकास परिषद (एल. ए. एच. डी. सी.) अधिनियम की धारा 3 (1) के तहत किया जाएगा-वह क़ानून जो पहले से ही आधिकारिक राजपत्र में प्रकाशित एक सरकारी अधिसूचना के माध्यम से प्रत्येक जिले में एक परिषद के गठन का प्रावधान करता है। इसलिए पांच नए जिलों-शाम, नुब्रा, चांगथांग, ज़ांस्कर और द्रास-को मौजूदा विधायी ढांचे के भीतर लाया जाएगा, जिसके तहत लेह परिषद 1995 से और कारगिल परिषद 2003 से काम कर रही है।",
-      "en": "The seven Autonomous Hill Development Councils will be constituted under Section 3(1) of the Ladakh Autonomous Hill Development Council (LAHDC) Act — the statute which already provides for the constitution of a Council in every district through a government notification published in the Official Gazette. The five new districts — Sham, Nubra, Changthang, Zanskar, and Drass — will therefore be brought within the existing legislative architecture that the Leh Council has operated under since 1995 and the Kargil Council since 2003.",
-      "ur": "سات خود مختار پہاڑی ترقیاتی کونسلیں لداخ خود مختار پہاڑی ترقیاتی کونسل (ایل اے ایچ ڈی سی) ایکٹ کے سیکشن 3 (1) کے تحت تشکیل دی جائیں گی-وہ قانون جو پہلے ہی سرکاری گزٹ میں شائع ہونے والے سرکاری نوٹیفکیشن کے ذریعے ہر ضلع میں کونسل کی تشکیل کا بندوبست کرتا ہے۔ اس لیے پانچ نئے اضلاع-شام، نوبرا، چانگتھانگ، زنسکار اور دراس-کو موجودہ قانون سازی کے ڈھانچے کے اندر لایا جائے گا جس کے تحت لیہہ کونسل 1995 سے کام کر رہی ہے اور کارگل کونسل 2003 سے کام کر رہی ہے۔"
+      "hi": "एन. पी. सी. आई. एल. के बयान में संस्थागत स्पष्टता के साथ मूल तकनीकी प्रश्न-विशेष रूप से लीक हुई फाइलों में क्या था-को संबोधित किया गया। के. के. एन. पी. पी. इकाइयों 3 और 4 के लिए सामान्य सेवा-संतुलन संयंत्र (बी. ओ. पी.) पैकेज के लिए इंजीनियरिंग, खरीद और निर्माण (ई. पी. सी.) अनुबंध 2018 में एक सार्वजनिक निविदा प्रक्रिया के माध्यम से रिलायंस इंफ्रास्ट्रक्चर लिमिटेड को दिया गया था। इस अनुबंध का दायरा, जैसा कि एन. पी. सी. आई. एल. ने निर्दिष्ट किया है, इंजीनियरिंग, खरीद और आपूर्ति, निर्माण और सामान्य सेवा सुविधाओं को चालू करना शामिल है। ये सुविधाएं, एन. पी. सी. आई. एल. के मूल लक्षण वर्णन में, \"प्रकृति में पारंपरिक\" हैं और \"आमतौर पर ताप विद्युत संयंत्रों के साथ-साथ अन्य प्रक्रिया उद्योगों में भी पाई जाती हैं।\"",
+      "en": "The NPCIL statement addressed the substantive technical question — what specifically was in the leaked files — with institutional clarity. The Engineering, Procurement and Construction (EPC) contract for the Common Services-Balance of Plant (BoP) package for KKNPP Units 3 & 4 was awarded to Reliance Infrastructure Ltd in 2018 through a public tender process. The scope of this contract, as NPCIL specified, covers engineering, procurement and supply, construction, and commissioning of common service facilities. These facilities are, in NPCIL's substantive characterisation, \"conventional in nature\" and are \"typically found in thermal power plants as well as other process industries.\"",
+      "ur": "این پی سی آئی ایل کے بیان میں بنیادی تکنیکی سوال-لیک ہونے والی فائلوں میں خاص طور پر کیا تھا-کو ادارہ جاتی وضاحت کے ساتھ خطاب کیا گیا۔ کے کے این پی پی یونٹس 3 اور 4 کے لیے کامن سروسز بیلنس آف پلانٹ (بی او پی) پیکیج کے لیے انجینئرنگ، پروکیورمنٹ اینڈ کنسٹرکشن (ای پی سی) کا معاہدہ 2018 میں ریلائنس انفراسٹرکچر لمیٹڈ کو پبلک ٹینڈر کے عمل کے ذریعے دیا گیا تھا۔ اس معاہدے کا دائرہ کار، جیسا کہ این پی سی آئی ایل نے واضح کیا ہے، انجینئرنگ، خریداری اور سپلائی، تعمیر اور مشترکہ خدمات کی سہولیات کو شروع کرنے کا احاطہ کرتا ہے۔ یہ سہولیات، این پی سی آئی ایل کی بنیادی خصوصیت میں، \"روایتی نوعیت کی\" ہیں اور \"عام طور پر تھرمل پاور پلانٹس کے ساتھ ساتھ دیگر عمل کی صنعتوں میں بھی پائی جاتی ہیں\"۔"
     },
     "b4": {
-      "hi": "सातों परिषदों में से प्रत्येक एल. ए. एच. डी. सी. अधिनियम में निर्धारित पूर्ण शक्तियों का प्रयोग करेगी। जैसा कि मुख्य सचिव ने अपनी प्रेस कॉन्फ्रेंस में जोर देकर कहा, नए जिलों के पास मौजूदा लेह और कारगिल परिषदों के समान अधिकार होंगे-\"कम संस्करण नहीं\"। सातों परिषदों की संस्थागत समानता एक ठोस डिजाइन विकल्प है जो एक स्तरीय व्यवस्था के बजाय वास्तविक लोकतांत्रिक विकेंद्रीकरण के लिए सरकार की प्रतिबद्धता को दर्शाता है जिसमें कुछ जिले दूसरों की तुलना में अधिक अधिकार रखते हैं।",
-      "en": "Each of the seven Councils will exercise the full powers set out in the LAHDC Act. As the Chief Secretary emphasised in his press conference, the new districts will have \"the same authority\" as the existing Leh and Kargil Councils — \"not a reduced version.\" The institutional equality of the seven Councils is a substantive design choice that reflects the Government's commitment to genuine democratic decentralisation rather than a tiered arrangement in which some districts hold greater authority than others.",
-      "ur": "سات کونسلوں میں سے ہر ایک ایل اے ایچ ڈی سی ایکٹ میں طے شدہ مکمل اختیارات کا استعمال کرے گی۔ جیسا کہ چیف سکریٹری نے اپنی پریس کانفرنس میں زور دیا، نئے اضلاع کو موجودہ لیہہ اور کارگل کونسلوں کی طرح \"وہی اختیار\" ہوگا-\"کم شدہ ورژن نہیں\"۔ سات کونسلوں کی ادارہ جاتی مساوات ایک ٹھوس ڈیزائن کا انتخاب ہے جو ایک درجے کے انتظام کے بجائے حقیقی جمہوری وکندریقرت کے لیے حکومت کے عزم کی عکاسی کرتا ہے جس میں کچھ اضلاع دوسروں کے مقابلے میں زیادہ اختیار رکھتے ہیں۔"
+      "hi": "ठोस संस्थागत शब्दों में, यह तकनीकी अंतर परिणामी है। एक परमाणु ऊर्जा स्टेशन कवर सिस्टम में संयंत्र सुविधाओं का संतुलन जिसमें शीतलन जल अवसंरचना, गैर-सुरक्षा-वर्गीकृत उपकरणों के लिए विद्युत वितरण, संयंत्र प्रकाश, गैर-सुरक्षा-वर्गीकृत क्षेत्रों के लिए वेंटिलेशन सिस्टम, पारंपरिक उपकरणों के लिए अग्नि-सुरक्षा प्रणाली, संयंत्र संपीड़ित-वायु प्रणाली, संयंत्र सेवा-जल प्रणाली और इसी तरह के पारंपरिक बुनियादी ढांचे शामिल हैं। ये प्रणालियां, जबकि बिजली स्टेशन के समग्र कामकाज के लिए आवश्यक हैं, वास्तुकलात्मक और परिचालन रूप से रिएक्टर की परमाणु सुरक्षा प्रणाली, परमाणु सुरक्षा प्रणाली, रिएक्टर के नियंत्रण और उपकरण, सुरक्षा-वर्गीकृत उपकरण और अन्य परमाणु-महत्वपूर्ण प्रणालियों से अलग हैं।",
+      "en": "In substantive institutional terms, this technical distinction is consequential. Balance of Plant facilities at a nuclear power station cover systems including cooling water infrastructure, electrical distribution to non-safety-classified equipment, plant lighting, ventilation systems for non-safety-classified areas, plant fire-protection systems for conventional equipment, plant compressed-air systems, plant service-water systems, and similar conventional infrastructure. These systems, while essential to the overall functioning of the power station, are architecturally and operationally separate from the reactor's nuclear safety systems, nuclear security systems, control-and-instrumentation of the reactor, safety-classified equipment, and other nuclear-critical systems.",
+      "ur": "بنیادی ادارہ جاتی لحاظ سے، یہ تکنیکی امتیاز نتیجہ خیز ہے۔ نیوکلیئر پاور اسٹیشن پر پلانٹ کی سہولیات کا توازن بشمول کولنگ واٹر انفراسٹرکچر، غیر حفاظتی درجہ بند آلات میں برقی تقسیم، پلانٹ لائٹنگ، غیر حفاظتی درجہ بند علاقوں کے لیے وینٹیلیشن سسٹم، روایتی آلات کے لیے پلانٹ فائر پروٹیکشن سسٹم، پلانٹ کمپریسڈ ایئر سسٹم، پلانٹ سروس واٹر سسٹم، اور اسی طرح کے روایتی انفراسٹرکچر۔ یہ سسٹم، جبکہ پاور اسٹیشن کے مجموعی کام کاج کے لیے ضروری ہیں، آرکیٹیکچرل اور آپریشنل طور پر ری ایکٹر کے نیوکلیئر سیفٹی سسٹم، نیوکلیئر سیکیورٹی سسٹم، ری ایکٹر کے کنٹرول اور انسٹرومینٹیشن، سیفٹی کلاسیفائیڈ آلات، اور دیگر نیوکلیئر کریٹیکل سسٹم سے الگ ہیں۔"
     },
     "b5": {
-      "hi": "परिषद क्या करेगी",
-      "en": "What the Councils will do",
-      "ur": "کونسلیں کیا کریں گی"
+      "hi": "एन. पी. सी. आई. एल. ने मूल इंजीनियरिंग-डिजाइन कार्यप्रवाह को भी स्पष्ट किया। सार्वजनिक निविदा प्रक्रिया के हिस्से के रूप में, एन. पी. सी. आई. एल. ने बोलीदाताओं को सांकेतिक चित्र और तकनीकी विनिर्देश प्रदान किए। इन दस्तावेजों और परियोजना की मूल आवश्यकताओं के आधार पर, रिलायंस इंफ्रास्ट्रक्चर लिमिटेड ने संबंधित मूल उपकरण निर्माताओं (ओ. ई. एम.) के परामर्श से विस्तृत इंजीनियरिंग चित्र तैयार किए-पर्याप्त औद्योगिक आपूर्तिकर्ता जिनके विशिष्ट उत्पाद विनिर्देश प्रत्येक प्रणाली के विस्तृत इंजीनियरिंग को सूचित करते हैं। इस तरह से तैयार किए गए डिजाइनों की समीक्षा एन. पी. सी. आई. एल. द्वारा की गई और तकनीकी विनिर्देशों का अनुपालन सुनिश्चित करने के बाद स्वीकार किया गया। यह मूल निविदा-और-समीक्षा संरचना विश्व स्तर पर प्रमुख बुनियादी ढांचा परियोजनाओं के लिए मानक अभ्यास है, और ठोस संस्थागत तंत्र प्रदान करती है जिसके माध्यम से तकनीकी सटीकता और विनिर्देश अनुपालन बनाए रखा जाता है।",
+      "en": "NPCIL also clarified the substantive engineering-design workflow. As part of the public tendering process, NPCIL provided indicative drawings and technical specifications to bidders. Based on these documents and the substantive requirements of the project, Reliance Infrastructure Ltd prepared detailed engineering drawings in consultation with the respective Original Equipment Manufacturers (OEMs) — the substantial industrial suppliers whose specific product specifications inform the detailed engineering of each system. The designs so prepared were reviewed by NPCIL and accepted after ensuring compliance with the technical specifications. This substantive tender-and-review architecture is standard practice for major infrastructure projects globally, and provides the substantive institutional mechanism through which technical accuracy and specification compliance are maintained.",
+      "ur": "این پی سی آئی ایل نے ٹھوس انجینئرنگ-ڈیزائن ورک فلو کی بھی وضاحت کی۔ عوامی ٹینڈر کے عمل کے ایک حصے کے طور پر، این پی سی آئی ایل نے بولی دہندگان کو علامتی ڈرائنگ اور تکنیکی وضاحتیں فراہم کیں۔ ان دستاویزات اور پروجیکٹ کی بنیادی ضروریات کی بنیاد پر، ریلائنس انفراسٹرکچر لمیٹڈ نے متعلقہ اصل آلات مینوفیکچررز (او ای ایم) کے ساتھ مشاورت سے تفصیلی انجینئرنگ ڈرائنگ تیار کی-کافی صنعتی سپلائرز جن کی مخصوص مصنوعات کی وضاحتیں ہر نظام کی تفصیلی انجینئرنگ کو مطلع کرتی ہیں۔ اس طرح تیار کردہ ڈیزائنوں کا این پی سی آئی ایل کے ذریعہ جائزہ لیا گیا اور تکنیکی وضاحتیں کی تعمیل کو یقینی بنانے کے بعد قبول کیا گیا۔ یہ ٹھوس ٹینڈر اور جائزہ فن تعمیر عالمی سطح پر بڑے بنیادی ڈھانچے کے منصوبوں کے لیے معیاری عمل ہے، اور ٹھوس ادارہ جاتی طریقہ کار فراہم کرتا ہے جس کے ذریعے تکنیکی درستگی اور تفصیلات کی تعمیل کو برقرار رکھا جاتا ہے۔"
     },
     "b6": {
-      "hi": "प्रत्येक जिला परिषद में निहित शक्तियां पर्याप्त हैं। * * भूमि * *: जिले की क्षेत्रीय सीमाओं के भीतर भूमि स्वामित्व और भूमि आवंटन पर पूर्ण अधिकार। * * रोजगार *: जिला संवर्ग के पदों के लिए भर्ती और पदोन्नति पर नियंत्रण, जिसका अर्थ है कि प्रत्येक जिले में रोजगार के निर्णय उस जिले के भीतर एक निर्वाचित निकाय के पास होंगे। * * वित्त * *: एक समर्पित परिषद निधि बनाए रखने और कर और शुल्क लगाने का अधिकार, प्रत्येक जिले को अपना राजस्व आधार देना। * * विकास योजना * *: विकास योजनाएं तैयार करने और स्थानीय प्राथमिकताएं निर्धारित करने का अधिकार, जिसका अर्थ है कि प्रत्येक जिला लेह या कारगिल से उन्हें प्राप्त करने के बजाय अपनी विकासात्मक जरूरतों की पहचान करेगा।",
-      "en": "The powers vested in each District Council are substantive. **Land**: full authority over land ownership and land allotment within the district's territorial boundaries. **Employment**: control over recruitment and promotions for district cadre posts, meaning that employment decisions in each district will rest with an elected body within that district. **Finance**: authority to maintain a dedicated Council Fund and to levy taxes and fees, giving each district a revenue base of its own. **Development planning**: authority to prepare development plans and set local priorities, meaning each district will identify its own developmental needs rather than receive them from Leh or Kargil.",
-      "ur": "ہر ضلعی کونسل کے پاس موجود اختیارات ٹھوس ہیں۔ * * زمین * *: ضلع کی علاقائی حدود کے اندر زمین کی ملکیت اور زمین کی الاٹمنٹ پر مکمل اختیار۔ * * روزگار * *: ضلع کیڈر کے عہدوں کے لیے بھرتی اور ترقی پر کنٹرول، جس کا مطلب ہے کہ ہر ضلع میں روزگار کے فیصلے اس ضلع کے اندر ایک منتخب ادارے کے پاس ہوں گے۔ * * مالیات * *: ایک مخصوص کونسل فنڈ کو برقرار رکھنے اور ٹیکس اور فیس عائد کرنے کا اختیار، جس سے ہر ضلع کو اپنا ریونیو بیس ملے گا۔ * * ترقیاتی منصوبہ بندی * *: ترقیاتی منصوبے تیار کرنے اور مقامی ترجیحات طے کرنے کا اختیار، یعنی ہر ضلع لیہہ یا کارگل سے وصول کرنے کے بجائے اپنی ترقیاتی ضروریات کی نشاندہی کرے گا۔"
+      "hi": "स्तरीय वास्तुकला क्या गारंटी देती है",
+      "en": "What the tiered architecture guarantees",
+      "ur": "ٹائرڈ فن تعمیر کس چیز کی ضمانت دیتا ہے"
     },
     "b7": {
-      "hi": "प्रत्येक परिषद का कार्यात्मक पोर्टफोलियो उन क्षेत्रों में फैला हुआ है जो लद्दाख के उच्च ऊंचाई वाले जिलों में दैनिक जीवन को परिभाषित करते हैंः स्वास्थ्य, शिक्षा, पर्यटन, स्थानीय बुनियादी ढांचा और सामाजिक कल्याण योजनाएं। सशक्तिकरण व्यापक है-प्रत्येक परिषद अपने क्षेत्रीय अधिकार क्षेत्र के भीतर इन परिणामी क्षेत्रों के स्थानीय आयामों को पर्याप्त रूप से नियंत्रित करेगी।",
-      "en": "The functional portfolio of each Council extends across the sectors that define daily life in Ladakh's high-altitude districts: health, education, tourism, local infrastructure, and social welfare schemes. The empowerment is comprehensive — each Council will substantively govern the local dimensions of these consequential sectors within its territorial jurisdiction.",
-      "ur": "ہر کونسل کا فعال پورٹ فولیو ان شعبوں میں پھیلا ہوا ہے جو لداخ کے اونچائی والے اضلاع میں روزمرہ کی زندگی کی وضاحت کرتے ہیں: صحت، تعلیم، سیاحت، مقامی بنیادی ڈھانچہ، اور سماجی بہبود کی اسکیمیں۔ بااختیار بنانا جامع ہے-ہر کونسل اپنے علاقائی دائرہ اختیار میں ان نتیجہ خیز شعبوں کے مقامی جہتوں کو کافی حد تک کنٹرول کرے گی۔"
+      "hi": "बी. ओ. पी. बनाम परमाणु-प्रणालियों के अंतर का मूल संस्थागत परिणाम यह है कि भारत की बहु-स्तरीय परमाणु साइबर-सुरक्षा संरचना ने ठीक उसी तरह काम किया जैसे डिज़ाइन किया गया था। भारतीय परमाणु ऊर्जा क्षेत्र, संयुक्त राज्य अमेरिका, फ्रांस, रूस, जापान, दक्षिण कोरिया और अन्य प्रमुख परमाणु-ऊर्जा अर्थव्यवस्थाओं में अपने समकक्षों की तरह, मूल स्तर के अलगाव के सिद्धांत पर काम करता है। रिएक्टर परिचालन प्रणाली-वास्तविक नियंत्रण प्रणाली जो परमाणु श्रृंखला प्रतिक्रिया का प्रबंधन करती है, सुरक्षा प्रणाली जो विसंगति की स्थिति में रिएक्टर को बंद कर देती है, सुरक्षा प्रणाली जो भौतिक या साइबर घुसपैठ से बचाती है, और संबंधित उपकरण-प्रशासनिक नेटवर्क, ठेकेदार नेटवर्क, तीसरे पक्ष की परियोजना-प्रबंधन प्रणाली और नेटवर्क की हर अन्य श्रेणी से संस्थागत और तकनीकी रूप से अलग हैं जो बाहरी समझौते के लिए अतिसंवेदनशील हो सकते हैं।",
+      "en": "The substantive institutional consequence of the BoP-versus-nuclear-systems distinction is that India's multi-layered nuclear cyber-security architecture worked exactly as designed. The Indian nuclear power sector, like its counterparts in the United States, France, Russia, Japan, South Korea, and other major nuclear-power economies, operates on the principle of substantive tiered isolation. Reactor operational systems — the actual control systems that manage the nuclear chain reaction, the safety systems that shut down the reactor in the event of anomaly, the security systems that protect against physical or cyber intrusion, and the associated instrumentation — are institutionally and technically isolated from administrative networks, contractor networks, third-party project-management systems, and every other category of network that might be susceptible to external compromise.",
+      "ur": "بی او پی بمقابلہ جوہری نظام کے فرق کا بنیادی ادارہ جاتی نتیجہ یہ ہے کہ ہندوستان کا کثیر سطحی جوہری سائبر سیکیورٹی ڈھانچہ بالکل اسی طرح کام کرتا ہے جس طرح ڈیزائن کیا گیا تھا۔ ہندوستانی جوہری توانائی کا شعبہ، ریاستہائے متحدہ امریکہ، فرانس، روس، جاپان، جنوبی کوریا اور دیگر بڑی جوہری توانائی کی معیشتوں میں اپنے ہم منصبوں کی طرح، ٹھوس درجے کی تنہائی کے اصول پر کام کرتا ہے۔ ری ایکٹر آپریشنل سسٹم-اصل کنٹرول سسٹم جو جوہری سلسلہ ردعمل کا انتظام کرتا ہے، حفاظتی نظام جو بے ضابطگی کی صورت میں ری ایکٹر کو بند کر دیتا ہے، حفاظتی نظام جو جسمانی یا سائبر مداخلت سے بچاتا ہے، اور متعلقہ آلات-انتظامی نیٹ ورک، ٹھیکیدار نیٹ ورک، تھرڈ پارٹی پروجیکٹ مینجمنٹ سسٹم، اور نیٹ ورک کے ہر دوسرے زمرے سے ادارہ جاتی اور تکنیکی طور پر الگ تھلگ ہیں جو بیرونی سمجھوتے کا شکار ہو سکتے ہیں۔"
     },
-    "b8.title": {
-      "hi": "लद्दाख की सात पहाड़ी परिषदें एक नज़र में",
-      "en": "Ladakh's Seven Hill Councils at a Glance",
-      "ur": "لداخ کی سات پہاڑی کونسلیں ایک نظر میں"
+    "b8": {
+      "hi": "अलगाव को कई ठोस सुरक्षा उपायों के माध्यम से बनाए रखा जाता है। * * वायु अंतराल * *: रिएक्टर परिचालन नेटवर्क भौतिक रूप से बाहरी नेटवर्क से अलग होते हैं, जिसका अर्थ है कि उनके और इंटरनेट या किसी बाहरी सर्वर के बीच कोई डेटा पथ मौजूद नहीं है। * * समर्पित बुनियादी ढांचा * *: परमाणु परिचालन प्रणाली समर्पित हार्डवेयर, समर्पित संचार उपकरण और समर्पित सॉफ्टवेयर का उपयोग करती है जो किसी भी वाणिज्यिक-ऑफ-द-शेल्फ उपकरण से अलग होते हैं जो विशिष्ट साइबर-सुरक्षा कमजोरियों के लिए अतिसंवेदनशील हो सकते हैं। * * संस्थागत नियंत्रण * *: परमाणु परिचालन प्रणालियों तक पहुंच वाले कर्मियों को वैश्विक स्तर पर प्रशासनिक प्रणालियों तक पहुंच वाले लोगों से काफी अलग किया जाता है। * * नियामक निरीक्षण * *: परमाणु ऊर्जा नियामक बोर्ड (एईआरबी) ठोस साइबर-सुरक्षा वास्तुकला की निरंतर संस्थागत निगरानी प्रदान करता है। * * अंतर्राष्ट्रीय मानक * *: भारत की परमाणु साइबर-सुरक्षा वास्तुकला अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (आईएई) के साथ संरेखित होती है।",
+      "en": "The isolation is maintained through multiple substantive safeguards. **Air gaps**: reactor operational networks are physically separated from external networks, meaning no data path exists between them and the internet or any external server. **Dedicated infrastructure**: nuclear operational systems use dedicated hardware, dedicated communications equipment, and dedicated software separate from any commercial-off-the-shelf equipment that might be susceptible to typical cyber-security vulnerabilities. **Institutional controls**: personnel with access to nuclear operational systems are substantively segregated from those with access to administrative systems. **Regulatory oversight**: the Atomic Energy Regulatory Board (AERB) provides continuous institutional oversight of the substantive cyber-security architecture. **International standards**: India's nuclear cyber-security architecture aligns with the substantive International Atomic Energy Agency (IAEA) Nuclear Security Series guidance that structures similar architectures globally.",
+      "ur": "الگ تھلگ کو متعدد ٹھوس حفاظتی اقدامات کے ذریعے برقرار رکھا جاتا ہے۔ * * ہوا کے فرق * *: ری ایکٹر آپریشنل نیٹ ورک جسمانی طور پر بیرونی نیٹ ورک سے الگ ہوتے ہیں، جس کا مطلب ہے کہ ان کے اور انٹرنیٹ یا کسی بیرونی سرور کے درمیان کوئی ڈیٹا کا راستہ موجود نہیں ہے۔ * * وقف شدہ انفراسٹرکچر * *: نیوکلیئر آپریشنل سسٹم وقف شدہ ہارڈ ویئر، وقف شدہ مواصلاتی آلات، اور وقف شدہ سافٹ ویئر کا استعمال کرتے ہیں جو کسی بھی تجارتی آف دی شیلف آلات سے الگ ہوتے ہیں جو عام سائبر سیکیورٹی خطرات کے لیے حساس ہو سکتے ہیں۔ * * ادارہ جاتی کنٹرول * *: نیوکلیئر آپریشنل سسٹم تک رسائی رکھنے والے اہلکاروں کو عالمی سطح پر انتظامی نظام تک رسائی رکھنے والوں سے کافی حد تک الگ کیا جاتا ہے۔ * * ریگولیٹری نگرانی * *: جوہری توانائی ریگولیٹری بورڈ (اے ای آر بی) ٹھوس سائبر سیکیورٹی فن تعمیر کی مسلسل ادارہ جاتی نگرانی فراہم کرتا ہے۔ * * بین الاقوامی معیارات *: ہندوستان کا جوہری سائبر سیکیورٹی فن تعمیر بین الاقوامی جوہری توانائی ایجنسی (آئی اے ای) کے ساتھ مطابقت رکھتا ہے۔"
     },
-    "b8.itemlbl.0": {
-      "hi": "घोषणा",
-      "en": "Announcement",
-      "ur": "اعلان"
-    },
-    "b8.itemval.0": {
-      "hi": "सोमवार, 13 जुलाई 2026 (लेह प्रेस कॉन्फ्रेंस)",
-      "en": "Monday, 13 July 2026 (Leh press conference)",
-      "ur": "پیر، 13 جولائی 2026 (لیہہ پریس کانفرنس)"
-    },
-    "b8.itemlbl.1": {
-      "hi": "द्वारा घोषित",
-      "en": "Announced by",
-      "ur": "کے ذریعے اعلان کیا گیا"
-    },
-    "b8.itemval.1": {
-      "hi": "मुख्य सचिव आशीष कुंद्रा",
-      "en": "Chief Secretary Ashish Kundra",
-      "ur": "چیف سکریٹری آشیش کنڈرا"
-    },
-    "b8.itemlbl.2": {
-      "hi": "गठित की जाने वाली कुल परिषदें",
-      "en": "Total Councils to be constituted",
-      "ur": "تشکیل دی جانے والی کل کونسلیں"
-    },
-    "b8.itemval.2": {
-      "hi": "7 (प्रति जिले एक)",
-      "en": "7 (one per district)",
-      "ur": "7 (ایک فی ضلع)"
-    },
-    "b8.itemlbl.3": {
-      "hi": "कानूनी ढांचा",
-      "en": "Legal framework",
-      "ur": "قانونی فریم ورک"
-    },
-    "b8.itemval.3": {
-      "hi": "धारा 3 (1), लद्दाख स्वायत्त पहाड़ी विकास परिषद (एल. ए. एच. डी. सी.) अधिनियम",
-      "en": "Section 3(1), Ladakh Autonomous Hill Development Council (LAHDC) Act",
-      "ur": "دفعہ 3 (1)، لداخ آٹونومس ہل ڈیولپمنٹ کونسل (ایل اے ایچ ڈی سی) ایکٹ"
-    },
-    "b8.itemlbl.4": {
-      "hi": "सात जिले",
-      "en": "The seven districts",
-      "ur": "سات اضلاع"
-    },
-    "b8.itemval.4": {
-      "hi": "लेह, कारगिल, शाम, नुब्रा, चांगथांग, ज़ांस्कर, द्रास",
-      "en": "Leh, Kargil, Sham, Nubra, Changthang, Zanskar, Drass",
-      "ur": "لیہہ، کارگل، شام، نوبرا، چانگتھانگ، زنسکار، دراس"
-    },
-    "b8.itemlbl.5": {
-      "hi": "अप्रैल 2026 में अधिसूचित नए जिले",
-      "en": "New districts notified April 2026",
-      "ur": "اپریل 2026 کو نوٹیفائی کیے گئے نئے اضلاع"
-    },
-    "b8.itemval.5": {
-      "hi": "शाम, नुब्रा, चांगथांग, ज़ांस्कर, द्रास",
-      "en": "Sham, Nubra, Changthang, Zanskar, Drass",
-      "ur": "شام، نوبرا، چانگتھانگ، زنسکار، دراس"
-    },
-    "b8.itemlbl.6": {
-      "hi": "मौजूदा परिषदें",
-      "en": "Existing councils",
-      "ur": "موجودہ کونسلیں"
-    },
-    "b8.itemval.6": {
-      "hi": "लेह (1995 से); कारगिल (2003 से)",
-      "en": "Leh (since 1995); Kargil (since 2003)",
-      "ur": "لیہہ (1995 سے) ؛ کارگل (2003 سے)"
-    },
-    "b8.itemlbl.7": {
-      "hi": "प्रति परिषद शक्तियाँ",
-      "en": "Powers per Council",
-      "ur": "فی کونسل اختیارات"
-    },
-    "b8.itemval.7": {
-      "hi": "भूमि स्वामित्व और आवंटन; भर्ती और पदोन्नति; समर्पित परिषद निधि; कर और शुल्क; विकास योजनाएं; स्वास्थ्य, शिक्षा, पर्यटन, बुनियादी ढांचा, सामाजिक कल्याण",
-      "en": "Land ownership and allotment; recruitment and promotions; dedicated Council Fund; taxes and fees; development plans; health, education, tourism, infrastructure, social welfare",
-      "ur": "زمین کی ملکیت اور الاٹمنٹ ؛ بھرتی اور ترقی ؛ وقف کونسل فنڈ ؛ ٹیکس اور فیس ؛ ترقیاتی منصوبے ؛ صحت، تعلیم، سیاحت، بنیادی ڈھانچہ، سماجی بہبود"
-    },
-    "b8.itemlbl.8": {
-      "hi": "चुनाव पूर्व आवश्यकताएँ",
-      "en": "Pre-election requirements",
-      "ur": "انتخابات سے پہلے کے تقاضے"
-    },
-    "b8.itemval.8": {
-      "hi": "अधिनियम में मामूली संशोधन; निर्वाचन क्षेत्रों का परिसीमन",
-      "en": "Minor amendments to the Act; delimitation of constituencies",
-      "ur": "قانون میں معمولی ترامیم ؛ حلقوں کی حد بندی"
-    },
-    "b8.itemlbl.9": {
-      "hi": "प्रस्तावित केंद्र शासित प्रदेश स्तर का शीर्ष निकाय",
-      "en": "Proposed UT-level apex body",
-      "ur": "مجوزہ یو ٹی سطح کا اعلی ادارہ"
-    },
-    "b8.itemval.9": {
-      "hi": "अनुकूलित अनुच्छेद 371 ढांचे के तहत",
-      "en": "Under customised Article 371 framework",
-      "ur": "حسب ضرورت آرٹیکل 371 فریم ورک کے تحت"
-    },
-    "b8.itemlbl.10": {
-      "hi": "यू. टी.-स्तरीय निकाय शक्तियाँ",
-      "en": "UT-level body powers",
-      "ur": "یو ٹی سطح کے باڈی پاورز"
-    },
-    "b8.itemval.10": {
-      "hi": "विधायी, कार्यकारी, वित्तीय और प्रशासनिक",
-      "en": "Legislative, executive, financial, and administrative",
-      "ur": "قانون سازی، انتظامی، مالیاتی اور انتظامی"
-    },
-    "b8.itemlbl.11": {
-      "hi": "तीन स्तरीय निर्वाचित संरचना",
-      "en": "Three-tier elected structure",
-      "ur": "تین درجے کا منتخب ڈھانچہ"
-    },
-    "b8.itemval.11": {
-      "hi": "ग्राम (पंचायत), जिला (पर्वतीय परिषद), केंद्र शासित प्रदेश (अनुच्छेद 371 निकाय)",
-      "en": "Village (Panchayats), District (Hill Councils), Union Territory (Article 371 body)",
-      "ur": "گاؤں (پنچایتیں)، ضلع (پہاڑی کونسلیں)، مرکز کے زیر انتظام علاقہ (آرٹیکل 371 باڈی)"
-    },
-    "b8.itemlbl.12": {
-      "hi": "पंचायती राज संस्थान",
-      "en": "Panchayati Raj institutions",
-      "ur": "پنچایتی راج کے ادارے"
-    },
-    "b8.itemval.12": {
-      "hi": "गाँव के स्तर पर जारी रखें",
-      "en": "Continue at village level",
-      "ur": "گاؤں کی سطح پر جاری رکھیں"
-    },
-    "b8.itemlbl.13": {
-      "hi": "लद्दाख का केंद्र शासित प्रदेश का दर्जा",
-      "en": "Ladakh's UT status",
-      "ur": "لداخ کی یو ٹی کی حیثیت"
-    },
-    "b8.itemval.13": {
-      "hi": "अक्टूबर 2019 में स्थापित",
-      "en": "Established October 2019",
-      "ur": "اکتوبر 2019 میں قائم کیا گیا"
-    },
-    "b8.itemlbl.14": {
-      "hi": "लद्दाख का 7 जिलों में पुनर्गठन",
-      "en": "Ladakh's reorganisation into 7 districts",
-      "ur": "لداخ کی 7 اضلاع میں تنظیم نو"
-    },
-    "b8.itemval.14": {
-      "hi": "अप्रैल 2026",
-      "en": "April 2026",
-      "ur": "اپریل 2026"
-    },
-    "b8.itemlbl.15": {
-      "hi": "मुख्य सचिव का चरित्र चित्रण",
-      "en": "Chief Secretary's characterisation",
-      "ur": "چیف سیکرٹری کی خصوصیت"
-    },
-    "b8.itemval.15": {
-      "hi": "\"देश में कहीं और कोई समानांतर नहीं\" वाला शासन मॉडल",
-      "en": "Governance model with \"no parallel elsewhere in the country\"",
-      "ur": "گورننس ماڈل جس کا \"ملک میں کہیں اور کوئی متوازی نہیں\""
-    },
-    "b9.q": {
-      "hi": "\"यह कदम लोकतांत्रिक विकेंद्रीकरण और जमीनी स्तर के शासन की दिशा में एक बड़ा कदम है। प्रस्तावित मॉडल का देश में कहीं और कोई समानांतर नहीं है और यह अन्य शासन व्यवस्थाओं की सर्वोत्तम विशेषताओं पर आधारित होगा।\"",
-      "en": "\"The move is a major step towards democratic decentralisation and grassroots governance. The proposed model has no parallel elsewhere in the country and will draw on the best features of other governance arrangements.\"",
-      "ur": "\"یہ اقدام جمہوری وکندریقرت اور نچلی سطح کی حکمرانی کی طرف ایک بڑا قدم ہے۔ مجوزہ ماڈل کا ملک میں کہیں اور کوئی متوازی نہیں ہے اور یہ حکمرانی کے دیگر انتظامات کی بہترین خصوصیات پر مبنی ہوگا۔\""
-    },
-    "b9.c": {
-      "hi": "- आशीष कुंद्रा, मुख्य सचिव, लद्दाख (लेह प्रेस कॉन्फ्रेंस, 13 जुलाई 2026)",
-      "en": "— Ashish Kundra, Chief Secretary, Ladakh (Leh press conference, 13 July 2026)",
-      "ur": "- آشیش کنڈرا، چیف سکریٹری، لداخ (لیہہ پریس کانفرنس، 13 جولائی 2026)"
+    "b9": {
+      "hi": "इस स्तरीय संरचना का मूल संस्थागत परिणाम यह है कि जब किसी ठेकेदार के नेटवर्क से समझौता किया जाता है-जैसा कि रिलायंस इन्फ्रास्ट्रक्चर की घटना से पता चलता है कि पर्याप्त वाणिज्यिक साइबर-सुरक्षा निवेश के बावजूद ऐसा हो सकता है-तो समझौता परमाणु परिचालन प्रणालियों में नहीं फैलता है। परमाणु संचालन की मूल अखंडता को वास्तुकला पृथक्करण द्वारा ही बनाए रखा जाता है, न कि इस धारणा से कि किसी भी बाहरी नेटवर्क का कभी उल्लंघन नहीं होगा।",
+      "en": "The substantive institutional consequence of this tiered architecture is that even when a contractor's network is compromised — as the Reliance Infrastructure incident demonstrates can occur despite substantial commercial cyber-security investments — the compromise does not propagate into the nuclear operational systems. The substantive integrity of nuclear operations is maintained by the architectural separation itself, not by the assumption that no external network will ever be breached.",
+      "ur": "اس درجے کے فن تعمیر کا بنیادی ادارہ جاتی نتیجہ یہ ہے کہ جب کسی ٹھیکیدار کے نیٹ ورک سے سمجھوتہ کیا جاتا ہے-جیسا کہ ریلائنس انفراسٹرکچر کا واقعہ ظاہر کرتا ہے کہ کافی تجارتی سائبر سیکیورٹی سرمایہ کاری کے باوجود ہو سکتا ہے-سمجھوتہ جوہری آپریشنل سسٹم میں نہیں پھیلتا ہے۔ جوہری کارروائیوں کی ٹھوس سالمیت خود آرکیٹیکچرل علیحدگی کے ذریعے برقرار رکھی جاتی ہے، اس مفروضے سے نہیں کہ کسی بیرونی نیٹ ورک کی کبھی خلاف ورزی نہیں ہوگی۔"
     },
     "b10": {
-      "hi": "अनुच्छेद 371 शीर्ष निकाय",
-      "en": "The Article 371 apex body",
-      "ur": "آرٹیکل 371 اعلی ترین ادارہ"
+      "hi": "2019 की मिसालः एक ही वास्तुकला, एक ही परिणाम",
+      "en": "The 2019 precedent: same architecture, same outcome",
+      "ur": "2019 کی مثال: ایک ہی فن تعمیر، ایک ہی نتیجہ"
     },
     "b11": {
-      "hi": "मुख्य सचिव ने एक अनुकूलित अनुच्छेद 371 ढांचे के तहत सात परिषदों के ऊपर एक केंद्र शासित प्रदेश-स्तरीय संस्थान के लिए प्रशासन के प्रस्ताव को भी रेखांकित किया। संविधान के अनुच्छेद 371 में कुछ राज्यों पर लागू होने वाले विशेष प्रावधानों का प्रावधान है-जिसमें ऐसे प्रावधान भी शामिल हैं जो ऐतिहासिक रूप से नागालैंड, सिक्किम, मिजोरम, अरुणाचल प्रदेश और विशिष्ट भौगोलिक, जनसांख्यिकीय और सांस्कृतिक विशेषताओं वाले अन्य राज्यों की अनूठी शासन आवश्यकताओं का समर्थन करते हैं।",
-      "en": "The Chief Secretary also outlined the administration's proposal for a Union Territory-level institution above the seven Councils under a customised Article 371 framework. Article 371 of the Constitution provides for special provisions applicable to certain states — including provisions that have historically supported the unique governance requirements of Nagaland, Sikkim, Mizoram, Arunachal Pradesh, and other states with distinctive geographic, demographic, and cultural characteristics.",
-      "ur": "چیف سکریٹری نے اپنی مرضی کے مطابق آرٹیکل 371 فریم ورک کے تحت سات کونسلوں سے اوپر مرکز کے زیر انتظام علاقے کی سطح کے ادارے کے لیے انتظامیہ کی تجویز کا بھی خاکہ پیش کیا۔ آئین کا آرٹیکل 371 کچھ ریاستوں پر لاگو ہونے والی خصوصی دفعات فراہم کرتا ہے-بشمول ایسی دفعات جنہوں نے تاریخی طور پر ناگالینڈ، سکم، میزورم، اروناچل پردیش اور مخصوص جغرافیائی، آبادیاتی اور ثقافتی خصوصیات والی دیگر ریاستوں کی منفرد حکمرانی کی ضروریات کی حمایت کی ہے۔"
+      "hi": "वर्तमान घटना इस संस्थागत संरचना की पहली ठोस परीक्षा नहीं है। सितंबर 2019 में, केकेएनपीपी में एक घटना जिसमें मैलवेयर \"डीट्रैक\" शामिल था-कथित तौर पर उत्तर कोरियाई खतरे वाले अभिनेताओं से जुड़ा हुआ था-ने कुडनकुलम स्थल पर एक प्रशासनिक नेटवर्क को प्रभावित किया। उस समय, एनपीसीआइएल ने एक समान स्पष्टीकरण दियाः प्रभावित नेटवर्क प्रकृति में प्रशासनिक था और परिचालन रिएक्टर प्रणालियों से पूरी तरह से अलग था। रिएक्टर परिचालन प्रणाली सुरक्षित रही। सितंबर 2019 में संचालित ठोस घटना-प्रतिक्रिया वास्तुकला ने प्रभावित नेटवर्क से समझौता करने में सफलता हासिल की, परमाणु परिचालन प्रणालियों की रक्षा की, और संयंत्र के निरंतर सुरक्षित संचालन को सक्षम किया।",
+      "en": "The current incident is not the first substantive test of this institutional architecture. In September 2019, an incident at KKNPP involving the malware \"DTrack\" — reportedly linked to North Korean threat actors — affected an administrative network at the Kudankulam site. At that time, NPCIL provided a substantively similar clarification: the affected network was administrative in nature and was completely separated from the operational reactor systems. The reactor operational systems remained secure. The substantive incident-response architecture that operated in September 2019 successfully contained the compromise to the affected network, protected the nuclear operational systems, and enabled continued safe operation of the plant.",
+      "ur": "موجودہ واقعہ اس ادارہ جاتی فن تعمیر کا پہلا ٹھوس امتحان نہیں ہے۔ ستمبر 2019 میں، کے کے این پی پی میں ایک واقعہ جس میں میلویئر \"ڈی ٹریک\" شامل تھا-مبینہ طور پر شمالی کوریا کے خطرے سے دوچار اداکاروں سے منسلک تھا-نے کڈانکولم سائٹ پر ایک انتظامی نیٹ ورک کو متاثر کیا۔ اس وقت، این پی سی آئی ایل نے ایک ایسی ہی وضاحت فراہم کی: متاثرہ نیٹ ورک انتظامی نوعیت کا تھا اور آپریشنل ری ایکٹر سسٹم سے مکمل طور پر الگ تھا۔ ری ایکٹر آپریشنل سسٹم محفوظ رہا۔ ستمبر 2019 میں چلنے والے ٹھوس واقعے کے ردعمل کے فن تعمیر نے متاثرہ نیٹ ورک سے سمجھوتہ کرنے میں کامیابی حاصل کی، جوہری آپریشنل سسٹم کی حفاظت کی، اور پلانٹ کے مسلسل محفوظ آپریشن کو فعال کیا۔"
     },
     "b12": {
-      "hi": "प्रस्तावित लद्दाख शीर्ष निकाय विधायी, कार्यकारी, वित्तीय और प्रशासनिक शक्तियों का प्रयोग करेगा-एक काफी व्यापक संस्थागत जनादेश जो केंद्र शासित प्रदेश को अपना पहला वास्तविक रूप से निर्वाचित विधायी संस्थान प्रदान करेगा। मुख्य सचिव ने प्रस्तावित ढांचे को \"देश में कहीं और समान संवैधानिक और प्रशासनिक व्यवस्थाओं की सर्वोत्तम विशेषताओं पर आधारित अपनी तरह का पहला मॉडल\" बताया-एक ठोस लक्षण वर्णन जो व्यवस्था की महत्वाकांक्षा और संस्थागत नवीनता दोनों को दर्शाता है।",
-      "en": "The proposed Ladakh apex body would exercise legislative, executive, financial, and administrative powers — a substantially comprehensive institutional mandate that would provide the Union Territory with its first genuinely elected legislative institution. The Chief Secretary described the proposed framework as \"a first-of-its-kind model drawing on the best features of similar constitutional and administrative arrangements elsewhere in the country\" — a substantive characterisation that reflects both the ambition and the institutional novelty of the arrangement.",
-      "ur": "مجوزہ لداخ اعلی ترین ادارہ قانون سازی، انتظامی، مالی اور انتظامی اختیارات کا استعمال کرے گا-ایک کافی حد تک جامع ادارہ جاتی مینڈیٹ جو مرکز کے زیر انتظام علاقے کو اس کا پہلا حقیقی طور پر منتخب قانون ساز ادارہ فراہم کرے گا۔ چیف سکریٹری نے مجوزہ فریم ورک کو \"ملک میں کہیں اور اسی طرح کے آئینی اور انتظامی انتظامات کی بہترین خصوصیات پر مبنی اپنی نوعیت کا پہلا ماڈل\" قرار دیا-ایک ٹھوس خصوصیت جو انتظام کے عزائم اور ادارہ جاتی نیاپن دونوں کی عکاسی کرتی ہے۔"
+      "hi": "जुलाई 2026 में इसी तरह की एक घटना की पुनरावृत्ति-इस बार एन. पी. सी. आई. एल. के प्रशासनिक नेटवर्क के बजाय एक ठेकेदार के नेटवर्क पर-व्यापक संरचना की ठोस संस्थागत पुष्टि प्रदान करती है। विभिन्न हमले के वाहक, विभिन्न संस्थागत अभिनेताओं ने समझौता किया, समान ठोस परिणामः परमाणु संचालन प्रणाली सुरक्षित रहती है। यह दुर्घटना नहीं है; यह भारतीय परमाणु साइबर-सुरक्षा संरचना का मूल डिजाइन है जो ठीक उसी तरह से काम कर रहा है जैसा कि इरादा था।",
+      "en": "The recurrence of a substantively similar incident in July 2026 — this time at a contractor's network rather than at an NPCIL administrative network — provides substantive institutional validation of the wider architecture. Different attack vectors, different institutional actors compromised, similar substantive outcome: nuclear operational systems remain secure. This is not accident; it is the substantive design of the Indian nuclear cyber-security architecture operating exactly as intended.",
+      "ur": "جولائی 2026 میں اسی طرح کے ایک واقعے کا دوبارہ ہونا-اس بار این پی سی آئی ایل کے انتظامی نیٹ ورک کے بجائے ایک ٹھیکیدار کے نیٹ ورک پر-وسیع تر ڈھانچے کی ٹھوس ادارہ جاتی توثیق فراہم کرتا ہے۔ مختلف حملہ ویکٹر، مختلف ادارہ جاتی اداکاروں نے سمجھوتہ کیا، اسی طرح کے ٹھوس نتائج: جوہری آپریشنل سسٹم محفوظ رہتے ہیں۔ یہ حادثاتی نہیں ہے۔ یہ ہندوستانی جوہری سائبر سیکیورٹی فن تعمیر کا ٹھوس ڈیزائن ہے جو بالکل اسی طرح کام کر رہا ہے جس کا ارادہ تھا۔"
     },
-    "b13": {
-      "hi": "केंद्र शासित प्रदेश स्तर के निकाय की संरचना और शक्तियों को लद्दाख के प्रतिनिधियों और भारत सरकार के बीच परामर्श के माध्यम से अंतिम रूप दिया जाएगा। गृह मंत्रालय के साथ परामर्श पहले से ही चल रहा है। जिला परिषदों और केंद्र शासित प्रदेश स्तर के निकाय के बीच शक्तियों का कुछ पुनर्संतुलन हो सकता है-विशिष्ट संस्थागत ढांचे को अंतिम रूप देने का एक स्वाभाविक परिणाम जिसके भीतर दोनों स्तर काम करेंगे।",
-      "en": "The structure and powers of the Union Territory-level body will be finalised through consultation between Ladakh's representatives and the Government of India. Consultations with the Ministry of Home Affairs are already underway. Some rebalancing of powers between the district Councils and the UT-level body may follow — a natural outcome of finalising the specific institutional architecture within which the two tiers will operate.",
-      "ur": "مرکز کے زیر انتظام علاقے کی سطح کے ادارے کے ڈھانچے اور اختیارات کو لداخ کے نمائندوں اور حکومت ہند کے درمیان مشاورت کے ذریعے حتمی شکل دی جائے گی۔ وزارت داخلہ کے ساتھ مشاورت پہلے ہی جاری ہے۔ ضلعی کونسلوں اور مرکز کے زیر انتظام علاقوں کی سطح کے ادارے کے درمیان اختیارات میں کچھ توازن پیدا ہو سکتا ہے-مخصوص ادارہ جاتی ڈھانچے کو حتمی شکل دینے کا ایک فطری نتیجہ جس کے اندر دونوں درجے کام کریں گے۔"
+    "b13.title": {
+      "hi": "के. के. एन. पी. पी. डेटा लीक पर एक नजर में एन. पी. सी. आई. एल. का स्पष्टीकरण",
+      "en": "NPCIL Clarification on KKNPP Data Leak at a Glance",
+      "ur": "کے کے این پی پی ڈیٹا لیک پر این پی سی آئی ایل کی وضاحت ایک نظر میں"
     },
-    "b14": {
-      "hi": "तीन स्तरीय निर्वाचित संरचना",
-      "en": "The three-tier elected structure",
-      "ur": "تین درجے کا منتخب ڈھانچہ"
+    "b13.itemlbl.0": {
+      "hi": "बयान की तारीख",
+      "en": "Statement date",
+      "ur": "بیان کی تاریخ"
+    },
+    "b13.itemval.0": {
+      "hi": "15 जुलाई 2026 (बुधवार)",
+      "en": "15 July 2026 (Wednesday)",
+      "ur": "15 جولائی 2026 (بدھ)"
+    },
+    "b13.itemlbl.1": {
+      "hi": "वक्तव्य जारी करने वाला निकाय",
+      "en": "Statement issuing body",
+      "ur": "بیان جاری کرنے والا ادارہ"
+    },
+    "b13.itemval.1": {
+      "hi": "न्यूक्लियर पावर कॉर्पोरेशन ऑफ इंडिया लिमिटेड (एन. पी. सी. आई. एल.)",
+      "en": "Nuclear Power Corporation of India Limited (NPCIL)",
+      "ur": "نیوکلیئر پاور کارپوریشن آف انڈیا لمیٹڈ (این پی سی آئی ایل)"
+    },
+    "b13.itemlbl.2": {
+      "hi": "द्वारा हस्ताक्षरित",
+      "en": "Signed by",
+      "ur": "کے ذریعے دستخط کیے گئے"
+    },
+    "b13.itemval.2": {
+      "hi": "प्रतीक अग्रवाल, कार्यकारी निदेशक (सी. पी. एंड सी. सी.), उत्कृष्ट वैज्ञानिक, एन. पी. सी. आई. एल.",
+      "en": "Prateek Agrawal, Executive Director (CP&CC), Outstanding Scientist, NPCIL",
+      "ur": "پرتیک اگروال، ایگزیکٹو ڈائریکٹر (سی پی اینڈ سی سی)، بقایا سائنسدان، این پی سی آئی ایل"
+    },
+    "b13.itemlbl.3": {
+      "hi": "से जारी किया गया बयान",
+      "en": "Statement issued from",
+      "ur": "سے جاری کردہ بیان"
+    },
+    "b13.itemval.3": {
+      "hi": "विक्रम साराभाई भवन, अनुषक्तिनगर, मुंबई",
+      "en": "Vikram Sarabhai Bhavan, Anushaktinagar, Mumbai",
+      "ur": "وکرم سارا بھائی بھون، انوشکتی نگر، ممبئی"
+    },
+    "b13.itemlbl.4": {
+      "hi": "सुविधा",
+      "en": "Facility",
+      "ur": "سہولت"
+    },
+    "b13.itemval.4": {
+      "hi": "कुडनकुलम परमाणु ऊर्जा परियोजना (के. के. एन. पी. पी.) इकाइयाँ 3 और 4",
+      "en": "Kudankulam Nuclear Power Project (KKNPP) Units 3 & 4",
+      "ur": "کڈانکولم نیوکلیئر پاور پروجیکٹ (کے کے این پی پی) یونٹ 3 اور 4"
+    },
+    "b13.itemlbl.5": {
+      "hi": "स्थान",
+      "en": "Location",
+      "ur": "مقام"
+    },
+    "b13.itemval.5": {
+      "hi": "तमिलनाडु",
+      "en": "Tamil Nadu",
+      "ur": "تامل ناڈو"
+    },
+    "b13.itemlbl.6": {
+      "hi": "के. के. एन. पी. पी. का महत्व",
+      "en": "KKNPP significance",
+      "ur": "کے کے این پی پی کی اہمیت"
+    },
+    "b13.itemval.6": {
+      "hi": "भारत का सबसे बड़ा परमाणु ऊर्जा केंद्र",
+      "en": "India's largest nuclear power station",
+      "ur": "ہندوستان کا سب سے بڑا جوہری بجلی گھر"
+    },
+    "b13.itemlbl.7": {
+      "hi": "इकाइयाँ 1 और 2",
+      "en": "Units 1 & 2",
+      "ur": "اکائیاں 1 اور 2"
+    },
+    "b13.itemval.7": {
+      "hi": "ऑपरेशनल",
+      "en": "Operational",
+      "ur": "آپریشنل"
+    },
+    "b13.itemlbl.8": {
+      "hi": "इकाइयाँ 3 और 4",
+      "en": "Units 3 & 4",
+      "ur": "اکائیاں 3 اور 4"
+    },
+    "b13.itemval.8": {
+      "hi": "रूस के सहयोग से निर्माणाधीन",
+      "en": "Under construction with Russian collaboration",
+      "ur": "روس کے تعاون سے زیر تعمیر"
+    },
+    "b13.itemlbl.9": {
+      "hi": "विचाराधीन अनुबंध",
+      "en": "Contract in question",
+      "ur": "زیر بحث معاہدہ"
+    },
+    "b13.itemval.9": {
+      "hi": "ई. पी. सी. सामान्य सेवा-संयंत्र संतुलन (बी. ओ. पी.) पैकेज",
+      "en": "EPC Common Services-Balance of Plant (BoP) package",
+      "ur": "ای پی سی کامن سروسز-بیلنس آف پلانٹ (بی او پی) پیکیج"
+    },
+    "b13.itemlbl.10": {
+      "hi": "ठेका दिया गया",
+      "en": "Contract awarded",
+      "ur": "معاہدہ منظور کر لیا گیا"
+    },
+    "b13.itemval.10": {
+      "hi": "2018 सार्वजनिक निविदा के माध्यम से",
+      "en": "2018 through public tender",
+      "ur": "2018 پبلک ٹینڈر کے ذریعے"
+    },
+    "b13.itemlbl.11": {
+      "hi": "अनुबंध पुरस्कार विजेता",
+      "en": "Contract awardee",
+      "ur": "کنٹریکٹ ایوارڈ یافتہ"
+    },
+    "b13.itemval.11": {
+      "hi": "रिलायंस इन्फ्रास्ट्रक्चर लिमिटेड",
+      "en": "Reliance Infrastructure Limited",
+      "ur": "ریلائنس انفراسٹرکچر لمیٹڈ"
+    },
+    "b13.itemlbl.12": {
+      "hi": "अनुबंध का दायरा",
+      "en": "Contract scope",
+      "ur": "معاہدے کا دائرہ کار"
+    },
+    "b13.itemval.12": {
+      "hi": "इंजीनियरिंग, खरीद/आपूर्ति, निर्माण, सामान्य सेवा सुविधाओं को चालू करना।",
+      "en": "Engineering, procurement/supply, construction, commissioning of common service facilities",
+      "ur": "انجینئرنگ، خریداری/سپلائی، تعمیر، مشترکہ خدمات کی سہولیات کا آغاز"
+    },
+    "b13.itemlbl.13": {
+      "hi": "शामिल सुविधाओं की प्रकृति",
+      "en": "Nature of facilities covered",
+      "ur": "احاطہ کردہ سہولیات کی نوعیت"
+    },
+    "b13.itemval.13": {
+      "hi": "पारंपरिक (ताप विद्युत संयंत्रों और प्रक्रिया उद्योगों के समान)",
+      "en": "Conventional (similar to thermal power plants and process industries)",
+      "ur": "روایتی (تھرمل پاور پلانٹس اور پروسیس انڈسٹریز کی طرح)"
+    },
+    "b13.itemlbl.14": {
+      "hi": "रिसाव वाली सामग्री की प्रकृति",
+      "en": "Nature of leaked material",
+      "ur": "لیک ہونے والے مواد کی نوعیت"
+    },
+    "b13.itemval.14": {
+      "hi": "पारंपरिक बी. ओ. पी.: इंजीनियरिंग ड्राइंग, निरीक्षण रिकॉर्ड, आपूर्तिकर्ता जानकारी, बीमा कागजात, लेआउट",
+      "en": "Conventional BoP: engineering drawings, inspection records, supplier information, insurance papers, layouts",
+      "ur": "روایتی بی او پی: انجینئرنگ ڈرائنگ، معائنہ ریکارڈ، سپلائر کی معلومات، بیمہ کے کاغذات، ترتیب"
+    },
+    "b13.itemlbl.15": {
+      "hi": "शामिल नहीं है",
+      "en": "NOT included",
+      "ur": "شامل نہیں"
+    },
+    "b13.itemval.15": {
+      "hi": "परमाणु सुरक्षा प्रणालियाँ; परमाणु सुरक्षा प्रणालियाँ; रिएक्टर डिजाइन डेटा; रिएक्टर नियंत्रण प्रणालियाँ",
+      "en": "Nuclear safety systems; nuclear security systems; reactor design data; reactor control systems",
+      "ur": "نیوکلیئر سیفٹی سسٹم ؛ نیوکلیئر سیکیورٹی سسٹم ؛ ری ایکٹر ڈیزائن ڈیٹا ؛ ری ایکٹر کنٹرول سسٹم"
+    },
+    "b13.itemlbl.16": {
+      "hi": "रैनसमवेयर समूह ने दावा किया",
+      "en": "Ransomware group claimed",
+      "ur": "رینسم ویئر گروپ کا دعوی"
+    },
+    "b13.itemval.16": {
+      "hi": "\"वर्ल्ड लीक्स\"",
+      "en": "\"World Leaks\"",
+      "ur": "\"ورلڈ لیکس\""
+    },
+    "b13.itemlbl.17": {
+      "hi": "रिपोर्ट की गई डेटा मात्रा",
+      "en": "Reported data volume",
+      "ur": "ڈیٹا حجم کی اطلاع دی گئی"
+    },
+    "b13.itemval.17": {
+      "hi": "लगभग 19,000 फाइलें, लगभग 14 जीबी",
+      "en": "Approximately 19,000 files, nearly 14 GB",
+      "ur": "تقریبا 19, 000 فائلیں، تقریبا 14 جی بی"
+    },
+    "b13.itemlbl.18": {
+      "hi": "जाँच-पड़ताल",
+      "en": "Investigation",
+      "ur": "تفتیش"
+    },
+    "b13.itemval.18": {
+      "hi": "सी. ई. आर. टी.-इन (भारतीय कंप्यूटर आपातकालीन प्रतिक्रिया दल), एन. पी. सी. आई. एल. और अन्य एजेंसियां",
+      "en": "CERT-In (Indian Computer Emergency Response Team), NPCIL, other agencies",
+      "ur": "سی ای آر ٹی-ان (انڈین کمپیوٹر ایمرجنسی رسپانس ٹیم)، این پی سی آئی ایل، دیگر ایجنسیاں"
+    },
+    "b13.itemlbl.19": {
+      "hi": "रिलायंस इन्फ्रास्ट्रक्चर की प्रतिक्रिया",
+      "en": "Reliance Infrastructure response",
+      "ur": "ریلائنس انفراسٹرکچر کا جواب"
+    },
+    "b13.itemval.19": {
+      "hi": "तृतीय-पक्ष सर्वर पर आंशिक डेटा उल्लंघन को स्वीकार किया गया",
+      "en": "Acknowledged partial data breach on third-party server",
+      "ur": "تیسرے فریق کے سرور پر جزوی ڈیٹا کی خلاف ورزی کا اعتراف"
+    },
+    "b13.itemlbl.20": {
+      "hi": "ऐतिहासिक मिसाल",
+      "en": "Historical precedent",
+      "ur": "تاریخی مثال"
+    },
+    "b13.itemval.20": {
+      "hi": "सितंबर 2019 केकेएनपीपी डीट्रैक मैलवेयर घटना (केवल प्रशासनिक नेटवर्क प्रभावित हुआ; रिएक्टर सिस्टम सुरक्षित रहे)",
+      "en": "September 2019 KKNPP DTrack malware incident (administrative network only affected; reactor systems remained secure)",
+      "ur": "ستمبر 2019 کے کے این پی پی ڈی ٹریک میلویئر واقعہ (صرف انتظامی نیٹ ورک متاثر ہوا ؛ ری ایکٹر سسٹم محفوظ رہے)"
+    },
+    "b13.itemlbl.21": {
+      "hi": "परमाणु साइबर-सुरक्षा संरचना",
+      "en": "Nuclear cyber-security architecture",
+      "ur": "نیوکلیئر سائبر سیکیورٹی فن تعمیر"
+    },
+    "b13.itemval.21": {
+      "hi": "वायु अंतराल; समर्पित बुनियादी ढांचा; संस्थागत नियंत्रण; नियामक निरीक्षण (एईआरबी)",
+      "en": "Air gaps; dedicated infrastructure; institutional controls; regulatory oversight (AERB)",
+      "ur": "فضائی خلا ؛ وقف شدہ بنیادی ڈھانچہ ؛ ادارہ جاتی کنٹرول ؛ ریگولیٹری نگرانی (اے ای آر بی)"
+    },
+    "b13.itemlbl.22": {
+      "hi": "अंतर्राष्ट्रीय संरेखण",
+      "en": "International alignment",
+      "ur": "بین الاقوامی صف بندی"
+    },
+    "b13.itemval.22": {
+      "hi": "आई. ए. ई. ए. परमाणु सुरक्षा श्रृंखला मार्गदर्शन",
+      "en": "IAEA Nuclear Security Series guidance",
+      "ur": "آئی اے ای اے نیوکلیئر سیکیورٹی سیریز گائیڈنس"
+    },
+    "b13.itemlbl.23": {
+      "hi": "भारत की वर्तमान परमाणु क्षमता",
+      "en": "India's current nuclear capacity",
+      "ur": "بھارت کی موجودہ جوہری صلاحیت"
+    },
+    "b13.itemval.23": {
+      "hi": "7 स्थानों पर 24 रिएक्टरों में 8.78 गीगावाट बिजली",
+      "en": "8.78 GW across 24 reactors at 7 sites",
+      "ur": "7 مقامات پر 24 ری ایکٹروں میں 8. 78 گیگا واٹ بجلی"
+    },
+    "b13.itemlbl.24": {
+      "hi": "भारत का परमाणु लक्ष्य",
+      "en": "India's nuclear target",
+      "ur": "بھارت کا جوہری ہدف"
+    },
+    "b13.itemval.24": {
+      "hi": "2047 तक 100 गीगावाट",
+      "en": "100 GW by 2047",
+      "ur": "2047 تک 100 گیگا واٹ"
+    },
+    "b13.itemlbl.25": {
+      "hi": "अंतरिम लक्ष्य",
+      "en": "Interim target",
+      "ur": "عبوری ہدف"
+    },
+    "b13.itemval.25": {
+      "hi": "22 जी. डब्ल्यू. 2031-32 द्वारा",
+      "en": "22 GW by 2031-32",
+      "ur": "22 GW بذریعہ 2031-32"
+    },
+    "b13.itemlbl.26": {
+      "hi": "परमाणु ऊर्जा मिशन",
+      "en": "Nuclear Energy Mission",
+      "ur": "جوہری توانائی مشن"
+    },
+    "b13.itemval.26": {
+      "hi": "घोषित केंद्रीय बजट 2026-27",
+      "en": "Announced Union Budget 2026-27",
+      "ur": "اعلان کردہ مرکزی بجٹ 2026-27"
+    },
+    "b13.itemlbl.27": {
+      "hi": "क्रॉस-संदर्भ",
+      "en": "Cross-reference",
+      "ur": "کراس حوالہ"
+    },
+    "b13.itemval.27": {
+      "hi": "मेलबर्न में ऑस्ट्रेलियाई यूरेनियम आपूर्ति समझौते को अंतिम रूप दिया गया, 9 जुलाई 2026 (भारत संवाद 10 जुलाई पृष्ठ 1)",
+      "en": "Australian uranium supply agreement finalised at Melbourne, 9 July 2026 (Bharat Samvad 10 July Page 1)",
+      "ur": "آسٹریلیائی یورینیم کی فراہمی کے معاہدے کو میلبورن میں حتمی شکل دی گئی، 9 جولائی 2026 (بھارت سمواد 10 جولائی صفحہ 1)"
+    },
+    "b14.q": {
+      "hi": "एन. पी. सी. आई. एल. दोहराता है कि सार्वजनिक डोमेन में उपलब्ध होने का दावा की जाने वाली जानकारी केवल पारंपरिक संतुलन संयंत्र (बी. ओ. पी.) सामान्य सेवा सुविधाओं से संबंधित है और किसी भी परमाणु सुरक्षा-या परमाणु सुरक्षा-संबंधित प्रणालियों या जानकारी से संबंधित नहीं है।",
+      "en": "\"NPCIL reiterates that the information claimed to be available in the public domain pertains only to conventional Balance of Plant (BoP) common service facilities and does not relate to any nuclear safety- or nuclear security-related systems or information.\"",
+      "ur": "این پی سی آئی ایل اس بات کا اعادہ کرتا ہے کہ عوامی ڈومین میں دستیاب ہونے کا دعوی کیا گیا معلومات صرف روایتی بیلنس آف پلانٹ (بی او پی) مشترکہ خدمات کی سہولیات سے متعلق ہے اور اس کا تعلق کسی بھی جوہری حفاظت یا جوہری سلامتی سے متعلق نظام یا معلومات سے نہیں ہے۔"
+    },
+    "b14.c": {
+      "hi": "- प्रतीक अग्रवाल, कार्यकारी निदेशक (सी. पी. एंड सी. सी.), एन. पी. सी. आई. एल. (प्रेस विज्ञप्ति, 15 जुलाई 2026)",
+      "en": "— Prateek Agrawal, Executive Director (CP&CC), NPCIL (Press Release, 15 July 2026)",
+      "ur": "- پرتیک اگروال، ایگزیکٹو ڈائریکٹر (سی پی اینڈ سی سی)، این پی سی آئی ایل (پریس ریلیز، 15 جولائی 2026)"
     },
     "b15": {
-      "hi": "घोषणा का संयुक्त प्रभाव पूरे लद्दाख में एक वास्तविक तीन-स्तरीय निर्वाचित लोकतांत्रिक संरचना स्थापित करना है-केंद्र शासित प्रदेश के लिए पहला। पंचायती राज संस्थान ग्राम स्तर पर काम करना जारी रखेंगे, स्थानीय शासन के सबसे तत्काल स्तर पर निर्वाचित प्रतिनिधित्व प्रदान करेंगे। सात स्वायत्त पहाड़ी विकास परिषदें जिला स्तर पर निर्वाचित प्रतिनिधित्व प्रदान करेंगी। और प्रस्तावित अनुच्छेद 371 शीर्ष निकाय केंद्र शासित प्रदेश स्तर पर निर्वाचित प्रतिनिधित्व प्रदान करेगा।",
-      "en": "The combined effect of the announcement is to establish a genuine three-tier elected democratic structure across Ladakh — a first for the Union Territory. Panchayati Raj institutions will continue to function at the village level, providing elected representation at the most immediate level of local governance. The seven Autonomous Hill Development Councils will provide elected representation at the district level. And the proposed Article 371 apex body will provide elected representation at the Union Territory level.",
-      "ur": "اس اعلان کا مشترکہ اثر پورے لداخ میں ایک حقیقی تین درجے کا منتخب جمہوری ڈھانچہ قائم کرنا ہے-جو مرکز کے زیر انتظام علاقے کے لیے پہلا ہے۔ پنچایتی راج کے ادارے گاؤں کی سطح پر کام کرتے رہیں گے، جو مقامی حکمرانی کی انتہائی فوری سطح پر منتخب نمائندگی فراہم کرتے رہیں گے۔ سات خود مختار پہاڑی ترقیاتی کونسلیں ضلعی سطح پر منتخب نمائندگی فراہم کریں گی۔ اور مجوزہ آرٹیکل 371 اعلی ترین ادارہ مرکز کے زیر انتظام علاقے کی سطح پر منتخب نمائندگی فراہم کرے گا۔"
+      "hi": "कुडनकुलम और भारत का परमाणु विस्तार प्रक्षेपवक्र",
+      "en": "Kudankulam and India's nuclear expansion trajectory",
+      "ur": "کڈانکولم اور ہندوستان کا جوہری توسیع کا راستہ"
     },
     "b16": {
-      "hi": "यह वास्तुकला लद्दाखी नागरिक समाज, लेह और कारगिल के निर्वाचित प्रतिनिधियों और पूरे क्षेत्र के सामुदायिक संगठनों द्वारा व्यक्त की गई अधिक विकेन्द्रीकरण की लंबे समय से चली आ रही मांगों के लिए पर्याप्त रूप से प्रतिक्रिया देती है। सार्थक स्वायत्त शासन की मांग-जो लद्दाख की अनूठी भौगोलिक, सांस्कृतिक, पारिस्थितिक और रणनीतिक विशेषताओं में निहित है-2019 में इस क्षेत्र के केंद्र शासित प्रदेश के दर्जे में परिवर्तन से पहले से ही सुसंगत रही है, और सोमवार की घोषणा ठोस संस्थागत प्रतिक्रिया प्रदान करती है।",
-      "en": "The architecture responds substantively to long-standing demands for greater decentralisation that have been articulated by Ladakhi civil society, elected representatives from Leh and Kargil, and community organisations across the region. The demand for meaningful autonomous governance — anchored in the unique geographical, cultural, ecological, and strategic characteristics of Ladakh — has been consistent since well before the region's transition to Union Territory status in 2019, and Monday's announcement provides the substantive institutional response.",
-      "ur": "یہ فن تعمیر زیادہ سے زیادہ وکندریقرت کے دیرینہ مطالبات کا ٹھوس جواب دیتا ہے جو لداخ سول سوسائٹی، لیہہ اور کارگل کے منتخب نمائندوں، اور پورے خطے میں کمیونٹی تنظیموں کے ذریعے بیان کیے گئے ہیں۔ بامعنی خود مختار حکمرانی کا مطالبہ-جو لداخ کی منفرد جغرافیائی، ثقافتی، ماحولیاتی اور اسٹریٹجک خصوصیات پر مبنی ہے-2019 میں خطے کی مرکز کے زیر انتظام علاقے کی حیثیت میں منتقلی سے بہت پہلے سے مستقل رہا ہے، اور پیر کا اعلان ٹھوس ادارہ جاتی ردعمل فراہم کرتا ہے۔"
+      "hi": "कुडनकुलम परमाणु ऊर्जा परियोजना भारत के महत्वाकांक्षी परमाणु ऊर्जा विस्तार के मूल केंद्र में स्थित है। बंगाल की खाड़ी के तट पर तमिलनाडु में स्थित, केकेएनपीपी भारत का सबसे बड़ा परमाणु ऊर्जा केंद्र है। रूस के रोसाटॉम के सहयोग से विकसित इकाइयाँ 1 और 2 चालू हैं और दक्षिण भारत के बिजली ग्रिड में महत्वपूर्ण योगदान दे रही हैं। इकाइयाँ 3 और 4-वर्तमान स्पष्टीकरण का विषय-रूस के निरंतर तकनीकी सहयोग के साथ निर्माणाधीन हैं, और जब वे वाणिज्यिक संचालन में प्रवेश करेंगे तो भारत की परमाणु ऊर्जा उत्पादन क्षमता में पर्याप्त वृद्धि होने की उम्मीद है।",
+      "en": "The Kudankulam Nuclear Power Project sits at the substantive heart of India's ambitious nuclear energy expansion. Located in Tamil Nadu on the Bay of Bengal coast, KKNPP is India's largest nuclear power station. Units 1 and 2, developed in collaboration with Russia's Rosatom, are operational and have been contributing substantively to southern India's electricity grid. Units 3 and 4 — the subject of the current clarification — are under construction with continued Russian technical collaboration, and are expected to substantively enhance India's nuclear power generation capacity when they enter commercial operation.",
+      "ur": "کڈانکولم نیوکلیئر پاور پروجیکٹ ہندوستان کی مہتواکانکشی جوہری توانائی کی توسیع کے بنیادی مرکز میں بیٹھا ہے۔ خلیج بنگال کے ساحل پر تامل ناڈو میں واقع، کے کے این پی پی ہندوستان کا سب سے بڑا جوہری بجلی گھر ہے۔ روس کے روزاتوم کے تعاون سے تیار کردہ یونٹ 1 اور 2 کام کر رہے ہیں اور جنوبی ہندوستان کے بجلی گرڈ میں خاطر خواہ حصہ ڈال رہے ہیں۔ یونٹ 3 اور 4-موجودہ وضاحت کا موضوع-مسلسل روسی تکنیکی تعاون کے ساتھ زیر تعمیر ہیں، اور توقع ہے کہ جب وہ تجارتی آپریشن میں داخل ہوں گے تو ہندوستان کی جوہری توانائی پیدا کرنے کی صلاحیت میں خاطر خواہ اضافہ ہوگا۔"
     },
     "b17": {
-      "hi": "आगे क्या होगा?",
-      "en": "What comes next",
-      "ur": "آگے کیا ہوگا؟"
+      "hi": "के. के. एन. पी. पी. का महत्वपूर्ण संस्थागत महत्व इसके परिचालन उत्पादन से परे है। यह संयंत्र भारत और रूस के बीच सबसे महत्वपूर्ण असैन्य-परमाणु साझेदारी में से एक का प्रतिनिधित्व करता है, जो परमाणु रिएक्टर डिजाइन, ईंधन आपूर्ति, तकनीकी सहायता और कौशल के आदान-प्रदान में दशकों के संस्थागत सहयोग से जुड़ा हुआ है। जैसे-जैसे भारत का परमाणु विस्तार प्रक्षेपवक्र 2047 तक 100 जी. डब्ल्यू. के लक्ष्य की ओर बढ़ रहा है-सात स्थानों पर 24 रिएक्टरों में वर्तमान 8.78 जी. डब्ल्यू. से-विस्तारित पोर्टफोलियो में कुडनकुलम की महत्वपूर्ण भूमिका पर्याप्त बनी हुई है।",
+      "en": "The substantive institutional significance of KKNPP extends beyond its operational output. The plant represents one of the most substantial civil-nuclear partnerships between India and Russia, anchored by decades of institutional cooperation across nuclear reactor design, fuel supply, technical support, and skills exchange. As India's nuclear expansion trajectory progresses toward the 100 GW by 2047 target — from the current 8.78 GW across 24 reactors at seven sites — Kudankulam's substantive role in the expanded portfolio remains substantial.",
+      "ur": "کے کے این پی پی کی بنیادی ادارہ جاتی اہمیت اس کی آپریشنل پیداوار سے آگے بڑھ جاتی ہے۔ یہ پلانٹ ہندوستان اور روس کے درمیان سب سے زیادہ خاطر خواہ سول-نیوکلیئر شراکت داریوں میں سے ایک کی نمائندگی کرتا ہے، جو جوہری ری ایکٹر کے ڈیزائن، ایندھن کی فراہمی، تکنیکی مدد اور مہارت کے تبادلے میں کئی دہائیوں کے ادارہ جاتی تعاون سے جڑا ہوا ہے۔ جیسے جیسے ہندوستان کی جوہری توسیع کی رفتار 2047 تک 100 جی ڈبلیو کے ہدف کی طرف بڑھ رہی ہے-سات مقامات پر 24 ری ایکٹرز میں موجودہ 8. 78 جی ڈبلیو سے-توسیع شدہ پورٹ فولیو میں کڈانکولم کا ٹھوس کردار کافی ہے۔"
     },
     "b18": {
-      "hi": "नई परिषदों के चुनाव होने से पहले, पांच नए जिलों के लिए निर्वाचन क्षेत्रों के परिसीमन के साथ-साथ एल. ए. एच. डी. सी. अधिनियम में मामूली संशोधन की आवश्यकता है। प्रशासन से आने वाले हफ्तों में परिसीमन और संबंधित औपचारिकताएं शुरू करने की उम्मीद है। सोमवार की प्रेस कॉन्फ्रेंस के दौरान चुनावों के लिए कोई विशिष्ट समय सीमा घोषित नहीं की गई थी; अधिकारियों ने संकेत दिया कि प्रक्रिया आवश्यक संस्थागत तैयारियों को पूरा करने के लिए आवश्यक गति से आगे बढ़ेगी।",
-      "en": "Before elections to the new Councils can be held, minor amendments to the LAHDC Act are required alongside the delimitation of constituencies for the five new districts. The administration is expected to initiate the delimitation and related formalities in the coming weeks. No specific timeline for the elections was announced during Monday's press conference; officials indicated that the process would move forward at the pace required to complete the necessary institutional preparations.",
-      "ur": "نئی کونسلوں کے انتخابات ہونے سے پہلے، پانچ نئے اضلاع کے حلقوں کی حد بندی کے ساتھ ساتھ ایل اے ایچ ڈی سی ایکٹ میں معمولی ترامیم کی ضرورت ہے۔ انتظامیہ سے توقع کی جاتی ہے کہ وہ آنے والے ہفتوں میں حد بندی اور متعلقہ رسمی کارروائیاں شروع کرے گی۔ پیر کی پریس کانفرنس کے دوران انتخابات کے لیے کوئی مخصوص ٹائم لائن کا اعلان نہیں کیا گیا تھا۔ حکام نے اشارہ دیا کہ ضروری ادارہ جاتی تیاریوں کو مکمل کرنے کے لیے ضروری رفتار سے عمل آگے بڑھے گا۔"
+      "hi": "100 जी. डब्ल्यू. लक्ष्य स्वयं विश्व स्तर पर कहीं भी सबसे महत्वाकांक्षी ठोस स्वच्छ-ऊर्जा विस्तार कार्यक्रमों में से एक का प्रतिनिधित्व करता है। इस प्रक्षेपवक्र में भारत की सिद्ध दबाव भारी जल रिएक्टर (पी. एच. डब्ल्यू. आर.) प्रौद्योगिकी, अंतर्राष्ट्रीय साझेदारी (कुडनकुलम में रूस के साथ और अन्य प्रस्तावित अंतर्राष्ट्रीय साझेदारी) के माध्यम से आयातित हल्के जल रिएक्टर (एल. डब्ल्यू. आर.) प्रौद्योगिकी और उभरते हुए लघु मॉड्यूलर रिएक्टर (एस. एम. आर.) प्रौद्योगिकी को पर्याप्त पैमाने पर बढ़ाने की परिकल्पना की गई है। केंद्रीय बजट में घोषित परमाणु ऊर्जा मिशन इस विस्तार के लिए ठोस संस्थागत और वित्तीय संरचना प्रदान करता है। 9 जुलाई 2026 को मेलबर्न में अंतिम रूप दी गई ठोस ऑस्ट्रेलियाई यूरेनियम आपूर्ति व्यवस्था (10 जुलाई को भारत संवाद के पृष्ठ 1 में शामिल) इस विस्तार की आवश्यकता के लिए ठोस अपस्ट्रीम आपूर्ति प्रतिबद्धताओं में से एक प्रदान करती है।",
+      "en": "The 100 GW target itself represents one of the most ambitious substantive clean-energy expansion programmes anywhere globally. The trajectory envisages substantial scaling of India's proven Pressurised Heavy Water Reactor (PHWR) technology, imported Light Water Reactor (LWR) technology through international partnerships (with Russia at Kudankulam and other proposed international partnerships), and emerging Small Modular Reactor (SMR) technology. The Nuclear Energy Mission announced in the Union Budget 2026-27 provides the substantive institutional and financial architecture for this expansion. The substantive Australian uranium supply arrangement finalised at Melbourne on 9 July 2026 (covered in Bharat Samvad's Page 1 on 10 July) provides one of the substantive upstream supply commitments that this expansion requires.",
+      "ur": "100 جی ڈبلیو کا ہدف خود عالمی سطح پر کہیں بھی سب سے زیادہ مہتواکانکشی ٹھوس صاف توانائی کے توسیعی پروگراموں میں سے ایک کی نمائندگی کرتا ہے۔ اس ٹریجیکٹوری میں ہندوستان کی ثابت شدہ پریشرائزڈ ہیوی واٹر ری ایکٹر (پی ایچ ڈبلیو آر) ٹیکنالوجی، درآمد شدہ لائٹ واٹر ری ایکٹر (ایل ڈبلیو آر) ٹیکنالوجی کو بین الاقوامی شراکت داری (کڈانکولم میں روس کے ساتھ اور دیگر مجوزہ بین الاقوامی شراکت داری)، اور ابھرتی ہوئی سمال ماڈیولر ری ایکٹر (ایس ایم آر) ٹیکنالوجی کے ذریعے کافی پیمانے پر بڑھانے کا تصور کیا گیا ہے۔ مرکزی بجٹ 2026-27 میں اعلان کردہ نیوکلیئر انرجی مشن اس توسیع کے لیے ٹھوس ادارہ جاتی اور مالی ڈھانچہ فراہم کرتا ہے۔ 9 جولائی 2026 کو میلبورن میں آسٹریلیا کے یورینیم کی فراہمی کے ٹھوس انتظام کو حتمی شکل دی گئی (جس کا احاطہ 10 جولائی کو بھارت سمواد کے صفحہ 1 میں کیا گیا ہے) اس توسیع کے لیے درکار ٹھوس اپ اسٹریم سپلائی وعدوں میں سے ایک فراہم کرتا ہے۔"
     },
     "b19": {
-      "hi": "परिषदों के गठन के साथ-साथ, प्रशासन ने संकेत दिया है कि प्रशासनिक ढांचे के विस्तार के साथ-साथ चरणों में अतिरिक्त जिला-स्तरीय पदों का निर्माण किया जाएगा, वरिष्ठ अधिकारी शिकायत निवारण और निगरानी के लिए नवनिर्मित जिलों-विशेष रूप से दूरदराज और सीमावर्ती क्षेत्रों का नियमित दौरा करेंगे।",
-      "en": "Alongside the Councils' constitution, the administration has indicated that additional district-level posts will be created in phases as the administrative structure expands, senior officers will undertake regular visits to the newly created districts — especially remote and border areas — for grievance redressal and monitoring of development projects, and consultations on the Article 371 apex-body framework will progress in parallel.",
-      "ur": "کونسلوں کی تشکیل کے ساتھ ساتھ، انتظامیہ نے اشارہ دیا ہے کہ انتظامی ڈھانچے کی توسیع کے ساتھ ساتھ ضلعی سطح پر اضافی آسامیاں مراحل میں تشکیل دی جائیں گی، سینئر افسران شکایات کے ازالے اور نگرانی کے لیے نئے بنائے گئے اضلاع-خاص طور پر دور دراز اور سرحدی علاقوں کا باقاعدگی سے دورہ کریں گے۔ ترقیاتی منصوبوں، اور آرٹیکل 371 اپیکس باڈی فریم ورک پر مشاورت متوازی طور پر آگے بڑھے گی۔"
+      "hi": "संस्थागत प्रतिक्रिया और व्यापक संरचना",
+      "en": "The institutional response and the wider architecture",
+      "ur": "ادارہ جاتی ردعمل اور وسیع تر فن تعمیر"
     },
     "b20": {
-      "hi": "इसका क्या मतलब है",
-      "en": "What it signifies",
-      "ur": "اس کا کیا مطلب ہے"
+      "hi": "15 जुलाई की घटना के लिए ठोस संस्थागत प्रतिक्रिया भारत के परमाणु क्षेत्र के शासन ढांचे की परिपक्वता को दर्शाती है। कथित डेटा लीक के बारे में मीडिया रिपोर्टों के उभरने के कुछ घंटों के भीतर, NPCIL के संस्थागत संचार ढांचे ने एक औपचारिक, हस्ताक्षरित, ठोस रूप से विस्तृत प्रेस विज्ञप्ति जारी की थी जिसमें विशिष्ट तकनीकी प्रश्नों को संबोधित किया गया था, संस्थागत तथ्यों को स्पष्ट किया गया था, और ठोस आश्वासन दिया गया था कि परिचालन रिएक्टर प्रणालियां सुरक्षित रहीं। यह काफी हद तक ठोस प्रतिक्रिया पैटर्न है जो परिपक्व परमाणु-ऊर्जा ऑपरेटरों ने वैश्विक स्तर पर घटना की इस श्रेणी के लिए विकसित किया हैः तेज, पारदर्शी, तकनीकी रूप से ठोस और संस्थागत रूप से विश्वसनीय।",
+      "en": "The substantive institutional response to the 15 July incident reflects the maturity of India's nuclear-sector governance architecture. Within hours of media reports emerging about the alleged data leak, NPCIL's institutional communications architecture had produced a formal, signed, substantively detailed press release that addressed the specific technical questions, clarified the institutional facts, and provided the substantive assurance that the operational reactor systems remained secure. This is substantially the substantive response pattern that mature nuclear-power operators globally have developed for exactly this category of incident: rapid, transparent, technically substantive, and institutionally credible.",
+      "ur": "15 جولائی کے واقعے پر ٹھوس ادارہ جاتی ردعمل ہندوستان کے جوہری شعبے کی حکمرانی کے ڈھانچے کی پختگی کی عکاسی کرتا ہے۔ مبینہ ڈیٹا لیک کے بارے میں میڈیا رپورٹس سامنے آنے کے چند گھنٹوں کے اندر، این پی سی آئی ایل کے ادارہ جاتی مواصلاتی ڈھانچے نے ایک باضابطہ، دستخط شدہ، ٹھوس طور پر تفصیلی پریس ریلیز تیار کی تھی جس میں مخصوص تکنیکی سوالات کو حل کیا گیا تھا، ادارہ جاتی حقائق کو واضح کیا گیا تھا، اور اس بات کی ٹھوس یقین دہانی کرائی گئی تھی کہ آپریشنل ری ایکٹر سسٹم محفوظ رہے۔ یہ کافی حد تک ٹھوس ردعمل کا نمونہ ہے جو عالمی سطح پر پختہ جوہری توانائی آپریٹرز نے واقعے کے بالکل اسی زمرے کے لیے تیار کیا ہے: تیز، شفاف، تکنیکی طور پر ٹھوس، اور ادارہ جاتی طور پر قابل اعتماد۔"
     },
     "b21": {
-      "hi": "लद्दाख के लिए, यह घोषणा केंद्र शासित प्रदेश की स्थिति का प्रत्येक जिले में सार्थक लोकतांत्रिक स्व-शासन में सार्थक अनुवाद का प्रतीक है। भारत के व्यापक संघीय ढांचे के लिए, उभरता हुआ लद्दाख मॉडल-पंचायतों, पहाड़ी परिषदों और एक अनुच्छेद 371 शीर्ष निकाय को मिलाकर निर्वाचित प्रतिनिधित्व के तीन स्तर-एक महत्वपूर्ण रूप से नया संस्थागत डिजाइन प्रदान करता है जो अन्य अद्वितीय भौगोलिक और सांस्कृतिक संदर्भों में शासन के लिए एक संदर्भ मॉडल के रूप में काम कर सकता है। रणनीतिक रूप से परिणामी हिमालयी केंद्र शासित प्रदेश के लिए, लोकतांत्रिक स्व-शासन का गहरा होना राष्ट्रीय रणनीतिक हित के साथ स्थानीय आत्मनिर्णय के ठोस एकीकरण को मजबूत करता है।",
-      "en": "For Ladakh, the announcement marks the substantive translation of Union Territory status into meaningful democratic self-governance across every district. For India's broader federal architecture, the emerging Ladakh model — three tiers of elected representation combining Panchayats, Hill Councils, and an Article 371 apex body — provides a substantively new institutional design that may serve as a reference model for governance in other unique geographical and cultural contexts. For the strategically consequential Himalayan Union Territory, the deepening of democratic self-governance strengthens the substantive integration of local self-determination with national strategic interest.",
-      "ur": "لداخ کے لیے، یہ اعلان ہر ضلع میں مرکز کے زیر انتظام علاقے کی حیثیت کے بامعنی جمہوری خود مختاری میں ٹھوس ترجمہ کی نشاندہی کرتا ہے۔ ہندوستان کے وسیع تر وفاقی ڈھانچے کے لیے، ابھرتا ہوا لداخ ماڈل-پنچایتوں، پہاڑی کونسلوں کو ملا کر منتخب نمائندگی کے تین درجے، اور ایک آرٹیکل 371 اعلی ادارہ-ایک ٹھوس طور پر نیا ادارہ جاتی ڈیزائن فراہم کرتا ہے جو دیگر منفرد جغرافیائی اور ثقافتی سیاق و سباق میں حکمرانی کے لیے ایک حوالہ ماڈل کے طور پر کام کر سکتا ہے۔ حکمت عملی کے نتیجے میں ہمالیائی مرکز کے زیر انتظام علاقے کے لیے، جمہوری خود مختاری کو گہرا کرنا قومی اسٹریٹجک مفاد کے ساتھ مقامی خود ارادیت کے ٹھوس انضمام کو مضبوط کرتا ہے۔"
+      "hi": "सी. ई. आर. टी.-इन, एन. पी. सी. आई. एल. और अन्य संस्थागत कर्ताओं द्वारा की जा रही समानांतर जांच तीसरे पक्ष के डेटा एक्सपोजर के सटीक दायरे को पर्याप्त रूप से निर्धारित करेगी। रिलायंस इंफ्रास्ट्रक्चर लिमिटेड ने स्वीकार किया है कि उसकी ओर से तीसरे पक्ष द्वारा प्रबंधित सर्वरों पर आंशिक डेटा उल्लंघन हुआ था। ठेकेदार के नेटवर्क में उल्लंघन के लिए ठोस संस्थागत जवाबदेही-जिसमें मूल वाणिज्यिक और नियामक परिणाम शामिल हैं-अब चल रही ठोस जांच प्रक्रियाओं के माध्यम से निर्धारित की जाएगी।",
+      "en": "The parallel investigation being conducted by CERT-In, NPCIL, and other institutional actors will substantively determine the exact scope of the third-party data exposure. Reliance Infrastructure Ltd has acknowledged that a partial data breach did occur on servers managed on its behalf by a third party. The substantive institutional accountability for the breach at the contractor's network — including the substantive commercial and regulatory consequences — will be determined through the substantive investigative processes now underway.",
+      "ur": "سی ای آر ٹی-ان، این پی سی آئی ایل، اور دیگر ادارہ جاتی اداکاروں کی طرف سے کی جانے والی متوازی تحقیقات تیسرے فریق کے ڈیٹا کی نمائش کے صحیح دائرہ کار کا ٹھوس طور پر تعین کرے گی۔ ریلائنس انفراسٹرکچر لمیٹڈ نے تسلیم کیا ہے کہ اس کی طرف سے تیسرے فریق کے زیر انتظام سرورز پر جزوی ڈیٹا کی خلاف ورزی ہوئی ہے۔ ٹھیکیدار کے نیٹ ورک میں خلاف ورزی کے لیے ٹھوس ادارہ جاتی جوابدہی-بشمول ٹھوس تجارتی اور ریگولیٹری نتائج-کا تعین اب جاری ٹھوس تفتیشی عمل کے ذریعے کیا جائے گا۔"
     },
     "b22": {
-      "hi": "अभी के लिए, 14 जुलाई 2026 की सुबह, संस्थागत रिकॉर्ड में जो बात है वह यह हैः सात स्वायत्त पहाड़ी विकास परिषदें जहां दो थीं; एक अनुकूलित अनुच्छेद 371 ढांचे के तहत एक प्रस्तावित केंद्र शासित प्रदेश-स्तरीय शीर्ष निकाय; गांव, जिले और केंद्र शासित प्रदेश में फैले तीन-स्तरीय निर्वाचित लोकतांत्रिक ढांचे; और पूरे लद्दाख में वास्तविक लोकतांत्रिक विकेंद्रीकरण की लंबे समय से चली आ रही मांगों की ठोस पूर्ति। मुख्य सचिव ने इसे एक नए शासन मॉडल की दिशा में \"पहला दृढ़ कदम\" बताया। सोमवार की घोषणा के ठोस साक्ष्य पर, यह विवरण पूरी तरह से उचित प्रतीत होता है।",
-      "en": "For now, on the morning of 14 July 2026, what stands on the institutional record is this: seven Autonomous Hill Development Councils where there were two; a proposed Union Territory-level apex body under a customised Article 371 framework; a three-tier elected democratic structure spanning village, district, and Union Territory; and the substantive fulfilment of long-standing demands for genuine democratic decentralisation across Ladakh. The Chief Secretary described it as \"the first firm step\" toward a new governance model. On the substantive evidence of Monday's announcement, that description appears entirely justified.",
-      "ur": "ابھی کے لیے، 14 جولائی 2026 کی صبح، ادارہ جاتی ریکارڈ پر جو چیز کھڑی ہے وہ یہ ہے: سات خود مختار پہاڑی ترقیاتی کونسلیں جہاں دو تھیں ؛ ایک حسب ضرورت آرٹیکل 371 فریم ورک کے تحت ایک مجوزہ مرکز کے زیر انتظام علاقے کی سطح کا اعلی ادارہ ؛ گاؤں، ضلع اور مرکز کے زیر انتظام علاقے میں پھیلا ہوا تین درجے کا منتخب جمہوری ڈھانچہ ؛ اور پورے لداخ میں حقیقی جمہوری وکندریقرت کے دیرینہ مطالبات کی ٹھوس تکمیل۔ چیف سکریٹری نے اسے ایک نئے گورننس ماڈل کی طرف \"پہلا پختہ قدم\" قرار دیا۔ پیر کے اعلان کے ٹھوس ثبوت پر، یہ وضاحت مکمل طور پر جائز معلوم ہوتی ہے۔"
+      "hi": "हालांकि, एन. पी. सी. आई. एल. से ठोस संस्थागत संदेश यह है कि व्यापक संरचना-स्तरीय अलगाव, समर्पित बुनियादी ढांचा, संस्थागत नियंत्रण, नियामक निरीक्षण, अंतर्राष्ट्रीय मानक संरेखण-ने परमाणु-महत्वपूर्ण प्रणालियों को किसी भी समझौते से काफी हद तक बचाया है। यह ठोस संस्थागत परिणाम है कि परमाणु साइबर-सुरक्षा संरचना में पर्याप्त निवेश विशेष रूप से देने के लिए बनाया गया है, और इसे पर्याप्त रूप से वितरित किया गया है।",
+      "en": "However, the substantive institutional message from NPCIL is that the wider architecture — the tiered isolation, the dedicated infrastructure, the institutional controls, the regulatory oversight, the international-standard alignment — did substantively protect the nuclear-critical systems from any compromise. This is the substantive institutional outcome that the substantial investment in nuclear cyber-security architecture is specifically designed to deliver, and it has been substantively delivered.",
+      "ur": "تاہم، این پی سی آئی ایل کا بنیادی ادارہ جاتی پیغام یہ ہے کہ وسیع تر فن تعمیر-درجے کی تنہائی، وقف شدہ بنیادی ڈھانچہ، ادارہ جاتی کنٹرول، ریگولیٹری نگرانی، بین الاقوامی معیار کی صف بندی-نے جوہری اہم نظاموں کو کسی بھی سمجھوتے سے کافی حد تک تحفظ فراہم کیا۔ یہ ٹھوس ادارہ جاتی نتیجہ ہے کہ جوہری سائبر سیکیورٹی فن تعمیر میں خاطر خواہ سرمایہ کاری خاص طور پر فراہم کرنے کے لیے ڈیزائن کی گئی ہے، اور اسے کافی حد تک فراہم کیا گیا ہے۔"
+    },
+    "b23": {
+      "hi": "रणनीतिक रूप से इसका क्या अर्थ है",
+      "en": "What it signifies strategically",
+      "ur": "اس کی حکمت عملی سے کیا مراد ہے"
+    },
+    "b24": {
+      "hi": "के. के. एन. पी. पी. घटना का मूल संस्थागत परिणाम कई मूल आयामों में फैला हुआ है।",
+      "en": "The substantive institutional consequence of the KKNPP incident extends across multiple substantive dimensions.",
+      "ur": "کے کے این پی پی واقعے کا بنیادی ادارہ جاتی نتیجہ متعدد بنیادی جہتوں میں پھیلا ہوا ہے۔"
+    },
+    "b25": {
+      "hi": "* * भारत के परमाणु विस्तार के लिए, प्रचालन रिएक्टर प्रणालियों की ठोस संस्थागत अखंडता वह ठोस विश्वसनीयता प्रदान करती है जिसकी 2047 तक 100 गीगावाट के महत्वाकांक्षी लक्ष्य के लिए आवश्यकता होती है। परमाणु उत्पादन क्षमता में हर ठोस विस्तार जनता और अंतर्राष्ट्रीय विश्वास पर निर्भर करता है कि प्रचालन प्रणालियों की रक्षा करने वाली ठोस साइबर-सुरक्षा संरचना ठोस और विश्वसनीय है। 15 जुलाई की घटना और एन. पी. सी. आई. एल. की ठोस संस्थागत प्रतिक्रिया, यह दर्शाती है कि यह विश्वास आवश्यक है।",
+      "en": "**For India's nuclear expansion**, the substantive institutional integrity of the operational reactor systems provides the substantive credibility that the ambitious 100 GW by 2047 target requires. Every substantive expansion in nuclear generation capacity depends on public and international confidence that the substantive cyber-security architecture protecting the operational systems is substantive and reliable. The 15 July incident, and NPCIL's substantive institutional response, substantively demonstrates that this confidence is warranted.",
+      "ur": "* * ہندوستان کی جوہری توسیع کے لیے، آپریشنل ری ایکٹر سسٹم کی ٹھوس ادارہ جاتی سالمیت وہ ٹھوس ساکھ فراہم کرتی ہے جس کی 2047 تک 100 گیگا واٹ کے ہدف کے لیے ضرورت ہوتی ہے۔ جوہری پیداوار کی صلاحیت میں ہر ٹھوس توسیع عوام اور بین الاقوامی اعتماد پر منحصر ہے کہ آپریشنل سسٹم کی حفاظت کرنے والا ٹھوس سائبر سیکیورٹی ڈھانچہ ٹھوس اور قابل اعتماد ہے۔ 15 جولائی کا واقعہ، اور این پی سی آئی ایل کا ٹھوس ادارہ جاتی ردعمل، اس بات کو ثابت کرتا ہے کہ یہ اعتماد درست ہے۔"
+    },
+    "b26": {
+      "hi": "* * भारत की असैन्य-परमाणु साझेदारी के लिए, श्रेणीबद्ध अलगाव का ठोस संस्थागत प्रदर्शन देश के अंतर्राष्ट्रीय परमाणु भागीदारों-कुडनकुलम में रूस, संभावित रूप से संयुक्त राज्य अमेरिका और फ्रांस को भविष्य के विस्तार में, और महत्वपूर्ण खनिजों, ईंधन और प्रौद्योगिकी में ठोस आपूर्तिकर्ता पारिस्थितिकी तंत्र-को ठोस आश्वासन प्रदान करता है कि भारतीय परमाणु परिचालन प्रणाली अंतरराष्ट्रीय साझेदारी की आवश्यकता के अनुसार ठोस सुरक्षा संरचना को बनाए रखती है। हाल ही में मेलबर्न में छह दिन पहले अंतिम रूप दी गई ऑस्ट्रेलियाई यूरेनियम आपूर्ति व्यवस्था, इस ठोस धारणा पर काम करती है कि भारतीय असैन्य-परमाणु संचालन संस्थागत सुरक्षा के ठोस अंतर्राष्ट्रीय मानकों को पूरा करते हैं। 15 जुलाई की घटना, और एन. पी. सी. आई. एल. की ठोस प्रतिक्रिया, इस बात की पुष्टि करती है कि इन मानकों को पूरा किया जा रहा है।",
+      "en": "**For India's civil-nuclear partnerships**, the substantive institutional demonstration of tiered isolation working as designed provides substantive assurance to the country's international nuclear partners — Russia at Kudankulam, potentially the United States and France in future expansions, and the substantive supplier ecosystem across critical minerals, fuel, and technology — that Indian nuclear operational systems maintain the substantive security architecture that international partnerships require. The recent Australian uranium supply arrangement, finalised only six days ago at Melbourne, operates on the substantive assumption that Indian civil-nuclear operations meet substantive international standards of institutional security. The 15 July incident, and NPCIL's substantive response, substantively affirms that these standards are being met.",
+      "ur": "* * ہندوستان کی سول-نیوکلیئر شراکت داری کے لیے * *، ڈیزائن کے مطابق کام کرنے والے درجے کی تنہائی کا ٹھوس ادارہ جاتی مظاہرہ ملک کے بین الاقوامی جوہری شراکت داروں-روس کو کڈانکولم میں، ممکنہ طور پر امریکہ اور فرانس کو مستقبل کی توسیع میں، اور اہم معدنیات، ایندھن اور ٹیکنالوجی میں ٹھوس سپلائر ماحولیاتی نظام-کو ٹھوس یقین دہانی فراہم کرتا ہے کہ ہندوستانی جوہری آپریشنل سسٹم اس ٹھوس حفاظتی ڈھانچے کو برقرار رکھتا ہے جس کی بین الاقوامی شراکت داری کی ضرورت ہوتی ہے۔ حالیہ آسٹریلیائی یورینیم کی فراہمی کا انتظام، جسے صرف چھ دن پہلے میلبورن میں حتمی شکل دی گئی تھی، اس ٹھوس مفروضے پر چلتا ہے کہ ہندوستانی سول-نیوکلیئر آپریشنز ادارہ جاتی سلامتی کے ٹھوس بین الاقوامی معیارات پر پورا اترتے ہیں۔ 15 جولائی کا واقعہ، اور این پی سی آئی ایل کا ٹھوس جواب، اس بات کی ٹھوس تصدیق کرتا ہے کہ ان معیارات کو پورا کیا جا رہا ہے۔"
+    },
+    "b27": {
+      "hi": "भारत की साइबर-सुरक्षा संरचना के लिए अधिक व्यापक रूप से, ठोस संस्थागत प्रदर्शन स्तरीय-अलगाव मॉडल की ठोस पुष्टि प्रदान करता है कि भारत न केवल परमाणु क्षेत्र में बल्कि बिजली ग्रिड, वित्तीय प्रणालियों, परिवहन नेटवर्क और रक्षा सुविधाओं सहित महत्वपूर्ण बुनियादी ढांचे में उत्तरोत्तर लागू होता है। ठोस संस्थागत सिद्धांत-कि महत्वपूर्ण परिचालन प्रणालियों को बाहरी नेटवर्क से वास्तुशिल्प रूप से अलग किया जाना चाहिए, भले ही प्रशासनिक या ठेकेदार नेटवर्क से समझौता किया जा सके-काफी हद तक सामान्य है, परमाणु क्षेत्र के लिए विशिष्ट नहीं है।",
+      "en": "**For India's cyber-security architecture more broadly**, the substantive institutional demonstration provides substantive validation of the tiered-isolation model that India applies not only in the nuclear sector but progressively across critical infrastructure including power grids, financial systems, transportation networks, and defence facilities. The substantive institutional principle — that critical operational systems must be architecturally isolated from external networks even when administrative or contractor networks may be compromised — is substantively general, not specific to the nuclear sector.",
+      "ur": "* * ہندوستان کے سائبر سیکیورٹی فن تعمیر کے لیے زیادہ وسیع پیمانے پر * *، ٹھوس ادارہ جاتی مظاہرہ ٹائرڈ آئسولیشن ماڈل کی ٹھوس توثیق فراہم کرتا ہے کہ ہندوستان نہ صرف جوہری شعبے میں بلکہ پاور گرڈ، مالیاتی نظام، نقل و حمل کے نیٹ ورک اور دفاعی سہولیات سمیت اہم بنیادی ڈھانچے میں بتدریج لاگو ہوتا ہے۔ بنیادی ادارہ جاتی اصول-کہ اہم آپریشنل سسٹم کو تعمیراتی طور پر بیرونی نیٹ ورک سے الگ تھلگ ہونا چاہیے یہاں تک کہ جب انتظامی یا ٹھیکیدار نیٹ ورک سے سمجھوتہ کیا جا سکتا ہے-بنیادی طور پر عام ہے، جوہری شعبے کے لیے مخصوص نہیں ہے۔"
+    },
+    "b28": {
+      "hi": "भारत के सार्वजनिक क्षेत्र के अभिनेताओं के ठोस संस्थागत अनुशासन के लिए, एन. पी. सी. आई. एल. द्वारा ठोस त्वरित, स्पष्ट, पारदर्शी प्रतिक्रिया एक ठोस नमूना प्रदान करती है। ठोस तकनीकी स्पष्टता (बी. ओ. पी. बनाम परमाणु-प्रणालियों का अंतर), ठोस संस्थागत श्रेय (प्रतीक अग्रवाल ने ठोस संपर्क विवरण के साथ कार्यकारी निदेशक के रूप में हस्ताक्षर किए), ठोस प्रासंगिकता (निविदा-और-समीक्षा संरचना, ओ. ई. एम. परामर्श, तकनीकी समीक्षा), और ठोस आश्वासन (रिएक्टर संचालन सुरक्षित रहता है) का ठोस संयोजन घटना-प्रतिक्रिया संचार के लिए ठोस सर्वोत्तम अभ्यास है।",
+      "en": "**For the substantive institutional discipline of India's public-sector actors**, the substantive rapid, clear, transparent response by NPCIL provides a substantive template. The substantive combination of substantive technical clarity (the BoP vs. nuclear-systems distinction), substantive institutional attribution (Prateek Agrawal signing as Executive Director with substantive contact details), substantive contextualisation (the tender-and-review architecture, the OEM consultation, the technical review), and substantive assurance (reactor operations remain secure) is substantive best practice for incident-response communication.",
+      "ur": "ہندوستان کے سرکاری شعبے کے اداکاروں کے ٹھوس ادارہ جاتی نظم و ضبط کے لیے، این پی سی آئی ایل کی طرف سے ٹھوس تیز رفتار، واضح، شفاف ردعمل ایک ٹھوس ٹیمپلیٹ فراہم کرتا ہے۔ ٹھوس تکنیکی وضاحت (بی او پی بمقابلہ جوہری نظام کا فرق)، ٹھوس ادارہ جاتی انتساب (پرتیک اگروال نے ٹھوس رابطے کی تفصیلات کے ساتھ ایگزیکٹو ڈائریکٹر کے طور پر دستخط کیے)، ٹھوس سیاق و سباق (ٹینڈر اور جائزہ فن تعمیر، او ای ایم مشاورت، تکنیکی جائزہ)، اور ٹھوس یقین دہانی (ری ایکٹر کے آپریشن محفوظ رہتے ہیں) کا ٹھوس امتزاج واقعہ ردعمل مواصلات کے لیے ٹھوس بہترین عمل ہے۔"
+    },
+    "b29": {
+      "hi": "आगे का रास्ता",
+      "en": "The road ahead",
+      "ur": "آگے کا راستہ"
+    },
+    "b30": {
+      "hi": "तत्काल क्षितिज में, सी. ई. आर. टी.-इन जांच, एन. पी. सी. आई. एल. संस्थागत समीक्षा, और रिलायंस इन्फ्रास्ट्रक्चर लिमिटेड के साथ ठोस समन्वय तीसरे पक्ष के डेटा एक्सपोजर के सटीक दायरे और आवश्यक ठोस संस्थागत प्रतिक्रिया को निर्धारित करेगा। परमाणु ऊर्जा नियामक बोर्ड (ए. ई. आर. बी.), इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय और अन्य संस्थागत अभिनेताओं द्वारा संचालित ठोस ढांचे के तहत नियामक अनुवर्ती कार्रवाई घटना से ठोस सबक को संबोधित करेगी।",
+      "en": "In the immediate horizon, the CERT-In investigation, the NPCIL institutional review, and the substantive coordination with Reliance Infrastructure Ltd will substantively determine the exact scope of the third-party data exposure and the substantive institutional response required. Regulatory follow-up under the substantive frameworks operated by the Atomic Energy Regulatory Board (AERB), the Ministry of Electronics and Information Technology, and other institutional actors will substantively address the substantive lessons from the incident.",
+      "ur": "فوری تناظر میں، سی ای آر ٹی-ان تحقیقات، این پی سی آئی ایل ادارہ جاتی جائزہ، اور ریلائنس انفراسٹرکچر لمیٹڈ کے ساتھ ٹھوس ہم آہنگی تیسرے فریق کے ڈیٹا کی نمائش کے صحیح دائرہ کار اور مطلوبہ ٹھوس ادارہ جاتی ردعمل کا ٹھوس تعین کرے گی۔ ایٹمی توانائی ریگولیٹری بورڈ (اے ای آر بی)، الیکٹرانکس اور انفارمیشن ٹکنالوجی کی وزارت، اور دیگر ادارہ جاتی اداکاروں کے زیر انتظام ٹھوس فریم ورک کے تحت ریگولیٹری فالو اپ اس واقعے سے ٹھوس اسباق پر ٹھوس طور پر توجہ دے گا۔"
+    },
+    "b31": {
+      "hi": "मध्यम अवधि में, ठेकेदार साइबर-सुरक्षा आवश्यकताओं की ठोस संस्थागत समीक्षा-विनिर्देश, निगरानी, लेखा परीक्षा और प्रवर्तन संरचना जो भारत के परमाणु विस्तार में भाग लेने वाले विक्रेताओं की पर्याप्त संख्या को नियंत्रित करती है-को काफी बढ़ाया जाएगा। परमाणु क्षेत्र की खरीद के लिए भविष्य की सार्वजनिक-निविदा प्रक्रियाओं में काफी मजबूत ठेकेदार साइबर-सुरक्षा आवश्यकताओं का ठोस एकीकरण इस तरह की घटनाओं की पुनरावृत्ति के ठोस जोखिम को काफी कम कर देगा।",
+      "en": "In the medium term, the substantive institutional review of contractor cyber-security requirements — the specifications, monitoring, audit, and enforcement architecture that governs the substantial number of vendors participating in India's nuclear expansion — will substantively be enhanced. The substantive integration of substantially stronger contractor cyber-security requirements into future public-tender processes for nuclear-sector procurement will substantively reduce the substantive risk that similar incidents recur.",
+      "ur": "درمیانی مدت میں، ٹھیکیدار کے سائبر سیکیورٹی کے تقاضوں کا ٹھوس ادارہ جاتی جائزہ-وضاحتیں، نگرانی، آڈٹ، اور نفاذ کا ڈھانچہ جو ہندوستان کی جوہری توسیع میں حصہ لینے والے دکانداروں کی کافی تعداد کو کنٹرول کرتا ہے-کو کافی حد تک بڑھایا جائے گا۔ جوہری شعبے کی خریداری کے لیے مستقبل کے عوامی ٹینڈر کے عمل میں کافی حد تک مضبوط ٹھیکیدار کے سائبر سیکیورٹی کے تقاضوں کا ٹھوس انضمام اس طرح کے واقعات کے دوبارہ ہونے کے ٹھوس خطرے کو کافی حد تک کم کرے گا۔"
+    },
+    "b32": {
+      "hi": "लंबी अवधि में, ठोस संस्थागत सबक-कि स्तरीय-अलगाव संरचना जो महत्वपूर्ण परिचालन प्रणालियों को बाहरी नेटवर्क से अलग करती है, परिधीय नेटवर्क से समझौता होने पर भी पर्याप्त सुरक्षा प्रदान करती है-भारत के परमाणु विस्तार का 22 गीगावाट के माध्यम से 2031-32 अंतरिम लक्ष्य और 2047 तक 100 गीगावाट के ठोस विस्तार क्षितिज के माध्यम से मार्गदर्शन करना जारी रखेगी।",
+      "en": "In the longer term, the substantive institutional lesson — that the tiered-isolation architecture that separates critical operational systems from external networks provides substantive substantive protection even when peripheral networks are compromised — will substantively continue to guide India's nuclear expansion through the 22 GW by 2031-32 interim target and the 100 GW by 2047 substantive expansion horizon.",
+      "ur": "طویل مدت میں، بنیادی ادارہ جاتی سبق-کہ ٹائرڈ آئسولیشن فن تعمیر جو اہم آپریشنل سسٹمز کو بیرونی نیٹ ورکس سے الگ کرتا ہے، پردیی نیٹ ورکس سے سمجھوتہ ہونے پر بھی ٹھوس تحفظ فراہم کرتا ہے-ہندوستان کی جوہری توسیع کی 22 جی ڈبلیو کے ذریعے عبوری ہدف 2031-32 اور 2047 تک 100 جی ڈبلیو کے ذریعے ٹھوس توسیعی افق کی رہنمائی کرتا رہے گا۔"
+    },
+    "b33": {
+      "hi": "अभी के लिए, 16 जुलाई 2026 की सुबह, जो ठोस संस्थागत रिकॉर्ड पर खड़ा है वह यह हैः बहु-स्तरीय परमाणु साइबर-सुरक्षा संरचना ने डिजाइन के अनुसार काम किया; एक ठेकेदार के तीसरे पक्ष के सर्वर पर कथित डेटा एक्सपोजर पारंपरिक संतुलन संयंत्र के बुनियादी ढांचे तक सीमित है जिसका परमाणु सुरक्षा या सुरक्षा प्रणालियों से कोई संबंध नहीं है; कुडनकुलम में परिचालन रिएक्टर प्रणाली काफी सुरक्षित है; एनपीसीआइएल की ठोस संस्थागत प्रतिक्रिया तेज, स्पष्ट और तकनीकी रूप से ठोस थी; और भारत का ठोस परमाणु विस्तार प्रक्षेपवक्र अपनी ठोस संस्थागत नींव पर जारी है। भारत के सबसे महत्वपूर्ण बुनियादी ढांचे की रक्षा करने वाले ठोस वास्तुकला की ठोस अखंडता को एक बार फिर से प्रदर्शित किया गया है।",
+      "en": "For now, on the morning of 16 July 2026, what stands on the substantive institutional record is this: the multi-layered nuclear cyber-security architecture worked as designed; the alleged data exposure at a contractor's third-party server is confined to conventional Balance of Plant infrastructure that has no connection to nuclear safety or security systems; the operational reactor systems at Kudankulam remain substantively secure; NPCIL's substantive institutional response was rapid, clear, and technically substantive; and India's substantive nuclear expansion trajectory continues on its substantive institutional foundation. The substantive integrity of the substantive architecture protecting India's most substantively critical infrastructure has been substantively demonstrated once again.",
+      "ur": "ابھی کے لیے، 16 جولائی 2026 کی صبح، جو ٹھوس ادارہ جاتی ریکارڈ پر کھڑا ہے وہ یہ ہے: کثیر سطحی جوہری سائبر سیکیورٹی فن تعمیر نے ڈیزائن کے مطابق کام کیا۔ ایک ٹھیکیدار کے تیسرے فریق کے سرور پر مبینہ ڈیٹا کی نمائش روایتی بیلنس آف پلانٹ انفراسٹرکچر تک محدود ہے جس کا جوہری حفاظت یا حفاظتی نظام سے کوئی تعلق نہیں ہے۔ کڈانکولم میں آپریشنل ری ایکٹر سسٹم کافی حد تک محفوظ ہے۔ این پی سی آئی ایل کا ٹھوس ادارہ جاتی ردعمل تیز، واضح اور تکنیکی طور پر ٹھوس تھا۔ اور ہندوستان کا ٹھوس جوہری توسیع کا راستہ اس کی بنیادی ادارہ جاتی بنیاد پر جاری ہے۔ ہندوستان کے سب سے اہم بنیادی ڈھانچے کی حفاظت کرنے والے ٹھوس ڈھانچے کی ٹھوس سالمیت کا ایک بار پھر ٹھوس مظاہرہ کیا گیا ہے۔"
     }
   }
 }
