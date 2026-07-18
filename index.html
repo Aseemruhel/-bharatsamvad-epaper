@@ -344,6 +344,100 @@ body{
   line-height:2;
 }
 
+/* ===== This Day in Indian History sidebar ===== */
+.thisday{
+  position:fixed;
+  top:120px;
+  left:calc(50% - 500px);
+  width:230px;
+  max-height:calc(100vh - 160px);
+  background:var(--paper);
+  border:1.5px solid var(--rule);
+  border-top:5px solid var(--accent);
+  padding:18px 16px 20px;
+  overflow-y:auto;
+  box-shadow:3px 4px 0 rgba(38,34,28,.12);
+  z-index:10;
+}
+
+.thisday h3{
+  font-family:"Rozha One","Tiro Devanagari Hindi",serif;
+  font-size:19px;
+  color:var(--accent-dark);
+  text-align:center;
+  line-height:1.15;
+  margin-bottom:4px;
+}
+
+.thisday .kicker{
+  text-align:center;
+  font-family:"Khand",sans-serif;
+  color:var(--gold);
+  letter-spacing:2px;
+  font-size:10px;
+  font-weight:700;
+  padding-bottom:10px;
+  border-bottom:1px solid #c9b98e;
+  margin-bottom:12px;
+}
+
+.thisday .entry{
+  margin-bottom:14px;
+  padding-bottom:12px;
+  border-bottom:1px dashed #c9b98e;
+}
+
+.thisday .entry:last-child{
+  border-bottom:none;
+  margin-bottom:0;
+  padding-bottom:0;
+}
+
+.thisday .year{
+  display:inline-block;
+  background:var(--accent);
+  color:#fff;
+  font-family:"Khand",sans-serif;
+  font-weight:700;
+  font-size:12px;
+  letter-spacing:1px;
+  padding:2px 8px;
+  margin-bottom:6px;
+}
+
+.thisday .event{
+  font-family:"Tiro Devanagari Hindi",Georgia,serif;
+  font-size:13px;
+  line-height:1.5;
+  color:var(--ink);
+}
+
+.thisday.en .event{
+  font-family:Georgia,serif;
+}
+
+.thisday.ur{
+  direction:rtl;
+}
+
+.thisday.ur .event{
+  font-family:"Noto Nastaliq Urdu",serif;
+  line-height:1.9;
+  font-size:13px;
+}
+
+.thisday.ur h3{
+  font-family:"Noto Nastaliq Urdu",serif;
+  font-size:17px;
+  line-height:1.6;
+}
+
+@media(max-width:1240px){
+  .thisday{
+    display:none;
+  }
+}
+
 @media(max-width:700px){
   .wrap{
     padding:25px 22px 38px;
@@ -389,6 +483,10 @@ body{
     box-shadow:none;
     max-width:none;
   }
+
+  .thisday{
+    display:none;
+  }
 }
 </style>
 </head>
@@ -403,6 +501,18 @@ body{
 
 <div class="wrap">
   <div class="langblock en" data-lang="en">
+<aside class="thisday en">
+<h3>This day in India</h3>
+<div class="kicker">TODAY IN INDIAN HISTORY</div>
+<div class="entry">
+<span class="year">1968</span>
+<div class="event">Trombay was formally renamed Bhabha Atomic Research Centre (BARC) in honour of Dr Homi Bhabha</div>
+</div>
+<div class="entry">
+<span class="year">2005</span>
+<div class="event">India-US Civil Nuclear Cooperation Agreement announced at the Manmohan Singh-George W Bush summit in Washington</div>
+</div>
+</aside>
 <div class="mast">
 <a href="/index.html" class="home-logo" title="Back to Main Page"><h1>Bharat Samwad</h1></a>
 <div class="tag">Truth · Creation · Concern</div>
@@ -443,6 +553,18 @@ body{
 <div class="footer"><span>Bharat Samwad</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
   <div class="langblock hi" data-lang="hi">
+<aside class="thisday hi">
+<h3>आज का इतिहास</h3>
+<div class="kicker">भारत के इतिहास में आज</div>
+<div class="entry">
+<span class="year">1968</span>
+<div class="event">ट्रॉम्बे को भाभा परमाणु अनुसंधान केंद्र (BARC) नाम दिया गया, डॉ. होमी भाभा के सम्मान में</div>
+</div>
+<div class="entry">
+<span class="year">2005</span>
+<div class="event">भारत-अमेरिका असैन्य परमाणु समझौते की घोषणा, वाशिंगटन में मनमोहन-बुश शिखर वार्ता</div>
+</div>
+</aside>
 <div class="mast">
 <a href="/index.html" class="home-logo" title="Back to Main Page"><h1>भारत संवाद</h1></a>
 <div class="tag">सत्य · सृजन · सरोकार</div>
@@ -483,6 +605,18 @@ body{
 <div class="footer"><span>भारत संवाद</span><span>© 2026</span><span>bharatsamwad-epaper</span></div>
 </div>
   <div class="langblock ur" data-lang="ur">
+<aside class="thisday ur">
+<h3>آج کا تاریخی دن</h3>
+<div class="kicker">بھارت کی تاریخ میں آج کا دن</div>
+<div class="entry">
+<span class="year">1968</span>
+<div class="event">ٹرومبے کو بھابھا اٹامک ریسرچ سینٹر (بارک) کا نام دیا گیا، ڈاکٹر ہومی بھابھا کے اعزاز میں</div>
+</div>
+<div class="entry">
+<span class="year">2005</span>
+<div class="event">بھارت-امریکہ سول جوہری معاہدے کا اعلان، واشنگٹن میں منموہن-بش سربراہی ملاقات</div>
+</div>
+</aside>
 <div class="mast">
 <a href="/index.html" class="home-logo" title="Back to Main Page"><h1>بھارت سنواد</h1></a>
 <div class="tag">سچ · تخلیق · سروکار</div>
