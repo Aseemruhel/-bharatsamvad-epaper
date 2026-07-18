@@ -356,10 +356,10 @@ body{
 /* ===== This Day in Indian History sidebar ===== */
 .thisday{
   position:fixed;
-  top:120px;
-  left:calc(50% - 500px);
+  top:145px;
+  left:calc(50% - 640px);
   width:230px;
-  max-height:calc(100vh - 160px);
+  max-height:calc(100vh - 180px);
   background:var(--paper);
   border:1.5px solid var(--rule);
   border-top:5px solid var(--accent);
@@ -441,7 +441,7 @@ body{
   line-height:1.6;
 }
 
-@media(max-width:1240px){
+@media(max-width:1340px){
   .thisday{
     display:none;
   }
