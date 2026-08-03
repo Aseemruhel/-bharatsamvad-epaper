@@ -1,0 +1,530 @@
+{
+  "hash": "76736aca523139e0",
+  "t": {
+    "fm.section": {
+      "hi": "संसार।",
+      "en": "World",
+      "ur": "دنیا"
+    },
+    "fm.kicker": {
+      "hi": "\"पाकिस्तान के कब्जे वाला जम्मू और कश्मीर · जे. ए. ए. सी. विद्रोह · राज्य दमन\"",
+      "en": "\"Pakistan-occupied Jammu & Kashmir · JAAC Uprising · State Repression\"",
+      "ur": "\"پاکستان کے زیر قبضہ جموں و کشمیر · جے اے اے سی بغاوت · ریاستی جبر\""
+    },
+    "fm.byline": {
+      "hi": "विदेश मामलों का डेस्क",
+      "en": "Foreign Affairs Desk",
+      "ur": "امور خارجہ کا ڈیسک"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली/मुजफ्फराबाद",
+      "en": "New Delhi / Muzaffarabad",
+      "ur": "نئی دہلی/مظفر آباد"
+    },
+    "fm.headline": {
+      "hi": "\"साठ दिन और बढ़ रहे हैंः रेंजर्स की तैनाती के साथ पाकिस्तान की पी. ओ. जे. के. कार्रवाई गहरी होती गई, रावलकोट को बंद कर दिया गया, चुनाव 10 अगस्त तक स्थगित कर दिए गए-और इस क्षेत्र पर'सहमति से'शासन करने का इस्लामाबाद का सात दशक का दावा अपने पतन को पूरा करता है।\"",
+      "en": "\"Sixty days and rising: Pakistan's PoJK crackdown deepens as Rangers deployed, Rawalakot locked down, elections postponed to 10 August — and Islamabad's seven-decade claim to govern the region 'by consent' completes its collapse\"",
+      "ur": "ساٹھ دن اور عروج: پاکستان کی پی او جے کے کی کریک ڈاؤن شدت اختیار کر گئی جب رینجرز کی تعیناتی ہوئی، راولکوٹ کو لاک ڈاؤن کر دیا گیا، انتخابات 10 اگست تک ملتوی کر دیے گئے-اور اسلام آباد کا خطے پر'رضامندی سے'حکومت کرنے کا سات دہائیوں کا دعوی اس کے خاتمے کو مکمل کرتا ہے۔"
+    },
+    "fm.subdeck": {
+      "hi": "जैसे-जैसे ज्वाइंट अवामी एक्शन कमेटी (जे. ए. ए. सी.) का विद्रोह अपने नौवें सप्ताह में प्रवेश कर रहा है, पाकिस्तान ने अपनी प्रतिक्रिया को काफी बढ़ा दिया हैः पहले से ही तैनात 16,000 कर्मियों के ऊपर 4,000 अतिरिक्त रेंजर्स तैनात किए गए हैं, रावलकोट में प्रवेश और निकास बिंदुओं को सील कर दिया गया है, इंटरनेट और मोबाइल सेवाओं को बंद कर दिया गया है, प्रभावित जिलों से पत्रकारों को प्रतिबंधित कर दिया गया है, और भारत संवाद के 16 जुलाई के पेज 1 कवरेज के बाद से कम से कम बारह अतिरिक्त मौतें हुई हैं। पी. ओ. जे. के. विधानसभा चुनावों को उनकी निर्धारित तिथि से 10 अगस्त 2026 तक के लिए स्थगित कर दिया गया है, सुधनोती और रावलकोट में मतदान अनिश्चित काल के लिए बाधित हो गया है। भारत के विदेश मंत्रालय ने सार्वजनिक रूप से संकट को तैयार किया है क्योंकि'पाकिस्तान के दशकों लंबे प्रणालीगत शोषण, अपने अवैध और जबरन कब्जे वाले क्षेत्रों में मौलिक अधिकारों और प्रशासनिक उत्पीड़न से इनकार के प्रत्यक्ष परिणाम'के रूप में। 5 जून 2026 के बाद से कुल मौतें अब 30 अंकों से अधिक हो गई हैं।",
+      "en": "\"As the Joint Awami Action Committee (JAAC) uprising enters its ninth week, Pakistan has substantially escalated its response: 4,000 additional Rangers deployed on top of the 16,000 personnel already in position, Rawalakot placed under strict lockdown with entry and exit points sealed, internet and mobile services blacked out, journalists barred from affected districts, and at least twelve additional deaths since Bharat Samvad's 16 July Page 1 coverage. The PoJK Legislative Assembly elections have been postponed from their scheduled date to 10 August 2026, with the ballot in Sudhnoti and Rawalakot indefinitely disrupted. India's Ministry of External Affairs has publicly framed the crisis as the 'direct consequence of Pakistan's decades-long systemic exploitation, denial of fundamental rights and administrative oppression in areas under its illegal and forcible occupation.' Total deaths since 5 June 2026 now exceed 30. The 38-point charter — anchored in abolition of the twelve Assembly seats reserved for Kashmiri migrants settled in Pakistan — remains unresolved. Islamabad's UN-diplomacy claim that PoJK is governed by the consent of its people has, on the record of the past two months, disintegrated.\"",
+      "ur": "\"جیسے جیسے جوائنٹ عوامی ایکشن کمیٹی (جے اے اے سی) کی بغاوت نویں ہفتے میں داخل ہو رہی ہے، پاکستان نے اپنے ردعمل کو کافی حد تک بڑھا دیا ہے: پہلے سے تعینات 16, 000 اہلکاروں کے اوپر 4, 000 اضافی رینجرز تعینات کیے گئے ہیں، راولکوٹ کو سخت لاک ڈاؤن کے تحت رکھا گیا ہے اور داخلی اور خارجی راستوں کو سیل کر دیا گیا ہے، انٹرنیٹ اور موبائل خدمات کو بلیک آؤٹ کر دیا گیا ہے، صحافیوں کو متاثرہ اضلاع سے روک دیا گیا ہے، اور بھارت سمواد کے 16 جولائی کے صفحہ 1 کی کوریج کے بعد سے کم از کم بارہ اضافی اموات ہوئی ہیں۔ پی او جے کے قانون ساز اسمبلی کے انتخابات کو ان کی مقررہ تاریخ سے 10 اگست 2026 تک ملتوی کر دیا گیا ہے، سدھوتی اور راولکوٹ میں رائے شماری میں غیر معینہ مدت تک خلل پڑا ہے۔ ہندوستان کی وزارت خارجہ نے عوامی طور پر اس بحران کو'پاکستان کے دہائیوں طویل منظم استحصال، اس کے غیر قانونی اور جبری قبضے کے تحت علاقوں میں بنیادی حقوق سے انکار اور انتظامی جبر کے براہ راست نتیجے'کے طور پر تیار کیا ہے۔ 5 جون 2026 سے اب تک کل اموات 30 نکاتی سے تجاوز کر گئی ہیں۔"
+    },
+    "b0": {
+      "hi": "पाकिस्तान के कब्जे वाले जम्मू और कश्मीर में विद्रोह अपने नौवें सप्ताह में प्रवेश कर गया है, जो 16 जुलाई को भारत संवाद द्वारा प्रलेखित भारत संवाद की तुलना में काफी खराब मानवीय और मानवाधिकार आंदोलन के साथ दर्ज किया गया है, जब संयुक्त अवामी कार्रवाई समिति (जे. ए. ए. सी.) ने फील्ड मार्शल असीम मुनीर के व्यक्तिगत हस्तक्षेप के बाद मुजफ्फराबाद के लिए अपने नियोजित लॉन्ग मार्च को निलंबित कर दिया था। यह निलंबन नहीं हुआ है। मांगों का 38 सूत्री चार्टर-मंगला बांध उत्पादन लागत में बिजली शुल्क सुधार, गिलगित-बाल्टिस्तान के साथ गेहूं के आटे की सब्सिडी की समानता, और बारह आरक्षित विधानसभा सीटों को समाप्त करना जो पाकिस्तानी राजनीतिक दलों को पी. ओ. जे. के. सरकार की संरचना निर्धारित करने की अनुमति देता है-अनसुलझा है। फिर से शुरू हुए नागरिक आंदोलन के लिए राज्य की प्रतिक्रिया वास्तव में दमनकारी तंत्र की तीव्रता रही है, जिसने पहले स्थान पर संकट पैदा किया था। लगभग 4,000 अतिरिक्त रेंजर्स को पहले ही तैनात किया जा चुका है। जे. जे. ए. सी. ए. के. के. के. के. के. के. के. के. के. के. के. के. के. के. के. के. के. के.",
+      "en": "The uprising in Pakistan-occupied Jammu and Kashmir has entered its ninth week with a substantively worse humanitarian and human-rights record than the one Bharat Samvad documented on 16 July, when the Joint Awami Action Committee (JAAC) had suspended its planned Long March to Muzaffarabad following the personal intervention of Field Marshal Asim Munir. That suspension has not held. The 38-point charter of demands — spanning electricity tariff reform anchored in Mangla Dam production costs, wheat flour subsidy parity with Gilgit-Baltistan, and the abolition of the twelve reserved Assembly seats that permit Pakistani political parties to determine the composition of the PoJK government — remains unresolved. The state's response to the resumed civic mobilisation has been an intensification of exactly the repressive apparatus that produced the crisis in the first place. Approximately 4,000 additional Rangers have been deployed on top of the 16,000 security personnel already in position across PoJK. Rawalakot — the epicentre of the JAAC mobilisation — has been placed under a strict lockdown with entry and exit points sealed and major roads blocked. Internet and mobile communications have been cut across large swathes of the region. Journalists have been barred from affected districts. Hospitals are reportedly overwhelmed, and families in some cases have been prevented from holding public funerals for those killed. At least twelve additional deaths have been documented since the 16 July suspension, bringing the total confirmed death toll since 5 June to more than thirty — a figure that the JAAC alleges is a substantial undercount.",
+      "ur": "پاکستان کے زیر قبضہ جموں و کشمیر میں بغاوت اپنے نویں ہفتے میں داخل ہو گئی ہے جس کا انسانی اور انسانی حقوق کا ریکارڈ اس سے بھی بدتر ہے جس کی دستاویز 16 جولائی کو بھارت سمواد نے کی تھی، جب مشترکہ عوامی ایکشن کمیٹی (جے اے اے سی) نے فیلڈ مارشل اعصام منیر کی ذاتی مداخلت کے بعد مظفر آباد کے لیے اپنے منصوبہ بند لانگ مارچ کو معطل کر دیا تھا۔ یہ معطلی برقرار نہیں رہی۔ 38 نکاتی مطالبات-منگلا ڈیم کی پیداوار کے اخراجات میں بجلی کے نرخوں میں اصلاحات، گلگت بلتستان کے ساتھ گندم کے آٹے کی سبسڈی کی برابری، اور بارہ مخصوص اسمبلی نشستوں کا خاتمہ جو پاکستانی سیاسی جماعتوں کو پی او جے کے حکومت کی ساخت کا تعین کرنے کی اجازت دیتا ہے-حل طلب ہے۔ دوبارہ شروع ہونے والے شہری متحرک ہونے پر ریاست کا ردعمل بالکل جابرانہ آلات کی شدت ہے جس نے پہلی جگہ پر بحران پیدا کیا۔ تقریبا 4, 000، 16, 000 اضافی رینجرز پہلے ہی تعینات کیے جا چکے ہیں"
+    },
+    "b1": {
+      "hi": "संख्या के पीछे एक ठोस रूप से अधिक परिणामी संस्थागत पतन खड़ा है। संयुक्त राष्ट्र और अंतर्राष्ट्रीय समुदाय के समक्ष पाकिस्तान का मूलभूत दावा-1947 में इस्लामाबाद द्वारा इस क्षेत्र पर नियंत्रण करने के बाद से अड़तालीस वर्षों की औपचारिक राजनयिक वकालत में बना हुआ है-कि पाकिस्तान के कब्जे वाले जम्मू और कश्मीर को अपने ही लोगों की स्वेच्छा से सहमति से शासित किया जाता है, पिछले दो महीनों में, दस्तावेजी रिकॉर्ड पर विघटित हो गया है। जब किसी क्षेत्र के चालीस लाख निवासियों को सोलह हजार सुरक्षा कर्मियों को शासित करने की आवश्यकता होती है, और तालाबंदी को बनाए रखने के लिए और चार हजार की आवश्यकता होती है, जबकि यह भी पर्याप्त नहीं है, \"सहमति\" तैयार करना केवल राजनयिक रूप से असुविधाजनक नहीं है-यह वास्तुशिल्प रूप से असंभव है। दुनिया की संस्थागत स्मृति से पहले पाकिस्तान के कश्मीर दावे की 3 अगस्त 2026 की स्थिति तेजी से, सार्वजनिक रूप से प्रलेखित और तेजी से अक्षम्य विफलता में से एक है।",
+      "en": "Behind the numbers stands a substantively more consequential institutional collapse. Pakistan's foundational claim before the United Nations and the international community — sustained across seventy-eight years of formal diplomatic advocacy since Islamabad seized control of the region in 1947 — that Pakistan-occupied Jammu and Kashmir is governed by the willing consent of its own people has, over the past two months, disintegrated on the documentary record. When four million residents of a region require sixteen thousand security personnel to be governed at all, and a further four thousand to sustain a lockdown when even that is not enough, the \"consent\" framing is not merely diplomatically inconvenient — it is architecturally impossible. The 3 August 2026 status of Pakistan's Kashmir claim before the world's institutional memory is one of accelerating, publicly documented, and increasingly indefensible failure.",
+      "ur": "ان اعداد و شمار کے پیچھے ایک ٹھوس طور پر زیادہ نتیجہ خیز ادارہ جاتی زوال کھڑا ہے۔ اقوام متحدہ اور بین الاقوامی برادری کے سامنے پاکستان کا بنیادی دعوی-جو 1947 میں اسلام آباد کے خطے پر قبضے کے بعد سے اٹھارہ سال تک باضابطہ سفارتی وکالت پر قائم رہا-کہ پاکستان کے زیر قبضہ جموں و کشمیر اپنے ہی لوگوں کی رضا مندی سے حکومت کرتا ہے، پچھلے دو مہینوں میں، دستاویزی ریکارڈ پر بکھر گیا ہے۔ جب کسی خطے کے چار ملین باشندوں کو سولہ ہزار سیکیورٹی اہلکاروں کو حکومت کرنے کی ضرورت ہوتی ہے، اور لاک ڈاؤن کو برقرار رکھنے کے لیے مزید چار ہزار کی ضرورت ہوتی ہے، جب کہ یہ کافی نہیں ہے، \"رضامندی\" تشکیل دینا محض سفارتی طور پر تکلیف دہ نہیں ہے-یہ تعمیراتی لحاظ سے ناممکن ہے۔ دنیا کی ادارہ جاتی یادداشت سے پہلے پاکستان کے کشمیر کے دعوے کی 3 اگست 2026 کی حیثیت تیز تر، عوامی طور پر دستاویزی، اور تیزی سے ناقابل معافی ناکامی میں سے ایک ہے۔"
+    },
+    "b2": {
+      "hi": "राज्य दमन का साठ-दिवसीय प्रक्षेपवक्र",
+      "en": "The sixty-day trajectory of state repression",
+      "ur": "ریاستی جبر کی ساٹھ دن کی رفتار"
+    },
+    "b3": {
+      "hi": "पिछले दो महीनों के कालक्रम में हाल के दशकों में दक्षिण एशिया के किसी भी हिस्से में सबसे अधिक प्रलेखित राज्य-दमन अभियानों में से एक का वर्णन किया गया है। पाकिस्तानी, भारतीय और अंतर्राष्ट्रीय मीडिया सहित कई स्वतंत्र स्रोतों में सत्यापित तथ्य निम्नलिखित हैं।",
+      "en": "The chronology of the past two months describes one of the most substantially documented state-repression campaigns any part of South Asia has produced in recent decades. The facts, verified across multiple independent sources including Pakistani, Indian, and international media, are the following.",
+      "ur": "گزشتہ دو مہینوں کی تاریخ حالیہ دہائیوں میں جنوبی ایشیا کے کسی بھی حصے میں ریاستی جبر کی سب سے زیادہ دستاویزی مہموں میں سے ایک کو بیان کرتی ہے۔ پاکستانی، ہندوستانی اور بین الاقوامی میڈیا سمیت متعدد آزاد ذرائع سے تصدیق شدہ حقائق درج ذیل ہیں۔"
+    },
+    "b4": {
+      "hi": "* * 5 जून 2026 * *: पी. ओ. जे. के. स्थानीय प्रशासन ने \"संभावित हिंसा, हथियारों के अधिग्रहण, कानून-प्रवर्तन कर्मियों पर हमलों और सामान्य जीवन को बाधित करने की योजनाओं\" के अनिर्दिष्ट आरोपों का हवाला देते हुए पी. ओ. जे. के. आतंकवाद-रोधी अधिनियम के तहत जे. ए. ए. सी. को एक \"प्रतिबंधित संगठन\" के रूप में औपचारिक रूप से प्रतिबंधित कर दिया। कोई सार्वजनिक सबूत पेश नहीं किया गया था। जे. ए. ए. सी. ने अपने संवैधानिक नागरिक चरित्र पर जोर देते हुए चरित्र चित्रण को स्पष्ट रूप से खारिज कर दिया।",
+      "en": "**5 June 2026**: The PoJK local administration formally banned the JAAC as a \"proscribed organisation\" under the PoJK Anti-Terrorism Act, citing unspecified allegations of \"potential violence, acquisition of weapons, attacks on law-enforcement personnel, and plans to disrupt normal life.\" No public evidence was produced. The JAAC categorically rejected the characterisation, insisting on its constitutional civic character.",
+      "ur": "* * 5 جون 2026 * *: پی او جے کے مقامی انتظامیہ نے \"ممکنہ تشدد، ہتھیاروں کے حصول، قانون نافذ کرنے والے اہلکاروں پر حملوں، اور عام زندگی میں خلل ڈالنے کے منصوبوں\" کے غیر متعینہ الزامات کا حوالہ دیتے ہوئے، پی او جے کے انسداد دہشت گردی ایکٹ کے تحت جے اے اے سی پر \"ممنوعہ تنظیم\" کے طور پر باضابطہ طور پر پابندی لگا دی۔ کوئی عوامی ثبوت پیش نہیں کیا گیا۔ جے اے اے سی نے اس کے آئینی شہری کردار پر اصرار کرتے ہوئے اس خصوصیت کو واضح طور پر مسترد کر دیا۔"
+    },
+    "b5": {
+      "hi": "* * 6-7 जून 2026 * *: पाकिस्तानी पुलिस ने पूरे पी. ओ. जे. के. में बड़े पैमाने पर कार्रवाई शुरू की, जे. ए. ए. सी. से जुड़े 100 से अधिक व्यक्तियों को गिरफ्तार किया और मुजफ्फराबाद में जे. ए. ए. सी. के केंद्रीय कार्यालय पर छापा मारा और सील कर दिया। आंदोलन के संगठनात्मक बुनियादी ढांचे को राज्य की नीति के रूप में लक्षित किया गया था।",
+      "en": "**6–7 June 2026**: Pakistani police launched a large-scale crackdown across PoJK, arresting over 100 JAAC-associated persons and raiding and sealing the JAAC central office in Muzaffarabad. The organisational infrastructure of the movement was targeted as a matter of state policy.",
+      "ur": "* * 6-7 جون 2026 * *: پاکستانی پولیس نے پی او جے کے میں بڑے پیمانے پر کریک ڈاؤن شروع کیا، 100 سے زیادہ جے اے اے سی سے وابستہ افراد کو گرفتار کیا اور مظفر آباد میں جے اے اے سی کے مرکزی دفتر پر چھاپہ مارا اور اسے سیل کر دیا۔ تحریک کے تنظیمی ڈھانچے کو ریاستی پالیسی کے طور پر نشانہ بنایا گیا۔"
+    },
+    "b6": {
+      "hi": "* * 8 जून 2026 * *: पाकिस्तान के कब्जे वाले कश्मीर के सर्वोच्च न्यायालय ने फैसला सुनाया कि पाकिस्तान में बसे कश्मीरी प्रवासियों के लिए बारह आरक्षित विधानसभा सीटें \"संवैधानिक रूप से संरक्षित\" हैं और इन्हें संवैधानिक संशोधन के बिना समाप्त नहीं किया जा सकता है। उसी दिन, प्रदर्शनकारियों के फैसले के खिलाफ प्रदर्शन के दौरान झड़पों में कम से कम ग्यारह लोग मारे गए थे। यह एक महत्वपूर्ण परिणामी क्षण हैः पीओजेके में पाकिस्तान के अपने न्यायिक तंत्र ने उस तंत्र के संवैधानिक प्रवेश को संस्थागत बना दिया जिसके माध्यम से इस्लामाबाद पीओजेके के राजनीतिक परिणामों को नियंत्रित करता है।",
+      "en": "**8 June 2026**: The Supreme Court of Pakistan-occupied Kashmir ruled that the twelve reserved Assembly seats for Kashmiri migrants settled in Pakistan are \"constitutionally protected\" and cannot be abolished without a constitutional amendment. On the same day, at least eleven people were killed in clashes as protesters demonstrated against the ruling. This is a substantively consequential moment: Pakistan's own judicial apparatus in PoJK institutionalised the constitutional entrenchment of the mechanism through which Islamabad controls PoJK's political outcomes.",
+      "ur": "* * 8 جون 2026 * *: پاکستان کے زیر قبضہ کشمیر کی سپریم کورٹ نے فیصلہ دیا کہ پاکستان میں آباد کشمیری مہاجرین کے لیے مخصوص اسمبلی کی بارہ نشستیں \"آئینی طور پر محفوظ\" ہیں اور انہیں آئینی ترمیم کے بغیر ختم نہیں کیا جا سکتا۔ اسی دن، مظاہرین کے فیصلے کے خلاف مظاہرے کے دوران جھڑپوں میں کم از کم گیارہ افراد مارے گئے۔ یہ ایک ٹھوس نتیجہ خیز لمحہ ہے: پی او جے کے میں پاکستان کے اپنے عدالتی نظام نے اس طریقہ کار کی آئینی مداخلت کو ادارہ جاتی بنا دیا جس کے ذریعے اسلام آباد پی او جے کے کے سیاسی نتائج کو کنٹرول کرتا ہے۔"
+    },
+    "b7": {
+      "hi": "* * 5 जुलाई 2026 * *: जे. ए. ए. सी. ने औपचारिक रूप से पी. ओ. जे. के. के सभी दस जिलों-मुजफ्फराबाद, नीलम, झेलम घाटी, बाग, हवेली, पुंछ, सुधनोती, कोटली, मीरपुर और भीम्बर में जनसमूह जुटाने का आह्वान किया। क्षेत्र की लगभग 4.39 लाख आबादी के बल पर, जे. ए. ए. सी. ने दस जिलों में 500,000 प्रतिभागियों को जुटाने का लक्ष्य रखा।",
+      "en": "**5 July 2026**: The JAAC formally called for a mass mobilisation across all ten PoJK districts — Muzaffarabad, Neelum, Jhelum Valley, Bagh, Haveli, Poonch, Sudhnoti, Kotli, Mirpur and Bhimber. On the strength of the region's approximately 4.39 million population, the JAAC targeted a mobilisation of 500,000 participants across the ten districts.",
+      "ur": "* * 5 جولائی 2026 * *: جے اے اے سی نے باضابطہ طور پر پی او جے کے کے تمام دس اضلاع-مظفر آباد، نیلم، جہلم ویلی، باغ، حویلی، پونچھ، سدھنوتی، کوٹلی، میر پور اور بھیمبر میں بڑے پیمانے پر متحرک ہونے کا مطالبہ کیا۔ خطے کی تقریبا 4.39 لاکھ آبادی کی طاقت پر، جے اے اے سی نے دس اضلاع میں 500, 000 شرکاء کو متحرک کرنے کا ہدف رکھا۔"
+    },
+    "b8": {
+      "hi": "* * 7 जुलाई 2026 * *: जे. ए. ए. सी. ने 38 सूत्री चार्टर को स्वीकार करते हुए एक औपचारिक अधिसूचना की मांग करते हुए शहबाज शरीफ सरकार को 48 घंटे का अल्टीमेटम जारी किया।",
+      "en": "**7 July 2026**: The JAAC issued a 48-hour ultimatum to the Shehbaz Sharif government demanding a formal notification accepting the 38-point charter.",
+      "ur": "* * 7 جولائی 2026 * *: جے اے اے سی نے شہباز شریف حکومت کو 48 گھنٹے کا الٹی میٹم جاری کیا جس میں 38 نکاتی چارٹر کو قبول کرنے کے لیے باضابطہ نوٹیفکیشن کا مطالبہ کیا گیا۔"
+    },
+    "b9": {
+      "hi": "* * 14 जुलाई 2026 * *: भारत के विदेश मंत्रालय ने प्रवक्ता रणधीर जैसवाल के माध्यम से सार्वजनिक रूप से पाकिस्तान के कब्जे वाले कश्मीर में चल रहे विरोध प्रदर्शनों को \"पाकिस्तान के दशकों से चले आ रहे व्यवस्थित शोषण, अपने अवैध और जबरन कब्जे वाले क्षेत्रों में मौलिक अधिकारों से इनकार और प्रशासनिक उत्पीड़न का प्रत्यक्ष परिणाम\" के रूप में वर्णित किया। विदेश मंत्रालय ने आगे कहा कि \"स्थानीय आबादी की वैध शिकायतों को दूर करने के बजाय, पाकिस्तानी राज्य ने अत्यधिक पुलिस क्रूरता के साथ जवाब दिया है, जिसमें असहाय महिलाओं और बच्चों के खिलाफ, भोजन और दवा सहित आवश्यक आपूर्ति को अवरुद्ध करना, इंटरनेट ब्लैकआउट को लागू करना और निहत्थे नागरिकों के खिलाफ घातक बल तैनात करना शामिल है जिससे दुखद मौतें हुई हैं।\"",
+      "en": "**14 July 2026**: India's Ministry of External Affairs, through spokesperson Randhir Jaiswal, publicly characterised the ongoing PoJK protests as the \"direct consequence of Pakistan's decades-long systemic exploitation, denial of fundamental rights and administrative oppression in areas under its illegal and forcible occupation.\" The MEA further noted that \"rather than addressing the legitimate grievances of the local population, the Pakistani state has responded with excessive police brutality, including against helpless women and children, blocking essential supplies including food and medicine, enforcing internet blackouts, and deploying lethal force against unarmed civilians that has led to tragic fatalities.\"",
+      "ur": "* * 14 جولائی 2026 * *: ہندوستان کی وزارت خارجہ نے ترجمان رندھیر جیسوال کے ذریعے پی او جے کے کے جاری مظاہروں کو \"پاکستان کے کئی دہائیوں سے جاری منظم استحصال، اس کے غیر قانونی اور جبری قبضے والے علاقوں میں بنیادی حقوق سے انکار اور انتظامی جبر کا براہ راست نتیجہ\" قرار دیا۔ ایم ای اے نے مزید کہا کہ \"مقامی آبادی کی جائز شکایات کو دور کرنے کے بجائے، پاکستانی ریاست نے بے بس خواتین اور بچوں کے خلاف، خوراک اور ادویات سمیت ضروری سامان کو روکنا، انٹرنیٹ بلیک آؤٹ نافذ کرنا، اور غیر مسلح شہریوں کے خلاف مہلک طاقت تعینات کرنا جس کی وجہ سے المناک ہلاکتیں ہوئی ہیں\"۔"
+    },
+    "b10": {
+      "hi": "* * 15 जुलाई 2026 * *: फील्ड मार्शल असीम मुनीर के व्यक्तिगत हस्तक्षेप और प्रवासी पाकिस्तानी फाउंडेशन के अध्यक्ष सैयद कमर रजा की विशेष प्रतिनिधि के रूप में नियुक्ति के बाद जे. ए. ए. सी. ने नियोजित लॉन्ग मार्च को निलंबित कर दिया। सभी जिलों में धरना जारी रहा।",
+      "en": "**15 July 2026**: JAAC suspended the planned Long March following Field Marshal Asim Munir's personal intervention and the appointment of Syed Qamar Raza, Chairman of the Overseas Pakistanis Foundation, as special representative. Sit-ins continued across all districts.",
+      "ur": "* * 15 جولائی 2026 * *: فیلڈ مارشل اعصام منیر کی ذاتی مداخلت اور اوورسیز پاکستان فاؤنڈیشن کے چیئرمین سید قمر رضا کی خصوصی نمائندے کے طور پر تقرری کے بعد جے اے اے سی نے منصوبہ بند لانگ مارچ کو معطل کر دیا۔ تمام اضلاع میں دھرنا جاری رہا۔"
+    },
+    "b11": {
+      "hi": "* * 27 जुलाई 2026 * *: 38-सूत्री चार्टर को पूरा करने में बातचीत की विफलता के बाद, जे. ए. ए. सी. ने शहबाज शरीफ सरकार के लिए एक औपचारिक अधिसूचना जारी करने के लिए 27 जुलाई को दोपहर 1 बजे की नई समय सीमा निर्धारित की। बिना प्रतिक्रिया के समय सीमा समाप्त हो गई।",
+      "en": "**27 July 2026**: Following the failure of the negotiations to deliver on the 38-point charter, the JAAC set a fresh deadline of 1 PM on 27 July for the Shehbaz Sharif government to issue a formal notification. The deadline expired without response.",
+      "ur": "* * 27 جولائی 2026 * *: 38 نکاتی چارٹر پر بات چیت کی ناکامی کے بعد، جے اے اے سی نے شہباز شریف حکومت کے لیے باضابطہ نوٹیفکیشن جاری کرنے کے لیے 27 جولائی کو دوپہر 1 بجے کی نئی ڈیڈ لائن مقرر کی۔ ڈیڈ لائن بغیر جواب کے ختم ہو گئی۔"
+    },
+    "b12": {
+      "hi": "* * जुलाई के अंत में-अगस्त 2026 की शुरुआत में * *: रावलकोट से मुजफ्फराबाद की ओर नया मार्च। लगभग 4,000 अतिरिक्त रेंजर्स तैनात किए गए। रावलकोट को सख्त लॉकडाउन के तहत रखा गया। इंटरनेट और मोबाइल सेवाओं में कटौती। संचार ब्लैकआउट लागू किया गया। कम से कम बारह अतिरिक्त मौतों का दस्तावेजीकरण किया गया। पत्रकारों को प्रभावित क्षेत्रों से प्रतिबंधित किया गया। सुधनोती और रावलकोट में विधानसभा चुनाव 10 अगस्त 2026 तक के लिए स्थगित कर दिए गए।",
+      "en": "**Late July–early August 2026**: Fresh march from Rawalakot toward Muzaffarabad. Approximately 4,000 additional Rangers deployed. Rawalakot placed under strict lockdown. Internet and mobile services cut. Communications blackout enforced. At least twelve additional deaths documented. Journalists barred from affected areas. Legislative Assembly elections in Sudhnoti and Rawalakot postponed until 10 August 2026.",
+      "ur": "* * جولائی کے آخر میں-اگست 2026 کے اوائل میں * *: راولکوٹ سے مظفر آباد کی طرف تازہ مارچ۔ تقریبا 4, 000 اضافی رینجرز تعینات۔ راولکوٹ کو سخت لاک ڈاؤن کے تحت رکھا گیا۔ انٹرنیٹ اور موبائل خدمات میں کٹوتی۔ مواصلاتی بندش نافذ۔ کم از کم بارہ اضافی اموات کی دستاویز۔ صحافیوں کو متاثرہ علاقوں سے روک دیا گیا۔ سدھنوٹی اور راولکوٹ میں قانون ساز اسمبلی کے انتخابات 10 اگست 2026 تک ملتوی کر دیے گئے۔"
+    },
+    "b13": {
+      "hi": "इस्लामाबाद की विनाशकारी प्रतिक्रिया",
+      "en": "Islamabad's substantively catastrophic response",
+      "ur": "اسلام آباد کا زبردست تباہ کن ردعمل"
+    },
+    "b14": {
+      "hi": "पी. ओ. जे. के. विद्रोह के प्रति पाकिस्तानी राज्य की प्रतिक्रिया के हर आयाम को नागरिक शिकायतों का सामना करने वाले एक परिपक्व लोकतांत्रिक राज्य की तुलना में बिल्कुल विपरीत दिशा में आंका गया है।",
+      "en": "Every dimension of the Pakistani state's response to the PoJK uprising has been calibrated in exactly the opposite direction from what a mature democratic state, faced with civic grievances, would substantively pursue.",
+      "ur": "پی او جے کے کی بغاوت پر پاکستانی ریاست کے ردعمل کے ہر پہلو کو بالکل مخالف سمت میں ترتیب دیا گیا ہے جس کا شہری شکایات کا سامنا کرنے والی ایک پختہ جمہوری ریاست ٹھوس طور پر تعاقب کرے گی۔"
+    },
+    "b15": {
+      "hi": "* * जहाँ बातचीत का आह्वान किया गया था, इस्लामाबाद ने सैनिकों को तैनात किया है। * * 4.39 लाख लोगों के क्षेत्र में सोलह हजार सुरक्षाकर्मी प्रत्येक 274 निवासियों के लिए एक सशस्त्र राज्य अधिकारी के लिए काम करते हैं-एक संतृप्ति-स्तर की तैनाती जिसका वैश्विक स्तर पर किसी भी तुलनीय नागरिक-विरोध संदर्भ में कोई समानांतर नहीं है।",
+      "en": "**Where dialogue was called for, Islamabad has deployed troops.** Sixteen thousand security personnel across a region of 4.39 million people works out to one armed state officer for every 274 residents — a saturation-level deployment that has no parallel in any comparable civic-protest context globally.",
+      "ur": "* * جہاں بات چیت کا مطالبہ کیا گیا تھا، اسلام آباد نے فوجی دستے تعینات کر دیے ہیں۔ * * 39 لاکھ لوگوں کے علاقے میں سولہ ہزار حفاظتی اہلکار ہر 274 باشندوں کے لیے ایک مسلح ریاستی افسر کے لیے کام کرتے ہیں-ایک سیچوریشن سطح کی تعیناتی جس کا عالمی سطح پر کسی بھی موازنہ شہری احتجاج کے تناظر میں کوئی متوازی نہیں ہے۔"
+    },
+    "b16": {
+      "hi": "* * जहां पारदर्शिता की मांग की गई थी, इस्लामाबाद ने मौन लागू कर दिया है। * * इंटरनेट ब्लैकआउट, मोबाइल सेवा में कटौती, और प्रभावित जिलों से पत्रकारों को प्रतिबंधित करना सूचना नियंत्रण की एक जानबूझकर नीति है। यह ठीक वही पैटर्न है जिसे अलोकतांत्रिक शासनों ने वैश्विक स्तर पर लागू किया है जब वे राजनीतिक रूप से बचाव नहीं कर सकते हैं कि वे क्या कर रहे हैं।",
+      "en": "**Where transparency was called for, Islamabad has enforced silence.** Internet blackouts, mobile service cuts, and the barring of journalists from affected districts constitute a deliberate policy of information containment. This is precisely the pattern that undemocratic regimes globally deploy when they cannot politically defend what they are doing operationally.",
+      "ur": "* * جہاں شفافیت کا مطالبہ کیا گیا تھا، اسلام آباد نے خاموشی نافذ کر دی ہے۔ * * انٹرنیٹ بلیک آؤٹ، موبائل سروس میں کٹوتی، اور متاثرہ اضلاع سے صحافیوں پر پابندی لگانا جان بوجھ کر معلومات کی روک تھام کی پالیسی ہے۔ یہ بالکل وہی نمونہ ہے جو عالمی سطح پر غیر جمہوری حکومتیں اس وقت استعمال کرتی ہیں جب وہ سیاسی طور پر اس کا دفاع نہیں کر سکتے جو وہ عملی طور پر کر رہے ہیں۔"
+    },
+    "b17": {
+      "hi": "* * जहां कानूनी प्रक्रिया की मांग की गई थी, इस्लामाबाद ने संगठन पर प्रतिबंध लगा दिया है। * * आतंकवाद विरोधी अधिनियम के तहत जे. ए. ए. सी. को प्रतिबंधित करना एक स्पष्ट कानूनी वृद्धि है जिसका सार्वजनिक रिकॉर्ड में कोई ठोस साक्ष्य आधार नहीं है। यह संकेत देता है कि पाकिस्तानी राज्य क्षेत्र की शिकायतों को व्यक्त करने वाले एक संगठित नागरिक अभिनेता के अस्तित्व को स्वीकार करने के लिए तैयार नहीं है।",
+      "en": "**Where legal process was called for, Islamabad has banned the organisation.** Proscribing the JAAC under the Anti-Terrorism Act is a categorical legal escalation with no substantive evidentiary base in the public record. It signals that the Pakistani state is unwilling to accept the very existence of an organised civic actor articulating the region's grievances.",
+      "ur": "* * جہاں قانونی عمل کا مطالبہ کیا گیا تھا، اسلام آباد نے تنظیم پر پابندی لگا دی ہے۔ * * انسداد دہشت گردی ایکٹ کے تحت جے اے اے سی پر پابندی لگانا ایک واضح قانونی اضافہ ہے جس کی عوامی ریکارڈ میں کوئی ٹھوس ثبوت نہیں ہے۔ یہ اس بات کا اشارہ ہے کہ پاکستانی ریاست خطے کی شکایات کو واضح کرنے والے ایک منظم شہری اداکار کے وجود کو قبول کرنے کو تیار نہیں ہے۔"
+    },
+    "b18": {
+      "hi": "* * जहां मानवीय पहुंच की मांग की गई थी, इस्लामाबाद ने आपूर्ति को अवरुद्ध कर दिया है। * * खाद्य, दवा और आवश्यक वस्तुओं को कथित तौर पर प्रभावित समुदायों तक पहुंचने से रोक दिया गया है। एम. ई. ए. के 14 जुलाई के बयान में सीधे इस पैटर्न का उल्लेख किया गया है, और स्वतंत्र पत्रकारिता पुष्टि करती है कि रावलकोट में व्यापारियों और निवासियों ने बिगड़ती आर्थिक स्थिति को अवरोधकों के उत्तरोत्तर काटने के रूप में वर्णित किया है।",
+      "en": "**Where humanitarian access was called for, Islamabad has blocked supplies.** Food, medicine, and essential goods have reportedly been prevented from reaching affected communities. The MEA's 14 July statement referenced this pattern directly, and independent journalistic corroboration confirms that traders and residents in Rawalakot have described worsening economic conditions as blockades progressively bite.",
+      "ur": "* * جہاں انسان دوست رسائی کا مطالبہ کیا گیا تھا، اسلام آباد نے رسد کو روک دیا ہے۔ * * خوراک، ادویات اور ضروری سامان کو مبینہ طور پر متاثرہ برادریوں تک پہنچنے سے روک دیا گیا ہے۔ ایم ای اے کے 14 جولائی کے بیان میں براہ راست اس طرز کا حوالہ دیا گیا ہے، اور آزاد صحافتی تصدیق اس بات کی تصدیق کرتی ہے کہ راولکوٹ میں تاجروں اور رہائشیوں نے بگڑتے ہوئے معاشی حالات کو بتدریج ناکہ بندی قرار دیا ہے۔"
+    },
+    "b19": {
+      "hi": "* * जहां चुनावी वैधता की मांग की गई थी, इस्लामाबाद ने चुनावों को स्थगित कर दिया है। * * सुधनोती और रावलकोट में विधानसभा चुनावों को 10 अगस्त 2026 तक स्थगित करना-इस बात की कोई गारंटी नहीं है कि यह तारीख भी रहेगी-इस्लामाबाद द्वारा पूरे संकट के दौरान किए गए सबसे संस्थागत परिणामी स्वीकारों में से एक है। यह स्वीकार करता है कि राज्य अपने स्वयं के दावे वाले क्षेत्र के भीतर सबसे बुनियादी लोकतांत्रिक कार्य नहीं कर सकता है।",
+      "en": "**Where electoral legitimacy was called for, Islamabad has postponed elections.** The postponement of Legislative Assembly elections in Sudhnoti and Rawalakot to 10 August 2026 — with no guarantee that even this date will hold — is one of the most institutionally consequential admissions Islamabad has made across the entire crisis. It concedes that the state cannot deliver on the most basic democratic function within its own claimed territory.",
+      "ur": "* * جہاں انتخابی جواز کا مطالبہ کیا گیا تھا، اسلام آباد نے انتخابات ملتوی کر دیے ہیں۔ * * سدھنوتی اور راولکوٹ میں قانون ساز اسمبلی کے انتخابات کو 10 اگست 2026 تک ملتوی کرنا-اس بات کی کوئی ضمانت نہیں کہ یہ تاریخ بھی برقرار رہے گی-اسلام آباد نے پورے بحران کے دوران سب سے زیادہ ادارہ جاتی نتیجے میں اعتراف کیا ہے۔ یہ تسلیم کرتا ہے کہ ریاست اپنے دعوی کردہ علاقے میں سب سے بنیادی جمہوری کام انجام نہیں دے سکتی۔"
+    },
+    "b20": {
+      "hi": "* * जहां मानवीय शासन का आह्वान किया गया था, इस्लामाबाद ने महिलाओं और बच्चों के खिलाफ घातक बल तैनात किया है। * * विदेश मंत्रालय के 14 जुलाई के बयान में विशेष रूप से इस आयाम का उल्लेख किया गया है। कई स्वतंत्र स्रोतों ने विरोध सभाओं में महिला समूहों और स्कूली आयु वर्ग के प्रतिभागियों सहित प्रदर्शनकारियों के खिलाफ बल की तैनाती की पुष्टि की है। यह राज्य के व्यवहार को प्रलेखित करता है जिसे कोई भी अंतर्राष्ट्रीय दर्शक अब प्रशंसनीय रूप से नकार नहीं सकता है।",
+      "en": "**Where humane governance was called for, Islamabad has deployed lethal force against women and children.** The MEA's 14 July statement specifically called out this dimension. Multiple independent sources have corroborated the deployment of force against demonstrators including women's groups and school-aged participants in protest gatherings. This is documented state behaviour that no international audience can any longer plausibly deny.",
+      "ur": "* * جہاں انسانی حکمرانی کا مطالبہ کیا گیا تھا، اسلام آباد نے خواتین اور بچوں کے خلاف مہلک طاقت کو تعینات کیا ہے۔ * * ایم ای اے کے 14 جولائی کے بیان میں خاص طور پر اس جہت کو بیان کیا گیا ہے۔ متعدد آزاد ذرائع نے احتجاجی اجتماعات میں خواتین کے گروپوں اور اسکول کی عمر کے شرکاء سمیت مظاہرین کے خلاف طاقت کی تعیناتی کی تصدیق کی ہے۔ یہ دستاویزی ریاستی طرز عمل ہے جس کی اب کوئی بین الاقوامی سامعین تردید نہیں کر سکتا۔"
+    },
+    "b21.title": {
+      "hi": "पी. ओ. जे. के. विद्रोह-एक नज़र में राज्य दमन के दो महीने",
+      "en": "PoJK Uprising — Two Months of State Repression at a Glance",
+      "ur": "پی او جے کے بغاوت-ایک نظر میں ریاستی جبر کے دو ماہ"
+    },
+    "b21.itemlbl.0": {
+      "hi": "आंदोलन",
+      "en": "Movement",
+      "ur": "تحریک"
+    },
+    "b21.itemval.0": {
+      "hi": "ज्वाइंट अवामी एक्शन कमेटी (जे. ए. ए. सी.); केंद्रीय नेता शौकत नवाज मीर",
+      "en": "Joint Awami Action Committee (JAAC); Central leader Shaukat Nawaz Mir",
+      "ur": "جوائنٹ عوامی ایکشن کمیٹی (جے اے اے سی) ؛ مرکزی رہنما شوکت نواز میر"
+    },
+    "b21.itemlbl.1": {
+      "hi": "जे. ए. ए. सी. की स्थिति",
+      "en": "JAAC status",
+      "ur": "جے اے اے سی کی حیثیت"
+    },
+    "b21.itemval.1": {
+      "hi": "पी. ओ. जे. के. आतंकवाद-रोधी अधिनियम (5 जून 2026) के तहत \"प्रतिबंधित संगठन\" के रूप में प्रतिबंधित",
+      "en": "Banned as \"proscribed organisation\" under PoJK Anti-Terrorism Act (5 June 2026)",
+      "ur": "پی او جے کے انسداد دہشت گردی ایکٹ (5 جون 2026) کے تحت \"ممنوعہ تنظیم\" کے طور پر پابندی عائد"
+    },
+    "b21.itemlbl.2": {
+      "hi": "विद्रोह की शुरुआत",
+      "en": "Uprising start",
+      "ur": "بغاوت کا آغاز"
+    },
+    "b21.itemval.2": {
+      "hi": "5 जून 2026",
+      "en": "5 June 2026",
+      "ur": "5 جون 2026"
+    },
+    "b21.itemlbl.3": {
+      "hi": "अवधि (3 अगस्त 2026 तक)",
+      "en": "Duration (to 3 August 2026)",
+      "ur": "مدت (3 اگست 2026 تک)"
+    },
+    "b21.itemval.3": {
+      "hi": "60 + दिन",
+      "en": "60+ days",
+      "ur": "60 + دن"
+    },
+    "b21.itemlbl.4": {
+      "hi": "कुल प्रलेखित मौतें",
+      "en": "Total documented deaths",
+      "ur": "کل دستاویزی اموات"
+    },
+    "b21.itemval.4": {
+      "hi": "30 से अधिक (रॉयटर्स का अनुमान; जे. ए. ए. सी. अधिक आरोप लगाता है)",
+      "en": "Over 30 (Reuters estimate; JAAC alleges more)",
+      "ur": "30 سے زیادہ (رائٹرز کا تخمینہ ؛ جے اے اے سی کا مزید الزام)"
+    },
+    "b21.itemlbl.5": {
+      "hi": "भारत संवाद के 16 जुलाई के कवरेज के बाद से मौतें",
+      "en": "Deaths since Bharat Samvad's 16 July coverage",
+      "ur": "بھارت سمواد کی 16 جولائی کوریج کے بعد سے اموات"
+    },
+    "b21.itemval.5": {
+      "hi": "कम से कम 12",
+      "en": "At least 12",
+      "ur": "کم از کم 12"
+    },
+    "b21.itemlbl.6": {
+      "hi": "सुरक्षाकर्मियों की तैनाती की गई है।",
+      "en": "Security personnel deployed",
+      "ur": "حفاظتی اہلکار تعینات"
+    },
+    "b21.itemval.6": {
+      "hi": "16, 000 (मौजूदा) और 4,000 अतिरिक्त रेंजर्स",
+      "en": "16,000 (existing) plus 4,000 additional Rangers",
+      "ur": "16, 000 (موجودہ) کے علاوہ 4, 000 اضافی رینجرز"
+    },
+    "b21.itemlbl.7": {
+      "hi": "जनसंख्या के अनुसार कार्मिकों का अनुपात",
+      "en": "Ratio of personnel to population",
+      "ur": "آبادی کے لحاظ سے اہلکاروں کا تناسب"
+    },
+    "b21.itemval.7": {
+      "hi": "प्रति 274 निवासियों पर लगभग 1 सशस्त्र अधिकारी",
+      "en": "Approximately 1 armed officer per 274 residents",
+      "ur": "فی 274 باشندوں پر تقریبا 1 مسلح افسر"
+    },
+    "b21.itemlbl.8": {
+      "hi": "रावलकोट की स्थिति",
+      "en": "Rawalakot status",
+      "ur": "راولکوٹ کی حیثیت"
+    },
+    "b21.itemval.8": {
+      "hi": "सख्त लॉकडाउन; प्रवेश/निकास द्वार सील",
+      "en": "Strict lockdown; entry/exit points sealed",
+      "ur": "سخت لاک ڈاؤن ؛ داخلے/باہر نکلنے کے مقامات کو سیل کر دیا گیا"
+    },
+    "b21.itemlbl.9": {
+      "hi": "संचार",
+      "en": "Communications",
+      "ur": "مواصلات"
+    },
+    "b21.itemval.9": {
+      "hi": "इंटरनेट और मोबाइल सेवाओं में कटौती",
+      "en": "Internet and mobile services cut",
+      "ur": "انٹرنیٹ اور موبائل خدمات منقطع"
+    },
+    "b21.itemlbl.10": {
+      "hi": "मीडिया की पहुंच",
+      "en": "Media access",
+      "ur": "میڈیا تک رسائی"
+    },
+    "b21.itemval.10": {
+      "hi": "प्रभावित जिलों में पत्रकारों को जाने से रोका गया",
+      "en": "Journalists barred from affected districts",
+      "ur": "صحافیوں کو متاثرہ اضلاع میں جانے سے روک دیا گیا"
+    },
+    "b21.itemlbl.11": {
+      "hi": "केंद्रीय जे. ए. ए. सी. कार्यालय",
+      "en": "Central JAAC office",
+      "ur": "مرکزی جے اے اے سی دفتر"
+    },
+    "b21.itemval.11": {
+      "hi": "छापा मारा गया और सील कर दिया गया (7 जून 2026)",
+      "en": "Raided and sealed (7 June 2026)",
+      "ur": "چھاپہ مارا اور سیل کیا گیا (7 جون 2026)"
+    },
+    "b21.itemlbl.12": {
+      "hi": "जे. ए. ए. सी. से जुड़ी गिरफ्तारियां",
+      "en": "JAAC-associated arrests",
+      "ur": "جے اے اے سی سے وابستہ گرفتاریاں"
+    },
+    "b21.itemval.12": {
+      "hi": "जून की शुरुआती कार्रवाई में 100 से अधिक",
+      "en": "Over 100 in initial June crackdown",
+      "ur": "جون کے ابتدائی کریک ڈاؤن میں 100 سے زیادہ"
+    },
+    "b21.itemlbl.13": {
+      "hi": "पी. ओ. जे. के. सुप्रीम कोर्ट का फैसला (8 जून 2026)",
+      "en": "PoJK Supreme Court ruling (8 June 2026)",
+      "ur": "پی او جے کے سپریم کورٹ کا فیصلہ (8 جون 2026)"
+    },
+    "b21.itemval.13": {
+      "hi": "12 आरक्षित शरणार्थी सीटें संवैधानिक रूप से संरक्षित हैं",
+      "en": "12 reserved refugee seats constitutionally protected",
+      "ur": "پناہ گزینوں کی 12 مخصوص نشستیں آئینی طور پر محفوظ ہیں"
+    },
+    "b21.itemlbl.14": {
+      "hi": "38 सूत्री चार्टर की मुख्य मांगें",
+      "en": "38-point charter core demands",
+      "ur": "38 نکاتی چارٹر بنیادی مطالبات"
+    },
+    "b21.itemval.14": {
+      "hi": "मंगला पनबिजली लागत पर बिजली; गिलगित-बाल्टिस्तान के साथ गेहूं के आटे की सब्सिडी समानता; पाकिस्तान में बसे कश्मीरी प्रवासियों के लिए आरक्षित 12 विधानसभा सीटों को समाप्त करना; हिरासत में लिए गए कार्यकर्ताओं की रिहाई; कार्रवाई का अंत; संचार की बहाली; भोजन और दवा की आपूर्ति",
+      "en": "Electricity at Mangla hydropower cost; wheat flour subsidy parity with Gilgit-Baltistan; abolition of 12 Assembly seats reserved for Kashmiri migrants settled in Pakistan; release of detained activists; end to crackdown; restoration of communications; food and medicine supplies",
+      "ur": "منگلا پن بجلی کی قیمت پر بجلی ؛ گلگت بلتستان کے ساتھ گندم کے آٹے کی سبسڈی کی برابری ؛ پاکستان میں آباد کشمیری مہاجرین کے لیے مخصوص 12 اسمبلی نشستوں کا خاتمہ ؛ زیر حراست کارکنوں کی رہائی ؛ کریک ڈاؤن کا خاتمہ ؛ مواصلات کی بحالی ؛ خوراک اور ادویات کی فراہمی"
+    },
+    "b21.itemlbl.15": {
+      "hi": "विधानसभा संरचना",
+      "en": "Assembly composition",
+      "ur": "اسمبلی کی ساخت"
+    },
+    "b21.itemval.15": {
+      "hi": "कुल 53; 45 सीधे निर्वाचित; पाकिस्तान में कश्मीरी प्रवासियों के लिए 12 आरक्षित",
+      "en": "53 total; 45 directly elected; 12 reserved for Kashmiri migrants in Pakistan",
+      "ur": "53 کل ؛ 45 براہ راست منتخب ؛ 12 پاکستان میں کشمیری مہاجرین کے لیے مخصوص"
+    },
+    "b21.itemlbl.16": {
+      "hi": "विधानसभा चुनाव",
+      "en": "Legislative Assembly elections",
+      "ur": "قانون ساز اسمبلی کے انتخابات"
+    },
+    "b21.itemval.16": {
+      "hi": "10 अगस्त 2026 (सुधनोती और रावलकोट) तक स्थगित",
+      "en": "Postponed to 10 August 2026 (Sudhnoti and Rawalakot)",
+      "ur": "10 اگست 2026 (سدھنوتی اور راولکوٹ) تک ملتوی کر دیا گیا"
+    },
+    "b21.itemlbl.17": {
+      "hi": "पी. ओ. जे. के. जिले की आबादी",
+      "en": "PoJK district populations",
+      "ur": "پی او جے کے ضلع کی آبادی"
+    },
+    "b21.itemval.17": {
+      "hi": "मुजफ्फराबाद 712,839; नीलम 227,343; झेलम घाटी 262,602; बाग 448,701; हवेली 175,328; पुंछ 552,997; सुधनोती 316,456; कोटली 809,712; मीरपुर 439,929; भीम्बर 442,968",
+      "en": "Muzaffarabad 712,839; Neelum 227,343; Jhelum Valley 262,602; Bagh 448,701; Haveli 175,328; Poonch 552,997; Sudhnoti 316,456; Kotli 809,712; Mirpur 439,929; Bhimber 442,968",
+      "ur": "مظفر آباد 712, 839 ؛ نیلم 227, 343 ؛ جہلم وادی 262, 602 ؛ باغ 448, 701 ؛ حویلی 175, 328 ؛ پونچھ 552, 997 ؛ سدھنوتی 316, 456 ؛ کوٹلی 809, 712 ؛ میر پور 439, 929 ؛ بھیمبر 442, 968"
+    },
+    "b21.itemlbl.18": {
+      "hi": "कुल पी. ओ. जे. के. जनसंख्या",
+      "en": "Total PoJK population",
+      "ur": "پی او جے کے کی کل آبادی"
+    },
+    "b21.itemval.18": {
+      "hi": "लगभग 4.39 लाख",
+      "en": "Approximately 4.39 million",
+      "ur": "تقریبا 4. 49 ملین"
+    },
+    "b21.itemlbl.19": {
+      "hi": "फील्ड मार्शल असीम मुनीर का हस्तक्षेप",
+      "en": "Field Marshal Asim Munir intervention",
+      "ur": "فیلڈ مارشل اعصام منیر کی مداخلت"
+    },
+    "b21.itemval.19": {
+      "hi": "15 जुलाई 2026 (लॉन्ग मार्च निलंबित)",
+      "en": "15 July 2026 (Long March suspended)",
+      "ur": "15 جولائی 2026 (لانگ مارچ معطل)"
+    },
+    "b21.itemlbl.20": {
+      "hi": "विशेष प्रतिनिधि",
+      "en": "Special representative",
+      "ur": "خصوصی نمائندہ"
+    },
+    "b21.itemval.20": {
+      "hi": "सैयद कमर रजा (अध्यक्ष, ओवरसीज पाकिस्तानी फाउंडेशन)",
+      "en": "Syed Qamar Raza (Chairman, Overseas Pakistanis Foundation)",
+      "ur": "سید قمر رضا (چیئرمین، اوورسیز پاکستان فاؤنڈیشن)"
+    },
+    "b21.itemlbl.21": {
+      "hi": "जे. ए. ए. सी. अल्टीमेटम",
+      "en": "JAAC ultimatum",
+      "ur": "جے اے اے سی الٹی میٹم"
+    },
+    "b21.itemval.21": {
+      "hi": "48 घंटे (7 जुलाई को जारी); आगे की समय सीमा 1 बजे, 27 जुलाई 2026 (दोनों की अवधि समाप्त हो गई)",
+      "en": "48 hours (issued 7 July); further deadline 1 PM, 27 July 2026 (both expired)",
+      "ur": "48 گھنٹے (7 جولائی کو جاری کیا گیا) ؛ مزید آخری تاریخ 1 بجے، 27 جولائی 2026 (دونوں کی میعاد ختم ہوگئی)"
+    },
+    "b21.itemlbl.22": {
+      "hi": "पाकिस्तान के प्रधानमंत्री",
+      "en": "Prime Minister of Pakistan",
+      "ur": "پاکستان کے وزیر اعظم"
+    },
+    "b21.itemval.22": {
+      "hi": "शहबाज शरीफ",
+      "en": "Shehbaz Sharif",
+      "ur": "شہباز شریف"
+    },
+    "b21.itemlbl.23": {
+      "hi": "एम. ई. ए. स्थिति (भारत)",
+      "en": "MEA position (India)",
+      "ur": "ایم ای اے پوزیشن (ہندوستان)"
+    },
+    "b21.itemval.23": {
+      "hi": "रणधीर जैसवाल, 14 जुलाई 2026: \"पाकिस्तान के दशकों लंबे प्रणालीगत शोषण का प्रत्यक्ष परिणाम\"",
+      "en": "Randhir Jaiswal, 14 July 2026: \"direct consequence of Pakistan's decades-long systemic exploitation\"",
+      "ur": "رندھیر جیسوال، 14 جولائی 2026: \"پاکستان کے دہائیوں طویل منظم استحصال کا براہ راست نتیجہ\""
+    },
+    "b21.itemlbl.24": {
+      "hi": "बिलावल भुट्टो जरदारी ने स्वीकार किया",
+      "en": "Bilawal Bhutto Zardari admission",
+      "ur": "بلال بھٹّو زرداری کا اعتراف"
+    },
+    "b21.itemval.24": {
+      "hi": "लंबे समय से जारी अशांति ने पाकिस्तान की कश्मीर स्थिति को नुकसान पहुंचाया",
+      "en": "Prolonged unrest damaging Pakistan's Kashmir position",
+      "ur": "طویل بدامنی سے پاکستان کی کشمیر پوزیشن کو نقصان پہنچ رہا ہے"
+    },
+    "b21.itemlbl.25": {
+      "hi": "व्यापक पाकिस्तानी संस्थागत संकट",
+      "en": "Broader Pakistani institutional crisis",
+      "ur": "وسیع تر پاکستانی ادارہ جاتی بحران"
+    },
+    "b21.itemval.25": {
+      "hi": "बलूचिस्तान और टी. टी. पी. सक्रिय आदिवासी क्षेत्रों में दोहरे विद्रोह (भारत संवाद 23 जून पृष्ठ 1)",
+      "en": "Twin insurgencies in Balochistan and TTP-active tribal areas (Bharat Samvad 23 June Page 1)",
+      "ur": "بلوچستان اور ٹی ٹی پی کے فعال قبائلی علاقوں میں جڑواں شورش (بھارت سمواد 23 جون صفحہ 1)"
+    },
+    "b22.q": {
+      "hi": "पी. ओ. जे. के. में चल रहे विरोध प्रदर्शन पाकिस्तान के दशकों से चले आ रहे व्यवस्थित शोषण, मौलिक अधिकारों से इनकार और उसके अवैध और जबरन कब्जे वाले क्षेत्रों में प्रशासनिक उत्पीड़न का सीधा परिणाम हैं। स्थानीय आबादी की वैध शिकायतों को दूर करने के बजाय, पाकिस्तानी राज्य ने असहाय महिलाओं और बच्चों के खिलाफ अत्यधिक पुलिस क्रूरता के साथ जवाब दिया है।",
+      "en": "\"The ongoing protests in PoJK are a direct consequence of Pakistan's decades-long systemic exploitation, denial of fundamental rights and administrative oppression in areas under its illegal and forcible occupation. Rather than addressing the legitimate grievances of the local population, the Pakistani state has responded with excessive police brutality, including against helpless women and children.\"",
+      "ur": "\"پی او جے کے میں جاری مظاہرے پاکستان کے کئی دہائیوں سے جاری منظم استحصال، اس کے غیر قانونی اور زبردستی قبضے والے علاقوں میں بنیادی حقوق سے انکار اور انتظامی جبر کا براہ راست نتیجہ ہیں۔ مقامی آبادی کی جائز شکایات کو دور کرنے کے بجائے، پاکستانی ریاست نے بے بس خواتین اور بچوں سمیت ضرورت سے زیادہ پولیس بربریت کے ساتھ جواب دیا ہے۔\""
+    },
+    "b22.c": {
+      "hi": "- रणधीर जैसवाल, प्रवक्ता, विदेश मंत्रालय, भारत सरकार (14 जुलाई 2026)",
+      "en": "— Randhir Jaiswal, Spokesperson, Ministry of External Affairs, Government of India (14 July 2026)",
+      "ur": "- رندھیر جیسوال، ترجمان، وزارت خارجہ، حکومت ہند (14 جولائی 2026)"
+    },
+    "b23": {
+      "hi": "सहमति का दावा विफल हो जाता है",
+      "en": "The consent claim collapses",
+      "ur": "رضامندی کا دعوی ٹوٹ جاتا ہے"
+    },
+    "b24": {
+      "hi": "अड़तालीस वर्षों से, कश्मीर पर पाकिस्तान की राजनयिक स्थिति एक ही मूलभूत दावे पर टिकी हुई हैः कि पाकिस्तान के कब्जे वाला जम्मू और कश्मीर अपने ही लोगों की स्वेच्छा से सहमति से शासित है, और व्यापक कश्मीर प्रश्न के किसी भी समाधान को वर्तमान में इस्लामाबाद के नियंत्रण में आबादी के \"आत्मनिर्णय\" का सम्मान करना चाहिए। इस दावे ने संयुक्त राष्ट्र महासभा के अनगिनत भाषणों को आधार बनाया है, पाकिस्तान के लगातार अंतर्राष्ट्रीयकरण के प्रयासों के लिए नैतिक तर्क का गठन किया है, और राजनयिक आवरण प्रदान किया है जिसके पीछे इस्लामाबाद ने दशकों से इस क्षेत्र पर लगाई गई संस्थागत और राजनीतिक व्यवस्थाओं को बनाए रखा है।",
+      "en": "For seventy-eight years, Pakistan's diplomatic position on Kashmir has rested on a single foundational claim: that Pakistan-occupied Jammu and Kashmir is governed by the willing consent of its own people, and that any resolution of the wider Kashmir question must therefore respect the \"self-determination\" of the population currently under Islamabad's control. This claim has anchored innumerable UN General Assembly speeches, formed the moral rationale for Pakistan's persistent internationalisation efforts, and provided the diplomatic cover behind which Islamabad has, over decades, sustained the institutional and political arrangements it has imposed on the region.",
+      "ur": "اٹھتالیس سالوں سے کشمیر کے بارے میں پاکستان کا سفارتی موقف ایک ہی بنیادی دعوے پر قائم رہا ہے: کہ پاکستان کے زیر قبضہ جموں و کشمیر اپنے ہی لوگوں کی رضامندی سے چلتا ہے، اور یہ کہ وسیع تر کشمیر کے مسئلے کے کسی بھی حل کے لیے اس وقت اسلام آباد کے زیر تسلط آبادی کے \"خود ارادیت\" کا احترام کرنا چاہیے۔ اس دعوے نے اقوام متحدہ کی جنرل اسمبلی کی بے شمار تقریروں کی بنیاد رکھی ہے، پاکستان کی مسلسل بین الاقوامی کاری کی کوششوں کے لیے اخلاقی جواز تشکیل دیا ہے، اور سفارتی احاطہ فراہم کیا ہے جس کے پیچھے اسلام آباد نے کئی دہائیوں سے خطے پر عائد کیے گئے ادارہ جاتی اور سیاسی انتظامات کو برقرار رکھا ہے۔"
+    },
+    "b25": {
+      "hi": "पिछले साठ दिनों ने इस दावे को वास्तुकला की दृष्टि से अक्षम्य बना दिया है।",
+      "en": "The past sixty days have made this claim architecturally indefensible.",
+      "ur": "پچھلے ساٹھ دنوں نے اس دعوے کو تعمیراتی لحاظ سے ناقابل تردید بنا دیا ہے۔"
+    },
+    "b26": {
+      "hi": "अब रिकॉर्ड में क्या है, इस पर विचार कीजिएः क्षेत्र की प्रामाणिक आवाज का प्रतिनिधित्व करने वाला एक प्रतिबंधित नागरिक संगठन; राज्य की हिंसा से तीस से अधिक दस्तावेजी मौतें; सोलह हजार सुरक्षाकर्मियों से लेकर चालीस लाख लोगों की पुलिस; लॉकडाउन को बनाए रखने के लिए चार हजार अतिरिक्त रेंजर्स जब वह भी अपर्याप्त था; एक केंद्रीय कार्यालय पर छापा मारा गया और सील कर दिया गया; सौ से अधिक कार्यकर्ताओं को गिरफ्तार किया गया; लोकतांत्रिक होने का दावा करने वाले देश के क्षेत्रों में इंटरनेट ब्लैकआउट; प्रभावित जिलों से पत्रकारों को प्रतिबंधित कर दिया गया; विधानसभा चुनाव स्थगित कर दिए गए क्योंकि राज्य उनका संचालन नहीं कर सकता; एक सर्वोच्च न्यायालय का फैसला जो संवैधानिक तंत्र को मजबूत करता है जिसके माध्यम से क्षेत्र के चुनावी परिणाम बाहर से तैयार किए जाते हैं; और-जैसा कि पीपीपी अध्यक्ष बिलावल भुट्टो जरदारी ने खुद जुलाई में मुजफ्फराबाद में स्वीकार किया-एक लंबी अशांति जिसे बिलावल खुद स्वीकार करते हैं, कश्मीर पर पाकिस्तान की अंतर्राष्ट्रीय स्थिति को नुकसान पहुंचा रहा है।",
+      "en": "Consider what the record now contains: a proscribed civic organisation representing the region's authentic voice; over thirty documented deaths from state violence; sixteen thousand security personnel to police four million people; four thousand additional Rangers to sustain a lockdown when even that was insufficient; a central office raided and sealed; over a hundred activists arrested; internet blackouts across regions of a country that claims to be democratic; journalists barred from affected districts; Legislative Assembly elections postponed because the state cannot conduct them; a Supreme Court ruling that entrenches the constitutional mechanism through which the region's electoral outcomes are engineered from outside; and — as PPP Chairman Bilawal Bhutto Zardari himself acknowledged in July at Muzaffarabad — a prolonged unrest that Bilawal himself concedes is damaging Pakistan's international standing on Kashmir.",
+      "ur": "اب ریکارڈ میں جو کچھ موجود ہے اس پر غور کریں: ایک کالعدم شہری تنظیم جو خطے کی مستند آواز کی نمائندگی کرتی ہے ؛ ریاستی تشدد سے تیس سے زیادہ دستاویزی اموات ؛ سولہ ہزار سیکیورٹی اہلکار سے لے کر پولیس کے چار ملین افراد تک ؛ لاک ڈاؤن کو برقرار رکھنے کے لیے چار ہزار اضافی رینجرز جب کہ وہ بھی ناکافی تھا ؛ ایک مرکزی دفتر پر چھاپے مارے گئے اور سیل کر دیے گئے ؛ ایک سو سے زیادہ کارکنوں کو گرفتار کیا گیا ؛ ایک ایسے ملک کے علاقوں میں انٹرنیٹ بلیک آؤٹ کیا گیا جو جمہوری ہونے کا دعوی کرتا ہے ؛ صحافیوں کو متاثرہ اضلاع سے روک دیا گیا ؛ قانون ساز اسمبلی کے انتخابات ملتوی کر دیے گئے کیونکہ ریاست ان کا انعقاد نہیں کر سکتی ؛ سپریم کورٹ کا ایک فیصلہ جس سے آئینی طریقہ کار کو تقویت ملتی ہے جس کے ذریعے خطے کے انتخابی نتائج باہر سے تیار کیے جاتے ہیں ؛ اور-جیسا کہ پیپلز پارٹی کے چیئرمین بلال بھٹٹو زرداری نے خود جولائی میں مظفر آباد میں تسلیم کیا تھا-ایک طویل بدامنی جس کا بلوال خود اعتراف کرتا ہے وہ کشمیر پر پاکستان کے بین الاقوامی موقف کو نقصان پہنچا رہا ہے۔"
+    },
+    "b27": {
+      "hi": "संयुक्त राष्ट्र के किसी भी मंच पर कोई भी राजनयिक, किसी भी प्रमुख शक्ति के साथ, किसी भी मानवाधिकार के संदर्भ में, किसी भी प्रमुख शक्ति के साथ किसी भी द्विपक्षीय जुड़ाव में, अब एक प्रलेखित रिकॉर्ड का सामना करता है जो स्पष्ट रूप से \"सहमति\" के दावे का खंडन करता है। इस्लामाबाद दोनों यह नहीं कह सकता है कि पीओजेके सहमति से शासित है और साथ ही साथ अपनी आबादी के खिलाफ उस शासन को बनाए रखने के लिए बीस हजार सशस्त्र कर्मियों को तैनात करता है। दोनों प्रस्ताव वास्तुकला की दृष्टि से असंगत हैं।",
+      "en": "Any diplomat, at any UN forum, in any bilateral engagement with any major power, in any human-rights context, now confronts a documented record that categorically contradicts the \"consent\" claim. Islamabad cannot both maintain that PoJK is governed by consent and simultaneously deploy twenty thousand armed personnel to sustain that governance against its own population. The two propositions are architecturally incompatible.",
+      "ur": "اقوام متحدہ کے کسی بھی فورم پر کوئی بھی سفارت کار، انسانی حقوق کے کسی بھی تناظر میں، کسی بھی بڑی طاقت کے ساتھ کسی بھی دو طرفہ مشغولیت میں، اب ایک دستاویزی ریکارڈ کا سامنا کرتا ہے جو واضح طور پر \"رضامندی\" کے دعوے سے متصادم ہے۔ اسلام آباد دونوں اس بات کو برقرار نہیں رکھ سکتا کہ پی او جے کے رضامندی سے چلتا ہے اور بیک وقت بیس ہزار مسلح اہلکاروں کو تعینات کرتا ہے تاکہ اس حکمرانی کو اپنی آبادی کے خلاف برقرار رکھا جا سکے۔ یہ دونوں تجاویز تعمیراتی لحاظ سے مطابقت نہیں رکھتی ہیں۔"
+    },
+    "b28": {
+      "hi": "व्यापक पाकिस्तानी संस्थागत पतन",
+      "en": "The wider Pakistani institutional collapse",
+      "ur": "وسیع تر پاکستانی ادارہ جاتی تباہی"
+    },
+    "b29": {
+      "hi": "पी. ओ. जे. के. संकट को व्यापक संस्थागत संकट से अलग नहीं किया जा सकता है जो पाकिस्तान को उत्तरोत्तर एक साथ कई क्षेत्रों में खा रहा है। भारत संवाद के 23 जून के पृष्ठ 1 के कवरेज में बलूचिस्तान और आदिवासी क्षेत्रों में दोहरे विद्रोहों का दस्तावेजीकरण किया गया है-बलूच लिबरेशन आर्मी के नौ जिलों में विस्तारित अभियान, तहरीक-ए-तालिबान पाकिस्तान का अक्टूबर 2025 से पाकिस्तानी राज्य के साथ निरंतर टकराव और कई समवर्ती क्षेत्रों में पाकिस्तान के सैन्य बैंडविड्थ पर पर्याप्त तनाव। पी. ओ. जे. के. विद्रोह एक साथ तीसरा आंतरिक मोर्चा जोड़ता है, इस बार एक ऐसे क्षेत्र में जहां पाकिस्तान सहमति से शासन करने और अपने कश्मीर से संबंधित राष्ट्रीय हित का अभिन्न अंग होने का दावा करता है।",
+      "en": "The PoJK crisis cannot be separated from the broader institutional distress that is progressively consuming Pakistan across multiple simultaneous theatres. Bharat Samvad's 23 June Page 1 coverage documented the twin insurgencies in Balochistan and the tribal areas — the Baloch Liberation Army's expanded operations across nine districts, the Tehrik-i-Taliban Pakistan's sustained confrontation with the Pakistani state since October 2025, and the substantial strain on Pakistan's military bandwidth across multiple concurrent theatres. The PoJK uprising adds a third simultaneous internal front, this time in a region that Pakistan claims to govern by consent and to be integral to its Kashmir-related national interest.",
+      "ur": "پی او جے کے کے بحران کو وسیع تر ادارہ جاتی پریشانی سے الگ نہیں کیا جا سکتا جو پاکستان کو ایک ساتھ متعدد تھیٹروں میں بتدریج کھا رہا ہے۔ بھارت سمواد کی 23 جون کے صفحہ 1 کی کوریج میں بلوچستان اور قبائلی علاقوں میں جڑواں شورشوں کو دستاویزی شکل دی گئی ہے-بلوچ لبریشن آرمی کی نو اضلاع میں توسیع شدہ کارروائیاں، تحریک طالبان پاکستان کا اکتوبر 2025 سے پاکستانی ریاست کے ساتھ مسلسل تصادم، اور متعدد بیک وقت تھیٹروں میں پاکستان کی فوجی بینڈوتھ پر کافی دباؤ۔ پی او جے کے کی بغاوت ایک تیسرے بیک وقت اندرونی محاذ کا اضافہ کرتی ہے، اس بار ایک ایسے خطے میں جہاں پاکستان رضامندی سے حکومت کرنے اور اپنے کشمیر سے متعلق قومی مفاد کا لازمی حصہ ہونے کا دعوی کرتا ہے۔"
+    },
+    "b30": {
+      "hi": "यह एक ऐसा राज्य है जिसकी संस्थागत क्षमता का परीक्षण एक साथ हर दावा की गई क्षेत्रीय सीमा के पार किया जा रहा है। बलूचिस्तान में, राज्य के आदेश का एक सशस्त्र विद्रोह द्वारा विरोध किया जाता है। आदिवासी क्षेत्रों में, दूसरे द्वारा। पीओजेके में, एक शांतिपूर्ण नागरिक विद्रोह द्वारा जिसे इस्लामाबाद ने एक सशस्त्र विद्रोह के रूप में जवाब दिया है। व्यापक घरेलू राजनीतिक क्षेत्र में, कैद इमरान खान की पाकिस्तान तहरीक-ए-इंसाफ द्वारा। आर्थिक क्षेत्र में, आईएमएफ की शर्तों और प्रगतिशील वित्तीय संकुचन द्वारा।",
+      "en": "The pattern is one of a state whose institutional capacity is being tested across every claimed territorial boundary simultaneously. In Balochistan, the state's writ is contested by an armed insurgency. In the tribal areas, by another. In PoJK, by a peaceful civic uprising that Islamabad has responded to as if it were an armed insurgency. In the wider domestic political sphere, by the imprisoned Imran Khan's Pakistan Tehreek-e-Insaf. In the economic sphere, by IMF conditionalities and progressive fiscal narrowing.",
+      "ur": "یہ نمونہ ایک ایسی ریاست میں سے ایک ہے جس کی ادارہ جاتی صلاحیت کا تجربہ بیک وقت ہر دعوی کردہ علاقائی سرحد کے پار کیا جا رہا ہے۔ بلوچستان میں، ریاست کی رٹ کا مقابلہ ایک مسلح شورش کے ذریعے کیا جاتا ہے۔ قبائلی علاقوں میں، دوسرے کے ذریعے۔ پی او جے کے میں، ایک پرامن شہری بغاوت کے ذریعے جس کا اسلام آباد نے اس طرح جواب دیا جیسے کہ یہ ایک مسلح شورش ہو۔ وسیع تر گھریلو سیاسی میدان میں، قید عمران خان کی پاکستان تحریک انصاف کے ذریعے۔ معاشی میدان میں، آئی ایم ایف کی شرائط اور ترقی پسند مالی تنگیوں کے ذریعے۔"
+    },
+    "b31": {
+      "hi": "फील्ड मार्शल असीम मुनीर के इस्लामाबाद ज्ञापन (17 जून 2026) और बर्गेनस्टॉक (21 जून 2026) सहित मंचों पर पाकिस्तान को एक स्थिर हिंद-प्रशांत अभिनेता और खुद मुनीर को एक क्षेत्रीय शांति निर्माता के रूप में पेश करने के प्रयास, दस्तावेजी रिकॉर्ड के साथ तेजी से विरोधाभास में बैठते हैं कि पाकिस्तान वास्तव में अपनी दावा की गई आबादी के साथ क्या कर रहा है। अनुमानित छवि और परिचालन वास्तविकता के बीच का अंतर अब विनाशकारी रूप से व्यापक है।",
+      "en": "Field Marshal Asim Munir's attempts, at forums including the Islamabad Memorandum (17 June 2026) and Bürgenstock (21 June 2026), to project Pakistan as a stabilising Indo-Pacific actor and Munir himself as a regional peacemaker, sit in accelerating contradiction with the documentary record of what Pakistan is actually doing to its own claimed populations. The gap between projected image and operational reality is now catastrophically wide.",
+      "ur": "اسلام آباد میمورنڈم (17 جون 2026) اور برگن اسٹاک (21 جون 2026) سمیت فورمز پر فیلڈ مارشل اعصام منیر کی پاکستان کو ایک مستحکم ہند بحرالکاہل اداکار اور خود منیر کو ایک علاقائی امن ساز کے طور پر پیش کرنے کی کوششیں، دستاویزی ریکارڈ کے ساتھ تیزی سے تضاد میں بیٹھتی ہیں کہ پاکستان دراصل اپنی دعوی کردہ آبادی کے ساتھ کیا کر رہا ہے۔ متوقع شبیہہ اور آپریشنل حقیقت کے درمیان فرق اب تباہ کن حد تک وسیع ہے۔"
+    },
+    "b32": {
+      "hi": "इस्लामाबाद ने क्या चुना है-और वह क्या चुन सकता था",
+      "en": "What Islamabad has chosen — and what it could have chosen",
+      "ur": "اسلام آباد نے کیا منتخب کیا ہے-اور وہ کیا منتخب کر سکتا تھا"
+    },
+    "b33": {
+      "hi": "पिछले दो महीनों में किसी भी समय, पाकिस्तानी राज्य एक अलग प्रतिक्रिया चुन सकता था। 38-सूत्री चार्टर में ऐसी कोई मांग नहीं थी जिसे एक कार्यशील लोकतांत्रिक राज्य बातचीत के माध्यम से संबोधित नहीं कर सकता था। पनबिजली उत्पादन लागत पर बिजली टैरिफ नीति का मामला है। गिलगित-बाल्टिस्तान के साथ गेहूं के आटे की सब्सिडी समानता बजटीय आवंटन का मामला है। मंत्रियों और नौकरशाहों के लिए कुलीन विशेषाधिकारों को कार्यकारी कार्रवाई के माध्यम से रोका जा सकता है। हिरासत में लिए गए कार्यकर्ताओं की रिहाई अभियोजन के विवेकाधिकार का मामला है। संचार की बहाली के लिए केवल पाकिस्तानी राज्य को उनकी कटौती बंद करने की आवश्यकता है।",
+      "en": "At any point across the past two months, the Pakistani state could have chosen a different response. The 38-point charter contained no demands that a functioning democratic state could not have addressed through negotiation. Electricity at hydropower production cost is a matter of tariff policy. Wheat flour subsidy parity with Gilgit-Baltistan is a matter of budgetary allocation. Elite privileges for ministers and bureaucrats can be curbed through executive action. The release of detained activists is a matter of prosecutorial discretion. Restoration of communications requires only that the Pakistani state stop cutting them.",
+      "ur": "پچھلے دو مہینوں میں کسی بھی وقت، پاکستانی ریاست ایک مختلف جواب کا انتخاب کر سکتی تھی۔ 38 نکاتی چارٹر میں ایسے کوئی مطالبات نہیں تھے جن سے ایک فعال جمہوری ریاست مذاکرات کے ذریعے نمٹ نہیں سکتی تھی۔ پن بجلی کی پیداوار کی لاگت پر بجلی ٹیرف پالیسی کا معاملہ ہے۔ گلگت بلتستان کے ساتھ گندم کے آٹے کی سبسڈی کی برابری بجٹ مختص کرنے کا معاملہ ہے۔ وزرا اور بیوروکریٹس کے لیے اشرافیہ کے مراعات کو ایگزیکٹو کارروائی کے ذریعے روکا جا سکتا ہے۔ زیر حراست کارکنوں کی رہائی استغاثہ کی صوابدید کا معاملہ ہے۔ مواصلات کی بحالی کے لیے صرف یہ ضروری ہے کہ پاکستانی ریاست ان میں کٹوتی کرنا بند کرے۔"
+    },
+    "b34": {
+      "hi": "इस्लामाबाद ने संरचनात्मक रूप से बातचीत करने से इनकार कर दिया है-पाकिस्तान में बसे कश्मीरी प्रवासियों के लिए आरक्षित बारह विधानसभा सीटों को समाप्त करना-ठीक वही मांग है जो पीओजेके के राजनीतिक परिणामों को नियंत्रित करने की पाकिस्तानी राज्य की क्षमता को समाप्त कर देगी। इस्लामाबाद ने मूल आर्थिक और नागरिक शिकायतों को दूर करने के बजाय इस क्षेत्र पर अपने निष्कर्षण-राजनीतिक नियंत्रण की रक्षा करने का विकल्प चुना है जिन्हें तुलनात्मक रूप से आसानी से हल किया जा सकता था।",
+      "en": "The single demand that Islamabad has structurally refused to negotiate — the abolition of the twelve Assembly seats reserved for Kashmiri migrants settled in Pakistan — is exactly the demand that would end the Pakistani state's ability to control PoJK's political outcomes. Islamabad has chosen to defend its extractive-political control over the region rather than address the substantive economic and civic grievances that could have been resolved comparatively easily.",
+      "ur": "واحد مطالبہ جو اسلام آباد نے ساختی طور پر مذاکرات سے انکار کر دیا ہے-پاکستان میں آباد کشمیری مہاجرین کے لیے مخصوص بارہ اسمبلی نشستوں کا خاتمہ-بالکل وہی مطالبہ ہے جو پاکستانی ریاست کی پی او جے کے کے سیاسی نتائج کو کنٹرول کرنے کی صلاحیت کو ختم کر دے گا۔ اسلام آباد نے خطے پر اپنے نکالنے والے سیاسی کنٹرول کا دفاع کرنے کا انتخاب کیا ہے بجائے اس کے کہ ان بنیادی معاشی اور شہری شکایات کو دور کیا جائے جنہیں نسبتا آسانی سے حل کیا جا سکتا تھا۔"
+    },
+    "b35": {
+      "hi": "यह एक विकल्प है। इसके परिणाम हैं। जो राज्य सहमति पर नियंत्रण चुनता है, वह घरेलू और अंतर्राष्ट्रीय समुदाय दोनों के सामने वैध शासन के अपने दावे को खो देता है।",
+      "en": "This is a choice. It has consequences. The state that chooses control over consent forfeits its claim to legitimate governance, both domestically and before the international community.",
+      "ur": "یہ ایک انتخاب ہے۔ اس کے نتائج ہوتے ہیں۔ جو ریاست رضامندی پر اختیار کا انتخاب کرتی ہے وہ ملکی اور بین الاقوامی برادری دونوں کے سامنے جائز حکمرانی کے اپنے دعوے کو کھو دیتی ہے۔"
+    },
+    "b36": {
+      "hi": "आगे क्या होगा?",
+      "en": "What comes next",
+      "ur": "آگے کیا ہوگا؟"
+    },
+    "b37": {
+      "hi": "संकट का तात्कालिक क्षितिज गहरा अनिश्चित है। सुधनोती और रावलकोट में 10 अगस्त 2026 को स्थगित किए गए विधानसभा चुनाव इस बात की पर्याप्त रूप से जांच करेंगे कि क्या इस्लामाबाद उस क्षेत्र के भीतर सबसे बुनियादी लोकतांत्रिक कार्य भी कर सकता है जो वह सहमति से शासन करने का दावा करता है। यदि चुनाव आगे स्थगित कर दिए जाते हैं, या यदि वे निरंतर लॉकडाउन और संचार ब्लैकआउट की शर्तों के तहत आगे बढ़ते हैं जो उन्हें काफी अर्थहीन बनाते हैं, तो \"सहमति\" का दावा निश्चित रूप से समाप्त हो जाएगा। यदि चुनाव बारह शरणार्थी सीटों के साथ जारी रहते हैं, तो जे. ए. ए. सी. की केंद्रीय मांग अनसुलझी रहेगी और अंतर्निहित संकट जारी रहेगा।",
+      "en": "The immediate horizon of the crisis is deeply uncertain. The 10 August 2026 postponed Legislative Assembly elections in Sudhnoti and Rawalakot will substantively test whether Islamabad can conduct even the most basic democratic function within a region it claims to govern by consent. If the elections are postponed further, or if they proceed under conditions of continued lockdown and communications blackout that render them substantively meaningless, the \"consent\" claim will have been definitively concluded. If the elections proceed with the twelve refugee seats intact, the JAAC's central demand will remain unresolved and the underlying crisis will continue.",
+      "ur": "بحران کا فوری افق انتہائی غیر یقینی ہے۔ 10 اگست 2026 کو سدھوتی اور راولکوٹ میں ملتوی ہونے والے قانون ساز اسمبلی کے انتخابات اس بات کی ٹھوس جانچ کریں گے کہ آیا اسلام آباد اس خطے کے اندر بھی سب سے بنیادی جمہوری کام انجام دے سکتا ہے جس کے بارے میں وہ رضامندی سے حکومت کرنے کا دعوی کرتا ہے۔ اگر انتخابات مزید ملتوی کردیئے جاتے ہیں، یا اگر وہ مسلسل لاک ڈاؤن اور مواصلاتی بندش کی شرائط کے تحت آگے بڑھتے ہیں جو انہیں کافی حد تک بے معنی بنا دیتے ہیں، تو \"رضامندی\" کا دعوی قطعی طور پر ختم ہو چکا ہوگا۔ اگر انتخابات بارہ پناہ گزین نشستوں کے ساتھ جاری رہے تو جے اے اے سی کا مرکزی مطالبہ حل نہیں ہوگا اور بنیادی بحران جاری رہے گا۔"
+    },
+    "b38": {
+      "hi": "38-सूत्री चार्टर ही उत्तरोत्तर केंद्रीय मूल प्रश्न बना रहेगा। इस्लामाबाद की यह स्थिति कि ये सीटें संवैधानिक रूप से संरक्षित हैं, पाकिस्तानी कानूनी कल्पना है; इस क्षेत्र का राजनीतिक ढांचा पूरी तरह से संशोधित करने के लिए पाकिस्तानी विधायी क्षमता के भीतर है। जो आवश्यक है वह राजनीतिक इच्छाशक्ति है-और इस्लामाबाद ने किसी भी प्रकार का प्रदर्शन करने से इनकार कर दिया है।",
+      "en": "The 38-point charter itself will progressively remain the central substantive question. Islamabad's stated position that these seats are constitutionally protected is Pakistani legal fiction; the region's political architecture is fully within Pakistani legislative capacity to modify. What is required is political will — and Islamabad has substantively refused to demonstrate any.",
+      "ur": "38 نکاتی چارٹر خود بتدریج مرکزی بنیادی سوال بنا رہے گا۔ اسلام آباد کا بیان کردہ موقف کہ یہ نشستیں آئینی طور پر محفوظ ہیں، پاکستانی قانونی افسانہ ہے۔ خطے کا سیاسی ڈھانچہ مکمل طور پر پاکستانی قانون سازی کی صلاحیت کے اندر ہے۔ جس چیز کی ضرورت ہے وہ سیاسی عزم ہے-اور اسلام آباد نے کسی بھی طرح کا مظاہرہ کرنے سے انکار کر دیا ہے۔"
+    },
+    "b39": {
+      "hi": "अंतर्राष्ट्रीय समुदाय-संयुक्त राष्ट्र मानवाधिकार परिषद, मानवाधिकारों के लिए संयुक्त राष्ट्र उच्चायुक्त का कार्यालय, पश्चिम और उसके बाहर प्रमुख शक्ति वाले विदेश मंत्रालयों और व्यापक बहुपक्षीय मानवाधिकार संरचना-ने विकास को ध्यान में रखना शुरू कर दिया है। 14 जुलाई 2026 का रणधीर जायसवाल का बयान ठोस भारतीय राजनयिक संरचना प्रदान करता है। इसी तरह की चिंताओं को अन्य राजधानियों में धीरे-धीरे उठाया जा रहा है, अभी के लिए चुपचाप, लेकिन एक संग्रहित दस्तावेजी आधार के साथ जिसे उत्तरोत्तर नजरअंदाज करना मुश्किल होगा।",
+      "en": "The international community — the UN Human Rights Council, the Office of the UN High Commissioner for Human Rights, major-power foreign ministries in the West and beyond, and the broader multilateral human-rights architecture — has begun progressively to note the developments. The Randhir Jaiswal statement of 14 July 2026 provides the substantive Indian diplomatic framing. Similar concerns are being progressively raised in other capitals, quietly for now, but with an accumulating documentary base that will progressively be difficult to ignore.",
+      "ur": "بین الاقوامی برادری-اقوام متحدہ کی انسانی حقوق کونسل، اقوام متحدہ کے ہائی کمشنر برائے انسانی حقوق کا دفتر، مغرب اور اس سے باہر کی بڑی طاقت والی وزرائے خارجہ، اور وسیع تر کثیرالجہتی انسانی حقوق کا ڈھانچہ-نے اس پیش رفت کو بتانا شروع کر دیا ہے۔ 14 جولائی 2026 کا رندھیر جیسوال کا بیان ہندوستانی سفارتی ڈھانچہ فراہم کرتا ہے۔ اسی طرح کے خدشات دوسرے دارالحکومتوں میں آہستہ آہستہ اٹھائے جا رہے ہیں، ابھی خاموشی سے، لیکن ایک جمع شدہ دستاویزی بنیاد کے ساتھ جسے بتدریج نظر انداز کرنا مشکل ہوگا۔"
+    },
+    "b40": {
+      "hi": "इसका क्या मतलब है",
+      "en": "What it signifies",
+      "ur": "اس کا کیا مطلب ہے"
+    },
+    "b41": {
+      "hi": "पाकिस्तान के लिए पी. ओ. जे. के. संकट का ठोस संस्थागत नुकसान अब स्थायी है। हर दिन जब इस्लामाबाद अपना वर्तमान दृष्टिकोण जारी रखता है तो यह एक दस्तावेजी रिकॉर्ड में एक और प्रविष्टि जोड़ता है जो आने वाले दशकों तक कश्मीर पर पाकिस्तानी कूटनीति को उत्तरोत्तर परेशान करेगा। बिलावल भुट्टो जरदारी का अपना सार्वजनिक स्वीकारोक्ति कि \"लंबे समय तक अशांति से पाकिस्तान की अंतर्राष्ट्रीय स्थिति और कश्मीर मुद्दे पर उसकी लंबे समय से चली आ रही स्थिति दोनों को नुकसान पहुँचने का खतरा है\"-मुजफ्फराबाद में, जुलाई 2026 में पी. पी. पी. अधिकारियों को दिया गया-उस ठोस रणनीतिक स्व-लक्ष्य को दर्शाता है जो वर्तमान पाकिस्तानी नीति का प्रतिनिधित्व करता है।",
+      "en": "For **Pakistan**, the substantive institutional damage of the PoJK crisis is now permanent. Every day that Islamabad continues its current approach adds another entry to a documentary record that will progressively haunt Pakistani diplomacy on Kashmir for decades to come. Bilawal Bhutto Zardari's own public admission that \"prolonged unrest risks damaging both Pakistan's international standing and its long-standing position on the Kashmir issue\" — delivered at Muzaffarabad, to PPP officials, in July 2026 — captures the substantive strategic own-goal that the current Pakistani policy represents.",
+      "ur": "* * پاکستان کے لیے، پی او جے کے بحران کا ٹھوس ادارہ جاتی نقصان اب مستقل ہے۔ ہر روز جب اسلام آباد اپنا موجودہ نقطہ نظر جاری رکھتا ہے تو ایک دستاویزی ریکارڈ میں ایک اور اندراج کا اضافہ ہوتا ہے جو آنے والی دہائیوں تک کشمیر پر پاکستانی سفارت کاری کو بتدریج پریشان کرے گا۔ بلال بھٹّو زرداری کا اپنا عوامی اعتراف کہ \"طویل بدامنی سے پاکستان کی بین الاقوامی حیثیت اور مسئلہ کشمیر پر اس کے دیرینہ موقف دونوں کو نقصان پہنچنے کا خطرہ ہے\"-جو جولائی 2026 میں مظفر آباد میں پی پی پی کے حکام کو دیا گیا تھا-اس ٹھوس اسٹریٹجک خود مقصد کو ظاہر کرتا ہے جس کی نمائندگی موجودہ پاکستانی پالیسی کرتی ہے۔"
+    },
+    "b42": {
+      "hi": "अंतर्राष्ट्रीय समुदाय के लिए, पीओजेके विद्रोह का साठ दिनों का रिकॉर्ड हाल के दशकों में दक्षिण एशिया में बड़े पैमाने पर राज्य दमन के सबसे ठोस प्रलेखित मामलों में से एक प्रदान करता है। इस क्षेत्र में जातीय अल्पसंख्यकों और विवादित क्षेत्रों की स्थिति पर संयुक्त राष्ट्र मानवाधिकार परिषद के भविष्य के विचार-विमर्श उत्तरोत्तर इस दस्तावेजी आधार पर आकर्षित होंगे।",
+      "en": "For **the international community**, the sixty-day record of the PoJK uprising provides one of the most substantively documented cases of large-scale state repression that South Asia has produced in recent decades. The UN Human Rights Council's future deliberations on the situation of ethnic minorities and disputed territories in the region will progressively draw on this documentary base.",
+      "ur": "بین الاقوامی برادری کے لیے * *، پی او جے کے بغاوت کا ساٹھ دن کا ریکارڈ بڑے پیمانے پر ریاستی جبر کے سب سے ٹھوس دستاویزی واقعات میں سے ایک فراہم کرتا ہے جو جنوبی ایشیا نے حالیہ دہائیوں میں پیش کیا ہے۔ اقوام متحدہ کی انسانی حقوق کونسل کی نسلی اقلیتوں اور خطے کے متنازعہ علاقوں کی صورتحال پر مستقبل کی بات چیت بتدریج اس دستاویزی بنیاد پر مبنی ہوگی۔"
+    },
+    "b43": {
+      "hi": "खुद पी. ओ. जे. के. के लोगों के लिए, संकट का वर्तमान चरण एक अनिश्चित समाधान के साथ पर्याप्त पीड़ाओं में से एक है। तीस से अधिक दस्तावेजी मौतें, लॉकडाउन के तहत दसियों हज़ार, संचार ब्लैकआउट, आवश्यक आपूर्ति को अवरुद्ध करना, कार्यकर्ताओं को हिरासत में लेना और चुनाव स्थगित करना-ये पिछले दो महीनों की परिचालन वास्तविकताएं हैं। फिर भी जे. ए. ए. सी. की निरंतर लामबंदी, इस्लामाबाद द्वारा उस पर फेंके गए सब कुछ के बावजूद, एक ठोस नागरिक लचीलापन प्रदर्शित करती है जिसे कोई भी राज्य दमन कुचलने में सक्षम नहीं है।",
+      "en": "For **the people of PoJK themselves**, the current phase of the crisis is one of substantial suffering with an uncertain resolution. Over thirty documented deaths, tens of thousands under lockdown, communications blackouts, blocked essential supplies, detained activists, and postponed elections — these are the operational realities of the past two months. Yet the JAAC's continued mobilisation, despite everything Islamabad has thrown at it, demonstrates a substantive civic resilience that no amount of state repression has been able to crush.",
+      "ur": "خود پی او جے کے کے لوگوں کے لیے، بحران کا موجودہ مرحلہ ایک غیر یقینی حل کے ساتھ کافی مصائب میں سے ایک ہے۔ تیس سے زیادہ دستاویزی اموات، لاک ڈاؤن کے تحت دسیوں ہزار، مواصلاتی بندش، ضروری سامان کو روکنا، کارکنوں کو حراست میں لینا، اور انتخابات ملتوی کرنا-یہ پچھلے دو مہینوں کی عملی حقائق ہیں۔ پھر بھی جے اے اے سی کی مسلسل نقل و حرکت، اسلام آباد نے اس پر جو کچھ بھی پھینک دیا ہے اس کے باوجود، ایک ٹھوس شہری لچک کو ظاہر کرتی ہے جسے ریاستی جبر کی کوئی مقدار کچلنے میں کامیاب نہیں ہو سکی ہے۔"
+    },
+    "b44": {
+      "hi": "प्रक्षेपवक्र",
+      "en": "The trajectory",
+      "ur": "ٹریکچولیٹری"
+    },
+    "b45": {
+      "hi": "अभी के लिए, 3 अगस्त 2026 की सुबह, जो ठोस संस्थागत रिकॉर्ड पर खड़ा है वह यह हैः पाकिस्तान की पी. ओ. जे. के. कार्रवाई अपने नौवें सप्ताह में प्रवेश कर गई है; जे. ए. ए. सी. विद्रोह को हर उपाय के बावजूद क्षेत्र की नागरिक आबादी का पर्याप्त समर्थन प्राप्त है जो इस्लामाबाद ने इसके खिलाफ तैनात किया है; तीस से अधिक प्रलेखित मौतें, बीस हजार सशस्त्र कर्मी, सील किए गए जिले, संचार में कटौती, और स्थगित चुनाव राज्य की प्रतिक्रिया को परिभाषित करते हैं; 38-सूत्री चार्टर अनसुलझा रहता है; अंतर्राष्ट्रीय समुदाय उत्तरोत्तर विकास पर ध्यान दे रहा है; और इस्लामाबाद का सात दशक का संयुक्त राष्ट्र राजनयिक दावा कि पी. ओ. जे. के. अपने लोगों की सहमति से शासित है, पिछले दो महीनों के प्रलेखित साक्ष्यों पर, अपने पतन को पूरा कर लिया है। आगे का प्रक्षेपवक्र पाकिस्तान को और अधिक संस्थागत नुकसान की ओर है, इसके रिकॉर्ड की और अधिक अंतर्राष्ट्रीय जांच, और-एक अंतिम राजनीतिक समाधान जो अंततः इस्लामाबाद के निवासियों की चार मिलियन की शिकायतों को संबोधित करता है।",
+      "en": "For now, on the morning of 3 August 2026, what stands on the substantive institutional record is this: Pakistan's PoJK crackdown has entered its ninth week; the JAAC uprising continues to command the substantive support of the region's civilian population despite every measure Islamabad has deployed against it; over thirty documented deaths, twenty thousand armed personnel, sealed districts, cut communications, and postponed elections define the state's response; the 38-point charter remains unresolved; the international community is progressively noting the developments; and Islamabad's seven-decade UN diplomatic claim that PoJK is governed by the consent of its people has, on the documented evidence of the past two months, completed its substantive collapse. The trajectory ahead is toward further institutional damage to Pakistan, further international scrutiny of its record, and — one hopes — an eventual political resolution that finally addresses the substantive grievances of the four million residents whom Islamabad has for seventy-eight years claimed to represent but has consistently failed to serve. The uprising continues. The consent claim is over. The reckoning has begun.",
+      "ur": "فی الحال، 3 اگست 2026 کی صبح، جو ٹھوس ادارہ جاتی ریکارڈ پر کھڑا ہے وہ یہ ہے: پاکستان کا پی او جے کے کریک ڈاؤن اپنے نویں ہفتے میں داخل ہو گیا ہے۔ جے اے اے سی کی بغاوت کو خطے کی شہری آبادی کی ٹھوس حمایت حاصل ہے حالانکہ اسلام آباد نے اس کے خلاف ہر اقدام کو تعینات کیا ہے۔ تیس سے زیادہ دستاویزی اموات، بیس ہزار مسلح اہلکار، سیل شدہ اضلاع، منقطع مواصلات، اور ملتوی انتخابات ریاست کے ردعمل کی وضاحت کرتے ہیں۔ 38 نکاتی چارٹر حل نہیں ہوا ہے۔ بین الاقوامی برادری بتدریج پیشرفتوں کو نوٹ کر رہی ہے۔ اور اقوام متحدہ کے سات دہائیوں کے سفارتی دعوے کہ پی او جے کے اپنے لوگوں کی رضامندی سے حکومت کرتا ہے، پچھلے دو مہینوں کے دستاویزی شواہد پر، اس نے اپنا ٹھوس خاتمہ مکمل کیا۔ آگے کا راستہ پاکستان کو مزید ادارہ جاتی نقصان پہنچانے کی طرف ہے، اس کے ریکارڈ کی مزید بین الاقوامی جانچ پڑتال، اور-ایک حتمی سیاسی حل-جس پر بالآخر اسلام آباد کے باشندوں کی چار ملین کی نمائندگی کرنے کا دعوی کیا گیا ہے۔"
+    }
+  }
+}
