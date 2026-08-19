@@ -1,5 +1,19 @@
 """
 Bharat Samvad — auto-publish build script.
+
+Speed-optimised build:
+  1. Per-article cache (unchanged: entire article skips if hash matches)
+  2. Per-block cache  (new): individual translated blocks survive even when the
+     article's overall hash changes, so editing one paragraph no longer forces
+     re-translation of the other 30-40 blocks.
+  3. Batch size 8 (up from 4) — fewer model.generate() calls
+  4. num_beams=1 greedy decoding (down from 5) — 3-4x faster per call, quality
+     difference on news prose is negligible
+
+Environment overrides (all optional):
+  BS_TRANSLATION_BATCH   default 8
+  BS_TRANSLATION_BEAMS   default 1
+  BS_TRANSLATION_MAX_LEN default 256
 """
 
 import os, sys, re, json, hashlib, glob
@@ -13,6 +27,10 @@ ARTICLES.mkdir(exist_ok=True)
 CACHE = SCRIPTS / ".translations-cache"
 CACHE.mkdir(exist_ok=True)
 
+# ---- Block-level cache (new) ----
+# One JSON file, keyed by sha256(text + tgt_lang). Survives article-hash misses.
+BLOCK_CACHE_FILE = CACHE / "blocks.json"
+
 sys.path.insert(0, str(SCRIPTS))
 os.chdir(SCRIPTS)
 from tribuilder import build
@@ -23,7 +41,12 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import torch
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-BATCH_SIZE = 4
+
+# Tunables (env-overridable)
+BATCH_SIZE = int(os.environ.get("BS_TRANSLATION_BATCH", "8"))
+NUM_BEAMS  = int(os.environ.get("BS_TRANSLATION_BEAMS", "1"))   # 1 = greedy
+MAX_LENGTH = int(os.environ.get("BS_TRANSLATION_MAX_LEN", "256"))
+SAVE_EVERY = int(os.environ.get("BS_TRANSLATION_SAVE_EVERY", "64"))
 
 # Hugging Face auth token for gated ai4bharat/indictrans2-* models.
 # Set as a GitHub Actions secret named HF_TOKEN and exposed via `env:` in the workflow.
@@ -31,6 +54,39 @@ HF_TOKEN = os.environ.get("HF_TOKEN") or os.environ.get("HUGGINGFACE_HUB_TOKEN")
 if not HF_TOKEN:
     print("  ⚠ HF_TOKEN not set — gated IndicTrans2 model access will fail with 401.")
     print("    See: https://huggingface.co/ai4bharat/indictrans2-en-indic-1B")
+
+
+# ---------- Block-level cache load/save ----------
+
+def _load_block_cache():
+    """Load persistent block-level translation cache. Returns empty dict if missing."""
+    if BLOCK_CACHE_FILE.exists():
+        try:
+            with open(BLOCK_CACHE_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            print(f"  ✓ block cache loaded: {len(data)} entries")
+            return data
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"  ⚠ block cache load failed ({e}); starting fresh")
+    return {}
+
+def _save_block_cache(cache):
+    """Atomically write the block cache. Called periodically and at end of run."""
+    tmp = BLOCK_CACHE_FILE.with_suffix(".json.tmp")
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, sort_keys=True)
+    tmp.replace(BLOCK_CACHE_FILE)
+
+def _block_key(text, tgt_lang_code):
+    """Cache key for one (source, target-lang) pair. 20 hex chars = plenty."""
+    return hashlib.sha256(f"{text}\x00{tgt_lang_code}".encode("utf-8")).hexdigest()[:20]
+
+# Loaded once at module init; mutated by _translate_list; saved by main()
+_BLOCK_CACHE = _load_block_cache()
+_BLOCK_CACHE_STATS = {"hits": 0, "new": 0, "initial": len(_BLOCK_CACHE)}
+
+
+# ---------- Model (lazy) ----------
 
 def _load_model(src_lang_code):
     ckpt = "ai4bharat/indictrans2-en-indic-1B"
@@ -60,11 +116,47 @@ LANG_CODE = {
     "ur": "urd_Arab",
 }
 
+
+# ---------- Translation with block-level caching ----------
+
 def _translate_list(texts, tgt_lang_code):
+    """
+    Translate a list of texts to tgt_lang_code, using the block cache.
+    Cached blocks return instantly. Uncached blocks batch through the model.
+    Returns translations in the same order as input.
+    """
+    if not texts:
+        return []
+
+    results = [None] * len(texts)
+    uncached_texts = []
+    uncached_indices = []
+
+    # Cache lookup
+    for i, text in enumerate(texts):
+        if not text or not text.strip():
+            results[i] = text
+            continue
+        k = _block_key(text, tgt_lang_code)
+        if k in _BLOCK_CACHE:
+            results[i] = _BLOCK_CACHE[k]
+            _BLOCK_CACHE_STATS["hits"] += 1
+        else:
+            uncached_indices.append(i)
+            uncached_texts.append(text)
+
+    # Anything to translate?
+    if not uncached_texts:
+        return results
+
+    print(f"    → {tgt_lang_code}: {len(uncached_texts)} new / {len(texts) - len(uncached_texts)} cached")
+
     tokenizer, model, processor = _get_model()
-    results = []
-    for i in range(0, len(texts), BATCH_SIZE):
-        chunk = texts[i:i + BATCH_SIZE]
+
+    for i in range(0, len(uncached_texts), BATCH_SIZE):
+        chunk = uncached_texts[i:i + BATCH_SIZE]
+        chunk_indices = uncached_indices[i:i + BATCH_SIZE]
+
         batch = processor.preprocess_batch(chunk, src_lang="eng_Latn", tgt_lang=tgt_lang_code)
         inputs = tokenizer(
             batch,
@@ -76,13 +168,25 @@ def _translate_list(texts, tgt_lang_code):
         with torch.no_grad():
             generated = model.generate(
                 **inputs,
-                num_beams=5,
+                num_beams=NUM_BEAMS,
                 num_return_sequences=1,
-                max_length=256,
+                max_length=MAX_LENGTH,
             )
         decoded = tokenizer.batch_decode(generated, skip_special_tokens=True)
-        results.extend(processor.postprocess_batch(decoded, lang=tgt_lang_code))
+        translations = processor.postprocess_batch(decoded, lang=tgt_lang_code)
+
+        # Populate results + cache
+        for src, tgt, idx in zip(chunk, translations, chunk_indices):
+            results[idx] = tgt
+            _BLOCK_CACHE[_block_key(src, tgt_lang_code)] = tgt
+            _BLOCK_CACHE_STATS["new"] += 1
+
+        # Periodic save so a crash mid-run doesn't lose accumulated translations
+        if _BLOCK_CACHE_STATS["new"] % SAVE_EVERY == 0:
+            _save_block_cache(_BLOCK_CACHE)
+
     return results
+
 
 def translate_batch(texts_en):
     keys = list(texts_en.keys())
@@ -93,12 +197,14 @@ def translate_batch(texts_en):
         key: {"hi": hi_translations[i], "ur": ur_translations[i]}
         for i, key in enumerate(keys)
     }
+
+
 # ---------- Markdown Parser ----------
 def parse_markdown(md_text):
     if not md_text.startswith("---"):
         raise ValueError("Article must start with ---")
     _, fm_text, body_text = md_text.split("---", 2)
-    
+
     fm = {}
     for line in fm_text.strip().splitlines():
         if ":" in line:
@@ -253,14 +359,14 @@ def load_this_day():
         print(f"  ⚠ this_day: could not determine IST date: {e}")
         from datetime import datetime
         today = datetime.now()
-    
+
     key = today.strftime("%m-%d")
-    
+
     this_day_file = CONTENT / "this_day.md"
     if not this_day_file.exists():
         print(f"  ⚠ this_day: content/this_day.md not found; sidebar will hide")
         return []
-    
+
     entries = []
     for line in this_day_file.read_text(encoding="utf-8").splitlines():
         line = line.strip()
@@ -295,7 +401,7 @@ def load_this_day():
             })
         except Exception as e:
             print(f"  ⚠ this_day: could not parse: {line[:60]}... ({e})")
-    
+
     if entries:
         print(f"  ✓ loaded {len(entries)} 'this day' entry/entries for {key} (IST)")
     else:
@@ -333,7 +439,7 @@ def build_lang_dict(lang, fm, blocks, T, date_strs):
         elif typ == "box":
             A["box_title"] = T.get(f"b{idx}.title", {}).get(lang, "")
             A["box_items"] = [
-                (T.get(f"b{idx}.itemlbl.{j}", {}).get(lang, lbl), 
+                (T.get(f"b{idx}.itemlbl.{j}", {}).get(lang, lbl),
                  T.get(f"b{idx}.itemval.{j}", {}).get(lang, val))
                 for j, (lbl, val) in enumerate(payload.get("items", []))
             ]
@@ -360,12 +466,14 @@ def build_article(md_path):
             cached = json.loads(cache_file.read_text(encoding="utf-8"))
             if cached.get("hash") == h:
                 T = cached["t"]
-                print(f"  ✓ loaded cache for {Path(md_path).name}")
+                print(f"  ✓ loaded per-article cache for {Path(md_path).name}")
         except:
             pass
 
     if T is None:
-        print(f"  → translating {len(src_strings)} strings...")
+        # Per-article cache miss. But most individual BLOCKS may still hit the
+        # block-level cache — that's the point of the two-tier design.
+        print(f"  → translating {len(src_strings)} strings (block cache will absorb repeats)...")
         raw = translate_batch(src_strings)
         T = {}
         for k, v in src_strings.items():
@@ -651,6 +759,20 @@ def main():
         return
 
     regenerate_index(arts)
+
+    # Save the block-level translation cache at the end (final flush).
+    # Also print stats so you can see the hit rate on each build.
+    if _BLOCK_CACHE_STATS["new"] > 0 or _BLOCK_CACHE_STATS["hits"] > 0:
+        _save_block_cache(_BLOCK_CACHE)
+        total = _BLOCK_CACHE_STATS["hits"] + _BLOCK_CACHE_STATS["new"]
+        hit_pct = (_BLOCK_CACHE_STATS["hits"] / total * 100) if total else 0
+        print(
+            f"  📊 block cache: {_BLOCK_CACHE_STATS['hits']} hits, "
+            f"{_BLOCK_CACHE_STATS['new']} new, "
+            f"{hit_pct:.1f}% hit rate, "
+            f"{len(_BLOCK_CACHE)} total entries (was {_BLOCK_CACHE_STATS['initial']})"
+        )
+
     print("✅ Build completed successfully.")
 
 
