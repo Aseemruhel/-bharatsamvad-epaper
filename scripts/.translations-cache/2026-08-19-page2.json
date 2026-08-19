@@ -1,0 +1,725 @@
+{
+  "hash": "04b4181e57e6e500",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"जहाज निर्माण · समुद्री निर्यात · आत्मनिर्भर भारत · वित्त वर्ष 27 की पहली तिमाही\"",
+      "en": "\"Shipbuilding · Maritime Exports · Aatmanirbhar Bharat · Q1 FY27\"",
+      "ur": "\"جہاز سازی · سمندری برآمدات · آتم نربھر بھارت · مالی سال 27 کی پہلی سہ ماہی\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली/मुंबई",
+      "en": "New Delhi / Mumbai",
+      "ur": "نئی دہلی/ممبئی"
+    },
+    "fm.headline": {
+      "hi": "\"वित्त वर्ष 27 की पहली तिमाही में भारत का टैंकर निर्यात छह गुना बढ़कर 1.36 करोड़ डॉलर हो गया\"",
+      "en": "\"India's tanker exports surge six-fold to $1.36 billion in Q1 FY27\"",
+      "ur": "\"مالی سال 27 کی پہلی سہ ماہی میں ہندوستان کی ٹینکر برآمدات چھ گنا بڑھ کر 1. 36 بلین ڈالر ہو گئیں\""
+    },
+    "fm.subdeck": {
+      "hi": "\"इस सप्ताह जारी वाणिज्य मंत्रालय के आंकड़ों से पुष्टि होती है कि भारत का टैंकर पोत निर्यात अप्रैल-जून 2026 की तिमाही में 13.6 करोड़ डॉलर तक बढ़ गया, जो वित्त वर्ष 26 की पहली तिमाही में 10 लाख डॉलर था, जो मूल्य में छह गुना से अधिक वृद्धि है और इकाई की मात्रा 10 जहाजों से दोगुनी होकर 23 हो गई है। संयुक्त अरब अमीरात 10 लाख डॉलर और 7 जहाजों (4 जहाज) के साथ प्रमुख गंतव्य के रूप में उभरा, जबकि सिंगापुर ने 30 लाख डॉलर और 6 जहाजों (45.5 लाख डॉलर और 2 से अधिक) के साथ दूसरा स्थान हासिल किया। यह टैंकरों में पेट्रोलियम परिवहन के बारे में नहीं है-यह भारत के टैंकरों के निर्यात के बारे में है, जो स्वतंत्रता के बाद के सबसे परिणामी एकल तिमाहियों में से एक है।\"",
+      "en": "\"Commerce Ministry data released this week confirms India's tanker vessel exports jumped to $1.36 billion in the April-June 2026 quarter, up from $221.1 million in Q1 FY26 — a more than six-fold surge in value, and a doubling of unit volume from 10 vessels to 23. The United Arab Emirates emerged as the dominant destination with $900.8 million and 7 vessels (up from $103.6 million and 4 vessels), while Singapore captured second place at $146.4 million and 6 vessels (up from $45.5 million and 2). This is not about petroleum being transported in tankers — it is about India exporting the tankers themselves, one of the most consequential single quarters India's shipbuilding and maritime engineering sector has recorded in its post-Independence trajectory.\"",
+      "ur": "\"اس ہفتے جاری کردہ وزارت تجارت کے اعداد و شمار اس بات کی تصدیق کرتے ہیں کہ اپریل-جون 2026 کی سہ ماہی میں ہندوستان کے ٹینکر جہازوں کی برآمدات 1. 36 بلین ڈالر تک پہنچ گئیں، جو کہ مالی سال 26 کی پہلی سہ ماہی میں 2 ملین ڈالر تھی، جو کہ قیمت میں چھ گنا سے زیادہ اضافہ ہے، اور یونٹ کا حجم 10 جہازوں سے دوگنا ہو کر 23 ہو گیا ہے۔ متحدہ عرب امارات 10 لاکھ ڈالر اور 7 جہازوں (4 ملین ڈالر اور 4 جہازوں سے زیادہ) کے ساتھ غالب منزل کے طور پر ابھرا، جبکہ سنگاپور نے 3 ملین ڈالر اور 6 جہازوں (45. 5 ملین ڈالر اور 2 سے زیادہ) کے ساتھ دوسرا مقام حاصل کیا۔ یہ ٹینکرز میں پٹرولیم کی نقل و حمل کے بارے میں نہیں ہے-یہ ہندوستان کے ٹینکرز کو خود برآمد کرنے کے بارے میں ہے، جو آزادی کے بعد کے دور میں ریکارڈ کی گئی سب سے زیادہ نتیجہ خیز واحد سہ ماہی میں سے ایک ہے۔\""
+    },
+    "b0": {
+      "hi": "भारत के जहाज निर्माण इतिहास की सबसे परिणामी एकल तिमाहियों में से एक अब आधिकारिक वाणिज्य मंत्रालय के आंकड़ों में दर्ज की गई है। अप्रैल-जून 2026 की तिमाही (वित्त वर्ष 27 की पहली तिमाही) में, भारत का टैंकर पोत निर्यात 13.6 करोड़ डॉलर तक पहुंच गया-जो एक साल पहले वित्त वर्ष 26 की पहली तिमाही में दर्ज किए गए 10 लाख डॉलर से छह गुना अधिक है, और देश द्वारा अब तक के टैंकर निर्यात में सबसे तेज तिमाही वृद्धि है। इकाई-मात्रा की कहानी उतनी ही आश्चर्यजनक हैः वित्त वर्ष 27 की पहली तिमाही में भेजे गए 23 टैंकर जहाज, वित्त वर्ष 26 की इसी तिमाही में 10 की तुलना में, एक वर्ष में भौतिक प्रेषण क्षमता के दोगुने होने को चिह्नित करते हुए। यह डेटा टैंकरों के माध्यम से पेट्रोलियम उत्पादों की आवाजाही को नहीं दर्शाता है-भारत की कहानी पहले से ही दुनिया के सबसे बड़े परिष्कृत-ईंधन निर्यातकों में से एक के रूप में हावी है। यह भारत के खुद को, विदेशी टैंकर मालिकों के लिए निर्मित, निर्यातक जहाजों, और जहाज निर्माता कंपनियों के बारे में बताती है। यह भारत की सबसे अधिक परिचालन क्षमता वाली जहाजरानी कंपनियों में से एक है।",
+      "en": "One of the most consequential single quarters in India's shipbuilding history has now been recorded in official Commerce Ministry data. In the April-June 2026 quarter (Q1 FY27), India's tanker vessel exports reached $1.36 billion — more than six times the $221.1 million recorded in Q1 FY26 a year earlier, and the sharpest single-quarter surge in tanker exports the country has ever produced. The unit-volume story is just as striking: 23 tanker vessels shipped in Q1 FY27, compared with 10 in the corresponding quarter of FY26, marking a doubling of physical dispatch capacity in a single year. What this data captures is not the movement of petroleum products through tankers — a story India already dominates as one of the world's largest refined-fuels exporters. What it captures is India's export of the tanker vessels themselves, built at Indian shipyards, for foreign shipowners and shipping companies. This is one of the most operationally consequential dimensions of the wider Aatmanirbhar Bharat manufacturing self-reliance journey.",
+      "ur": "ہندوستان کی جہاز سازی کی تاریخ کی سب سے زیادہ نتیجہ خیز واحد سہ ماہی میں سے ایک اب وزارت تجارت کے سرکاری اعداد و شمار میں درج کی گئی ہے۔ اپریل-جون 2026 کی سہ ماہی (مالی سال 27 کی پہلی سہ ماہی) میں، ہندوستان کے ٹینکر جہاز کی برآمدات 1. 36 بلین ڈالر تک پہنچ گئیں-جو کہ ایک سال پہلے مالی سال 26 کی پہلی سہ ماہی میں ریکارڈ کیے گئے 1 ملین ڈالر سے چھ گنا زیادہ ہے، اور ملک کی اب تک کی سب سے تیز ٹینکر برآمدات میں ایک سہ ماہی کا اضافہ ہے۔ یونٹ حجم کی کہانی اتنی ہی حیرت انگیز ہے: مالی سال 27 کی پہلی سہ ماہی میں بھیجے گئے 23 ٹینکر جہاز، مالی سال 26 کی اسی سہ ماہی میں 10 کے مقابلے میں، ایک سال میں جسمانی ترسیل کی صلاحیت کو دوگنا کرنے کی نشاندہی کرتے ہیں۔ یہ ڈیٹا ٹینکرز کے ذریعے پٹرولیم مصنوعات کی نقل و حرکت کو ظاہر نہیں کرتا ہے-ہندوستان کی کہانی پہلے ہی دنیا کے سب سے بڑے ریفائنڈ ایندھن کے برآمد کنندگان میں سے ایک کے طور پر غالب ہے۔ یہ ہندوستان کے خود کو، غیر ملکی جہاز ساز کمپنیوں کے لیے بنائے گئے خود مختار ٹینکر جہازوں کی خود مختار، اور ہندوستان کے جہاز ساز کارانہ جہازوں کے سفر"
+    },
+    "b1": {
+      "hi": "संयुक्त अरब अमीरात इन भारतीय निर्मित टैंकरों के लिए एकल प्रमुख गंतव्य के रूप में उभरा है। वित्त वर्ष 27 की पहली तिमाही में संयुक्त अरब अमीरात को $1 मिलियन का टैंकर निर्यात हुआ-वित्त वर्ष 26 की पहली तिमाही में दर्ज किए गए $3 मिलियन का लगभग नौ गुना-जहाजों की संख्या चार से बढ़कर सात हो गई। दुनिया का दूसरा सबसे बड़ा समुद्री केंद्र और एक महत्वपूर्ण बंकर-ईंधन और जहाज-प्रबंधन केंद्र सिंगापुर, 6 जहाजों में टैंकर आयात में $2 मिलियन के साथ दूसरे स्थान पर है (2 से बढ़कर 45.5 लाख डॉलर तक)। उनके बीच, संयुक्त अरब अमीरात और सिंगापुर का कुल $1.36 अरब में से लगभग $1 बिलियन का योगदान है-तिमाही के टैंकर निर्यात मूल्य का 77 प्रतिशत से अधिक। मध्य पूर्व एक समग्र रूप से उस क्षेत्र के रूप में बना हुआ है जहां भारत का जहाज निर्माण निर्यात सबसे अधिक ग्रहणशील है।",
+      "en": "The United Arab Emirates has emerged as the single dominant destination for these Indian-built tankers. Q1 FY27 saw $900.8 million of tanker exports to the UAE — nearly nine times the $103.6 million recorded in Q1 FY26 — with the number of vessels shipped rising from four to seven. Singapore, the world's second-largest maritime hub and a critical bunker-fuel and ship-management centre, captured second place with $146.4 million in tanker imports (up from $45.5 million) across 6 vessels (up from 2). Between them, UAE and Singapore accounted for approximately $1.05 billion of the $1.36 billion total — over 77 per cent of the quarter's tanker export value. The Middle East as a whole progressively continues to be the region where India's shipbuilding exports find their most receptive market.",
+      "ur": "متحدہ عرب امارات ان ہندوستانی ساختہ ٹینکروں کے لیے واحد غالب منزل کے طور پر ابھرا ہے۔ مالی سال 27 کی پہلی سہ ماہی میں متحدہ عرب امارات کو ٹینکر کی برآمدات میں $1 ملین سے زیادہ کی رقم دیکھی گئی-جو کہ مالی سال 26 کی پہلی سہ ماہی میں ریکارڈ کی گئی $3 ملین سے تقریبا نو گنا زیادہ ہے-جہازوں کی تعداد چار سے بڑھ کر سات ہو گئی ہے۔ سنگاپور، جو دنیا کا دوسرا سب سے بڑا سمندری مرکز اور بنکر ایندھن اور جہاز کے انتظام کا ایک اہم مرکز ہے، نے 6 جہازوں میں ٹینکر کی درآمدات میں $2 ملین سے زیادہ (45. 5 ملین ڈالر سے زیادہ) کے ساتھ دوسرے نمبر پر قبضہ کر لیا ہے۔ ان کے درمیان، متحدہ عرب امارات اور سنگاپور نے 1. 36 بلین ڈالر کی کل مالیت میں سے تقریبا 1. 05 بلین ڈالر کا حصہ لیا-جو کہ سہ ماہی کے ٹینکر کی برآمدی قیمت کا 77 فیصد سے زیادہ ہے۔ مشرق وسطی بتدریج وہ خطہ ہے جہاں ہندوستان کی جہاز سازی کی برآمدات سب سے زیادہ قبول ہوتی ہیں۔"
+    },
+    "b2": {
+      "hi": "वास्तव में \"टैंकर निर्यात\" का क्या अर्थ है",
+      "en": "What \"tanker exports\" actually means",
+      "ur": "\"ٹینکر کی برآمدات\" کا اصل مطلب کیا ہے"
+    },
+    "b3": {
+      "hi": "वाणिज्य मंत्रालय के वर्गीकरण के बारे में स्पष्ट रूप से देखने लायक है। टैंकर बड़े पैमाने पर परिवहन जहाज हैं जो विशेष रूप से तरल पदार्थों और गैसों-कच्चे तेल, पेट्रोलियम उत्पादों, रसायनों, तरलीकृत प्राकृतिक गैस (एल. एन. जी.), तरलीकृत पेट्रोलियम गैस (एल. पी. जी.), ताजे पानी और विशेष औद्योगिक तरल पदार्थों की थोक आवाजाही के लिए इंजीनियर हैं। वे वैश्विक ऊर्जा नेटवर्क और औद्योगिक आपूर्ति श्रृंखलाओं की आधारशिलाओं में से एक के रूप में काम करते हैं, जो दुनिया के शिपिंग लेन में महत्वपूर्ण वस्तुओं को ले जाते हैं।",
+      "en": "The Commerce Ministry classification is worth being clear-eyed about. Tankers are large-scale transport ships specifically engineered for the bulk movement of liquids and gases — crude oil, petroleum products, chemicals, liquefied natural gas (LNG), liquefied petroleum gas (LPG), fresh water, and specialised industrial fluids. They serve as one of the cornerstones of global energy networks and industrial supply chains, moving critical commodities across the world's shipping lanes.",
+      "ur": "وزارت تجارت کی درجہ بندی کے بارے میں واضح نظر رکھنے کے قابل ہے۔ ٹینکر بڑے پیمانے پر نقل و حمل کے جہاز ہیں جو خاص طور پر مائع اور گیسوں کی بڑی نقل و حرکت کے لیے تیار کیے گئے ہیں-خام تیل، پٹرولیم مصنوعات، کیمیکل، مائع قدرتی گیس (ایل این جی)، مائع پٹرولیم گیس (ایل پی جی)، تازہ پانی، اور خصوصی صنعتی سیال۔ وہ عالمی توانائی کے نیٹ ورک اور صنعتی سپلائی چین کے سنگ بنیاد کے طور پر کام کرتے ہیں، جو اہم اشیاء کو دنیا کی شپنگ لینوں میں منتقل کرتے ہیں۔"
+    },
+    "b4": {
+      "hi": "यह $1.36 बिलियन का आंकड़ा इन जहाजों के निर्यात मूल्य को दर्शाता है-जो विदेशी जहाज मालिकों और शिपिंग कंपनियों को बेचे जाते हैं, जो उन्हें अंतरराष्ट्रीय व्यापार में तैनात करेंगे। संयुक्त अरब अमीरात को निर्यात किया जाने वाला प्रत्येक भारतीय निर्मित टैंकर अपनी परिचालन सेवा के अगले वर्षों में खाड़ी, लाल सागर, अरब सागर और व्यापक समुद्री मार्गों पर तरल माल ले जाएगा-जिसमें भारत की निर्यात आय को जहाज की बिक्री के माध्यम से ही पहले से मुद्रीकृत किया जाएगा। यह एक बार की लेनदेन आय नहीं है। यह भारत उत्तरोत्तर समुद्री पूंजी उपकरणों का आपूर्तिकर्ता बन रहा है जिसकी वैश्विक व्यापार को कार्य करने की आवश्यकता है।",
+      "en": "The $1.36 billion figure captures the export value of these vessels themselves — sold to foreign shipowners and shipping companies who will then deploy them in international trade. Every Indian-built tanker exported to the UAE will spend the next 20-30 years of its operational service carrying liquid cargo across Gulf, Red Sea, Arabian Sea, and wider oceanic routes — with India's export earnings monetised upfront through the vessel sale itself. This is not one-off transaction income. This is India progressively becoming a supplier of the maritime capital equipment that global trade requires to function.",
+      "ur": "1. 36 بلین ڈالر کا یہ اعداد و شمار خود ان جہازوں کی برآمدی قیمت کو ظاہر کرتا ہے-جو غیر ملکی جہاز مالکان اور شپنگ کمپنیوں کو فروخت کیے جاتے ہیں جو پھر انہیں بین الاقوامی تجارت میں تعینات کریں گے۔ متحدہ عرب امارات کو برآمد کیا جانے والا ہر ہندوستانی ساختہ ٹینکر اپنی آپریشنل سروس کے اگلے سالوں میں خلیج، بحیرہ احمر، بحیرہ عرب اور وسیع تر سمندری راستوں پر مائع کارگو لے کر گزارے گا-جس میں ہندوستان کی برآمدی آمدنی جہاز کی فروخت کے ذریعے ہی پہلے سے حاصل کی جائے گی۔ یہ یک طرفہ لین دین کی آمدنی نہیں ہے۔ یہ ہندوستان بتدریج سمندری سرمائے کے آلات کا سپلائر بن رہا ہے جس کی عالمی تجارت کو ضرورت ہے۔"
+    },
+    "b5": {
+      "hi": "यह अंतर इसलिए महत्वपूर्ण है क्योंकि यह पिछले तीन दशकों से चीन (वैश्विक ऑर्डर का लगभग 50 प्रतिशत), दक्षिण कोरिया (लगभग 30 प्रतिशत) और जापान (लगभग 15 प्रतिशत) के प्रभुत्व वाले क्षेत्र में भारत के विकास को स्थिति देता है। वाणिज्यिक जहाज निर्माण में भारत की वैश्विक हिस्सेदारी ऐतिहासिक रूप से 1 प्रतिशत से कम रही है। वित्त वर्ष 27 की पहली तिमाही में वृद्धि एक प्रारंभिक परिचालन प्रमाणन का प्रतिनिधित्व करती है कि देश की जहाज निर्माण क्षमता वास्तविक वैश्विक बाजार भागीदारी की ओर एक-अंक-प्रतिशत हाशिए से उत्तरोत्तर टूट रही है।",
+      "en": "The distinction matters because it positions India's growth in a sector that had been substantially dominated by China (approximately 50 per cent of global orders), South Korea (approximately 30 per cent), and Japan (approximately 15 per cent) for the past three decades. India's global share of commercial shipbuilding has historically been under 1 per cent. The Q1 FY27 surge represents an early operational validation that the country's shipbuilding capacity is progressively breaking out from single-digit-percentage marginality toward genuine global market participation.",
+      "ur": "یہ فرق اہم ہے کیونکہ یہ ایک ایسے شعبے میں ہندوستان کی ترقی کو پوزیشن دیتا ہے جس پر گزشتہ تین دہائیوں سے چین (عالمی آرڈرز کا تقریبا 50 فیصد)، جنوبی کوریا (تقریبا 30 فیصد)، اور جاپان (تقریبا 15 فیصد) کا کافی غلبہ رہا ہے۔ تجارتی جہاز سازی میں ہندوستان کا عالمی حصہ تاریخی طور پر 1 فیصد سے کم رہا ہے۔ مالی سال 27 کی پہلی سہ ماہی میں اضافہ ایک ابتدائی آپریشنل توثیق کی نمائندگی کرتا ہے کہ ملک کی جہاز سازی کی صلاحیت بتدریج حقیقی عالمی مارکیٹ میں شرکت کی طرف ایک ہندسوں کے فیصد سے باہر نکل رہی ہے۔"
+    },
+    "b6": {
+      "hi": "भारत के समुद्री बाजार के रूप में मध्य पूर्व में संयुक्त अरब अमीरात सबसे आगे है",
+      "en": "The UAE lead — Middle East as India's maritime market",
+      "ur": "متحدہ عرب امارات بھارت کی سمندری منڈی کے طور پر مشرق وسطی میں سرفہرست ہے"
+    },
+    "b7": {
+      "hi": "भारत के प्रमुख टैंकर-पोत निर्यात गंतव्य के रूप में यू. ए. ई. का उभरना चालू वित्त वर्ष के अधिक रणनीतिक रूप से महत्वपूर्ण विकासों में से एक है। अकेले वित्त वर्ष 27 की पहली तिमाही में $1 मिलियन का कब्जा तिमाही के लिए भारत के कुल टैंकर निर्यात का 66 प्रतिशत से अधिक है, और अमीरात के खरीदारों को भेजे गए सात जहाज भारत की कुल टैंकर क्षमता का लगभग एक तिहाई प्रतिनिधित्व करते हैं।",
+      "en": "The UAE's emergence as India's dominant tanker-vessel export destination is one of the more strategically significant developments of the current fiscal year. The $900.8 million captured in Q1 FY27 alone is over 66 per cent of India's total tanker exports for the quarter, and the seven vessels shipped to Emirati buyers represent nearly one-third of India's total dispatched tanker capacity.",
+      "ur": "متحدہ عرب امارات کا ہندوستان کے غالب ٹینکر جہاز کی برآمدی منزل کے طور پر ابھرنا رواں مالی سال کی حکمت عملی سے متعلق اہم پیش رفتوں میں سے ایک ہے۔ صرف مالی سال 27 کی پہلی سہ ماہی میں پکڑے گئے $<ID1 ملین ہندوستان کی سہ ماہی کے لیے ٹینکر کی کل برآمدات کا 66 فیصد سے زیادہ ہے، اور اماراتی خریداروں کو بھیجے گئے سات جہاز ہندوستان کی بھیجے گئے ٹینکر کی کل صلاحیت کا تقریبا ایک تہائی حصہ ہیں۔"
+    },
+    "b8": {
+      "hi": "कई समवर्ती कारक संयुक्त अरब अमीरात के प्रभुत्व की व्याख्या करते हैं। पहला, अमीरात दुनिया की सबसे बड़ी तेल और एल. एन. जी. नौवहन अर्थव्यवस्थाओं में से एक है, जिसमें पर्याप्त बेड़े विस्तार की आवश्यकताएं हैं क्योंकि देश उत्तरोत्तर अपनी हाइड्रोकार्बन निर्यात वास्तुकला और व्यापक खाड़ी रसद नेटवर्क की सेवा करने की क्षमता का निर्माण करता है। दूसरा, भौगोलिक निकटता-पश्चिमी तट पर भारतीय शिपयार्ड से खाड़ी प्राप्त करने वाले बंदरगाहों तक की एक छोटी नौकायन दूरी-पूर्वी एशियाई विकल्पों की तुलना में वितरण लागत और प्रमुख समय को काफी कम करती है। तीसरा, भारत-संयुक्त अरब अमीरात व्यापक आर्थिक साझेदारी समझौता (सी. ई. पी. ए.), जिस पर 2022 में हस्ताक्षर किए गए थे और बाद के चार वर्षों में उत्तरोत्तर चालू किया गया था, ने सीमा पार पूंजी-वस्तुओं के व्यापार के लिए तरजीही शुल्क और नियामक स्थितियां पैदा की हैं। चौथा, संयुक्त अरब अमीरात में पर्याप्त भारतीय प्रवासी और व्यावसायिक समुदाय वाणिज्यिक-संबंध गहराई प्रदान करता है जो कुछ अन्य बाजारों से मेल खा सकता है।",
+      "en": "Several concurrent factors explain the UAE's dominance. First, the Emirates are one of the world's largest oil and LNG shipping economies, with substantial fleet expansion requirements as the country progressively builds capacity to serve its own hydrocarbon export architecture and the wider Gulf logistics network. Second, geographic proximity — a short sailing distance from Indian shipyards on the western coast to Gulf receiving ports — reduces delivery costs and lead times substantially compared with East Asian alternatives. Third, the India-UAE Comprehensive Economic Partnership Agreement (CEPA), signed in 2022 and progressively operationalised across the subsequent four years, has created preferential tariff and regulatory conditions for cross-border capital-goods trade. Fourth, the substantial Indian diaspora and business community in the UAE provides commercial-relationship depth that few other markets can match.",
+      "ur": "کئی ہم آہنگ عوامل متحدہ عرب امارات کے غلبے کی وضاحت کرتے ہیں۔ سب سے پہلے، امارات دنیا کی سب سے بڑی تیل اور ایل این جی شپنگ معیشتوں میں سے ایک ہے، جس میں بیڑے کی توسیع کی کافی ضروریات ہیں کیونکہ ملک بتدریج اپنے ہائیڈرو کاربن برآمدی فن تعمیر اور وسیع تر خلیج لاجسٹک نیٹ ورک کی خدمت کرنے کی صلاحیت پیدا کرتا ہے۔ دوسرا، جغرافیائی قربت-مغربی ساحل پر ہندوستانی شپ یارڈز سے خلیج وصول کرنے والی بندرگاہوں تک مختصر سفر کا فاصلہ-ترسیل کے اخراجات اور لیڈ ٹائم کو مشرقی ایشیائی متبادلات کے مقابلے میں کافی حد تک کم کرتا ہے۔ تیسرا، ہندوستان-متحدہ عرب امارات جامع اقتصادی شراکت داری معاہدہ (سی ای پی اے)، جس پر 2022 میں دستخط ہوئے اور اگلے چار سالوں میں بتدریج عمل میں آیا، نے سرحد پار سرمائے کی اشیاء کی تجارت کے لیے ترجیحی محصولات اور ضابطہ حالات پیدا کیے ہیں۔ چوتھا، متحدہ عرب امارات میں کافی تعداد میں ہندوستانی تارکین وطن اور کاروباری برادری تجارتی تعلقات کی گہرائی فراہم کرتی ہے جس سے کچھ دیگر مارکیٹیں میل کھا سکتی ہیں۔"
+    },
+    "b9": {
+      "hi": "सिंगापुर की दूसरे स्थान की स्थिति एक अलग आयाम को दर्शाती है। दुनिया के सबसे परिणामी समुद्री सेवा केंद्र के रूप में-बंकर ईंधन, जहाज प्रबंधन, जहाज पंजीकरण, समुद्री बीमा, समुद्री वित्त-सिंगापुर वह जगह है जहाँ वैश्विक जहाज लेनदेन उत्तरोत्तर दलाली से किए जाते हैं और भारत निर्मित टैंकरों को आगे की अंतरराष्ट्रीय तैनाती के लिए उत्तरोत्तर प्राप्त किया जाता है। सिंगापुर को निर्यात किया जाने वाला प्रत्येक टैंकर संभावित रूप से तीसरे देश के झंडे के तहत आगे के संचालन के लिए एक जहाज है, जो व्यापक वैश्विक वाणिज्यिक बेड़े में भारत के परिचालन जहाज निर्माण पदचिह्न का विस्तार करता है।",
+      "en": "Singapore's second-place position captures a different dimension. As the world's most consequential maritime services hub — bunker fuel, ship management, ship registration, marine insurance, maritime finance — Singapore is where global ship transactions are progressively brokered and Indian-built tankers are progressively acquired for onward international deployment. Every tanker exported to Singapore is potentially a vessel destined for onward operation under a third-country flag, extending India's operational shipbuilding footprint across the wider global commercial fleet.",
+      "ur": "سنگاپور کی دوسری پوزیشن ایک مختلف جہت کو ظاہر کرتی ہے۔ دنیا کے سب سے زیادہ نتیجہ خیز سمندری خدمات کے مرکز کے طور پر-بنکر فیول، جہاز کا انتظام، جہاز کی رجسٹریشن، سمندری انشورنس، سمندری مالیات-سنگاپور وہ جگہ ہے جہاں عالمی جہاز کے لین دین بتدریج کیے جاتے ہیں اور ہندوستان میں بنے ٹینکرز کو آگے کی بین الاقوامی تعیناتی کے لیے بتدریج حاصل کیا جاتا ہے۔ سنگاپور کو برآمد کیا جانے والا ہر ٹینکر ممکنہ طور پر تیسرے ملک کے جھنڈے کے تحت آگے کے آپریشن کے لیے مقرر کردہ جہاز ہے، جس سے ہندوستان کے آپریشنل جہاز سازی کے نقش کو وسیع تر عالمی تجارتی بیڑے میں بڑھایا جاتا ہے۔"
+    },
+    "b10.title": {
+      "hi": "भारत का वित्त वर्ष 27 की पहली तिमाही में टैंकर निर्यात एक नजर में",
+      "en": "India's Q1 FY27 Tanker Exports at a Glance",
+      "ur": "ہندوستان کی مالی سال 27 کی پہلی سہ ماہی میں ٹینکر کی برآمدات ایک نظر میں"
+    },
+    "b10.itemlbl.0": {
+      "hi": "रिपोर्टिंग अवधि",
+      "en": "Reporting period",
+      "ur": "رپورٹنگ کی مدت"
+    },
+    "b10.itemval.0": {
+      "hi": "अप्रैल-जून 2026 (वित्त वर्ष 27 की पहली तिमाही)",
+      "en": "April-June 2026 (Q1 FY27)",
+      "ur": "اپریل-جون 2026 (مالی سال 27 کی پہلی سہ ماہی)"
+    },
+    "b10.itemlbl.1": {
+      "hi": "कुल टैंकर निर्यात मूल्य",
+      "en": "Total tanker export value",
+      "ur": "ٹینکر کی کل برآمدی قیمت"
+    },
+    "b10.itemval.1": {
+      "hi": "$1.36 करोड़",
+      "en": "$1.36 billion",
+      "ur": "1. 36 بلین ڈالر"
+    },
+    "b10.itemlbl.2": {
+      "hi": "वित्त वर्ष 26 की पहली तिमाही में मूल्य",
+      "en": "Value in Q1 FY26",
+      "ur": "مالی سال 26 کی پہلی سہ ماہی میں قیمت"
+    },
+    "b10.itemval.2": {
+      "hi": "$221.1 मिलियन",
+      "en": "$221.1 million",
+      "ur": "$221.1 ملین"
+    },
+    "b10.itemlbl.3": {
+      "hi": "मूल्य वृद्धि",
+      "en": "Value increase",
+      "ur": "قدر میں اضافہ"
+    },
+    "b10.itemval.3": {
+      "hi": "515 प्रतिशत (6 गुना से अधिक)",
+      "en": "515 per cent (over 6-fold)",
+      "ur": "515 فیصد (6 گنا سے زیادہ)"
+    },
+    "b10.itemlbl.4": {
+      "hi": "कुल निर्यात किए गए जहाज",
+      "en": "Total vessels exported",
+      "ur": "برآمد شدہ کل جہاز"
+    },
+    "b10.itemval.4": {
+      "hi": "23.",
+      "en": "23",
+      "ur": "23"
+    },
+    "b10.itemlbl.5": {
+      "hi": "वित्त वर्ष 26 की पहली तिमाही में पोत",
+      "en": "Vessels in Q1 FY26",
+      "ur": "مالی سال 26 کی پہلی سہ ماہی میں جہاز"
+    },
+    "b10.itemval.5": {
+      "hi": "10.",
+      "en": "10",
+      "ur": "10."
+    },
+    "b10.itemlbl.6": {
+      "hi": "आवाज में वृद्धि",
+      "en": "Volume increase",
+      "ur": "حجم میں اضافہ"
+    },
+    "b10.itemval.6": {
+      "hi": "130 प्रतिशत (दोगुने से अधिक)",
+      "en": "130 per cent (more than double)",
+      "ur": "130 فیصد (دوگنا سے زیادہ)"
+    },
+    "b10.itemlbl.7": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.7": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.8": {
+      "hi": "शीर्ष स्थानः यूएई",
+      "en": "TOP DESTINATION: UAE",
+      "ur": "ٹاپ منزل: متحدہ عرب امارات"
+    },
+    "b10.itemval.8": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.9": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही का मूल्य",
+      "en": "Q1 FY27 value",
+      "ur": "Q1 مالی سال 27 کی قیمت"
+    },
+    "b10.itemval.9": {
+      "hi": "$900.8 मिलियन",
+      "en": "$900.8 million",
+      "ur": "$900.8 ملین"
+    },
+    "b10.itemlbl.10": {
+      "hi": "वित्त वर्ष 26 की पहली तिमाही का मूल्य",
+      "en": "Q1 FY26 value",
+      "ur": "Q1 مالی سال 26 کی قیمت"
+    },
+    "b10.itemval.10": {
+      "hi": "$103.6 मिलियन",
+      "en": "$103.6 million",
+      "ur": "$103.6 ملین"
+    },
+    "b10.itemlbl.11": {
+      "hi": "मूल्य वृद्धि",
+      "en": "Value increase",
+      "ur": "قدر میں اضافہ"
+    },
+    "b10.itemval.11": {
+      "hi": "8. 7x",
+      "en": "8.7x",
+      "ur": "8. 7x"
+    },
+    "b10.itemlbl.12": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही में भेजे गए जहाज",
+      "en": "Vessels shipped Q1 FY27",
+      "ur": "جہازوں کو مالی سال 27 کی پہلی سہ ماہی میں بھیج دیا گیا"
+    },
+    "b10.itemval.12": {
+      "hi": "7.",
+      "en": "7",
+      "ur": "7."
+    },
+    "b10.itemlbl.13": {
+      "hi": "वित्त वर्ष 26 की पहली तिमाही में भेजे गए जहाज",
+      "en": "Vessels shipped Q1 FY26",
+      "ur": "جہازوں کو مالی سال 26 کی پہلی سہ ماہی میں بھیج دیا گیا"
+    },
+    "b10.itemval.13": {
+      "hi": "4.",
+      "en": "4",
+      "ur": "4."
+    },
+    "b10.itemlbl.14": {
+      "hi": "कुल टैंकर निर्यात का हिस्सा",
+      "en": "Share of total tanker exports",
+      "ur": "ٹینکر کی کل برآمدات کا حصہ"
+    },
+    "b10.itemval.14": {
+      "hi": "66 प्रतिशत",
+      "en": "66 per cent",
+      "ur": "66 فیصد"
+    },
+    "b10.itemlbl.15": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.15": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.16": {
+      "hi": "दूसरा गंतव्यः सिंगापुर",
+      "en": "SECOND DESTINATION: SINGAPORE",
+      "ur": "دوسرا مقام: سنگاپور"
+    },
+    "b10.itemval.16": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.17": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही का मूल्य",
+      "en": "Q1 FY27 value",
+      "ur": "Q1 مالی سال 27 کی قیمت"
+    },
+    "b10.itemval.17": {
+      "hi": "$146.4 मिलियन",
+      "en": "$146.4 million",
+      "ur": "$146.4 ملین"
+    },
+    "b10.itemlbl.18": {
+      "hi": "वित्त वर्ष 26 की पहली तिमाही का मूल्य",
+      "en": "Q1 FY26 value",
+      "ur": "Q1 مالی سال 26 کی قیمت"
+    },
+    "b10.itemval.18": {
+      "hi": "45. 5 करोड़ डॉलर",
+      "en": "$45.5 million",
+      "ur": "45. 5 ملین ڈالر"
+    },
+    "b10.itemlbl.19": {
+      "hi": "मूल्य वृद्धि",
+      "en": "Value increase",
+      "ur": "قدر میں اضافہ"
+    },
+    "b10.itemval.19": {
+      "hi": "3. 2x",
+      "en": "3.2x",
+      "ur": "3. 2x"
+    },
+    "b10.itemlbl.20": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही में भेजे गए जहाज",
+      "en": "Vessels shipped Q1 FY27",
+      "ur": "جہازوں کو مالی سال 27 کی پہلی سہ ماہی میں بھیج دیا گیا"
+    },
+    "b10.itemval.20": {
+      "hi": "6.",
+      "en": "6",
+      "ur": "6"
+    },
+    "b10.itemlbl.21": {
+      "hi": "वित्त वर्ष 26 की पहली तिमाही में भेजे गए जहाज",
+      "en": "Vessels shipped Q1 FY26",
+      "ur": "جہازوں کو مالی سال 26 کی پہلی سہ ماہی میں بھیج دیا گیا"
+    },
+    "b10.itemval.21": {
+      "hi": "2.",
+      "en": "2",
+      "ur": "2"
+    },
+    "b10.itemlbl.22": {
+      "hi": "कुल टैंकर निर्यात का हिस्सा",
+      "en": "Share of total tanker exports",
+      "ur": "ٹینکر کی کل برآمدات کا حصہ"
+    },
+    "b10.itemval.22": {
+      "hi": "11 प्रतिशत",
+      "en": "11 per cent",
+      "ur": "11 فیصد"
+    },
+    "b10.itemlbl.23": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.24": {
+      "hi": "प्रमुख भारतीय शिप्यार्ड्स",
+      "en": "KEY INDIAN SHIPYARDS",
+      "ur": "کلیدی ہندوستانی شپ یارڈز"
+    },
+    "b10.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.25": {
+      "hi": "कोचीन शिपयार्ड लिमिटेड (सीएसएल)",
+      "en": "Cochin Shipyard Limited (CSL)",
+      "ur": "کوچین شپ یارڈ لمیٹڈ (سی ایس ایل)"
+    },
+    "b10.itemval.25": {
+      "hi": "कोच्चि, ड्राई-डॉक क्षमता (1,25,000 डी. डब्ल्यू. टी.) के हिसाब से सबसे बड़ा, टैंकरों, विमान वाहक, अपतटीय प्लेटफार्मों का निर्माण करता है।",
+      "en": "Kochi, largest by dry-dock capacity (125,000 DWT), builds tankers, aircraft carriers, offshore platforms",
+      "ur": "کوچی، جو ڈرائی ڈاک کی گنجائش (125, 000 ڈی ڈبلیو ٹی) کے لحاظ سے سب سے بڑا ہے، ٹینکروں، طیارہ بردار بحری جہازوں، آف شور پلیٹ فارموں کی تعمیر کرتا ہے۔"
+    },
+    "b10.itemlbl.26": {
+      "hi": "मझगांव डॉक शिपबिल्डर्स लिमिटेड (एम. डी. एल.)",
+      "en": "Mazagon Dock Shipbuilders Limited (MDL)",
+      "ur": "مزگون ڈاک شپ بلڈرز لمیٹڈ (ایم ڈی ایل)"
+    },
+    "b10.itemval.26": {
+      "hi": "मुंबई, वित्त वर्ष 25 में 11,431 करोड़ रुपये का राजस्व, युद्धपोत, पनडुब्बी, टैंकर, मालवाहक जहाजों का निर्माण करता है",
+      "en": "Mumbai, ₹11,431 crore revenue FY25, builds warships, submarines, tankers, cargo vessels",
+      "ur": "ممبئی، 11, 431 کروڑ روپے کی آمدنی مالی سال 25 میں، جنگی جہاز، آبدوزیں، ٹینکروں، کارگو جہازوں کی تعمیر کرتا ہے"
+    },
+    "b10.itemlbl.27": {
+      "hi": "हिंदुस्तान शिपयार्ड लिमिटेड (एचएसएल)",
+      "en": "Hindustan Shipyard Limited (HSL)",
+      "ur": "ہندوستان شپ یارڈ لمیٹڈ (ایچ ایس ایل)"
+    },
+    "b10.itemval.27": {
+      "hi": "घरेलू बाजार में 18 प्रतिशत हिस्सेदारी, टैंकर, थोक वाहक, अपतटीय आपूर्ति जहाज",
+      "en": "18 per cent domestic market share, tankers, bulk carriers, offshore supply vessels",
+      "ur": "18 فیصد گھریلو مارکیٹ شیئر، ٹینکروں، بلک کیریئرز، آف شور سپلائی جہاز"
+    },
+    "b10.itemlbl.28": {
+      "hi": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (जीआरएसई)",
+      "en": "Garden Reach Shipbuilders and Engineers (GRSE)",
+      "ur": "گارڈن ریچ شپ بلڈرز اینڈ انجینئرز (جی آر ایس ای)"
+    },
+    "b10.itemval.28": {
+      "hi": "कोलकाता, युद्धपोत और वाणिज्यिक जहाज",
+      "en": "Kolkata, warships and commercial vessels",
+      "ur": "کولکتہ، جنگی جہاز اور تجارتی جہاز"
+    },
+    "b10.itemlbl.29": {
+      "hi": "गोवा शिपयार्ड लिमिटेड",
+      "en": "Goa Shipyard Limited",
+      "ur": "گوا شپ یارڈ لمیٹڈ"
+    },
+    "b10.itemval.29": {
+      "hi": "अपतटीय गश्ती जहाज",
+      "en": "offshore patrol vessels",
+      "ur": "سمندر پار گشت کرنے والے جہاز"
+    },
+    "b10.itemlbl.30": {
+      "hi": "एल एंड टी जहाज निर्माण",
+      "en": "L&T Shipbuilding",
+      "ur": "ایل اینڈ ٹی شپ بلڈنگ"
+    },
+    "b10.itemval.30": {
+      "hi": "निजी क्षेत्र, रक्षा और उच्च प्रौद्योगिकी वाले जहाज",
+      "en": "private-sector, defence and high-technology vessels",
+      "ur": "نجی شعبے، دفاعی اور اعلی ٹیکنالوجی کے جہاز"
+    },
+    "b10.itemlbl.31": {
+      "hi": "अडानी डिफेंस एंड शिपबिल्डिंग",
+      "en": "Adani Defence and Shipbuilding",
+      "ur": "اڈانی ڈیفنس اینڈ شپ بلڈنگ"
+    },
+    "b10.itemval.31": {
+      "hi": "मुंद्रा, गुजरात (₹45,000 करोड़ की पहल की घोषणा 2024)",
+      "en": "Mundra, Gujarat (₹45,000 crore initiative announced 2024)",
+      "ur": "مندرا، گجرات (₹45, 000 کروڑ کی پہل کا اعلان 2024)"
+    },
+    "b10.itemlbl.32": {
+      "hi": "हंस रक्षा और भारी उद्योग (पूर्व में पीपावाव)",
+      "en": "Swan Defence and Heavy Industries (formerly Pipavav)",
+      "ur": "سوان ڈیفنس اینڈ ہیوی انڈسٹریز (سابقہ پیپا واؤ)"
+    },
+    "b10.itemval.32": {
+      "hi": "निजी, रासायनिक टैंकर, थोक वाहक",
+      "en": "private, chemical tankers, bulk carriers",
+      "ur": "نجی، کیمیائی ٹینکروں، بلک کیریئرز"
+    },
+    "b10.itemlbl.33": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.33": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.34": {
+      "hi": "वैश्विक और नीति पाठ",
+      "en": "GLOBAL AND POLICY CONTEXT",
+      "ur": "عالمی اور پالیسی متن"
+    },
+    "b10.itemval.34": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.35": {
+      "hi": "भारत की वैश्विक जहाज निर्माण श्रेणी (वर्तमान)",
+      "en": "India's global shipbuilding rank (current)",
+      "ur": "ہندوستان کا عالمی جہاز سازی کا درجہ (موجودہ)"
+    },
+    "b10.itemval.35": {
+      "hi": "लगभग 16वीं-22वीं (श्रेणी के अनुसार भिन्न होती है)",
+      "en": "Approximately 16th-22nd (varies by category)",
+      "ur": "تقریبا 16 ویں-22 ویں (زمرہ کے لحاظ سے مختلف ہوتی ہے)"
+    },
+    "b10.itemlbl.36": {
+      "hi": "वैश्विक बाजार में भारत की हिस्सेदारी",
+      "en": "India's global market share",
+      "ur": "عالمی مارکیٹ میں ہندوستان کا حصہ"
+    },
+    "b10.itemval.36": {
+      "hi": "व्यावसायिक रूप से 1 प्रतिशत से कम",
+      "en": "Less than 1 per cent commercially",
+      "ur": "تجارتی طور پر 1 فیصد سے کم"
+    },
+    "b10.itemlbl.37": {
+      "hi": "समुद्री भारत विजन 2030 लक्ष्य",
+      "en": "Maritime India Vision 2030 target",
+      "ur": "میری ٹائم انڈیا ویژن 2030 کا ہدف"
+    },
+    "b10.itemval.37": {
+      "hi": "दुनिया भर में शीर्ष 10",
+      "en": "Top 10 globally",
+      "ur": "عالمی سطح پر ٹاپ 10"
+    },
+    "b10.itemlbl.38": {
+      "hi": "समुद्री अमृत काल विजन 2047 लक्ष्य",
+      "en": "Maritime Amrit Kaal Vision 2047 target",
+      "ur": "میری ٹائم امرت کال ویژن 2047 کا ہدف"
+    },
+    "b10.itemval.38": {
+      "hi": "विश्व स्तर पर शीर्ष 5",
+      "en": "Top 5 globally",
+      "ur": "عالمی سطح پر ٹاپ 5"
+    },
+    "b10.itemlbl.39": {
+      "hi": "कुल पंजीकृत भारतीय शिपयार्ड",
+      "en": "Total registered Indian shipyards",
+      "ur": "کل رجسٹرڈ ہندوستانی شپ یارڈز"
+    },
+    "b10.itemval.39": {
+      "hi": "लगभग 45 (2025)",
+      "en": "Approximately 45 (2025)",
+      "ur": "تقریبا 45 (2025)"
+    },
+    "b10.itemlbl.40": {
+      "hi": "सार्वजनिक क्षेत्र के शिपयार्ड",
+      "en": "Public sector shipyards",
+      "ur": "پبلک سیکٹر شپ یارڈز"
+    },
+    "b10.itemval.40": {
+      "hi": "8.",
+      "en": "8",
+      "ur": "8"
+    },
+    "b10.itemlbl.41": {
+      "hi": "भारत की तटरेखा",
+      "en": "India's coastline",
+      "ur": "ہندوستان کی ساحلی پٹی"
+    },
+    "b10.itemval.41": {
+      "hi": "11, 098 कि. मी.",
+      "en": "11,098 km",
+      "ur": "11, 098 کلومیٹر"
+    },
+    "b10.itemlbl.42": {
+      "hi": "वैश्विक जहाज निर्माण बाजार हिस्सेदारी",
+      "en": "Global shipbuilding market share",
+      "ur": "عالمی جہاز سازی مارکیٹ شیئر"
+    },
+    "b10.itemval.42": {
+      "hi": "चीन ~50%, दक्षिण कोरिया ~30%, जापान ~15%",
+      "en": "China ~50%, South Korea ~30%, Japan ~15%",
+      "ur": "چین ~50%، جنوبی کوریا ~30%، جاپان ~15%"
+    },
+    "b10.itemlbl.43": {
+      "hi": "₹25,000 करोड़ का समुद्री विकास कोष",
+      "en": "₹25,000 crore Maritime Development Fund",
+      "ur": "25, 000 کروڑ روپے کا میری ٹائم ڈیولپمنٹ فنڈ"
+    },
+    "b10.itemval.43": {
+      "hi": "घोषित केंद्रीय बजट 2025-26",
+      "en": "Announced Union Budget 2025-26",
+      "ur": "اعلان کردہ مرکزی بجٹ 2025-26"
+    },
+    "b10.itemlbl.44": {
+      "hi": "85, 000 करोड़ रुपये का कच्चा तेल टैंकर कार्यक्रम",
+      "en": "₹85,000 crore crude oil tanker programme",
+      "ur": "85, 000 کروڑ روپے کا خام تیل ٹینکر پروگرام"
+    },
+    "b10.itemval.44": {
+      "hi": "112 जहाजों का लक्ष्य, 2047 तक 69 प्रतिशत भारतीय निर्मित/स्वामित्व वाला",
+      "en": "112 vessels, target 69% Indian-built/owned by 2047",
+      "ur": "112 جہاز، 2047 تک 69 فیصد ہندوستانی ساختہ/ملکیت کا ہدف"
+    },
+    "b10.itemlbl.45": {
+      "hi": "जहाज निर्माण वित्तीय सहायता नीति",
+      "en": "Shipbuilding Financial Assistance Policy",
+      "ur": "جہاز سازی کی مالی امداد کی پالیسی"
+    },
+    "b10.itemval.45": {
+      "hi": "2015 (विस्तारित)",
+      "en": "2015 (extended)",
+      "ur": "2015 (توسیع شدہ)"
+    },
+    "b10.itemlbl.46": {
+      "hi": "मंत्रालय",
+      "en": "Ministry",
+      "ur": "وزارت"
+    },
+    "b10.itemval.46": {
+      "hi": "पत्तन, पोत परिवहन और जलमार्ग मंत्रालय",
+      "en": "Ministry of Ports, Shipping and Waterways",
+      "ur": "وزارت بندرگاہیں، جہاز رانی اور آبی گزرگاہیں"
+    },
+    "b10.itemlbl.47": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही में कुल व्यापारिक निर्यात",
+      "en": "Q1 FY27 total merchandise exports",
+      "ur": "مالی سال 27 کی پہلی سہ ماہی میں کل تجارتی برآمدات"
+    },
+    "b10.itemval.47": {
+      "hi": "$129.6 बिलियन (सर्वकालिक तिमाही उच्च)",
+      "en": "$129.6 billion (all-time quarterly high)",
+      "ur": "$129.6 بلین (سہ ماہی میں اب تک کی سب سے زیادہ)"
+    },
+    "b10.itemlbl.48": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही में समग्र व्यापारिक निर्यात वृद्धि",
+      "en": "Overall merchandise export growth Q1 FY27",
+      "ur": "مالی سال 27 کی پہلی سہ ماہی میں تجارتی سامان کی برآمدات میں مجموعی اضافہ"
+    },
+    "b10.itemval.48": {
+      "hi": "16. 1 प्रतिशत सालाना",
+      "en": "16.1 per cent YoY",
+      "ur": "16. 1 فیصد سال بہ سال"
+    },
+    "b11.q": {
+      "hi": "\"यह आँकड़ा भारत में निर्मित टैंकरों और समुद्री परिवहन परिसंपत्तियों की बढ़ती अंतर्राष्ट्रीय माँग को दर्शाता है। जहाज निर्माण और समुद्री इंजीनियरिंग में भारत की बढ़ती क्षमताओं को अब अंतर्राष्ट्रीय बाजारों में मान्यता मिल रही है, जिसमें संयुक्त अरब अमीरात प्रमुख निर्यात गंतव्य के रूप में उभर रहा है।\"",
+      "en": "\"The data reflects rising international demand for Indian-built tankers and marine transportation assets. India's growing capabilities in shipbuilding and maritime engineering are now finding validation in international markets, with the UAE emerging as the dominant export destination.\"",
+      "ur": "\"اعداد و شمار ہندوستان میں بنے ٹینکرز اور سمندری نقل و حمل کے اثاثوں کی بڑھتی ہوئی بین الاقوامی مانگ کی عکاسی کرتے ہیں۔ جہاز سازی اور سمندری انجینئرنگ میں ہندوستان کی بڑھتی ہوئی صلاحیتوں کو اب بین الاقوامی منڈیوں میں توثیق مل رہی ہے، جس میں متحدہ عرب امارات برآمدی منزل کے طور پر ابھر رہا ہے۔\""
+    },
+    "b11.c": {
+      "hi": "- वाणिज्य और उद्योग मंत्रालय की रूपरेखा (अगस्त 2026)",
+      "en": "— Ministry of Commerce and Industry framing (August 2026)",
+      "ur": "- وزارت تجارت و صنعت تشکیل (اگست 2026)"
+    },
+    "b12": {
+      "hi": "भारत की जहाज निर्माण वास्तुकला-खिलाड़ी",
+      "en": "India's shipbuilding architecture — the players",
+      "ur": "ہندوستان کا جہاز سازی کا فن تعمیر-کھلاڑی"
+    },
+    "b13": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही में निर्यात किए गए टैंकर जहाजों का उत्पादन करने वाली परिचालन क्षमता भारतीय शिपयार्डों के एक बड़े समूह द्वारा संचालित है, जो सार्वजनिक क्षेत्र की रक्षा-निर्माण परंपरा और निजी क्षेत्र के वाणिज्यिक जहाज निर्माण आधार दोनों को उत्तरोत्तर मजबूत कर रहा है।",
+      "en": "The operational capacity that produces the tanker vessels exported in Q1 FY27 is anchored by a substantial set of Indian shipyards, spanning both the public-sector defence-manufacturing tradition and the progressively strengthening private-sector commercial shipbuilding base.",
+      "ur": "مالی سال 27 کی پہلی سہ ماہی میں برآمد ہونے والے ٹینکر جہازوں کی پیداواری صلاحیت ہندوستانی شپ یارڈز کے ایک بڑے سیٹ کے ذریعے لنگر انداز ہے، جو سرکاری شعبے کی دفاعی تیاری کی روایت اور نجی شعبے کی تجارتی جہاز سازی کی بنیاد کو بتدریج مضبوط کرتی ہے۔"
+    },
+    "b14": {
+      "hi": "कोच्चि में मुख्यालय और 1972 में स्थापित, कोचीन शिपयार्ड लिमिटेड (सीएसएल) 125,000 डेडवेट टन भार (डीडब्ल्यूटी) तक के जहाजों को सहायता देने वाली ड्राई-डॉक क्षमता के आधार पर भारत की सबसे बड़ी जहाज निर्माण सुविधा है। अपने विमान वाहक निर्माण और युद्धपोत के काम के साथ, सीएसएल तेल टैंकर, थोक वाहक और अपतटीय प्लेटफार्म बनाता है। अक्टूबर 2025 में, सीएसएल ने फ्रांसीसी शिपिंग दिग्गज सीएमए सी. जी. एम. से लगभग 1,700 टी. ई. यू. क्षमता के छह एल. एन. जी. संचालित फीडर कंटेनर जहाजों के लिए एक प्रमुख निर्यात आदेश प्राप्त किया, जिसका मूल्य 2,000 करोड़ रुपये से अधिक था-जो हाल के वर्षों में एक भारतीय शिपयार्ड द्वारा प्राप्त सबसे बड़े एकल वाणिज्यिक निर्यात अनुबंधों में से एक है। जुलाई 2026 में, सीएसएल ने दक्षिण कोरियाई जहाज निर्माण नेता एच. डी. हुंडई के साथ भारतीय और वैश्विक बाजारों में नए जहाज आदेशों की संयुक्त खोज के लिए एक सहयोग समझौते पर हस्ताक्षर किए-एक महत्वपूर्ण रणनीतिक साझेदारी जो हुंडई के वैश्विक ग्राहक संबंधों तक तेजी से पहुंच बनाती है।",
+      "en": "Cochin Shipyard Limited (CSL), headquartered in Kochi and established in 1972, is India's largest shipbuilding facility by dry-dock capacity — supporting vessels up to 125,000 deadweight tonnage (DWT). Alongside its aircraft carrier construction and warship work, CSL builds oil tankers, bulk carriers, and offshore platforms. In October 2025, CSL secured a major export order from French shipping giant CMA CGM for six LNG-powered feeder container vessels of approximately 1,700 TEU capacity each, valued at over ₹2,000 crore — one of the largest single commercial export contracts an Indian shipyard has secured in recent years. In July 2026, CSL signed a cooperation agreement with South Korean shipbuilding leader HD Hyundai for joint pursuit of new vessel orders in Indian and global markets — a substantial strategic partnership that positions CSL to progressively access HD Hyundai's global customer relationships.",
+      "ur": "کوچی شپ یارڈ لمیٹڈ (سی ایس ایل)، جس کا صدر دفتر کوچی میں ہے اور جو 1972 میں قائم ہوا، ڈرائی ڈاک صلاحیت کے لحاظ سے ہندوستان کی سب سے بڑی جہاز سازی کی سہولت ہے-جو 125, 000 ڈیڈ ویٹ ٹنج (ڈی ڈبلیو ٹی) تک کے جہازوں کی مدد کرتی ہے۔ اپنے طیارہ بردار بحری جہاز کی تعمیر اور جنگی جہاز کے کام کے ساتھ، سی ایس ایل تیل کے ٹینکروں، بلک کیریئرز اور آف شور پلیٹ فارم بناتا ہے۔ اکتوبر 2025 میں، سی ایس ایل نے فرانسیسی شپنگ دیو سی ایم اے سی جی ایم سے تقریبا 1, 700 ٹی ای یو صلاحیت کے چھ ایل این جی سے چلنے والے فیڈر کنٹینر جہازوں کے لیے ایک بڑا برآمدی آرڈر حاصل کیا، جس کی قیمت 2, 000 کروڑ روپے سے زیادہ ہے-جو کہ حالیہ برسوں میں ایک ہندوستانی شپ یارڈ کے سب سے بڑے تجارتی برآمدی معاہدوں میں سے ایک ہے۔ جولائی 2026 میں، سی ایس ایل نے جنوبی کوریا کے جہاز سازی کے رہنما ایچ ڈی ہنڈائی کے ساتھ ہندوستانی اور عالمی منڈیوں میں نئے جہاز کے آرڈرز کے مشترکہ تعاقب کے لیے تعاون کے معاہدے پر دستخط کیے-ایک کافی اسٹریٹجک پوزیشن جو ہنڈائی"
+    },
+    "b15": {
+      "hi": "मझगांव डॉक शिपबिल्डर्स लिमिटेड (एम. डी. एल.), जिसकी स्थापना 1934 में मुंबई में हुई थी और अब यह भारत सरकार का एक सार्वजनिक क्षेत्र का उपक्रम है, जिसकी 81.2 प्रतिशत राज्य स्वामित्व है, ने वित्त वर्ष 25 में 11,431 करोड़ रुपये का राजस्व अर्जित किया और 2,324 करोड़ रुपये की शुद्ध आय अर्जित की। अपने प्रमुख रक्षा कार्यों के साथ-साथ भारतीय नौसेना के लिए विध्वंसक, पनडुब्बी और युद्धपोतों का निर्माण-एम. डी. एल. टैंकर, मालवाहक थोक वाहक, यात्री जहाज और नौकाओं का निर्माण करता है। सितंबर 2024 में, एम. डी. एल. ने डेनमार्क के नवी व्यापारियों के लिए संकर प्रणोदन प्रणालियों के साथ बहुउद्देशीय मालवाहक जहाजों का निर्माण शुरू किया, जो इसके सबसे परिणामी हाल के वाणिज्यिक-निर्यात अनुबंधों में से एक है।",
+      "en": "Mazagon Dock Shipbuilders Limited (MDL), established in Mumbai in 1934 and now a Government of India public sector undertaking with 81.2 per cent state ownership, generated ₹11,431 crore of revenue in FY25 and delivered net income of ₹2,324 crore. Alongside its flagship defence work — building destroyers, submarines and warships for the Indian Navy — MDL manufactures tankers, cargo bulk carriers, passenger ships and ferries. In September 2024, MDL began building multipurpose cargo vessels for Denmark's Navi Merchants with hybrid propulsion systems, marking one of its most consequential recent commercial-export contracts.",
+      "ur": "مزگون ڈاک شپ بلڈرز لمیٹڈ (ایم ڈی ایل)، جو 1934 میں ممبئی میں قائم ہوا اور اب 81. 2 فیصد ریاستی ملکیت کے ساتھ حکومت ہند کے سرکاری شعبے کا ایک ادارہ ہے، نے مالی سال 25 میں 11, 431 کروڑ روپے کی آمدنی حاصل کی اور 2, 324 کروڑ روپے کی خالص آمدنی فراہم کی۔ اپنے فلیگ شپ دفاعی کام کے ساتھ ساتھ ہندوستانی بحریہ کے لیے تباہ کن، آبدوزیں اور جنگی جہاز بنانے کے ساتھ-ایم ڈی ایل ٹینکروں، کارگو بلک کیریئرز، مسافر جہازوں اور فیریوں کی تیاری کرتا ہے۔ ستمبر 2024 میں، ایم ڈی ایل نے ہائبرڈ پروپلشن سسٹم کے ساتھ ڈنمارک کے نوی تاجروں کے لیے کثیر مقصدی کارگو جہازوں کی تعمیر شروع کی، جو اس کے حالیہ تجارتی برآمدات کے معاہدوں میں سے ایک ہے۔"
+    },
+    "b16": {
+      "hi": "विशाखापत्तनम में स्थित हिंदुस्तान शिपयार्ड लिमिटेड (एचएसएल) की घरेलू बाजार में लगभग 18 प्रतिशत हिस्सेदारी है और यह टैंकर, थोक वाहक और अपतटीय आपूर्ति जहाजों का निर्माण करता है-जो भारत की टैंकर-पोत निर्माण क्षमता में सबसे परिणामी योगदानकर्ताओं में से एक है।",
+      "en": "Hindustan Shipyard Limited (HSL), based in Visakhapatnam, holds approximately 18 per cent domestic market share and builds tankers, bulk carriers, and offshore supply vessels — one of the most consequential contributors to India's tanker-vessel manufacturing capacity.",
+      "ur": "وشاکھاپٹنم میں واقع ہندوستان شپ یارڈ لمیٹڈ (ایچ ایس ایل)، تقریبا 18 فیصد گھریلو مارکیٹ شیئر رکھتا ہے اور ٹینکروں، بلک کیریئرز اور آف شور سپلائی جہازوں کی تعمیر کرتا ہے-جو ہندوستان کی ٹینکر-جہاز کی مینوفیکچرنگ صلاحیت میں سب سے زیادہ نتیجہ خیز شراکت داروں میں سے ایک ہے۔"
+    },
+    "b17": {
+      "hi": "कोलकाता स्थित गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (जीआरएसई) मुख्य रूप से वाणिज्यिक जहाजों और समुद्री इंजीनियरिंग उत्पादों के साथ-साथ भारतीय नौसेना और तटरक्षक बल के लिए युद्धपोतों का निर्माण करता है।",
+      "en": "Garden Reach Shipbuilders and Engineers (GRSE), Kolkata-based, primarily manufactures warships for the Indian Navy and Coast Guard alongside commercial vessels and marine engineering products.",
+      "ur": "کولکتہ میں واقع گارڈن ریچ شپ بلڈرز اینڈ انجینئرز (جی آر ایس ای) بنیادی طور پر تجارتی جہازوں اور سمندری انجینئرنگ مصنوعات کے ساتھ ساتھ ہندوستانی بحریہ اور کوسٹ گارڈ کے لیے جنگی جہاز تیار کرتا ہے۔"
+    },
+    "b18": {
+      "hi": "गोवा शिपयार्ड लिमिटेड रक्षा ग्राहकों के लिए अपतटीय गश्ती जहाजों और तेज आक्रमण करने वाले जहाजों पर ध्यान केंद्रित करता है।",
+      "en": "Goa Shipyard Limited focuses on offshore patrol vessels and fast attack crafts for defence customers.",
+      "ur": "گوا شپ یارڈ لمیٹڈ دفاعی صارفین کے لیے آف شور گشت جہازوں اور تیز حملہ آور دستوں پر توجہ مرکوز کرتا ہے۔"
+    },
+    "b19": {
+      "hi": "निजी क्षेत्र ने अपने जहाज निर्माण पदचिह्न को उत्तरोत्तर मजबूत किया है। एल एंड टी जहाज निर्माण, अनुमानित 15 प्रतिशत बाजार हिस्सेदारी के साथ, उच्च-प्रौद्योगिकी रक्षा जहाजों, अपतटीय प्लेटफार्मों और युद्धपोतों पर ध्यान केंद्रित करता है। अडानी डिफेंस एंड शिपबिल्डिंग ने भारत को एक वैश्विक वाणिज्यिक जहाज निर्माण खिलाड़ी के रूप में स्थापित करने के उद्देश्य से 2024 में अपनी 45,000 करोड़ रुपये की मुंद्रा पोर्ट जहाज निर्माण पहल शुरू की। स्वान डिफेंस एंड हैवी इंडस्ट्रीज (पूर्व में पिपावाव डिफेंस) ने नॉर्वे के मालिकों और कामसरमैक्स थोक वाहक से रासायनिक टैंकरों के लिए ऑर्डर बुक किए हैं, जिससे निजी क्षेत्र की वाणिज्यिक टैंकर क्षमता का उत्तरोत्तर विस्तार हो रहा है।",
+      "en": "The private sector has progressively strengthened its shipbuilding footprint. L&T Shipbuilding, with an estimated 15 per cent market share, focuses on high-technology defence vessels, offshore platforms and warships. Adani Defence and Shipbuilding launched its ₹45,000 crore Mundra Port shipbuilding initiative in 2024, aiming to position India as a global commercial shipbuilding player. Swan Defence and Heavy Industries (formerly Pipavav Defence) has booked orders for chemical tankers from Norwegian owners and Kamsarmax bulk carriers, progressively expanding private-sector commercial tanker capacity.",
+      "ur": "نجی شعبے نے اپنے جہاز سازی کے نقش قدم کو بتدریج مضبوط کیا ہے۔ ایل اینڈ ٹی شپ بلڈنگ، جس کا تخمینہ 15 فیصد مارکیٹ شیئر ہے، اعلی ٹیکنالوجی والے دفاعی جہازوں، آف شور پلیٹ فارمز اور جنگی جہازوں پر مرکوز ہے۔ اڈانی ڈیفنس اینڈ شپ بلڈنگ نے 2024 میں اپنی 45, 000 کروڑ روپے کی منڈرا پورٹ شپ بلڈنگ پہل کا آغاز کیا، جس کا مقصد ہندوستان کو عالمی تجارتی جہاز سازی کے کھلاڑی کے طور پر قائم کرنا ہے۔ سوان ڈیفنس اینڈ ہیوی انڈسٹریز (سابقہ پیپاؤ ڈیفنس) نے ناروے کے مالکان اور کامسرمیکس بلک کیریئرز سے کیمیائی ٹینکروں کے آرڈر بک کیے ہیں، جس سے نجی شعبے کے تجارتی ٹینکر کی صلاحیت میں بتدریج توسیع ہوئی ہے۔"
+    },
+    "b20": {
+      "hi": "भारत विश्व स्तर पर कहाँ है और देश कहाँ जा रहा है",
+      "en": "Where India ranks globally — and where the country is going",
+      "ur": "ہندوستان عالمی سطح پر کہاں ہے-اور ملک کہاں جا رہا ہے"
+    },
+    "b21": {
+      "hi": "वैश्विक जहाज निर्माण में भारत की वर्तमान स्थिति महत्वपूर्ण है। विभिन्न डेटा स्रोतों ने वाणिज्यिक जहाज निर्माण में देश को वैश्विक स्तर पर 16वें और 22वें स्थान पर रखा है, जिसमें भारत की वैश्विक बाजार हिस्सेदारी टन भार के हिसाब से 1 प्रतिशत से कम है। चीन, दक्षिण कोरिया और जापान सामूहिक रूप से वैश्विक वाणिज्यिक जहाज निर्माण उत्पादन का 90-95 प्रतिशत नियंत्रित करते हैं। अकेले चीन प्रति वर्ष 1,000 से अधिक वाणिज्यिक जहाजों का निर्माण करता है; भारत का कुल उत्पादन एक मजबूत वर्ष में सालाना 30 बड़े वाणिज्यिक जहाजों से कम है।",
+      "en": "India's current position in global shipbuilding is one of substantial catch-up. Different data sources rank the country between 16th and 22nd globally in commercial shipbuilding, with India's global market share under 1 per cent by tonnage. China, South Korea, and Japan collectively control 90-95 per cent of global commercial shipbuilding output. China alone builds over 1,000 commercial ships per year; India's aggregate output remains under 30 large commercial vessels annually in a strong year.",
+      "ur": "عالمی جہاز سازی میں ہندوستان کی موجودہ پوزیشن کافی حد تک پکڑنے والی ہے۔ مختلف ڈیٹا ذرائع تجارتی جہاز سازی میں عالمی سطح پر ملک کو 16 ویں اور 22 ویں کے درمیان درجہ دیتے ہیں، جس میں ہندوستان کا عالمی مارکیٹ میں حصہ ٹنج کے لحاظ سے 1 فیصد سے کم ہے۔ چین، جنوبی کوریا اور جاپان اجتماعی طور پر عالمی تجارتی جہاز سازی کی پیداوار کا 90-95 فیصد کنٹرول کرتے ہیں۔ صرف چین ہی ہر سال 1, 000 سے زیادہ تجارتی جہاز بناتا ہے۔ ہندوستان کی مجموعی پیداوار ایک مضبوط سال میں سالانہ 30 بڑے تجارتی جہازوں سے کم رہتی ہے۔"
+    },
+    "b22": {
+      "hi": "पत्तन, पोत परिवहन और जलमार्ग मंत्रालय ने एक स्पष्ट प्रगति पथ स्पष्ट किया है। समुद्री भारत विजन 2030 का लक्ष्य 2030 तक भारत को अपनी वर्तमान श्रेणी से वैश्विक शीर्ष 10 में ले जाना है। समुद्री अमृत काल विजन 2047 का लक्ष्य 2047 तक शीर्ष-5 में जगह बनाना है। दोनों लक्ष्यों के लिए पर्याप्त संरचनात्मक विस्तार की आवश्यकता है-नए शिपयार्ड, मौजूदा यार्ड क्षमता का विस्तार, वित्तीय-समर्थन वास्तुकला को गहरा करना और निर्यात प्रतिस्पर्धा को उत्तरोत्तर मजबूत करना।",
+      "en": "The Ministry of Ports, Shipping and Waterways has articulated a clear catch-up trajectory. Maritime India Vision 2030 targets India's advancement from its current rank to the global top 10 by 2030. Maritime Amrit Kaal Vision 2047 targets top-5 positioning by 2047. Both targets require substantial structural expansion — new shipyards, expanded existing yard capacity, deepened financial-support architecture, and progressively strengthened export competitiveness.",
+      "ur": "بندرگاہوں، جہاز رانی اور آبی گزرگاہوں کی وزارت نے ایک واضح رفتار کا تعین کیا ہے۔ میری ٹائم انڈیا ویژن 2030 کا ہدف 2030 تک ہندوستان کو اپنے موجودہ درجہ سے عالمی ٹاپ 10 میں پہنچانا ہے۔ میری ٹائم امرت کال ویژن 2047 کا ہدف 2047 تک ٹاپ 5 پوزیشن حاصل کرنا ہے۔ دونوں اہداف کے لیے خاطر خواہ ڈھانچہ جاتی توسیع کی ضرورت ہے-نئے شپ یارڈز، موجودہ یارڈ کی صلاحیت میں توسیع، مالی معاونت کے ڈھانچے کو گہرا کرنا، اور برآمدی مسابقت کو بتدریج مضبوط کرنا۔"
+    },
+    "b23": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही में टैंकरों के निर्यात में वृद्धि एक प्रारंभिक परिचालन संकेत का प्रतिनिधित्व करती है कि विजन 2030 प्रक्षेपवक्र उत्तरोत्तर आकार ले रहा है। एक ही वर्ष में इकाई निर्यात का दोगुना होना, मूल्य में छह गुना वृद्धि के साथ, ठीक उसी तरह का त्वरित निर्माण है जिसकी किसी भी बड़े औद्योगिक विकास के लिए आवश्यकता होती है क्योंकि यह पलायन वेग के करीब पहुंचता है।",
+      "en": "The Q1 FY27 tanker export surge represents an early operational signal that the Vision 2030 trajectory is progressively taking shape. A doubling of unit exports in a single year, combined with a six-fold value surge, is precisely the kind of accelerating build-out that any large industrial catch-up requires as it approaches escape velocity.",
+      "ur": "مالی سال 27 کی پہلی سہ ماہی میں ٹینکر کی برآمدات میں اضافہ ایک ابتدائی آپریشنل اشارے کی نمائندگی کرتا ہے کہ ویژن 2030 کا راستہ بتدریج شکل اختیار کر رہا ہے۔ ایک ہی سال میں یونٹ کی برآمدات کا دوگنا ہونا، قیمت میں چھ گنا اضافے کے ساتھ مل کر، بالکل اسی طرح کی تیز رفتار تعمیر ہے جس کی کسی بھی بڑے صنعتی کیچ اپ کو ضرورت ہوتی ہے کیونکہ یہ فرار کی رفتار کے قریب پہنچتا ہے۔"
+    },
+    "b24": {
+      "hi": "नीति का ढेर उछाल को चला रहा है",
+      "en": "The policy stack driving the surge",
+      "ur": "پالیسی کا اسٹیک اضافے کو چلاتا ہے"
+    },
+    "b25": {
+      "hi": "वित्त वर्ष 27 की पहली तिमाही की उपलब्धि उन नीतिगत साधनों पर आधारित है जिन्हें सरकार ने पिछले कई वर्षों में उत्तरोत्तर मजबूत किया है।",
+      "en": "The Q1 FY27 achievement rests on a set of policy instruments that the Government has progressively strengthened across the past several years.",
+      "ur": "مالی سال 27 کی پہلی سہ ماہی کی کامیابی پالیسی ساز آلات کے ایک سیٹ پر منحصر ہے جسے حکومت نے گزشتہ کئی سالوں میں بتدریج مضبوط کیا ہے۔"
+    },
+    "b26": {
+      "hi": "2015 की जहाज निर्माण वित्तीय सहायता नीति वाणिज्यिक पोत निर्माण के लिए भारतीय शिपयार्डों को प्रत्यक्ष सब्सिडी प्रदान करती है, जिससे भारतीय यार्डों और पूर्वी एशियाई प्रतिस्पर्धियों के बीच लागत अंतर धीरे-धीरे कम होता जाता है।",
+      "en": "The 2015 Shipbuilding Financial Assistance Policy provides direct subsidies to Indian shipyards for commercial vessel construction, progressively narrowing the cost differential between Indian yards and East Asian competitors.",
+      "ur": "2015 کی جہاز سازی کی مالی امداد کی پالیسی تجارتی جہازوں کی تعمیر کے لیے ہندوستانی جہاز خانوں کو براہ راست سبسڈی فراہم کرتی ہے، جس سے ہندوستانی گز اور مشرقی ایشیائی حریفوں کے درمیان لاگت کے فرق کو بتدریج کم کیا جاتا ہے۔"
+    },
+    "b27": {
+      "hi": "केंद्रीय बजट में घोषित 25,000 करोड़ रुपये का समुद्री विकास कोष जहाज निर्माण क्षमता विस्तार, जहाज अधिग्रहण और जहाज-मरम्मत बुनियादी ढांचे के लिए दीर्घकालिक वित्तपोषण प्रदान करता है।",
+      "en": "The Maritime Development Fund of ₹25,000 crore, announced in the Union Budget 2025-26, provides long-term financing for shipbuilding capacity expansion, ship acquisition, and ship-repair infrastructure.",
+      "ur": "مرکزی بجٹ میں اعلان کردہ 25, 000 کروڑ روپے کا میری ٹائم ڈیولپمنٹ فنڈ، جہاز سازی کی صلاحیت میں توسیع، جہاز کے حصول اور جہاز کی مرمت کے بنیادی ڈھانچے کے لیے طویل مدتی مالی اعانت فراہم کرتا ہے۔"
+    },
+    "b28": {
+      "hi": "112 कच्चे तेल के टैंकरों के लिए 85,000 करोड़ रुपये का कार्यक्रम-2047 तक भारत के कच्चे तेल के आयात को ले जाने वाले बेड़े के 69 प्रतिशत भारतीय निर्मित और भारतीय स्वामित्व वाले कवरेज का लक्ष्य-पर्याप्त गारंटीकृत घरेलू मांग प्रदान करता है जिसके खिलाफ भारतीय शिपयार्ड उचित बाजार निश्चितता के साथ क्षमता का निर्माण कर सकते हैं।",
+      "en": "The ₹85,000 crore programme for 112 crude oil tankers — targeting 69 per cent Indian-built and Indian-owned coverage of the fleet transporting India's crude imports by 2047 — provides substantial guaranteed domestic demand that Indian shipyards can build capacity against with reasonable market certainty.",
+      "ur": "112 خام تیل کے ٹینکروں کے لیے 85, 000 کروڑ روپے کا پروگرام-جس کا ہدف 2047 تک ہندوستان کی خام درآمدات کو لے جانے والے بیڑے کی 69 فیصد ہندوستانی ساختہ اور ہندوستانی ملکیت کی کوریج ہے-کافی حد تک گھریلو مانگ کی ضمانت فراہم کرتا ہے جس کے خلاف ہندوستانی شپ یارڈز معقول مارکیٹ یقین کے ساتھ صلاحیت پیدا کر سکتے ہیں۔"
+    },
+    "b29": {
+      "hi": "2022 में हस्ताक्षरित भारत-यूएई व्यापक आर्थिक साझेदारी समझौते (सीईपीए) ने समुद्री उपकरणों सहित पूंजीगत वस्तुओं में द्विपक्षीय व्यापार के लिए शुल्क और गैर-शुल्क बाधाओं को उत्तरोत्तर कम कर दिया है-जो भारत के प्रमुख टैंकर-निर्यात गंतव्य के रूप में यूएई के उदय के महत्वपूर्ण कारकों में से एक है।",
+      "en": "The India-UAE Comprehensive Economic Partnership Agreement (CEPA), signed in 2022, has progressively reduced tariff and non-tariff barriers to bilateral trade in capital goods including maritime equipment — one of the substantial factors underlying the UAE's emergence as India's dominant tanker-export destination.",
+      "ur": "2022 میں دستخط کیے گئے ہندوستان-متحدہ عرب امارات جامع اقتصادی شراکت داری معاہدے (سی ای پی اے) نے سمندری آلات سمیت سرمائے کے سامان میں دو طرفہ تجارت کے لیے محصولات اور غیر محصولات کی رکاوٹوں کو بتدریج کم کیا ہے-جو کہ متحدہ عرب امارات کے ہندوستان کے غالب ٹینکر-برآمد منزل کے طور پر ابھرنے کے بنیادی عوامل میں سے ایک ہے۔"
+    },
+    "b30": {
+      "hi": "2015 में शुरू किए गए सागरमाला कार्यक्रम ने भारत के बंदरगाह बुनियादी ढांचे और तटीय नौवहन क्षमता का उत्तरोत्तर विस्तार किया है, जिससे व्यापक समुद्री पारिस्थितिकी तंत्र को मजबूत किया गया है जिसके भीतर जहाज निर्माण संचालित होता है।",
+      "en": "The Sagarmala programme, launched in 2015, has progressively expanded India's port infrastructure and coastal shipping capacity, strengthening the wider maritime ecosystem within which shipbuilding operates.",
+      "ur": "2015 میں شروع کیے گئے ساگر مالا پروگرام نے ہندوستان کے بندرگاہ کے بنیادی ڈھانچے اور ساحلی جہاز رانی کی صلاحیت کو بتدریج بڑھایا ہے، جس سے وسیع سمندری ماحولیاتی نظام کو تقویت ملی ہے جس کے اندر جہاز سازی کام کرتی ہے۔"
+    },
+    "b31": {
+      "hi": "सरकार की मांग एकत्रीकरण कवायद-निविदाओं और रुचि की अभिव्यक्तियों के माध्यम से विभिन्न श्रेणियों के लगभग 400 जहाजों के लिए दृश्यता पैदा करना-शिपयार्डों को पर्याप्त अग्रिम-क्रम दृश्यता प्रदान करता है जो क्षमता निवेश निर्णयों का समर्थन करता है।",
+      "en": "The government's demand aggregation exercise — creating visibility for approximately 400 vessels of diverse categories through tenders and expressions of interest — provides shipyards with substantial forward-order visibility that supports capacity investment decisions.",
+      "ur": "حکومت کی مانگ کو جمع کرنے کی مشق-ٹینڈرز اور دلچسپی کے اظہار کے ذریعے متنوع زمروں کے تقریبا 400 جہازوں کے لیے مرئیت پیدا کرنا-شپ یارڈز کو کافی فارورڈ آرڈر مرئیت فراہم کرتا ہے جو صلاحیت سرمایہ کاری کے فیصلوں کی حمایت کرتا ہے۔"
+    },
+    "b32": {
+      "hi": "इसका क्या मतलब है",
+      "en": "What it signifies",
+      "ur": "اس کا کیا مطلب ہے"
+    },
+    "b33": {
+      "hi": "भारत के जहाज निर्माण क्षेत्र के लिए, वित्त वर्ष 27 की पहली तिमाही की उपलब्धि निर्यात-उन्मुख प्रक्षेपवक्र की पर्याप्त परिचालन मान्यता प्रदान करती है जिसकी परिकल्पना मैरीटाइम इंडिया विजन 2030 में की गई है। संयुक्त अरब अमीरात और सिंगापुर में चिन्हित ग्राहक आधारों द्वारा बनाए गए एक वर्ष में छह गुना मूल्य वृद्धि, प्रक्षेपवक्र प्रमाण प्रदान करती है कि निजी क्षेत्र के निवेशकों और निर्यात ऋण संस्थानों को गहरी पूंजी की आवश्यकता है।",
+      "en": "For India's shipbuilding sector, the Q1 FY27 achievement provides substantial operational validation of the export-oriented trajectory that Maritime India Vision 2030 envisages. The six-fold value surge in a single year, sustained by identified customer bases in UAE and Singapore, provides the trajectory evidence that private-sector investors and export credit institutions require to commit deeper capital.",
+      "ur": "ہندوستان کے جہاز سازی کے شعبے کے لیے، مالی سال 27 کی پہلی سہ ماہی کی کامیابی برآمدات پر مبنی راستے کی خاطر خواہ آپریشنل توثیق فراہم کرتی ہے جس کا تصور میری ٹائم انڈیا ویژن 2030 میں کیا گیا ہے۔ متحدہ عرب امارات اور سنگاپور میں شناخت شدہ کسٹمر بیسز کے ذریعے برقرار ایک ہی سال میں چھ گنا ویلیو اضافے سے یہ ثبوت ملتا ہے کہ نجی شعبے کے سرمایہ کاروں اور ایکسپورٹ کریڈٹ اداروں کو گہرے سرمائے کی ضرورت ہے۔"
+    },
+    "b34": {
+      "hi": "भारत के आत्मनिर्भर भारत ढांचे के लिए, टैंकर निर्यात में वृद्धि ने संचयी रिकॉर्ड में एक और परिणामी मील का पत्थर जोड़ा। सितंबर 2024 एचएएल एएल-31एफपी इंजन अनुबंध (भारत संवाद के 18 अगस्त छठे जनहित याचिका कवरेज में प्रलेखित) के साथ, बांग्लादेश को 915 करोड़ रुपये का एलएचबी कोच निर्यात (12 अगस्त), आर्मेनिया रक्षा पोर्टफोलियो (11 अगस्त), सौर विनिर्माण उपलब्धि (12 अगस्त), और व्यापक औद्योगिक-निर्यात वास्तुकला, जहाज निर्माण अब उन क्षेत्रों के रोस्टर में धीरे-धीरे शामिल हो गया है जहां भारत हाशिए से पार होकर पर्याप्त वैश्विक बाजार भागीदारी में आ गया है।",
+      "en": "For India's Aatmanirbhar Bharat framework, the tanker export surge adds another consequential milestone to the accumulating record. Alongside the September 2024 HAL AL-31FP engine contract (documented in Bharat Samvad's 18 August Sixth PIL coverage), the ₹915 crore LHB coach export to Bangladesh (12 August), the Armenia defence portfolio (11 August), the solar manufacturing achievement (12 August), and the wider industrial-export architecture, shipbuilding now progressively joins the roster of sectors where India has crossed from marginality to substantial global market participation.",
+      "ur": "ہندوستان کے آتم نربھر بھارت فریم ورک کے لیے، ٹینکر کی برآمدات میں اضافہ جمع ہونے والے ریکارڈ میں ایک اور نتیجہ خیز سنگ میل کا اضافہ کرتا ہے۔ ستمبر 2024 کے ایچ اے ایل اے ایل-31 ایف پی انجن کے معاہدے (بھارت سمواد کی 18 اگست چھٹی پی آئی ایل کوریج میں دستاویز شدہ) کے ساتھ ساتھ، بنگلہ دیش کو 915 کروڑ روپے کے ایل ایچ بی کوچ کی برآمد (12 اگست)، ارمینیا کے دفاعی پورٹ فولیو (11 اگست)، شمسی مینوفیکچرنگ کی کامیابی (12 اگست)، اور وسیع صنعتی-برآمدی فن تعمیر، جہاز سازی اب بتدریج ان شعبوں کی فہرست میں شامل ہو گئی ہے جہاں ہندوستان پسماندگی سے کافی عالمی مارکیٹ میں شرکت کر چکا ہے۔"
+    },
+    "b35": {
+      "hi": "भारत की रणनीतिक स्वायत्तता के लिए, वैश्विक व्यापार में तैनात प्रत्येक भारतीय-निर्मित टैंकर देश के भविष्य में शिपिंग-फ्लीट बाजार में संभावित आपूर्ति-श्रृंखला व्यवधानों के संपर्क को कम करता है। अपने कच्चे तेल के आयात के लिए विदेशी-निर्मित जहाजों पर भारत की पर्याप्त निर्भरता-वर्तमान में भारत का 95 प्रतिशत से अधिक कच्चा तेल चीन, दक्षिण कोरिया या जापान में निर्मित विदेशी-झंडे वाले जहाजों पर आता है-महत्वपूर्ण रणनीतिक कमजोरियों में से एक है जिसे दूर करने के लिए 85,000 करोड़ रुपये के 112-टैंकर कार्यक्रम को उत्तरोत्तर तैयार किया गया है।",
+      "en": "For India's strategic autonomy, every Indian-built tanker deployed in global trade reduces the country's exposure to potential future supply-chain disruptions in the shipping-fleet market. India's substantial dependence on foreign-built ships for its own crude oil imports — currently over 95 per cent of India's crude arrives on foreign-flagged vessels built in China, South Korea, or Japan — is one of the substantial strategic vulnerabilities the ₹85,000 crore 112-tanker programme is progressively designed to address.",
+      "ur": "ہندوستان کی اسٹریٹجک خودمختاری کے لیے، عالمی تجارت میں تعینات ہر ہندوستانی ساختہ ٹینکر ملک کی شپنگ-فلیٹ مارکیٹ میں مستقبل کی سپلائی چین کی ممکنہ رکاوٹوں سے نمٹنے کو کم کرتا ہے۔ ہندوستان کا اپنے خام تیل کی درآمد کے لیے غیر ملکی ساختہ جہازوں پر کافی انحصار-اس وقت ہندوستان کا 95 فیصد سے زیادہ خام چین، جنوبی کوریا یا جاپان میں بنے غیر ملکی پرچم بردار جہازوں پر آتا ہے-ان کافی اسٹریٹجک خطرات میں سے ایک ہے جو 85, 000 کروڑ 112 ٹینکروں کے پروگرام کو بتدریج حل کرنے کے لیے ڈیزائن کیا گیا ہے۔"
+    },
+    "b36": {
+      "hi": "भारत-संयुक्त अरब अमीरात के बीच द्विपक्षीय संबंधों के लिए, टैंकर निर्यात प्रवाह व्यापक रणनीतिक साझेदारी के सबसे अधिक परिचालन रूप से परिणामी हाल के आयामों में से एक प्रदान करता है। हाइड्रोकार्बन व्यापार, पर्याप्त भारतीय प्रवासियों से प्रेषण और सी. ई. पी. ए.-सक्षम माल प्रवाह के अलावा, पूंजी-उपकरण निर्यात अब क्रमिक रूप से द्विपक्षीय आर्थिक संबंधों को एक पर्याप्त अतिरिक्त आयाम प्रदान करता है।",
+      "en": "For India-UAE bilateral relations, the tanker export flow provides one of the most operationally consequential recent dimensions of the wider strategic partnership. Beyond hydrocarbon trade, remittances from the substantial Indian diaspora, and the CEPA-enabled goods flows, capital-equipment exports now progressively provide a substantial additional dimension to the bilateral economic relationship.",
+      "ur": "ہندوستان-متحدہ عرب امارات کے دو طرفہ تعلقات کے لیے، ٹینکر برآمدات کا بہاؤ وسیع تر اسٹریٹجک شراکت داری کے سب سے زیادہ عملی طور پر حالیہ جہتوں میں سے ایک فراہم کرتا ہے۔ ہائیڈرو کاربن تجارت، کافی ہندوستانی تارکین وطن کی ترسیلات زر، اور سی ای پی اے سے چلنے والے سامان کے بہاؤ سے پرے، سرمایہ سازوسامان کی برآمدات اب بتدریج دو طرفہ اقتصادی تعلقات کو کافی اضافی جہت فراہم کرتی ہیں۔"
+    },
+    "b37": {
+      "hi": "भारत की वैश्विक समुद्री स्थिति के लिए, वित्त वर्ष 27 की पहली तिमाही की उपलब्धि प्रारंभिक परिचालन संकेतों में से एक का प्रतिनिधित्व करती है कि देश का समुद्री भारत विजन 2030 और विजन 2047 प्रक्षेपवक्र उत्तरोत्तर आकार ले रहे हैं। एक देश जो 1 प्रतिशत से कम वैश्विक जहाज निर्माण हिस्सेदारी से 2030 तक अनुमानित शीर्ष-10 स्थिति की ओर बढ़ रहा है, उसे वित्त वर्ष 27 की पहली तिमाही में उत्पन्न प्रक्षेपवक्र को बनाए रखने और उत्तरोत्तर गति देने की आवश्यकता होगी।",
+      "en": "For India's global maritime standing, the Q1 FY27 achievement represents one of the early operational signals that the country's Maritime India Vision 2030 and Vision 2047 trajectories are progressively taking shape. A country moving from under 1 per cent global shipbuilding share toward the projected top-10 position by 2030 will need to sustain and progressively accelerate the trajectory that Q1 FY27 has produced.",
+      "ur": "ہندوستان کی عالمی سمندری حیثیت کے لیے، مالی سال 27 کی پہلی سہ ماہی کی کامیابی ابتدائی آپریشنل اشاروں میں سے ایک کی نمائندگی کرتی ہے کہ ملک کا میری ٹائم انڈیا ویژن 2030 اور ویژن 2047 کے راستے بتدریج شکل اختیار کر رہے ہیں۔ ایک ملک جو 1 فیصد سے کم عالمی جہاز سازی کے حصے سے 2030 تک متوقع ٹاپ-10 پوزیشن کی طرف بڑھ رہا ہے، اسے مالی سال 27 کی پہلی سہ ماہی کی پیداوار کو برقرار رکھنے اور بتدریج تیز کرنے کی ضرورت ہوگی۔"
+    },
+    "b38": {
+      "hi": "अभी के लिए, 19 अगस्त 2026 की सुबह, संस्थागत रिकॉर्ड में जो बात है वह यह हैः वित्त वर्ष 27 की पहली तिमाही में भारत का टैंकर पोत निर्यात 13.6 करोड़ डॉलर तक पहुंच गया, जो वित्त वर्ष 26 की पहली तिमाही से छह गुना अधिक है; 23 जहाजों को भेजा गया, जो पिछले वर्ष के 10 से दोगुना है; संयुक्त अरब अमीरात 10 लाख डॉलर और 7 जहाजों के साथ प्रमुख गंतव्य के रूप में उभरा; सिंगापुर 10 लाख डॉलर और 6 जहाजों के साथ इसके बाद आया; भारत का जहाज निर्माण क्षेत्र, जो लंबे समय से सीमांत वैश्विक बाजार हिस्सेदारी तक सीमित है, ने स्वतंत्रता के बाद के अपने इतिहास में सबसे परिणामी एकल-तिमाही वृद्धि दर्ज की है; समुद्री भारत विजन 2030 शीर्ष-10 लक्ष्य और समुद्री अमृत काल विजन 2047 शीर्ष-5 लक्ष्य में अब प्रक्षेपवक्र व्यवहार्यता के पर्याप्त परिचालन प्रमाण हैं; और व्यापक आत्मनिर्भर भारत निर्माण ढांचे ने स्वतंत्रता के बाद के अपने प्रक्षेपवक्र में सामग्री के संग्रह के एक और रिकॉर्ड को मामूली आयाम से जोड़ा है।",
+      "en": "For now, on the morning of 19 August 2026, what stands on the institutional record is this: India's tanker vessel exports in Q1 FY27 reached $1.36 billion, a more than six-fold surge from Q1 FY26; 23 vessels were shipped, double the previous year's 10; the UAE emerged as the dominant destination with $900.8 million and 7 vessels; Singapore followed with $146.4 million and 6 vessels; India's shipbuilding sector, long confined to marginal global market share, has recorded one of the most consequential single-quarter surges in its post-Independence history; the Maritime India Vision 2030 top-10 target and Maritime Amrit Kaal Vision 2047 top-5 target now have substantial operational evidence of trajectory viability; and the wider Aatmanirbhar Bharat manufacturing self-reliance framework has added another consequential dimension to its accumulating record. From marginal to material — India's shipbuilding sector has arrived at one of the substantial inflection points in its post-Independence trajectory.",
+      "ur": "ابھی کے لیے، 19 اگست 2026 کی صبح، ادارہ جاتی ریکارڈ پر جو چیز کھڑی ہے وہ یہ ہے: مالی سال 27 کی پہلی سہ ماہی میں ہندوستان کے ٹینکر جہازوں کی برآمدات 1. 36 ارب ڈالر تک پہنچ گئیں، جو مالی سال 26 کی پہلی سہ ماہی سے چھ گنا زیادہ ہے۔ 23 جہاز بھیجے گئے، جو پچھلے سال کے 10 سے دوگنا ہے۔ متحدہ عرب امارات 10 لاکھ ڈالر اور 7 جہازوں کے ساتھ غالب منزل کے طور پر ابھرا۔ سنگاپور 10 لاکھ ڈالر کے بعد 10 لاکھ اور 6 جہازوں کے ساتھ۔ ہندوستان کا جہاز سازی کا شعبہ، جو طویل عرصے سے معمولی عالمی مارکیٹ شیئر تک محدود ہے، نے آزادی کے بعد کی تاریخ میں سب سے زیادہ ایک سہ ماہی کے نتیجے میں اضافہ ریکارڈ کیا ہے۔ میری ٹائم انڈیا ویژن 2030 ٹاپ-10 ہدف اور میری ٹائم امرت کال ویژن 2047 ٹاپ-5 ہدف کے پاس اب رفتار کے قابل عمل ثبوت ہیں۔ اور وسیع تر آتم نربھر بھارت مینوفیکچرنگ فریم ورک نے آزادی کے بعد کے اپنے معمولی جہتوں میں سے ایک معمولی مواد جمع کرنے کے لیے ایک اور ریکارڈ شامل کیا ہے۔"
+    }
+  }
+}
