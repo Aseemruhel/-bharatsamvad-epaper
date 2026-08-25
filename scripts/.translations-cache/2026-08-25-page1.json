@@ -1,0 +1,440 @@
+{
+  "hash": "a440cb953748c3ba",
+  "t": {
+    "fm.section": {
+      "hi": "विश्लेषण",
+      "en": "Analysis",
+      "ur": "تجزیہ"
+    },
+    "fm.kicker": {
+      "hi": "\"रक्षा निर्यात · ब्रह्मोस · आत्मनिर्भर भारत · व्यापार अर्थशास्त्र\"",
+      "en": "\"Defence Exports · BrahMos · Aatmanirbhar Bharat · Trade Economics\"",
+      "ur": "\"دفاعی برآمدات · برہموس · آتم نربھر بھارت · تجارتی معاشیات\""
+    },
+    "fm.byline": {
+      "hi": "डॉ. सुधांशु कुमार",
+      "en": "Dr Sudhanshu Kumar",
+      "ur": "ڈاکٹر سدھانشو کمار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"मिसाइल के पीछे का संतुलन पत्रः ब्रह्मोस भारत की व्यापार कहानी\"",
+      "en": "\"The Balance Sheet Behind the Missile: BrahMos as India's Trade Story\"",
+      "ur": "\"میزائل کے پیچھے بیلنس شیٹ: برہموس بطور ہندوستان کی تجارتی کہانی\""
+    },
+    "fm.subdeck": {
+      "hi": "ब्रह्मोस एयरोस्पेस की ऑर्डर बुक लगभग 6 अरब डॉलर को पार कर गई है, सभी चार उत्पादन सुविधाएं पूरी क्षमता से चल रही हैं, और एक मिसाइल कार्यक्रम भारत की रक्षा-तकनीक महत्वाकांक्षाओं के लिए सबसे सुपाठ्य प्रतिनिधि बन गया है। लेकिन अधिक परिणामी कहानी बैलेंस शीट में बैठती हैः वित्त वर्ष के राजस्व ने 5,200 करोड़ रुपये को पार कर लिया, एक ही वर्ष में 4,000 करोड़ रुपये के दो निर्यात आदेशों पर हस्ताक्षर किए गए, अकेले लखनऊ सुविधा से 3,000 करोड़ रुपये का कारोबार और 5,000 करोड़ रुपये का जी. एस. टी. योगदान उत्पन्न होने का अनुमान है, और भारत का कुल रक्षा निर्यात वित्त वर्ष 2014 में 686 करोड़ रुपये से बढ़कर वित्त वर्ष 26 में लगभग 38,400 करोड़ रुपये हो गया है-एक दशक के भीतर 25 गुना उछाल। यह एक व्यापार कहानी है, न कि केवल एक रक्षा कहानी।",
+      "en": "\"BrahMos Aerospace's order book has crossed approximately $6 billion, all four production facilities are running at full capacity, and one missile programme has become the most legible proxy for India's defence-tech ambitions. But the more consequential story sits in the balance sheet: FY 2025-26 revenue crossed Rs 5,200 crore, two export orders worth Rs 4,000 crore were signed in a single year, the Lucknow facility alone is projected to generate Rs 3,000 crore turnover and Rs 5,000 crore GST contribution, and India's total defence exports have risen from Rs 686 crore in FY14 to roughly Rs 38,400 crore in FY26 — a 25-times jump in under a decade. This is a trade story, not just a defence story.\"",
+      "ur": "برہموس ایرو اسپیس کی آرڈر بک تقریبا 6 ارب ڈالر کو عبور کر چکی ہے، چاروں پیداواری سہولیات پوری صلاحیت سے چل رہی ہیں، اور ایک میزائل پروگرام ہندوستان کے دفاعی ٹیک عزائم کے لیے سب سے زیادہ قابل فہم پراکسی بن گیا ہے۔ لیکن اس کے نتیجے میں بننے والی کہانی بیلنس شیٹ میں بیٹھتی ہے: مالی سال کی آمدنی 5, 200 کروڑ روپے سے تجاوز کر گئی، ایک ہی سال میں 4, 000 کروڑ روپے کے دو ایکسپورٹ آرڈرز پر دستخط کیے گئے، صرف لکھنؤ کی سہولت سے 3, 000 کروڑ روپے کا کاروبار اور 5, 000 کروڑ روپے کا جی ایس ٹی حصہ پیدا ہونے کا امکان ہے، اور ہندوستان کی کل دفاعی برآمدات مالی سال 2014 میں 686 کروڑ روپے سے بڑھ کر مالی سال 26 میں تقریبا 38, 400 کروڑ روپے ہو گئی ہیں-جو ایک دہائی کے اندر 25 گنا زیادہ اضافہ ہے۔ یہ ایک تجارتی کہانی ہے، نہ کہ صرف ایک دفاعی کہانی۔"
+    },
+    "b0": {
+      "hi": "ब्रह्मोस की सफलता",
+      "en": "The Success of BrahMos",
+      "ur": "برہموس کی کامیابی"
+    },
+    "b1": {
+      "hi": "यह एक उपयोगी परीक्षा है कि क्या किसी देश ने वास्तव में रक्षा उद्योग का निर्माण किया है या केवल एक रक्षा बजटः क्या दुनिया आपके द्वारा बनाए गए सामान को खरीदने के लिए कतार में है? यदि यह परीक्षण है, तो ब्रह्मोस एयरोस्पेस ने भारत को अभी तक इसका स्पष्ट जवाब दिया है। ब्रह्मोस एयरोस्पेस, भारत-रूस संयुक्त उद्यम जो सुपरसोनिक क्रूज मिसाइल का निर्माण करता है, अब लगभग छह अरब डॉलर की कुल ऑर्डर बुक रखता है, जिसमें इसकी सभी चार उत्पादन सुविधाएं घरेलू और निर्यात दोनों अनुबंधों में पूरी क्षमता से चल रही हैं। एक एकल मिसाइल कार्यक्रम भारत की रक्षा-तकनीक महत्वाकांक्षाओं के लिए सबसे सुपाठ्य प्रतिनिधि बन गया है, और इसके पीछे के व्यापार संख्या ध्यान से पढ़ने योग्य हैं।",
+      "en": "There is a useful test for whether a country has actually built a defence industry or merely a defence budget: does the world queue up to buy what you make? If that is the test, BrahMos Aerospace just gave India its clearest answer yet. BrahMos Aerospace, the Indo-Russian joint venture that manufactures the supersonic cruise missile, now holds a total order book of approximately six billion dollars, with all four of its production facilities running at full capacity across both domestic and export contracts. A single missile programme has become the most legible proxy for India's defence-tech ambitions, and the trade numbers behind it are worth reading carefully.",
+      "ur": "اس بات کا ایک مفید امتحان ہے کہ آیا کسی ملک نے درحقیقت دفاعی صنعت بنائی ہے یا محض دفاعی بجٹ: کیا آپ جو بناتے ہیں اسے خریدنے کے لیے دنیا قطار میں کھڑی ہوتی ہے؟ اگر یہ تجربہ ہے تو برہموس ایرو اسپیس نے ہندوستان کو ابھی تک اس کا واضح جواب دیا ہے۔ سپر سونک کروز میزائل بنانے والے ہند-روسی مشترکہ منصوبے برہموس ایرو اسپیس کے پاس اب تقریبا چھ ارب ڈالر کی کل آرڈر بک ہے، جس میں اس کی چاروں پیداواری سہولیات ملکی اور برآمدی معاہدوں میں پوری صلاحیت سے چل رہی ہیں۔ ایک واحد میزائل پروگرام ہندوستان کے دفاعی ٹیک عزائم کے لیے سب سے زیادہ قابل فہم پراکسی بن گیا ہے، اور اس کے پیچھے تجارتی اعداد احتیاط سے پڑھنے کے قابل ہیں۔"
+    },
+    "b2": {
+      "hi": "एक खरीदार से राष्ट्रों की कतार तक",
+      "en": "From One Buyer to a Queue of Nations",
+      "ur": "ایک خریدار سے لے کر قوموں کی قطار تک"
+    },
+    "b3": {
+      "hi": "ब्रह्मोस की निर्यात कहानी धीरे-धीरे शुरू हुई और अब तेजी से बढ़ रही है। फिलीपींस जनवरी 2022 में पहला विदेशी ग्राहक बन गया, जिसने तीन तट-आधारित जहाज-रोधी मिसाइल बैटरियों के लिए $375 मिलियन के अनुबंध पर हस्ताक्षर किए, जो भारत का पहला पुष्टि किया गया ब्रह्मोस निर्यात है। पहली दो बैटरियों की डिलीवरी अप्रैल 2025 तक पूरी हो गई, जिससे भारत को एक लाइव संदर्भ ग्राहक मिला और गंभीर रूप से, एक युद्ध-परीक्षण निर्यात ट्रैक रिकॉर्ड मिला।",
+      "en": "BrahMos's export story started slowly and is now compounding fast. The Philippines became the first foreign customer in January 2022, signing a $375 million contract for three shore-based anti-ship missile batteries, India's first-ever confirmed BrahMos export. Deliveries of the first two batteries were completed by April 2025, giving India a live reference customer and, critically, a combat-tested export track record.",
+      "ur": "برہموس کی برآمدی کہانی آہستہ آہستہ شروع ہوئی اور اب تیزی سے مرکب ہو رہی ہے۔ فلپائن جنوری 2022 میں پہلا غیر ملکی گاہک بن گیا، جس نے تین ساحل پر مبنی اینٹی شپ میزائل بیٹریوں کے لیے 375 ملین ڈالر کے معاہدے پر دستخط کیے، جو ہندوستان کی پہلی تصدیق شدہ برہموس برآمد ہے۔ پہلی دو بیٹریوں کی ڈیلیوری اپریل 2025 تک مکمل ہو گئی، جس سے ہندوستان کو ایک لائیو ریفرنس کسٹمر ملا اور تنقیدی طور پر، ایک جنگی تجربہ شدہ برآمدی ٹریک ریکارڈ۔"
+    },
+    "b4": {
+      "hi": "इसके बाद जो हुआ वह अधिक दिलचस्प हिस्सा है। ऑपरेशन सिंदूर के बाद ब्रह्मोस ने एक वास्तविक संघर्ष परिदृश्य में दुश्मन की हवाई सुरक्षा से बचने का प्रदर्शन किया, मिसाइल एक आशाजनक निर्यात उत्पाद से दुनिया की सबसे अधिक देखी जाने वाली हथियार प्रणाली के रूप में चली गई। वियतनाम ने 62.9 करोड़ डॉलर के एक समझौते पर हस्ताक्षर किए। इंडोनेशिया ने 20 करोड़ डॉलर और 30 करोड़ डॉलर के बीच एक समझौते को अंतिम रूप दिया, जो तीसरा दक्षिण पूर्व एशियाई खरीदार बन गया। एक दर्जन से अधिक अतिरिक्त देश अब सक्रिय चर्चा या इरादे व्यक्त कर रहे हैं।",
+      "en": "What happened next is the more interesting part. After Operation Sindoor demonstrated BrahMos evading enemy air defences in a real conflict scenario, the missile went from a promising export product to what industry trackers called the world's most watched weapon system. Vietnam signed a deal estimated at $629 million. Indonesia finalised an agreement valued between $200 million and $300 million, becoming the third Southeast Asian buyer. More than a dozen additional nations are now in active discussions or expressing intent.",
+      "ur": "اس کے بعد جو ہوا وہ زیادہ دلچسپ حصہ ہے۔ آپریشن سندور کے بعد برہموس کے حقیقی تنازعہ کے منظر نامے میں دشمن کے فضائی دفاع سے بچنے کا مظاہرہ کرنے کے بعد، میزائل ایک امید افزا برآمدی مصنوعات سے چلا گیا جسے انڈسٹری ٹریکرز دنیا کا سب سے زیادہ دیکھا جانے والا ہتھیاروں کا نظام کہتے ہیں۔ ویتنام نے 62. 9 ملین ڈالر کے تخمینے کے معاہدے پر دستخط کیے۔ انڈونیشیا نے 200 ملین ڈالر اور 300 ملین ڈالر کے درمیان کے معاہدے کو حتمی شکل دی، جو تیسرا جنوب مشرقی ایشیائی خریدار بن گیا۔ ایک درجن سے زیادہ اضافی ممالک اب فعال بات چیت یا ارادے کا اظہار کر رہے ہیں۔"
+    },
+    "b5": {
+      "hi": "यही वह तरीका है जो एक उत्पाद को फ्रेंचाइजी में बदल देता है। पहला प्रस्तावक प्रतिष्ठा के लिए जोखिम उठाता है। एक बार उत्पाद के प्रदर्शन करने के बाद, बाकी कतार उसके पीछे बनती है। ब्रह्मोस ने उस प्लेबुक को बिल्कुल सही क्रम में चलायाः फिलीपींस ने उत्पाद को व्यावसायिक रूप से मान्य किया, सिंदूर ने इसे परिचालन रूप से मान्य किया, और दुनिया ने स्पष्ट निष्कर्ष निकाला।",
+      "en": "This is precisely the pattern that turns a single product into a franchise. A first mover takes the reputational risk. Once the product performs, the rest of the queue forms behind it. BrahMos ran that playbook in exactly the right sequence: the Philippines validated the product commercially, Sindoor validated it operationally, and the world drew the obvious conclusion.",
+      "ur": "بالکل یہی نمونہ ہے جو ایک پروڈکٹ کو فرنچائز میں بدل دیتا ہے۔ پہلا موور ساکھ کا خطرہ مول لیتا ہے۔ ایک بار پروڈکٹ کے کارکردگی کا مظاہرہ کرنے کے بعد، باقی قطار اس کے پیچھے بن جاتی ہے۔ برہموس نے اس پلے بک کو بالکل صحیح ترتیب میں چلایا: فلپائن نے پروڈکٹ کو تجارتی طور پر توثیق کی، سندور نے اسے عملی طور پر توثیق کی، اور دنیا نے واضح نتیجہ اخذ کیا۔"
+    },
+    "b6": {
+      "hi": "तुलनपत्र वास्तव में क्या दिखाता है",
+      "en": "What the Balance Sheet Actually Shows",
+      "ur": "بیلنس شیٹ اصل میں کیا دکھاتی ہے"
+    },
+    "b7": {
+      "hi": "भू-राजनीति को एक पल के लिए अलग रखें और वित्तीय स्थितियों पर गौर करें। डी. आर. डी. ओ. ने खुलासा किया कि ब्रह्मोस एयरोस्पेस का राजस्व वित्त वर्ष में 5,200 करोड़ रुपये को पार कर गया, जिसमें अकेले वर्ष के दौरान 4,000 करोड़ रुपये के दो निर्यात आदेशों पर हस्ताक्षर किए गए। यह एक ऐसी कंपनी है जो सार्थक, लेखा परीक्षित व्यवसाय कर रही है, न कि सब्सिडी पर चलने वाला एक प्रतिष्ठित कार्यक्रम।",
+      "en": "Set aside the geopolitics for a moment and look at the financials. DRDO disclosed that BrahMos Aerospace's revenue crossed Rs 5,200 crore in FY 2025-26, with two export orders alone worth Rs 4,000 crore signed during the year. That is a company doing meaningful, audited business, not a prestige programme running on subsidy.",
+      "ur": "جیو پولیٹکس کو ایک لمحے کے لیے الگ رکھیں اور مالی معاملات پر نظر ڈالیں۔ ڈی آر ڈی او نے انکشاف کیا کہ برہموس ایرو اسپیس کی آمدنی مالی سال میں 5200 کروڑ روپے سے تجاوز کر گئی، جس میں صرف دو برآمدی آرڈرز پر دستخط ہوئے جن کی مالیت 4, 000 کروڑ روپے تھی۔ یہ ایک ایسی کمپنی ہے جو بامعنی، آڈٹ شدہ کاروبار کر رہی ہے، نہ کہ سبسڈی پر چلنے والا وقار پروگرام۔"
+    },
+    "b8": {
+      "hi": "क्षमता मांग के अनुरूप बढ़ रही है। लखनऊ में नई ब्रह्मोस सुविधा, जो उत्तर प्रदेश रक्षा औद्योगिक गलियारे का हिस्सा है, ने परिचालन शुरू होने के एक साल के भीतर अपनी पहली मिसाइलों को उतारना शुरू कर दिया और इसे सालाना 80 से 100 मिसाइलों का उत्पादन करने के लिए डिज़ाइन किया गया है, जिसका विस्तार करने की योजना है। रक्षा मंत्री, श्री सिंह ने कहा है कि अकेले लखनऊ इकाई से अगले वित्तीय वर्ष की शुरुआत में लगभग 3,000 करोड़ रुपये, लगभग 35.1 करोड़ डॉलर का कारोबार होने की उम्मीद है, जिसमें सालाना लगभग 5,000 करोड़ रुपये का जीएसटी योगदान होगा।",
+      "en": "Capacity is scaling to match demand. The new BrahMos facility in Lucknow, part of the UP Defence Industrial Corridor, began rolling out its first missiles within a year of becoming operational and is designed to produce 80 to 100 missiles annually, with plans to expand to 100-150. Defence Minister Rajnath Singh has said the Lucknow unit alone is expected to generate a turnover of around Rs 3,000 crore, roughly $351 million, starting the next financial year, with GST contributions of about Rs 5,000 crore annually.",
+      "ur": "مانگ کے مطابق صلاحیت بڑھ رہی ہے۔ یوپی ڈیفنس انڈسٹریل کوریڈور کا حصہ لکھنؤ میں نئی برہموس سہولت نے فعال ہونے کے ایک سال کے اندر اپنے پہلے میزائل کو چلانا شروع کر دیا اور اسے سالانہ 80 سے 100 میزائل تیار کرنے کے لیے ڈیزائن کیا گیا ہے، جس میں 100-150 تک توسیع کرنے کا منصوبہ ہے۔ وزیر دفاع راج ناتھ سنگھ نے کہا ہے کہ اکیلے لکھنؤ یونٹ سے اگلے مالی سال کے آغاز میں تقریبا 3, 000 کروڑ روپے، تقریبا 35. 1 کروڑ ڈالر کا کاروبار ہونے کی توقع ہے، جس میں سالانہ تقریبا 5, 000 کروڑ روپے کا جی ایس ٹی تعاون ہوگا۔"
+    },
+    "b9": {
+      "hi": "यह अंतिम आंकड़ा ध्यान देने योग्य है। एक ही राज्य में एक एकल मिसाइल सुविधा से जीएसटी योगदान में 5,000 करोड़ रुपये का योगदान एक छोटा लेकिन वास्तविक उदाहरण है कि कैसे रक्षा विनिर्माण व्यापक राजकोषीय और आर्थिक आधार में प्रवेश करता है। यह खरीद बजट के भीतर नहीं रहता है। यह राज्य के खजाने, केंद्रीय खजाने और उत्पादन लाइन को पूरा करने वाले घटक आपूर्तिकर्ताओं तक पहुंचता है।",
+      "en": "That last figure deserves a moment of attention. Rs 5,000 crore in GST contributions from a single missile facility in a single state is a small but real illustration of how defence manufacturing cascades into the broader fiscal and economic base. It does not stay contained within the procurement budget. It reaches the state exchequer, the central exchequer, and the component suppliers feeding the production line.",
+      "ur": "یہ آخری اعداد و شمار ایک لمحے کے لیے توجہ کے لائق ہیں۔ ایک ہی ریاست میں ایک میزائل سہولت سے جی ایس ٹی میں 5, 000 کروڑ روپے کا تعاون اس بات کی ایک چھوٹی لیکن حقیقی مثال ہے کہ دفاعی مینوفیکچرنگ کس طرح وسیع مالی اور اقتصادی بنیاد میں داخل ہوتی ہے۔ یہ خریداری کے بجٹ میں شامل نہیں رہتا ہے۔ یہ ریاستی خزانے، مرکزی خزانے اور پیداواری لائن کو فراہم کرنے والے اجزاء تک پہنچتا ہے۔"
+    },
+    "b10.title": {
+      "hi": "संख्याओं द्वारा ब्रह्मोस",
+      "en": "BrahMos by the Numbers",
+      "ur": "برہموس بلدیہ اعداد"
+    },
+    "b10.itemlbl.0": {
+      "hi": "कुल ऑर्डर बुक",
+      "en": "Total order book",
+      "ur": "کل آرڈر بک"
+    },
+    "b10.itemval.0": {
+      "hi": "लगभग 6 अरब डॉलर",
+      "en": "Approximately $6 billion",
+      "ur": "تقریبا 6 ارب ڈالر"
+    },
+    "b10.itemlbl.1": {
+      "hi": "उत्पादन सुविधाएं",
+      "en": "Production facilities",
+      "ur": "پیداوار کی سہولیات"
+    },
+    "b10.itemval.1": {
+      "hi": "4 (सभी पूर्ण क्षमता पर)",
+      "en": "4 (all at full capacity)",
+      "ur": "4 (تمام پوری صلاحیت پر)"
+    },
+    "b10.itemlbl.2": {
+      "hi": "वित्त वर्ष 2025-26 राजस्व",
+      "en": "FY 2025-26 revenue",
+      "ur": "مالی سال 2025-26 آمدنی"
+    },
+    "b10.itemval.2": {
+      "hi": "5, 200 करोड़ रुपये से अधिक",
+      "en": "Rs 5,200 crore+",
+      "ur": "5, 200 کروڑ روپے +"
+    },
+    "b10.itemlbl.3": {
+      "hi": "वित्त वर्ष 2025-26 निर्यात आदेशों पर हस्ताक्षर किए गए",
+      "en": "FY 2025-26 export orders signed",
+      "ur": "مالی سال 2025-26 برآمدی آرڈرز پر دستخط ہوئے"
+    },
+    "b10.itemval.3": {
+      "hi": "4, 000 करोड़ रुपये (दो ऑर्डर)",
+      "en": "Rs 4,000 crore (two orders)",
+      "ur": "4, 000 کروڑ روپے (دو آرڈر)"
+    },
+    "b10.itemlbl.4": {
+      "hi": "लखनऊ सुविधा की वार्षिक क्षमता",
+      "en": "Lucknow facility annual capacity",
+      "ur": "لکھنؤ سہولت سالانہ صلاحیت"
+    },
+    "b10.itemval.4": {
+      "hi": "80-100 मिसाइलें (100-150 तक विस्तारित)",
+      "en": "80-100 missiles (expanding to 100-150)",
+      "ur": "80-100 میزائل (100-150 تک توسیع پذیر)"
+    },
+    "b10.itemlbl.5": {
+      "hi": "लखनऊ सुविधा अनुमानित कारोबार",
+      "en": "Lucknow facility projected turnover",
+      "ur": "لکھنؤ کی سہولت کا متوقع کاروبار"
+    },
+    "b10.itemval.5": {
+      "hi": "3, 000 करोड़ रुपये (~ $351 मिलियन)",
+      "en": "Rs 3,000 crore (~$351 million)",
+      "ur": "3, 000 کروڑ روپے (~ $351 ملین)"
+    },
+    "b10.itemlbl.6": {
+      "hi": "लखनऊ वार्षिक जी. एस. टी. योगदान (अनुमानित)",
+      "en": "Lucknow annual GST contribution (projected)",
+      "ur": "لکھنؤ سالانہ جی ایس ٹی شراکت (متوقع)"
+    },
+    "b10.itemval.6": {
+      "hi": "5, 000 करोड़ रुपये",
+      "en": "Rs 5,000 crore",
+      "ur": "5, 000 کروڑ روپے"
+    },
+    "b10.itemlbl.7": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.7": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.8": {
+      "hi": "निश्चित निर्यात ग्राहक",
+      "en": "CONFIRMED EXPORT CUSTOMERS",
+      "ur": "تصدیق شدہ ایکسپورٹ صارفین"
+    },
+    "b10.itemval.8": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.9": {
+      "hi": "फिलीपींस",
+      "en": "Philippines",
+      "ur": "فلپائن"
+    },
+    "b10.itemval.9": {
+      "hi": "जनवरी 2022,375 मिलियन डॉलर, 3 तट-आधारित जहाज-रोधी बैटरियाँ (पहले 2 अप्रैल 2025 में वितरित)",
+      "en": "January 2022, $375 million, 3 shore-based anti-ship batteries (first 2 delivered April 2025)",
+      "ur": "جنوری 2022، $375 ملین، 3 ساحل پر مبنی اینٹی شپ بیٹریاں (پہلی 2 اپریل 2025 میں فراہم کی گئیں)"
+    },
+    "b10.itemlbl.10": {
+      "hi": "वियतनाम",
+      "en": "Vietnam",
+      "ur": "ویتنام"
+    },
+    "b10.itemval.10": {
+      "hi": "अनुमानित $629 मिलियन",
+      "en": "Estimated $629 million",
+      "ur": "تخمینہ $629 ملین"
+    },
+    "b10.itemlbl.11": {
+      "hi": "इंडोनेशिया",
+      "en": "Indonesia",
+      "ur": "انڈونیشیا"
+    },
+    "b10.itemval.11": {
+      "hi": "अनुमानित $200-300 मिलियन (तीसरा दक्षिण पूर्व एशियाई खरीदार)",
+      "en": "Estimated $200-300 million (third Southeast Asian buyer)",
+      "ur": "تخمینہ $200-300 ملین (تیسرا جنوب مشرقی ایشیائی خریدار)"
+    },
+    "b10.itemlbl.12": {
+      "hi": "संभावनाएं",
+      "en": "Prospects",
+      "ur": "امکانات"
+    },
+    "b10.itemval.12": {
+      "hi": "सक्रिय चर्चा या इरादे व्यक्त करने में 12 + राष्ट्र",
+      "en": "12+ nations in active discussions or expressing intent",
+      "ur": "فعال مباحثوں یا ارادے کے اظہار میں 12 + ممالک"
+    },
+    "b10.itemlbl.13": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.14": {
+      "hi": "भारत रक्षा निर्यात यातायात",
+      "en": "INDIA DEFENCE EXPORTS TRAJECTORY",
+      "ur": "ہندوستان کی دفاعی برآمدات ٹریجیکٹوری"
+    },
+    "b10.itemval.14": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.15": {
+      "hi": "वित्त वर्ष 2014",
+      "en": "FY 2014",
+      "ur": "مالی سال 2014"
+    },
+    "b10.itemval.15": {
+      "hi": "686 करोड़ रु.",
+      "en": "Rs 686 crore",
+      "ur": "686 کروڑ روپے"
+    },
+    "b10.itemlbl.16": {
+      "hi": "वित्त वर्ष 2026",
+      "en": "FY 2026",
+      "ur": "مالی سال 2026"
+    },
+    "b10.itemval.16": {
+      "hi": "लगभग 38,400 करोड़ रुपये (25 गुना वृद्धि)",
+      "en": "Approximately Rs 38,400 crore (25x growth)",
+      "ur": "تقریبا 38, 400 کروڑ روپے (25 گنا اضافہ)"
+    },
+    "b10.itemlbl.17": {
+      "hi": "वित्त वर्ष 2029 का लक्ष्य",
+      "en": "FY 2029 target",
+      "ur": "مالی سال 2029 کا ہدف"
+    },
+    "b10.itemval.17": {
+      "hi": "50, 000 करोड़ रुपये",
+      "en": "Rs 50,000 crore",
+      "ur": "50, 000 کروڑ روپے"
+    },
+    "b10.itemlbl.18": {
+      "hi": "2023 वैश्विक हथियार और गोला-बारूद निर्यात",
+      "en": "2023 global arms & ammunition exports",
+      "ur": "2023 عالمی ہتھیاروں اور گولہ بارود کی برآمدات"
+    },
+    "b10.itemval.18": {
+      "hi": "$358.6 मिलियन (वियतनाम ब्रह्मोस अकेले बड़ा सौदा करता है)",
+      "en": "$358.6 million (Vietnam BrahMos deal alone larger)",
+      "ur": "$358.6 ملین (ویتنام برہموس کا سودا صرف بڑا ہے)"
+    },
+    "b10.itemlbl.19": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.19": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.20": {
+      "hi": "ऑपरेशनल वैलिडेशन",
+      "en": "OPERATIONAL VALIDATION",
+      "ur": "آپریشنل ویلڈیشن"
+    },
+    "b10.itemval.20": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.21": {
+      "hi": "कार्यक्रम भागीदार",
+      "en": "Programme partner",
+      "ur": "پروگرام پارٹنر"
+    },
+    "b10.itemval.21": {
+      "hi": "भारत-रूस संयुक्त उद्यम (डी. आर. डी. ओ. + एन. पी. ओ. माशिनोस्त्रोएनिया)",
+      "en": "Indo-Russian joint venture (DRDO + NPO Mashinostroyeniya)",
+      "ur": "ہند-روسی مشترکہ منصوبہ (ڈی آر ڈی او + این پی او ماشینوسٹروئینیا)"
+    },
+    "b10.itemlbl.22": {
+      "hi": "युद्ध प्रमाण",
+      "en": "Combat proof",
+      "ur": "جنگی ثبوت"
+    },
+    "b10.itemval.22": {
+      "hi": "ऑपरेशन सिंदूर",
+      "en": "Operation Sindoor",
+      "ur": "آپریشن سندور"
+    },
+    "b10.itemlbl.23": {
+      "hi": "युद्ध का परिणाम",
+      "en": "Combat outcome",
+      "ur": "لڑائی کا نتیجہ"
+    },
+    "b10.itemval.23": {
+      "hi": "मिसाइल ने संघर्ष के जीवंत परिदृश्य में दुश्मन की हवाई सुरक्षा से बचा लिया",
+      "en": "Missile evaded enemy air defences in live conflict scenario",
+      "ur": "براہ راست تنازعہ کے منظر نامے میں میزائل دشمن کے فضائی دفاع سے بچ گیا"
+    },
+    "b10.itemlbl.24": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.25": {
+      "hi": "आर्थिक बहुगुणक",
+      "en": "ECONOMIC MULTIPLIER",
+      "ur": "اقتصادی کثیر"
+    },
+    "b10.itemval.25": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.26": {
+      "hi": "एयरोस्पेस और रक्षा सकल घरेलू उत्पाद योगदान अनुमान",
+      "en": "Aerospace & defence GDP contribution estimate",
+      "ur": "ایرو اسپیس اور دفاعی جی ڈی پی شراکت کا تخمینہ"
+    },
+    "b10.itemval.26": {
+      "hi": "आने वाले वर्षों में वृद्धिशील 0.5-1%",
+      "en": "Incremental 0.5-1% over coming years",
+      "ur": "آنے والے سالوں میں اضافہ 0.5-1%"
+    },
+    "b10.itemlbl.27": {
+      "hi": "गुणक चैनल",
+      "en": "Multiplier channels",
+      "ur": "ضرب والے چینل"
+    },
+    "b10.itemval.27": {
+      "hi": "विनिर्माण गुणक; उच्च कौशल वाली नौकरी का सृजन; आयात प्रतिस्थापन",
+      "en": "Manufacturing multipliers; high-skill job creation; import substitution",
+      "ur": "مینوفیکچرنگ ضرب ؛ اعلی ہنر مند ملازمت کی تخلیق ؛ درآمدی متبادل"
+    },
+    "b10.itemlbl.28": {
+      "hi": "व्यापार पर असर",
+      "en": "Trade impact",
+      "ur": "تجارتی اثرات"
+    },
+    "b10.itemval.28": {
+      "hi": "विदेशी-विनिमय-अर्जित, डॉलर-मूल्यवर्ग अनुबंध",
+      "en": "Foreign-exchange-earning, dollar-denominated contracts",
+      "ur": "غیر ملکی زر مبادلہ کمانے والے، ڈالر کے لحاظ سے معاہدے"
+    },
+    "b11.q": {
+      "hi": "\"एक मिसाइल कार्यक्रम अब एक राष्ट्रीय व्यापार आँकड़ों पर सुई लगा रहा है जिसे एक समय में एक बड़ा सौदा मापा जाता था।\"",
+      "en": "\"One missile programme is now moving the needle on a national trade statistic that used to be measured one large deal at a time.\"",
+      "ur": "\"ایک میزائل پروگرام اب قومی تجارتی اعدادوشمار پر سوئی منتقل کر رہا ہے جسے ایک وقت میں ایک بڑا سودا ناپا جاتا تھا۔\""
+    },
+    "b11.c": {
+      "hi": "- डॉ. सुधांशु कुमार",
+      "en": "— Dr Sudhanshu Kumar",
+      "ur": "- ڈاکٹر سدھانشو کمار"
+    },
+    "b12": {
+      "hi": "यह सिर्फ एक रक्षा कहानी नहीं, बल्कि एक व्यापार कहानी क्यों है",
+      "en": "Why This Is a Trade Story, Not Just a Defence Story",
+      "ur": "یہ صرف ایک دفاعی کہانی نہیں بلکہ ایک تجارتی کہانی کیوں ہے"
+    },
+    "b13": {
+      "hi": "यह रणनीतिक मामलों के तहत ब्रह्मोस को दर्ज करने और आगे बढ़ने के लिए लुभावना है। यह भारत के व्यापार और औद्योगिक प्रक्षेपवक्र पर नज़र रखने वाले किसी भी व्यक्ति के लिए महत्वपूर्ण नहीं होगा। विचार करें कि एक साथ क्या हो रहा है। ब्रह्मोस का निर्यात विदेशी-विनिमय-कमाई, डॉलर-मूल्य वाले अनुबंध हैं। अकेले वियतनाम सौदा 62.9 करोड़ डॉलर का है जो भारत की पूरी वार्षिक हथियार और गोला-बारूद निर्यात श्रेणी से बड़ा है जो कुछ साल पहले था। भारत का कुल हथियार और गोला-बारूद निर्यात 2023 में लगभग 1 करोड़ डॉलर था। एक मिसाइल कार्यक्रम अब राष्ट्रीय व्यापार आंकड़ों पर सुई लगा रहा है जिसे एक समय में एक बड़ा सौदा मापा जाता था।",
+      "en": "It is tempting to file BrahMos under strategic affairs and move on. That would miss the point for anyone tracking India's trade and industrial trajectory. Consider what is happening simultaneously. BrahMos exports are foreign-exchange-earning, dollar-denominated contracts. The Vietnam deal alone at $629 million is larger than India's entire annual arms-and-ammunition export category was just a few years ago. India's total arms and ammunition exports were around $358.6 million in 2023. One missile programme is now moving the needle on a national trade statistic that used to be measured one large deal at a time.",
+      "ur": "اسٹریٹجک امور کے تحت برہموس کو فائل کرنا اور آگے بڑھنا پرکشش ہے۔ اس سے ہندوستان کی تجارت اور صنعتی راستے پر نظر رکھنے والے کسی بھی شخص کو کوئی فائدہ نہیں ہوگا۔ غور کریں کہ بیک وقت کیا ہو رہا ہے۔ برہموس کی برآمدات غیر ملکی زر مبادلہ کمانے والے، ڈالر کے لحاظ سے معاہدے ہیں۔ صرف ویتنام کا 62. 9 کروڑ ڈالر کا معاہدہ ہندوستان کے پورے سالانہ ہتھیاروں اور گولہ بارود کے برآمدی زمرے سے بڑا ہے جو کچھ سال پہلے تھا۔ ہندوستان کی ہتھیاروں اور گولہ بارود کی کل برآمدات 2023 میں تقریبا 1. 1 کروڑ ڈالر تھی۔ ایک میزائل پروگرام اب قومی تجارتی اعدادوشمار پر سوئی چلا رہا ہے جسے ایک وقت میں ایک بڑا سودا سمجھا جاتا تھا۔"
+    },
+    "b14": {
+      "hi": "शीर्ष स्तर से परे, ब्रह्मोस एक घरेलू आपूर्ति श्रृंखला को निर्यात-श्रेणी के निर्माण में खींच रहा है। मिसाइल की सोर्सिंग पहले से ही भारतीय घटक और इलेक्ट्रॉनिक्स निर्माताओं, रडार सिस्टम, मार्गदर्शन इलेक्ट्रॉनिक्स और सटीक-मशीन भागों की आपूर्ति करने वाली फर्मों को छू रही है। जैसे-जैसे ऑर्डर बुक छह अरब डॉलर की ओर बढ़ती है, यह मांग डी. आर. डी. ओ. और एक संयुक्त उद्यम के भीतर नहीं रहती है। यह निजी आपूर्तिकर्ताओं को निर्यात-गुणवत्ता विनिर्देशों को पूरा करने में खींचती है, जो कि एक कारखाने के बजाय पूरे विनिर्माण पारिस्थितिकी तंत्र को उन्नत करने का एक प्रकार है।",
+      "en": "Beyond the top line, BrahMos is pulling a domestic supply chain into export-grade manufacturing. The missile's sourcing already touches Indian component and electronics makers, firms supplying radar systems, guidance electronics, and precision-machined parts. As the order book scales toward six billion dollars, that demand does not stay contained within DRDO and one joint venture. It pulls private suppliers into meeting export-quality specifications, which is exactly the kind of spillover that upgrades an entire manufacturing ecosystem rather than one factory.",
+      "ur": "سب سے اوپر، برہموس ایک گھریلو سپلائی چین کو ایکسپورٹ گریڈ مینوفیکچرنگ میں کھینچ رہا ہے۔ میزائل کی سورسنگ پہلے ہی ہندوستانی اجزاء اور الیکٹرانکس بنانے والوں، ریڈار سسٹم، گائیڈنس الیکٹرانکس، اور صحت سے متعلق مشین والے پرزوں کی فراہمی کرنے والی فرموں کو چھو رہی ہے۔ جیسے جیسے آرڈر بک چھ ارب ڈالر کی طرف بڑھ رہی ہے، یہ مانگ ڈی آر ڈی او اور ایک مشترکہ منصوبے کے اندر نہیں رہتی ہے۔ یہ نجی سپلائرز کو برآمدی معیار کی خصوصیات کو پورا کرنے کی طرف کھینچتا ہے، جو کہ بالکل اسی طرح کا اسپیل اوور ہے جو ایک فیکٹری کے بجائے پورے مینوفیکچرنگ ماحولیاتی نظام کو اپ گریڈ کرتا ہے۔"
+    },
+    "b15": {
+      "hi": "तीसरा आयाम कम दिखाई देता है लेकिन उतना ही महत्वपूर्ण है। ब्रह्मोस एक प्रणाली निर्यातक के रूप में भारत की विश्वसनीयता का निर्माण कर रहा है, न कि केवल एक घटक निर्यातक के रूप में। ऐतिहासिक रूप से, भारतीय रक्षा निर्यात पुर्जों, गोला-बारूद और उप-प्रणालियों, उपयोगी व्यापार पर बहुत अधिक निर्भर था, लेकिन उस तरह का नहीं जो संप्रभु तकनीकी प्रतिष्ठा बनाता है। एक सुपरसोनिक क्रूज मिसाइल जो युद्ध-सिद्ध हो चुकी है और अब कई संप्रभु सेनाओं द्वारा खरीदी जा रही है, पूरी तरह से निर्यात की एक अलग श्रेणी है। यह किसी और की आपूर्ति श्रृंखला में नट और बोल्ट बेचने और तैयार हथियार प्रणाली को बेचने के बीच का अंतर है जो दूसरे देश के सैन्य सिद्धांत को लंगर डालती है।",
+      "en": "The third dimension is less visible but equally important. BrahMos is building India's credibility as a systems exporter, not just a components exporter. Historically, Indian defence exports leaned heavily on parts, ammunition, and sub-systems, useful trade, but not the kind that builds sovereign technological reputation. A supersonic cruise missile that has been combat-proven and is now being bought by multiple sovereign militaries is a different category of export entirely. It is the difference between selling nuts and bolts into someone else's supply chain and selling the finished weapon system that anchors another country's military doctrine.",
+      "ur": "تیسرا پہلو کم نظر آتا ہے لیکن اتنا ہی اہم ہے۔ برہموس ایک نظام برآمد کنندہ کے طور پر ہندوستان کی ساکھ بنا رہا ہے، نہ کہ صرف ایک اجزاء برآمد کنندہ۔ تاریخی طور پر، ہندوستانی دفاعی برآمدات پرزوں، گولہ بارود، اور ذیلی نظام، مفید تجارت پر بہت زیادہ انحصار کرتی تھیں، لیکن اس قسم کی نہیں جو خودمختار تکنیکی ساکھ بناتی ہے۔ ایک سپرسونک کروز میزائل جو جنگی ثابت ہوا ہے اور اب متعدد خودمختار عسکریت پسندوں کے ذریعہ خریدا جا رہا ہے وہ برآمد کا ایک مختلف زمرہ ہے۔ یہ کسی اور کے سپلائی چین میں گری دار میوے اور بولٹ فروخت کرنے اور تیار شدہ ہتھیاروں کے نظام کو فروخت کرنے کے درمیان فرق ہے جو دوسرے ملک کے فوجی نظریے کو لنگر انداز کرتا ہے۔"
+    },
+    "b16": {
+      "hi": "बड़ी तस्वीर",
+      "en": "The Bigger Picture",
+      "ur": "بڑی تصویر"
+    },
+    "b17": {
+      "hi": "ब्रह्मोस से व्यापक रक्षा-तकनीक अवसरों का पता लगाएं जो इसका प्रतिनिधित्व करता है, और संख्याएँ बड़ी होती जाती हैं। भारत का कुल रक्षा निर्यात वित्त वर्ष 2014 में केवल 686 करोड़ रुपये से बढ़कर वित्त वर्ष 2026 में लगभग 38,400 करोड़ रुपये हो गया, जो एक दशक के भीतर 25 गुना अधिक है, सरकार ने वित्त वर्ष 2029 तक 50,000 करोड़ रुपये का लक्ष्य रखा है। एयरोस्पेस और रक्षा क्षेत्र के व्यापक आर्थिक पदचिह्न पर नज़र रखने वाले विश्लेषकों का अनुमान है कि इसका विस्तार आने वाले वर्षों में सकल घरेलू उत्पाद में 0 से 1 प्रतिशत तक वृद्धि कर सकता है, मुख्य रूप से विनिर्माण गुणक, उच्च कौशल वाले रोजगार सृजन और एक ऐसे क्षेत्र में आयात प्रतिस्थापन के माध्यम से जो ऐतिहासिक रूप से एक बड़ा व्यापार घाटा चलाता था। ब्रह्मोस ठीक उसी गुणक प्रभाव का एक सूक्ष्म जगत है। जब एक रक्षा मंच व्यावसायिक रूप से विदेशों में सफल होता है, तो आर्थिक मूल्य यह घरेलू रूप से अनुबंध मूल्य से काफी अधिक यौगिकों का निर्माण करता है।",
+      "en": "Zoom out from BrahMos to the broader defence-tech opportunity it represents, and the numbers get larger. India's total defence exports rose from a mere Rs 686 crore in FY 2014 to roughly Rs 38,400 crore in FY 2026, a 25-times jump in under a decade, with the government targeting Rs 50,000 crore by FY 2029. Analysts tracking the aerospace and defence sector's broader economic footprint estimate its expansion could contribute an incremental 0.5 to 1 percent to GDP over the coming years, largely through manufacturing multipliers, high-skill job creation, and import substitution in a sector that historically ran a large trade deficit. BrahMos is a microcosm of exactly that multiplier effect. When a defence platform succeeds commercially abroad, the economic value it creates domestically compounds well beyond the contract value itself.",
+      "ur": "برہموس سے وسیع تر دفاعی ٹیک مواقع کی طرف بڑھیں جس کی وہ نمائندگی کرتا ہے، اور تعداد بڑھتی جاتی ہے۔ ہندوستان کی کل دفاعی برآمدات مالی سال 2014 میں محض 686 کروڑ روپے سے بڑھ کر مالی سال 2026 میں تقریبا 38, 400 کروڑ روپے ہو گئیں، جو ایک دہائی کے اندر 25 گنا زیادہ ہے، جس میں حکومت نے مالی سال 2029 تک 50, 000 کروڑ روپے کا ہدف رکھا ہے۔ ایرو اسپیس اور دفاعی شعبے کے وسیع تر معاشی نقوش پر نظر رکھنے والے تجزیہ کاروں کا اندازہ ہے کہ اس کی توسیع آنے والے سالوں میں جی ڈی پی میں 0. 0 سے 1 فیصد تک اضافہ کر سکتی ہے، جس میں زیادہ تر مینوفیکچرنگ ملٹی پلیئرز، اعلی ہنر مند ملازمت کی تخلیق، اور ایک ایسے شعبے میں درآمدی متبادل کے ذریعے جو تاریخی طور پر ایک بڑا تجارتی خسارہ چلاتا تھا۔ برہموس بالکل اسی ضرب اثر کا ایک مائکروکوسم ہے۔ جب ایک دفاعی پلیٹ فارم بیرون ملک تجارتی طور پر کامیاب ہوتا ہے تو، معاشی قدر گھریلو طور پر محرکات پیدا کرتی ہے جو معاہدے کی قیمت سے کہیں زیادہ ہے۔"
+    },
+    "b18": {
+      "hi": "तीन सबक जो शेष भारत के रक्षा उद्योग को सीखना चाहिए",
+      "en": "Three Lessons the Rest of India's Defence Industry Should Copy",
+      "ur": "تین اسباق باقی ہندوستان کی دفاعی صنعت کو نقل کرنا چاہیے"
+    },
+    "b19": {
+      "hi": "ब्रह्मोस प्रक्षेपवक्र तीन हस्तांतरणीय सबक प्रदान करता है। पहला यह है कि युद्ध सत्यापन किसी भी विपणन बजट से अधिक मूल्यवान है। ब्रह्मोस की निर्यात कतार सिंदूर के बाद सार्थक रूप से तेज हो गई। हर दूसरे भारतीय मंच, आकाश, पिनाका, तेजस को प्राथमिक निर्यात बिक्री उपकरण के रूप में विवरण पुस्तिका विनिर्देशों के बजाय परिचालन प्रमाण को मानना चाहिए।",
+      "en": "The BrahMos trajectory offers three transferable lessons. The first is that combat validation is worth more than any marketing budget. BrahMos's export queue accelerated meaningfully after Sindoor. Every other Indian platform, Akash, Pinaka, Tejas, should treat operational proof, not brochure specifications, as the primary export sales tool.",
+      "ur": "برہموس کا راستہ تین قابل منتقلی سبق پیش کرتا ہے۔ پہلا یہ ہے کہ جنگی توثیق کسی بھی مارکیٹنگ بجٹ سے زیادہ قابل قدر ہے۔ برہموس کی برآمدی قطار سندور کے بعد معنی خیز طور پر تیز ہو گئی۔ ہر دوسرے ہندوستانی پلیٹ فارم، آکاش، پیناکا، تیجس کو آپریشنل ثبوت کو سمجھنا چاہیے، بروشر کی خصوصیات کو نہیں، برآمدی فروخت کے بنیادی آلے کے طور پر۔"
+    },
+    "b20": {
+      "hi": "दूसरा यह है कि क्षमता का निर्माण ऑर्डर बुक से पहले किया जाना चाहिए, न कि उसके पीछे। ब्रह्मोस ने निर्यात कतार के पूरी तरह से साकार होने से पहले लखनऊ उत्पादन को बढ़ाया, जिसका अर्थ था कि कंपनी वास्तव में वितरण में देरी के कारण विश्वसनीयता खोने के बजाय वियतनाम और इंडोनेशिया के आने पर आपूर्ति कर सकती थी, जो ऐतिहासिक रूप से भारतीय रक्षा निर्यात में सबसे बड़े प्रतिष्ठा संबंधी जोखिमों में से एक है।",
+      "en": "The second is that capacity has to be built ahead of the order book, not behind it. BrahMos scaled Lucknow production before the export queue fully materialised, which meant the company could actually deliver when Vietnam and Indonesia came calling, rather than losing credibility to delivery delays, historically one of the biggest reputational risks in Indian defence exports.",
+      "ur": "دوسرا یہ ہے کہ صلاحیت کو آرڈر بک سے پہلے بنانا پڑتا ہے، اس کے پیچھے نہیں۔ برآمدی قطار کو مکمل طور پر عملی جامہ پہنانے سے پہلے برہموس نے لکھنؤ کی پیداوار کو بڑھایا، جس کا مطلب ہے کہ کمپنی اصل میں ویتنام اور انڈونیشیا کے کال کرنے پر ڈیلیور کر سکتی تھی، بجائے اس کے کہ ڈیلیوری میں تاخیر کی وجہ سے ساکھ کھو جائے، جو تاریخی طور پر ہندوستانی دفاعی برآمدات میں سب سے بڑے ساکھ کے خطرات میں سے ایک ہے۔"
+    },
+    "b21": {
+      "hi": "तीसरा यह है कि एक प्रमुख उत्पाद पूरे औद्योगिक पारिस्थितिकी तंत्र को आगे बढ़ा सकता है, लेकिन केवल तभी जब घरेलू आपूर्ति श्रृंखला को जानबूझकर निर्यात-श्रेणी मानकों से जोड़ा जाए। ब्रह्मोस पैमाने पर सफलता की अगली कहानी, चाहे वह ड्रोन, ईडब्ल्यू सिस्टम या नौसेना के प्लेटफार्मों में हो, इस बात पर निर्भर करेगी कि क्या भारतीय निजी निर्माता पहले दिन से ही डिजाइन-और-निर्यात पाइपलाइन में एकीकृत हैं। ब्रह्मोस ने केवल मिसाइलें नहीं बेचीं। इसने भारत को एक कार्यशील टेम्पलेट दिया कि एक रक्षा-तकनीक निर्यात साम्राज्य वास्तव में बैलेंस-शीट के संदर्भ में कैसा दिखता है। बाकी उद्योग प्लेबुक की नकल करने के लिए अच्छा करेंगे, न कि केवल शीर्षक।",
+      "en": "The third is that one flagship product can pull an entire industrial ecosystem forward, but only if the domestic supply chain is deliberately connected to export-grade standards early. The next BrahMos-scale success story, whether in drones, EW systems, or naval platforms, will depend on whether Indian private manufacturers are integrated into the design-and-export pipeline from day one. BrahMos did not just sell missiles. It gave India a working template for what a defence-tech export empire actually looks like in balance-sheet terms. The rest of the industry would do well to copy the playbook, not just the headline.",
+      "ur": "تیسرا یہ ہے کہ ایک فلیگ شپ پروڈکٹ پورے صنعتی ماحولیاتی نظام کو آگے بڑھا سکتا ہے، لیکن صرف اس صورت میں جب گھریلو سپلائی چین جان بوجھ کر ایکسپورٹ گریڈ کے معیارات سے جلد منسلک ہو۔ برہموس پیمانے کی اگلی کامیابی کی کہانی، چاہے وہ ڈرون، ای ڈبلیو سسٹم، یا بحری پلیٹ فارم میں ہو، اس بات پر منحصر ہوگی کہ آیا ہندوستانی نجی مینوفیکچررز پہلے دن سے ہی ڈیزائن اور ایکسپورٹ پائپ لائن میں ضم ہیں یا نہیں۔ برہموس نے صرف میزائل فروخت نہیں کیے۔ اس نے ہندوستان کو ایک عملی ٹیمپلیٹ دیا کہ دفاعی ٹیک ایکسپورٹ سلطنت دراصل بیلنس شیٹ کے لحاظ سے کیسی نظر آتی ہے۔ باقی صنعتوں کو صرف سرخی کی بجائے پلے بک کی نقل کرنا بہتر ہوگا۔"
+    }
+  }
+}
