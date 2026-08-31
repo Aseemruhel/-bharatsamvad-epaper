@@ -1,0 +1,835 @@
+{
+  "hash": "c9da0a93ea16b23e",
+  "t": {
+    "fm.section": {
+      "hi": "विश्लेषण",
+      "en": "Analysis",
+      "ur": "تجزیہ"
+    },
+    "fm.kicker": {
+      "hi": "\"रणनीतिक मामले · भारत सुरक्षा · क्षेत्रीय नेटवर्क · मक्का ढांचा\"",
+      "en": "\"Strategic Affairs · India Security · Regional Networks · Makkah Framework\"",
+      "ur": "\"اسٹریٹجک امور · ہندوستان کی سلامتی · علاقائی نیٹ ورک · مکہ فریم ورک\""
+    },
+    "fm.byline": {
+      "hi": "डॉ. श्रेओशी सिन्हा",
+      "en": "Dr Sreoshi Sinha",
+      "ur": "ڈاکٹر سریوشی سنہا"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली/नालंदा",
+      "en": "New Delhi / Nalanda",
+      "ur": "نئی دہلی/نالندہ"
+    },
+    "fm.headline": {
+      "hi": "\"भारत का सुरक्षा मानचित्र बदल रहा हैः क्षेत्रीय खतरों से लेकर नेटवर्क की कमजोरियों तक\"",
+      "en": "\"India's Security Map Is Changing: From Territorial Threats to Networked Vulnerabilities\"",
+      "ur": "\"ہندوستان کا سلامتی کا نقشہ بدل رہا ہے: علاقائی خطرات سے نیٹ ورک کے خطرات تک\""
+    },
+    "fm.subdeck": {
+      "hi": "पाकिस्तान, सऊदी अरब और तुर्की द्वारा हस्ताक्षरित मक्का संयुक्त रक्षा समझौता-बांग्लादेश के साथ अब शामिल होने में रुचि का संकेत देता है-हाल ही में संयुक्त राष्ट्र सुरक्षा परिषद के मूल्यांकन के साथ संयुक्त रूप से कि भारतीय उपमहाद्वीप में अल-कायदा (एक्यूआईएस) बांग्लादेश में परिचालन नेटवर्क की तलाश कर रहा है, और दक्षिण कश्मीर में जारी आतंकवादी हिंसा, भारत की क्षेत्रीय सुरक्षा वास्तुकला में बदलाव की ओर इशारा करती है। पश्चिमी पाकिस्तान-कश्मीर थिएटर और पूर्वी बांग्लादेश-पूर्वोत्तर थिएटर की पुरानी भौगोलिक श्रेणियों को बनाए रखना तेजी से मुश्किल होता जा रहा है। भारत के चारों ओर उभर रहे रणनीतिक और आतंकवादी नेटवर्क तेजी से अंतरराष्ट्रीय, अनुकूली और आपस में जुड़े हुए हैं-और भारत के सुरक्षा मानचित्र को अब सीमाओं के मानचित्र के रूप में नेटवर्क के मानचित्र के रूप में पढ़ने की आवश्यकता है।",
+      "en": "\"The Makkah Joint Defence Agreement, signed by Pakistan, Saudi Arabia and Türkiye — with Bangladesh now signalling interest in joining — combined with the recent UN Security Council assessment that Al-Qaeda in the Indian Subcontinent (AQIS) is seeking operational networks in Bangladesh, and the continuing terrorist violence in South Kashmir, together point to a shift in India's regional security architecture. The old geographical categories of a western Pakistan-Kashmir theatre and an eastern Bangladesh-Northeast theatre are becoming increasingly difficult to sustain. The strategic and terrorist networks emerging around India are increasingly transnational, adaptive, and interconnected — and India's security map now needs to be read as a map of networks as much as a map of borders.\"",
+      "ur": "\"مکہ مشترکہ دفاعی معاہدہ، جس پر پاکستان، سعودی عرب اور ترکی نے بنگلہ دیش کے ساتھ دستخط کیے ہیں، جو اب اس میں شامل ہونے میں دلچسپی کا اشارہ ہے، اقوام متحدہ کی سلامتی کونسل کے حالیہ جائزے کے ساتھ مل کر کہ برصغیر پاک و ہند میں القاعدہ (اے کیو آئی ایس) بنگلہ دیش میں آپریشنل نیٹ ورک تلاش کر رہی ہے، اور جنوبی کشمیر میں جاری دہشت گردی کا تشدد، مل کر ہندوستان کے علاقائی سلامتی کے ڈھانچے میں تبدیلی کی طرف اشارہ کرتا ہے۔ مغربی پاکستان-کشمیر تھیٹر اور مشرقی بنگلہ دیش-شمال مشرقی تھیٹر کے پرانے جغرافیائی زمروں کو برقرار رکھنا تیزی سے مشکل ہوتا جا رہا ہے۔ ہندوستان کے ارد گرد ابھرتے ہوئے اسٹریٹجک اور دہشت گرد نیٹ ورک تیزی سے بین الاقوامی، موافقت پذیر اور باہم جڑے ہوئے ہیں-اور ہندوستان کے حفاظتی نقشے کو اب نیٹ ورک کے نقشے کے طور پر پڑھنے کی ضرورت ہے جتنا کہ سرحدوں کے نقشے کے طور پر۔\""
+    },
+    "b0": {
+      "hi": "भारत का सुरक्षा मानचित्र बदल रहा हैः क्षेत्रीय खतरों से लेकर नेटवर्क की कमजोरियों तक",
+      "en": "India's Security Map Is Changing: From Territorial Threats to Networked Vulnerabilities",
+      "ur": "ہندوستان کا سلامتی کا نقشہ بدل رہا ہے: علاقائی خطرات سے نیٹ ورک کے خطرات تک"
+    },
+    "b1": {
+      "hi": "एक नए रक्षा समझौते ने पाकिस्तान, सऊदी अरब और तुर्की को सुरक्षा के मामले में और करीब ला दिया है, बांग्लादेश अब इस व्यवस्था में शामिल होने पर विचार कर रहा है। साथ ही, हाल ही में संयुक्त राष्ट्र के एक आकलन में चेतावनी दी गई है कि भारतीय उपमहाद्वीप में अल-कायदा (एक्यूआईएस) बांग्लादेश में परिचालन नेटवर्क स्थापित करने की कोशिश कर रहा है, जबकि दक्षिण कश्मीर में आतंकवादी हिंसा जारी है। ये घटनाक्रम अलग-अलग दिखाई दे सकते हैं, लेकिन साथ-साथ वे भारत के आसपास के सुरक्षा वातावरण में एक महत्वपूर्ण बदलाव की ओर इशारा करते हैं।",
+      "en": "A new defence pact has brought Pakistan, Saudi Arabia and Türkiye closer on security, with Bangladesh now considering joining the arrangement. At the same time, a recent United Nations assessment has warned that Al-Qaeda in the Indian Subcontinent (AQIS) is seeking to establish operational networks in Bangladesh, while terrorist violence continues in South Kashmir. These developments may appear separate, but together they point to a significant shift in the security environment surrounding India.",
+      "ur": "ایک نئے دفاعی معاہدے نے پاکستان، سعودی عرب اور ترکی کو سلامتی کے معاملے میں قریب لایا ہے، بنگلہ دیش اب اس انتظام میں شامل ہونے پر غور کر رہا ہے۔ اسی دوران اقوام متحدہ کے ایک حالیہ جائزے میں خبردار کیا گیا ہے کہ برصغیر پاک و ہند میں القاعدہ (اے کیو آئی ایس) بنگلہ دیش میں آپریشنل نیٹ ورک قائم کرنے کی کوشش کر رہی ہے، جبکہ جنوبی کشمیر میں دہشت گردی کا تشدد جاری ہے۔ یہ پیش رفت الگ نظر آسکتی ہیں، لیکن مل کر وہ ہندوستان کے ارد گرد حفاظتی ماحول میں ایک اہم تبدیلی کی طرف اشارہ کرتی ہیں۔"
+    },
+    "b2": {
+      "hi": "ये घटनाक्रम बहुत अलग संदर्भों से सामने आए हैं, लेकिन साथ में ये एक सवाल उठाते हैं कि भारत अब एक दूर की संभावना के रूप में नहीं देख सकता हैः क्या भारत के आसपास सुरक्षा वातावरण तेजी से नेटवर्क हो रहा है?",
+      "en": "These developments have emerged from very different contexts, but together they raise a question India can no longer afford to treat as a distant possibility: is the security environment around India becoming increasingly networked?",
+      "ur": "یہ پیش رفت بہت مختلف سیاق و سباق سے سامنے آئی ہیں، لیکن یہ مل کر ایک سوال اٹھاتے ہیں کہ ہندوستان اب دور کے امکان کے طور پر اس کا مقابلہ کرنے کا متحمل نہیں ہو سکتا: کیا ہندوستان کے آس پاس کا حفاظتی ماحول تیزی سے نیٹ ورک ہو رہا ہے؟"
+    },
+    "b3": {
+      "hi": "दशकों से, दक्षिण एशिया में भारत की सुरक्षा चिंताओं को बड़े पैमाने पर भूगोल के माध्यम से समझा गया है। पाकिस्तान और कश्मीर प्रमुख पश्चिमी सुरक्षा थिएटर का गठन करते थे; बांग्लादेश, पूर्वोत्तर और बंगाल की खाड़ी ने पूर्वी क्षेत्र का गठन किया। आतंकवाद को इसी तरह बड़े पैमाने पर घुसपैठ, क्षेत्रीय पनाहगाहों और पहचान योग्य आतंकवादी संगठनों के चश्मे से देखा जाता था।",
+      "en": "For decades, India's security concerns in South Asia have been understood largely through geography. Pakistan and Kashmir constituted the principal western security theatre; Bangladesh, the Northeast and the Bay of Bengal formed the eastern one. Terrorism was similarly viewed largely through the lens of infiltration, territorial sanctuaries and identifiable militant organisations.",
+      "ur": "کئی دہائیوں سے جنوبی ایشیا میں ہندوستان کے سلامتی کے خدشات کو بڑے پیمانے پر جغرافیہ کے ذریعے سمجھا جاتا رہا ہے۔ پاکستان اور کشمیر نے اہم مغربی سلامتی تھیٹر تشکیل دیا۔ بنگلہ دیش، شمال مشرق اور خلیج بنگال نے مشرقی تھیٹر تشکیل دیا۔ اسی طرح دہشت گردی کو بڑی حد تک دراندازی، علاقائی پناہ گاہوں اور قابل شناخت عسکریت پسند تنظیموں کی عینک سے دیکھا جاتا تھا۔"
+    },
+    "b4": {
+      "hi": "यह ढांचा तेजी से अपर्याप्त होता जा रहा है।",
+      "en": "That framework is becoming increasingly inadequate.",
+      "ur": "یہ فریم ورک تیزی سے ناکافی ہوتا جا رہا ہے۔"
+    },
+    "b5": {
+      "hi": "उभरते हुए चुनौती बदलते राज्य संरेखण और तेजी से लचीले अंतरराष्ट्रीय नेटवर्क के बीच बातचीत है। बांग्लादेश का महत्व ठीक इसी चौराहे पर है।",
+      "en": "The emerging challenge is the interaction between changing state alignments and increasingly flexible transnational networks. The significance of Bangladesh lies precisely at this intersection.",
+      "ur": "ابھرتا ہوا چیلنج بدلتی ہوئی ریاستی صف بندی اور تیزی سے لچکدار بین الاقوامی نیٹ ورک کے درمیان تعامل ہے۔ بنگلہ دیش کی اہمیت بالکل اسی چوراہے پر ہے۔"
+    },
+    "b6": {
+      "hi": "बांग्लादेश और बदलते रणनीतिक समीकरण",
+      "en": "Bangladesh and the changing strategic equation",
+      "ur": "بنگلہ دیش اور بدلتے ہوئے اسٹریٹجک مساوات"
+    },
+    "b7": {
+      "hi": "पाकिस्तान, सऊदी अरब और तुर्की द्वारा हस्ताक्षरित मक्का संयुक्त रक्षा समझौते ने रक्षा सहयोग के लिए एक नई रूपरेखा पेश की है। इस व्यवस्था में शामिल होने में बांग्लादेश की सकारात्मक रुचि इसमें एक महत्वपूर्ण दक्षिण एशियाई आयाम जोड़ती है और भारत के आसपास के रणनीतिक भूगोल के लिए इसका क्या अर्थ हो सकता है, इस पर ध्यान देने की आवश्यकता है।",
+      "en": "The Makkah Joint Defence Agreement, signed by Pakistan, Saudi Arabia and Türkiye, has introduced a new framework for defence cooperation. Bangladesh's positive interest in joining the arrangement adds an important South Asian dimension to it and deserves attention because of what it could mean for the strategic geography surrounding India.",
+      "ur": "پاکستان، سعودی عرب اور ترکی کے دستخط شدہ مکہ مشترکہ دفاعی معاہدے نے دفاعی تعاون کے لیے ایک نیا فریم ورک متعارف کرایا ہے۔ اس معاہدے میں شامل ہونے میں بنگلہ دیش کی مثبت دلچسپی اس میں ایک اہم جنوبی ایشیائی جہت کا اضافہ کرتی ہے اور توجہ کا مستحق ہے کیونکہ اس کا ہندوستان کے ارد گرد اسٹریٹجک جغرافیہ کے لیے کیا مطلب ہو سکتا ہے۔"
+    },
+    "b8": {
+      "hi": "ढाका की अपनी रणनीतिक गणना है। बांग्लादेश व्यापक राजनयिक और रणनीतिक विकल्पों की तलाश कर रहा है, और पाकिस्तान के साथ उसके जुड़ाव को रणनीतिक स्थान की व्यापक खोज के भीतर समझा जाना चाहिए। फिर भी भूगोल बांग्लादेश को कई अन्य देशों से अलग बनाता है जो नई साझेदारी में प्रवेश कर रहे हैं। यह भारत के साथ एक लंबी सीमा साझा करता है, पूर्वोत्तर के साथ संपर्क के लिए केंद्रीय है और बंगाल की खाड़ी में एक महत्वपूर्ण स्थान रखता है।",
+      "en": "Dhaka has its own strategic calculations. Bangladesh is seeking wider diplomatic and strategic options, and its engagement with Pakistan should be understood within that broader search for strategic space. Yet geography makes Bangladesh different from many other countries entering new partnerships. It shares a long border with India, is central to connectivity with the Northeast and occupies a crucial position in the Bay of Bengal.",
+      "ur": "ڈھاکہ کے اپنے اسٹریٹجک حسابات ہیں۔ بنگلہ دیش وسیع تر سفارتی اور اسٹریٹجک آپشنز تلاش کر رہا ہے، اور پاکستان کے ساتھ اس کی مصروفیت کو اسٹریٹجک جگہ کی وسیع تر تلاش کے اندر سمجھا جانا چاہیے۔ پھر بھی جغرافیہ بنگلہ دیش کو نئی شراکت داری میں داخل ہونے والے بہت سے دوسرے ممالک سے مختلف بناتا ہے۔ یہ ہندوستان کے ساتھ ایک طویل سرحد کا اشتراک کرتا ہے، شمال مشرق کے ساتھ رابطے کا مرکز ہے اور خلیج بنگال میں ایک اہم مقام رکھتا ہے۔"
+    },
+    "b9": {
+      "hi": "इसलिए बांग्लादेश-पाकिस्तान के बीच गहरे रक्षा संबंधों के परिणाम दोनों देशों के बीच संबंधों से परे होंगे। सैन्य प्रशिक्षण, खुफिया जानकारी के आदान-प्रदान, रक्षा प्रौद्योगिकी, रणनीतिक परामर्श और संस्थागत सहयोग धीरे-धीरे भारत के पूर्वी और पश्चिमी पड़ोस में संपर्क के नए रूप पैदा कर सकते हैं।",
+      "en": "A deeper Bangladesh-Pakistan defence relationship would therefore have consequences beyond the bilateral relationship itself. Military training, intelligence exchanges, defence technology, strategic consultations and institutional cooperation could gradually create new forms of connectivity across India's eastern and western neighbourhoods.",
+      "ur": "اس لیے بنگلہ دیش اور پاکستان کے گہرے دفاعی تعلقات کے نتائج دو طرفہ تعلقات سے باہر ہوں گے۔ فوجی تربیت، انٹیلی جنس کے تبادلے، دفاعی ٹیکنالوجی، اسٹریٹجک مشاورت اور ادارہ جاتی تعاون آہستہ آہستہ ہندوستان کے مشرقی اور مغربی پڑوسیوں میں رابطے کی نئی شکلیں پیدا کر سکتے ہیں۔"
+    },
+    "b10": {
+      "hi": "यही वह जगह है जहाँ नई दिल्ली में विकास पर सावधानीपूर्वक ध्यान देने की आवश्यकता है।",
+      "en": "This is where the development deserves careful attention in New Delhi.",
+      "ur": "یہ وہ جگہ ہے جہاں نئی دہلی میں ہونے والی پیش رفت پر محتاط توجہ دی جانی چاہیے۔"
+    },
+    "b11": {
+      "hi": "सवाल केवल यह नहीं है कि क्या बांग्लादेश किसी विशेष व्यवस्था में शामिल होता है। असली सवाल यह है कि इसके बाद किस तरह के रणनीतिक संबंध उभरते हैं।",
+      "en": "The question is not simply whether Bangladesh joins a particular arrangement. The real question is what kind of strategic relationships emerge after it does.",
+      "ur": "سوال صرف یہ نہیں ہے کہ آیا بنگلہ دیش کسی خاص انتظام میں شامل ہوتا ہے۔ اصل سوال یہ ہے کہ اس کے بعد کس طرح کے اسٹریٹجک تعلقات ابھرتے ہیں۔"
+    },
+    "b12": {
+      "hi": "भारत के लिए, यह क्षेत्रीय परिवेश में एक महत्वपूर्ण बदलाव है। पाकिस्तान को पारंपरिक रूप से भारत की प्रमुख पश्चिमी सुरक्षा चुनौती के रूप में देखा गया है, जबकि बांग्लादेश को काफी हद तक एक महत्वपूर्ण पूर्वी पड़ोसी के रूप में देखा गया है। दोनों के बीच अधिक रणनीतिक संपर्क इस भौगोलिक अलगाव को बनाए रखना मुश्किल बना सकता है।",
+      "en": "For India, this is a significant shift in the regional environment. Pakistan has traditionally been viewed as India's principal western security challenge, while Bangladesh has largely been approached as an important eastern neighbour. Greater strategic connectivity between the two could make this geographical separation increasingly difficult to sustain.",
+      "ur": "ہندوستان کے لیے، یہ علاقائی ماحول میں ایک اہم تبدیلی ہے۔ پاکستان کو روایتی طور پر ہندوستان کے اہم مغربی سلامتی کے چیلنج کے طور پر دیکھا جاتا رہا ہے، جبکہ بنگلہ دیش کو بڑے پیمانے پر ایک اہم مشرقی پڑوسی کے طور پر دیکھا گیا ہے۔ دونوں کے درمیان زیادہ سے زیادہ اسٹریٹجک رابطہ اس جغرافیائی علیحدگی کو برقرار رکھنا مشکل بنا سکتا ہے۔"
+    },
+    "b13.title": {
+      "hi": "उभरता हुआ नेटवर्क सुरक्षा वातावरण",
+      "en": "The Emerging Networked Security Environment",
+      "ur": "ابھرتا ہوا نیٹ ورک سیکیورٹی ماحول"
+    },
+    "b13.itemlbl.0": {
+      "hi": "मक्का संयुक्त रक्षा समझौता",
+      "en": "Makkah Joint Defence Agreement",
+      "ur": "مکہ مشترکہ دفاعی معاہدہ"
+    },
+    "b13.itemval.0": {
+      "hi": "पाकिस्तान; सऊदी अरब; तुर्की",
+      "en": "Pakistan; Saudi Arabia; Türkiye",
+      "ur": "پاکستان ؛ سعودی عرب ؛ ترکی"
+    },
+    "b13.itemlbl.1": {
+      "hi": "संभावित प्रतिभागी",
+      "en": "Prospective participant",
+      "ur": "ممکنہ شریک"
+    },
+    "b13.itemval.1": {
+      "hi": "बांग्लादेश (ब्याज संकेतित)",
+      "en": "Bangladesh (interest signalled)",
+      "ur": "بنگلہ دیش (سود کا اشارہ)"
+    },
+    "b13.itemlbl.2": {
+      "hi": "ए. क्यू. आई. एस. संयुक्त राष्ट्र सुरक्षा परिषद का आकलन",
+      "en": "AQIS UN Security Council assessment",
+      "ur": "اے کیو آئی ایس اقوام متحدہ کی سلامتی کونسل کا جائزہ"
+    },
+    "b13.itemval.2": {
+      "hi": "भारतीय उपमहाद्वीप में अल-कायदा बांग्लादेश में संचालन कक्षों की तलाश में",
+      "en": "Al-Qaeda in the Indian Subcontinent seeking operational cells in Bangladesh",
+      "ur": "برصغیر پاک و ہند میں القاعدہ بنگلہ دیش میں آپریشنل سیل تلاش کر رہی ہے"
+    },
+    "b13.itemlbl.3": {
+      "hi": "चल रहा रंगमंच",
+      "en": "Ongoing theatre",
+      "ur": "جاری تھیٹر"
+    },
+    "b13.itemval.3": {
+      "hi": "दक्षिण कश्मीर में आतंकवादी हिंसा",
+      "en": "South Kashmir terrorist violence",
+      "ur": "جنوبی کشمیر میں دہشت گردی کے واقعات"
+    },
+    "b13.itemlbl.4": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.4": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.5": {
+      "hi": "भारत की पारंपरिक सुरक्षा भूगोल",
+      "en": "INDIA'S TRADITIONAL SECURITY GEOGRAPHY",
+      "ur": "ہندوستان کی روایتی سلامتی کی جغرافیائی"
+    },
+    "b13.itemval.5": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.6": {
+      "hi": "पश्चिमी रंगमंच",
+      "en": "Western theatre",
+      "ur": "مغربی تھیٹر"
+    },
+    "b13.itemval.6": {
+      "hi": "पाकिस्तान और कश्मीर",
+      "en": "Pakistan and Kashmir",
+      "ur": "پاکستان اور کشمیر"
+    },
+    "b13.itemlbl.7": {
+      "hi": "पूर्वी रंगमंच",
+      "en": "Eastern theatre",
+      "ur": "مشرقی تھیٹر"
+    },
+    "b13.itemval.7": {
+      "hi": "बांग्लादेश, पूर्वोत्तर, बंगाल की खाड़ी",
+      "en": "Bangladesh, Northeast, Bay of Bengal",
+      "ur": "بنگلہ دیش، شمال مشرق، خلیج بنگال"
+    },
+    "b13.itemlbl.8": {
+      "hi": "आतंकवाद का लेंस",
+      "en": "Terrorism lens",
+      "ur": "دہشت گردی کی عینک"
+    },
+    "b13.itemval.8": {
+      "hi": "घुसपैठ; क्षेत्रीय अभयारण्य; पहचान योग्य उग्रवादी संगठन",
+      "en": "Infiltration; territorial sanctuaries; identifiable militant organisations",
+      "ur": "دراندازی ؛ علاقائی پناہ گاہیں ؛ قابل شناخت عسکریت پسند تنظیمیں"
+    },
+    "b13.itemlbl.9": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.9": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.10": {
+      "hi": "क्यों बांग्लादेश मुख्य हस्तक्षेप है",
+      "en": "WHY BANGLADESH IS THE KEY INTERSECTION",
+      "ur": "کیوں بنگلہ دیش کلیدی مداخلت ہے"
+    },
+    "b13.itemval.10": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.11": {
+      "hi": "भारत के साथ लंबी सीमा",
+      "en": "Long border with India",
+      "ur": "بھارت کے ساتھ لمبی سرحد"
+    },
+    "b13.itemval.11": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.12": {
+      "hi": "पूर्वोत्तर के साथ संपर्क के लिए केंद्रीय",
+      "en": "Central to connectivity with the Northeast",
+      "ur": "شمال مشرق کے ساتھ مرکزی رابطہ"
+    },
+    "b13.itemval.12": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.13": {
+      "hi": "बंगाल की खाड़ी में महत्वपूर्ण स्थिति",
+      "en": "Crucial position in the Bay of Bengal",
+      "ur": "خلیج بنگال میں اہم مقام"
+    },
+    "b13.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.14": {
+      "hi": "पश्चिमी और पूर्वी सुरक्षा थिएटरों के बीच संभावित संबंध",
+      "en": "Potential linkage between western and eastern security theatres",
+      "ur": "مغربی اور مشرقی سیکورٹی تھیٹروں کے درمیان ممکنہ ربط"
+    },
+    "b13.itemval.14": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.15": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.15": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.16": {
+      "hi": "सामञ्जस्यपूर्ण आतंकवादी कार्य नेटवर्क विशेषताएँ",
+      "en": "CONTEMPORARY TERRORIST NETWORK CHARACTERISTICS",
+      "ur": "مشترکہ دہشت گرد نیٹ ورک کی خصوصیات"
+    },
+    "b13.itemval.16": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.17": {
+      "hi": "बड़ी संरचनाओं के बजाय छोटी कोशिकाएँ",
+      "en": "Small cells rather than large formations",
+      "ur": "بڑے خلیات کے بجائے چھوٹے خلیات"
+    },
+    "b13.itemval.17": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.18": {
+      "hi": "छिटपुट भर्तियां",
+      "en": "Dispersed recruitment",
+      "ur": "بکھری ہوئی بھرتی"
+    },
+    "b13.itemval.18": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.19": {
+      "hi": "डिजिटल संचार अवसंरचना",
+      "en": "Digital communication infrastructure",
+      "ur": "ڈیجیٹل مواصلاتی بنیادی ڈھانچہ"
+    },
+    "b13.itemval.19": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.20": {
+      "hi": "वित्तीय नेटवर्क लचीलापन",
+      "en": "Financial network flexibility",
+      "ur": "مالیاتی نیٹ ورک کی لچک"
+    },
+    "b13.itemval.20": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.21": {
+      "hi": "लचीली साजो-सामान संरचनाएँ",
+      "en": "Flexible logistical structures",
+      "ur": "لچکدار لاجسٹک ڈھانچے"
+    },
+    "b13.itemval.21": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.22": {
+      "hi": "प्रभावशीलता क्षेत्र के नियंत्रण पर निर्भर नहीं",
+      "en": "Effectiveness not dependent on controlling territory",
+      "ur": "اثر و رسوخ جو علاقے کو کنٹرول کرنے پر منحصر نہیں ہے"
+    },
+    "b13.itemval.22": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.23": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.24": {
+      "hi": "नेटवर्क विश्लेषण के लिए पांच अवसर प्रश्न",
+      "en": "FIVE OPPORTUNITY QUESTIONS FOR NETWORK ANALYSIS",
+      "ur": "نیٹ ورک تجزیہ کے لیے مواقع کے پانچ سوالات"
+    },
+    "b13.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.25": {
+      "hi": "आतंकवादी संगठनों को भर्ती करने के लिए जगह कहां मिलती है?",
+      "en": "Where do terrorist organisations find space to recruit?",
+      "ur": "دہشت گرد تنظیموں کو بھرتی کے لیے کہاں جگہ ملتی ہے؟"
+    },
+    "b13.itemval.25": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.26": {
+      "hi": "वे पैसे और लोगों को कहाँ ले जा सकते हैं?",
+      "en": "Where can they move money and people?",
+      "ur": "وہ پیسہ اور لوگوں کو کہاں منتقل کر سکتے ہیں؟"
+    },
+    "b13.itemval.26": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.27": {
+      "hi": "वे समर्थन नेटवर्क कहाँ विकसित कर सकते हैं?",
+      "en": "Where can they develop support networks?",
+      "ur": "وہ سپورٹ نیٹ ورک کہاں تیار کر سکتے ہیں؟"
+    },
+    "b13.itemval.27": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.28": {
+      "hi": "वे डिजिटल प्लेटफॉर्म का फायदा कहां उठा सकते हैं?",
+      "en": "Where can they exploit digital platforms?",
+      "ur": "وہ ڈیجیٹل پلیٹ فارم کا فائدہ کہاں اٹھا سکتے ہیں؟"
+    },
+    "b13.itemval.28": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.29": {
+      "hi": "वे राजनीतिक या संस्थागत कमजोरियों का लाभ कहां उठा सकते हैं?",
+      "en": "Where can they take advantage of political or institutional vulnerabilities?",
+      "ur": "وہ سیاسی یا ادارہ جاتی کمزوریوں سے کہاں فائدہ اٹھا سکتے ہیں؟"
+    },
+    "b13.itemval.29": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.30": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.30": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.31": {
+      "hi": "दक्षिण कश्मीर का पाठ",
+      "en": "SOUTH KASHMIR LESSON",
+      "ur": "جنوبی کشمیر کا سبق"
+    },
+    "b13.itemval.31": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.32": {
+      "hi": "आतंकवाद-रोधी अभियानों ने परिचालन वातावरण को काफी बदल दिया",
+      "en": "Counter-terrorism operations significantly altered operating environment",
+      "ur": "انسداد دہشت گردی کی کارروائیوں نے آپریٹنگ ماحول کو نمایاں طور پر تبدیل کر دیا"
+    },
+    "b13.itemval.32": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.33": {
+      "hi": "छोटे समूहों के माध्यम से आतंकवाद जारी है",
+      "en": "Terrorism has continued through smaller groups",
+      "ur": "دہشت گردی چھوٹے گروہوں کے ذریعے جاری ہے"
+    },
+    "b13.itemval.33": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.34": {
+      "hi": "लक्षित हत्याएँ, स्थानीय भर्ती, घुसपैठ, समर्थन नेटवर्क",
+      "en": "Targeted killings, local recruitment, infiltration, support networks",
+      "ur": "ٹارگٹڈ کلنگز، مقامی بھرتی، دراندازی، سپورٹ نیٹ ورک"
+    },
+    "b13.itemval.34": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.35": {
+      "hi": "आतंकवाद छोटा, अधिक फैला हुआ, पता लगाना कठिन होने से जीवित रह सकता है",
+      "en": "Terrorism can survive by becoming smaller, more dispersed, harder to detect",
+      "ur": "دہشت گردی چھوٹی، زیادہ منتشر، پتہ لگانا مشکل ہو کر زندہ رہ سکتی ہے"
+    },
+    "b13.itemval.35": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.36": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.36": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.37": {
+      "hi": "भारत की रणनीतिक संभावनाएँ",
+      "en": "INDIA'S STRATEGIC ADVANTAGES",
+      "ur": "ہندوستان کے اسٹریٹجک فوائد"
+    },
+    "b13.itemval.37": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.38": {
+      "hi": "भूगोल",
+      "en": "Geography",
+      "ur": "جغرافیہ"
+    },
+    "b13.itemval.38": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.39": {
+      "hi": "बुद्धिमत्ता क्षमताएँ",
+      "en": "Intelligence capabilities",
+      "ur": "ذہانت کی صلاحیتیں"
+    },
+    "b13.itemval.39": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.40": {
+      "hi": "कूटनीतिक पहुंच",
+      "en": "Diplomatic reach",
+      "ur": "سفارتی رسائی"
+    },
+    "b13.itemval.40": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.41": {
+      "hi": "स्थापित क्षेत्रीय संबंध",
+      "en": "Established regional relationships",
+      "ur": "قائم شدہ علاقائی تعلقات"
+    },
+    "b13.itemval.41": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.42": {
+      "hi": "महत्वपूर्ण आवश्यकता",
+      "en": "Critical requirement",
+      "ur": "اہم تقاضے"
+    },
+    "b13.itemval.42": {
+      "hi": "इन लाभों का जल्दी उपयोग करना",
+      "en": "Using these advantages early",
+      "ur": "ان فوائد کا جلد استعمال"
+    },
+    "b14.q": {
+      "hi": "\"भारत का सुरक्षा मानचित्र अब केवल सीमाओं पर ही नहीं बनाया जा सकता है; इसे उन नेटवर्कों के माध्यम से भी समझा जाना चाहिए जो उन्हें पार करते हैं। रणनीतिक साझेदारी, आतंकवादी संगठन, वित्तीय चैनल, डिजिटल स्थान और मानव नेटवर्क तेजी से आपस में जुड़े हुए हैं।\"",
+      "en": "\"India's security map can no longer be drawn along borders alone; it must also be understood through the networks that cross them. Strategic partnerships, terrorist organisations, financial channels, digital spaces and human networks are becoming increasingly interconnected.\"",
+      "ur": "\"ہندوستان کا حفاظتی نقشہ اب صرف سرحدوں کے ساتھ نہیں بنایا جا سکتا ؛ اسے ان نیٹ ورکس کے ذریعے بھی سمجھنا چاہیے جو ان کو عبور کرتے ہیں۔ اسٹریٹجک شراکت داری، دہشت گرد تنظیمیں، مالیاتی چینلز، ڈیجیٹل جگہیں اور انسانی نیٹ ورک تیزی سے آپس میں جڑے ہوئے ہیں\"۔"
+    },
+    "b14.c": {
+      "hi": "- डॉ. श्रेओशी सिन्हा",
+      "en": "— Dr Sreoshi Sinha",
+      "ur": "- ڈاکٹر سریشی سنہا"
+    },
+    "b15": {
+      "hi": "एक्यूआईएस कारक",
+      "en": "The AQIS factor",
+      "ur": "اے کیو آئی ایس عنصر"
+    },
+    "b16": {
+      "hi": "एक्यूआईएस से संबंधित हाल के संयुक्त राष्ट्र सुरक्षा परिषद के मूल्यांकन के साथ-साथ बांग्लादेश के बदलते रणनीतिक वातावरण पर विचार करने पर सुरक्षा प्रभाव और भी तेज हो जाते हैं।",
+      "en": "The security implications become sharper when Bangladesh's changing strategic environment is considered alongside the recent UN Security Council assessment concerning AQIS.",
+      "ur": "سلامتی کے مضمرات اس وقت مزید تیز ہو جاتے ہیں جب اے کیو آئی ایس سے متعلق اقوام متحدہ کی سلامتی کونسل کی حالیہ تشخیص کے ساتھ ساتھ بنگلہ دیش کے بدلتے ہوئے اسٹریٹجک ماحول پر غور کیا جاتا ہے۔"
+    },
+    "b17": {
+      "hi": "आकलन से संकेत मिलता है कि एक्यूआईएस परिचालन प्रकोष्ठों की स्थापना और नेटवर्क विकसित करने के लिए बांग्लादेश का फायदा उठाना चाहता है। यह महत्वपूर्ण है क्योंकि यह अंतरराष्ट्रीय आतंकवाद की बदलती प्रकृति को दर्शाता है।",
+      "en": "The assessment indicates that AQIS is seeking to exploit Bangladesh for establishing operational cells and developing networks. This is significant because it reflects the changing nature of transnational terrorism.",
+      "ur": "تشخیص سے پتہ چلتا ہے کہ اے کیو آئی ایس آپریشنل سیل قائم کرنے اور نیٹ ورک تیار کرنے کے لیے بنگلہ دیش کا استحصال کرنے کی کوشش کر رہا ہے۔ یہ اہم ہے کیونکہ یہ بین الاقوامی دہشت گردی کی بدلتی ہوئی نوعیت کی عکاسی کرتا ہے۔"
+    },
+    "b18": {
+      "hi": "समकालीन आतंकवादी संगठन तेजी से छोटे प्रकोष्ठों, तितर-बितर भर्ती, डिजिटल संचार, वित्तीय नेटवर्क और लचीली साजो-सामान संरचनाओं के माध्यम से काम करते हैं। उनकी प्रभावशीलता केवल क्षेत्र को नियंत्रित करने या बड़े आतंकवादी संगठनों को बनाए रखने पर निर्भर नहीं करती है।",
+      "en": "Contemporary terrorist organisations increasingly operate through small cells, dispersed recruitment, digital communication, financial networks and flexible logistical structures. Their effectiveness does not depend solely on controlling territory or maintaining large militant formations.",
+      "ur": "عصری دہشت گرد تنظیمیں چھوٹے خلیوں، منتشر بھرتی، ڈیجیٹل مواصلات، مالیاتی نیٹ ورکس اور لچکدار لاجسٹک ڈھانچوں کے ذریعے تیزی سے کام کرتی ہیں۔ ان کی تاثیر کا انحصار صرف علاقے کو کنٹرول کرنے یا بڑی عسکریت پسند تنظیموں کو برقرار رکھنے پر نہیں ہوتا ہے۔"
+    },
+    "b19": {
+      "hi": "इससे एक अलग तरह की सुरक्षा समस्या पैदा होती है।",
+      "en": "This creates a different kind of security problem.",
+      "ur": "اس سے ایک مختلف قسم کا حفاظتی مسئلہ پیدا ہوتا ہے۔"
+    },
+    "b20": {
+      "hi": "एक देश वैध विदेश-नीति और रक्षा साझेदारी को आगे बढ़ा सकता है जबकि चरमपंथी संगठन एक साथ अपने सामाजिक, भौगोलिक और तकनीकी संपर्क का फायदा उठाने का प्रयास करते हैं। दोनों प्रक्रियाएं स्वतंत्र रूप से काम करती हैं, लेकिन वे एक ही सुरक्षा वातावरण के भीतर परिणाम उत्पन्न कर सकते हैं।",
+      "en": "A country can pursue legitimate foreign-policy and defence partnerships while extremist organisations simultaneously attempt to exploit its social, geographical and technological connectivity. The two processes operate independently, but they can produce consequences within the same security environment.",
+      "ur": "کوئی بھی ملک جائز خارجہ پالیسی اور دفاعی شراکت داری کو آگے بڑھا سکتا ہے جبکہ انتہا پسند تنظیمیں بیک وقت اس کے سماجی، جغرافیائی اور تکنیکی رابطے سے فائدہ اٹھانے کی کوشش کرتی ہیں۔ یہ دونوں عمل آزادانہ طور پر کام کرتے ہیں، لیکن وہ ایک ہی حفاظتی ماحول میں نتائج پیدا کر سکتے ہیں۔"
+    },
+    "b21": {
+      "hi": "भारत के लिए बांग्लादेश का महत्व पारंपरिक द्विपक्षीय संबंधों से परे है। किसी भी अंतरराष्ट्रीय आतंकवादी संगठन द्वारा वहां परिचालन नेटवर्क बनाने के किसी भी प्रयास का भारत के लिए निहितार्थ बांग्लादेश की निकटता, संपर्क और स्थान के कारण है।",
+      "en": "For India, Bangladesh's importance therefore extends beyond conventional bilateral relations. Any attempt by a transnational terrorist organisation to build operational networks there has implications for India because of Bangladesh's proximity, connectivity and location.",
+      "ur": "ہندوستان کے لیے بنگلہ دیش کی اہمیت روایتی دو طرفہ تعلقات سے آگے بڑھ جاتی ہے۔ کسی بین الاقوامی دہشت گرد تنظیم کی طرف سے وہاں آپریشنل نیٹ ورک بنانے کی کسی بھی کوشش کا ہندوستان کے لیے مضمرات ہیں کیونکہ بنگلہ دیش کی قربت، رابطہ اور مقام ہے۔"
+    },
+    "b22": {
+      "hi": "नतीजतन, चिंता अवसर के बारे में है।",
+      "en": "The concern is consequently about opportunity.",
+      "ur": "اس کے نتیجے میں تشویش موقع کے بارے میں ہے۔"
+    },
+    "b23": {
+      "hi": "आतंकवादी संगठनों को भर्ती करने के लिए जगह कहां मिलती है?",
+      "en": "Where do terrorist organisations find space to recruit?",
+      "ur": "دہشت گرد تنظیموں کو بھرتی کے لیے کہاں جگہ ملتی ہے؟"
+    },
+    "b24": {
+      "hi": "वे पैसे और लोगों को कहाँ ले जा सकते हैं?",
+      "en": "Where can they move money and people?",
+      "ur": "وہ پیسہ اور لوگوں کو کہاں منتقل کر سکتے ہیں؟"
+    },
+    "b25": {
+      "hi": "वे समर्थन नेटवर्क कहाँ विकसित कर सकते हैं?",
+      "en": "Where can they develop support networks?",
+      "ur": "وہ سپورٹ نیٹ ورک کہاں تیار کر سکتے ہیں؟"
+    },
+    "b26": {
+      "hi": "वे डिजिटल प्लेटफॉर्म का फायदा कहां उठा सकते हैं?",
+      "en": "Where can they exploit digital platforms?",
+      "ur": "وہ ڈیجیٹل پلیٹ فارم کا فائدہ کہاں اٹھا سکتے ہیں؟"
+    },
+    "b27": {
+      "hi": "वे राजनीतिक या संस्थागत कमजोरियों का लाभ कहां उठा सकते हैं?",
+      "en": "Where can they take advantage of political or institutional vulnerabilities?",
+      "ur": "وہ سیاسی یا ادارہ جاتی کمزوریوں سے کہاں فائدہ اٹھا سکتے ہیں؟"
+    },
+    "b28": {
+      "hi": "ये सवाल उतने ही महत्वपूर्ण हो रहे हैं जितना कि यह सवाल कि आतंकवादी शिविर कहां स्थित हैं।",
+      "en": "These questions are increasingly as important as the question of where terrorist camps are located.",
+      "ur": "یہ سوالات اتنے ہی اہم ہوتے جا رہے ہیں جتنا کہ دہشت گرد کیمپ کہاں واقع ہیں۔"
+    },
+    "b29": {
+      "hi": "कश्मीर ने दी एक महत्वपूर्ण चेतावनी",
+      "en": "Kashmir offers an important warning",
+      "ur": "کشمیر نے ایک اہم انتباہ پیش کیا"
+    },
+    "b30": {
+      "hi": "दक्षिण कश्मीर से पता चलता है कि आतंकवाद की प्रकृति में यह बदलाव क्यों मायने रखता है।",
+      "en": "South Kashmir demonstrates why this change in the nature of terrorism matters.",
+      "ur": "جنوبی کشمیر یہ ظاہر کرتا ہے کہ دہشت گردی کی نوعیت میں یہ تبدیلی کیوں اہمیت رکھتی ہے۔"
+    },
+    "b31": {
+      "hi": "वर्षों के आतंकवाद-रोधी अभियानों ने आतंकवादी संगठनों के लिए संचालन वातावरण को काफी बदल दिया है। फिर भी आतंकवादी हिंसा जारी है, अक्सर छोटे समूहों, लक्षित हत्याओं, स्थानीय भर्ती, घुसपैठ और समर्थन नेटवर्क के माध्यम से।",
+      "en": "Years of counter-terrorism operations have significantly altered the operating environment for militant organisations. Yet terrorist violence has continued, often through smaller groups, targeted killings, local recruitment, infiltration and support networks.",
+      "ur": "برسوں کی انسداد دہشت گردی کی کارروائیوں نے عسکریت پسند تنظیموں کے لیے کام کرنے کے ماحول کو نمایاں طور پر تبدیل کر دیا ہے۔ پھر بھی دہشت گردی کا تشدد جاری ہے، اکثر چھوٹے گروہوں، ٹارگٹ کلنگ، مقامی بھرتی، دراندازی اور سپورٹ نیٹ ورکس کے ذریعے۔"
+    },
+    "b32": {
+      "hi": "सबक सीधा हैः आतंकवाद छोटा, अधिक फैला हुआ और पता लगाने में अधिक कठिन होकर बेहतर तरीके से जीवित रह सकता है।",
+      "en": "The lesson is straightforward: terrorism can survive better by becoming smaller, more dispersed and more difficult to detect.",
+      "ur": "سبق سیدھا ہے: دہشت گردی چھوٹی، زیادہ منتشر اور پتہ لگانا زیادہ مشکل ہو کر بہتر طریقے سے زندہ رہ سکتی ہے۔"
+    },
+    "b33": {
+      "hi": "इससे आतंकवाद-रोधी चुनौती की प्रकृति बदल जाती है। सशस्त्र कैडरों को समाप्त करना आवश्यक है, लेकिन यह समस्या के केवल एक हिस्से को संबोधित करता है। आतंकवादी संगठन भर्ती, विचारधारा, वित्तपोषण, संचार और रसद के व्यापक पारिस्थितिकी तंत्र पर निर्भर करते हैं।",
+      "en": "This changes the nature of the counter-terrorism challenge. Eliminating armed cadres remains essential, but it addresses only one part of the problem. Terrorist organisations depend upon wider ecosystems of recruitment, ideology, financing, communication and logistics.",
+      "ur": "اس سے انسداد دہشت گردی کے چیلنج کی نوعیت بدل جاتی ہے۔ مسلح کارکنوں کا خاتمہ ضروری ہے، لیکن اس سے مسئلہ کا صرف ایک حصہ حل ہوتا ہے۔ دہشت گرد تنظیمیں بھرتی، نظریہ، مالی اعانت، مواصلات اور رسد کے وسیع تر ماحولیاتی نظام پر انحصار کرتی ہیں۔"
+    },
+    "b34": {
+      "hi": "इसलिए कश्मीर का अनुभव भारत को व्यापक क्षेत्र के लिए एक महत्वपूर्ण चेतावनी प्रदान करता है। आतंकवादी नेटवर्क तब अनुकूलन कर सकते हैं जब संचालन के पारंपरिक तरीके कठिन हो जाते हैं। वे भर्ती, संवाद और हमला करने की अपनी क्षमता को बनाए रखते हुए अपने शारीरिक पदचिह्न को कम कर सकते हैं।",
+      "en": "The Kashmir experience therefore provides India with an important warning for the wider region. Terrorist networks can adapt when conventional methods of operation become difficult. They can reduce their physical footprint while preserving their ability to recruit, communicate and strike.",
+      "ur": "اس لیے کشمیر کا تجربہ ہندوستان کو وسیع تر خطے کے لیے ایک اہم انتباہ فراہم کرتا ہے۔ دہشت گرد نیٹ ورک اس وقت موافقت کر سکتے ہیں جب آپریشن کے روایتی طریقے مشکل ہو جائیں۔ وہ بھرتی، بات چیت اور حملہ کرنے کی اپنی صلاحیت کو برقرار رکھتے ہوئے اپنے جسمانی نقوش کو کم کر سکتے ہیں۔"
+    },
+    "b35": {
+      "hi": "यही कारण है कि बांग्लादेश में नेटवर्क स्थापित करने के लिए एक्यूआईएस द्वारा किए गए कथित प्रयासों पर ध्यान देने की आवश्यकता है।",
+      "en": "This is precisely why the reported attempts by AQIS to establish networks in Bangladesh deserve attention.",
+      "ur": "یہی وجہ ہے کہ اے کیو آئی ایس کی جانب سے بنگلہ دیش میں نیٹ ورک قائم کرنے کی مبینہ کوششیں توجہ کے لائق ہیں۔"
+    },
+    "b36": {
+      "hi": "बांग्लादेश और कश्मीर अलग-अलग क्षेत्र हैं। उनके आतंकवादी संगठनों, राजनीतिक परिस्थितियों और संचालन इतिहास की बराबरी नहीं की जा सकती है। लेकिन दोनों समकालीन आतंकवाद की एक समान विशेषता को प्रदर्शित करते हैंः नेटवर्क की बदलती सुरक्षा स्थितियों के अनुकूल होने की क्षमता।",
+      "en": "Bangladesh and Kashmir are different theatres. Their terrorist organisations, political circumstances and operational histories cannot simply be equated. But both demonstrate a common feature of contemporary terrorism: the ability of networks to adapt to changing security conditions.",
+      "ur": "بنگلہ دیش اور کشمیر مختلف تھیٹر ہیں۔ ان کی دہشت گرد تنظیموں، سیاسی حالات اور عملی تاریخ کو محض مساوی نہیں کیا جا سکتا۔ لیکن دونوں عصری دہشت گردی کی ایک مشترکہ خصوصیت کا مظاہرہ کرتے ہیں: نیٹ ورکس کی بدلتے ہوئے حفاظتی حالات کے مطابق ڈھالنے کی صلاحیت۔"
+    },
+    "b37": {
+      "hi": "सीमाओं से नेटवर्क तक",
+      "en": "From borders to networks",
+      "ur": "سرحدوں سے نیٹ ورکس تک"
+    },
+    "b38": {
+      "hi": "यह हमें बड़े परिवर्तन की ओर ले जाता है।",
+      "en": "This brings us to the larger transformation.",
+      "ur": "یہ ہمیں بڑی تبدیلی کی طرف لے جاتا ہے۔"
+    },
+    "b39": {
+      "hi": "भारत की सुरक्षा संरचना पारंपरिक रूप से क्षेत्र के आसपास व्यवस्थित की गई है। सीमाएँ खतरों की पहचान करती हैं, सैन्य तैनाती क्षेत्र की रक्षा करती है, और द्विपक्षीय संबंध रणनीतिक प्रतिस्पर्धा को परिभाषित करते हैं।",
+      "en": "India's security architecture has traditionally been organised around territory. Borders identify threats, military deployments protect territory, and bilateral relations define strategic competition.",
+      "ur": "ہندوستان کا حفاظتی ڈھانچہ روایتی طور پر علاقے کے ارد گرد منظم کیا گیا ہے۔ سرحدیں خطرات کی نشاندہی کرتی ہیں، فوجی تعیناتی علاقے کی حفاظت کرتی ہے، اور دو طرفہ تعلقات اسٹریٹجک مسابقت کی وضاحت کرتے ہیں۔"
+    },
+    "b40": {
+      "hi": "आतंकवादी नेटवर्क अलग तरह से काम करते हैं।",
+      "en": "Terrorist networks operate differently.",
+      "ur": "دہشت گرد نیٹ ورک مختلف طریقے سے کام کرتے ہیں۔"
+    },
+    "b41": {
+      "hi": "वे स्पष्ट रूप से परिभाषित क्षेत्रों के बजाय कनेक्शनों के माध्यम से आगे बढ़ते हैं-लोगों, धन, विचारधारा, प्रौद्योगिकी, संचार और रसद से जुड़े कनेक्शन।",
+      "en": "They move through connections rather than clearly defined territories — connections involving people, money, ideology, technology, communication and logistics.",
+      "ur": "وہ واضح طور پر متعین علاقوں کے بجائے رابطوں سے گزرتے ہیں-جن میں لوگ، پیسہ، نظریہ، ٹیکنالوجی، مواصلات اور رسد شامل ہیں۔"
+    },
+    "b42": {
+      "hi": "इससे भूगोल अप्रासंगिक नहीं हो जाता है। भूगोल महत्वपूर्ण बना हुआ है। लेकिन भूगोल अब नेटवर्क के साथ बातचीत करता है।",
+      "en": "This does not make geography irrelevant. Geography remains crucial. But geography now interacts with networks.",
+      "ur": "اس سے جغرافیہ غیر متعلقہ نہیں ہوتا۔ جغرافیہ اہم رہتا ہے۔ لیکن جغرافیہ اب نیٹ ورکس کے ساتھ تعامل کرتا ہے۔"
+    },
+    "b43": {
+      "hi": "बांग्लादेश की अवस्थिति इसकी संपर्कता के कारण महत्वपूर्ण है।",
+      "en": "Bangladesh's location matters because of its connectivity.",
+      "ur": "بنگلہ دیش کا مقام اس کے رابطے کی وجہ سے اہمیت رکھتا ہے۔"
+    },
+    "b44": {
+      "hi": "पाकिस्तान का महत्व उसके सामरिक संबंधों और कश्मीर संघर्ष में उसकी भूमिका के कारण मायने रखता है।",
+      "en": "Pakistan's importance matters because of its strategic relationships and its role in the Kashmir conflict.",
+      "ur": "پاکستان کی اہمیت اس کے اسٹریٹجک تعلقات اور تنازعہ کشمیر میں اس کے کردار کی وجہ سے اہمیت رکھتی ہے۔"
+    },
+    "b45": {
+      "hi": "कश्मीर महत्वपूर्ण है क्योंकि यह आतंकवाद का एक स्थापित रंगमंच बना हुआ है।",
+      "en": "Kashmir matters because it remains an established theatre of terrorism.",
+      "ur": "کشمیر اہمیت رکھتا ہے کیونکہ یہ دہشت گردی کا ایک قائم شدہ تھیٹر ہے۔"
+    },
+    "b46": {
+      "hi": "एक्यूआईएस महत्वपूर्ण है क्योंकि इसका संगठनात्मक तर्क अंतरराष्ट्रीय है।",
+      "en": "AQIS matters because its organisational logic is transnational.",
+      "ur": "اے کیو آئی ایس اہمیت رکھتا ہے کیونکہ اس کی تنظیمی منطق بین الاقوامی ہے۔"
+    },
+    "b47": {
+      "hi": "सुरक्षा चुनौती तब सामने आती है जब संपर्क के ये विभिन्न रूप ओवरलैप होने लगते हैं।",
+      "en": "The security challenge emerges when these different forms of connectivity begin to overlap.",
+      "ur": "حفاظتی چیلنج اس وقت سامنے آتا ہے جب رابطے کی یہ مختلف شکلیں اوورلیپ ہونا شروع ہو جاتی ہیں۔"
+    },
+    "b48": {
+      "hi": "पाकिस्तान-बांग्लादेश आयाम",
+      "en": "The Pakistan-Bangladesh dimension",
+      "ur": "پاکستان-بنگلہ دیش طول و عرض"
+    },
+    "b49": {
+      "hi": "इसलिए बदलती क्षेत्रीय तस्वीर को समझने में पाकिस्तान एक महत्वपूर्ण परिवर्तनशील देश है।",
+      "en": "Pakistan is therefore an important variable in understanding the changing regional picture.",
+      "ur": "اس لیے بدلتی ہوئی علاقائی تصویر کو سمجھنے میں پاکستان ایک اہم متغیر ہے۔"
+    },
+    "b50": {
+      "hi": "भारत के लिए इसका रणनीतिक महत्व कश्मीर और सीमा पार आतंकवाद के माध्यम से पहले से ही अच्छी तरह से स्थापित है। बांग्लादेश के साथ इसके उभरते संबंध एक अलग आयाम पेश करते हैं।",
+      "en": "Its strategic significance for India is already well established through Kashmir and cross-border terrorism. Its emerging relationship with Bangladesh introduces a different dimension.",
+      "ur": "ہندوستان کے لیے اس کی اسٹریٹجک اہمیت کشمیر اور سرحد پار دہشت گردی کے ذریعے پہلے ہی اچھی طرح سے قائم ہے۔ بنگلہ دیش کے ساتھ اس کے ابھرتے ہوئے تعلقات ایک مختلف جہت کا تعارف کراتے ہیں۔"
+    },
+    "b51": {
+      "hi": "पाकिस्तान के लिए, बांग्लादेश के साथ घनिष्ठ संबंध दक्षिण एशिया में अपनी राजनयिक और रणनीतिक पहुंच का विस्तार करते हैं। बांग्लादेश के लिए, पाकिस्तान के साथ जुड़ाव अतिरिक्त रणनीतिक विकल्प प्रदान कर सकता है। हालाँकि, भारत के लिए, विकास संभावित रूप से दो सुरक्षा क्षेत्रों को जोड़ता है जिन्हें पारंपरिक रूप से अलग से माना जाता है।",
+      "en": "For Pakistan, closer engagement with Bangladesh expands its diplomatic and strategic reach in South Asia. For Bangladesh, engagement with Pakistan can provide additional strategic options. For India, however, the development potentially connects two security theatres that have traditionally been considered separately.",
+      "ur": "پاکستان کے لیے، بنگلہ دیش کے ساتھ قریبی تعلقات جنوبی ایشیا میں اس کی سفارتی اور اسٹریٹجک رسائی کو بڑھاتے ہیں۔ بنگلہ دیش کے لیے، پاکستان کے ساتھ مشغولیت اضافی اسٹریٹجک آپشن فراہم کر سکتی ہے۔ تاہم، ہندوستان کے لیے، یہ ترقی ممکنہ طور پر دو حفاظتی تھیٹروں کو جوڑتی ہے جن پر روایتی طور پر الگ سے غور کیا جاتا رہا ہے۔"
+    },
+    "b52": {
+      "hi": "यह स्वतः भारत विरोधी गुट के गठन के बराबर नहीं है।",
+      "en": "That does not automatically amount to the formation of an anti-India bloc.",
+      "ur": "یہ خود بخود ہندوستان مخالف بلاک کی تشکیل کے مترادف نہیں ہے۔"
+    },
+    "b53": {
+      "hi": "भारत के आसपास नए संस्थागत और रणनीतिक संबंधों का निर्माण अधिक तात्कालिक चिंता का विषय है।",
+      "en": "The more immediate concern is the creation of new institutional and strategic linkages around India.",
+      "ur": "زیادہ فوری تشویش ہندوستان کے ارد گرد نئے ادارہ جاتی اور اسٹریٹجک روابط کی تخلیق ہے۔"
+    },
+    "b54": {
+      "hi": "यही कारण है कि भारत को इन संबंधों के राजनीतिक प्रतीकवाद के बजाय उनके सार पर ध्यान देना चाहिए। रक्षा सहयोग, खुफिया जानकारी साझा करने, सैन्य प्रशिक्षण और रणनीतिक समन्वय का विकास केवल राजनयिक बयानों की तुलना में कहीं अधिक महत्वपूर्ण होगा।",
+      "en": "This is precisely why India should pay attention to the substance of these relationships rather than their political symbolism. The development of defence cooperation, intelligence sharing, military training and strategic coordination would carry far greater significance than diplomatic statements alone.",
+      "ur": "یہی وجہ ہے کہ ہندوستان کو ان تعلقات کے سیاسی علامتی ہونے کے بجائے ان کے جوہر پر توجہ دینی چاہیے۔ دفاعی تعاون، انٹیلی جنس شیئرنگ، فوجی تربیت اور اسٹریٹجک کوآرڈینیشن کی ترقی صرف سفارتی بیانات سے کہیں زیادہ اہمیت رکھتی ہے۔"
+    },
+    "b55": {
+      "hi": "भारत के लिए बड़ी चेतावनी",
+      "en": "The larger warning for India",
+      "ur": "بھارت کے لیے بڑا انتباہ"
+    },
+    "b56": {
+      "hi": "इन घटनाक्रमों से सबसे महत्वपूर्ण सबक यह है कि भारत एक ऐसे सुरक्षा वातावरण में प्रवेश कर रहा है जहां खतरा एक दिशा से या एक संगठन के माध्यम से नहीं आता है।",
+      "en": "The most important lesson from these developments is that India may be entering a security environment where the threat does not arrive from one direction or through one organisation.",
+      "ur": "ان پیش رفتوں سے سب سے اہم سبق یہ ہے کہ ہندوستان ایک ایسے حفاظتی ماحول میں داخل ہو رہا ہے جہاں خطرہ ایک سمت سے یا ایک تنظیم کے ذریعے نہیں آتا ہے۔"
+    },
+    "b57": {
+      "hi": "यह कई विकासों के बीच बातचीत के माध्यम से उभर सकता हैः यहां एक नया रक्षा संबंध, वहां एक आतंकवादी नेटवर्क, कहीं और एक निरंतर संघर्ष।",
+      "en": "It can emerge through the interaction of several developments: a new defence relationship here, a terrorist network there, a persistent conflict elsewhere.",
+      "ur": "یہ کئی پیش رفتوں کے تعامل کے ذریعے ابھر سکتا ہے: یہاں ایک نیا دفاعی تعلق، وہاں ایک دہشت گرد نیٹ ورک، کہیں اور مستقل تنازعہ۔"
+    },
+    "b58": {
+      "hi": "भारत को प्रभावित करने के लिए इनमें से किसी भी घटनाक्रम को केंद्रीय रूप से समन्वित करने की आवश्यकता नहीं है।",
+      "en": "None of these developments needs to be centrally coordinated to affect India.",
+      "ur": "ان میں سے کسی بھی پیش رفت کو ہندوستان کو متاثر کرنے کے لیے مرکزی طور پر مربوط کرنے کی ضرورت نہیں ہے۔"
+    },
+    "b59": {
+      "hi": "यही बात उभरती स्थिति को और अधिक कठिन और संभावित रूप से अधिक खतरनाक बनाती है।",
+      "en": "That is what makes the emerging situation more difficult, and potentially more dangerous.",
+      "ur": "یہی چیز ابھرتی ہوئی صورتحال کو مزید مشکل اور ممکنہ طور پر زیادہ خطرناک بناتی ہے۔"
+    },
+    "b60": {
+      "hi": "मक्का ढांचा रणनीतिक संरेखण के बदलते स्वरूप का प्रतिनिधित्व करता है। बांग्लादेश की संभावित भागीदारी उस परिवर्तन को गहरा कर सकती है। एक्यूआईएस मूल्यांकन अंतरराष्ट्रीय आतंकवाद की निरंतर भौगोलिक अनुकूलन क्षमता की ओर इशारा करता है। दक्षिण कश्मीर निरंतर सुरक्षा दबाव में आतंकवादी नेटवर्क के लचीलेपन को दर्शाता है।",
+      "en": "The Makkah framework represents a changing pattern of strategic alignment. Bangladesh's possible participation could deepen that change. The AQIS assessment points to the continuing geographical adaptability of transnational terrorism. South Kashmir demonstrates the resilience of terrorist networks under sustained security pressure.",
+      "ur": "مکہ کا ڈھانچہ اسٹریٹجک صف بندی کے بدلتے ہوئے انداز کی نمائندگی کرتا ہے۔ بنگلہ دیش کی ممکنہ شرکت اس تبدیلی کو گہرا کر سکتی ہے۔ اے کیو آئی ایس کا جائزہ بین الاقوامی دہشت گردی کی مسلسل جغرافیائی موافقت کی طرف اشارہ کرتا ہے۔ جنوبی کشمیر مستقل حفاظتی دباؤ میں دہشت گرد نیٹ ورکس کی لچک کو ظاہر کرتا ہے۔"
+    },
+    "b61": {
+      "hi": "साथ में, वे सुझाव देते हैं कि भारत का सुरक्षा मानचित्र नेटवर्क का मानचित्र बन रहा है जितना कि सीमाओं का मानचित्र।",
+      "en": "Together, they suggest that India's security map is becoming a map of networks as much as a map of borders.",
+      "ur": "وہ مل کر تجویز کرتے ہیں کہ ہندوستان کا حفاظتی نقشہ نیٹ ورکس کا نقشہ اتنا ہی بن رہا ہے جتنا کہ سرحدوں کا نقشہ۔"
+    },
+    "b62": {
+      "hi": "इसलिए नीतिगत निहितार्थ केवल एक सीमा को मजबूत करने या एक आतंकवादी संगठन की निगरानी करने से बड़ा है। भारत को सुरक्षा कमजोरियों में बदलने से पहले उभरते संबंधों की पहचान करने की आवश्यकता है।",
+      "en": "The policy implication is therefore larger than simply strengthening one border or monitoring one terrorist organisation. India needs to identify emerging connections before they become security vulnerabilities.",
+      "ur": "اس لیے اس پالیسی کے مضمرات محض ایک سرحد کو مضبوط کرنے یا ایک دہشت گرد تنظیم کی نگرانی کرنے سے بڑے ہیں۔ ہندوستان کو ابھرتے ہوئے رابطوں کی نشاندہی کرنے کی ضرورت ہے اس سے پہلے کہ وہ سلامتی کے خطرات بن جائیں۔"
+    },
+    "b63": {
+      "hi": "नई दिल्ली के लिए केंद्रीय प्रश्न होना चाहिएः",
+      "en": "The central question for New Delhi should be:",
+      "ur": "نئی دہلی کے لیے مرکزی سوال یہ ہونا چاہیے:"
+    },
+    "b64": {
+      "hi": "भारत के चारों ओर नए रणनीतिक और आतंकवादी नेटवर्क कहां बन रहे हैं, वे मौजूदा सुरक्षा केंद्रों से कैसे जुड़ सकते हैं, और उन कनेक्शनों के परिचालन महत्व प्राप्त करने से पहले क्या किया जा सकता है?",
+      "en": "Where are the new strategic and terrorist networks forming around India, how might they connect with existing security theatres, and what can be done before those connections acquire operational significance?",
+      "ur": "ہندوستان کے ارد گرد نئے اسٹریٹجک اور دہشت گرد نیٹ ورک کہاں بن رہے ہیں، وہ موجودہ سیکیورٹی تھیٹروں سے کیسے جڑ سکتے ہیں، اور ان رابطوں کی آپریشنل اہمیت حاصل کرنے سے پہلے کیا کیا جا سکتا ہے؟"
+    },
+    "b65": {
+      "hi": "इस उभरती हुई चुनौती से निपटने में भारत के पास काफी फायदे हैंः भूगोल, खुफिया क्षमताएं, राजनयिक पहुंच और पूरे क्षेत्र में स्थापित संबंध। महत्वपूर्ण आवश्यकता इन लाभों का जल्द से जल्द उपयोग करना है।",
+      "en": "India has considerable advantages in dealing with this emerging challenge: geography, intelligence capabilities, diplomatic reach and established relationships across the region. The critical requirement is to use these advantages early.",
+      "ur": "اس ابھرتے ہوئے چیلنج سے نمٹنے میں ہندوستان کے کافی فوائد ہیں: جغرافیہ، انٹیلی جنس کی صلاحیتیں، سفارتی رسائی اور پورے خطے میں قائم تعلقات۔ اہم ضرورت ان فوائد کو جلد استعمال کرنا ہے۔"
+    },
+    "b66": {
+      "hi": "निष्कर्ष",
+      "en": "Conclusion",
+      "ur": "نتیجہ"
+    },
+    "b67": {
+      "hi": "चेतावनी के संकेत दिखाई दे रहे हैं। भारत के लिए अधिक जोखिम यह होगा कि वे प्रतिक्रिया देने से पहले एक पैटर्न बनने का इंतजार करें।",
+      "en": "The warning signs are visible. The greater risk for India would be to wait for them to become a pattern before responding.",
+      "ur": "انتباہی نشانیاں نظر آ رہی ہیں۔ ہندوستان کے لیے زیادہ خطرہ یہ ہوگا کہ جواب دینے سے پہلے ان کے نمونہ بننے کا انتظار کیا جائے۔"
+    },
+    "b68": {
+      "hi": "भारत के लिए, प्राथमिकता इन उभरते संबंधों को जल्द से जल्द पहचानने की होनी चाहिए। बांग्लादेश के रणनीतिक विकल्पों पर ढाका के साथ निरंतर राजनयिक और सुरक्षा जुड़ाव के साथ-साथ पूरा ध्यान देने की आवश्यकता है। साथ ही, कश्मीर में आतंकवाद का मुकाबला करने के लिए हमलों को अंजाम देने वाले आतंकवादियों के साथ-साथ आतंकवाद को बनाए रखने वाले व्यापक नेटवर्क पर भी ध्यान केंद्रित करना चाहिए।",
+      "en": "For India, the priority must therefore be to recognise these emerging connections early. Bangladesh's strategic choices require close attention, alongside sustained diplomatic and security engagement with Dhaka. At the same time, counter-terrorism in Kashmir must increasingly focus on the wider networks that sustain terrorism, alongside the militants who carry out attacks.",
+      "ur": "ہندوستان کے لیے، اس لیے ترجیح یہ ہونی چاہیے کہ ان ابھرتے ہوئے رابطوں کو جلد تسلیم کیا جائے۔ بنگلہ دیش کے اسٹریٹجک انتخاب پر ڈھاکہ کے ساتھ مستقل سفارتی اور سلامتی سے متعلق مشغولیت کے ساتھ ساتھ گہری توجہ کی ضرورت ہے۔ اسی کے ساتھ، کشمیر میں انسداد دہشت گردی کو دہشت گردی کو برقرار رکھنے والے وسیع نیٹ ورکس پر توجہ مرکوز کرنی چاہیے، ساتھ ہی ساتھ حملے کرنے والے عسکریت پسندوں پر بھی۔"
+    },
+    "b69": {
+      "hi": "बड़ा सबक स्पष्ट हैः भारत का सुरक्षा मानचित्र अब केवल सीमाओं पर ही नहीं बनाया जा सकता है, इसे उन नेटवर्कों के माध्यम से भी समझा जाना चाहिए जो उन्हें पार करते हैं। रणनीतिक साझेदारी, आतंकवादी संगठन, वित्तीय चैनल, डिजिटल स्पेस और मानव नेटवर्क तेजी से आपस में जुड़े हुए हैं।",
+      "en": "The larger lesson is clear: India's security map can no longer be drawn along borders alone; it must also be understood through the networks that cross them. Strategic partnerships, terrorist organisations, financial channels, digital spaces and human networks are becoming increasingly interconnected.",
+      "ur": "بڑا سبق واضح ہے: ہندوستان کا سلامتی کا نقشہ اب صرف سرحدوں کے ساتھ نہیں بنایا جا سکتا ؛ اسے ان نیٹ ورکس کے ذریعے بھی سمجھنا چاہیے جو ان کو عبور کرتے ہیں۔ اسٹریٹجک شراکت داری، دہشت گرد تنظیمیں، مالیاتی چینلز، ڈیجیٹل خالی جگہیں اور انسانی نیٹ ورک تیزی سے آپس میں جڑے ہوئے ہیں۔"
+    },
+    "b70": {
+      "hi": "भारत का रणनीतिक लाभ इन संबंधों की पहचान करने में निहित होगा, इससे पहले कि वे परिचालन संबंधी कमजोरियों में कठोर हो जाएं।",
+      "en": "India's strategic advantage will lie in identifying these connections before they harden into operational vulnerabilities.",
+      "ur": "ہندوستان کا اسٹریٹجک فائدہ ان رابطوں کی شناخت کرنے میں مضمر ہوگا اس سے پہلے کہ وہ آپریشنل کمزوریوں میں سخت ہو جائیں۔"
+    },
+    "b71": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b72": {
+      "hi": "* लेखक, डॉ. श्रेओशी सिन्हा, स्कूल ऑफ इंटरनेशनल रिलेशंस एंड पीस स्टडीज, नालंदा विश्वविद्यालय में पोस्टडॉक्टरल फेलो हैं। व्यक्त किए गए विचार व्यक्तिगत हैं।",
+      "en": "*The author, Dr Sreoshi Sinha, is a Postdoctoral Fellow at the School of International Relations and Peace Studies, Nalanda University. Views expressed are personal.*",
+      "ur": "* مصنف، ڈاکٹر سریوشی سنہا، اسکول آف انٹرنیشنل ریلیشنز اینڈ پیس اسٹڈیز، نالندہ یونیورسٹی میں پوسٹ ڈاکٹریٹ فیلو ہیں۔ اظہار خیالات ذاتی ہیں۔"
+    }
+  }
+}

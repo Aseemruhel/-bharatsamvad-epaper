@@ -1,0 +1,390 @@
+{
+  "hash": "35fa6b9a75fc049a",
+  "t": {
+    "fm.section": {
+      "hi": "विश्लेषण",
+      "en": "Analysis",
+      "ur": "تجزیہ"
+    },
+    "fm.kicker": {
+      "hi": "\"सीमा सुरक्षा · जीवंत गाँव · रक्षा साक्षरता · आत्मनिर्भर भारत\"",
+      "en": "\"Border Security · Vibrant Villages · Defence Literacy · Aatmanirbhar Bharat\"",
+      "ur": "\"سرحدی سلامتی · متحرک گاؤں · دفاعی خواندگی · آتم نربھر بھارت\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"जीवित सीमाएँः रक्षा साक्षरता और राष्ट्रीय सुरक्षा को मजबूत करने की दिशा में भारत का अगला कदम\"",
+      "en": "\"The Living Borders: Defence literacy and India's next step toward strengthening national security\"",
+      "ur": "\"زندہ سرحدیں: دفاعی خواندگی اور قومی سلامتی کو مضبوط بنانے کی طرف ہندوستان کا اگلا قدم\""
+    },
+    "fm.subdeck": {
+      "hi": "सीमाएं कांटेदार तार की बाड़ और सैन्य गश्त से कहीं अधिक हैं-वे ऐसे लोगों के समुदाय हैं जो राष्ट्रीय सुरक्षा के जीवित पारिस्थितिकी तंत्र के रूप में काम करते हैं। रक्षा साक्षरता का अर्थ है स्थितिजन्य जागरूकता, संकट प्रबंधन और रणनीतिक सतर्कता में सीमावर्ती समुदायों की व्यवस्थित शिक्षा-न कि नागरिकों का सैन्यीकरण। जैसे-जैसे भारत जीवंत ग्राम कार्यक्रम के माध्यम से सीमा बस्तियों को'अंतिम गांवों'से'पहले गांवों'में पुनर्वर्गीकृत कर रहा है, और जैसे-जैसे चीन अरुणाचल प्रदेश में वास्तविक नियंत्रण रेखा के साथ सैकड़ों दोहरे उपयोग वाले शियाकोंग सीमा गांवों का निर्माण कर रहा है, नागरिक-लंगर सीमा सुरक्षा का सिद्धांत समकालीन भारतीय रक्षा नीति के सबसे परिणामी आयामों में से एक बन रहा है। रक्षा की जीवित दीवारें-असुरक्षा की रेखाओं नहीं।",
+      "en": "\"Borders are more than barbed wire fences and military patrols — they are communities of people who serve as the living ecosystems of national security. Defence literacy means the systematic education of border communities in situational awareness, crisis management, and strategic vigilance — not the militarisation of civilians. As India progressively reclassifies border settlements from 'last villages' to 'first villages' through the Vibrant Villages Programme, and as China constructs hundreds of dual-use Xiakong border villages along the LAC in Arunachal Pradesh, the doctrine of civilian-anchored border security is becoming one of the most consequential dimensions of contemporary Indian defence policy. Living walls of defence — not lines of vulnerability.\"",
+      "ur": "\"سرحدیں خاردار تاروں کی باڑ اور فوجی گشت سے زیادہ ہیں-یہ ان لوگوں کی کمیونٹیز ہیں جو قومی سلامتی کے زندہ ماحولیاتی نظام کے طور پر کام کرتی ہیں۔ دفاعی خواندگی کا مطلب ہے سرحدی برادریوں کی منظم تعلیم جو حالات سے متعلق آگاہی، بحران کے انتظام اور اسٹریٹجک چوکسی میں ہے-شہریوں کی عسکری کاری نہیں۔ جیسے جیسے ہندوستان متحرک گاؤں پروگرام کے ذریعے سرحدی بستیوں کو'آخری دیہات'سے'پہلے گاؤں'میں درجہ بندی کرتا ہے، اور جیسے جیسے چین اروناچل پردیش میں ایل اے سی کے ساتھ سینکڑوں دوہرے استعمال والے شیکونگ سرحدی دیہات تعمیر کرتا ہے، شہری لنگر سرحدی سلامتی کا نظریہ عصری ہندوستانی دفاعی پالیسی کے سب سے زیادہ نتیجہ خیز جہتوں میں سے ایک بنتا جا رہا ہے۔ دفاع کی زندہ دیواریں-کمزوری کی لکیروں میں نہیں۔\""
+    },
+    "b0": {
+      "hi": "जीवित सीमाएँ",
+      "en": "The Living Borders",
+      "ur": "زندہ سرحدیں"
+    },
+    "b1": {
+      "hi": "सीमाएं केवल कांटेदार तार की बाड़ और सैन्य गश्त से कहीं अधिक हैं; वे ऐसे लोगों के समुदाय हैं जो राष्ट्रीय सुरक्षा के जीवित पारिस्थितिकी तंत्र के रूप में काम करते हैं। इन नागरिकों को रक्षा के बारे में शिक्षित करना बिल्कुल महत्वपूर्ण है। स्पष्ट रूप से, रक्षा साक्षरता का मतलब आबादी का सैन्यीकरण या उन्हें युद्ध कौशल सिखाना नहीं है। इसके बजाय, यह स्थितिजन्य जागरूकता, संकट प्रबंधन और रणनीतिक सतर्कता में सीमावर्ती समुदायों की व्यवस्थित शिक्षा है।",
+      "en": "Borders are more than just barbed wire fences and military patrols; they are communities of people who serve as the living ecosystems of national security. Educating these civilians about defence is absolutely crucial. To be clear, defence literacy does not mean militarizing a population or teaching them combat skills. Instead, it is the systematic education of border communities in situational awareness, crisis management, and strategic vigilance.",
+      "ur": "سرحدیں صرف خاردار باڑ اور فوجی گشت سے زیادہ ہیں۔ یہ ان لوگوں کی کمیونٹیز ہیں جو قومی سلامتی کے زندہ ماحولیاتی نظام کے طور پر کام کرتی ہیں۔ ان شہریوں کو دفاع کے بارے میں تعلیم دینا بالکل اہم ہے۔ واضح طور پر، دفاعی خواندگی کا مطلب کسی آبادی کو عسکری بنانا یا انہیں جنگی مہارت سکھانا نہیں ہے۔ اس کے بجائے، یہ سرحدی برادریوں کی صورتحال سے متعلق آگاہی، بحران کے انتظام اور اسٹریٹجک چوکسی کی منظم تعلیم ہے۔"
+    },
+    "b2": {
+      "hi": "दशकों से संघर्ष के निरंतर खतरे और बुनियादी बुनियादी ढांचे की कमी के कारण भारत की सीमाओं से गंभीर पलायन हुआ, जिससे परित्यक्त स्थानीय गांव पीछे छूट गए। स्वाभाविक रूप से, मनुष्य सुरक्षा और बेहतर अवसरों की ओर पलायन करते हैं, लेकिन एक राष्ट्र खाली सीमाओं की रणनीतिक भेद्यता को बर्दाश्त नहीं कर सकता है। यही कारण है कि भारतीय राज्य के लिए रक्षा साक्षरता के माध्यम से अपने सीमावर्ती नागरिकों को सशक्त बनाना महत्वपूर्ण है।",
+      "en": "For decades, the constant threat of conflict and a lack of basic infrastructure led to severe outmigration from India's frontiers, leaving behind abandoned local villages. Naturally, human beings migrate toward safety and better opportunities, but a nation cannot afford the strategic vulnerability of empty borders. This is why it is critical for the Indian State to empower its border citizens through defence literacy.",
+      "ur": "دہائیوں سے تنازعات کے مسلسل خطرے اور بنیادی ڈھانچے کی کمی کی وجہ سے ہندوستان کی سرحدوں سے شدید نقل مکانی ہوئی، جس سے وہ ترک شدہ مقامی دیہاتوں کو پیچھے چھوڑ گئے۔ قدرتی طور پر، انسان حفاظت اور بہتر مواقع کی طرف ہجرت کرتے ہیں، لیکن ایک قوم خالی سرحدوں کی اسٹریٹجک کمزوری کو برداشت نہیں کر سکتی۔ یہی وجہ ہے کہ ہندوستانی ریاست کے لیے دفاعی خواندگی کے ذریعے اپنے سرحدی شہریوں کو بااختیار بنانا بہت ضروری ہے۔"
+    },
+    "b3": {
+      "hi": "सीमावर्ती लोग अपने क्षेत्र की स्थिरता में सक्रिय हितधारक होते हैं। जब नागरिक अपनी सुरक्षा के तंत्र को समझते हैं, तो दहशत और भय की जगह प्रोटोकॉल और तैयारी होती है। राष्ट्रीय सुरक्षा के दृष्टिकोण से, एक जानकार और सशक्त नागरिक राज्य के लिए एक जीवित संपत्ति है। भारत सरकार द्वारा जीवंत ग्राम कार्यक्रम जैसी पहलों के माध्यम से सीमावर्ती बस्तियों को \"अंतिम गाँव\" के बजाय \"पहले गाँव\" के रूप में पुनर्वर्गीकृत करने का प्रतिमान इस सिद्धांत को पूरी तरह से दर्शाता है।",
+      "en": "Borderline people are active stakeholders in their region's stability. When civilians understand the mechanisms of their own security, panic and fear are replaced by protocol and preparedness. From a national security perspective, a knowledgeable and empowered citizen is a living asset to the state. The Indian Government's paradigm shift reclassifying border settlements as \"first villages\" rather than \"last villages\" through initiatives like the Vibrant Villages Programme perfectly captures this doctrine.",
+      "ur": "سرحدی لوگ اپنے خطے کے استحکام میں فعال حصہ دار ہوتے ہیں۔ جب شہری اپنی سلامتی کے طریقہ کار کو سمجھتے ہیں تو خوف و ہراس اور خوف کی جگہ پروٹوکول اور تیاریاں لے لیتی ہیں۔ قومی سلامتی کے نقطہ نظر سے، ایک باخبر اور بااختیار شہری ریاست کے لیے ایک زندہ اثاثہ ہے۔ ہندوستانی حکومت کی جانب سے سرحدی بستیوں کو \"آخری دیہات\" کے بجائے \"پہلے گاؤں\" کے طور پر دوبارہ درجہ بندی کرنے کی مثال میں تبدیلی، وائبرینٹ ولیجز پروگرام جیسے اقدامات کے ذریعے اس نظریے کو مکمل طور پر ظاہر کرتی ہے۔"
+    },
+    "b4.title": {
+      "hi": "जीवित सीमा सिद्धांत एक नज़र में",
+      "en": "The Living Borders Doctrine at a Glance",
+      "ur": "زندہ سرحدیں نظریہ ایک نظر میں"
+    },
+    "b4.itemlbl.0": {
+      "hi": "रक्षा साक्षरता",
+      "en": "Defence literacy",
+      "ur": "دفاعی خواندگی"
+    },
+    "b4.itemval.0": {
+      "hi": "स्थितिजन्य जागरूकता, संकट प्रबंधन, रणनीतिक सतर्कता में सीमावर्ती समुदायों की व्यवस्थित शिक्षा",
+      "en": "Systematic education of border communities in situational awareness, crisis management, strategic vigilance",
+      "ur": "حالات سے متعلق آگاہی، بحران کے انتظام، اسٹریٹجک چوکسی میں سرحدی برادریوں کی منظم تعلیم"
+    },
+    "b4.itemlbl.1": {
+      "hi": "सैन्यीकरण नहीं",
+      "en": "Not militarisation",
+      "ur": "عسکریت پسندی نہیں"
+    },
+    "b4.itemval.1": {
+      "hi": "सीमावर्ती नागरिकों को युद्ध कौशल नहीं सिखाया जा रहा है",
+      "en": "Border civilians are not being taught combat skills",
+      "ur": "سرحدی شہریوں کو جنگی مہارتیں نہیں سکھائی جا رہی ہیں"
+    },
+    "b4.itemlbl.2": {
+      "hi": "सिद्धांत",
+      "en": "Doctrine",
+      "ur": "نظریہ"
+    },
+    "b4.itemval.2": {
+      "hi": "क्षेत्रीय स्थिरता में सक्रिय हितधारकों के रूप में सीमावर्ती नागरिक",
+      "en": "Border civilians as active stakeholders in regional stability",
+      "ur": "علاقائی استحکام میں فعال اسٹیک ہولڈرز کے طور پر سرحدی شہری"
+    },
+    "b4.itemlbl.3": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b4.itemval.3": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.4": {
+      "hi": "भारतीय सरकार का पैरडिगम शिफ्ट",
+      "en": "INDIAN GOVERNMENT PARADIGM SHIFT",
+      "ur": "ہندوستانی حکومت پیراڈائم شفٹ"
+    },
+    "b4.itemval.4": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.5": {
+      "hi": "पुरानी फ़्रेमिंग",
+      "en": "Old framing",
+      "ur": "پرانی فریمنگ"
+    },
+    "b4.itemval.5": {
+      "hi": "\"अंतिम गाँव\" (परिधीय, सीमांत)",
+      "en": "\"Last villages\" (peripheral, marginal)",
+      "ur": "\"آخری گاؤں\" (پردیی، حاشیہ)"
+    },
+    "b4.itemlbl.6": {
+      "hi": "नई रचना",
+      "en": "New framing",
+      "ur": "نئی فریمنگ"
+    },
+    "b4.itemval.6": {
+      "hi": "\"प्रथम गाँव\" (अग्रिम पंक्ति, रणनीतिक)",
+      "en": "\"First villages\" (frontline, strategic)",
+      "ur": "\"پہلے گاؤں\" (فرنٹ لائن، اسٹریٹجک)"
+    },
+    "b4.itemlbl.7": {
+      "hi": "एंकर पहल",
+      "en": "Anchor initiative",
+      "ur": "اینکر پہل"
+    },
+    "b4.itemval.7": {
+      "hi": "जीवंत गाँव कार्यक्रम",
+      "en": "Vibrant Villages Programme",
+      "ur": "متحرک گاؤں کا پروگرام"
+    },
+    "b4.itemlbl.8": {
+      "hi": "उदाहरण सीमा शहर",
+      "en": "Example frontier town",
+      "ur": "مثال سرحدی قصبہ"
+    },
+    "b4.itemval.8": {
+      "hi": "किबिथू (अरुणाचल प्रदेश)",
+      "en": "Kibithoo (Arunachal Pradesh)",
+      "ur": "کیبیتھو (اروناچل پردیش)"
+    },
+    "b4.itemlbl.9": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b4.itemval.9": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.10": {
+      "hi": "वाइब्रेंट गाँव क्या प्रदान करता है",
+      "en": "WHAT VIBRANT VILLAGES PROVIDES",
+      "ur": "وائبرانٹ کیا فراہم کرتا ہے"
+    },
+    "b4.itemval.10": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.11": {
+      "hi": "बुनियादी ढांचा",
+      "en": "Infrastructure",
+      "ur": "انفراسٹرکچر"
+    },
+    "b4.itemval.11": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.12": {
+      "hi": "जागरूकता",
+      "en": "Awareness",
+      "ur": "آگاہی"
+    },
+    "b4.itemval.12": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.13": {
+      "hi": "आर्थिक शक्ति",
+      "en": "Economic power",
+      "ur": "اقتصادی طاقت"
+    },
+    "b4.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.14": {
+      "hi": "प्रवास को उलटने के लिए स्थिरता प्रोत्साहन",
+      "en": "Stability incentive to reverse outmigration",
+      "ur": "نقل مکانی کو ریورس کرنے کے لیے استحکام کی ترغیب"
+    },
+    "b4.itemval.14": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.15": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b4.itemval.15": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.16": {
+      "hi": "रणनीतिक पाठ",
+      "en": "STRATEGIC CONTEXT",
+      "ur": "اسٹریٹجک متن"
+    },
+    "b4.itemval.16": {
+      "hi": "चीन का शियाकोंग कार्यक्रम",
+      "en": "CHINA'S XIAKONG PROGRAMME",
+      "ur": "چین کا ژیاکانگ پروگرام"
+    },
+    "b4.itemlbl.17": {
+      "hi": "शियाकोंग",
+      "en": "Xiakong",
+      "ur": "شیکونگ"
+    },
+    "b4.itemval.17": {
+      "hi": "चीन द्वारा निर्मित दोहरे उपयोग वाले सीमा रक्षा गांव",
+      "en": "Dual-use border defence villages constructed by China",
+      "ur": "چین کی طرف سے تعمیر کردہ دوہری استعمال والے سرحدی دفاعی گاؤں"
+    },
+    "b4.itemlbl.18": {
+      "hi": "उद्देश्य",
+      "en": "Purpose",
+      "ur": "مقصد"
+    },
+    "b4.itemval.18": {
+      "hi": "स्थायी सैन्य चौकियों के रूप में हथियारबंद नागरिक आबादी",
+      "en": "Weaponised civilian population as permanent military outposts",
+      "ur": "مستقل فوجی چوکیوں کے طور پر مسلح شہری آبادی"
+    },
+    "b4.itemlbl.19": {
+      "hi": "उद्देश्य",
+      "en": "Objective",
+      "ur": "مقصد"
+    },
+    "b4.itemval.19": {
+      "hi": "क्षेत्र का अधिग्रहण करने के लिए जनसांख्यिकीय इंजीनियरिंग",
+      "en": "Demographic engineering to acquire territory",
+      "ur": "علاقہ حاصل کرنے کے لیے ڈیموگرافک انجینئرنگ"
+    },
+    "b4.itemlbl.20": {
+      "hi": "स्थान",
+      "en": "Location",
+      "ur": "مقام"
+    },
+    "b4.itemval.20": {
+      "hi": "वास्तविक नियंत्रण रेखा (एल. ए. सी.) के साथ",
+      "en": "Along the Line of Actual Control (LAC)",
+      "ur": "لائن آف ایکچوئل کنٹرول (ایل اے سی) کے ساتھ"
+    },
+    "b4.itemlbl.21": {
+      "hi": "भारतीय रंगमंच प्रभावित",
+      "en": "Indian Theatre affected",
+      "ur": "ہندوستانی تھیٹر متاثر"
+    },
+    "b4.itemval.21": {
+      "hi": "अरुणाचल प्रदेश",
+      "en": "Arunachal Pradesh",
+      "ur": "اروناچل پردیش"
+    },
+    "b4.itemlbl.22": {
+      "hi": "व्यापक रणनीति",
+      "en": "Wider tactic",
+      "ur": "وسیع تر حکمت عملی"
+    },
+    "b4.itemval.22": {
+      "hi": "क्षेत्रीय अतिक्रमण का \"सलामी-कटिंग\"",
+      "en": "\"Salami-slicing\" of territorial encroachment",
+      "ur": "علاقائی تجاوزات کا \"سلامی کاٹنے\""
+    },
+    "b4.itemlbl.23": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b4.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.24": {
+      "hi": "द लिविंग बोर्डर्स फ्रेमवर्क",
+      "en": "THE LIVING BORDERS FRAMEWORK",
+      "ur": "زندہ سرحدیں فریم ورک"
+    },
+    "b4.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b4.itemlbl.25": {
+      "hi": "आधुनिक भू-राजनीति में संप्रभुता",
+      "en": "Sovereignty in modern geopolitics",
+      "ur": "جدید جغرافیائی سیاست میں خودمختاری"
+    },
+    "b4.itemval.25": {
+      "hi": "निरंतर लचीला नागरिक उपस्थिति की आवश्यकता है",
+      "en": "Requires sustained resilient civilian presence",
+      "ur": "مستقل لچکدار شہری موجودگی کی ضرورت ہے"
+    },
+    "b4.itemlbl.26": {
+      "hi": "सीमावर्ती समुदाय इस प्रकार कार्य करते हैं",
+      "en": "Border communities function as",
+      "ur": "سرحدی کمیونٹیز اس طرح کام کرتی ہیں"
+    },
+    "b4.itemval.26": {
+      "hi": "क्षेत्रीय अतिक्रमण के खिलाफ मानव ढाल",
+      "en": "Human shield against territorial encroachment",
+      "ur": "علاقائی تجاوزات کے خلاف انسانی ڈھال"
+    },
+    "b4.itemlbl.27": {
+      "hi": "मूल रीफ्रेम",
+      "en": "The core reframe",
+      "ur": "بنیادی ری فریم"
+    },
+    "b4.itemval.27": {
+      "hi": "सीमाएँ रक्षा की जीवित दीवार हैं, न कि असुरक्षा की रेखाएँ",
+      "en": "Borders as living walls of defence, not lines of vulnerability",
+      "ur": "سرحدیں دفاع کی زندہ دیواروں کے طور پر، نہ کہ کمزوری کی لکیروں کے طور پر"
+    },
+    "b4.itemlbl.28": {
+      "hi": "खाली सीमा परिणाम",
+      "en": "Empty border consequence",
+      "ur": "خالی سرحد کا نتیجہ"
+    },
+    "b4.itemval.28": {
+      "hi": "आक्रमण के लिए निमंत्रण",
+      "en": "Invitation for invasion",
+      "ur": "حملے کی دعوت"
+    },
+    "b4.itemlbl.29": {
+      "hi": "आबादी सीमा परिणाम",
+      "en": "Populated border consequence",
+      "ur": "آبادی والے سرحدی نتائج"
+    },
+    "b4.itemval.29": {
+      "hi": "क्षेत्रीय दावा",
+      "en": "Territorial assertion",
+      "ur": "علاقائی دعوی"
+    },
+    "b5.q": {
+      "hi": "\"एक साक्षर, सशक्त नागरिक जो अपनी जमीन पर रहता है, उतना ही दुर्जेय होता है जितना कि एक सैनिक खड़ा गार्ड।\"",
+      "en": "\"A literate, empowered civilian holding their ground is just as formidable as a soldier standing guard.\"",
+      "ur": "\"ایک خواندہ، بااختیار شہری جو اپنی زمین پر قابض ہے اتنا ہی مضبوط ہے جتنا کہ ایک کھڑے محافظ سپاہی۔\""
+    },
+    "b5.c": {
+      "hi": "- \"जीवित सीमाओं\" से",
+      "en": "— From \"The Living Borders\"",
+      "ur": "- \"زندہ سرحدوں\" سے"
+    },
+    "b6": {
+      "hi": "चीनी जनसांख्यिकीय इंजीनियरिंग संदर्भ",
+      "en": "The Chinese demographic engineering context",
+      "ur": "چینی ڈیموگرافک انجینئرنگ سیاق و سباق"
+    },
+    "b7": {
+      "hi": "आधुनिक भू-राजनीति में, संप्रभुता का दावा करने के लिए केवल सैनिकों की आवश्यकता नहीं है; यह एक निरंतर, लचीला नागरिक उपस्थिति की मांग करता है। एक संपन्न, जागरूक सीमा समुदाय क्षेत्रीय अतिक्रमण या \"सलामी-टुकड़े\" रणनीति के खिलाफ एक महत्वपूर्ण मानव ढाल के रूप में कार्य करता है। अंततः, सीमाएं भेद्यता की रेखाएं नहीं हैं; वे हमारी रक्षा की जीवित दीवारें हैं। उदाहरण के लिए, अरुणाचल प्रदेश की स्थिति जिसे हम अब वास्तविक नियंत्रण रेखा के पार देखते हैं, चीन जनसांख्यिकीय इंजीनियरिंग का एक खतरनाक खेल खेल रहा है। उन्होंने सैकड़ों \"शियाकोंग\" या दोहरे उपयोग वाले सीमा रक्षा गांवों का निर्माण किया है जो हमारे क्षेत्र को हासिल करने के लिए अपनी नागरिक आबादी को स्थायी सैन्य चौकियों के रूप में हथियार बना रहे हैं।",
+      "en": "In modern geopolitics, asserting sovereignty requires more than just troops; it demands a sustained, resilient civilian presence. A thriving, aware border community acts as a vital human shield against territorial encroachment or \"salami-slicing\" tactics. Ultimately, borders are not lines of vulnerability; they are our living walls of defence. For instance, the situation of Arunachal Pradesh we see now across Line of Actual Control, China is playing a dangerous game of demographic engineering. They have constructed hundreds of \"Xiakong\", or dual use border defence villages weaponizing their civilian population as permanent military outposts to acquire our territory.",
+      "ur": "جدید جغرافیائی سیاست میں، خودمختاری کا دعوی کرنے کے لیے صرف فوجیوں سے زیادہ کی ضرورت ہوتی ہے۔ یہ ایک مستقل، لچکدار شہری موجودگی کا مطالبہ کرتا ہے۔ ایک ترقی پذیر، باخبر سرحدی برادری علاقائی تجاوزات یا \"سلامی کاٹنے\" کے ہتھکنڈوں کے خلاف ایک اہم انسانی ڈھال کے طور پر کام کرتی ہے۔ بالآخر، سرحدیں کمزوری کی لکیر نہیں ہیں۔ وہ ہماری زندہ دیواریں ہیں۔ مثال کے طور پر، اب ہم لائن آف ایکچوئل کنٹرول کے پار اروناچل پردیش کی صورتحال دیکھ رہے ہیں، چین ڈیموگرافک انجینئرنگ کا ایک خطرناک کھیل کھیل رہا ہے۔ انہوں نے سینکڑوں \"ژیاکانگ\"، یا دوہری استعمال والے سرحدی دفاعی دیہات تعمیر کیے ہیں جو ہماری سرزمین کو حاصل کرنے کے لیے اپنی شہری آبادی کو مستقل فوجی چوکیوں کے طور پر ہتھیار بنا رہے ہیں۔"
+    },
+    "b8": {
+      "hi": "वाइब्रेंट विलेज कार्यक्रम क्यों महत्वपूर्ण है",
+      "en": "Why the Vibrant Villages Programme matters",
+      "ur": "وائبرینٹ ولیجز پروگرام کیوں اہمیت رکھتا ہے"
+    },
+    "b9": {
+      "hi": "वर्षों से हमारी सीमाएँ धीरे-धीरे खाली हो रही थीं क्योंकि स्थानीय लोग बेहतर अवसरों की तलाश में अंदर की ओर पलायन कर रहे थे। लेकिन एक खाली सीमा आक्रमण के लिए एक निमंत्रण है। यही कारण है कि हमारे सीमावर्ती नागरिकों को सशक्त बनाना हमारी सबसे मजबूत जवाबी कार्रवाई है। किबिथू जैसे सीमावर्ती शहरों में वाइब्रेंट विलेज प्रोग्राम शुरू करके, भारत अपनी रक्षा स्थिति को मौलिक रूप से बदल रहा है। हम अपने सीमावर्ती समुदायों को स्थिर रहने के लिए बुनियादी ढांचा, जागरूकता और आर्थिक शक्ति दे रहे हैं। क्योंकि युद्ध के आधुनिक युग में, \"एक साक्षर, सशक्त नागरिक जो अपनी जमीन पर खड़ा है, वह एक सैनिक के रूप में उतना ही दुर्जेय है जितना कि एक खड़े गार्ड।\"",
+      "en": "For years, our borders were slowly emptying as locals migrated inward looking for better opportunities. But an empty border is an invitation for invasion. That is exactly why empowering our frontier citizens is our strongest counter-action. By launching the Vibrant Villages Programme in frontier towns like Kibithoo, India is fundamentally changing its defence position. We are giving our border communities the infrastructure, the awareness, and the economic power to stay stable. Because in the modern era of warfare, \"a literate, empowered civilian holding their ground is just as formidable as a soldier standing guard.\"",
+      "ur": "برسوں سے ہماری سرحدیں آہستہ آہستہ خالی ہو رہی تھیں کیونکہ مقامی لوگ بہتر مواقع کی تلاش میں اندر کی طرف ہجرت کر رہے تھے۔ لیکن ایک خالی سرحد حملے کی دعوت ہے۔ یہی وجہ ہے کہ ہمارے سرحدی شہریوں کو بااختیار بنانا ہمارا سب سے مضبوط جوابی عمل ہے۔ کیبیتھو جیسے سرحدی قصبوں میں وائبرینٹ ولیجز پروگرام شروع کرنے سے، ہندوستان بنیادی طور پر اپنی دفاعی پوزیشن تبدیل کر رہا ہے۔ ہم اپنی سرحدی برادریوں کو مستحکم رہنے کے لیے بنیادی ڈھانچہ، بیداری اور معاشی طاقت دے رہے ہیں۔ کیونکہ جنگ کے جدید دور میں، \"ایک خواندہ، بااختیار شہری جو اپنی زمین پر قابض ہے، اتنا ہی مضبوط ہے جتنا کہ ایک سپاہی کھڑا محافظ\"۔"
+    }
+  }
+}
