@@ -1,5 +1,5 @@
 {
-  "hash": "35fa6b9a75fc049a",
+  "hash": "6f9679937d4fb1b1",
   "t": {
     "fm.section": {
       "hi": "विश्लेषण",
@@ -12,14 +12,14 @@
       "ur": "\"سرحدی سلامتی · متحرک گاؤں · دفاعی خواندگی · آتم نربھر بھارت\""
     },
     "fm.byline": {
-      "hi": "विशेष संवाददाता",
-      "en": "Special Correspondent",
-      "ur": "خصوصی نامہ نگار"
+      "hi": "प्रतीक्षा स्वैन",
+      "en": "Pratikshya Swain",
+      "ur": "پرتیکشیا سوائن"
     },
     "fm.location": {
-      "hi": "नई दिल्ली",
-      "en": "New Delhi",
-      "ur": "نئی دہلی"
+      "hi": "गांधीनगर",
+      "en": "Gandhinagar",
+      "ur": "گاندھی نگر"
     },
     "fm.headline": {
       "hi": "\"जीवित सीमाएँः रक्षा साक्षरता और राष्ट्रीय सुरक्षा को मजबूत करने की दिशा में भारत का अगला कदम\"",
@@ -362,9 +362,9 @@
       "ur": "\"ایک خواندہ، بااختیار شہری جو اپنی زمین پر قابض ہے اتنا ہی مضبوط ہے جتنا کہ ایک کھڑے محافظ سپاہی۔\""
     },
     "b5.c": {
-      "hi": "- \"जीवित सीमाओं\" से",
-      "en": "— From \"The Living Borders\"",
-      "ur": "- \"زندہ سرحدوں\" سے"
+      "hi": "- प्रतीक्षा स्वैन",
+      "en": "— Pratikshya Swain",
+      "ur": "- پرتیکشیا سوائن"
     },
     "b6": {
       "hi": "चीनी जनसांख्यिकीय इंजीनियरिंग संदर्भ",
@@ -385,6 +385,16 @@
       "hi": "वर्षों से हमारी सीमाएँ धीरे-धीरे खाली हो रही थीं क्योंकि स्थानीय लोग बेहतर अवसरों की तलाश में अंदर की ओर पलायन कर रहे थे। लेकिन एक खाली सीमा आक्रमण के लिए एक निमंत्रण है। यही कारण है कि हमारे सीमावर्ती नागरिकों को सशक्त बनाना हमारी सबसे मजबूत जवाबी कार्रवाई है। किबिथू जैसे सीमावर्ती शहरों में वाइब्रेंट विलेज प्रोग्राम शुरू करके, भारत अपनी रक्षा स्थिति को मौलिक रूप से बदल रहा है। हम अपने सीमावर्ती समुदायों को स्थिर रहने के लिए बुनियादी ढांचा, जागरूकता और आर्थिक शक्ति दे रहे हैं। क्योंकि युद्ध के आधुनिक युग में, \"एक साक्षर, सशक्त नागरिक जो अपनी जमीन पर खड़ा है, वह एक सैनिक के रूप में उतना ही दुर्जेय है जितना कि एक खड़े गार्ड।\"",
       "en": "For years, our borders were slowly emptying as locals migrated inward looking for better opportunities. But an empty border is an invitation for invasion. That is exactly why empowering our frontier citizens is our strongest counter-action. By launching the Vibrant Villages Programme in frontier towns like Kibithoo, India is fundamentally changing its defence position. We are giving our border communities the infrastructure, the awareness, and the economic power to stay stable. Because in the modern era of warfare, \"a literate, empowered civilian holding their ground is just as formidable as a soldier standing guard.\"",
       "ur": "برسوں سے ہماری سرحدیں آہستہ آہستہ خالی ہو رہی تھیں کیونکہ مقامی لوگ بہتر مواقع کی تلاش میں اندر کی طرف ہجرت کر رہے تھے۔ لیکن ایک خالی سرحد حملے کی دعوت ہے۔ یہی وجہ ہے کہ ہمارے سرحدی شہریوں کو بااختیار بنانا ہمارا سب سے مضبوط جوابی عمل ہے۔ کیبیتھو جیسے سرحدی قصبوں میں وائبرینٹ ولیجز پروگرام شروع کرنے سے، ہندوستان بنیادی طور پر اپنی دفاعی پوزیشن تبدیل کر رہا ہے۔ ہم اپنی سرحدی برادریوں کو مستحکم رہنے کے لیے بنیادی ڈھانچہ، بیداری اور معاشی طاقت دے رہے ہیں۔ کیونکہ جنگ کے جدید دور میں، \"ایک خواندہ، بااختیار شہری جو اپنی زمین پر قابض ہے، اتنا ہی مضبوط ہے جتنا کہ ایک سپاہی کھڑا محافظ\"۔"
+    },
+    "b10": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b11": {
+      "hi": "* लेखक, प्रतीक्षा स्वैन, स्कूल ऑफ इंटरनेशनल कोऑपरेशन, सिक्योरिटी एंड स्ट्रैटेजिक लैंग्वेजेज, राष्ट्रीय रक्षा विश्वविद्यालय, गांधीनगर में एक अंतर्राष्ट्रीय संबंध विद्वान हैं। व्यक्त किए गए विचार व्यक्तिगत हैं।",
+      "en": "*The author, Pratikshya Swain, is an International Relations Scholar at the School of International Cooperation, Security and Strategic Languages, Rashtriya Raksha University, Gandhinagar. Views expressed are personal.*",
+      "ur": "* مصنف، پرتیکشیا سوائن، اسکول آف انٹرنیشنل کوآپریشن، سیکیورٹی اینڈ اسٹریٹجک لینگویجز، راشٹریہ رکشا یونیورسٹی، گاندھی نگر میں بین الاقوامی تعلقات کی اسکالر ہیں۔ اظہار خیالات ذاتی ہیں۔"
     }
   }
 }
