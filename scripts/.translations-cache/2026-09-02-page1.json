@@ -1,0 +1,755 @@
+{
+  "hash": "acd6b7d7992f1da7",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"सेमीकंडक्टर · डिफेंस इलेक्ट्रॉनिक्स · आत्मनिर्भर भारत · सेमीकॉन 2\"",
+      "en": "\"Semiconductor · Defence Electronics · Aatmanirbhar Bharat · Semicon 2.0\"",
+      "ur": "\"سیمی کنڈکٹر · ڈیفنس الیکٹرانکس · آتم نربھر بھارت · سیمیکون 2\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "बेंगलुरु/नई दिल्ली",
+      "en": "Bengaluru / New Delhi",
+      "ur": "بنگلور/نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "बेंगलुरु ने रक्षा इलेक्ट्रॉनिक्स के लिए भारत का पहला 40 गीगाहर्ट्ज़ आर. एफ. चिप पैकेज बनाया",
+      "en": "\"Bengaluru builds India's first 40 GHz RF chip package for defence electronics\"",
+      "ur": "بنگلورو نے دفاعی الیکٹرانکس کے لیے ہندوستان کا پہلا 40 گیگا ہرٹز آر ایف چپ پیکیج بنایا ہے"
+    },
+    "fm.subdeck": {
+      "hi": "आईजेडएमओ लिमिटेड की सेमीकंडक्टर सहायक कंपनी इज़्मो माइक्रोसिस्टम्स ने सोमवार, 1 सितंबर 2026 को घोषणा की कि उसने 40 गीगाहर्ट्ज़ तक चलने वाले भारत के पहले स्वदेशी आरएफ क्वाड फ्लैट नो-लीड (क्यूएफएन) सेमीकंडक्टर पैकेज का डिजाइन, विकास और निर्माण किया है-पूरी तरह से व्हाइटफील्ड, बेंगलुरु में अपने क्लास 1000 क्लीनरूम में। पैकेज को एक भारतीय ग्राहक के लिए बनाया गया था जो रक्षा और सुरक्षित वायरलेस संचार अनुप्रयोगों के लिए उच्च आवृत्ति वाले आरएफ मॉड्यूल विकसित कर रहा था; उत्पादन शिपमेंट सफल सत्यापन के बाद शुरू हो गया है। स्वामित्व वास्तुकला लगभग 0.3 मिमी की तार बंधन लंबाई को प्राप्त करती है जो डाई के आसपास एक सटीक वायु गुहा के साथ संयुक्त होती है-इंजीनियरिंग समाधान जो मिलीमीटर-तरंग आवृत्तियों पर विश्वसनीय संचालन को खोलता है। अनुप्रयोग रडार, इलेक्ट्रॉनिक युद्ध, सुरक्षित संचार, एयरोस्पेस, उपग्रह संचार और उन्नत वायरलेस प्रणालियों में स्थित हैं। भारत के अर्धचालक की रणनीतिक रूप से 76,000 करोड़ रुपये की विकासात्मक क्षमता पर विकास करता है।",
+      "en": "\"IZMO Limited's semiconductor subsidiary izmo Microsystems announced on Monday, 1 September 2026, that it has designed, developed and manufactured India's first indigenous RF Quad Flat No-Lead (QFN) semiconductor package operating up to 40 GHz — entirely at its Class 1000 cleanroom in Whitefield, Bengaluru. The package was built for an Indian customer developing high-frequency RF modules for defence and secure wireless communication applications; production shipments have commenced following successful validation. The proprietary architecture achieves wire bond lengths of approximately 0.3 mm combined with a precision air cavity surrounding the die — the engineering solution that unlocks reliable operation at millimetre-wave frequencies. Applications span radar, electronic warfare, secure communications, aerospace, satellite communications and advanced wireless systems. The development positions India's semiconductor-packaging capability at the strategic frontier of defence electronics — precisely the segment the ₹76,000 crore India Semiconductor Mission and Semicon 2.0 framework have progressively targeted.\"",
+      "ur": "\"آئی زیڈ ایم او لمیٹڈ کی ذیلی کمپنی ایزمو مائیکرو سسٹمز نے پیر یکم ستمبر 2026 کو اعلان کیا کہ اس نے ہندوستان کا پہلا مقامی آر ایف کواڈ فلیٹ نو-لیڈ (کیو ایف این) سیمی کنڈکٹر پیکیج ڈیزائن، تیار اور تیار کیا ہے جو 40 گیگا ہرٹز تک کام کر رہا ہے-مکمل طور پر وائٹ فیلڈ، بنگلورو میں اپنے کلاس 1000 کلین روم میں۔ یہ پیکیج ایک ہندوستانی گاہک کے لیے بنایا گیا تھا جو دفاع اور محفوظ وائرلیس مواصلاتی ایپلی کیشنز کے لیے ہائی فریکوئنسی آر ایف ماڈیولز تیار کر رہا ہے۔ پیداوار کی ترسیل کامیاب توثیق کے بعد شروع ہو گئی ہے۔ ملکیتی فن تعمیر ڈائی کے ارد گرد ایک صحت سے متعلق ہوا کی کھوکھڑی کے ساتھ مل کر تقریبا 0. 3 ملی میٹر کے تار بانڈ کی لمبائی حاصل کرتا ہے-انجینئرنگ حل جو ملی میٹر لہر کی تعدد پر قابل اعتماد آپریشن کو کھولتا ہے۔ ایپلی کیشنز میں ریڈار، الیکٹرانک وارفیئر، محفوظ مواصلات، ایرو اسپیس، سیٹلائٹ مواصلات اور جدید وائرلیس سسٹم کی پوزیشنوں کو نشانہ بنایا گیا ہے۔ ہندوستان کے سیمی کنڈکٹر کی 76, 000 کروڑ روپے کی دفاعی فریم ورک پر"
+    },
+    "b0": {
+      "hi": "भारत के अर्धचालक-निर्माण प्रक्षेपवक्र में सबसे अधिक परिचालन के परिणामस्वरूप एकल मील के पत्थर में से एक सोमवार, 1 सितंबर 2026 को व्हाइटफील्ड, बेंगलुरु में एक क्लास 1000 क्लीन रूम में हुआ। आईजेडएमओ लिमिटेड (एनएसईः आईजेडएमओ/बीएसईः 532341) ने अपनी अर्धचालक पैकेजिंग सहायक कंपनी इज़्मो माइक्रोसिस्टम्स प्राइवेट लिमिटेड के माध्यम से घोषणा की कि उसने भारत के पहले स्वदेशी उच्च आवृत्ति वाले आरएफ क्वाड फ्लैट नो-लीड (क्यूएफएन) अर्धचालक पैकेज को डिजाइन, विकसित और निर्मित किया है जो 40 गीगाहर्ट्ज़ तक आवृत्ति पर काम करने में सक्षम है। उत्पादन शिपमेंट शुरू हो गया है। यह पैकेज एक भारतीय ग्राहक के लिए बनाया गया था जो रक्षा और सुरक्षित वायरलेस संचार अनुप्रयोगों के लिए उच्च आवृत्ति वाले आरएफ मॉड्यूल विकसित कर रहा था। व्यापक महत्व है कि भारत के पास अब इलेक्ट्रॉनिक उपकरणों की आधुनिक क्षमता है जो घरेलू रक्षा उपकरणों की श्रेणी में सबसे अधिक मांग करने वाले अर्धचालक, रक्षा उपकरणों की श्रेणी में सबसे अधिक मांग करने वाले रडार, रक्षा उपकरणों की श्रेणी में सबसे अधिक मांग करने वाले विमान-उपकरण, और उपग्रहों की श्रेणी में सबसे अधिक मांग करने वाले विमान-उपकरण हैं।",
+      "en": "One of the most operationally consequential single milestones in India's semiconductor-manufacturing trajectory took place on Monday, 1 September 2026, at a Class 1000 cleanroom in Whitefield, Bengaluru. IZMO Limited (NSE: IZMO / BSE: 532341), through its semiconductor packaging subsidiary izmo Microsystems Pvt. Ltd. — known professionally as izmomicro — announced that it has designed, developed and manufactured India's first indigenous high-frequency RF Quad Flat No-Lead (QFN) semiconductor package capable of operating at frequencies up to 40 GHz. Production shipments have commenced. The package was built for an Indian customer developing high-frequency RF modules for defence and secure wireless communication applications. The wider technical significance is that India now possesses domestic capability in one of the most demanding semiconductor-packaging niches in the world — millimetre-wave RF packaging, the class of engineering that underpins radar, electronic warfare, secure military communications, aerospace, and satellite systems across every consequential modern defence architecture.",
+      "ur": "ہندوستان کے سیمی کنڈکٹر مینوفیکچرنگ ٹریجیکٹوری میں سب سے زیادہ عملی طور پر نتیجہ خیز واحد سنگ میل پیر، 1 ستمبر 2026 کو وائٹ فیلڈ، بنگلورو میں کلاس 1000 کلین روم میں ہوا۔ آئی زیڈ ایم او لمیٹڈ (این ایس ای: آئی زیڈ ایم او/بی ایس ای: 532341) نے اپنے سیمی کنڈکٹر پیکیجنگ ماتحت ادارے ایزمو مائیکرو سسٹمز پرائیویٹ لمیٹڈ کے ذریعے-جو پیشہ ورانہ طور پر ایزمو مائیکرو کے نام سے جانا جاتا ہے-اعلان کیا کہ اس نے ہندوستان کا پہلا مقامی ہائی فریکوئنسی آر ایف کواڈ فلیٹ نو لیڈ (کیو ایف این) سیمی کنڈکٹر پیکیج ڈیزائن، تیار اور تیار کیا ہے جو 40 گیگا ہرٹز تک فریکوئنسی پر کام کرنے کے قابل ہے۔ پروڈکشن شپمنٹ شروع ہو چکی ہے۔ یہ پیکیج ایک ہندوستانی گاہک کے لیے بنایا گیا تھا جو دفاع اور محفوظ وائرلیس مواصلاتی ایپلی کیشنز کے لیے ہائی فریکوئنسی آر ایف ماڈیولز تیار کر رہا ہے۔ اب ہندوستان میں وسیع تر اہمیت ہے کہ اس کے پاس الیکٹرانک پیکنگ کی صلاحیت ہے، جس میں ہر ایک جدید ترین سیمی کنڈکٹر کلاس، جس کے نتیجے میں سب سے"
+    },
+    "b1": {
+      "hi": "इंजीनियरिंग की उपलब्धि वह है जिसके लिए वास्तव में क्या किया गया है, इसके बारे में स्पष्ट होने की आवश्यकता होती है। लगभग 10 गीगाहर्ट्ज़ से ऊपर की माइक्रोवेव और मिलीमीटर-तरंग आवृत्तियों पर, पारंपरिक अर्धचालक पैकेजों को उत्तरोत्तर गंभीर प्रदर्शन क्षरण का सामना करना पड़ता है। परजीवी प्रभाव-पैकेज की भौतिक ज्यामिति से उत्पन्न होने वाले अवांछित विद्युत प्रभाव, जिसमें तार बंधन, पैकेज लीड, और अर्धचालक के बीच की बातचीत और इसकी संलग्न संरचना शामिल हैं-पर्याप्त प्रदर्शन-सीमित कारक बन जाते हैं। तार बंधन की लंबाई का प्रत्येक अतिरिक्त मिलीमीटर परजीवी प्रेरण जोड़ता है। ट्रेस ज्यामिति का प्रत्येक अतिरिक्त मिलीमीटर परजीवी क्षमता जोड़ता है। लगभग 30 गीगाहर्ट्ज़ से ऊपर, ये परजीवी प्रभाव संकेत अखंडता को उस बिंदु तक काफी हद तक कम कर सकते हैं जहाँ पैकेज प्रभावी रूप से उपकरण की परिचालन सीमाओं को निर्धारित करता है, न कि अर्धचालक स्वयं मर जाता है। 40 गीगाहर्ट्ज़ पर विश्वसनीय संचालन प्राप्त करने के लिए एक आर. एफ. प्रणाली के अभिन्न अंग के रूप में इंजीनियर की आवश्यकता होती है, क्योंकि आर. एफ.",
+      "en": "The engineering achievement is one that requires being clear-eyed about what has actually been accomplished. At microwave and millimetre-wave frequencies above about 10 GHz, conventional semiconductor packages face progressively severe performance degradation. Parasitic effects — the unwanted electrical influences arising from the physical geometry of the package itself, including wire bonds, package leads, and the interaction between the semiconductor die and its enclosing structure — become substantial performance-limiting factors. Every additional millimetre of wire bond length adds parasitic inductance. Every additional millimetre of trace geometry adds parasitic capacitance. Above about 30 GHz, these parasitic effects can substantially degrade signal integrity to the point where the package effectively determines the operational limits of the device it encloses, not the semiconductor die itself. To achieve reliable operation at 40 GHz requires the package to be engineered as an integral part of the RF system, not as a passive enclosure around it. This is what izmo Microsystems has done.",
+      "ur": "انجینئرنگ کی کامیابی وہ ہے جس کے لیے اس بارے میں واضح نظر رکھنے کی ضرورت ہوتی ہے کہ اصل میں کیا کیا کیا گیا ہے۔ تقریبا 10 گیگا ہرٹز سے اوپر مائکروویو اور ملی میٹر لہر تعدد پر، روایتی سیمی کنڈکٹر پیکجوں کو کارکردگی میں بتدریج شدید انحطاط کا سامنا کرنا پڑتا ہے۔ پیراسٹک اثرات-پیکیج کی جسمانی جیومیٹری سے پیدا ہونے والے ناپسندیدہ برقی اثرات، بشمول تار بانڈ، پیکیج لیڈز، اور سیمی کنڈکٹر ڈائی اور اس کے منسلک ڈھانچے کے درمیان تعامل-کارکردگی کو محدود کرنے والے کافی عوامل بن جاتے ہیں۔ تار بانڈ کی لمبائی کا ہر اضافی ملی میٹر پرجیوی انڈکشن کا اضافہ کرتا ہے۔ ٹریس جیومیٹری کا ہر اضافی ملی میٹر پرجیوی صلاحیت کا اضافہ کرتا ہے۔ تقریبا 30 گیگا ہرٹز سے اوپر، یہ پرجیوی اثرات سگنل کی سالمیت کو اس مقام تک کافی حد تک کم کر سکتے ہیں جہاں پیکیج مؤثر طریقے سے اس سے منسلک ڈیوائس کی آپریشنل حدود کا تعین کرتا ہے، سیمی کنڈکٹر خود نہیں مرتا ہے۔ 40 گیگا ہرٹز پر قابل اعتماد آپریشن حاصل کرنے کے لیے مائیکرو سسٹم کا لازمی حصہ آر ایف اینکلو"
+    },
+    "b2": {
+      "hi": "इंजीनियरिंग-0.3 मिमी तार बंधन और वायु गुहा वास्तुकला",
+      "en": "The engineering — 0.3 mm wire bonds and air cavity architecture",
+      "ur": "انجینئرنگ-0. 3 ملی میٹر تار بانڈ اور ہوا کی گہا کا فن تعمیر"
+    },
+    "b3": {
+      "hi": "स्वामित्व पैकेज वास्तुकला इज्मो माइक्रोसिस्टम ने दो विशिष्ट इंजीनियरिंग लक्ष्यों को प्राप्त किया है जो एक साथ 40 गीगाहर्ट्ज़ संचालन को सक्षम करते हैं। पहला लगभग 0.3 मिलीमीटर की तार बंधन लंबाई है-पारंपरिक क्यू. एफ. एन. पैकेजिंग की तुलना में परिमाण का एक कड़ा क्रम। तार बंधन सूक्ष्म सोने या एल्यूमीनियम तार है जो अर्धचालक को विद्युत रूप से पैकेज लीडफ्रेम से जोड़ता है। मिलीमीटर-तरंग आवृत्तियों पर, तार की लंबाई का प्रत्येक अतिरिक्त माइक्रोन परजीवी प्रेरण जोड़ता है जो आर. एफ. संकेत को उत्तरोत्तर विकृत करता है। तार बंधन की लंबाई को 0.3 मिलीमीटर तक कम करने के लिए ट्रेस ज्यामिति (पैकेज के भीतर विद्युत पथों की मार्ग निर्धारण) और डाई स्थिति (जहां अर्धचालक चिप पैकेज गुहा के भीतर बैठती है) के एक साथ अनुकूलन की आवश्यकता होती है। इज्मोमाइक्रो ने दोनों को एक युग्मित प्रणाली के रूप में एक साथ इंजीनियर किया है।",
+      "en": "The proprietary package architecture izmo Microsystems has developed achieves two specific engineering targets that together enable 40 GHz operation. The first is wire bond length of approximately 0.3 millimetres — an order of magnitude tighter than conventional QFN packaging. The wire bond is the microscopic gold or aluminium wire that electrically connects the semiconductor die to the package leadframe. At millimetre-wave frequencies, every additional micron of wire length adds parasitic inductance that progressively distorts the RF signal. Reducing wire bond length to 0.3 mm requires simultaneous optimisation of trace geometry (the routing of electrical paths within the package) and die positioning (where the semiconductor chip sits within the package cavity). izmomicro has engineered both together as a coupled system.",
+      "ur": "ملکیتی پیکیج فن تعمیر ازمو مائیکرو سسٹمز نے دو مخصوص انجینئرنگ اہداف حاصل کیے ہیں جو مل کر 40 گیگا ہرٹز آپریشن کو قابل بناتے ہیں۔ پہلا تقریبا 0. 3 ملی میٹر کا تار بانڈ لمبائی ہے-جو روایتی کیو ایف این پیکیجنگ سے شدت کا ایک سخت آرڈر ہے۔ تار بانڈ خوردبین سونا یا ایلومینیم تار ہے جو برقی طور پر سیمی کنڈکٹر ڈائی کو پیکیج لیڈ فریم سے جوڑتا ہے۔ ملی میٹر لہر تعدد پر، تار کی لمبائی کا ہر اضافی مائکرون پرجیوی انڈکشن کا اضافہ کرتا ہے جو بتدریج آر ایف سگنل کو مسخ کرتا ہے۔ تار بانڈ کی لمبائی کو 0. 3 ملی میٹر تک کم کرنے کے لیے ٹریس جیومیٹری (پیکیج کے اندر برقی راستوں کی روٹنگ) اور ڈائی پوزیشننگ (جہاں سیمی کنڈکٹر چپ پیکیج کیوٹی کے اندر بیٹھتا ہے) کی بیک وقت اصلاح کی ضرورت ہوتی ہے۔ ازمو مائیکرو نے دونوں کو ایک جوڑے ہوئے نظام کے طور پر تیار کیا ہے۔"
+    },
+    "b4": {
+      "hi": "दूसरा इंजीनियरिंग लक्ष्य डाई के आसपास की सटीक वायु गुहा है। पारंपरिक ढाले गए क्यू. एफ. एन. पैकेज अर्धचालक डाई को प्लास्टिक या राल यौगिक में समाहित करते हैं, जो यांत्रिक सुरक्षा प्रदान करता है लेकिन पर्याप्त परावैद्युत लोडिंग जोड़ता है-यौगिक के सामग्री गुण आर. एफ. संकेत के विद्युत चुम्बकीय क्षेत्र के साथ बातचीत करते हैं और मिलीमीटर-तरंग आवृत्तियों पर प्रदर्शन को और कम करते हैं। एक वायु गुहा वास्तुकला-जहां डाई एक सटीक रूप से इंजीनियर खाली स्थान के भीतर बैठती है-इस पराबैद्युत लोडिंग को समाप्त कर देती है, जिससे आर. एफ. संकेत को एक समझौता किए गए समग्र सामग्री के बजाय अनिवार्य रूप से आदर्श पराबैद्युत माध्यम (हवा) के माध्यम से प्रसारित करने की अनुमति मिलती है। वायु गुहा वास्तुकला के साथ 0.3 मिमी तार बंधन का संयोजन परजीवी प्रभाव को उस बिंदु तक कम करता है जहां विश्वसनीय 40 गीगाहर्ट्ज़ ऑपरेशन प्राप्त किया जा सकता है।",
+      "en": "The second engineering target is the precision air cavity surrounding the die. Conventional moulded QFN packages encapsulate the semiconductor die in a plastic or resin compound, which provides mechanical protection but adds substantial dielectric loading — the compound's material properties interact with the electromagnetic field of the RF signal and further degrade performance at millimetre-wave frequencies. An air cavity architecture — where the die sits within a precisely engineered empty space — eliminates this dielectric loading, allowing the RF signal to propagate through what is essentially the ideal dielectric medium (air) rather than through a compromised composite material. Combining the 0.3 mm wire bond with the air cavity architecture minimises parasitic effects to the point where reliable 40 GHz operation becomes achievable.",
+      "ur": "انجینئرنگ کا دوسرا ہدف ڈائی کے ارد گرد کی صحت سے متعلق ہوا کی کھوکھڑی ہے۔ روایتی مولڈڈ کیو ایف این پیکیجز سیمی کنڈکٹر ڈائی کو پلاسٹک یا رال کمپاؤنڈ میں سمیپسولیٹ کرتے ہیں، جو مکینیکل تحفظ فراہم کرتا ہے لیکن کافی ڈائی الیکٹرک لوڈنگ کا اضافہ کرتا ہے-کمپاؤنڈ کی مادی خصوصیات آر ایف سگنل کے برقی مقناطیسی میدان کے ساتھ تعامل کرتی ہیں اور ملی میٹر لہر تعدد پر کارکردگی کو مزید خراب کرتی ہیں۔ ایک ہوا کی کھوکھڑی کا فن تعمیر-جہاں ڈائی بالکل انجینئرڈ خالی جگہ کے اندر بیٹھتا ہے-اس ڈائی الیکٹرک لوڈنگ کو ختم کرتا ہے، جس سے آر ایف سگنل کو سمجھوتہ شدہ جامع مواد کے بجائے بنیادی طور پر مثالی ڈائی الیکٹرک میڈیم (ہوا) کے ذریعے پھیلنے کی اجازت ملتی ہے۔ ہوا کی کھوکھڑی کے فن تعمیر کے ساتھ 0. 3 ملی میٹر تار بانڈ کو جوڑنا پرجیوی اثرات کو اس مقام تک کم کرتا ہے جہاں قابل اعتماد 40 گیگا ہرٹز آپریشن قابل حصول ہو جاتا ہے۔"
+    },
+    "b5": {
+      "hi": "समग्र परिणामः एक भारतीय निर्मित अर्धचालक पैकेज जो मिलीमीटर-तरंग आर. एफ. प्रणालियों की मांग विद्युत प्रदर्शन आवश्यकताओं को पूरा करता है, जो आयातित पैकेजिंग समाधानों पर बाहरी निर्भरता के बिना डाउनस्ट्रीम रक्षा और सुरक्षित-संचार ग्राहकों का समर्थन करता है।",
+      "en": "The overall result: an Indian-manufactured semiconductor package that meets the demanding electrical performance requirements of millimetre-wave RF systems, produced at a scale that supports downstream defence and secure-communications customers without external dependency on imported packaging solutions.",
+      "ur": "مجموعی نتیجہ: ایک ہندوستانی ساختہ سیمی کنڈکٹر پیکیج جو ملی میٹر ویو آر ایف سسٹمز کی برقی کارکردگی کی ضروریات کو پورا کرتا ہے، اس پیمانے پر تیار کیا جاتا ہے جو درآمد شدہ پیکیجنگ حل پر بیرونی انحصار کے بغیر نیچے کی طرف دفاع اور محفوظ مواصلات کے صارفین کی مدد کرتا ہے۔"
+    },
+    "b6": {
+      "hi": "अनुप्रयोग-जहाँ 40 गीगाहर्ट्ज़ महत्वपूर्ण है",
+      "en": "Applications — where 40 GHz matters",
+      "ur": "ایپلیکیشن-جہاں 40 گیگا ہرٹز اہمیت رکھتا ہے"
+    },
+    "b7": {
+      "hi": "40 गीगाहर्ट्ज़-सक्षम आर. एफ. अर्धचालक पैकेजिंग के वाणिज्यिक और रणनीतिक अनुप्रयोग समकालीन उच्च आवृत्ति प्रणालियों की पूरी श्रृंखला में फैले हुए हैं।",
+      "en": "The commercial and strategic applications of 40 GHz-capable RF semiconductor packaging span the full range of contemporary high-frequency systems.",
+      "ur": "40 گیگا ہرٹز کے قابل آر ایف سیمی کنڈکٹر پیکیجنگ کی تجارتی اور اسٹریٹجک ایپلی کیشنز عصری ہائی فریکوئنسی سسٹمز کی مکمل رینج پر محیط ہیں۔"
+    },
+    "b8": {
+      "hi": "रडार. आधुनिक रडार प्रणालियाँ-विशेष रूप से अग्रिम पंक्ति की हवा, भूमि और नौसेना के प्लेटफार्मों पर तैनात सक्रिय इलेक्ट्रॉनिक रूप से स्कैन किए गए सरणी (एईएसए) रडार-संकल्प, लक्ष्य भेदभाव और जामिंग प्रतिरोध को प्राप्त करने के लिए मिलीमीटर-तरंग आवृत्तियों पर उत्तरोत्तर काम करते हैं जो समकालीन युद्ध वातावरण की आवश्यकता होती है। प्रत्येक एईएसए संचारित-प्राप्त मॉड्यूल को अपनी विशिष्ट विद्युत आवश्यकताओं को पूरा करने के लिए उच्च आवृत्ति आरएफ पैकेजिंग की आवश्यकता होती है। भारत के अग्रिम पंक्ति के प्लेटफार्म-एलसीए तेजास, एसयू-30एमकेआई, स्वदेशी एईडब्ल्यू एंड सी, एलसीए एमके1ए के लिए डीआरडीओ का उत्तम एईएसए रडार, सुदर्शन चक्र वायु रक्षा वास्तुकला-सभी को उत्तरोत्तर घरेलू आरएफ पैकेजिंग क्षमता की आवश्यकता होती है।",
+      "en": "Radar. Modern radar systems — particularly Active Electronically Scanned Array (AESA) radars deployed on frontline air, land, and naval platforms — operate progressively at millimetre-wave frequencies to achieve the resolution, target discrimination, and jamming resistance that contemporary combat environments require. Every AESA transmit-receive module requires high-frequency RF packaging engineered to meet its specific electrical requirements. India's frontline platforms — LCA Tejas, Su-30MKI, indigenous AEW&C, DRDO's Uttam AESA radar for the LCA Mk1A, the Sudarshan Chakra air defence architecture — all progressively require domestic RF packaging capacity.",
+      "ur": "ریڈار۔ جدید ریڈار سسٹم-خاص طور پر صف اول کی ہوا، زمین اور بحری پلیٹ فارموں پر تعینات فعال الیکٹرانک اسکینڈ ایرے (اے ای ایس اے) ریڈار-قرارداد، ہدف امتیازی سلوک، اور جامنگ مزاحمت کو حاصل کرنے کے لیے ملی میٹر لہر تعدد پر بتدریج کام کرتے ہیں جس کی عصری جنگی ماحول کو ضرورت ہوتی ہے۔ ہر اے ای ایس اے ٹرانسمیٹ-ریسیو ماڈیول کو اپنی مخصوص برقی ضروریات کو پورا کرنے کے لیے اعلی تعدد آر ایف پیکیجنگ کی ضرورت ہوتی ہے۔ ہندوستان کے صف اول کے پلیٹ فارم-ایل سی اے تیجس، ایس یو-30 ایم کے آئی، مقامی اے ای ڈبلیو اینڈ سی، ڈی آر ڈی او کا ایل سی اے ایم کے 1 اے کے لیے اتم اے ای ایس اے ریڈار، سدرشن چکر فضائی دفاعی فن تعمیر-سبھی کو بتدریج گھریلو آر ایف پیکیجنگ کی صلاحیت کی ضرورت ہوتی ہے۔"
+    },
+    "b9": {
+      "hi": "इलेक्ट्रॉनिक युद्ध। जैसा कि भारत संवाद के 7 अगस्त 2026 के पृष्ठ 2 में डॉ. सुधांशु कुमार द्वारा भारत की ईडब्ल्यू क्रांति पर लिखे गए निबंध में लिखा गया है, समकालीन इलेक्ट्रॉनिक युद्ध काफी हद तक आरएफ स्पेक्ट्रम में प्रतिकूल उत्सर्जन को प्राप्त करने, विश्लेषण करने और जाम करने की क्षमता पर निर्भर करता है। उच्च आवृत्ति आरएफ पैकेजिंग महत्वपूर्ण सक्षम करने वाली तकनीकों में से एक है। डी. आर. डी. ओ. की रक्षा इलेक्ट्रॉनिक्स अनुसंधान प्रयोगशाला (डी. एल. आर. एल.) और भारत इलेक्ट्रॉनिक्स लिमिटेड के इलेक्ट्रॉनिक युद्ध प्रभागों में विकसित प्रणालियों को आर. एफ. पैकेजिंग क्षमता की आवश्यकता होती है जो अब तक काफी हद तक आयातित घटकों पर निर्भर है। इज़्मो माइक्रोसिस्टम की क्षमता एक स्वदेशी विकल्प प्रदान करती है।",
+      "en": "Electronic warfare. As documented in Bharat Samvad's 7 August 2026 Page 2 essay by Dr Sudhanshu Kumar on India's EW revolution, contemporary electronic warfare depends substantially on the ability to receive, analyse, and jam adversary emissions across the RF spectrum. High-frequency RF packaging is one of the substantive enabling technologies. Systems developed at DRDO's Defence Electronics Research Laboratory (DLRL) and Bharat Electronics Limited's electronic warfare divisions require RF packaging capability that until now has substantially depended on imported components. The izmo Microsystems capability provides an indigenous alternative.",
+      "ur": "الیکٹرانک وارفیئر۔ جیسا کہ ڈاکٹر سدھانشو کمار کے 7 اگست 2026 کے مضمون میں ہندوستان سمواد کے ہندوستان کے ای ڈبلیو انقلاب پر لکھے گئے مضمون میں لکھا گیا ہے، عصری الیکٹرانک وارفیئر کا انحصار کافی حد تک آر ایف سپیکٹرم میں مخالف اخراج کو حاصل کرنے، تجزیہ کرنے اور جام کرنے کی صلاحیت پر ہے۔ ہائی فریکوئنسی آر ایف پیکیجنگ ایک ٹھوس فعال ٹیکنالوجی ہے۔ ڈی آر ڈی او کی ڈیفنس الیکٹرانکس ریسرچ لیبارٹری (ڈی ایل آر ایل) اور بھارت الیکٹرانکس لمیٹڈ کے الیکٹرانک وارفیئر ڈویژنوں میں تیار کردہ سسٹم کو آر ایف پیکیجنگ کی صلاحیت کی ضرورت ہوتی ہے جو اب تک کافی حد تک درآمد شدہ اجزاء پر منحصر ہے۔ ایزمو مائیکرو سسٹمز کی صلاحیت ایک مقامی متبادل فراہم کرتی ہے۔"
+    },
+    "b10": {
+      "hi": "सुरक्षित सैन्य संचार. उच्च आवृत्ति स्पेक्ट्रम बैंड-विशेष रूप से केए-बैंड (26.5-40 जीएचजेड) और वी-बैंड (40-75 जीएचजेड)-सुरक्षित सैन्य संचार के लिए उत्तरोत्तर पसंदीदा परिचालन बैंड बन गए हैं क्योंकि उनकी प्रसार विशेषताएँ (छोटी दूरी, उच्च दिशा, अवरोधन की कठिनाई) अंतर्निहित परिचालन सुरक्षा प्रदान करती हैं। इन बैंडों में काम करने वाली प्रत्येक सुरक्षित सैन्य संचार प्रणाली को मिलीमीटर-तरंग प्रदर्शन के लिए आरएफ पैकेजिंग इंजीनियर की आवश्यकता होती है।",
+      "en": "Secure military communications. High-frequency spectrum bands — particularly the Ka-band (26.5-40 GHz) and V-band (40-75 GHz) — have progressively become the preferred operational bands for secure military communications because their propagation characteristics (short range, high directionality, difficulty of interception) provide inherent operational security. Every secure military communications system operating in these bands requires RF packaging engineered for millimetre-wave performance.",
+      "ur": "محفوظ فوجی مواصلات۔ ہائی فریکوئنسی سپیکٹرم بینڈ-خاص طور پر کے اے بینڈ (26.5-40 جی ایچ زیڈ) اور وی بینڈ (40-75 جی ایچ زیڈ)-محفوظ فوجی مواصلات کے لیے بتدریج ترجیحی آپریشنل بینڈ بن چکے ہیں کیونکہ ان کی پھیلاؤ کی خصوصیات (مختصر رینج، اعلی سمت، مداخلت کی مشکل) موروثی آپریشنل سیکیورٹی فراہم کرتی ہیں۔ ان بینڈوں میں کام کرنے والے ہر محفوظ فوجی مواصلاتی نظام کو ملی میٹر لہر کی کارکردگی کے لیے آر ایف پیکیجنگ انجینئر کی ضرورت ہوتی ہے۔"
+    },
+    "b11": {
+      "hi": "एयरोस्पेस और उपग्रह संचार. भारत की विस्तारित अंतरिक्ष वास्तुकला-इसरो का उपग्रह संचार कार्यक्रम, डी. आर. डी. ओ. का उपग्रह आधारित अवलोकन और संचार प्रणाली, अंतरिक्ष आधारित निगरानी (एस. बी. एस.-III) कार्यक्रम-के लिए उत्तरोत्तर उच्च आवृत्ति वाले आर. एफ. घटकों की आवश्यकता होती है। के. ए.-बैंड और वी-बैंड में काम करने वाले उपग्रह पेलोड के लिए पैकेजिंग के सटीक वर्ग की आवश्यकता होती है जिसे इज्मोमाइक्रो ने अब प्रदर्शित किया है कि यह घरेलू स्तर पर उत्पादन कर सकता है।",
+      "en": "Aerospace and satellite communications. India's expanding space architecture — ISRO's satellite communications programme, DRDO's satellite-based observation and communications systems, the Space-Based Surveillance (SBS-III) programme — progressively requires high-frequency RF components. Satellite payloads operating in Ka-band and V-band require the exact class of packaging that izmomicro has now demonstrated it can produce domestically.",
+      "ur": "ایرو اسپیس اور سیٹلائٹ مواصلات۔ ہندوستان کا توسیع پذیر خلائی فن تعمیر-اسرو کا سیٹلائٹ مواصلاتی پروگرام، ڈی آر ڈی او کا سیٹلائٹ پر مبنی مشاہدہ اور مواصلاتی نظام، خلائی بنیاد پر نگرانی (ایس بی ایس-III) پروگرام-کو بتدریج اعلی تعدد آر ایف اجزاء کی ضرورت ہوتی ہے۔ کے اے بینڈ اور وی بینڈ میں کام کرنے والے سیٹلائٹ پے لوڈ کے لیے پیکیجنگ کی عین کلاس کی ضرورت ہوتی ہے جو ازمومیکرو نے اب ظاہر کیا ہے کہ وہ مقامی طور پر تیار کر سکتا ہے۔"
+    },
+    "b12": {
+      "hi": "उन्नत वायरलेस प्रणालियाँ। रक्षा से परे, 40 गीगाहर्ट्ज़-सक्षम आर. एफ. पैकेजिंग 5जी एम. एम. वेव बुनियादी ढांचे, 6जी अनुसंधान और विकास, और उत्तरोत्तर व्यापक वाणिज्यिक वायरलेस अनुप्रयोगों का समर्थन करती है। भारत का 5जी रोलआउट का विस्तार और 6जी स्थितियों में इसके उत्तरोत्तर पर्याप्त आर. एंड डी. निवेश के लिए देश को प्रौद्योगिकी के वाणिज्यिक आयाम में भी पर्याप्त घरेलू आर. एफ. पैकेजिंग क्षमता की आवश्यकता है।",
+      "en": "Advanced wireless systems. Beyond defence, 40 GHz-capable RF packaging supports 5G mmWave infrastructure, 6G research and development, and progressively wider commercial wireless applications. India's expanding 5G rollout and its progressively substantial R&D investment in 6G positions the country to require substantial domestic RF packaging capacity across the commercial dimension of the technology as well.",
+      "ur": "جدید وائرلیس سسٹم۔ دفاع سے بالاتر، 40 گیگا ہرٹز کے قابل آر ایف پیکیجنگ 5 جی ایم ایم ویو انفراسٹرکچر، 6 جی ریسرچ اینڈ ڈیولپمنٹ، اور بتدریج وسیع تر تجارتی وائرلیس ایپلی کیشنز کی حمایت کرتی ہے۔ ہندوستان کا 5 جی رول آؤٹ بڑھ رہا ہے اور 6 جی پوزیشنوں میں اس کی بتدریج خاطر خواہ آر اینڈ ڈی سرمایہ کاری کے لیے ملک کو ٹیکنالوجی کے تجارتی پہلو میں بھی کافی گھریلو آر ایف پیکیجنگ صلاحیت کی ضرورت ہے۔"
+    },
+    "b13.title": {
+      "hi": "एक नज़र में 40 गीगाहर्ट्ज़ मील का पत्थर",
+      "en": "The 40 GHz Milestone at a Glance",
+      "ur": "ایک نظر میں 40 گیگا ہرٹز کا سنگ میل"
+    },
+    "b13.itemlbl.0": {
+      "hi": "घोषणा",
+      "en": "Announcement",
+      "ur": "اعلان"
+    },
+    "b13.itemval.0": {
+      "hi": "सोमवार, 1 सितंबर 2026",
+      "en": "Monday, 1 September 2026",
+      "ur": "پیر، 1 ستمبر 2026"
+    },
+    "b13.itemlbl.1": {
+      "hi": "इकाई की घोषणा",
+      "en": "Announcing entity",
+      "ur": "وجود کا اعلان"
+    },
+    "b13.itemval.1": {
+      "hi": "आई. जेड. एम. ओ. लिमिटेड (एन. एस. ई.: आई. जेड. एम. ओ./बी. एस. ई.: 532341)",
+      "en": "IZMO Limited (NSE: IZMO / BSE: 532341)",
+      "ur": "آئی زیڈ ایم او لمیٹڈ (این ایس ای: آئی زیڈ ایم او/بی ایس ای: 532341)"
+    },
+    "b13.itemlbl.2": {
+      "hi": "उत्पाद निर्माता",
+      "en": "Product manufacturer",
+      "ur": "پروڈکٹ بنانے والا"
+    },
+    "b13.itemval.2": {
+      "hi": "इज्मो माइक्रोसिस्टम्स प्राइवेट लिमिटेड (इज्मोमाइक्रो)",
+      "en": "izmo Microsystems Pvt. Ltd. (izmomicro)",
+      "ur": "ازمو مائیکرو سسٹمز پرائیویٹ لمیٹڈ (ازمو مائیکرو)"
+    },
+    "b13.itemlbl.3": {
+      "hi": "उत्पाद",
+      "en": "Product",
+      "ur": "پروڈکٹ"
+    },
+    "b13.itemval.3": {
+      "hi": "आर. एफ. क्वाड फ्लैट नो-लीड (क्यू. एफ. एन.) अर्धचालक पैकेज",
+      "en": "RF Quad Flat No-Lead (QFN) semiconductor package",
+      "ur": "آر ایف کواڈ فلیٹ نو-لیڈ (کیو ایف این) سیمی کنڈکٹر پیکیج"
+    },
+    "b13.itemlbl.4": {
+      "hi": "संचालन आवृत्ति",
+      "en": "Operating frequency",
+      "ur": "آپریٹنگ تعدد"
+    },
+    "b13.itemval.4": {
+      "hi": "40 गीगाहर्ट्ज़ तक",
+      "en": "Up to 40 GHz",
+      "ur": "40 گیگا ہرٹز تک"
+    },
+    "b13.itemlbl.5": {
+      "hi": "डिजाइन स्थान",
+      "en": "Design location",
+      "ur": "ڈیزائن کا مقام"
+    },
+    "b13.itemval.5": {
+      "hi": "भारत",
+      "en": "India",
+      "ur": "بھارت"
+    },
+    "b13.itemlbl.6": {
+      "hi": "विनिर्माण स्थान",
+      "en": "Manufacturing location",
+      "ur": "مینوفیکچرنگ کا مقام"
+    },
+    "b13.itemval.6": {
+      "hi": "व्हाइटफील्ड, बेंगलुरु (क्लास 1000 क्लीन रूम)",
+      "en": "Whitefield, Bengaluru (Class 1000 cleanroom)",
+      "ur": "وائٹ فیلڈ، بنگلورو (کلاس 1000 کلین روم)"
+    },
+    "b13.itemlbl.7": {
+      "hi": "ग्राहक",
+      "en": "Customer",
+      "ur": "گاہک"
+    },
+    "b13.itemval.7": {
+      "hi": "रक्षा और सुरक्षित वायरलेस संचार के लिए भारतीय ग्राहक उच्च आवृत्ति वाले आर. एफ. मॉड्यूल विकसित कर रहे हैं",
+      "en": "Indian customer developing high-frequency RF modules for defence and secure wireless communications",
+      "ur": "ہندوستانی گاہک دفاع اور محفوظ وائرلیس مواصلات کے لیے اعلی تعدد والے آر ایف ماڈیول تیار کر رہے ہیں"
+    },
+    "b13.itemlbl.8": {
+      "hi": "उत्पादन की स्थिति",
+      "en": "Production status",
+      "ur": "پیداوار کی حیثیت"
+    },
+    "b13.itemval.8": {
+      "hi": "सत्यापन के बाद माल की ढुलाई शुरू हुई",
+      "en": "Shipments commenced post validation",
+      "ur": "توثیق کے بعد کھیپ شروع ہوئی"
+    },
+    "b13.itemlbl.9": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.9": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.10": {
+      "hi": "इंजीनियरिंग विशेषज्ञ",
+      "en": "ENGINEERING SPECIFICATIONS",
+      "ur": "انجینئرنگ کے خصوصی کام"
+    },
+    "b13.itemval.10": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.11": {
+      "hi": "तार बंधन की लंबाई",
+      "en": "Wire bond length",
+      "ur": "تار بانڈ کی لمبائی"
+    },
+    "b13.itemval.11": {
+      "hi": "लगभग 0.3 मिलीमीटर",
+      "en": "Approximately 0.3 millimetres",
+      "ur": "تقریبا 0. 3 ملی میٹر"
+    },
+    "b13.itemlbl.12": {
+      "hi": "पैकेज वास्तुकला",
+      "en": "Package architecture",
+      "ur": "پیکیج فن تعمیر"
+    },
+    "b13.itemval.12": {
+      "hi": "डाई के आसपास वायु गुहा",
+      "en": "Air cavity surrounding the die",
+      "ur": "ڈائی کے ارد گرد ہوا کی کھوپڑی"
+    },
+    "b13.itemlbl.13": {
+      "hi": "डिजाइन एकीकरण",
+      "en": "Design integration",
+      "ur": "ڈیزائن انضمام"
+    },
+    "b13.itemval.13": {
+      "hi": "ट्रेस ज्यामिति + डाई स्थिति एक साथ अनुकूलित",
+      "en": "Trace geometry + die positioning optimised together",
+      "ur": "ٹریس جیومیٹری + ڈائی پوزیشننگ ایک ساتھ بہتر کی گئی"
+    },
+    "b13.itemlbl.14": {
+      "hi": "परजीवी न्यूनतमकरण",
+      "en": "Parasitic minimisation",
+      "ur": "پرجیوی تخفیف"
+    },
+    "b13.itemval.14": {
+      "hi": "मिलीमीटर-तरंग आवृत्तियों पर विश्वसनीय संचालन",
+      "en": "Reliable operation at millimetre-wave frequencies",
+      "ur": "ملی میٹر لہر تعدد پر قابل اعتماد آپریشن"
+    },
+    "b13.itemlbl.15": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.15": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.16": {
+      "hi": "आवेदन",
+      "en": "APPLICATIONS",
+      "ur": "درخواستیں"
+    },
+    "b13.itemval.16": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.17": {
+      "hi": "रडार प्रणाली (ए. ई. एस. ए., जमीनी, नौसैनिक, हवाई)",
+      "en": "Radar systems (AESA, ground, naval, airborne)",
+      "ur": "ریڈار سسٹم (اے ای ایس اے، زمینی، بحری، ہوائی)"
+    },
+    "b13.itemval.17": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.18": {
+      "hi": "इलेक्ट्रॉनिक युद्ध (ई. डब्ल्यू./सिगिंट/एलिंट)",
+      "en": "Electronic warfare (EW / SIGINT / ELINT)",
+      "ur": "الیکٹرانک وارفیئر (EW/SIGINT/ELINT)"
+    },
+    "b13.itemval.18": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.19": {
+      "hi": "सुरक्षित सैन्य संचार (केए-बैंड, वी-बैंड)",
+      "en": "Secure military communications (Ka-band, V-band)",
+      "ur": "محفوظ فوجی مواصلات (کے اے-بینڈ، وی-بینڈ)"
+    },
+    "b13.itemval.19": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.20": {
+      "hi": "एयरोस्पेस प्लेटफॉर्म",
+      "en": "Aerospace platforms",
+      "ur": "ایرو اسپیس پلیٹ فارم"
+    },
+    "b13.itemval.20": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.21": {
+      "hi": "उपग्रह संचार",
+      "en": "Satellite communications",
+      "ur": "سیٹلائٹ مواصلات"
+    },
+    "b13.itemval.21": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.22": {
+      "hi": "उन्नत वायरलेस प्रणाली (5जी एम. एम. वेव, 6जी अनुसंधान)",
+      "en": "Advanced wireless systems (5G mmWave, 6G research)",
+      "ur": "اعلی درجے کے وائرلیس سسٹم (5 جی ایم ایم ویو، 6 جی ریسرچ)"
+    },
+    "b13.itemval.22": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.23": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.24": {
+      "hi": "IZMO लिमिटेड/IZMOMICRO इंस्टिट्यूशनल प्रोफाइल",
+      "en": "IZMO LIMITED / IZMOMICRO INSTITUTIONAL PROFILE",
+      "ur": "IZMO لمیٹڈ/IZMOMICRO انسٹی ٹیوٹ پروفائل"
+    },
+    "b13.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.25": {
+      "hi": "माता-पिता",
+      "en": "Parent",
+      "ur": "والدین"
+    },
+    "b13.itemval.25": {
+      "hi": "आई. जेड. एम. ओ. लिमिटेड (एन. एस. ई. + बी. एस. ई. में सूचीबद्ध)",
+      "en": "IZMO Limited (listed NSE + BSE)",
+      "ur": "آئی زیڈ ایم او لمیٹڈ (درج شدہ این ایس ای + بی ایس ای)"
+    },
+    "b13.itemlbl.26": {
+      "hi": "सहायक",
+      "en": "Subsidiary",
+      "ur": "ذیلی ادارہ"
+    },
+    "b13.itemval.26": {
+      "hi": "इज्मो माइक्रोसिस्टम्स प्राइवेट लिमिटेड",
+      "en": "izmo Microsystems Pvt. Ltd.",
+      "ur": "ازمو مائیکرو سسٹمز پرائیویٹ لمیٹڈ"
+    },
+    "b13.itemlbl.27": {
+      "hi": "मुख्यालय",
+      "en": "Headquarters",
+      "ur": "ہیڈکوارٹر"
+    },
+    "b13.itemval.27": {
+      "hi": "बेंगलुरु, भारत",
+      "en": "Bengaluru, India",
+      "ur": "بنگلور، بھارت"
+    },
+    "b13.itemlbl.28": {
+      "hi": "साफ-सफाई कक्ष वर्ग",
+      "en": "Cleanroom class",
+      "ur": "کلین روم کلاس"
+    },
+    "b13.itemval.28": {
+      "hi": "क्लास 1000, व्हाइटफील्ड",
+      "en": "Class 1000, Whitefield",
+      "ur": "کلاس 1000، وائٹ فیلڈ"
+    },
+    "b13.itemlbl.29": {
+      "hi": "अंतर्राष्ट्रीय कार्यालय",
+      "en": "International offices",
+      "ur": "بین الاقوامی دفاتر"
+    },
+    "b13.itemval.29": {
+      "hi": "सैन फ्रांसिस्को, कोलोन",
+      "en": "San Francisco, Cologne",
+      "ur": "سان فرانسسکو، کولون"
+    },
+    "b13.itemlbl.30": {
+      "hi": "पहचान",
+      "en": "Recognition",
+      "ur": "پہچان"
+    },
+    "b13.itemval.30": {
+      "hi": "उन्नत अर्धचालक पैकेजिंग में भारत का प्रौद्योगिकी अग्रणी",
+      "en": "India's technology leader in advanced semiconductor packaging",
+      "ur": "جدید سیمی کنڈکٹر پیکیجنگ میں ہندوستان کا ٹیکنالوجی لیڈر"
+    },
+    "b13.itemlbl.31": {
+      "hi": "अद्वितीय क्षमता",
+      "en": "Unique capability",
+      "ur": "منفرد صلاحیت"
+    },
+    "b13.itemval.31": {
+      "hi": "सिलिकॉन फोटोनिक्स, 3डी सिस्टम-इन-पैकेज (एस. आई. पी.) वास्तुकला और रक्षा-श्रेणी के हर्मेटिक सिरेमिक पैकेजिंग में प्रदर्शित क्षमता वाली एकमात्र भारतीय कंपनी",
+      "en": "Only Indian company with demonstrated capability across silicon photonics, 3D System-in-Package (SiP) architectures, and defence-grade hermetic ceramic packaging",
+      "ur": "صرف ہندوستانی کمپنی جس نے سلکان فوٹوونکس، تھری ڈی سسٹم ان پیکیج (ایس آئی پی) آرکیٹیکچرز، اور دفاعی درجے کی ہرمیٹک سیرامک پیکیجنگ میں صلاحیت کا مظاہرہ کیا ہے۔"
+    },
+    "b13.itemlbl.32": {
+      "hi": "ट्रैक रिकॉर्ड",
+      "en": "Track record",
+      "ur": "ٹریک ریکارڈ"
+    },
+    "b13.itemval.32": {
+      "hi": "लगभग दो दशकों का प्रौद्योगिकी नेतृत्व",
+      "en": "Nearly two decades of technology leadership",
+      "ur": "ٹیکنالوجی قیادت کی تقریبا دو دہائیاں"
+    },
+    "b13.itemlbl.33": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.33": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.34": {
+      "hi": "अतिरिक्त इज्मोमिक्रो क्षमताएँ",
+      "en": "ADDITIONAL IZMOMICRO CAPABILITIES",
+      "ur": "اضافی Izmomicro کی صلاحیتیں"
+    },
+    "b13.itemval.34": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.35": {
+      "hi": "सिलिकॉन फोटोनिक्स एकीकरण",
+      "en": "Silicon photonics integration",
+      "ur": "سلیکن فوٹوونکس انضمام"
+    },
+    "b13.itemval.35": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.36": {
+      "hi": "आईसी पैकेजिंग",
+      "en": "IC packaging",
+      "ur": "آئی سی پیکیجنگ"
+    },
+    "b13.itemval.36": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.37": {
+      "hi": "आर. एफ. और माइक्रोवेव असेंबली",
+      "en": "RF and microwave assembly",
+      "ur": "آر ایف اور مائکروویو اسمبلی"
+    },
+    "b13.itemval.37": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.38": {
+      "hi": "सह-पैक प्रकाशिकी",
+      "en": "Co-packaged optics",
+      "ur": "شریک پیک شدہ آپٹکس"
+    },
+    "b13.itemval.38": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.39": {
+      "hi": "उच्च-विश्वसनीयता हर्मेटिक पैकेजिंग",
+      "en": "High-reliability hermetic packaging",
+      "ur": "اعلی وشوسنییتا ہرمیٹک پیکیجنگ"
+    },
+    "b13.itemval.39": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.40": {
+      "hi": "रडार रिसीवर मॉड्यूल असेंबली",
+      "en": "Radar receiver module assembly",
+      "ur": "ریڈار رسیور ماڈیول اسمبلی"
+    },
+    "b13.itemval.40": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.41": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.41": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.42": {
+      "hi": "भारत सेमिकंडक्टर मिशन (आई. एस. एम.) का पाठ",
+      "en": "INDIA SEMICONDUCTOR MISSION (ISM) CONTEXT",
+      "ur": "انڈیا سیمی کنڈکٹر مشن (آئی ایس ایم) متن"
+    },
+    "b13.itemval.42": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.43": {
+      "hi": "कुल खर्च",
+      "en": "Total outlay",
+      "ur": "کل خرچ"
+    },
+    "b13.itemval.43": {
+      "hi": "76, 000 करोड़ रुपये",
+      "en": "₹76,000 crore",
+      "ur": "76, 000 کروڑ روپے"
+    },
+    "b13.itemlbl.44": {
+      "hi": "स्वीकृत परियोजनाएं",
+      "en": "Approved projects",
+      "ur": "منظور شدہ منصوبے"
+    },
+    "b13.itemval.44": {
+      "hi": "10.",
+      "en": "10",
+      "ur": "10."
+    },
+    "b13.itemlbl.45": {
+      "hi": "संचयी निवेश",
+      "en": "Cumulative investment",
+      "ur": "مجموعی سرمایہ کاری"
+    },
+    "b13.itemval.45": {
+      "hi": "लगभग 1.6 लाख करोड़ रुपये",
+      "en": "Approximately ₹1.60 lakh crore",
+      "ur": "تقریبا 1. 60 لاکھ کروڑ روپے"
+    },
+    "b13.itemlbl.46": {
+      "hi": "राज्य शामिल",
+      "en": "States covered",
+      "ur": "احاطہ شدہ ریاستیں"
+    },
+    "b13.itemval.46": {
+      "hi": "6.",
+      "en": "6",
+      "ur": "6"
+    },
+    "b13.itemlbl.47": {
+      "hi": "कवरेज",
+      "en": "Coverage",
+      "ur": "کوریج"
+    },
+    "b13.itemval.47": {
+      "hi": "निर्माण; उन्नत पैकेजिंग; संयोजन और परीक्षण",
+      "en": "Fabrication; advanced packaging; assembly and testing",
+      "ur": "بناوٹ ؛ اعلی درجے کی پیکیجنگ ؛ اسمبلی اور جانچ"
+    },
+    "b13.itemlbl.48": {
+      "hi": "सेमिकॉन 2",
+      "en": "Semicon 2.0",
+      "ur": "سیمیکون 2. 0"
+    },
+    "b13.itemval.48": {
+      "hi": "उन्नत पैकेजिंग पर अधिक ध्यान केंद्रित किया गया",
+      "en": "Increased focus on advanced packaging",
+      "ur": "اعلی درجے کی پیکیجنگ پر توجہ مرکوز کرنا"
+    },
+    "b13.itemlbl.49": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.49": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.50": {
+      "hi": "रणनीतिक पाठ",
+      "en": "STRATEGIC CONTEXT",
+      "ur": "اسٹریٹجک متن"
+    },
+    "b13.itemval.50": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.51": {
+      "hi": "आत्मनिर्भर भारत अर्धचालक",
+      "en": "Aatmanirbhar Bharat semiconductor",
+      "ur": "آتم نربھر بھارت سیمی کنڈکٹر"
+    },
+    "b13.itemval.51": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.52": {
+      "hi": "छठी सकारात्मक स्वदेशीकरण सूची (18 अगस्त 2026)",
+      "en": "Sixth Positive Indigenisation List (18 August 2026",
+      "ur": "چھٹی مثبت مقامی فہرست (18 اگست 2026)"
+    },
+    "b13.itemval.52": {
+      "hi": "405 आइटम)",
+      "en": "405 items)",
+      "ur": "405 اشیاء)"
+    },
+    "b13.itemlbl.53": {
+      "hi": "भारत-जापान समुद्री सुरक्षा सहयोग समझौता ज्ञापन (20 अगस्त 2026)",
+      "en": "India-Japan Maritime Security Cooperation MoA (20 August 2026)",
+      "ur": "بھارت-جاپان میری ٹائم سیکیورٹی کوآپریشن ایم او اے (20 اگست 2026)"
+    },
+    "b13.itemval.53": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.54": {
+      "hi": "भारत-आर्मेनिया रक्षा अनुसंधान और विकास समझौता ज्ञापन (20 अगस्त 2026)",
+      "en": "India-Armenia Defence R&D MoU (20 August 2026)",
+      "ur": "ہندوستان-ارمینی دفاع تحقیق و ترقی کا مفاہمتی معاہدہ (20 اگست 2026)"
+    },
+    "b13.itemval.54": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.55": {
+      "hi": "वित्त वर्ष 2025-26 रक्षा निर्यात",
+      "en": "FY 2025-26 defence exports",
+      "ur": "مالی سال 2025-26 دفاعی برآمدات"
+    },
+    "b13.itemval.55": {
+      "hi": "₹38,424 करोड़ ($41 लाख करोड़), 63 प्रतिशत सालाना",
+      "en": "₹38,424 crore ($4.1 billion), 63% YoY",
+      "ur": "₹38, 424 کروڑ (4. 1 بلین ڈالر)، 63 فیصد سال بہ سال"
+    },
+    "b14.q": {
+      "hi": "\"उच्च आवृत्ति वाले आर. एफ. उपकरण अर्धचालक पैकेजिंग पर बहुत मांग वाली आवश्यकताओं को रखते हैं, और 40 गीगाहर्ट्ज़ पर पैकेज को आर. एफ. प्रणाली के एक अभिन्न अंग के रूप में इंजीनियर किया जाना चाहिए। हमने इस पैकेज को उपकरण की विशिष्ट विद्युत और अनुप्रयोग आवश्यकताओं के आसपास विकसित किया है और इसे डिजाइन, निर्माण, असेंबली और उत्पादन में सत्यापन के माध्यम से लिया है। उत्पादन शिपमेंट अब शुरू हो गया है, और हमारे पास आवश्यकताओं के बढ़ने के साथ पैमाने पर उत्पादन करने की क्षमता है।\"",
+      "en": "\"High frequency RF devices place very demanding requirements on semiconductor packaging, and at 40 GHz the package has to be engineered as an integral part of the RF system. We developed this package around the specific electrical and application requirements of the device and have taken it through design, fabrication, assembly and validation into production. Production shipments have now commenced, and we have the manufacturing capability to scale as requirements grow.\"",
+      "ur": "\"ہائی فریکوئنسی آر ایف ڈیوائسز سیمی کنڈکٹر پیکیجنگ پر بہت زیادہ تقاضے رکھتی ہیں، اور 40 گیگا ہرٹز پر پیکیج کو آر ایف سسٹم کے ایک لازمی حصے کے طور پر تیار کرنا پڑتا ہے۔ ہم نے اس پیکیج کو ڈیوائس کی مخصوص برقی اور ایپلی کیشن کی ضروریات کے ارد گرد تیار کیا ہے اور اسے ڈیزائن، من گھڑت، اسمبلی اور پیداوار میں توثیق کے ذریعے لیا ہے۔ پیداوار کی ترسیل اب شروع ہو چکی ہے، اور ہمارے پاس ضروریات کے بڑھنے کے ساتھ پیمانے کی مینوفیکچرنگ کی صلاحیت ہے۔\""
+    },
+    "b14.c": {
+      "hi": "- दीनानाथ सोनी, निदेशक, इज्मो माइक्रोसिस्टम्स प्राइवेट लिमिटेड (1 सितंबर 2026 की घोषणा)",
+      "en": "— Dinanath Soni, Director, izmo Microsystems Pvt. Ltd. (1 September 2026 announcement)",
+      "ur": "- دیناناتھ سونی، ڈائریکٹر، ایزمو مائیکرو سسٹمز پرائیویٹ لمیٹڈ (1 ستمبر 2026 کا اعلان)"
+    },
+    "b15": {
+      "hi": "आई. जेड. एम. ओ. लिमिटेड-संस्थागत कहानी",
+      "en": "IZMO Limited — the institutional story",
+      "ur": "آئی زیڈ ایم او لمیٹڈ-ادارہ جاتی کہانی"
+    },
+    "b16": {
+      "hi": "जिस कंपनी ने इस 40 गीगाहर्ट्ज़ मील के पत्थर का उत्पादन किया है, वह भारत के उन्नत अर्धचालक पैकेजिंग पारिस्थितिकी तंत्र में काफी हद तक सबसे परिणामी एकल खिलाड़ियों में से एक है-और जिसकी संस्थागत प्रोफ़ाइल के बारे में स्पष्ट होने की आवश्यकता है।",
+      "en": "The company that has produced this 40 GHz milestone is one of the substantially most consequential single players in India's advanced semiconductor packaging ecosystem — and one whose institutional profile deserves being clear about.",
+      "ur": "جس کمپنی نے یہ 40 گیگا ہرٹز کا سنگ میل تیار کیا ہے وہ ہندوستان کے جدید سیمی کنڈکٹر پیکیجنگ ماحولیاتی نظام میں کافی حد تک سب سے زیادہ نتیجہ خیز واحد کھلاڑیوں میں سے ایک ہے-اور جس کے ادارہ جاتی پروفائل کے بارے میں واضح ہونے کا مستحق ہے۔"
+    },
+    "b17": {
+      "hi": "आई. जेड. एम. ओ. लिमिटेड बेंगलुरु में मुख्यालय वाली सार्वजनिक रूप से सूचीबद्ध कंपनी है (एन. एस. ई.: आई. जेड. एम. ओ./बी. एस. ई.: 532341). आई. जेड. एम. ओ. माइक्रोसिस्टम्स प्राइवेट लिमिटेड-जिसे आई. जेड. एम. ओ. माइक्रो के नाम से जाना जाता है-इसकी समर्पित अर्धचालक पैकेजिंग सहायक कंपनी है, जो व्हाइटफील्ड, बेंगलुरु में एक क्लास 1000 क्लीनरूम सुविधा से काम कर रही है, जिसमें सैन फ्रांसिस्को और कोलोन में अतिरिक्त अंतर्राष्ट्रीय कार्यालय हैं। कंपनी के प्रौद्योगिकी पोर्टफोलियो में सिलिकॉन फोटोनिक्स एकीकरण, आई. सी. पैकेजिंग, आर. एफ. और माइक्रोवेव असेंबली, सह-पैकेज्ड ऑप्टिक्स और विशेष रूप से एयरोस्पेस और रक्षा वातावरण के लिए डिज़ाइन की गई उच्च-विश्वसनीयता हर्मेटिक पैकेजिंग शामिल है।",
+      "en": "IZMO Limited is a Bengaluru-headquartered publicly listed company (NSE: IZMO / BSE: 532341). izmo Microsystems Pvt. Ltd. — known as izmomicro — is its dedicated semiconductor packaging subsidiary, operating out of a Class 1000 cleanroom facility in Whitefield, Bengaluru, with additional international offices in San Francisco and Cologne. The company's technology portfolio spans silicon photonics integration, IC packaging, RF and microwave assembly, co-packaged optics, and high-reliability hermetic packaging designed specifically for aerospace and defence environments.",
+      "ur": "آئی زیڈ ایم او لمیٹڈ بنگلورو میں واقع ایک عوامی طور پر درج کمپنی ہے (این ایس ای: آئی زیڈ ایم او/بی ایس ای: 532341)۔ آئی زیڈ ایم او مائیکرو سسٹمز پرائیویٹ لمیٹڈ-جسے آئی زیڈ مائیکرو کے نام سے جانا جاتا ہے-اس کا وقف سیمی کنڈکٹر پیکیجنگ ماتحت ادارہ ہے، جو وائٹ فیلڈ، بنگلورو میں کلاس 1000 کلین روم کی سہولت سے کام کر رہا ہے، سان فرانسسکو اور کولون میں اضافی بین الاقوامی دفاتر کے ساتھ۔ کمپنی کا ٹیکنالوجی پورٹ فولیو سلکان فوٹوونکس انضمام، آئی سی پیکیجنگ، آر ایف اور مائکروویو اسمبلی، شریک پیکیجڈ آپٹکس، اور اعلی وشوسنییتا والی ہرمیٹک پیکیجنگ پر محیط ہے جو خاص طور پر ایرو اسپیس اور دفاعی ماحول کے لیے ڈیزائن کیا گیا ہے۔"
+    },
+    "b18": {
+      "hi": "भारतीय अर्धचालक पैकेजिंग पारिस्थितिकी तंत्र के भीतर इसकी संस्थागत मान्यता पर्याप्त है। जैसा कि आई. जेड. एम. ओ. लिमिटेड ने स्वयं संस्थागत प्रकाशनों में प्रलेखित किया है, आईज़्मोमाइक्रो भारत की एकमात्र कंपनी है जो समकालीन अर्धचालक पैकेजिंग के सभी तीन सबसे परिणामी सीमांत क्षेत्रों-सिलिकॉन फोटोनिक्स, 3डी सिस्टम-इन-पैकेज (सी. आई. पी.) वास्तुकला और रक्षा-श्रेणी के हर्मेटिक सिरेमिक पैकेजिंग में प्रदर्शित क्षमता के साथ है। यह प्रौद्योगिकी नेतृत्व इंजीनियरिंग क्षमता, क्लीन रूम बुनियादी ढांचे और विशेष प्रक्रिया विकास में लगभग दो दशकों के निरंतर निवेश पर बनाया गया है। यह आईज़्माइक्रो को भारत की रक्षा इलेक्ट्रॉनिक्स मूल्य श्रृंखला में सबसे विश्वसनीय एकल संस्थागत अभिनेताओं में से एक के रूप में स्थापित करता है।",
+      "en": "Its institutional recognition within the Indian semiconductor packaging ecosystem is substantial. As IZMO Limited itself has documented in institutional publications, izmomicro is India's only company with demonstrated capability across all three of the substantially most consequential frontier segments of contemporary semiconductor packaging — silicon photonics, 3D System-in-Package (SiP) architectures, and defence-grade hermetic ceramic packaging. This technology leadership has been built over nearly two decades of continuous investment in engineering capability, cleanroom infrastructure, and specialised process development. It positions izmomicro as one of the substantially most credible single institutional actors in India's defence electronics value chain.",
+      "ur": "ہندوستانی سیمی کنڈکٹر پیکیجنگ ماحولیاتی نظام کے اندر اس کی ادارہ جاتی شناخت کافی ہے۔ جیسا کہ آئی زیڈ ایم او لمیٹڈ نے خود ادارہ جاتی اشاعتوں میں دستاویز کیا ہے، ایزمو مائیکرو ہندوستان کی واحد کمپنی ہے جس نے عصری سیمی کنڈکٹر پیکیجنگ کے تینوں سب سے زیادہ نتیجہ خیز سرحدی حصوں میں صلاحیت کا مظاہرہ کیا ہے-سلکان فوٹوونکس، تھری ڈی سسٹم ان پیکیج (ایس آئی پی) آرکیٹیکچرز، اور ڈیفنس گریڈ ہرمیٹک سیرامک پیکیجنگ۔ یہ ٹیکنالوجی قیادت انجینئرنگ کی صلاحیت، کلین روم انفراسٹرکچر، اور خصوصی عمل کی ترقی میں تقریبا دو دہائیوں کی مسلسل سرمایہ کاری پر مبنی ہے۔ یہ ایزمو مائیکرو کو ہندوستان کے دفاعی الیکٹرانکس ویلیو چین میں کافی حد تک قابل اعتماد واحد ادارہ جاتی اداکاروں میں سے ایک کے طور پر پوزیشن دیتی ہے۔"
+    },
+    "b19": {
+      "hi": "मार्च 2026 में भारत की रक्षा इलेक्ट्रॉनिक्स मूल्य श्रृंखला में इजमाइक्रो के औपचारिक प्रवेश की घोषणा-जिसने आईजेडएमओ लिमिटेड के शेयरों में 5 प्रतिशत ऊपरी-परिपथ रैली का उत्पादन किया-इस स्थिति के परिचालन सक्रियण का संकेत दिया। अप्रैल 2026 में, इजमाइक्रो ने दो विशेष क्षेत्रों में पैकेजिंग प्रौद्योगिकियों की सक्रिय आपूर्ति के साथ अपने रक्षा इलेक्ट्रॉनिक्स जुड़ाव का विस्तार कियाः उच्च आवृत्ति आरएफ मॉड्यूल पैकेजिंग और रडार रिसीवर मॉड्यूल असेंबली। 1 सितंबर 2026 को 40 गीगाहर्ट्ज़ आरएफ क्यूएफएन पैकेज की घोषणा मार्च-अप्रैल 2026 की संस्थागत प्रतिबद्धता को दर्शाती है-रणनीतिक प्रवेश घोषणा से लेकर उत्पादन शिपमेंट तक लगभग छह महीनों में।",
+      "en": "The March 2026 announcement of izmomicro's formal entry into India's defence electronics value chain — which produced a 5 per cent upper-circuit rally in IZMO Limited shares to Rs 709.40 — signalled the operational activation of this positioning. In April 2026, izmomicro expanded its defence electronics engagement with active supply of packaging technologies in two specialised areas: high-frequency RF module packaging and radar receiver module assembly. The 1 September 2026 announcement of the 40 GHz RF QFN package represents the substantive delivery on the March-April 2026 institutional commitment — from strategic entry announcement to production shipment in approximately six months.",
+      "ur": "مارچ 2026 میں ہندوستان کے دفاعی الیکٹرانکس ویلیو چین میں ایزمومیکرو کے باضابطہ داخلے کا اعلان-جس نے آئی زیڈ ایم او لمیٹڈ کے حصص میں 5 فیصد اپر سرکٹ ریلی پیدا کر کے 709.40 تک پہنچا دی-اس پوزیشننگ کے آپریشنل ایکٹیویشن کا اشارہ دیا۔ اپریل 2026 میں، ایزمومیکرو نے دو خصوصی شعبوں میں پیکیجنگ ٹیکنالوجیز کی فعال فراہمی کے ساتھ اپنے دفاعی الیکٹرانکس کے مشغولیت کو بڑھایا: ہائی فریکوئنسی آر ایف ماڈیول پیکیجنگ اور ریڈار رسیور ماڈیول اسمبلی۔ 1 ستمبر 2026 کو 40 گیگا ہرٹز آر ایف کیو ایف این پیکیج کا اعلان مارچ-اپریل 2026 کے ادارہ جاتی عزم کی نمائندگی کرتا ہے-اسٹریٹجک انٹری کے اعلان سے لے کر تقریبا چھ ماہ میں پروڈکشن شپمنٹ تک۔"
+    },
+    "b20": {
+      "hi": "भारत अर्धचालक मिशन-व्यापक नीतिगत संरचना",
+      "en": "The India Semiconductor Mission — the wider policy architecture",
+      "ur": "انڈیا سیمی کنڈکٹر مشن-وسیع تر پالیسی فن تعمیر"
+    },
+    "b21": {
+      "hi": "1 सितंबर 2026 का मील का पत्थर भारत सरकार द्वारा हाल के वर्षों में बनाए गए सबसे परिणामी एकल नीतिगत ढांचे में से एक है। भारत अर्धचालक मिशन (आई. एस. एम.)-इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय ने भारत को वैश्विक अर्धचालक निर्माण और डिजाइन गंतव्य के रूप में उत्तरोत्तर स्थापित करने के लिए 76,000 करोड़ रुपये के परिव्यय के साथ शुरू किया-छह राज्यों में लगभग 1.6 लाख करोड़ रुपये के संचयी निवेश के साथ 10 परियोजनाओं को मंजूरी दी है। ये परियोजनाएं पूरी अर्धचालक मूल्य श्रृंखला में फैली हुई हैंः वेफर निर्माण (अर्धचालक चिप उत्पादन), उन्नत पैकेजिंग (मूल स्थान जिसमें इज़्मोमाइक्रो संचालित होता है), और असेंबली और परीक्षण बुनियादी ढांचा।",
+      "en": "The 1 September 2026 milestone sits within one of the substantially most consequential single policy architectures the Government of India has built across recent years. The India Semiconductor Mission (ISM) — the Ministry of Electronics and Information Technology programme launched with a ₹76,000 crore outlay to progressively establish India as a global semiconductor manufacturing and design destination — has approved 10 projects with cumulative investments of approximately ₹1.60 lakh crore across six states. These projects span the full semiconductor value chain: wafer fabrication (semiconductor chip production), advanced packaging (the substantive niche in which izmomicro operates), and assembly and testing infrastructure.",
+      "ur": "یکم ستمبر 2026 کا سنگ میل حکومت ہند کے حالیہ برسوں میں بنائے گئے سب سے زیادہ نتیجہ خیز واحد پالیسی آرکیٹیکچرز میں سے ایک ہے۔ الیکٹرانکس اور انفارمیشن ٹیکنالوجی کی وزارت کے ذریعہ شروع کیے گئے 76, 000 کروڑ روپے کے اخراجات کے ساتھ شروع کیے گئے انڈیا سیمی کنڈکٹر مشن (آئی ایس ایم) نے چھ ریاستوں میں تقریبا 1. 60 لاکھ کروڑ روپے کی مجموعی سرمایہ کاری کے ساتھ 10 پروجیکٹوں کو منظوری دی ہے۔ یہ پروجیکٹ مکمل سیمی کنڈکٹر ویلیو چین پر محیط ہیں: ویفر فیبریکیشن (سیمی کنڈکٹر چپ پروڈکشن)، ایڈوانسڈ پیکیجنگ (بنیادی طاق جس میں ایزمو مائیکرو کام کرتا ہے)، اور اسمبلی اور ٹیسٹنگ انفراسٹرکچر۔"
+    },
+    "b22": {
+      "hi": "सेमीकॉन 2 फ्रेमवर्क-उत्तराधिकारी नीति संरचना जिसे दीनानाथ सोनी ने अपने घोषणा बयान में स्पष्ट रूप से संदर्भित किया है-उन्नत पैकेजिंग पर भारत के सेमीकंडक्टर निर्माण प्रक्षेपवक्र की महत्वपूर्ण रणनीतिक प्राथमिकताओं में से एक के रूप में उत्तरोत्तर ध्यान केंद्रित करता है। उन्नत पैकेजिंग वह खंड है जहां घरेलू मूल्यवर्धन, प्रौद्योगिकी परिष्कार और रक्षा-रणनीतिक महत्व सबसे अधिक परिणामी रूप से प्रतिच्छेद करता है। 7 नैनोमीटर, 5 नैनोमीटर, या 3 नैनोमीटर प्रोसेस नोड्स पर अग्रणी-किनारे वाले सेमीकंडक्टर चिप्स का निर्माण-वह खंड जहां टीएसएमसी, सैमसंग और इंटेल वैश्विक स्तर पर हावी हैं-भारत की निकट-अवधि की पहुंच से काफी परे है। लेकिन उन्नत पैकेजिंग, आरएफ और माइक्रोवेव पैकेजिंग, सिलिकॉन फोटोनिक्स और रक्षा-ग्रेड हर्मेटिक पैकेजिंग उन क्षेत्रों का प्रतिनिधित्व करते हैं जहां भारत अधिक सुलभ पूंजी-निवेश सीमा पर वास्तविक विश्व स्तरीय क्षमता का निर्माण कर सकता है।",
+      "en": "The Semicon 2.0 framework — the successor policy architecture that Dinanath Soni explicitly referenced in his announcement statement — provides progressively increased focus on advanced packaging as one of the substantive strategic priorities of India's semiconductor manufacturing trajectory. Advanced packaging is the segment where domestic value addition, technology sophistication, and defence-strategic importance intersect most consequentially. Fabrication of leading-edge semiconductor chips at 7 nanometre, 5 nanometre, or 3 nanometre process nodes — the segment where TSMC, Samsung, and Intel dominate globally — remains substantially beyond India's near-term reach. But advanced packaging, RF and microwave packaging, silicon photonics, and defence-grade hermetic packaging represent segments where India can build genuine world-class capability at substantially more accessible capital-investment thresholds.",
+      "ur": "سیمیکون 2 فریم ورک-جانشین پالیسی فن تعمیر جس کا دیناناتھ سونی نے اپنے اعلان بیان میں واضح طور پر حوالہ دیا ہے-جدید پیکیجنگ پر بتدریج توجہ مرکوز کرتا ہے جو ہندوستان کی سیمی کنڈکٹر مینوفیکچرنگ ٹریجیکٹوری کی ایک ٹھوس اسٹریٹجک ترجیحات میں سے ایک ہے۔ جدید پیکیجنگ وہ طبقہ ہے جہاں گھریلو ویلیو ایڈیشن، ٹیکنالوجی کی نفاست، اور دفاعی اسٹریٹجک اہمیت سب سے زیادہ نتیجے میں آپس میں ملتی ہے۔ 7 نینو میٹر، 5 نینو میٹر، یا 3 نینو میٹر پروسیس نوڈس پر جدید ترین سیمی کنڈکٹر چپس کی تیاری-وہ طبقہ جہاں ٹی ایس ایم سی، سیمسنگ، اور انٹیل عالمی سطح پر غالب ہیں-ہندوستان کی قریب قریب رسائی سے کافی حد تک باہر ہے۔ لیکن جدید پیکیجنگ، آر ایف اور مائکروویو پیکیجنگ، سلکان فوٹوونکس، اور دفاعی درجے کی ہرمیٹک پیکیجنگ ان حصوں کی نمائندگی کرتی ہے جہاں ہندوستان سرمایہ کاری کی حد میں کافی زیادہ قابل رسائی عالمی معیار کی صلاحیت پیدا کر سکتا ہے۔"
+    },
+    "b23": {
+      "hi": "इज्मो माइक्रोसिस्टम्स की 40 गीगाहर्ट्ज़ की उपलब्धि इस रणनीतिक तर्क की सबसे परिणामी एकल मान्यताओं में से एक प्रदान करती है। भारत को रणनीतिक अर्धचालक संप्रभुता के निर्माण के लिए अत्याधुनिक निर्माण पर टी. एस. एम. सी. की बराबरी करने की आवश्यकता नहीं है। भारत को विशिष्ट पैकेजिंग, असेंबली और एकीकरण क्षमताओं में महारत हासिल करने की आवश्यकता है जिसकी इसकी रक्षा, एयरोस्पेस और सुरक्षित-संचार आवश्यकताएं उत्तरोत्तर मांग करती हैं-और उन्हें घरेलू धरती पर बनाने की आवश्यकता है।",
+      "en": "izmo Microsystems' 40 GHz achievement provides one of the substantially most consequential single validations of this strategic logic. India does not need to match TSMC on cutting-edge fabrication to build strategic semiconductor sovereignty. India needs to master the specific packaging, assembly, and integration capabilities that its defence, aerospace, and secure-communications requirements progressively demand — and to build them on domestic soil.",
+      "ur": "ازمو مائیکرو سسٹمز کی 40 گیگا ہرٹز کامیابی اس اسٹریٹجک منطق کی کافی حد تک سب سے زیادہ نتیجہ خیز واحد توثیق فراہم کرتی ہے۔ ہندوستان کو اسٹریٹجک سیمی کنڈکٹر خودمختاری کی تعمیر کے لیے جدید ترین من گھڑت سازی پر ٹی ایس ایم سی سے ملنے کی ضرورت نہیں ہے۔ ہندوستان کو مخصوص پیکیجنگ، اسمبلی اور انضمام کی صلاحیتوں میں مہارت حاصل کرنے کی ضرورت ہے جس کی اس کے دفاع، ایرو اسپیس اور محفوظ مواصلات کی ضروریات بتدریج مانگ کرتی ہیں-اور انہیں گھریلو سرزمین پر بنانے کی ضرورت ہے۔"
+    },
+    "b24": {
+      "hi": "इसका क्या मतलब है",
+      "en": "What it signifies",
+      "ur": "اس کا کیا مطلب ہے"
+    },
+    "b25": {
+      "hi": "भारत के रक्षा इलेक्ट्रॉनिक्स पारिस्थितिकी तंत्र के लिए, 40 गीगाहर्ट्ज़ का मील का पत्थर पर्याप्त परिचालन विश्वसनीयता प्रदान करता है कि घरेलू अर्धचालक पैकेजिंग क्षमता उन आवृत्तियों पर मौजूद है जहां सबसे परिणामी समकालीन रक्षा प्रणालियां उत्तरोत्तर काम करती हैं। प्रत्येक एईएसए रडार संचारण-प्राप्त मॉड्यूल, प्रत्येक ईडब्ल्यू प्रणाली का उच्च आवृत्ति प्राप्तकर्ता फ्रंट-एंड, प्रत्येक केए-बैंड या वी-बैंड सुरक्षित संचार टर्मिनल अब आयातित विकल्पों पर निर्भर होने के बजाय भारतीय निर्मित पैकेजिंग समाधान तक पहुंच रखता है।",
+      "en": "For India's defence electronics ecosystem, the 40 GHz milestone provides substantial operational credibility that domestic semiconductor packaging capacity exists at frequencies where the most consequential contemporary defence systems progressively operate. Every AESA radar transmit-receive module, every EW system's high-frequency receiver front-end, every Ka-band or V-band secure communications terminal now has access to an Indian-manufactured packaging solution rather than being dependent on imported alternatives.",
+      "ur": "ہندوستان کے دفاعی الیکٹرانکس ماحولیاتی نظام کے لیے، 40 گیگا ہرٹز کا سنگ میل کافی آپریشنل ساکھ فراہم کرتا ہے کہ گھریلو سیمی کنڈکٹر پیکیجنگ کی صلاحیت تعدد پر موجود ہے جہاں سب سے زیادہ نتیجہ خیز عصری دفاعی نظام بتدریج کام کرتے ہیں۔ ہر اے ای ایس اے ریڈار ٹرانسمیٹ-ریسیو ماڈیول، ہر ای ڈبلیو سسٹم کا ہائی فریکوئنسی رسیور فرنٹ اینڈ، ہر کے اے بینڈ یا وی بینڈ محفوظ مواصلاتی ٹرمینل کو اب درآمد شدہ متبادلات پر انحصار کرنے کے بجائے ہندوستانی ساختہ پیکیجنگ حل تک رسائی حاصل ہے۔"
+    },
+    "b26": {
+      "hi": "भारत के आत्मनिर्भर भारत ढांचे के लिए, यह उपलब्धि विनिर्माण आत्मनिर्भरता प्रक्षेपवक्र में तेजी लाने के लिए सबसे परिणामी एकल आयामों में से एक को जोड़ती है। छठी सकारात्मक स्वदेशीकरण सूची (भारत संवाद के 18 अगस्त के पृष्ठ 1 कवरेज में प्रलेखित) के साथ-साथ, भारत-जापान समुद्री सुरक्षा सहयोग एम. ओ. ए. (21 अगस्त पृष्ठ 1), भारत-आर्मेनिया रक्षा अनुसंधान और विकास समझौता ज्ञापन (20 अगस्त पृष्ठ 1), और व्यापक रक्षा-औद्योगिक चाप, अर्धचालक पैकेजिंग अब उत्तरोत्तर उन स्थानों की सूची में शामिल हो जाता है जहां भारत आयात-निर्भरता से पर्याप्त घरेलू क्षमता तक पहुंच गया है।",
+      "en": "For India's Aatmanirbhar Bharat framework, the achievement adds one of the substantially most consequential single dimensions to the accelerating manufacturing self-reliance trajectory. Alongside the Sixth Positive Indigenisation List (documented in Bharat Samvad's 18 August Page 1 coverage), the India-Japan Maritime Security Cooperation MoA (21 August Page 1), the India-Armenia Defence R&D MoU (20 August Page 1), and the wider defence-industrial arc, semiconductor packaging now progressively joins the roster of niches where India has crossed from import-dependency to substantial domestic capability.",
+      "ur": "ہندوستان کے آتم نربھر بھارت فریم ورک کے لیے، یہ کامیابی مینوفیکچرنگ میں تیزی لانے والے خود انحصاری کے راستے میں کافی حد تک سب سے زیادہ نتیجہ خیز واحد جہتوں میں سے ایک کا اضافہ کرتی ہے۔ چھٹی مثبت مقامی فہرست (بھارت سمواد کے 18 اگست کے صفحہ 1 کوریج میں دستاویزی) کے ساتھ ساتھ، ہندوستان-جاپان میری ٹائم سیکیورٹی کوآپریشن ایم او اے (21 اگست صفحہ 1)، ہندوستان-ارمینیہ دفاعی آر اینڈ ڈی ایم او یو (20 اگست صفحہ 1)، اور وسیع تر دفاعی صنعتی آرک، سیمی کنڈکٹر پیکیجنگ اب بتدریج ان طاقوں کی فہرست میں شامل ہو جاتی ہے جہاں ہندوستان درآمد پر انحصار سے کافی گھریلو صلاحیت کو عبور کر چکا ہے۔"
+    },
+    "b27": {
+      "hi": "भारत की रणनीतिक स्वायत्तता के लिए, आयातित आर. एफ. पैकेजिंग पर निर्भरता में भारी कमी, सबसे अधिक परिणामी एकल कमजोरियों में से एक है जिसे बंद किया जा रहा है। एक समकालीन सुरक्षा वातावरण में जहां अर्धचालक आपूर्ति श्रृंखलाओं को निर्यात नियंत्रण और प्रौद्योगिकी-हस्तांतरण प्रतिबंधों के माध्यम से उत्तरोत्तर हथियार बनाया गया है, हर घरेलू क्षमता का निर्माण बाहरी लाभ का एक बिंदु है जिसे हटा दिया गया है।",
+      "en": "For India's strategic autonomy, the substantive reduction in dependency on imported RF packaging represents one of the substantially most consequential single vulnerabilities being closed. In a contemporary security environment where semiconductor supply chains have been progressively weaponised through export controls and technology-transfer restrictions, every domestic capability built is one point of external leverage removed.",
+      "ur": "ہندوستان کی اسٹریٹجک خود مختاری کے لیے، درآمد شدہ آر ایف پیکیجنگ پر انحصار میں خاطر خواہ کمی، بند کیے جانے والے سب سے زیادہ نتیجے میں واحد خطرات میں سے ایک کی نمائندگی کرتی ہے۔ ایک عصری حفاظتی ماحول میں جہاں سیمی کنڈکٹر سپلائی چین کو برآمدی کنٹرول اور ٹیکنالوجی کی منتقلی کی پابندیوں کے ذریعے بتدریج ہتھیار بنایا گیا ہے، ہر گھریلو صلاحیت کو بیرونی فائدہ اٹھانے کا ایک نقطہ ہٹا دیا گیا ہے۔"
+    },
+    "b28": {
+      "hi": "भारत के अर्धचालक मिशन के लिए, 1 सितंबर की उपलब्धि इस बात का पर्याप्त प्रारंभिक प्रमाण प्रदान करती है कि 76,000 करोड़ रुपये का आई. एस. एम. परिव्यय और सेमीकॉन 2. ढांचा उत्तरोत्तर अपेक्षित तकनीकी परिणाम उत्पन्न कर रहे हैं। 40 गीगाहर्ट्ज़ आर. एफ. क्यू. एफ. एन. पैकेज एक प्रयोगशाला प्रदर्शन नहीं है। यह एक उत्पादन-प्रेषण उत्पाद है, जो पूरी तरह से भारत में निर्मित और निर्मित है, जिसे वास्तविक रक्षा और सुरक्षित-संचार ग्राहकों के लिए तैनात किया गया है।",
+      "en": "For India's semiconductor mission, the 1 September achievement provides substantial early evidence that the ₹76,000 crore ISM outlay and the Semicon 2.0 framework are progressively producing the intended technological outcomes. The 40 GHz RF QFN package is not a laboratory demonstration. It is a production-shipping product, engineered and manufactured entirely in India, deployed for real defence and secure-communications customers.",
+      "ur": "ہندوستان کے سیمی کنڈکٹر مشن کے لیے، یکم ستمبر کی کامیابی کافی ابتدائی ثبوت فراہم کرتی ہے کہ 76, 000 کروڑ روپے کا آئی ایس ایم خرچ اور سیمیکون 2 فریم ورک بتدریج مطلوبہ تکنیکی نتائج پیدا کر رہے ہیں۔ 40 گیگا ہرٹز آر ایف کیو ایف این پیکیج لیبارٹری کا مظاہرہ نہیں ہے۔ یہ ایک پروڈکشن شپنگ پروڈکٹ ہے، جو مکمل طور پر ہندوستان میں تیار کیا گیا ہے، جو حقیقی دفاعی اور محفوظ مواصلات کے صارفین کے لیے تعینات ہے۔"
+    },
+    "b29": {
+      "hi": "भारत के निजी क्षेत्र के अर्धचालक पारिस्थितिकी तंत्र के लिए, इजमाइक्रो का प्रक्षेपवक्र-लगभग छह महीनों में रक्षा क्षेत्र में प्रवेश के माध्यम से प्रौद्योगिकी विकास से लेकर उत्पादन शिपमेंट तक-इस बात का एक महत्वपूर्ण नमूना प्रदान करता है कि कैसे भारतीय कंपनियां प्रगतिशील क्षमता का निर्माण कर सकती हैं, रक्षा ग्राहक प्रतिबद्धताओं को सुरक्षित कर सकती हैं और उचित संस्थागत समय सीमा के भीतर परिचालन उत्पादन को बढ़ा सकती हैं।",
+      "en": "For India's private sector semiconductor ecosystem, izmomicro's trajectory — from technology development through defence-sector entry to production shipment in approximately six months — provides a substantial template for how Indian firms can build progressive capability, secure defence customer commitments, and scale operational output within reasonable institutional timeframes.",
+      "ur": "ہندوستان کے نجی شعبے کے سیمی کنڈکٹر ماحولیاتی نظام کے لیے، ازمو مائیکرو کا راستہ-تقریبا چھ ماہ میں دفاعی شعبے میں داخلے کے ذریعے ٹیکنالوجی کی ترقی سے لے کر پیداوار کی کھیپ تک-ایک کافی نمونہ فراہم کرتا ہے کہ ہندوستانی کمپنیاں کس طرح ترقی پسند صلاحیت پیدا کر سکتی ہیں، دفاعی صارفین کے وعدوں کو محفوظ بنا سکتی ہیں، اور مناسب ادارہ جاتی ٹائم فریم کے اندر آپریشنل آؤٹ پٹ کو بڑھا سکتی ہیں۔"
+    },
+    "b30": {
+      "hi": "अभी के लिए, 2 सितंबर 2026 की सुबह जो संस्थागत रिकॉर्ड पर खड़ा है वह यह हैः भारत के पहले स्वदेशी 40 गीगाहर्ट्ज़ आर. एफ. क्यू. एफ. एन. अर्धचालक पैकेज को व्हाइटफील्ड, बेंगलुरु में एक क्लास 1000 क्लीनरूम से डिजाइन, विकसित, निर्मित, मान्य और भेज दिया गया है; एक भारतीय रक्षा ग्राहक के लिए उच्च आवृत्ति वाले आर. एफ. मॉड्यूल विकसित करने के लिए उत्पादन शिपमेंट शुरू हो गया है; रडार, इलेक्ट्रॉनिक युद्ध, सुरक्षित सैन्य संचार, एयरोस्पेस, उपग्रह संचार और उन्नत वायरलेस सिस्टम में फैले अनुप्रयोग; भारत की अर्धचालक पैकेजिंग क्षमता उत्तरोत्तर समकालीन इलेक्ट्रॉनिक्स में सबसे अधिक मांग वाले स्थानों में से एक में विकसित हो गई है; 76,000 करोड़ रुपये के भारत अर्धचालक मिशन और सेमीकॉन 2. फ्रेमवर्क ने अपने सबसे परिणामी एकल प्रारंभिक परिचालन मान्यताओं में से एक का उत्पादन किया है; और 2020 के बाद के भारत में सबसे महत्वपूर्ण एकल परिणामी मील के पत्थर में से एक, अर्धचालक के चरण में चुपचाप प्रवेश किया है, और भारत में आयातित अर्धचालक की संप्रभुता को सफलतापूर्वक वितरित किया है।",
+      "en": "For now, on the morning of 2 September 2026, what stands on the institutional record is this: India's first indigenous 40 GHz RF QFN semiconductor package has been designed, developed, manufactured, validated, and shipped from a Class 1000 cleanroom in Whitefield, Bengaluru; production shipments have commenced to an Indian defence customer developing high-frequency RF modules; applications span radar, electronic warfare, secure military communications, aerospace, satellite communications, and advanced wireless systems; India's semiconductor packaging capability has progressively advanced into one of the substantially most demanding niches in contemporary electronics; the ₹76,000 crore India Semiconductor Mission and Semicon 2.0 framework have produced one of their substantially most consequential single early operational validations; and one of the substantially most consequential single milestones in India's post-2020 semiconductor manufacturing trajectory has been quietly, decisively, and operationally delivered. From imported dependence to domestic delivery — India's semiconductor sovereignty has entered its most substantial phase.",
+      "ur": "ابھی کے لیے، 2 ستمبر 2026 کی صبح جو ادارہ جاتی ریکارڈ پر کھڑا ہے وہ یہ ہے: ہندوستان کا پہلا مقامی 40 گیگا ہرٹز آر ایف کیو ایف این سیمی کنڈکٹر پیکیج وائٹ فیلڈ، بنگلورو میں کلاس 1000 کلین روم سے ڈیزائن، تیار، تیار، توثیق اور بھیج دیا گیا ہے۔ ایک ہندوستانی دفاعی گاہک کے لیے اعلی تعدد آر ایف ماڈیولز تیار کرنے کے لیے پروڈکشن شپمنٹ شروع ہو گئی ہے۔ ایپلی کیشنز ریڈار، الیکٹرانک وارفیئر، محفوظ فوجی مواصلات، ایرو اسپیس، سیٹلائٹ مواصلات، اور جدید وائرلیس سسٹم پر محیط ہیں۔ ہندوستان کی سیمی کنڈکٹر پیکیجنگ صلاحیت عصری الیکٹرانکس میں کافی حد تک سب سے زیادہ مطالبہ کرنے والے مقامات میں سے ایک میں بتدریج ترقی کر چکی ہے۔ 76, 000 کروڑ روپے کے انڈیا سیمی کنڈکٹر مشن اور سیمیکون 2 فریم ورک نے ان کی کافی حد تک سب سے زیادہ نتیجہ خیز واحد ابتدائی آپریشنل توثیقوں میں سے ایک پیدا کیا ہے۔ اور 2020 کے بعد کے ہندوستان میں سب سے زیادہ نتیجہ خیز واحد سنگ میل میں سے ایک، سیمی کنڈکٹر مینوفیکچرنگ کے مرحلے میں خاموشی سے داخل ہو گیا ہے، اور ہندوستان میں سیمی کنڈکٹر کی ترسیل کی خودمختاری"
+    }
+  }
+}
