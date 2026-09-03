@@ -1,0 +1,795 @@
+{
+  "hash": "9b3c03f0f77a989b",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"स्वच्छ ऊर्जा · बिजली मिश्रण · सी. ई. ए. पर्याप्तता योजना · आत्मनिर्भर भारत\"",
+      "en": "\"Clean Energy · Power Mix · CEA Adequacy Plan · Aatmanirbhar Bharat\"",
+      "ur": "\"صاف توانائی · پاور مکس · سی ای اے مناسب منصوبہ · آتم نربھر بھارت\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"कोयला 40.8%, सौर 29.5%: भारत का बिजली मिश्रण और 2035-36 की राह\"",
+      "en": "\"Coal 40.8%, solar 29.5%: India's power mix and the road to 2035-36\"",
+      "ur": "کوئلہ 40.8%، شمسی 29.5%: ہندوستان کا پاور مکس اور 2035-36 کی راہ"
+    },
+    "fm.subdeck": {
+      "hi": "31 जुलाई 2026 तक भारत की 552 गीगावाट स्थापित बिजली क्षमता में कोयले का योगदान 40.8 प्रतिशत, सौर का 29.5 प्रतिशत, पवन का 10.5 प्रतिशत, पनबिजली का 9.5 प्रतिशत और परमाणु का 1.6 प्रतिशत है-जिसमें गैस, लिग्नाइट, बायोमास, छोटी पनबिजली, अपशिष्ट से ऊर्जा और डीजल शेष हैं। गैर-जीवाश्म स्रोत अब स्थापित क्षमता का 54 प्रतिशत से अधिक हैं, भारत संवाद के 19 अगस्त के ऐतिहासिक क्रॉसओवर पृष्ठ 1 को विस्तार से प्रलेखित किया गया है। केंद्रीय विद्युत प्राधिकरण की राष्ट्रीय उत्पादन पर्याप्तता योजना ने अनुमान लगाया है कि संरचना स्वयं वित्त वर्ष 2020-21 के इतिहास में सबसे अधिक सौर आईडी-1.52: सौर से 509 गीगावाट (45 प्रतिशत) तक बदल जाएगी।",
+      "en": "\"As of 31 July 2026, coal accounts for 40.8 per cent of India's 552 GW installed power capacity, solar for 29.5 per cent, wind for 10.5 per cent, hydro for 9.5 per cent, and nuclear for 1.6 per cent — with gas, lignite, biomass, small hydro, waste-to-energy and diesel making up the remainder. Non-fossil sources now account for over 54 per cent of installed capacity, the historic crossover Bharat Samvad's 19 August Page 1 documented in detail. The Central Electricity Authority's National Generation Adequacy Plan projects the composition itself will invert by FY2035-36: solar to 509 GW (45 per cent share) overtaking coal (315 GW, 28 per cent), backed by 174 GW / 888 GWh of energy storage capacity and 155 GW currently under construction. FY2025-26 recorded 34.95 GW of new solar — the highest single-year addition in Indian history.\"",
+      "ur": "31 جولائی 2026 تک، ہندوستان کی 552 گیگا واٹ نصب شدہ بجلی کی صلاحیت میں کوئلے کا حصہ 40. 8 فیصد، شمسی توانائی کا حصہ 29. 5 فیصد، ہوا کا حصہ 10. 5 فیصد، پن بجلی کا حصہ 9. 5 فیصد، اور جوہری توانائی کا حصہ 1. 6 فیصد ہے-جس میں گیس، لگنائٹ، بائیو ماس، چھوٹے پن بجلی، فضلہ سے توانائی اور ڈیزل باقی ہیں۔ غیر جیواشم ذرائع اب نصب شدہ صلاحیت کا 54 فیصد سے زیادہ ہیں، تاریخی کراس اوور بھارت سمواد کا 19 اگست صفحہ 1 تفصیل سے دستاویزی ہے۔ مرکزی بجلی اتھارٹی کے قومی پیداواری کافی منصوبے کے منصوبوں کے مطابق تشکیل خود مالی سال کے دوسرے سال کے حساب سے الٹ جائے گی: شمسی توانائی 509 گیگا واٹ (45 فیصد حصہ) کوئلے (325 گیگا واٹ، 28 فیصد) کو پیچھے چھوڑ دے گی، جس کی حمایت 174/888 گیگا واٹ توانائی کی صلاحیت اور فی الحال ریکارڈ کردہ واحد جی ڈبلیو 155"
+    },
+    "b0": {
+      "hi": "भारत की बिजली उत्पादन संरचना, जो 3 सितंबर 2026 की सुबह है, देश की स्वतंत्रता के बाद की सबसे परिणामी संरचनात्मक कहानियों में से एक है। कोयला-वह ईंधन जिसने पूरी बीसवीं शताब्दी के लिए भारत की बिजली प्रणाली को लंगर डाला-अब कुल 552 गीगावाट स्थापित क्षमता का 40.8 प्रतिशत है। सौर, जो 2014 में सिर्फ 2.8 गीगावाट था, बढ़कर 29.5 प्रतिशत हो गया है। पवन का योगदान 10.5 प्रतिशत है। जलविद्युत-बड़े पनबिजली और पंप किए गए भंडारण का संयोजन-9.5 प्रतिशत है। परमाणु 1 प्रतिशत पर है। गैस, लिग्नाइट, बायोमास, छोटे पनबिजली, छोटे अपशिष्ट से ऊर्जा और डीजल एक साथ शेष भाग बनाते हैं। गैर-जीवाश्म स्रोत-सौर, पवन, पनबिजली, परमाणु, जैव और छोटी पनबिजली-अब भारत के ऐतिहासिक विवरण में 54 प्रतिशत से अधिक स्थापित जल क्षमता के लिए संयुक्त खाते हैं।",
+      "en": "The composition of India's power generation architecture, as it stands on the morning of 3 September 2026, tells one of the most consequential structural stories of the country's post-Independence trajectory. Coal — the fuel that anchored India's electricity system for the entire twentieth century — now accounts for 40.8 per cent of the 552 GW total installed capacity. Solar, which stood at just 2.8 GW in 2014, has climbed to 29.5 per cent. Wind contributes 10.5 per cent. Hydropower — combining large hydro and pumped storage — accounts for 9.5 per cent. Nuclear stands at 1.6 per cent. Gas, lignite, biomass, small hydro, waste-to-energy and diesel together make up the remainder. Non-fossil sources — solar, wind, hydro, nuclear, biomass and small hydro combined — now account for over 54 per cent of installed capacity, the historic crossover Bharat Samvad's 19 August Page 1 coverage documented in detail.",
+      "ur": "ہندوستان کے بجلی پیدا کرنے کے فن تعمیر کی ساخت، جیسا کہ یہ 3 ستمبر 2026 کی صبح کو ہے، ملک کی آزادی کے بعد کی سب سے زیادہ نتیجہ خیز ساختی کہانیوں میں سے ایک بتاتی ہے۔ کوئلہ-وہ ایندھن جس نے پوری بیسویں صدی کے لیے ہندوستان کے بجلی کے نظام کو لنگر انداز کیا-اب 552 گیگا واٹ کی کل نصب شدہ صلاحیت کا 40. 8 فیصد ہے۔ شمسی، جو 2014 میں صرف 2.8 گیگا واٹ پر کھڑا تھا، بڑھ کر 29. 5 فیصد ہو گیا ہے۔ ہوا کا حصہ 10. 5 فیصد ہے۔ ہائیڈرو پاور-بڑے ہائیڈرو اور پمپڈ اسٹوریج کو یکجا کرنا-9. 5 فیصد کا حصہ ہے۔ جوہری 1. 6 فیصد پر کھڑا ہے۔ گیس، لگنائٹ، بائیو ماس، چھوٹے ہائیڈرو، ہائیڈرو، نیوکلیئر، بائیو ماس اور ڈیزل مل کر بقیہ بناتے ہیں۔ غیر جیواشم ذرائع-شمسی، ہوا، ہائیڈرو، نیوکلیئر، بائیو ماس اور چھوٹے ہائیڈرو کی مشترکہ صلاحیت کے لیے اب 54 فیصد، بھارت کے کراس اوور پیج 19 اگست کو دستاویزی تفصیل سے درج ہے۔"
+    },
+    "b1": {
+      "hi": "यह लेख 19 अगस्त के कवरेज में जो कुछ नहीं हो सका, उसे दर्शाता हैः उस 54 प्रतिशत हिस्से की आंतरिक संरचना और आने वाले दशक में भारत के बिजली मिश्रण को एक स्पष्ट परिवर्तन बिंदु पर रखने वाले दूरदर्शी अनुमान। इस साल की शुरुआत में जारी केंद्रीय विद्युत प्राधिकरण (सी. ई. ए.) की राष्ट्रीय उत्पादन पर्याप्तता योजना के अनुसार, संरचना स्वयं वित्त वर्ष के अंत तक बदल जाएगी। सौर क्षमता के वित्त वर्ष की शुरुआत में 141 जी. डब्ल्यू. से बढ़कर 509 जी. डब्ल्यू. होने का अनुमान है-कोयले (अनुमानित 310 जी. डब्ल्यू.) से पहले भारत की स्थापित उत्पादन क्षमता का सबसे बड़ा स्रोत बनना। हवा के 155 जी. डब्ल्यू. तक पहुंचने का अनुमान है। बड़ी पनबिजली से लेकर 78 जी. डब्ल्यू. तक परमाणु ऊर्जा। 10047 जी. डब्ल्यू.-20 के तहत 22 जी. डब्ल्यू. तक परमाणु ऊर्जा-भागीदार जिसे चालू करने के लिए पी. एस. एस. एस. की आवश्यकता है, जिसमें 884 जी. डब्ल्यू./जी. डब्ल्यू. एस. एस. एस. शामिल है, जिसमें 884 जी. डब्ल्यू. एस. एस. एस. एस. एस. एस. एस. एस. एस. एस. एस. एस. एस. एस. एस. एस.",
+      "en": "This piece captures what the 19 August coverage could not: the internal composition of that 54 per cent share, and the forward-looking projection that positions India's power mix at a categorical inflection point over the coming decade. The Central Electricity Authority's (CEA) National Generation Adequacy Plan for 2026-27 to 2035-36, released earlier this year, projects the composition itself will invert by the end of FY2035-36. Solar capacity is projected to expand from 141 GW at the start of FY2025-26 to 509 GW by end-FY2035-36 — becoming India's single largest source of installed generation capacity, ahead of coal (projected 315 GW). Wind is projected to reach 155 GW. Large hydro to 78 GW. Nuclear to 22 GW under the 100 GW-by-2047 trajectory. Energy storage — the operational partner that renewable generation requires to deliver reliable dispatchable power — is projected to reach 174 GW / 888 GWh, comprising 80 GW / 321 GWh of battery energy storage systems (BESS) and 94 GW / 567 GWh of pumped storage plants (PSPs).",
+      "ur": "اس ٹکڑے میں وہ بات بیان کی گئی ہے جو 19 اگست کو کوریج میں نہیں ہو سکی: اس 54 فیصد حصے کی اندرونی ساخت، اور آنے والی دہائی میں ہندوستان کے پاور مکس کو ایک واضح موڑ پر رکھنے والا مستقبل کا تخمینہ۔ اس سال کے شروع میں جاری کردہ سنٹرل الیکٹرسٹی اتھارٹی (سی ای اے) کا نیشنل جنریشن اڈیکیسی پلان، مالی سال کے آخر تک خود ساخت کو الٹ دے گا۔ مالی سال کے شروع میں شمسی صلاحیت 141 جی ڈبلیو سے بڑھ کر 509 جی ڈبلیو تک پہنچنے کا امکان ہے۔ کوئلے (متوقع) سے پہلے، یہ ہندوستان کا واحد سب سے بڑا نصب شدہ پیداواری صلاحیت کا ذریعہ بن گیا۔ ہوا 155 جی ڈبلیو تک پہنچنے کا امکان ہے۔ 10047 جی ڈبلیو سے 20 کے تحت بڑا ہائیڈرو۔ جوہری سے 22 جی ڈبلیو تک۔ توانائی کے پارٹنر کو آپریشنل توانائی کی پیداوار کے لیے پی ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس ایس"
+    },
+    "b2": {
+      "hi": "रचना, अनपैक्ड",
+      "en": "The composition, unpacked",
+      "ur": "کمپوزیشن، غیر پیک شدہ"
+    },
+    "b3": {
+      "hi": "भारत का 552 गीगावाट स्थापित आधार एक मात्र मात्रा नहीं है, बल्कि काफी अलग-अलग पीढ़ी की प्रौद्योगिकियों की संरचना है, जिनमें से प्रत्येक में अलग-अलग परिचालन विशेषताएँ, प्रेषण प्रोफाइल और आगे की प्रक्षेपवक्र हैं। संरचना को समझना महत्वपूर्ण है क्योंकि स्रोतों के परिचालन व्यवहार स्पष्ट रूप से भिन्न होते हैं।",
+      "en": "India's 552 GW installed base is not a single quantity but a composition of substantially different generation technologies, each with distinct operational characteristics, dispatch profiles, and forward trajectories. Understanding the composition matters because the sources' operational behaviours differ categorically.",
+      "ur": "ہندوستان کا 552 جی ڈبلیو نصب شدہ بیس ایک واحد مقدار نہیں ہے بلکہ کافی حد تک مختلف نسل کی ٹیکنالوجیز کی ایک ساخت ہے، ہر ایک میں الگ آپریشنل خصوصیات، ڈسپیچ پروفائلز اور فارورڈ ٹریجیکٹوریز ہیں۔ ساخت کو سمجھنا اہمیت رکھتا ہے کیونکہ ذرائع کے آپریشنل طرز عمل واضح طور پر مختلف ہوتے ہیں۔"
+    },
+    "b4": {
+      "hi": "कोयला (40.8 प्रतिशत, ~ 225 गीगावाट). कोयले से चलने वाली तापीय ऊर्जा भारत का बेसलोड वर्कहॉर्स बनी हुई है। इसकी स्थापित क्षमता का 40.8 प्रतिशत हिस्सा वास्तविक उत्पादन का काफी अधिक हिस्सा है-लगभग 70-75 प्रतिशत-क्योंकि कोयला संयंत्र लगातार उच्च क्षमता कारकों पर चलते हैं जबकि अक्षय उत्पादन रुक-रुक कर होता है। स्थापित क्षमता हिस्सेदारी और वास्तविक उत्पादन हिस्सेदारी के बीच का यह अंतर भारत के स्वच्छ-ऊर्जा संक्रमण अंकगणित के लिए महत्वपूर्ण ईमानदार चेतावनियों में से एक है। यह उत्तरोत्तर अक्षय क्षमता के विस्तार और ऊर्जा भंडारण के परिपक्व होने के साथ बंद हो जाएगा, लेकिन अभी के लिए कोयला भारत की परिचालन बेसलोड रीढ़ बना हुआ है।",
+      "en": "Coal (40.8 per cent, ~225 GW). Coal-fired thermal power remains India's baseload workhorse. Its 40.8 per cent share of installed capacity translates to a substantially higher share of actual generation — approximately 70-75 per cent — because coal plants run continuously at high capacity factors while renewable generation is intermittent. This gap between installed capacity share and actual generation share is one of the important honest caveats to India's clean-energy transition arithmetic. It will progressively close as renewable capacity expands and energy storage matures, but for now coal remains India's operational baseload backbone.",
+      "ur": "کوئلہ (40. 8 فیصد، ~ 225 جی ڈبلیو)۔ کوئلے سے چلنے والی تھرمل پاور ہندوستان کا بیس لوڈ ورک ہارس بنی ہوئی ہے۔ اس کا نصب شدہ صلاحیت کا 40. 8 فیصد حصہ اصل پیداوار کا کافی زیادہ حصہ ہے-تقریبا <70-75 فیصد-کیونکہ کوئلے کے پلانٹ مسلسل اعلی صلاحیت کے عوامل پر چلتے ہیں جبکہ قابل تجدید پیداوار وقفے وقفے سے ہوتی ہے۔ نصب شدہ صلاحیت کے حصے اور اصل پیداوار کے حصے کے درمیان یہ فرق ہندوستان کے صاف توانائی کی منتقلی کے ریاضی کے لیے ایک اہم ایماندارانہ انتباہ ہے۔ یہ قابل تجدید صلاحیت میں توسیع اور توانائی کے ذخیرے کی پختگی کے ساتھ بتدریج قریب ہوگا، لیکن اب تک کوئلہ ہندوستان کی آپریشنل بیس لوڈ ریڑھ کی ہڈی بنی ہوئی ہے۔"
+    },
+    "b5": {
+      "hi": "सौर (29.5 प्रतिशत, 164.59 GW). सौर भारत की सबसे बड़ी नवीकरणीय प्रौद्योगिकी बन गई है, और इसकी स्थापित क्षमता का 29.5 प्रतिशत हिस्सा-2014 में 1 प्रतिशत से कम-भारत के स्वतंत्रता के बाद के बुनियादी ढांचे के इतिहास में सबसे परिणामी एकल-प्रौद्योगिकी विस्तारों में से एक है। सौर की क्षमता कारक (स्थान के आधार पर लगभग 18-22 प्रतिशत) का मतलब है कि इसका वास्तविक उत्पादन योगदान इसके स्थापित हिस्से की तुलना में आनुपातिक रूप से कम है, लेकिन क्षमता निर्माण में तेजी जारी है। भारत ने वित्त वर्ष में 2025-26 सौर का 34.95 GW जोड़ा-जो भारतीय इतिहास में सबसे अधिक एकल-वर्ष का जोड़ है-और 2025 में दुनिया का दूसरा सबसे बड़ा सौर विकास बाजार बन गया, जिसमें संयुक्त राज्य अमेरिका द्वारा जोड़े गए 34 GW की तुलना में 37 GW जोड़ा गया।",
+      "en": "Solar (29.5 per cent, 164.59 GW). Solar has become India's single largest renewable technology, and its 29.5 per cent share of installed capacity — up from under 1 per cent in 2014 — represents one of the most consequential single-technology expansions in India's post-Independence infrastructure history. Solar's capacity factor (approximately 18-22 per cent depending on location) means its actual generation contribution is proportionally smaller than its installed share, but the capacity build-out itself continues to accelerate. India added 34.95 GW of solar in FY2025-26 — the highest single-year addition in Indian history — and became the world's second-largest solar growth market in 2025, adding 37 GW compared with 34 GW added by the United States.",
+      "ur": "شمسی توانائی (29. 5 فیصد، 164.59 GW)۔ شمسی توانائی ہندوستان کی واحد سب سے بڑی قابل تجدید ٹیکنالوجی بن گئی ہے، اور اس کی نصب شدہ صلاحیت کا 29. 5 فیصد حصہ-جو 2014 میں 1 فیصد سے کم تھا-ہندوستان کی آزادی کے بعد کے بنیادی ڈھانچے کی تاریخ میں سب سے زیادہ نتیجہ خیز واحد ٹیکنالوجی کی توسیع کی نمائندگی کرتا ہے۔ شمسی توانائی کی صلاحیت کا عنصر (مقام کے لحاظ سے تقریبا 18-22 فیصد) کا مطلب ہے کہ اس کی اصل پیداوار کا حصہ اس کے نصب کردہ حصے سے متناسب طور پر کم ہے، لیکن صلاحیت کی تعمیر میں خود ہی تیزی آتی رہتی ہے۔ ہندوستان نے مالی سال 2025-26 میں شمسی توانائی کا 34.95 GW شامل کیا-جو کہ ہندوستانی تاریخ میں سب سے زیادہ ایک سالہ اضافہ ہے-اور 2025 میں دنیا کی دوسری سب سے بڑی شمسی ترقی کی مارکیٹ بن گئی، جس میں امریکہ کی طرف سے 34 GW کا اضافہ کیا گیا۔"
+    },
+    "b6": {
+      "hi": "पवन (10.5 प्रतिशत, 58.14 GW). पवन 2014 में 21 गीगावाट से 2026 में 58.14 GW तक फैल गया है-एक 2.8x विस्तार, जो सौर के 59x प्रक्षेपवक्र की तुलना में अधिक मापा गया है, लेकिन फिर भी सबसे परिणामी नवीकरणीय क्षेत्रों में से एक है। पवन की क्षमता कारक (आमतौर पर उच्च गुणवत्ता वाले भारतीय पवन क्षेत्रों में 25-30 प्रतिशत) सौर की तुलना में अधिक है, जो इसे आनुपातिक रूप से प्रति गीगावाट स्थापित क्षमता में बड़ी उत्पादन योगदान देता है।",
+      "en": "Wind (10.5 per cent, 58.14 GW). Wind has expanded from 21 GW in 2014 to 58.14 GW in 2026 — a 2.8x expansion, more measured than solar's 59x trajectory but nonetheless one of the most consequential renewable segments. Wind's capacity factor (typically 25-30 per cent in high-quality Indian wind zones) is higher than solar's, giving it proportionally larger generation contribution per gigawatt of installed capacity.",
+      "ur": "ہوا (10. 5 فیصد، 58.14 GW)۔ ہوا 2014 میں 21 GW سے بڑھ کر 2026 میں 58.14 GW ہو گئی ہے-ایک 2.8x توسیع، جو شمسی توانائی کے 59x راستے سے زیادہ ناپی گئی ہے لیکن اس کے باوجود سب سے زیادہ قابل تجدید حصوں میں سے ایک ہے۔ ہوا کی صلاحیت کا عنصر (عام طور پر اعلی معیار کے ہندوستانی ونڈ زونوں میں 25-30 فیصد) شمسی توانائی سے زیادہ ہے، جس سے اس کی پیداواری صلاحیت کا تناسب فی گیگا واٹ زیادہ ہے۔"
+    },
+    "b7": {
+      "hi": "पनबिजली (9.5 प्रतिशत, ~ 57 गीगावाट). संयुक्त बड़े पनबिजली और पम्प्ड भंडारण संयंत्र की क्षमता महत्वपूर्ण प्रेषण योग्य नवीकरणीय क्षेत्रों में से एक प्रदान करती है-रुक-रुक कर सौर और पवन के पूरक के लिए मिनटों में पनबिजली को चालू और बंद किया जा सकता है, यही कारण है कि वित्त वर्ष 2035-36 मिश्रण में 94 गीगावाट पम्प्ड भंडारण संयंत्रों का अनुमान लगाया गया है। छोटे पनबिजली (25 मेगावाट क्षमता से कम) व्यापक नवीकरणीय श्रेणी के भीतर गिने जाते हैं।",
+      "en": "Hydro (9.5 per cent, ~57 GW). Combined large hydro and pumped storage plant capacity provides one of the important dispatchable renewable segments — hydro can be turned on and off in minutes to complement intermittent solar and wind, which is why 94 GW of pumped storage plants is projected in the FY2035-36 mix. Small hydro (under 25 MW capacity) counts within the wider renewable category.",
+      "ur": "ہائیڈرو (9. 5 فیصد، ~ 57 گیگا واٹ)۔ مشترکہ بڑے ہائیڈرو اور پمپڈ اسٹوریج پلانٹ کی صلاحیت قابل ترسیل قابل تجدید حصوں میں سے ایک فراہم کرتی ہے-وقفے وقفے سے شمسی اور ہوا کی تکمیل کے لیے ہائیڈرو کو منٹوں میں آن اور آف کیا جا سکتا ہے، یہی وجہ ہے کہ مالی سال 2035-36 مکس میں 94 گیگا واٹ پمپڈ اسٹوریج پلانٹس کا تخمینہ لگایا گیا ہے۔ چھوٹے ہائیڈرو (25 میگاواٹ سے کم صلاحیت) وسیع تر قابل تجدید زمرے میں شمار ہوتے ہیں۔"
+    },
+    "b8": {
+      "hi": "परमाणु (1.68%, 2.78 GW). परमाणु उच्च क्षमता कारक पर कम कार्बन भार वाली बिजली प्रदान करता है (भारत का परमाणु बेड़ा वित्त वर्ष में 83% भार कारक पर संचालित होता है)। स्थापित क्षमता के संदर्भ में 1.66% हिस्सा कम है लेकिन 2.9% वास्तविक उत्पादन हिस्सा परमाणु की परिचालन विश्वसनीयता को दर्शाता है। केंद्रीय बजट में घोषित परमाणु ऊर्जा मिशन के तहत और भारत संवाद के 23 जुलाई के पृष्ठ 2 कवरेज में प्रलेखित, परमाणु क्षमता का उत्तरोत्तर 100 GW-1947 लक्ष्य की ओर विस्तार होने का अनुमान है।",
+      "en": "Nuclear (1.6 per cent, 8.78 GW). Nuclear provides low-carbon baseload power at high capacity factor (India's nuclear fleet operated at 83 per cent load factor in FY2024-25). The 1.6 per cent share is small in installed capacity terms but the 2.9 per cent actual generation share reflects nuclear's operational reliability. Under the Nuclear Energy Mission announced in the Union Budget 2025-26 and documented in Bharat Samvad's 23 July Page 2 coverage, nuclear capacity is projected to expand progressively toward the 100 GW-by-2047 target.",
+      "ur": "نیوکلیئر (1. 6 فیصد، 8. 78 جی ڈبلیو)۔ نیوکلیئر اعلی صلاحیت والے عنصر پر کم کاربن بیس لوڈ پاور فراہم کرتا ہے (ہندوستان کا نیوکلیئر بیڑا مالی سال میں 83 فیصد لوڈ فیکٹر پر چلتا ہے)۔ 1. 6 فیصد حصہ نصب شدہ صلاحیت کے لحاظ سے چھوٹا ہے لیکن 2. 9 فیصد اصل جنریشن شیئر نیوکلیئر کی آپریشنل وشوسنییتا کی عکاسی کرتا ہے۔ مرکزی بجٹ میں اعلان کردہ نیوکلیئر انرجی مشن کے تحت اور بھارت سمواد کے 23 جولائی کے صفحہ 2 کوریج میں دستاویزی شکل دی گئی ہے، نیوکلیئر صلاحیت کو 100 جی ڈبلیو تک 1947 کے ہدف کی طرف بتدریج بڑھانے کا امکان ہے۔"
+    },
+    "b9": {
+      "hi": "अन्य (~ 8 प्रतिशत). गैस (~ 3.8 प्रतिशत), लिग्नाइट (~ 1.2 प्रतिशत), बायोमास (~ 2 प्रतिशत), लघु पनबिजली (~ 1 प्रतिशत), अपशिष्ट से ऊर्जा (~ 0.20 प्रतिशत), और डीजल (~ 0.1 प्रतिशत) मिलकर शेष भाग बनाते हैं। गैस काफी हद तक स्वच्छ जीवाश्म प्रेषण योग्य स्रोत और उत्तरोत्तर रणनीतिक आयात-प्रतिस्थापन खंड के रूप में कार्य करती है (जैसा कि भारत संवाद के 20 अगस्त के नागालैंड राष्ट्रीय गैस ग्रिड कनेक्शन के पृष्ठ 2 कवरेज में प्रलेखित है)।",
+      "en": "Others (~8 per cent). Gas (~3.8 per cent), lignite (~1.2 per cent), biomass (~2 per cent), small hydro (~1 per cent), waste-to-energy (~0.2 per cent), and diesel (~0.1 per cent) together make up the remainder. Gas serves as a substantially cleaner fossil dispatchable source and progressively strategic import-substitution segment (as documented in Bharat Samvad's 20 August Page 2 coverage of the Nagaland National Gas Grid connection).",
+      "ur": "دیگر (~ 8 فیصد)۔ گیس (~ 3. 8 فیصد)، لگنائٹ (~ 1. 2 فیصد)، بائیو ماس (~ 2 فیصد)، چھوٹے پن بجلی (~ 1 فیصد)، فضلہ سے توانائی (~ 2. 0 فیصد)، اور ڈیزل (~ 0. 1 فیصد) مل کر بقیہ بناتے ہیں۔ گیس کافی حد تک صاف فوسل بھیجنے کے قابل ذریعہ اور بتدریج اسٹریٹجک درآمدی متبادل حصے کے طور پر کام کرتی ہے (جیسا کہ بھارت سمواد کے 20 اگست کے ناگالینڈ نیشنل گیس گرڈ کنکشن کے صفحہ 2 کوریج میں دستاویز کیا گیا ہے)۔"
+    },
+    "b10.title": {
+      "hi": "एक नजर में भारत का पावर मिक्स (31 जुलाई 2026)",
+      "en": "India's Power Mix at a Glance (31 July 2026)",
+      "ur": "ایک نظر میں ہندوستان کا پاور مکس (31 جولائی 2026)"
+    },
+    "b10.itemlbl.0": {
+      "hi": "कुल स्थापित क्षमता",
+      "en": "Total installed capacity",
+      "ur": "کل نصب شدہ صلاحیت"
+    },
+    "b10.itemval.0": {
+      "hi": "552 गीगावाट",
+      "en": "552 GW",
+      "ur": "552 گیگا واٹ"
+    },
+    "b10.itemlbl.1": {
+      "hi": "कोयला",
+      "en": "Coal",
+      "ur": "کوئلہ"
+    },
+    "b10.itemval.1": {
+      "hi": "40. 8 प्रतिशत (~ 225 गीगावाट)",
+      "en": "40.8 per cent (~225 GW)",
+      "ur": "40. 8 فیصد (~ 225 گیگا واٹ)"
+    },
+    "b10.itemlbl.2": {
+      "hi": "सौर ऊर्जा",
+      "en": "Solar",
+      "ur": "شمسی"
+    },
+    "b10.itemval.2": {
+      "hi": "29. 5 प्रतिशत (164.59 GW)",
+      "en": "29.5 per cent (164.59 GW)",
+      "ur": "29. 5 فیصد (164.59 GW)"
+    },
+    "b10.itemlbl.3": {
+      "hi": "हवा।",
+      "en": "Wind",
+      "ur": "ہوا۔"
+    },
+    "b10.itemval.3": {
+      "hi": "10. 5 प्रतिशत (58.14 GW)",
+      "en": "10.5 per cent (58.14 GW)",
+      "ur": "10. 5 فیصد (58.14 GW)"
+    },
+    "b10.itemlbl.4": {
+      "hi": "हाइड्रो (बड़ा + पी. एस. पी.)",
+      "en": "Hydro (large + PSP)",
+      "ur": "ہائیڈرو (بڑا + پی ایس پی)"
+    },
+    "b10.itemval.4": {
+      "hi": "9. 5 प्रतिशत (~ 57 गीगावाट)",
+      "en": "9.5 per cent (~57 GW)",
+      "ur": "9. 5 فیصد (~ 57 جی ڈبلیو)"
+    },
+    "b10.itemlbl.5": {
+      "hi": "परमाणु",
+      "en": "Nuclear",
+      "ur": "نیوکلیئر"
+    },
+    "b10.itemval.5": {
+      "hi": "1.6 प्रतिशत (8.78 गीगावाट)",
+      "en": "1.6 per cent (8.78 GW)",
+      "ur": "1. 6 فیصد (8. 78 جی ڈبلیو)"
+    },
+    "b10.itemlbl.6": {
+      "hi": "गैस",
+      "en": "Gas",
+      "ur": "گیس"
+    },
+    "b10.itemval.6": {
+      "hi": "~ 3.8 प्रतिशत (~ 21 गीगावाट)",
+      "en": "~3.8 per cent (~21 GW)",
+      "ur": "~ 3. 8 فیصد (~ 21 جی ڈبلیو)"
+    },
+    "b10.itemlbl.7": {
+      "hi": "लिग्नाइट",
+      "en": "Lignite",
+      "ur": "لگنائٹ"
+    },
+    "b10.itemval.7": {
+      "hi": "~ 1.2% (~ 6.6 गीगावॉट)",
+      "en": "~1.2 per cent (~6.6 GW)",
+      "ur": "1. 2 فیصد (6. 6 گیگا واٹ)"
+    },
+    "b10.itemlbl.8": {
+      "hi": "बायोमास",
+      "en": "Biomass",
+      "ur": "بائیو ماس"
+    },
+    "b10.itemval.8": {
+      "hi": "~ 2 प्रतिशत (~ 11 गीगावाट)",
+      "en": "~2 per cent (~11 GW)",
+      "ur": "~ 2 فیصد (~ 11 جی ڈبلیو)"
+    },
+    "b10.itemlbl.9": {
+      "hi": "छोटा पनबिजली",
+      "en": "Small hydro",
+      "ur": "چھوٹا ہائیڈرو"
+    },
+    "b10.itemval.9": {
+      "hi": "~ 1 प्रतिशत (~ 5.2 गीगावॉट)",
+      "en": "~1 per cent (~5.2 GW)",
+      "ur": "~ 1 فیصد (~ 5. 2 جی ڈبلیو)"
+    },
+    "b10.itemlbl.10": {
+      "hi": "अपशिष्ट से ऊर्जा",
+      "en": "Waste-to-energy",
+      "ur": "فضلہ سے توانائی"
+    },
+    "b10.itemval.10": {
+      "hi": "0. 2 प्रतिशत (0.9 गीगावाट)",
+      "en": "~0.2 per cent (~0.9 GW)",
+      "ur": "~ 0. 2 فیصد (~ 0. 1 جی ڈبلیو)"
+    },
+    "b10.itemlbl.11": {
+      "hi": "डीजल",
+      "en": "Diesel",
+      "ur": "ڈیزل"
+    },
+    "b10.itemval.11": {
+      "hi": "0. 1 प्रतिशत (0.6 गीगावॉट)",
+      "en": "~0.1 per cent (~0.6 GW)",
+      "ur": "~ 0. 1 فیصد (~ 0. 6 جی ڈبلیو)"
+    },
+    "b10.itemlbl.12": {
+      "hi": "गैर-जीवाश्म हिस्सेदारी",
+      "en": "Non-fossil share",
+      "ur": "غیر فوسل حصہ"
+    },
+    "b10.itemval.12": {
+      "hi": "54 प्रतिशत से अधिक",
+      "en": "Over 54 per cent",
+      "ur": "54 فیصد سے زیادہ"
+    },
+    "b10.itemlbl.13": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.14": {
+      "hi": "वित्त वर्ष 2025-26 क्षमता जोड़",
+      "en": "FY2025-26 CAPACITY ADDITIONS",
+      "ur": "مالی سال 2025-26 صلاحیت کے اضافے"
+    },
+    "b10.itemval.14": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.15": {
+      "hi": "कुल गैर-जीवाश्म जोड़ा गया",
+      "en": "Total non-fossil added",
+      "ur": "کل غیر فوسل شامل کیا گیا"
+    },
+    "b10.itemval.15": {
+      "hi": "55.29 GW (अब तक का सबसे अधिक वार्षिक)",
+      "en": "55.29 GW (highest annual ever)",
+      "ur": "55.29 GW (اب تک کا سب سے زیادہ سالانہ)"
+    },
+    "b10.itemlbl.16": {
+      "hi": "सौर जोड़ा गया",
+      "en": "Solar added",
+      "ur": "شمسی توانائی شامل کی گئی"
+    },
+    "b10.itemval.16": {
+      "hi": "34.95 GW (अब तक का सबसे अधिक एक साल)",
+      "en": "34.95 GW (highest single-year ever)",
+      "ur": "34.95 GW (اب تک کا سب سے زیادہ ایک سال)"
+    },
+    "b10.itemlbl.17": {
+      "hi": "हवा ने जोड़ा",
+      "en": "Wind added",
+      "ur": "ہوا شامل کی گئی"
+    },
+    "b10.itemval.17": {
+      "hi": "~ 6 गीगावाट",
+      "en": "~6 GW",
+      "ur": "~ 6 جی ڈبلیو"
+    },
+    "b10.itemlbl.18": {
+      "hi": "कुल शुद्ध जोड़ (सभी स्रोत)",
+      "en": "Total net addition (all sources)",
+      "ur": "کل خالص اضافہ (تمام ذرائع)"
+    },
+    "b10.itemval.18": {
+      "hi": "8, 660.25 मेगावाट (सी. ई. ए. मार्च 2026 के आंकड़ों के अनुसार, बाद में जोड़ा गया)",
+      "en": "8,660.25 MW (per CEA March 2026 data, subsequent additions since)",
+      "ur": "8، 660.25 میگاواٹ (فی سی ای اے مارچ 2026 کے اعداد و شمار، اس کے بعد کے اضافے)"
+    },
+    "b10.itemlbl.19": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.19": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.20": {
+      "hi": "सी. ई. ए. राष्ट्रीय जनरेशन समानता योजना (2026-27 से 2035-36)",
+      "en": "CEA NATIONAL GENERATION ADEQUACY PLAN (2026-27 to 2035-36)",
+      "ur": "سی ای اے نیشنل جنریشن اڈیکوئنسی پلان (2026-27 سے 2035-36)"
+    },
+    "b10.itemval.20": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.21": {
+      "hi": "सौर 2035-36",
+      "en": "Solar 2035-36",
+      "ur": "شمسی 2035-36"
+    },
+    "b10.itemval.21": {
+      "hi": "509 जी. डब्ल्यू. (45 प्रतिशत हिस्सेदारी, सबसे बड़ा एकल स्रोत)",
+      "en": "509 GW (45% share, largest single source)",
+      "ur": "509 جی ڈبلیو (45 فیصد حصہ، سب سے بڑا واحد ذریعہ)"
+    },
+    "b10.itemlbl.22": {
+      "hi": "कोयला 2035-36",
+      "en": "Coal 2035-36",
+      "ur": "کوئلہ 2035-36"
+    },
+    "b10.itemval.22": {
+      "hi": "325 जी. डब्ल्यू. (28 प्रतिशत हिस्सेदारी)",
+      "en": "315 GW (28% share)",
+      "ur": "325 جی ڈبلیو (28 فیصد حصہ)"
+    },
+    "b10.itemlbl.23": {
+      "hi": "पवन 2035-36",
+      "en": "Wind 2035-36",
+      "ur": "ونڈ 2035-36"
+    },
+    "b10.itemval.23": {
+      "hi": "155 गीगावाट",
+      "en": "155 GW",
+      "ur": "155 گیگا واٹ"
+    },
+    "b10.itemlbl.24": {
+      "hi": "बड़ा हाइड्रो 2035-36",
+      "en": "Large hydro 2035-36",
+      "ur": "بڑا ہائیڈرو 2035-36"
+    },
+    "b10.itemval.24": {
+      "hi": "78 गीगावाट",
+      "en": "78 GW",
+      "ur": "78 جی ڈبلیو"
+    },
+    "b10.itemlbl.25": {
+      "hi": "नाभिकीय 2035-36",
+      "en": "Nuclear 2035-36",
+      "ur": "نیوکلیئر 2035-36"
+    },
+    "b10.itemval.25": {
+      "hi": "22 गीगावाट",
+      "en": "22 GW",
+      "ur": "22 جی ڈبلیو"
+    },
+    "b10.itemlbl.26": {
+      "hi": "बायोमास 2035-36",
+      "en": "Biomass 2035-36",
+      "ur": "بائیو ماس 2035-36"
+    },
+    "b10.itemval.26": {
+      "hi": "16 गीगावाट",
+      "en": "16 GW",
+      "ur": "16 جی ڈبلیو"
+    },
+    "b10.itemlbl.27": {
+      "hi": "गैस 2035-36",
+      "en": "Gas 2035-36",
+      "ur": "گیس 2035-36"
+    },
+    "b10.itemval.27": {
+      "hi": "20 गीगावाट",
+      "en": "20 GW",
+      "ur": "20 گیگا واٹ"
+    },
+    "b10.itemlbl.28": {
+      "hi": "छोटा हाइड्रो 2035-36",
+      "en": "Small hydro 2035-36",
+      "ur": "چھوٹا ہائیڈرو 2035-36"
+    },
+    "b10.itemval.28": {
+      "hi": "6 गीगावाट",
+      "en": "6 GW",
+      "ur": "6 جی ڈبلیو"
+    },
+    "b10.itemlbl.29": {
+      "hi": "ऊर्जा भंडारण 2035-36",
+      "en": "Energy storage 2035-36",
+      "ur": "توانائی ذخیرہ 2035-36"
+    },
+    "b10.itemval.29": {
+      "hi": "174 जी. डब्ल्यू./888 जी. डब्ल्यू. एच.",
+      "en": "174 GW / 888 GWh",
+      "ur": "174 GW/888 GWh"
+    },
+    "b10.itemlbl.30": {
+      "hi": "बी. ई. एस. एस. घटक",
+      "en": "BESS component",
+      "ur": "بی ای ایس ایس جزو"
+    },
+    "b10.itemval.30": {
+      "hi": "80 जी. डब्ल्यू./321 जी. डब्ल्यू. एच.",
+      "en": "80 GW / 321 GWh",
+      "ur": "80 GW/321 GWh"
+    },
+    "b10.itemlbl.31": {
+      "hi": "पम्प भंडारण घटक",
+      "en": "Pumped storage component",
+      "ur": "پمپڈ اسٹوریج جزو"
+    },
+    "b10.itemval.31": {
+      "hi": "94 जी. डब्ल्यू./567 जी. डब्ल्यू. एच.",
+      "en": "94 GW / 567 GWh",
+      "ur": "94 GW/567 GWh"
+    },
+    "b10.itemlbl.32": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.32": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.33": {
+      "hi": "वर्तमान पाइपलाइन",
+      "en": "CURRENT PIPELINE",
+      "ur": "موجودہ پائپ لائن"
+    },
+    "b10.itemval.33": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.34": {
+      "hi": "निर्माणाधीन (सौर, पवन, संकर, अन्य आरईएस)",
+      "en": "Under construction (solar, wind, hybrid, other RES)",
+      "ur": "زیر تعمیر (شمسی، ہوا، ہائبرڈ، دیگر آر ای ایس)"
+    },
+    "b10.itemval.34": {
+      "hi": "155 गीगावाट",
+      "en": "155 GW",
+      "ur": "155 گیگا واٹ"
+    },
+    "b10.itemlbl.35": {
+      "hi": "निविदा के तहत",
+      "en": "Under tendering",
+      "ur": "ٹینڈر کے تحت"
+    },
+    "b10.itemval.35": {
+      "hi": "48 गीगावाट",
+      "en": "48 GW",
+      "ur": "48 جی ڈبلیو"
+    },
+    "b10.itemlbl.36": {
+      "hi": "हरित ऊर्जा गलियारा चरण III के तहत योजना बनाई गई",
+      "en": "Planned under Green Energy Corridor Phase III",
+      "ur": "گرین انرجی کوریڈور فیز III کے تحت منصوبہ بندی"
+    },
+    "b10.itemval.36": {
+      "hi": "134 गीगावाट",
+      "en": "134 GW",
+      "ur": "134 گیگا واٹ"
+    },
+    "b10.itemlbl.37": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.37": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.38": {
+      "hi": "प्रमुख नीति निर्देश",
+      "en": "KEY POLICY INSTRUMENTS",
+      "ur": "کلیدی پالیسی ہدایات"
+    },
+    "b10.itemval.38": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.39": {
+      "hi": "सीओपी26 लक्ष्य (2030 तक 500 गीगावाट गैर-जीवाश्म)",
+      "en": "COP26 target (500 GW non-fossil by 2030)",
+      "ur": "سی او پی 26 کا ہدف (2030 تک 500 جی ڈبلیو غیر فوسل)"
+    },
+    "b10.itemval.39": {
+      "hi": "60 प्रतिशत ने 4 साल पहले हासिल किया",
+      "en": "60% achieved 4 years ahead",
+      "ur": "60 فیصد 4 سال پہلے حاصل کیا گیا"
+    },
+    "b10.itemlbl.40": {
+      "hi": "पेरिस समझौता एन. डी. सी. (50 प्रतिशत गैर-जीवाश्म हिस्सेदारी)",
+      "en": "Paris Agreement NDC (50% non-fossil share)",
+      "ur": "پیرس معاہدہ این ڈی سی (50 ٪ غیر جیواشم حصہ)"
+    },
+    "b10.itemval.40": {
+      "hi": "जून 2025 को पार किया, 5 साल पहले",
+      "en": "Crossed June 2025, 5 years early",
+      "ur": "جون 2025 کو عبور کیا، 5 سال پہلے"
+    },
+    "b10.itemlbl.41": {
+      "hi": "शुद्ध शून्य लक्ष्य वर्ष",
+      "en": "Net Zero target year",
+      "ur": "خالص صفر ہدف سال"
+    },
+    "b10.itemval.41": {
+      "hi": "2070",
+      "en": "2070",
+      "ur": "2070"
+    },
+    "b10.itemlbl.42": {
+      "hi": "सौर पी. वी. मॉड्यूल के लिए पी. एल. आई. योजना",
+      "en": "PLI Scheme for Solar PV Modules",
+      "ur": "شمسی پی وی ماڈیولز کے لیے پی ایل آئی اسکیم"
+    },
+    "b10.itemval.42": {
+      "hi": "24, 000 करोड़ रुपये का परिव्यय",
+      "en": "₹24,000 crore outlay",
+      "ur": "24, 000 کروڑ روپے کا خرچ"
+    },
+    "b10.itemlbl.43": {
+      "hi": "ए. एल. एम. एम. ढांचा (2019) + ए. एल. एम. एम. सूची II (जून 2026)",
+      "en": "ALMM framework (2019) + ALMM List II (June 2026)",
+      "ur": "اے ایل ایم ایم فریم ورک (2019) + اے ایل ایم ایم لسٹ II (جون 2026)"
+    },
+    "b10.itemval.43": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.44": {
+      "hi": "चीनी कोशिकाओं पर डंपिंग रोधी शुल्क",
+      "en": "Anti-dumping duty on Chinese cells",
+      "ur": "چینی خلیوں پر اینٹی ڈمپنگ ڈیوٹی"
+    },
+    "b10.itemval.44": {
+      "hi": "30 प्रतिशत",
+      "en": "30 per cent",
+      "ur": "30 فیصد"
+    },
+    "b10.itemlbl.45": {
+      "hi": "हरित ऊर्जा गलियारा योजना",
+      "en": "Green Energy Corridor Scheme",
+      "ur": "گرین انرجی کوریڈور اسکیم"
+    },
+    "b10.itemval.45": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.46": {
+      "hi": "प्रधानमंत्री सूर्य घर मुफ्त बिजली योजना का परिव्यय",
+      "en": "PM Surya Ghar Muft Bijli Yojana outlay",
+      "ur": "پی ایم سوریا گھر مفٹ بجلی یوجنا کا خرچ"
+    },
+    "b10.itemval.46": {
+      "hi": "₹75,021 करोड़ (1 करोड़ परिवारों का लक्ष्य)",
+      "en": "₹75,021 crore (1 crore households target)",
+      "ur": "75, 021 کروڑ روپے (1 کروڑ گھرانوں کا ہدف)"
+    },
+    "b10.itemlbl.47": {
+      "hi": "प्रधानमंत्री सूर्य घर के लाभार्थी (12 अगस्त 2026 तक)",
+      "en": "PM Surya Ghar beneficiaries (as of 12 August 2026)",
+      "ur": "پی ایم سوریا گھر سے مستفید ہونے والے (12 اگست 2026 تک)"
+    },
+    "b10.itemval.47": {
+      "hi": "51.58 लाख घर",
+      "en": "51.58 lakh households",
+      "ur": "51.58 لاکھ گھرانے"
+    },
+    "b10.itemlbl.48": {
+      "hi": "100% स्वचालित मार्ग के तहत अक्षय ऊर्जा में F. D. I",
+      "en": "100% FDI in renewable energy under automatic route",
+      "ur": "100% خودکار راستے کے تحت قابل تجدید توانائی میں ایف ڈی آئی"
+    },
+    "b10.itemval.48": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.49": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.49": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.50": {
+      "hi": "वैश्विक पाठ",
+      "en": "GLOBAL CONTEXT",
+      "ur": "عالمی متن"
+    },
+    "b10.itemval.50": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.51": {
+      "hi": "अक्षय ऊर्जा स्थापित क्षमता में भारत का स्थान",
+      "en": "India's rank in renewable energy installed capacity",
+      "ur": "قابل تجدید توانائی کی نصب شدہ صلاحیت میں ہندوستان کا درجہ"
+    },
+    "b10.itemval.51": {
+      "hi": "तीसरा (प्रति आई. आर. ई. एन. ए. 2026, चीन और यू. एस. ए. के बाद)",
+      "en": "3rd (per IRENA 2026, behind China and USA)",
+      "ur": "تیسرا (فی آئی آر ای این اے 2026، چین اور امریکہ کے پیچھے)"
+    },
+    "b10.itemlbl.52": {
+      "hi": "सौर विकास 2025 में भारत का स्थान",
+      "en": "India's rank in solar growth 2025",
+      "ur": "شمسی ترقی 2025 میں ہندوستان کا درجہ"
+    },
+    "b10.itemval.52": {
+      "hi": "दूसरा (37 गीगावाट जोड़ा गया, यू. एस. 34 गीगावाट से आगे)",
+      "en": "2nd (37 GW added, ahead of US 34 GW)",
+      "ur": "دوسرا (37 جی ڈبلیو کا اضافہ، 34 جی ڈبلیو یو ایس سے آگے)"
+    },
+    "b10.itemlbl.53": {
+      "hi": "अंतर्राष्ट्रीय सौर गठबंधन मुख्यालय",
+      "en": "International Solar Alliance headquarters",
+      "ur": "بین الاقوامی شمسی اتحاد کا صدر دفتر"
+    },
+    "b10.itemval.53": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "b10.itemlbl.54": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b10.itemval.54": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.55": {
+      "hi": "मंत्रालय का नेतृत्व",
+      "en": "MINISTERIAL LEADERSHIP",
+      "ur": "وزارت قیادت"
+    },
+    "b10.itemval.55": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.itemlbl.56": {
+      "hi": "केंद्रीय नवीन और नवीकरणीय ऊर्जा मंत्री",
+      "en": "Union Minister for New and Renewable Energy",
+      "ur": "نئی اور قابل تجدید توانائی کے مرکزی وزیر"
+    },
+    "b10.itemval.56": {
+      "hi": "प्रल्हाद जोशी",
+      "en": "Pralhad Joshi",
+      "ur": "پرہلاد جوشی"
+    },
+    "b10.itemlbl.57": {
+      "hi": "केंद्रीय बिजली मंत्री",
+      "en": "Union Minister for Power",
+      "ur": "مرکزی وزیر برائے بجلی"
+    },
+    "b10.itemval.57": {
+      "hi": "मनोहर लाल खट्टार",
+      "en": "Manohar Lal Khattar",
+      "ur": "منوہر لال کھٹر"
+    },
+    "b10.itemlbl.58": {
+      "hi": "केंद्रीय विद्युत प्राधिकरण (सी. ई. ए.)",
+      "en": "Central Electricity Authority (CEA)",
+      "ur": "سنٹرل الیکٹرسٹی اتھارٹی (سی ای اے)"
+    },
+    "b10.itemval.58": {
+      "hi": "रिपोर्ट स्रोत",
+      "en": "Report source",
+      "ur": "رپورٹ کا ماخذ"
+    },
+    "b10.itemlbl.59": {
+      "hi": "नवीन और नवीकरणीय ऊर्जा मंत्रालय (एम. एन. आर. ई.)",
+      "en": "Ministry of New and Renewable Energy (MNRE)",
+      "ur": "نئی اور قابل تجدید توانائی کی وزارت (ایم این آر ای)"
+    },
+    "b10.itemval.59": {
+      "hi": "नीति प्रशासक",
+      "en": "Policy administrator",
+      "ur": "پالیسی منتظم"
+    },
+    "b11.q": {
+      "hi": "\"सौर अब भारत की अक्षय ऊर्जा क्षमता का सबसे बड़ा घटक है। भारत 2025 में दुनिया का दूसरा सबसे बड़ा सौर विकास बाजार बन गया, जिसमें संयुक्त राज्य अमेरिका द्वारा जोड़े गए 34 गीगावाट की तुलना में 37 गीगावाट से अधिक सौर क्षमता जोड़ी गई। भारत अक्षय ऊर्जा स्थापित क्षमता में विश्व स्तर पर तीसरे स्थान पर है।\"",
+      "en": "\"Solar is now the largest component of India's renewable energy capacity. India became the world's second-largest solar growth market in 2025, adding more than 37 GW of solar capacity, compared with 34 GW added by the United States. India ranks third globally in renewable energy installed capacity.\"",
+      "ur": "\"شمسی توانائی اب ہندوستان کی قابل تجدید توانائی کی صلاحیت کا سب سے بڑا جزو ہے۔ ہندوستان 2025 میں دنیا کی دوسری سب سے بڑی شمسی ترقی کی منڈی بن گیا، جس نے 37 گیگا واٹ سے زیادہ شمسی صلاحیت کا اضافہ کیا، جبکہ امریکہ نے 34 گیگا واٹ کا اضافہ کیا۔ قابل تجدید توانائی کی نصب شدہ صلاحیت میں ہندوستان عالمی سطح پر تیسرے نمبر پر ہے۔\""
+    },
+    "b11.c": {
+      "hi": "- बिजली क्षेत्र के मील के पत्थर पर भारत सरकार की तथ्य पत्रक (जुलाई 2026)",
+      "en": "— Government of India factsheet on power sector milestones (July 2026)",
+      "ur": "- بجلی کے شعبے کے سنگ میل پر حکومت ہند کی فیکٹ شیٹ (جولائی 2026)"
+    },
+    "b12": {
+      "hi": "वित्त वर्ष का 2025-26 सौर रिकॉर्ड-एक वर्ष में 34.95 GW",
+      "en": "The FY2025-26 solar record — 34.95 GW in a single year",
+      "ur": "مالی سال 2025-26 شمسی ریکارڈ-34.95 ایک سال میں GW"
+    },
+    "b13": {
+      "hi": "वित्त वर्ष 2025-26 ने भारत के इतिहास में सबसे अधिक वार्षिक सौर क्षमता वृद्धि दर्ज की है-34.95 GW, वित्त वर्ष 2022-23 और वित्त वर्ष 2023-24 के दौरान लगभग 15-17 GW के पिछले सर्वश्रेष्ठ वर्ष के परिवर्धन की तुलना में। वार्षिक जोड़ दरों का दोगुना होना घरेलू सौर विनिर्माण पारिस्थितिकी तंत्र की परिचालन परिपक्वता, मॉडल और निर्माताओं की अनुमोदित सूची (ALMM) वास्तुकला का पर्याप्त समापन दर्शाता है, जिसकी भारत संवाद के 12 अगस्त के पृष्ठ 1 कवरेज ने विस्तार से जांच की है, और सरकार द्वारा उत्तरोत्तर बनाए गए विभिन्न नीतिगत उपकरणों की त्वरित तैनाती।",
+      "en": "FY2025-26 has recorded the highest annual solar capacity addition in India's history — 34.95 GW, compared with previous best-year additions of approximately 15-17 GW during FY2022-23 and FY2023-24. The doubling of annual addition rates reflects the operational maturity of the domestic solar manufacturing ecosystem, the substantive completion of the Approved List of Models and Manufacturers (ALMM) architecture that Bharat Samvad's 12 August Page 1 coverage examined in detail, and the accelerating deployment of the various policy instruments the Government has progressively built.",
+      "ur": "مالی سال 2025-26 نے ہندوستان کی تاریخ میں سب سے زیادہ سالانہ شمسی صلاحیت کا اضافہ ریکارڈ کیا ہے-34.95 GW، مالی سال 2022-23 اور مالی سال 2023-24 کے دوران تقریبا 15-17 GW کے پچھلے بہترین سال کے اضافے کے مقابلے میں۔ سالانہ اضافے کی شرحوں کا دوگنا ہونا گھریلو شمسی مینوفیکچرنگ ماحولیاتی نظام کی آپریشنل پختگی، ماڈلز اور مینوفیکچررز (ALMM) فن تعمیر کی منظور شدہ فہرست کی ٹھوس تکمیل کی عکاسی کرتا ہے جس کا بھارت سمواد کے 12 اگست کے صفحہ 1 کوریج نے تفصیل سے جائزہ لیا، اور حکومت نے بتدریج بنائے گئے مختلف پالیسی آلات کی تیز رفتار تعیناتی کی عکاسی کرتا ہے۔"
+    },
+    "b14": {
+      "hi": "जी. डब्ल्यू. के तीन घटक हैं जो अलग से समझने योग्य हैं। उपयोगिता-स्तरीय सौर परियोजनाओं-बड़े भू-चालित सौर पार्कों ने जो भारत की सौर क्षमता का अधिकांश हिस्सा हैं-ने सबसे बड़ा योगदान दिया। पीएम सूर्य घर मुफ्त बिजली योजना के तहत छत पर सौर ऊर्जा की तैनाती ने क्रमिक रूप से एक महत्वपूर्ण योगदान दिया, जिसमें योजना के 1 करोड़ घरेलू लक्ष्य और 75,021 करोड़ रुपये के परिव्यय में से 12 अगस्त 2026 तक छत पर सौर प्रतिष्ठानों से लाभान्वित होने वाले लाख घरों ने एक महत्वपूर्ण योगदान दिया। और हाइब्रिड सौर-प्लस-भंडारण परियोजनाओं-एक महत्वपूर्ण रूप से बढ़ते खंड के रूप में ऊर्जा भंडारण अर्थव्यवस्था में सुधार-ने शेष योगदान दिया।",
+      "en": "The 34.95 GW figure has three components that are worth understanding separately. Utility-scale solar projects — the large ground-mounted solar parks that anchor the majority of India's solar capacity — contributed the largest share. Rooftop solar deployment under the PM Surya Ghar Muft Bijli Yojana progressively contributed a substantive share, with 51.58 lakh households benefiting from rooftop solar installations by 12 August 2026, out of the scheme's 1 crore household target and ₹75,021 crore outlay. And hybrid solar-plus-storage projects — a substantively growing segment as energy storage economics improve — contributed the remainder.",
+      "ur": "34.95 GW کے اعداد و شمار کے تین اجزاء ہیں جو الگ الگ سمجھنے کے قابل ہیں۔ یوٹیلیٹی پیمانے کے شمسی منصوبوں-بڑے زمینی نصب شمسی پارکوں نے جو ہندوستان کی شمسی صلاحیت کا بیشتر حصہ ہیں-نے سب سے بڑا حصہ ڈالا۔ پی ایم سوریا گھر مفٹ بجلی یوجنا کے تحت چھتوں پر شمسی توانائی کی تعیناتی نے بتدریج ایک اہم حصہ ڈالا، جس میں 51.58 لاکھ گھرانوں کو 12 اگست 2026 تک چھتوں پر شمسی تنصیبات سے فائدہ ہوا، اسکیم کے 1 کروڑ گھریلو ہدف اور 75, 021 کروڑ روپے کے اخراجات میں سے۔ اور ہائبرڈ سولر پلس اسٹوریج پروجیکٹس-توانائی ذخیرہ کرنے کی معاشیات میں بہتری کے ساتھ ایک کافی بڑھتا ہوا حصہ-نے بقیہ حصہ ڈالا۔"
+    },
+    "b15": {
+      "hi": "कैलेंडर वर्ष 2025 में भारत में 37 गीगावाट कुल सौर वृद्धि दर्ज की गई, जो देश को संयुक्त राज्य अमेरिका (34 गीगावाट) से आगे दुनिया के दूसरे सबसे बड़े सौर विकास बाजार के रूप में स्थापित करती है, जो वित्तीय वर्ष की सीमाओं के बजाय कैलेंडर के मुकाबले मापा गया है। चीन एक पर्याप्त अंतर से दुनिया का सबसे बड़ा सौर विकास बाजार बना हुआ है, लेकिन 2025 में भारत-अमेरिका क्रॉसओवर वैश्विक सौर परिनियोजन रैंकिंग में अधिक परिणामी एकल क्षणों में से एक का प्रतिनिधित्व करता है।",
+      "en": "The 37 GW total solar addition India recorded in calendar year 2025, positioning the country as the world's second-largest solar growth market ahead of the United States (34 GW), reflects the same trajectory as measured against calendar rather than fiscal year boundaries. China remains the world's largest solar growth market by a substantial margin, but the India-US crossover in 2025 represents one of the more consequential single moments in the global solar deployment ranking.",
+      "ur": "ہندوستان نے کیلنڈر سال 2025 میں 37 جی ڈبلیو کل شمسی اضافہ ریکارڈ کیا، جس نے ملک کو ریاستہائے متحدہ (34 جی ڈبلیو) سے آگے دنیا کی دوسری سب سے بڑی شمسی ترقی کی منڈی کے طور پر قائم کیا، اسی رفتار کی عکاسی کرتا ہے جو مالی سال کی حدود کے بجائے کیلنڈر کے مقابلے میں ماپا جاتا ہے۔ چین کافی فرق سے دنیا کی سب سے بڑی شمسی ترقی کی منڈی بنا ہوا ہے، لیکن 2025 میں ہندوستان-امریکہ کراس اوور عالمی شمسی تعیناتی کی درجہ بندی میں زیادہ نتیجہ خیز واحد لمحات میں سے ایک کی نمائندگی کرتا ہے۔"
+    },
+    "b16": {
+      "hi": "2035-36 प्रक्षेपण-भारत के सबसे बड़े स्रोत के रूप में सौर",
+      "en": "The 2035-36 projection — solar as India's single largest source",
+      "ur": "2035-36 پروجیکشن-شمسی ہندوستان کا واحد سب سے بڑا ذریعہ ہے"
+    },
+    "b17": {
+      "hi": "केंद्रीय विद्युत प्राधिकरण की राष्ट्रीय उत्पादन पर्याप्तता योजना भारत के बिजली क्षेत्र के इतिहास में सबसे परिणामी संरचनात्मक परिवर्तनों में से एक है। वित्त वर्ष के अंत तक सौर ऊर्जा भारत की स्थापित बिजली उत्पादन क्षमता का सबसे बड़ा स्रोत बनने का अनुमान है।",
+      "en": "The Central Electricity Authority's National Generation Adequacy Plan for 2026-27 to 2035-36 projects one of the most consequential structural transformations in India's power sector history. By end-FY2035-36 — approximately ten years from now — solar is projected to become India's single largest source of installed power generation capacity.",
+      "ur": "سنٹرل الیکٹرسٹی اتھارٹی کا نیشنل جنریشن اڈیکیسی پلان 2026-27 سے 2035-36 کے لیے ہندوستان کے بجلی کے شعبے کی تاریخ میں سب سے زیادہ نتیجہ خیز ساختی تبدیلیوں میں سے ایک ہے۔ مالی سال کے آخر تک 2035-36-اب سے تقریبا دس سال بعد-شمسی توانائی کو ہندوستان کی نصب شدہ بجلی پیدا کرنے کی صلاحیت کا واحد سب سے بڑا ذریعہ بننے کا امکان ہے۔"
+    },
+    "b18": {
+      "hi": "विशिष्ट अनुमान सटीक हैं। सौरः 509 गीगावाट स्थापित क्षमता, कुल का 45 प्रतिशत हिस्सा. कोयलाः 325 गीगावाट स्थापित क्षमता, 28 प्रतिशत हिस्सा. वायुः 155 गीगावाट. बड़ी पनबिजलीः 78 गीगावाट. छोटी पनबिजलीः 6 गीगावाट. परमाणुः 22 गीगावाट (2047 तक परमाणु ऊर्जा मिशन प्रक्षेपवक्र 100 गीगावाट तक आगे बढ़ने के साथ). बायोमासः 16 गीगावाट. गैसः 20 गीगावाट।",
+      "en": "The specific projections are precise. Solar: 509 GW installed capacity, 45 per cent share of total. Coal: 315 GW installed capacity, 28 per cent share. Wind: 155 GW. Large hydro: 78 GW. Small hydro: 6 GW. Nuclear: 22 GW (with the Nuclear Energy Mission trajectory extending further toward 100 GW by 2047). Biomass: 16 GW. Gas: 20 GW.",
+      "ur": "مخصوص تخمینے درست ہیں۔ شمسی توانائی: 509 گیگا واٹ نصب شدہ صلاحیت، کل کا 45 فیصد حصہ۔ کوئلہ: 325 گیگا واٹ نصب شدہ صلاحیت، 28 فیصد حصہ۔ ہوا: 155 گیگا واٹ۔ بڑی پن بجلی: 78 گیگا واٹ۔ چھوٹی پن بجلی: 6 گیگا واٹ۔ جوہری: 22 گیگا واٹ (جوہری توانائی مشن کے ساتھ 2047 تک 100 گیگا واٹ تک توسیع)۔ بائیو ماس: 16 گیگا واٹ۔ گیس: 20 گیگا واٹ۔"
+    },
+    "b19": {
+      "hi": "सी. ई. ए. का अनुमान इस बात पर आधारित है कि यह अनुमानित वर्ष के दौरान क्षमता वृद्धि में \"पूर्ण दृश्यता\" के रूप में वर्णित है। इस दृश्यता में वर्तमान में निर्माणाधीन 155 गीगावाट सौर, पवन, संकर और अन्य नवीकरणीय क्षमता शामिल है; निविदा के तहत 48 गीगावाट नवीकरणीय क्षमता; और हरित ऊर्जा गलियारा चरण III योजना के तहत 134 गीगावाट जोड़ने की योजना है। राज्य स्तर पर अतिरिक्त क्षमता की योजना बनाई और लागू की जा रही है। आगे का प्रक्षेपवक्र आकांक्षी नहीं है-यह दृश्यमान पाइपलाइन परियोजनाओं का योग है।",
+      "en": "The CEA's projection is anchored in what it describes as \"complete visibility\" into capacity additions through the projected year. This visibility includes 155 GW of solar, wind, hybrid and other renewable capacity currently under construction; 48 GW of renewable capacity under tendering; and 134 GW planned to be added under the Green Energy Corridor Phase III scheme. Additional capacity is progressively being planned and implemented at the state level. The forward trajectory is not aspirational — it is the sum of visible pipeline projects.",
+      "ur": "سی ای اے کا تخمینہ اس میں لنگر انداز ہے جسے وہ متوقع سال کے دوران صلاحیت میں اضافے میں \"مکمل مرئیت\" کے طور پر بیان کرتا ہے۔ اس مرئیت میں 155 جی ڈبلیو شمسی، ہوا، ہائبرڈ اور دیگر قابل تجدید صلاحیت شامل ہے جو اس وقت زیر تعمیر ہے۔ 48 جی ڈبلیو قابل تجدید صلاحیت ٹینڈر کے تحت ہے اور 134 جی ڈبلیو گرین انرجی کوریڈور فیز III اسکیم کے تحت شامل کرنے کا منصوبہ ہے۔ اضافی صلاحیت کو ریاستی سطح پر بتدریج منصوبہ بندی اور نافذ کیا جا رہا ہے۔ آگے کی رفتار خواہش مند نہیں ہے-یہ مرئی پائپ لائن منصوبوں کا مجموعہ ہے۔"
+    },
+    "b20": {
+      "hi": "सी. ई. ए. के अपने आकलन के अनुसार, परिवर्तन अवधि के दौरान कोयला भारत के बिजली उत्पादन की परिचालन रीढ़ बना रहेगा, जो विश्वसनीय बेसलोड बिजली प्रदान करेगा, जो तब तक नवीकरणीय ऊर्जा पूरी तरह से प्रतिस्थापित नहीं कर सकता जब तक कि ऊर्जा भंडारण बड़े पैमाने पर परिपक्व नहीं हो जाता है। वित्त वर्ष के लिए अनुमानित 28 प्रतिशत स्थापित क्षमता हिस्सेदारी कोयले के उच्च क्षमता कारक के कारण काफी अधिक वास्तविक उत्पादन हिस्सेदारी में बदल जाएगी। लेकिन दिशा स्पष्ट हैः आज 40.8 प्रतिशत हिस्सेदारी से वित्त वर्ष के 28 प्रतिशत तक। कोयला दूर नहीं जा रहा है-यह स्वच्छ विकल्पों के पक्ष में सीमांत क्षमता वृद्धि से उत्तरोत्तर विस्थापित हो रहा है।",
+      "en": "Coal, per the CEA's own assessment, will remain the operational backbone of India's electricity generation during the transition period, providing reliable baseload power that renewables cannot fully replace until energy storage matures at scale. The 28 per cent installed capacity share projected for FY2035-36 will translate to a substantially higher actual generation share due to coal's high capacity factor. But the direction is unmistakable: from 40.8 per cent share today toward 28 per cent by FY2035-36. Coal is not going away — it is progressively being displaced from marginal capacity additions in favour of cleaner alternatives.",
+      "ur": "سی ای اے کے اپنے تخمینے کے مطابق کوئلہ منتقلی کی مدت کے دوران ہندوستان کی بجلی کی پیداوار کی آپریشنل ریڑھ کی ہڈی رہے گا، جو قابل اعتماد بیس لوڈ پاور فراہم کرے گا جسے قابل تجدید توانائی اس وقت تک مکمل طور پر تبدیل نہیں کر سکتی جب تک کہ توانائی کا ذخیرہ پیمانے پر پختہ نہ ہو جائے۔ مالی سال کے لیے متوقع 28 فیصد نصب شدہ صلاحیت کا حصہ کوئلے کے اعلی صلاحیت عنصر کی وجہ سے کافی زیادہ حقیقی پیداوار کے حصے میں تبدیل ہو جائے گا۔ لیکن سمت بے شک ہے: آج 40. 8 فیصد حصہ سے مالی سال کے 28 فیصد تک۔ کوئلہ دور نہیں ہو رہا ہے-یہ صاف متبادل کے حق میں معمولی صلاحیت میں اضافے سے بتدریج بے گھر ہو رہا ہے۔"
+    },
+    "b21": {
+      "hi": "ऊर्जा भंडारण-परिचालन भागीदार अक्षय उत्पादन की आवश्यकता है",
+      "en": "Energy storage — the operational partner renewable generation requires",
+      "ur": "توانائی ذخیرہ-آپریشنل پارٹنر قابل تجدید پیداوار کی ضرورت ہے"
+    },
+    "b22": {
+      "hi": "वित्त वर्ष के लिए अनुमानित 174 गीगावाट/888 गीगावाट ऊर्जा भंडारण क्षमता सी. ई. ए. की योजना का एकल आयाम है जो कम से कम जनता का ध्यान आकर्षित करता है लेकिन यकीनन स्वच्छ-ऊर्जा संक्रमण के वास्तविक परिचालन वितरण के लिए सबसे अधिक मायने रखता है। ऊर्जा भंडारण परिचालन भागीदार है जिसे रुक-रुक कर अक्षय उत्पादन के लिए उपभोक्ताओं को विश्वसनीय प्रेषण योग्य बिजली प्रदान करने की आवश्यकता होती है।",
+      "en": "The 174 GW / 888 GWh of energy storage capacity projected for FY2035-36 is the single dimension of the CEA's plan that receives least public attention but arguably matters most for actual operational delivery of clean-energy transition. Energy storage is the operational partner that intermittent renewable generation requires to deliver reliable dispatchable power to consumers.",
+      "ur": "مالی سال 2035-36 کے لیے متوقع توانائی ذخیرہ کرنے کی صلاحیت کی 174 جی ڈبلیو/888 جی ڈبلیو ایچ سی ای اے کے منصوبے کی واحد جہت ہے جو کم سے کم عوامی توجہ حاصل کرتی ہے لیکن صاف توانائی کی منتقلی کی حقیقی آپریشنل ڈیلیوری کے لیے سب سے زیادہ اہمیت رکھتی ہے۔ توانائی ذخیرہ کرنے والا آپریشنل پارٹنر ہے جس کی وقفے وقفے سے قابل تجدید پیداوار کو صارفین کو قابل اعتماد ترسیل کے قابل بجلی فراہم کرنے کی ضرورت ہوتی ہے۔"
+    },
+    "b23": {
+      "hi": "अनुमानित 174 गीगावाट में दो श्रेणियां शामिल हैं। बैटरी ऊर्जा भंडारण प्रणाली (बीईएसएस): 80 गीगावाट/321 गीगावाट, जो मुख्य रूप से लिथियम-आयन प्रौद्योगिकी के आसपास बनाई गई है, लेकिन धीरे-धीरे सोडियम-आयन, लौह-वायु और अन्य उभरते रसायनों को शामिल करने के लिए विस्तारित हो रही है। पंप किए गए भंडारण संयंत्र (पीएसपी): 94 गीगावाट/567 गीगावाट, जो अतिरिक्त नवीकरणीय उत्पादन की अवधि के दौरान पानी को ऊपर की ओर पंप करने और उच्च मांग की अवधि के दौरान पनबिजली टरबाइनों के माध्यम से इसे नीचे की ओर छोड़ने की अच्छी तरह से स्थापित तकनीक का उपयोग करते हैं।",
+      "en": "The projected 174 GW comprises two categories. Battery energy storage systems (BESS): 80 GW / 321 GWh, primarily built around lithium-ion technology but progressively expanding to include sodium-ion, iron-air, and other emerging chemistries. Pumped storage plants (PSPs): 94 GW / 567 GWh, using the well-established technology of pumping water uphill during periods of surplus renewable generation and releasing it downhill through hydro turbines during periods of high demand.",
+      "ur": "متوقع 174 جی ڈبلیو دو زمروں پر مشتمل ہے۔ بیٹری انرجی اسٹوریج سسٹم (بی ای ایس ایس): 80 جی ڈبلیو/321 جی ڈبلیو ایچ، بنیادی طور پر لتیم آئن ٹیکنالوجی کے ارد گرد بنایا گیا ہے لیکن سوڈیم آئن، آئرن ایئر، اور دیگر ابھرتی ہوئی کیمسٹریوں کو شامل کرنے کے لیے بتدریج توسیع کر رہا ہے۔ پمپڈ اسٹوریج پلانٹس (پی ایس پیز): 94 جی ڈبلیو/567 جی ڈبلیو ایچ، اضافی قابل تجدید پیداوار کے دور میں پانی کو اوپر کی طرف پمپ کرنے اور ہائیڈرو ٹربائنز کے ذریعے اسے نیچے کی طرف چھوڑنے کی اچھی طرح سے قائم ٹیکنالوجی کا استعمال کرتے ہوئے۔"
+    },
+    "b24": {
+      "hi": "जी. डब्ल्यू. एच. के आंकड़े-जी. डब्ल्यू. पावर रेटिंग से अलग कुल ऊर्जा भंडारण क्षमता-इंगित करते हैं कि प्रत्येक प्रणाली कितने घंटे की संग्रहीत ऊर्जा प्रदान कर सकती है। बी. ई. एस. एस. के 80 जी. डब्ल्यू. में 321 जी. डब्ल्यू. एच. का अर्थ है पूर्ण बिजली रेटिंग पर लगभग 4 घंटे का भंडारण। पी. एस. पी. के 94 जी. डब्ल्यू. में 567 जी. डब्ल्यू. एच. का अर्थ है लगभग 6 घंटे। यह संयुक्त भंडारण संरचना भारत की बिजली प्रणाली को ग्रिड विश्वसनीयता बनाए रखते हुए नवीकरणीय उत्पादन हिस्सेदारी को उत्तरोत्तर बढ़ाने के लिए परिचालन लचीलापन प्रदान करती है।",
+      "en": "The GWh figures — the total energy storage capacity, distinct from the GW power ratings — indicate how many hours of stored energy each system can deliver. 321 GWh across 80 GW of BESS implies approximately 4 hours of storage at full power rating. 567 GWh across 94 GW of PSPs implies approximately 6 hours. Together, this combined storage architecture provides India's power system with the operational flexibility to progressively increase renewable generation share while maintaining grid reliability.",
+      "ur": "جی ڈبلیو ایچ کے اعداد و شمار-جی ڈبلیو ایچ پاور ریٹنگ سے الگ توانائی ذخیرہ کرنے کی کل صلاحیت-اس بات کی نشاندہی کرتے ہیں کہ ہر نظام کتنے گھنٹے ذخیرہ شدہ توانائی فراہم کر سکتا ہے۔ بی ای ایس ایس کے 80 جی ڈبلیو میں 321 جی ڈبلیو ایچ کا مطلب ہے کہ مکمل پاور ریٹنگ پر تقریبا 4 گھنٹے کا ذخیرہ۔ پی ایس پیز کے 94 جی ڈبلیو میں 567 جی ڈبلیو ایچ کا مطلب تقریبا 6 گھنٹے ہے۔ یہ مشترکہ اسٹوریج فن تعمیر ہندوستان کے پاور سسٹم کو آپریشنل لچک فراہم کرتا ہے تاکہ گرڈ کی وشوسنییتا کو برقرار رکھتے ہوئے قابل تجدید پیداوار کے حصے کو بتدریج بڑھایا جا سکے۔"
+    },
+    "b25": {
+      "hi": "इसका क्या मतलब है",
+      "en": "What it signifies",
+      "ur": "اس کا کیا مطلب ہے"
+    },
+    "b26": {
+      "hi": "भारत के बिजली उपभोक्ताओं के लिए, अनुमानित मिश्रण का अर्थ है उत्तरोत्तर स्थिर या घटते शुल्कों पर उत्तरोत्तर स्वच्छ बिजली। सौर शुल्क 2014 में लगभग 8 रुपये प्रति यूनिट से उपयोगिता-पैमाने की बोली स्तरों पर आज लगभग 1 रुपये प्रति यूनिट तक गिर गया है। जैसे-जैसे भंडारण अर्थव्यवस्था में सुधार होगा और ग्रिड बुनियादी ढांचा परिपक्व होगा, संयुक्त सौर-प्लस-भंडारण शुल्क उत्तरोत्तर सीमांत और औसत दोनों आधारों पर कोयले से चलने वाली ताप बिजली के साथ प्रतिस्पर्धी हो जाएगा।",
+      "en": "For India's power consumers, the projected mix means progressively cleaner electricity at progressively stable or declining tariffs. Solar tariffs have fallen from approximately ₹8 per unit in 2014 to around ₹2.50-3 per unit today at utility-scale bid levels. As storage economics improve and grid infrastructure matures, the combined solar-plus-storage tariff will progressively become competitive with coal-fired thermal power on both a marginal and average basis.",
+      "ur": "ہندوستان کے بجلی صارفین کے لیے، متوقع مکس کا مطلب بتدریج مستحکم یا کم ہوتے محصولات پر بتدریج صاف ستھری بجلی ہے۔ یوٹیلیٹی پیمانے کی بولی کی سطح پر شمسی محصولات 2014 میں تقریبا 8 روپے فی یونٹ سے گر کر آج تقریبا 1 روپے فی یونٹ رہ گئے ہیں۔ جیسے جیسے اسٹوریج کی معیشت بہتر ہوتی جائے گی اور گرڈ کا بنیادی ڈھانچہ پختہ ہوتا جائے گا، مشترکہ سولر پلس اسٹوریج محصولات بتدریج اور اوسط دونوں بنیادوں پر کوئلے سے چلنے والی تھرمل پاور کے ساتھ مسابقتی بن جائیں گے۔"
+    },
+    "b27": {
+      "hi": "भारत की जलवायु प्रतिबद्धताओं के लिए, अनुमानित मिश्रण देश को हर वर्तमान अंतरराष्ट्रीय प्रतिबद्धता को पूरा करने या उससे आगे बढ़ने की स्थिति में रखता है। 2030 के लिए 500 गीगावाट सीओपी26 लक्ष्य 60 प्रतिशत चार साल पहले हासिल किया गया है। पेरिस समझौते एनडीसी लक्ष्य 50 प्रतिशत गैर-जीवाश्म स्थापित हिस्सेदारी जून 2025 में पार कर लिया गया था, पांच साल पहले। 2070 के शुद्ध शून्य लक्ष्य के लिए भारतीय अर्थव्यवस्था के हर आयाम में प्रगतिशील मजबूती की आवश्यकता है, लेकिन सीईए की योजना में दर्ज बिजली क्षेत्र प्रक्षेपवक्र उत्तरोत्तर बिजली उत्पादन के आयाम को प्रदान करता है।",
+      "en": "For India's climate commitments, the projected mix positions the country to meet or exceed every current international commitment. The 500 GW COP26 target for 2030 has been 60 per cent achieved four years early. The Paris Agreement NDC target of 50 per cent non-fossil installed share was crossed in June 2025, five years early. The 2070 Net Zero target requires progressive strengthening across every dimension of the Indian economy, but the power-sector trajectory captured in the CEA's plan progressively delivers the electricity-generation dimension.",
+      "ur": "ہندوستان کے آب و ہوا کے وعدوں کے لیے، متوقع مرکب ملک کو ہر موجودہ بین الاقوامی عزم کو پورا کرنے یا اس سے تجاوز کرنے کی پوزیشن میں رکھتا ہے۔ 2030 کے لیے 500 جی ڈبلیو سی او پی 26 کا ہدف 60 فیصد چار سال پہلے حاصل کیا گیا ہے۔ پیرس معاہدے کے این ڈی سی کا 50 فیصد غیر جیواشم نصب شدہ حصہ کا ہدف جون 2025 میں پانچ سال پہلے عبور کیا گیا تھا۔ 2070 نیٹ زیرو ہدف کو ہندوستانی معیشت کے ہر جہت میں ترقی پسندانہ مضبوطی کی ضرورت ہے، لیکن سی ای اے کے منصوبے میں پکڑے گئے بجلی کے شعبے کی رفتار بتدریج بجلی پیدا کرنے کے طول و عرض کو فراہم کرتی ہے۔"
+    },
+    "b28": {
+      "hi": "भारत के आत्मनिर्भर भारत ढांचे के लिए, अनुमानित मिश्रित विस्तार उत्तरोत्तर घरेलू विनिर्माण क्षमता में आधारित है जिसे ए. एल. एम. एम. ढांचा, पी. एल. आई. योजना और व्यापक औद्योगिक नीति ने बनाया है। भारत में तैनात नई सौर क्षमता का प्रत्येक गीगावाट उत्तरोत्तर भारतीय निर्मित मॉड्यूल का उपयोग करता है; नई पवन क्षमता का प्रत्येक गीगावाट भारतीय-डिज़ाइन किए गए टर्बाइनों का उपयोग करता है; और उत्तरोत्तर ऊर्जा भंडारण का प्रत्येक गीगावाट भारतीय निर्मित बैटरी सेल का उपयोग करेगा क्योंकि उन्नत रसायन विज्ञान प्रकोष्ठ (ए. सी. सी.) विनिर्माण पी. एल. आई. योजना उत्तरोत्तर क्षमता प्रदान करती है।",
+      "en": "For India's Aatmanirbhar Bharat framework, the projected mix expansion is progressively anchored in domestic manufacturing capacity that the ALMM framework, PLI scheme, and wider industrial policy have built. Every gigawatt of new solar capacity deployed in India progressively uses Indian-manufactured modules; every gigawatt of new wind capacity uses Indian-designed turbines; and progressively every gigawatt of energy storage will use Indian-manufactured battery cells as the Advanced Chemistry Cell (ACC) manufacturing PLI scheme progressively delivers capacity.",
+      "ur": "ہندوستان کے آتم نربھر بھارت فریم ورک کے لیے، متوقع مکس توسیع بتدریج گھریلو مینوفیکچرنگ صلاحیت میں لنگر انداز ہے جو اے ایل ایم ایم فریم ورک، پی ایل آئی اسکیم، اور وسیع تر صنعتی پالیسی نے بنائی ہے۔ ہندوستان میں تعینات نئی شمسی صلاحیت کا ہر گیگا واٹ بتدریج ہندوستان میں تیار کردہ ماڈیولز کا استعمال کرتا ہے۔ نئی ہوا کی صلاحیت کا ہر گیگا واٹ ہندوستان میں ڈیزائن کردہ ٹربائنوں کا استعمال کرتا ہے ؛ اور بتدریج توانائی ذخیرہ کرنے کا ہر گیگا واٹ ہندوستانی تیار کردہ بیٹری خلیوں کا استعمال کرے گا کیونکہ ایڈوانسڈ کیمسٹری سیل (اے سی سی) مینوفیکچرنگ پی ایل آئی اسکیم بتدریج صلاحیت فراہم کرتی ہے۔"
+    },
+    "b29": {
+      "hi": "भारत की वैश्विक स्थिति के अनुसार, अक्षय ऊर्जा स्थापित क्षमता में केवल चीन और संयुक्त राज्य अमेरिका के बाद तीसरे स्थान की रैंकिंग, अनुमानित प्रक्षेपवक्र के माध्यम से उत्तरोत्तर मजबूत होगी। भारत ने परिचालन रिकॉर्ड पर प्रदर्शित किया है कि वह गति और पैमाने पर महत्वाकांक्षी स्वच्छ-ऊर्जा प्रतिबद्धताओं को पूरा कर सकता है जो कुछ अन्य विकासशील अर्थव्यवस्थाओं की बराबरी कर सकता है।",
+      "en": "For India's global standing, the 3rd-place ranking in renewable energy installed capacity — behind only China and the United States — will progressively strengthen through the projected trajectory. India has demonstrated, on the operational record, that it can deliver ambitious clean-energy commitments at pace and scale that few other developing economies can match.",
+      "ur": "ہندوستان کی عالمی حیثیت کے لیے قابل تجدید توانائی کی نصب شدہ صلاحیت میں تیسری پوزیشن-صرف چین اور امریکہ کے پیچھے-متوقع رفتار کے ذریعے بتدریج مضبوط ہوگی۔ ہندوستان نے آپریشنل ریکارڈ پر یہ ظاہر کیا ہے کہ وہ رفتار اور پیمانے پر صاف ستھری توانائی کے عزائم کو پورا کر سکتا ہے جس کی موازنہ چند دیگر ترقی پذیر معیشتیں کر سکتی ہیں۔"
+    },
+    "b30": {
+      "hi": "अभी के लिए, 3 सितंबर 2026 की सुबह, परिचालन रिकॉर्ड में जो बात है वह यह हैः भारत का बिजली मिश्रण 40.8 प्रतिशत कोयला, 29.5 प्रतिशत सौर, 10.5 प्रतिशत पवन, 9.5 प्रतिशत पनबिजली, 1.6 प्रतिशत परमाणु और गैस, बायोमास, छोटे पनबिजली, अपशिष्ट से ऊर्जा, लिग्नाइट और डीजल में संतुलन; गैर-जीवाश्म स्रोत स्थापित क्षमता के 54 प्रतिशत से अधिक; वित्त वर्ष 2025-26 ने 34.95 GW पर भारतीय इतिहास में सबसे अधिक वार्षिक सौर जोड़ दर्ज किया; केंद्रीय विद्युत प्राधिकरण की राष्ट्रीय उत्पादन पर्याप्तता योजना परियोजनाएं सौर 509 GW पर भारत का सबसे बड़ा एकल स्रोत बनने की ओर अग्रसर है; 174 GW/888 GWh का ऊर्जा भंडारण उत्तरोत्तर परिचालन भागीदार प्रदान करेगा; और भारत के विद्युत उत्पादन को 40.8 प्रतिशत से अधिक गति देगा, लेकिन आज भी उसी क्षितिज से सौर वितरण क्षमता में परिवर्तन की संभावना है।",
+      "en": "For now, on the morning of 3 September 2026, what stands on the operational record is this: India's power mix stands at 40.8 per cent coal, 29.5 per cent solar, 10.5 per cent wind, 9.5 per cent hydro, 1.6 per cent nuclear, and the balance across gas, biomass, small hydro, waste-to-energy, lignite and diesel; non-fossil sources exceed 54 per cent of installed capacity; FY2025-26 recorded the highest annual solar addition in Indian history at 34.95 GW; the Central Electricity Authority's National Generation Adequacy Plan projects solar becoming India's largest single source by FY2035-36 at 509 GW; energy storage of 174 GW / 888 GWh will progressively provide the operational partner that renewable generation requires; and the trajectory of India's power sector transformation continues to accelerate rather than plateau. From 40.8 per cent coal today to 28 per cent by FY2035-36. From 29.5 per cent solar today to 45 per cent by the same horizon. The composition itself is inverting — and the operational visibility into the pipeline confirms that the trajectory is not aspiration but delivery.",
+      "ur": "فی الحال، 3 ستمبر 2026 کی صبح جو آپریشنل ریکارڈ پر کھڑا ہے وہ یہ ہے: ہندوستان کا پاور مکس 40. 8 فیصد کوئلہ، 29. 5 فیصد شمسی، 10. 5 فیصد ہوا، 9. 5 فیصد ہائیڈرو، 1. 6 فیصد جوہری، اور گیس، بائیو ماس، چھوٹے ہائیڈرو، فضلہ سے توانائی، لگنائٹ اور ڈیزل میں توازن ؛ غیر جیواشم ذرائع نصب شدہ صلاحیت کے 54 فیصد سے تجاوز کر گئے ؛ مالی سال 2025-26 نے 34.95 GW پر ہندوستانی تاریخ کا سب سے زیادہ سالانہ شمسی اضافہ ریکارڈ کیا۔ مرکزی بجلی اتھارٹی کا قومی جنریشن اڈیکیسی پلان پروجیکٹس شمسی 509 GW پر مالی سال 2035-36 کے ذریعہ ہندوستان کا سب سے بڑا واحد ذریعہ بن گیا ہے۔ 174 GW/888 GWh کا توانائی ذخیرہ بتدریج آپریشنل پارٹنر فراہم کرے گا جس کی ضرورت ہے ؛ اور ہندوستان کی رفتار 40. 8 فیصد سے بڑھ کر آج تک اسی سیکٹر میں شمسی توانائی کی فراہمی میں تبدیلی کی رفتار کو تیز کرتا ہے۔"
+    }
+  }
+}
