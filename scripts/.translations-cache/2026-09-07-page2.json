@@ -1,0 +1,425 @@
+{
+  "hash": "ad2f40e1e3ca5cc2",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"सीमा विकास · जीवंत ग्राम कार्यक्रम · गृह मंत्रालय · आत्मनिर्भर भारत\"",
+      "en": "\"Border Development · Vibrant Villages Programme · Ministry of Home Affairs · Aatmanirbhar Bharat\"",
+      "ur": "\"سرحدی ترقی · متحرک گاؤں کا پروگرام · وزارت داخلہ · آتم نربھر بھارت\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"जीवंत गाँव कार्यक्रमः 2,616 + सीमावर्ती गाँव, 11,639 करोड़ रुपये का संयुक्त परिव्यय\"",
+      "en": "\"Vibrant Villages Programme: 2,616+ border villages, ₹11,639 crore combined outlay\"",
+      "ur": "\"متحرک گاؤں کا پروگرام: 2, 616 + سرحدی گاؤں، 11, 639 کروڑ روپے کا مشترکہ خرچ\""
+    },
+    "fm.subdeck": {
+      "hi": "केंद्रीय मंत्रिमंडल ने 2 अप्रैल 2025 को वी. वी. पी.-II को मंजूरी दी, जिससे भारत के सीमा-ग्राम परिवर्तन कार्यक्रम का विस्तार सभी अंतरराष्ट्रीय भूमि सीमाओं तक किया जा सके। एक साथ, वी. वी. पी.-I (2023 का शुभारंभ) और वी. वी. पी.-II में 11,639 करोड़ रुपये के संयुक्त परिव्यय के साथ 2,616 से अधिक गाँव शामिल हैं। वी. वी. पी.-I के तहतः 2 करोड़ रुपये की 111 सड़क परियोजनाएं, 134 पहले से असंबद्ध गाँवों को जोड़ने वाली 481.93 करोड़ रुपये की 111 सड़क परियोजनाएं; 145 करोड़ रुपये की 327 पर्यटन परियोजनाएं; जुलाई 2026 तक आयोजित स्वास्थ्य शिविर, जागरूकता अभियान, सेवा वितरण शिविर और कौशल प्रशिक्षण सहित 8,800 से अधिक गतिविधियाँ। वी. वी. पी.-II पूरी तरह से केंद्रीय वित्त पोषित है और गृह मंत्रालय द्वारा कार्यान्वित है।",
+      "en": "\"The Union Cabinet approved VVP-II on 2 April 2025, extending India's border-village transformation programme to all international land borders. Together, VVP-I (launched 2023) and VVP-II cover 2,616-plus villages with a combined outlay of ₹11,639 crore. Under VVP-I: 111 road projects worth ₹2,481.93 crore connecting 134 previously unconnected villages; 327 tourism projects worth ₹145 crore; more than 8,800 activities including health camps, awareness drives, service delivery camps and skill training conducted by July 2026. VVP-II is entirely centrally funded and implemented by the Ministry of Home Affairs.\"",
+      "ur": "مرکزی کابینہ نے 2 اپریل 2025 کو وی وی پی-2 کو منظوری دی، جس سے ہندوستان کے سرحدی گاؤں کی تبدیلی کے پروگرام کو تمام بین الاقوامی زمینی سرحدوں تک بڑھایا گیا۔ ایک ساتھ، وی وی پی-1 (2023 کا آغاز) اور وی وی پی-2 11, 639 کروڑ روپے کے مشترکہ اخراجات کے ساتھ 2, 616 سے زیادہ دیہاتوں کا احاطہ کرتے ہیں۔ وی وی پی-1 کے تحت: 2, 481.93 کروڑ روپے کے 111 سڑک منصوبے جو پہلے سے غیر منسلک 134 دیہاتوں کو جوڑتے ہیں ؛ 145 کروڑ روپے کے 327 سیاحتی منصوبے ؛ جولائی 2026 تک منعقد ہونے والے صحت کیمپ، آگاہی مہم، خدمات کی فراہمی کے کیمپ اور ہنر مندی کی تربیت سمیت 8, 800 سے زیادہ سرگرمیاں۔ وی وی پی-2 کو مکمل طور پر مرکزی مالی اعانت فراہم کی جاتی ہے اور وزارت داخلہ کے ذریعے نافذ کیا جاتا ہے۔"
+    },
+    "b0": {
+      "hi": "भारत अपने सीमावर्ती गांवों को विकास, अवसर और सुरक्षा के जीवंत केंद्रों में बदल रहा है, जो हाल के वर्षों में देश द्वारा शुरू किए गए सबसे अधिक व्यावहारिक एकल सीमा-विकास कार्यक्रमों में से एक है। 2023 में शुरू किया गया वाइब्रेंट विलेज प्रोग्राम (वी. वी. पी.), भारत की अंतर्राष्ट्रीय भूमि सीमाओं के साथ चयनित गांवों के व्यापक विकास पर केंद्रित है। वी. वी. पी.-I और वी. वी. पी.-II अब 11,639 करोड़ रुपये के संयुक्त परिव्यय के साथ 2,616 से अधिक गांवों को कवर करते हैं। 2 अप्रैल 2025 को, केंद्रीय मंत्रिमंडल ने वी. वी. पी.-II को मंजूरी दी-केंद्रीय वित्त पोषण के तहत सभी भूमि सीमाओं तक मॉडल का विस्तार, जिसे गृह मंत्रालय द्वारा लागू किया गया है।",
+      "en": "India is transforming its border villages into vibrant centres of growth, opportunity and security through one of the most operationally consequential single border-development programmes the country has launched in recent years. The Vibrant Villages Programme (VVP), launched in 2023, focuses on the comprehensive development of selected villages along India's international land borders. Together, VVP-I and VVP-II now cover 2,616-plus villages with a combined outlay of ₹11,639 crore. On 2 April 2025, the Union Cabinet approved VVP-II — extending the model to all land borders under central funding, implemented by the Ministry of Home Affairs.",
+      "ur": "ہندوستان اپنے سرحدی دیہاتوں کو ترقی، مواقع اور سلامتی کے متحرک مراکز میں تبدیل کر رہا ہے جو کہ حالیہ برسوں میں ملک کے ذریعے شروع کیے گئے سب سے زیادہ عملی واحد سرحدی ترقیاتی پروگراموں میں سے ایک ہے۔ 2023 میں شروع کیا گیا وائبرینٹ ولیجز پروگرام (وی وی پی) ہندوستان کی بین الاقوامی زمینی سرحدوں کے ساتھ منتخب دیہاتوں کی جامع ترقی پر مرکوز ہے۔ وی وی پی-I اور وی وی پی-II اب مل کر 11, 639 کروڑ روپے کے مشترکہ اخراجات کے ساتھ 2, 616 سے زیادہ دیہاتوں کا احاطہ کرتے ہیں۔ 2 اپریل 2025 کو مرکزی کابینہ نے وی وی پی-II کو منظوری دی-مرکزی فنڈنگ کے تحت تمام زمینی سرحدوں تک ماڈل کو توسیع دی، جسے وزارت داخلہ نے نافذ کیا۔"
+    },
+    "b1": {
+      "hi": "वी. वी. पी.-I-परिचालन ट्रैक रिकॉर्ड",
+      "en": "VVP-I — the operational track record",
+      "ur": "وی وی پی-I-آپریشنل ٹریک ریکارڈ"
+    },
+    "b2": {
+      "hi": "वी. वी. पी.-I के तहत, 2, 481.93 करोड़ रुपये की 111 सड़क परियोजनाओं को मंजूरी दी गई है, जो 134 पहले से असंबद्ध गांवों को मुख्य भूमि सड़क नेटवर्क से जोड़ती हैं। 145 करोड़ रुपये की 327 पर्यटन परियोजनाओं को मंजूरी दी गई है, जिससे सीमावर्ती गांवों को अंतिम समय के बजाय गंतव्यों के रूप में खोला गया है। जुलाई 2026 तक, 8,800 से अधिक गतिविधियाँ आयोजित की गई थीं-स्वास्थ्य शिविर, जागरूकता अभियान, सेवा वितरण शिविर और कौशल प्रशिक्षण-सरकारी योजनाओं और नागरिक सेवाओं को उन समुदायों तक पहुँचाना जो ऐतिहासिक रूप से राज्य की पहुंच से परे थे।",
+      "en": "Under VVP-I, 111 road projects worth ₹2,481.93 crore have been sanctioned, connecting 134 previously unconnected villages to the mainland road network. 327 tourism projects worth ₹145 crore have been approved, opening border villages as destinations rather than dead-ends. By July 2026, more than 8,800 activities had been conducted — health camps, awareness drives, service delivery camps, and skill training — bringing government schemes and civic services to communities that had historically been at the margins of state reach.",
+      "ur": "وی وی پی-1 کے تحت 2, 481.93 کروڑ روپے کے 111 سڑک منصوبوں کو منظوری دی گئی ہے، جو 134 پہلے سے غیر منسلک دیہاتوں کو مین لینڈ روڈ نیٹ ورک سے جوڑتے ہیں۔ 145 کروڑ روپے کے 327 سیاحتی منصوبوں کو منظوری دی گئی ہے، جس سے سرحدی دیہاتوں کو ڈیڈ اینڈ کے بجائے منزلوں کے طور پر کھول دیا گیا ہے۔ جولائی 2026 تک 8, 800 سے زیادہ سرگرمیاں انجام دی گئیں-صحت کیمپ، آگاہی مہم، خدمات کی فراہمی کیمپ، اور ہنر مندی کی تربیت-سرکاری اسکیموں اور شہری خدمات کو ان کمیونٹیز تک پہنچانا جو تاریخی طور پر ریاست کی پہنچ سے محروم تھے۔"
+    },
+    "b3": {
+      "hi": "वी. वी. पी.-II-मॉडल का विस्तार सभी भूमि सीमाओं तक करना",
+      "en": "VVP-II — extending the model to all land borders",
+      "ur": "وی وی پی-II-ماڈل کو تمام زمینی سرحدوں تک بڑھانا"
+    },
+    "b4": {
+      "hi": "केंद्रीय मंत्रिमंडल की 2 अप्रैल 2025 की मंजूरी ने परिचालन मॉडल को प्रारंभिक उत्तरी-सीमा से भारत की सभी अंतरराष्ट्रीय भूमि सीमाओं तक विस्तारित किया। पहले चरण के विपरीत, वी. वी. पी.-II को पूरी तरह से केंद्र द्वारा वित्त पोषित किया जाता है और सीधे गृह मंत्रालय द्वारा लागू किया जाता है। इस कार्यक्रम में बांग्लादेश, भूटान, म्यांमार, नेपाल के साथ भारत की सीमाओं के साथ लगे गाँव और अतिरिक्त क्षेत्र शामिल हैं जो वी. वी. पी.-I के तहत नहीं आते हैं, जिससे देश की सीमा-ग्राम संरचना में समान विकास पर ध्यान दिया जाता है।",
+      "en": "The Union Cabinet's 2 April 2025 approval of VVP-II extends the operational model from the initial northern-border focus to all of India's international land borders. Unlike the first phase, VVP-II is funded entirely by the Centre and implemented directly by the Ministry of Home Affairs. The programme covers villages along India's borders with Bangladesh, Bhutan, Myanmar, Nepal, and additional stretches not covered under VVP-I, ensuring uniform developmental attention across the country's border-village architecture.",
+      "ur": "مرکزی کابینہ کی 2 اپریل 2025 کو وی وی پی-II کی منظوری آپریشنل ماڈل کو ابتدائی شمالی سرحد سے ہندوستان کی تمام بین الاقوامی زمینی سرحدوں تک بڑھاتی ہے۔ پہلے مرحلے کے برعکس، وی وی پی-II کو مکمل طور پر مرکز کی طرف سے مالی اعانت فراہم کی جاتی ہے اور اسے براہ راست وزارت داخلہ کے ذریعے نافذ کیا جاتا ہے۔ اس پروگرام میں بنگلہ دیش، بھوٹان، میانمار، نیپال کے ساتھ ہندوستان کی سرحدوں کے ساتھ دیہات اور اضافی حصوں کا احاطہ کیا گیا ہے جو وی وی پی-I کے تحت نہیں آتے ہیں، جس سے ملک کے سرحدی گاؤں کے ڈھانچے میں یکساں ترقیاتی توجہ کو یقینی بنایا جاتا ہے۔"
+    },
+    "b5.title": {
+      "hi": "जीवंत गाँव कार्यक्रम एक नज़र में",
+      "en": "Vibrant Villages Programme at a Glance",
+      "ur": "ایک نظر میں متحرک گاؤں کا پروگرام"
+    },
+    "b5.itemlbl.0": {
+      "hi": "वी. वी. पी.-I का शुभारंभ वर्ष",
+      "en": "VVP-I launch year",
+      "ur": "وی وی پی-I لانچ کا سال"
+    },
+    "b5.itemval.0": {
+      "hi": "2023",
+      "en": "2023",
+      "ur": "2023"
+    },
+    "b5.itemlbl.1": {
+      "hi": "वी. वी. पी.-II कैबिनेट की मंजूरी",
+      "en": "VVP-II Cabinet approval",
+      "ur": "وی وی پی-II کابینہ کی منظوری"
+    },
+    "b5.itemval.1": {
+      "hi": "2 अप्रैल 2025",
+      "en": "2 April 2025",
+      "ur": "2 اپریل 2025"
+    },
+    "b5.itemlbl.2": {
+      "hi": "कुल गाँव (वी. वी. पी.-I + वी. वी. पी.-II)",
+      "en": "Total villages covered (VVP-I + VVP-II)",
+      "ur": "احاطہ شدہ کل گاؤں (وی وی پی-I + وی وی پی-II)"
+    },
+    "b5.itemval.2": {
+      "hi": "2, 616 +",
+      "en": "2,616+",
+      "ur": "2, 616 +"
+    },
+    "b5.itemlbl.3": {
+      "hi": "संयुक्त परिव्यय",
+      "en": "Combined outlay",
+      "ur": "مشترکہ اخراجات"
+    },
+    "b5.itemval.3": {
+      "hi": "11, 639 करोड़ रुपये",
+      "en": "₹11,639 crore",
+      "ur": "11, 639 کروڑ روپے"
+    },
+    "b5.itemlbl.4": {
+      "hi": "वी. वी. पी.-II वित्तपोषण",
+      "en": "VVP-II funding",
+      "ur": "وی وی پی-II فنڈنگ"
+    },
+    "b5.itemval.4": {
+      "hi": "पूरी तरह से केंद्रीय",
+      "en": "Entirely central",
+      "ur": "مکمل طور پر مرکزی"
+    },
+    "b5.itemlbl.5": {
+      "hi": "मंत्रालय का कार्यान्वयन",
+      "en": "Implementing ministry",
+      "ur": "عمل درآمد کی وزارت"
+    },
+    "b5.itemval.5": {
+      "hi": "गृह मंत्रालय",
+      "en": "Ministry of Home Affairs",
+      "ur": "وزارت داخلہ"
+    },
+    "b5.itemlbl.6": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b5.itemval.6": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.7": {
+      "hi": "वी. वी. पी.-I डिलीवरी (जुलाई 2026 तक)",
+      "en": "VVP-I DELIVERY (as of July 2026)",
+      "ur": "وی وی پی-I ڈیلیوری (جولائی 2026 تک)"
+    },
+    "b5.itemval.7": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.8": {
+      "hi": "सड़क परियोजनाओं को मंजूरी",
+      "en": "Road projects sanctioned",
+      "ur": "سڑک منصوبوں کی منظوری"
+    },
+    "b5.itemval.8": {
+      "hi": "111",
+      "en": "111",
+      "ur": "111"
+    },
+    "b5.itemlbl.9": {
+      "hi": "सड़क परियोजनाओं का मूल्य",
+      "en": "Road projects value",
+      "ur": "سڑک کے منصوبوں کی قدر"
+    },
+    "b5.itemval.9": {
+      "hi": "₹2, 481.93 करोड़",
+      "en": "₹2,481.93 crore",
+      "ur": "₹ 2, 481.93 کروڑ"
+    },
+    "b5.itemlbl.10": {
+      "hi": "पहले से असंबद्ध गाँव अब जुड़े हुए हैं",
+      "en": "Previously unconnected villages now connected",
+      "ur": "پہلے غیر منسلک گاؤں اب جڑے ہوئے ہیں"
+    },
+    "b5.itemval.10": {
+      "hi": "134",
+      "en": "134",
+      "ur": "134"
+    },
+    "b5.itemlbl.11": {
+      "hi": "पर्यटन परियोजनाओं को मंजूरी दी गई",
+      "en": "Tourism projects approved",
+      "ur": "سیاحتی منصوبوں کی منظوری دی گئی"
+    },
+    "b5.itemval.11": {
+      "hi": "327",
+      "en": "327",
+      "ur": "327"
+    },
+    "b5.itemlbl.12": {
+      "hi": "पर्यटन परियोजनाओं का महत्व",
+      "en": "Tourism projects value",
+      "ur": "سیاحتی منصوبوں کی قدر"
+    },
+    "b5.itemval.12": {
+      "hi": "145 करोड़ रु.",
+      "en": "₹145 crore",
+      "ur": "145 کروڑ روپے"
+    },
+    "b5.itemlbl.13": {
+      "hi": "आयोजित गतिविधियाँ",
+      "en": "Activities conducted",
+      "ur": "کی جانے والی سرگرمیاں"
+    },
+    "b5.itemval.13": {
+      "hi": "8, 800 से अधिक",
+      "en": "More than 8,800",
+      "ur": "8, 800 سے زیادہ"
+    },
+    "b5.itemlbl.14": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b5.itemval.14": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.15": {
+      "hi": "वी. वी. पी.-I गतिविधि श्रेणियाँ",
+      "en": "VVP-I ACTIVITY CATEGORIES",
+      "ur": "وی وی پی-I سرگرمی کی زمرہ جات"
+    },
+    "b5.itemval.15": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.16": {
+      "hi": "स्वास्थ्य शिविर",
+      "en": "Health camps",
+      "ur": "صحت کیمپ"
+    },
+    "b5.itemval.16": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.17": {
+      "hi": "जागरूकता अभियान",
+      "en": "Awareness drives",
+      "ur": "آگاہی کی مہمات"
+    },
+    "b5.itemval.17": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.18": {
+      "hi": "सेवा वितरण शिविर",
+      "en": "Service delivery camps",
+      "ur": "خدمات کی فراہمی کے کیمپ"
+    },
+    "b5.itemval.18": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.19": {
+      "hi": "कौशल प्रशिक्षण",
+      "en": "Skill training",
+      "ur": "ہنر کی تربیت"
+    },
+    "b5.itemval.19": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.20": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b5.itemval.20": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.21": {
+      "hi": "मुख्य उद्देश्य",
+      "en": "CORE OBJECTIVES",
+      "ur": "بنیادی مقاصد"
+    },
+    "b5.itemval.21": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.22": {
+      "hi": "सीमावर्ती गाँवों का व्यापक विकास",
+      "en": "Comprehensive development of border villages",
+      "ur": "سرحدی دیہاتوں کی جامع ترقی"
+    },
+    "b5.itemval.22": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.23": {
+      "hi": "बुनियादी ढांचे में सुधार",
+      "en": "Improved infrastructure",
+      "ur": "بہتر انفراسٹرکچر"
+    },
+    "b5.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.24": {
+      "hi": "आजीविका में वृद्धि हुई",
+      "en": "Enhanced livelihoods",
+      "ur": "روزی روٹی میں اضافہ"
+    },
+    "b5.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.25": {
+      "hi": "आवश्यक सेवा वितरण",
+      "en": "Essential service delivery",
+      "ur": "ضروری خدمات کی فراہمی"
+    },
+    "b5.itemval.25": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.26": {
+      "hi": "जीवंत और सुरक्षित सीमावर्ती समुदाय",
+      "en": "Vibrant and secure frontier communities",
+      "ur": "متحرک اور محفوظ سرحدی کمیونٹیز"
+    },
+    "b5.itemval.26": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.27": {
+      "hi": "सीमा-ग्राम पलायन का उलटफेर",
+      "en": "Reversal of border-village outmigration",
+      "ur": "سرحدی گاؤں کی نقل مکانی کا الٹنا"
+    },
+    "b5.itemval.27": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.28": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b5.itemval.28": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.29": {
+      "hi": "\"अंतिम\" से \"प्रथम\" गाँवों में स्थानांतरण",
+      "en": "SHIFT FROM \"LAST\" TO \"FIRST\" VILLAGES",
+      "ur": "\"آخری\" سے \"پہلے\" دیہاتوں میں تبدیلی"
+    },
+    "b5.itemval.29": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b5.itemlbl.30": {
+      "hi": "पुरानी फ़्रेमिंग",
+      "en": "Old framing",
+      "ur": "پرانی فریمنگ"
+    },
+    "b5.itemval.30": {
+      "hi": "सीमावर्ती गाँव \"अंतिम गाँव\" (परिधीय) के रूप में",
+      "en": "Border villages as \"last villages\" (peripheral)",
+      "ur": "سرحدی گاؤں بطور \"آخری گاؤں\" (پردیی)"
+    },
+    "b5.itemlbl.31": {
+      "hi": "नई रचना",
+      "en": "New framing",
+      "ur": "نئی فریمنگ"
+    },
+    "b5.itemval.31": {
+      "hi": "सीमावर्ती गाँव \"प्रथम गाँव\" के रूप में (अग्रिम पंक्ति, रणनीतिक)",
+      "en": "Border villages as \"first villages\" (frontline, strategic)",
+      "ur": "سرحدی گاؤں بطور \"پہلے گاؤں\" (فرنٹ لائن، اسٹریٹجک)"
+    },
+    "b5.itemlbl.32": {
+      "hi": "तर्क",
+      "en": "Rationale",
+      "ur": "استدلال"
+    },
+    "b5.itemval.32": {
+      "hi": "राष्ट्रीय सुरक्षा के लिए जीवित संपत्ति के रूप में आबादी वाली सीमाएँ",
+      "en": "Populated borders as living assets to national security",
+      "ur": "قومی سلامتی کے لیے زندہ اثاثے کے طور پر آباد سرحدیں"
+    },
+    "b6.q": {
+      "hi": "बुनियादी ढांचे, आजीविका और आवश्यक सेवाओं में सुधार करके, वी. वी. पी. जीवंत और सुरक्षित सीमावर्ती समुदायों को बनाने में मदद कर रहा है।",
+      "en": "\"By improving infrastructure, livelihoods and essential services, VVP is helping create vibrant and secure frontier communities.\"",
+      "ur": "\"بنیادی ڈھانچے، معاش اور ضروری خدمات کو بہتر بنا کر، وی وی پی متحرک اور محفوظ سرحدی برادریوں کی تشکیل میں مدد کر رہا ہے\"۔"
+    },
+    "b6.c": {
+      "hi": "- गृह मंत्रालय जीवंत गाँव कार्यक्रम तैयार कर रहा है",
+      "en": "— Ministry of Home Affairs framing on the Vibrant Villages Programme",
+      "ur": "- وزارت داخلہ وائبرینٹ ولیجز پروگرام پر تشکیل دے رہی ہے"
+    },
+    "b7": {
+      "hi": "क्यों महत्वपूर्ण है कार्यक्रम",
+      "en": "Why the programme matters",
+      "ur": "پروگرام کیوں اہمیت رکھتا ہے"
+    },
+    "b8": {
+      "hi": "दशकों से भारत के सीमावर्ती गांव उत्तरोत्तर खाली हो रहे थे क्योंकि निवासी बेहतर अवसरों की तलाश में अंदर की ओर पलायन कर रहे थे। एक खाली सीमा एक रणनीतिक भेद्यता है-इसके विपरीत, आबादी वाली सीमाएं संप्रभुता और एक कार्यात्मक नागरिक पारिस्थितिकी तंत्र का जीवित प्रमाण प्रदान करती हैं जो व्यापक सुरक्षा संरचना का समर्थन करती हैं। सीमावर्ती नागरिकों को बुनियादी ढांचा, जागरूकता और आर्थिक शक्ति प्रदान करके, वी. वी. पी. मौलिक रूप से भारत की सीमा-विकास मुद्रा को सीमांत पहुंच से व्यापक उपस्थिति में बदल देता है। \"अंतिम गाँव\" से \"पहले गाँव\" में परिवर्तन-एक प्रतिमान जिसे सरकार ने उत्तरोत्तर स्पष्ट किया है-वी. वी. पी.-I और वी. वी. पी.-II दोनों के संचालन तर्क को दर्शाता है।",
+      "en": "For decades, India's border villages had progressively been emptying as residents migrated inward in search of better opportunities. An empty border is a strategic vulnerability — populated borders, by contrast, provide living evidence of sovereignty and a functional civilian ecosystem that supports the wider security architecture. By providing frontier citizens with infrastructure, awareness and economic power, the VVP fundamentally shifts India's border-development posture from marginal reach to comprehensive presence. The transformation from \"last villages\" to \"first villages\" — a paradigm the Government has progressively articulated — captures the operational logic underpinning both VVP-I and VVP-II.",
+      "ur": "کئی دہائیوں سے ہندوستان کے سرحدی گاؤں بتدریج خالی ہوتے جا رہے تھے کیونکہ رہائشی بہتر مواقع کی تلاش میں اندر کی طرف ہجرت کر رہے تھے۔ ایک خالی سرحد ایک اسٹریٹجک کمزوری ہے-اس کے برعکس، آبادی والی سرحدیں خودمختاری اور ایک فعال شہری ماحولیاتی نظام کا زندہ ثبوت فراہم کرتی ہیں جو وسیع تر حفاظتی ڈھانچے کی حمایت کرتی ہیں۔ سرحدی شہریوں کو بنیادی ڈھانچہ، بیداری اور معاشی طاقت فراہم کرکے، وی وی پی بنیادی طور پر ہندوستان کی سرحدی ترقی کی کرنسی کو معمولی رسائی سے جامع موجودگی میں بدل دیتا ہے۔ \"آخری دیہات\" سے \"پہلے دیہات\" میں تبدیلی-ایک نمونہ جو حکومت نے بتدریج بیان کیا ہے-وی وی پی-I اور وی وی پی-II دونوں کی بنیاد پر آپریشنل منطق کو ظاہر کرتا ہے۔"
+    },
+    "b9": {
+      "hi": "2, 481.93 करोड़ रुपये की 111 सड़क परियोजनाएं जो पहले से असंबद्ध 134 गांवों को जोड़ चुकी हैं, इस बदलाव के एक परिचालन आयाम का प्रतिनिधित्व करती हैं। 145 करोड़ रुपये की 327 पर्यटन परियोजनाएं दूसरे का प्रतिनिधित्व करती हैं-सीमावर्ती गांवों को परिधीय के बजाय आर्थिक गंतव्य के रूप में। जुलाई 2026 तक आयोजित 8,800 से अधिक स्वास्थ्य शिविर, जागरूकता अभियान, सेवा वितरण शिविर और कौशल प्रशिक्षण गतिविधियाँ सीमा पर राज्य की उपस्थिति के नरम लेकिन समान रूप से परिणामी आयाम का प्रतिनिधित्व करती हैं।",
+      "en": "The 111 road projects worth ₹2,481.93 crore that have connected 134 previously unconnected villages represent one operational dimension of this shift. The 327 tourism projects worth ₹145 crore represent another — border villages as economic destinations rather than as peripheries. The more than 8,800 health camps, awareness drives, service delivery camps and skill training activities conducted by July 2026 represent the softer but equally consequential dimension of state presence at the frontier.",
+      "ur": "2, 481.93 کروڑ روپے کے 111 سڑک منصوبے جو 134 پہلے سے غیر منسلک دیہاتوں کو جوڑ چکے ہیں، اس تبدیلی کی ایک عملی جہت کی نمائندگی کرتے ہیں۔ 145 کروڑ روپے کے 327 سیاحتی منصوبے دوسرے کی نمائندگی کرتے ہیں-سرحدی دیہاتوں کو محاصرے کے بجائے اقتصادی مقامات کے طور پر۔ جولائی 2026 تک منعقد کیے گئے 8, 800 سے زیادہ صحت کیمپ، آگاہی مہمات، خدمات کی فراہمی کے کیمپ اور ہنر مندی کی تربیتی سرگرمیاں سرحد پر ریاستی موجودگی کے نرم لیکن یکساں طور پر نتیجہ خیز جہت کی نمائندگی کرتی ہیں۔"
+    },
+    "b10": {
+      "hi": "वी. वी. पी.-II अब केंद्रीय वित्त पोषण और गृह मंत्रालय के कार्यान्वयन के तहत हर भूमि सीमा पर मॉडल का विस्तार कर रहा है, जिसके माध्यम से भारत के सीमावर्ती गाँव उत्तरोत्तर जीवंत, सुरक्षित, जुड़े हुए समुदायों में बदल रहे हैं।",
+      "en": "With VVP-II now extending the model across every land border under central funding and Ministry of Home Affairs implementation, the operational architecture through which India's frontier villages progressively transform into vibrant, secure, connected communities has been formally scaled up.",
+      "ur": "وی وی پی-II کے ساتھ اب مرکزی فنڈنگ اور وزارت داخلہ کے نفاذ کے تحت ہر زمینی سرحد پر ماڈل کو وسعت دی گئی ہے، آپریشنل فن تعمیر جس کے ذریعے ہندوستان کے سرحدی دیہات بتدریج متحرک، محفوظ، منسلک برادریوں میں تبدیل ہو رہے ہیں، کو باضابطہ طور پر بڑھا دیا گیا ہے۔"
+    }
+  }
+}
