@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vivekananda 125 — Youth Connect | Bharat Samvad</title>
+<meta name="description" content="Dr Nikhil Yadav to lead 'Vivekananda 125' initiative connecting 50 campuses and 75 villages. From 11 September 2026 to 12 January 2028.">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Vivekananda 125 — Youth Connect | Bharat Samvad">
+<meta property="og:description" content="A youth-focused initiative marking the 125th anniversary of Swami Vivekananda's Mahasamadhi. 50 campuses, 75 villages, from campus to community.">
+<meta property="og:image" content="https://bharatsamwad.org/images/vivekananda-125-poster.png">
+<meta property="og:url" content="https://bharatsamwad.org/vivekananda-125.html">
+<meta property="og:type" content="article">
+
+<style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+        font-family: Georgia, 'Times New Roman', serif;
+        background: #F5EFE5;
+        color: #1A1714;
+        line-height: 1.6;
+    }
+
+    /* ============================================================
+       Masthead (matches Bharat Samvad style)
+       ============================================================ */
+    .masthead {
+        background: #FFFFFF;
+        border-bottom: 4px double #8B0000;
+        padding: 18px 20px 14px;
+        text-align: center;
+    }
+
+    .masthead a { text-decoration: none; color: inherit; }
+
+    .brand-hindi {
+        font-family: 'Noto Sans Devanagari', 'Mangal', serif;
+        font-size: 36px;
+        font-weight: 700;
+        color: #8B0000;
+        letter-spacing: 2px;
+        margin-bottom: 2px;
+    }
+
+    .brand-english {
+        font-size: 15px;
+        color: #6B5F52;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        font-family: Georgia, serif;
+    }
+
+    .brand-tagline {
+        margin-top: 6px;
+        font-size: 11px;
+        color: #999;
+        font-style: italic;
+        letter-spacing: 1px;
+    }
+
+    /* ============================================================
+       Kicker bar
+       ============================================================ */
+    .kicker-bar {
+        background: #8B0000;
+        color: #FFF;
+        padding: 8px 20px;
+        font-size: 11px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        text-align: center;
+        font-family: Georgia, serif;
+    }
+
+    /* ============================================================
+       Main content wrapper
+       ============================================================ */
+    .wrapper {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 32px 20px 60px;
+    }
+
+    /* ============================================================
+       Feature card
+       ============================================================ */
+    .feature-card {
+        background: #FFF8F0;
+        border: 3px solid #C1440E;
+        border-radius: 4px;
+        box-shadow: 0 4px 20px rgba(139, 30, 0, 0.15);
+        overflow: hidden;
+    }
+
+    .sponsored-label {
+        background: #C1440E;
+        color: #FFF;
+        text-align: center;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 3px;
+        padding: 6px 8px;
+        text-transform: uppercase;
+        font-family: Georgia, serif;
+    }
+
+    .poster-image {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .content {
+        padding: 28px 28px 32px;
+    }
+
+    .headline {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: 26px;
+        font-weight: 700;
+        color: #6B1E00;
+        line-height: 1.25;
+        margin-bottom: 14px;
+    }
+
+    .subhead {
+        font-size: 15px;
+        color: #555;
+        line-height: 1.5;
+        margin-bottom: 22px;
+        font-style: italic;
+        padding-bottom: 18px;
+        border-bottom: 1px solid #E8D2B8;
+    }
+
+    /* Date banner */
+    .date-banner {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        padding: 12px 16px;
+        margin-bottom: 22px;
+        background: #FFE8D0;
+        border-radius: 4px;
+        font-size: 15px;
+        font-weight: 700;
+        color: #6B1E00;
+        letter-spacing: 0.5px;
+    }
+
+    .date-icon { font-size: 18px; }
+
+    /* Stats row */
+    .stats-row {
+        display: flex;
+        gap: 12px;
+        margin-bottom: 26px;
+    }
+
+    .stat-card {
+        flex: 1;
+        text-align: center;
+        padding: 16px 8px;
+        background: #FFF;
+        border: 1px solid #E8D2B8;
+        border-radius: 4px;
+    }
+
+    .stat-number {
+        font-size: 34px;
+        font-weight: 700;
+        color: #C1440E;
+        line-height: 1;
+        margin-bottom: 4px;
+        font-family: Georgia, serif;
+    }
+
+    .stat-label {
+        font-size: 11px;
+        color: #666;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-family: Georgia, serif;
+    }
+
+    /* Section */
+    .section {
+        margin-bottom: 20px;
+    }
+
+    .section-title {
+        font-size: 13px;
+        font-weight: 700;
+        color: #C1440E;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 8px;
+        font-family: Georgia, serif;
+    }
+
+    .section-body {
+        font-size: 14px;
+        color: #333;
+        line-height: 1.65;
+    }
+
+    /* Quote */
+    .quote-block {
+        margin: 26px 0;
+        padding: 18px 22px;
+        background: #FFF;
+        border-left: 4px solid #C1440E;
+        font-style: italic;
+        color: #444;
+        font-size: 14px;
+        line-height: 1.6;
+    }
+
+    .quote-attribution {
+        display: block;
+        margin-top: 10px;
+        font-size: 12px;
+        color: #888;
+        font-style: normal;
+        text-align: right;
+    }
+
+    /* Leader credit */
+    .leader-credit {
+        margin-top: 24px;
+        padding: 16px 20px;
+        background: #FFF;
+        border: 1px solid #E8D2B8;
+        border-radius: 4px;
+        font-size: 13px;
+        color: #444;
+        line-height: 1.55;
+    }
+
+    .leader-credit strong { color: #6B1E00; }
+
+    /* ============================================================
+       Footer nav
+       ============================================================ */
+    .footer-nav {
+        margin-top: 40px;
+        text-align: center;
+        padding-top: 24px;
+        border-top: 1px solid #D9CFC0;
+    }
+
+    .back-link {
+        display: inline-block;
+        padding: 10px 24px;
+        background: #8B0000;
+        color: #FFF;
+        text-decoration: none;
+        border-radius: 4px;
+        font-size: 13px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        transition: background 0.2s;
+        font-family: Georgia, serif;
+    }
+
+    .back-link:hover { background: #6B0000; }
+
+    /* ============================================================
+       Site footer
+       ============================================================ */
+    .site-footer {
+        background: #1A1714;
+        color: #C9BFB0;
+        padding: 24px 20px;
+        text-align: center;
+        font-size: 11px;
+        letter-spacing: 1px;
+    }
+
+    .site-footer a { color: #E8D2B8; text-decoration: none; }
+
+    /* ============================================================
+       Mobile responsiveness
+       ============================================================ */
+    @media (max-width: 640px) {
+        .content { padding: 22px 20px 26px; }
+        .headline { font-size: 22px; }
+        .stat-number { font-size: 28px; }
+        .stats-row { gap: 8px; }
+    }
+</style>
+</head>
+<body>
+
+<!-- Masthead -->
+<div class="masthead">
+    <a href="/index.html">
+        <div class="brand-hindi">भारत संवाद</div>
+        <div class="brand-english">Bharat Samvad</div>
+        <div class="brand-tagline">Trilingual — Hindi · English · Urdu</div>
+    </a>
+</div>
+
+<!-- Kicker -->
+<div class="kicker-bar">
+    Sponsored Feature · Youth Initiative · From Campus to Community
+</div>
+
+<!-- Content -->
+<div class="wrapper">
+    <article class="feature-card">
+        <div class="sponsored-label">Sponsored Feature</div>
+
+        <img src="/images/vivekananda-125-poster.png"
+             alt="VIVEKANANDA 125 Youth Connect — From Campus to Community. 11 September 2026 to 12 January 2028. 125 places · 50 institutions · 75 villages"
+             class="poster-image">
+
+        <div class="content">
+            <h1 class="headline">
+                Dr Nikhil Yadav to lead 'Vivekananda 125' initiative connecting 50 campuses and 75 villages
+            </h1>
+
+            <div class="subhead">
+                A youth-focused initiative to run from 11 September 2026 to 12 January 2028, bringing Swami Vivekananda's ideas into dialogue with young people and communities across India.
+            </div>
+
+            <div class="date-banner">
+                <span class="date-icon">📅</span>
+                <span>11 September 2026 &mdash; 12 January 2028</span>
+            </div>
+
+            <div class="stats-row">
+                <div class="stat-card">
+                    <div class="stat-number">125</div>
+                    <div class="stat-label">Places</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">50</div>
+                    <div class="stat-label">Campuses</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">75</div>
+                    <div class="stat-label">Villages</div>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-body">
+                    A youth-oriented initiative titled "VIVEKANANDA 125 &mdash; From Campus to Community" will be undertaken from 11 September 2026 to 12 January 2028, marking the 125th anniversary of Swami Vivekananda's Mahasamadhi (Punyatithi). The initiative aims to take conversations around Swami Vivekananda beyond conventional commemorative programmes and connect his ideas with contemporary questions facing young Indians.
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Campus 50</div>
+                <div class="section-body">
+                    Under Campus 50, students will be engaged through lectures, interactive discussions, reading activities, creative outreach and digital initiatives. Conversations will focus on themes such as "Know Thyself," strength, character, leadership, purpose and responsible use of technology.
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Community 75</div>
+                <div class="section-body">
+                    Under Community 75, the initiative will engage with village youth, students, teachers and community leaders through interactions and Youth Chaupals. The programme will also document inspiring local personalities, village stories, traditions and community achievements.
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Digital Community — Swami Vivekananda for Gen Z</div>
+                <div class="section-body">
+                    A digital community, "Swami Vivekananda for Gen Z," will provide continued engagement through short videos, writings, reading recommendations, discussions and simple youth challenges focused on areas such as digital discipline and Surya Namaskar.
+                </div>
+            </div>
+
+            <div class="quote-block">
+                "The objective is not simply to tell young people about Swami Vivekananda, but to create opportunities for them to question, reflect, discover and contribute. We want to explore how Swamiji's ideas of strength, character, self-belief and service can become meaningful in the lives of young Indians today."
+                <span class="quote-attribution">— Dr Nikhil Yadav</span>
+            </div>
+
+            <div class="leader-credit">
+                <strong>Led by Dr Nikhil Yadav</strong> &mdash; PhD from Jawaharlal Nehru University; Founder, Swami Vivekananda for GenZ; Deputy Head, Vivekananda Kendra Uttar Prant.
+            </div>
+        </div>
+    </article>
+
+    <div class="footer-nav">
+        <a href="/index.html" class="back-link">← Back to Bharat Samvad</a>
+    </div>
+</div>
+
+<!-- Site footer -->
+<div class="site-footer">
+    © 2026 Bharat Samvad Publications · <a href="/index.html">Home</a>
+</div>
+
+</body>
+</html>
