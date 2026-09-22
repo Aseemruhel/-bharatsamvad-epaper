@@ -1,0 +1,470 @@
+{
+  "hash": "59173d6ec06ee5e9",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"अंतरिक्ष · इसरो · नाविक · जीएसएलवी-एफ18 · उपग्रह नौपरिवहन\"",
+      "en": "\"Space · ISRO · NavIC · GSLV-F18 · Satellite Navigation\"",
+      "ur": "\"خلائی · اسرو · نیویک · جی ایس ایل وی-ایف 18 · سیٹلائٹ نیویگیشن\""
+    },
+    "fm.byline": {
+      "hi": "अंतरिक्ष संवाददाता",
+      "en": "Space Correspondent",
+      "ur": "خلائی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "श्रीहरिकोटा/बेंगलुरु",
+      "en": "Sriharikota / Bengaluru",
+      "ur": "سری ہری کوٹا/بنگلورو"
+    },
+    "fm.headline": {
+      "hi": "\"इसरो का नाविक बचावः एनवीएस-03 अक्टूबर के बीच जीएसएलवी-एफ18 पर प्रक्षेपित किया जाएगा\"",
+      "en": "\"ISRO's NavIC rescue: NVS-03 to launch on GSLV-F18 between 15-20 October\"",
+      "ur": "اسرو کا نیویک ریسکیو: این وی ایس-03 اکتوبر کے درمیان جی ایس ایل وی-ایف 18 پر لانچ کیا جائے گا"
+    },
+    "fm.subdeck": {
+      "hi": "\"भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने दूसरी पीढ़ी के नाविक नक्षत्र समूह के तीसरे उपग्रह एनवीएस-03 के लिए प्रक्षेपण अभियान शुरू कर दिया है, जिसे 15 से 20 अक्टूबर 2026 के बीच जीएसएलवी-एफ18 पर उतारने की योजना है। इस उपग्रह को भूस्थैतिक पृथ्वी कक्षा में जाने से पहले भूस्थैतिक स्थानांतरण कक्षा में रखा जाएगा। एनवीएस-03 महत्वपूर्ण हैः अब तक प्रक्षेपित किए गए ग्यारह नाविक उपग्रहों में से केवल तीन ही चालू हैं, जिससे भारत का स्वतंत्र नौवहन नक्षत्र वर्तमान में अपनी न्यूनतम चार उपग्रह सीमा से नीचे है। एक सफल एनवीएस-03 मिशन नाविक को सेवा में बहाल करेगा।\"",
+      "en": "\"ISRO has begun the launch campaign for NVS-03, the third satellite of the second-generation NavIC constellation, with liftoff planned between 15 and 20 October 2026 aboard the GSLV-F18. The 2.2-tonne satellite will be placed in Geostationary Transfer Orbit before manoeuvring itself into Geostationary Earth Orbit. NVS-03 is critical: only three of the eleven NavIC satellites launched so far remain operational, leaving India's independent navigation constellation currently below its minimum four-satellite threshold. A successful NVS-03 mission will restore NavIC to service.\"",
+      "ur": "اسرو نے دوسری نسل کے نیویک برج کے تیسرے سیٹلائٹ این وی ایس-03 کے لیے لانچ مہم شروع کر دی ہے، جس میں 15 اور 20 اکتوبر 2026 کے درمیان جی ایس ایل وی-ایف 18 پر سوار ہو کر لانچ کرنے کا منصوبہ بنایا گیا ہے۔ یہ سیٹلائٹ جیو اسٹیشنری ارتھ آربٹ میں جانے سے پہلے جیو اسٹیشنری ٹرانسفر آربٹ میں رکھا جائے گا۔ این وی ایس-03 اہم ہے: اب تک لانچ کیے گئے گیارہ نیویک سیٹلائٹس میں سے صرف تین ہی فعال ہیں، جس سے ہندوستان کا آزاد نیویگیشن برج اس وقت اپنی کم از کم چار سیٹلائٹ کی حد سے نیچے ہے۔ ایک کامیاب این وی ایس-03 مشن نیویک کو سروس میں بحال کرے گا۔"
+    },
+    "b0": {
+      "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने दूसरी पीढ़ी के नाविक (भारतीय नक्षत्र के साथ नौवहन) प्रणाली के तीसरे उपग्रह एनवीएस-03 के लिए प्रक्षेपण अभियान शुरू कर दिया है, जिसे जीएसएलवी-एफ 18 रॉकेट पर 15 से 20 अक्टूबर 2026 के बीच प्रक्षेपित करने की योजना है। जीएसएलवी-एफ 18 का पहला चरण पहले ही श्रीहरिकोटा के सतीश धवन अंतरिक्ष केंद्र में रखा जा चुका है। जीएसएलवी-एफ 18 द्वारा एनवीएस-03 को भूस्थैतिक स्थानांतरण कक्षा (जीटीओ) में स्थापित किया जाएगा, जहां से उपग्रह की प्रणोदन प्रणाली उत्तरोत्तर इसे अपने परिचालन भूस्थैतिक पृथ्वी कक्षा (जीईओ) में स्थापित करेगी। यह प्रक्षेपण इसरो के पिछले मिशन के केवल दो सप्ताह बाद होगा-जो वर्तमान वर्ष के सबसे कठिन परिवर्तन अभियानों में से एक है।",
+      "en": "The Indian Space Research Organisation (ISRO) has commenced the launch campaign for NVS-03 — the third satellite of the second-generation NavIC (Navigation with Indian Constellation) system — with liftoff planned between 15 and 20 October 2026 aboard the GSLV-F18 rocket. The first stage of GSLV-F18 has already been stacked at the Satish Dhawan Space Centre in Sriharikota. The 2.2-tonne NVS-03 will be placed by GSLV-F18 into a Geostationary Transfer Orbit (GTO), from where the satellite's onboard propulsion system will progressively raise it into its operational Geostationary Earth Orbit (GEO). The launch will follow just two weeks after ISRO's previous mission — one of the tightest turnaround campaigns of the current year.",
+      "ur": "انڈین اسپیس ریسرچ آرگنائزیشن (اسرو) نے این وی ایس-03 کے لیے لانچ مہم شروع کر دی ہے-دوسری نسل کے نیویک (نیویگیشن ود انڈین نکشتر) نظام کا تیسرا سیٹلائٹ-جس میں 15 اور 20 اکتوبر 2026 کے درمیان جی ایس ایل وی-ایف 18 راکٹ پر سوار ہو کر لانچ کرنے کا منصوبہ بنایا گیا ہے۔ جی ایس ایل وی-ایف 18 کا پہلا مرحلہ پہلے ہی سری ہری کوٹا کے ستیش دھون خلائی مرکز میں ڈھیر کر دیا گیا ہے۔ 2.2-tonne این وی ایس-03 کو جی ایس ایل وی-ایف 18 کے ذریعے جیو اسٹیشنری ٹرانسفر آربٹ (جی ٹی او) میں رکھا جائے گا، جہاں سے سیٹلائٹ کا آن بورڈ پروپلشن سسٹم بتدریج اسے اپنے آپریشنل جیو اسٹیشنری ارتھ آربٹ (جی ای او) میں بلند کرے گا۔ یہ لانچ اسرو کے پچھلے مشن کے صرف دو ہفتوں بعد ہوگا-جو موجودہ سال کی سخت ترین تبدیلی مہموں میں سے ایک ہے۔"
+    },
+    "b1": {
+      "hi": "एन. वी. एस.-03 एन. वी. आई. सी. के लिए क्यों महत्वपूर्ण है",
+      "en": "Why NVS-03 is critical for NavIC",
+      "ur": "این وی ایس-03 نیویک کے لیے کیوں اہم ہے"
+    },
+    "b2": {
+      "hi": "एन. ए. वी. आई. सी. भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली है-जी. पी. एस., ग्लोनास, गैलीलियो और बी. आई. डी. ओ. के लिए देश का स्वदेशी विकल्प-भारतीय उपमहाद्वीप में और उससे 1,500 किलोमीटर आगे तक स्थिति, नेविगेशन और समय सेवा प्रदान करता है। परिचालन रूप से कार्यात्मक रहने के लिए, एन. ए. वी. आई. सी. नक्षत्र को कक्षा में कम से कम चार कार्यशील उपग्रहों की आवश्यकता होती है।",
+      "en": "NavIC is India's regional satellite navigation system — the country's indigenous alternative to GPS, GLONASS, Galileo and BeiDou — providing positioning, navigation and timing services across the Indian subcontinent and up to 1,500 kilometres beyond. To remain operationally functional, the NavIC constellation requires a minimum of four working satellites in orbit.",
+      "ur": "نیویک ہندوستان کا علاقائی سیٹلائٹ نیویگیشن سسٹم ہے-جی پی ایس، گلونیس، گیلیلیو اور بیدو کے لیے ملک کا مقامی متبادل-جو برصغیر پاک و ہند میں اور اس سے 1, 500 کلومیٹر تک پوزیشننگ، نیویگیشن اور ٹائمنگ سروسز فراہم کرتا ہے۔ آپریشنل طور پر فعال رہنے کے لیے، نیویک برج کو مدار میں کم از کم چار کام کرنے والے سیٹلائٹ کی ضرورت ہوتی ہے۔"
+    },
+    "b3": {
+      "hi": "एन. ए. वी. आई. सी. की पहली और दूसरी पीढ़ियों में, संयुक्त रूप से, आई. एस. आर. ओ. ने ग्यारह उपग्रह प्रक्षेपित किए हैं। इनमें से केवल तीन वर्तमान में चालू हैं। शेष दो श्रेणियों की विफलताओं के कारण धीरे-धीरे खो गए हैं। पहली पीढ़ी के उपग्रहों को उनकी आयातित स्विस निर्मित परमाणु घड़ियों की बड़े पैमाने पर विफलताओं का सामना करना पड़ा-प्रत्येक नेविगेशन उपग्रह के केंद्र में सटीक समय-निर्धारण उपकरण। वर्तमान कार्यक्रम में पहले प्रक्षेपित दूसरी पीढ़ी का उपग्रह एन. वी. एस.-02, प्रणोदन विसंगति के बाद अपने इच्छित जी. ई. ओ. तक पहुंचने में विफल रहा।",
+      "en": "Across the first and second generations of NavIC combined, ISRO has launched eleven satellites. Of these, only three currently remain operational. The remainder have been progressively lost to two categories of failure. First-generation satellites suffered mass failures of their imported Swiss-made atomic clocks — the precision timekeeping instruments at the heart of every navigation satellite. Second-generation satellite NVS-02, launched earlier in the current programme, failed to reach its intended GEO after a propulsion anomaly.",
+      "ur": "این اے وی آئی سی کی پہلی اور دوسری نسلوں میں، اسرو نے گیارہ سیٹلائٹ لانچ کیے ہیں۔ ان میں سے صرف تین فی الحال کام کر رہے ہیں۔ باقی بتدریج دو قسم کی ناکامی کی وجہ سے ختم ہو گئے ہیں۔ پہلی نسل کے سیٹلائٹ کو ان کی درآمد شدہ سوئس ساختہ جوہری گھڑیوں کی بڑے پیمانے پر ناکامی کا سامنا کرنا پڑا-ہر نیویگیشن سیٹلائٹ کے مرکز میں صحت سے متعلق ٹائم کیپنگ آلات۔ موجودہ پروگرام میں پہلے لانچ کیا گیا دوسری نسل کا سیٹلائٹ این وی ایس-02، پروپلشن بے ضابطگی کے بعد اپنے مطلوبہ جی ای او تک پہنچنے میں ناکام رہا۔"
+    },
+    "b4": {
+      "hi": "वर्तमान में केवल तीन परिचालन उपग्रहों के साथ, तारामंडल अपनी चार-उपग्रह न्यूनतम सीमा से नीचे बैठता है। एनएवीआईसी, इस समय, तकनीकी रूप से निष्क्रिय स्थिति में है। एनवीएस-03, यदि सफलतापूर्वक लॉन्च और चालू किया जाता है, तो चौथा सक्रिय उपग्रह प्रदान करेगा जो तारामंडल को सेवा में वापस लाएगा।",
+      "en": "With only three operational satellites currently in orbit, the constellation sits below its four-satellite minimum threshold. NavIC is, for the moment, in a technically defunct state. NVS-03, if successfully launched and commissioned, will provide the fourth active satellite that returns the constellation to service.",
+      "ur": "اس وقت مدار میں صرف تین آپریشنل سیٹلائٹس کے ساتھ، برج اپنے چار سیٹلائٹ کی کم از کم حد سے نیچے بیٹھا ہے۔ فی الحال، نیویک تکنیکی طور پر ناکارہ حالت میں ہے۔ این وی ایس-03، اگر کامیابی سے لانچ اور کمیشن کیا جاتا ہے، تو چوتھا فعال سیٹلائٹ فراہم کرے گا جو برج کو سروس میں واپس کرے گا۔"
+    },
+    "b5": {
+      "hi": "एन. वी. एस.-03 में क्या होता है",
+      "en": "What NVS-03 carries",
+      "ur": "این وی ایس-03 کیا لے کر جاتا ہے"
+    },
+    "b6": {
+      "hi": "2. 2 टन वजनी एन. वी. एस.-03, एन. वी. आई. सी. की दूसरी पीढ़ी का तीसरा उपग्रह है। दूसरी पीढ़ी का प्लेटफॉर्म पहली पीढ़ी की वास्तुकला को काफी हद तक उन्नत करता है-इसके परिणामस्वरूप आयातित स्विस परमाणु घड़ियों को स्वदेशी रूप से विकसित रुबिडियम परमाणु आवृत्ति मानक (आर. ए. एफ. एस.) घड़ियों से बदल दिया जाता है, जो पहले के बेड़े को आधार बनाने वाले विशिष्ट विफलता मोड को संबोधित करता है। दूसरी पीढ़ी के उपग्रह एल1 संकेत भी जोड़ते हैं-जो नागरिक स्मार्टफोन और उपभोक्ता नेविगेशन उपकरणों के साथ संगत होते हैं-जो रोजमर्रा के भारतीय उपयोगकर्ताओं के लिए एन. वी. आई. सी. की उपयोगिता का विस्तार करते हैं।",
+      "en": "Weighing 2.2 tonnes, NVS-03 is the third satellite of NavIC's second generation. The second-generation platform substantially upgrades the first-generation architecture — most consequentially by replacing the imported Swiss atomic clocks with indigenously developed Rubidium Atomic Frequency Standard (RAFS) clocks, addressing the specific failure mode that grounded the earlier fleet. The second-generation satellites also add L1 signals — compatible with civilian smartphones and consumer navigation devices — expanding NavIC's utility for everyday Indian users.",
+      "ur": "2. 2 ٹن وزنی این وی ایس-03، نیویک کی دوسری نسل کا تیسرا سیٹلائٹ ہے۔ دوسری نسل کا پلیٹ فارم پہلی نسل کے فن تعمیر کو کافی حد تک اپ گریڈ کرتا ہے-جس کے نتیجے میں درآمد شدہ سوئس جوہری گھڑیوں کو مقامی طور پر تیار کردہ روبیڈیم اٹامک فریکوئنسی اسٹینڈرڈ (آر اے ایف ایس) گھڑیوں سے تبدیل کیا جاتا ہے، جس سے سابقہ بیڑے کو گراؤنڈ کرنے والے مخصوص فیل موڈ کو حل کیا جاتا ہے۔ دوسری نسل کے سیٹلائٹ ایل 1 سگنلز بھی شامل کرتے ہیں-جو شہری اسمارٹ فونز اور کنزیومر نیویگیشن ڈیوائسز کے ساتھ مطابقت رکھتے ہیں-جو روزمرہ ہندوستانی صارفین کے لیے نیویک کی افادیت کو بڑھاتے ہیں۔"
+    },
+    "b7.title": {
+      "hi": "एन. वी. एस.-03 का शुभारंभ अभियान एक नजर में",
+      "en": "NVS-03 Launch Campaign at a Glance",
+      "ur": "این وی ایس-03 لانچ مہم ایک نظر میں"
+    },
+    "b7.itemlbl.0": {
+      "hi": "उपग्रह",
+      "en": "Satellite",
+      "ur": "سیٹلائٹ"
+    },
+    "b7.itemval.0": {
+      "hi": "एन. वी. एस.-03 (नौवहन उपग्रह-03)",
+      "en": "NVS-03 (Navigation Satellite - 03)",
+      "ur": "این وی ایس-03 (نیویگیشن سیٹلائٹ-03)"
+    },
+    "b7.itemlbl.1": {
+      "hi": "पीढ़ी",
+      "en": "Generation",
+      "ur": "نسل"
+    },
+    "b7.itemval.1": {
+      "hi": "दूसरी पीढ़ी का एन. ए. वी. सी.",
+      "en": "2nd generation NavIC",
+      "ur": "دوسری نسل نیویک"
+    },
+    "b7.itemlbl.2": {
+      "hi": "द्वितीय पीढ़ी में स्थिति",
+      "en": "Position in 2nd gen",
+      "ur": "دوسری نسل میں پوزیشن"
+    },
+    "b7.itemval.2": {
+      "hi": "तीसरा उपग्रह",
+      "en": "3rd satellite",
+      "ur": "تیسرا سیٹلائٹ"
+    },
+    "b7.itemlbl.3": {
+      "hi": "वजन",
+      "en": "Weight",
+      "ur": "وزن"
+    },
+    "b7.itemval.3": {
+      "hi": "2. 2 टन",
+      "en": "2.2 tonnes",
+      "ur": "2. 2 ٹن"
+    },
+    "b7.itemlbl.4": {
+      "hi": "प्रक्षेपण वाहन",
+      "en": "Launch vehicle",
+      "ur": "لانچ گاڑی"
+    },
+    "b7.itemval.4": {
+      "hi": "जीएसएलवी-एफ18",
+      "en": "GSLV-F18",
+      "ur": "جی ایس ایل وی-ایف 18"
+    },
+    "b7.itemlbl.5": {
+      "hi": "विंडो लॉन्च करें",
+      "en": "Launch window",
+      "ur": "ونڈو لانچ کریں"
+    },
+    "b7.itemval.5": {
+      "hi": "15-20 अक्टूबर 2026",
+      "en": "15-20 October 2026",
+      "ur": "15-20 اکتوبر 2026"
+    },
+    "b7.itemlbl.6": {
+      "hi": "लॉन्च साइट",
+      "en": "Launch site",
+      "ur": "لانچ سائٹ"
+    },
+    "b7.itemval.6": {
+      "hi": "सतीश धवन अंतरिक्ष केंद्र, श्रीहरिकोटा",
+      "en": "Satish Dhawan Space Centre, Sriharikota",
+      "ur": "ستیش دھون خلائی مرکز، سری ہری کوٹا"
+    },
+    "b7.itemlbl.7": {
+      "hi": "लक्ष्य कक्षा",
+      "en": "Target orbit",
+      "ur": "ہدف کا مدار"
+    },
+    "b7.itemval.7": {
+      "hi": "भूस्थैतिक पृथ्वी कक्षा (जी. टी. ओ. के माध्यम से)",
+      "en": "Geostationary Earth Orbit (via GTO)",
+      "ur": "جیو اسٹیشنری ارتھ آربٹ (بذریعہ جی ٹی او)"
+    },
+    "b7.itemlbl.8": {
+      "hi": "वर्तमान जमा करने की स्थिति",
+      "en": "Current stacking status",
+      "ur": "موجودہ اسٹیکنگ کی حیثیت"
+    },
+    "b7.itemval.8": {
+      "hi": "जीएसएलवी-एफ18 का पहला चरण ढेर किया गया",
+      "en": "First stage of GSLV-F18 stacked",
+      "ur": "جی ایس ایل وی-ایف 18 کا پہلا مرحلہ اسٹیکڈ"
+    },
+    "b7.itemlbl.9": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b7.itemval.9": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.10": {
+      "hi": "नौसेना गठन संकट",
+      "en": "THE NAVIC CONSTELLATION CRISIS",
+      "ur": "بحری تعطل کا بحران"
+    },
+    "b7.itemval.10": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.11": {
+      "hi": "कुल उपग्रह प्रक्षेपित (उत्पत्ति 1 + उत्पत्ति 2)",
+      "en": "Total satellites launched (Gen 1 + Gen 2)",
+      "ur": "لانچ کیے گئے کل سیٹلائٹ (جنرل 1 + جنرل 2)"
+    },
+    "b7.itemval.11": {
+      "hi": "11.",
+      "en": "11",
+      "ur": "11"
+    },
+    "b7.itemlbl.12": {
+      "hi": "वर्तमान में कार्यरत",
+      "en": "Currently operational",
+      "ur": "فی الحال فعال"
+    },
+    "b7.itemval.12": {
+      "hi": "3.",
+      "en": "3",
+      "ur": "3"
+    },
+    "b7.itemlbl.13": {
+      "hi": "न्यूनतम परिचालन सीमा",
+      "en": "Minimum operational threshold",
+      "ur": "کم از کم آپریشنل حد"
+    },
+    "b7.itemval.13": {
+      "hi": "4 उपग्रह",
+      "en": "4 satellites",
+      "ur": "4 سیٹلائٹ"
+    },
+    "b7.itemlbl.14": {
+      "hi": "वर्तमान स्थिति",
+      "en": "Current status",
+      "ur": "موجودہ حیثیت"
+    },
+    "b7.itemval.14": {
+      "hi": "निष्क्रिय (सीमा से नीचे)",
+      "en": "Defunct (below threshold)",
+      "ur": "غیر فعال (حد سے نیچے)"
+    },
+    "b7.itemlbl.15": {
+      "hi": "प्राथमिक विफलता का कारण (उत्पत्ति 1)",
+      "en": "Primary failure cause (Gen 1)",
+      "ur": "ناکامی کی بنیادی وجہ (پیدائش 1)"
+    },
+    "b7.itemval.15": {
+      "hi": "आयातित स्विस परमाणु घड़ी विफलताएँ",
+      "en": "Imported Swiss atomic clock failures",
+      "ur": "درآمد شدہ سوئس جوہری گھڑی کی ناکامیاں"
+    },
+    "b7.itemlbl.16": {
+      "hi": "द्वितीयक विफलता (उत्पत्ति 2)",
+      "en": "Secondary failure (Gen 2)",
+      "ur": "ثانوی ناکامی (پیدائش 2)"
+    },
+    "b7.itemval.16": {
+      "hi": "एन. वी. एस.-02 जी. ई. ओ. तक पहुँचने में विफल रहा",
+      "en": "NVS-02 failed to reach GEO",
+      "ur": "این وی ایس-02 جی ای او تک پہنچنے میں ناکام رہا"
+    },
+    "b7.itemlbl.17": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b7.itemval.17": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.18": {
+      "hi": "एन. वी. एस.-03 में क्या बदलाव होते हैं",
+      "en": "WHAT NVS-03 CHANGES",
+      "ur": "این وی ایس-03 میں کیا تبدیلیاں آتی ہیں"
+    },
+    "b7.itemval.18": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.19": {
+      "hi": "जोड़ता है",
+      "en": "Adds",
+      "ur": "اضافہ کرتا ہے"
+    },
+    "b7.itemval.19": {
+      "hi": "चौथा सक्रिय उपग्रह (न्यूनतम सीमा बहाल करता है)",
+      "en": "4th active satellite (restores minimum threshold)",
+      "ur": "چوتھا فعال سیٹلائٹ (کم از کم حد کو بحال کرتا ہے)"
+    },
+    "b7.itemlbl.20": {
+      "hi": "घड़ी का उन्नयन",
+      "en": "Clock upgrade",
+      "ur": "گھڑی کا اپ گریڈ"
+    },
+    "b7.itemval.20": {
+      "hi": "स्वदेशी रूबिडियम परमाणु आवृत्ति मानक (आरएएफएस)",
+      "en": "Indigenous Rubidium Atomic Frequency Standard (RAFS)",
+      "ur": "مقامی روبیڈیم جوہری تعدد معیار (آر اے ایف ایس)"
+    },
+    "b7.itemlbl.21": {
+      "hi": "संकेत उन्नयन",
+      "en": "Signal upgrade",
+      "ur": "سگنل اپ گریڈ"
+    },
+    "b7.itemval.21": {
+      "hi": "एल1 बैंड जोड़ता है (नागरिक स्मार्टफोन संगतता)",
+      "en": "Adds L1 band (civilian smartphone compatibility)",
+      "ur": "ایل 1 بینڈ شامل کرتا ہے (شہری اسمارٹ فون مطابقت)"
+    },
+    "b7.itemlbl.22": {
+      "hi": "कवरेज",
+      "en": "Coverage",
+      "ur": "کوریج"
+    },
+    "b7.itemval.22": {
+      "hi": "भारत + 1,500 कि. मी. आसपास का क्षेत्र",
+      "en": "India + 1,500 km surrounding region",
+      "ur": "ہندوستان + 1, 500 کلومیٹر آس پاس کا علاقہ"
+    },
+    "b7.itemlbl.23": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b7.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.24": {
+      "hi": "जीएसएलवी कार्यक्रम टिप्पणी",
+      "en": "GSLV PROGRAMME NOTE",
+      "ur": "جی ایس ایل وی پروگرام نوٹ"
+    },
+    "b7.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.25": {
+      "hi": "जीएसएलवी-एफ18",
+      "en": "GSLV-F18",
+      "ur": "جی ایس ایل وی-ایف 18"
+    },
+    "b7.itemval.25": {
+      "hi": "5मसँ अन्तिम जीएसएलवी रॉकेट प्रक्षेपण",
+      "en": "5th-to-last GSLV rocket launch",
+      "ur": "پانچواں سے آخری جی ایس ایل وی راکٹ لانچ"
+    },
+    "b7.itemlbl.26": {
+      "hi": "अगली पीढ़ी के वाहन",
+      "en": "Next generation launch vehicles",
+      "ur": "اگلی نسل کی لانچ گاڑیاں"
+    },
+    "b7.itemval.26": {
+      "hi": "एन. जी. एल. वी. विकास के अधीन है",
+      "en": "NGLV under development",
+      "ur": "این جی ایل وی زیر تعمیر"
+    },
+    "b7.itemlbl.27": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b7.itemval.27": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.28": {
+      "hi": "नौसेना के रणनीतिक उपयोग के मामले",
+      "en": "STRATEGIC USE CASES OF NAVIC",
+      "ur": "بحریہ کے اسٹریٹجک استعمال کے معاملات"
+    },
+    "b7.itemval.28": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.29": {
+      "hi": "स्थलीय, हवाई, समुद्री नौवहन",
+      "en": "Terrestrial, aerial, marine navigation",
+      "ur": "زمینی، فضائی، سمندری نیویگیشن"
+    },
+    "b7.itemval.29": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.30": {
+      "hi": "आपदा प्रबंधन",
+      "en": "Disaster management",
+      "ur": "آفات کا انتظام"
+    },
+    "b7.itemval.30": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.31": {
+      "hi": "वाहन ट्रैकिंग और बेड़ा प्रबंधन",
+      "en": "Vehicle tracking and fleet management",
+      "ur": "گاڑیوں کی ٹریکنگ اور بیڑے کا انتظام"
+    },
+    "b7.itemval.31": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.32": {
+      "hi": "मोबाइल फोन के साथ एकीकरण",
+      "en": "Integration with mobile phones",
+      "ur": "موبائل فون کے ساتھ انضمام"
+    },
+    "b7.itemval.32": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.33": {
+      "hi": "मानचित्रण और भूगणितीय डेटा संग्रहण",
+      "en": "Mapping and geodetic data capture",
+      "ur": "نقشہ سازی اور جیوڈیٹک ڈیٹا کیپچر"
+    },
+    "b7.itemval.33": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.34": {
+      "hi": "समय सेवाएँ",
+      "en": "Timing services",
+      "ur": "وقت کی خدمات"
+    },
+    "b7.itemval.34": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b7.itemlbl.35": {
+      "hi": "रक्षा के लिए सटीक नौपरिवहन",
+      "en": "Precise navigation for defence",
+      "ur": "دفاع کے لیے درست نیویگیشن"
+    },
+    "b7.itemval.35": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b8.q": {
+      "hi": "\"यह एक महत्वपूर्ण मिशन होने जा रहा है। यदि सफल होता है, तो एनवीएस-03 अंततः नक्षत्र में चौथा सक्रिय उपग्रह जोड़कर एनएवीआईसी को सेवा में वापस लाएगा।\"",
+      "en": "\"This is going to be a crucial mission. If successful, NVS-03 will finally bring NavIC back into service by adding the fourth active satellite in the constellation.\"",
+      "ur": "\"یہ ایک اہم مشن بننے والا ہے۔ اگر کامیاب ہوا تو این وی ایس-03 بالآخر چوتھے فعال سیٹلائٹ کو برج میں شامل کرکے نیویک کو دوبارہ سروس میں لائے گا۔\""
+    },
+    "b8.c": {
+      "hi": "- एन. वी. एस.-03 प्रक्षेपण अभियान पर इसरो मिशन ब्रीफिंग",
+      "en": "— ISRO mission briefing on the NVS-03 launch campaign",
+      "ur": "- این وی ایس-03 لانچ مہم پر اسرو مشن کی بریفنگ"
+    },
+    "b9": {
+      "hi": "भारत के लिए इसका क्या मतलब है?",
+      "en": "What it means for India",
+      "ur": "ہندوستان کے لیے اس کا کیا مطلب ہے"
+    },
+    "b10": {
+      "hi": "भारत के नागरिक उपयोगकर्ताओं के लिए, एक पुनर्स्थापित एनएवीआईसी विश्वसनीय, संप्रभु स्थिति सेवाओं को प्रदान करता है-सवारी-नौकायन और खाद्य वितरण से लेकर आपातकालीन प्रतिक्रिया और ग्रामीण मानचित्रण तक हर चीज के लिए विदेशी नौवहन प्रणालियों पर निर्भरता को कम करता है। भारत की रक्षा वास्तुकला के लिए, एक परिचालन एनएवीआईसी देश की सबसे परिणामी एकल रणनीतिक संपत्तियों में से एक है-एक स्वतंत्र, एन्क्रिप्टेड, संप्रभु नौवहन संकेत जिसे रणनीतिक तनाव की अवधि में किसी भी बाहरी शक्ति द्वारा अस्वीकार, अवक्रमित या भू-घेराबंदी नहीं की जा सकती है। अंतरिक्ष में भारत के आत्मनिर्भर ढांचे के लिए, दूसरी पीढ़ी के उपग्रहों में आयातित स्विस परमाणु घड़ियों से स्वदेशी आरएएफएस घड़ियों में बदलाव देश के अंतरिक्ष कार्यक्रम के व्यापक प्रक्षेपवक्र को दर्शाता है-धीरे-धीरे महत्वपूर्ण आयातित घटकों को घर-डिज़ाइन किए गए विकल्पों के साथ प्रतिस्थापित करता है।",
+      "en": "For India's civilian users, a restored NavIC delivers reliable, sovereign positioning services — reducing dependence on foreign navigation systems for everything from ride-hailing and food delivery to emergency response and rural mapping. For India's defence architecture, an operational NavIC is one of the most consequential single strategic assets the country possesses — an independent, encrypted, sovereign navigation signal that cannot be denied, degraded or geofenced by any external power in a period of strategic tension. For India's Aatmanirbhar Bharat framework in space, the switch from imported Swiss atomic clocks to indigenous RAFS clocks in the second-generation satellites captures the wider trajectory of the country's space programme — progressively replacing critical imported components with home-designed alternatives.",
+      "ur": "ہندوستان کے شہری صارفین کے لیے، ایک بحال شدہ نیویک قابل اعتماد، خودمختار پوزیشننگ خدمات فراہم کرتا ہے-سواری کرنے اور خوراک کی فراہمی سے لے کر ہنگامی ردعمل اور دیہی نقشہ سازی تک ہر چیز کے لیے غیر ملکی نیویگیشن سسٹم پر انحصار کو کم کرتا ہے۔ ہندوستان کے دفاعی فن تعمیر کے لیے، ایک آپریشنل نیویک ملک کے پاس موجود سب سے زیادہ نتیجہ خیز واحد اسٹریٹجک اثاثوں میں سے ایک ہے-ایک آزاد، خفیہ کردہ، خودمختار نیویگیشن سگنل جس سے اسٹریٹجک تناؤ کے دور میں کسی بھی بیرونی طاقت کے ذریعے انکار، انحطاط یا جغرافیائی طور پر انکار نہیں کیا جا سکتا۔ خلا میں ہندوستان کے آتم نربھر بھارت فریم ورک کے لیے، دوسری نسل کے سیٹلائٹ میں درآمد شدہ سوئس جوہری گھڑیوں سے مقامی آر اے ایف ایس گھڑیوں میں تبدیلی ملک کے خلائی پروگرام کے وسیع تر راستے کو ظاہر کرتی ہے-گھر کے ڈیزائن کردہ متبادل کے ساتھ درآمد شدہ اہم اجزاء کی جگہ لے لیتی ہے۔"
+    },
+    "b11": {
+      "hi": "जीएसएलवी कार्यक्रम का अंतिम अध्याय",
+      "en": "The GSLV programme's final chapter",
+      "ur": "جی ایس ایل وی پروگرام کا آخری باب"
+    },
+    "b12": {
+      "hi": "एन. वी. एस.-03 जी. एस. एल. वी. की पांचवीं से अंतिम उड़ान को भी चिह्नित करेगा-एक वर्कहॉर्स रॉकेट जिसने दो दशकों से अधिक समय तक भारत की मध्यम-लिफ्ट भूस्थैतिक प्रक्षेपण क्षमता को लंगर डाला है। आई. एस. आर. ओ. के अगली पीढ़ी के प्रक्षेपण वाहन इसे बदलने के लिए उत्तरोत्तर आकार ले रहे हैं। लेकिन जी. एस. एल. वी. के झुकने से पहले, एन. वी. एस.-03 सहित पांच और मिशन उत्तरोत्तर उड़ाए जाएंगे, जिनमें से प्रत्येक में रणनीतिक पेलोड होंगे जिनके लिए वाहन की विशिष्ट क्षमताओं की आवश्यकता होती है।",
+      "en": "NVS-03 will also mark the fifth-to-last flight of the GSLV — the workhorse rocket that has anchored India's medium-lift geostationary launch capacity for over two decades. ISRO's next-generation launch vehicles are progressively taking shape to replace it. But before the GSLV bows out, five more missions — including NVS-03 — will progressively be flown, each carrying strategic payloads that require the vehicle's specific capabilities.",
+      "ur": "این وی ایس-03 جی ایس ایل وی کی پانچویں سے آخری پرواز کو بھی نشان زد کرے گا-ایک ورک ہارس راکٹ جس نے دو دہائیوں سے زیادہ عرصے تک ہندوستان کی میڈیم لفٹ جیو اسٹیشنری لانچ کی صلاحیت کو لنگر انداز کیا ہے۔ اسرو کی اگلی نسل کی لانچ گاڑیاں اسے تبدیل کرنے کے لیے بتدریج شکل اختیار کر رہی ہیں۔ لیکن جی ایس ایل وی کے باہر نکلنے سے پہلے، این وی ایس-03 سمیت پانچ مزید مشن بتدریج اڑائے جائیں گے، جن میں سے ہر ایک اسٹریٹجک پے لوڈ لے کر جائے گا جس کے لیے گاڑی کی مخصوص صلاحیتوں کی ضرورت ہوتی ہے۔"
+    },
+    "b13": {
+      "hi": "तीन प्रचालन उपग्रहों से लेकर चार तक। निष्क्रिय तारामंडल से लेकर बहाल सेवा तक। आयातित स्विस परमाणु घड़ियों से लेकर स्वदेशी आरएएफएस तक। एनवीएस-03 एक बचाव मिशन और भारत के पूरी तरह से संप्रभु अंतरिक्ष-आधारित नौवहन वास्तुकला में प्रगतिशील संक्रमण दोनों का प्रतिनिधित्व करता है।",
+      "en": "From three operational satellites to four. From defunct constellation to restored service. From imported Swiss atomic clocks to indigenous RAFS. NVS-03 represents both a rescue mission and a milestone in India's progressive transition to a fully sovereign space-based navigation architecture.",
+      "ur": "تین آپریشنل سیٹلائٹس سے لے کر چار تک۔ غیر فعال برج سے لے کر بحال شدہ سروس تک۔ درآمد شدہ سوئس جوہری گھڑیوں سے لے کر مقامی آر اے ایف ایس تک۔ این وی ایس-03 ایک ریسکیو مشن اور ہندوستان کی مکمل خودمختار خلائی بنیاد پر نیویگیشن فن تعمیر کی طرف ترقی پسند منتقلی میں ایک سنگ میل دونوں کی نمائندگی کرتا ہے۔"
+    }
+  }
+}
