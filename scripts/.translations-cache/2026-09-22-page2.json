@@ -1,0 +1,475 @@
+{
+  "hash": "5be3fe2d4010b195",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"सेमीकंडक्टर · वाहन · आरआईएससी-वी · आत्मनिर्भर भारत · ब्रॉडबैंड\"",
+      "en": "\"Semiconductor · VIHAAN · RISC-V · Aatmanirbhar Bharat · Broadband\"",
+      "ur": "\"سیمی کنڈکٹر · ویوان · آر آئی ایس سی-وی · آتم نربھر بھارت · براڈ بینڈ\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "चेन्नई/नई दिल्ली",
+      "en": "Chennai / New Delhi",
+      "ur": "چنئی/نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"VIHAAN का अनावरणः भारत की पहली स्वदेशी ब्रॉडबैंड चिप, पहली बार सिलिकॉन की सफलता\"",
+      "en": "\"VIHAAN unveiled: India's first indigenous broadband chip, first-pass silicon success\"",
+      "ur": "\"وہان کی نقاب کشائی: ہندوستان کی پہلی مقامی براڈ بینڈ چپ، فرسٹ پاس سلکان کی کامیابی\""
+    },
+    "fm.subdeck": {
+      "hi": "\"चेन्नई स्थित सेमीकंडक्टर स्टार्टअप अहिंसा डिजिटल इनोवेशन्स ने भारत के पहले स्वदेशी ब्रॉडबैंड नेटवर्किंग सिस्टम-ऑन-चिप-VIHAAN का अनावरण किया है। चिप को गणतंत्र दिवस (26 जनवरी 2026) पर डिजाइन किया गया था, स्वतंत्रता दिवस (15 अगस्त 2026) पर अपना पहला सिलिकॉन परीक्षण पास किया और सितंबर में सार्वजनिक रूप से इसका अनावरण किया गया। यह सी-डैक के स्वदेशी वेगा प्रोसेसर का उपयोग करता है जो ओपन-सोर्स आरआईएससी-वी आर्किटेक्चर पर बनाया गया है, जो भारत को विदेशी सेमीकंडक्टर तकनीक के संयोजनकर्ता के रूप में नहीं बल्कि महत्वपूर्ण सिलिकॉन के डिजाइनर और मालिक के रूप में स्थापित करता है जो देश के एक अरब से अधिक मजबूत ब्रॉडबैंड बाजार को शक्ति प्रदान करता है।\"",
+      "en": "\"Chennai-based semiconductor startup Aheesa Digital Innovations has unveiled VIHAAN — India's first indigenous broadband networking System-on-Chip. The chip was designed on Republic Day (26 January 2026), passed its first silicon test on Independence Day (15 August 2026), and was publicly unveiled in September. It uses C-DAC's indigenous VEGA processor built on the open-source RISC-V architecture, positioning India not as an assembler of foreign semiconductor technology but as a designer and owner of the critical silicon that powers the country's over one-billion-strong broadband market.\"",
+      "ur": "چنئی میں قائم سیمی کنڈکٹر اسٹارٹ اپ عائشہ ڈیجیٹل انوویشنز نے ہندوستان کے پہلے مقامی براڈ بینڈ نیٹ ورکنگ سسٹم-آن-چپ-وہان کی نقاب کشائی کی ہے۔ اس چپ کو یوم جمہوریہ (26 جنوری 2026) کو ڈیزائن کیا گیا تھا، اس نے یوم آزادی (15 اگست 2026) کو اپنا پہلا سلکان ٹیسٹ پاس کیا، اور ستمبر میں عوامی طور پر اس کی نقاب کشائی کی گئی۔ اس میں اوپن سورس آر آئی ایس سی-وی فن تعمیر پر بنایا گیا سی-ڈی اے سی کا مقامی ویگا پروسیسر استعمال کیا گیا ہے، جو ہندوستان کو غیر ملکی سیمی کنڈکٹر ٹیکنالوجی کے اسمبلر کے طور پر نہیں بلکہ ایک اہم سلکان کے ڈیزائنر اور مالک کے طور پر پیش کرتا ہے جو ملک کے ایک ارب سے زیادہ مضبوط براڈ بینڈ مارکیٹ کو طاقت دیتا ہے۔"
+    },
+    "b0": {
+      "hi": "भारत ने चेन्नई स्थित सेमीकंडक्टर स्टार्टअप अहिसा डिजिटल इनोवेशंस द्वारा विकसित देश के पहले स्वदेशी ब्रॉडबैंड नेटवर्किंग सिस्टम-ऑन-चिप (एसओसी) -'वाहन'का अनावरण किया है। जो बात इस उपलब्धि को उल्लेखनीय बनाती है, वह यह है कि क्या बनाया गया था, बल्कि यह कितनी जल्दी हुआ।'वाहन'का डिजाइन गणतंत्र दिवस, 26 जनवरी 2026 को पूरा किया गया था। इसके पहले मनगढ़ंत सिलिकॉन का स्वतंत्रता दिवस, 15 अगस्त 2026 को सफलतापूर्वक परीक्षण किया गया था-एक फर्स्ट-पास सिलिकॉन सफलता जिसमें फाउंड्री से वापस आने वाले चिप का पहला संस्करण डिजाइन के रूप में काम करता था। चिप का सितंबर 2026 में सार्वजनिक रूप से अनावरण किया गया था। विश्व स्तर पर स्थापित सेमीकंडक्टर फर्मों के लिए भी फर्स्ट-पास सिलिकॉन सफलता दुर्लभ है; इसे पहली बार स्वदेशी ब्रॉडबैंड एसओसी पर हासिल करना इंजीनियरिंग उपलब्धि के पैमाने को पकड़ता है।",
+      "en": "India has unveiled VIHAAN — the country's first indigenous broadband networking System-on-Chip (SoC) — developed by Chennai-based semiconductor startup Aheesa Digital Innovations. What makes the achievement remarkable is not only what was built but how quickly it happened. VIHAAN's design was completed on Republic Day, 26 January 2026. Its first fabricated silicon was successfully tested on Independence Day, 15 August 2026 — a first-pass silicon success in which the very first version of the chip that came back from the foundry worked as designed. The chip was publicly unveiled in September 2026. First-pass silicon success is rare even for globally established semiconductor firms; achieving it on a first-ever indigenous broadband SoC captures the scale of the engineering achievement.",
+      "ur": "ہندوستان نے وہان-ملک کا پہلا مقامی براڈ بینڈ نیٹ ورکنگ سسٹم-آن-چپ (ایس او سی)-جس کا آغاز چنئی میں قائم سیمی کنڈکٹر اسٹارٹ اپ عائشہ ڈیجیٹل انوویشنز نے کیا ہے، کی نقاب کشائی کی ہے۔ اس کامیابی کو قابل ذکر بنانے والی چیز یہ ہے کہ نہ صرف کیا بنایا گیا تھا بلکہ یہ کتنی تیزی سے ہوا۔ وہان کا ڈیزائن یوم جمہوریہ، 26 جنوری 2026 کو مکمل ہوا۔ اس کے پہلے من گھڑت سلکان کا یوم آزادی، 15 اگست 2026 کو کامیابی کے ساتھ تجربہ کیا گیا-ایک فرسٹ پاس سلکان کامیابی جس میں فاؤنڈری سے واپس آنے والی چپ کا پہلا ورژن ڈیزائن کے طور پر کام کرتا تھا۔ چپ کی ستمبر 2026 میں عوامی طور پر نقاب کشائی کی گئی تھی۔ عالمی سطح پر قائم سیمی کنڈکٹر فرموں کے لیے بھی فرسٹ پاس سلکان کی کامیابی نایاب ہے۔ اسے پہلی بار مقامی براڈ بینڈ ایس او سی پر حاصل کرنا انجینئرنگ کے کارنامے کے پیمانے کو ظاہر کرتا ہے۔"
+    },
+    "b1": {
+      "hi": "VIHAAN वास्तव में क्या करता है",
+      "en": "What VIHAAN actually does",
+      "ur": "ویوان اصل میں کیا کرتا ہے"
+    },
+    "b2": {
+      "hi": "VIHAAN को ब्रॉडबैंड उपकरण-राउटर, फाइबर-टू-द-होम टर्मिनल और अन्य नेटवर्किंग हार्डवेयर के मस्तिष्क के रूप में कार्य करने के लिए डिज़ाइन किया गया है जो भारत के दूरसंचार बुनियादी ढांचे में डेटा ले जाते हैं। चिप कई नेटवर्किंग कार्यों को एकीकृत करती है जिन्हें पारंपरिक रूप से अलग-अलग घटकों की आवश्यकता होती है एक एकल सिस्टम-ऑन-चिप में। इसका मतलब है कि एक चिप पहले वितरित किए गए काम को कई में करती है-लागत, बिजली की खपत और अपने द्वारा संचालित उपकरणों के भौतिक पदचिह्न को कम करना।",
+      "en": "VIHAAN is designed to act as the brain of broadband equipment — routers, fibre-to-the-home terminals, and other networking hardware that carry data across India's telecommunications infrastructure. The chip integrates multiple networking functions that would traditionally require separate components into a single System-on-Chip. That means one chip performs the work previously distributed across several — reducing cost, power consumption and physical footprint of the equipment it powers.",
+      "ur": "وہان کو براڈ بینڈ آلات-راؤٹرز، فائبر ٹو دی ہوم ٹرمینلز، اور دیگر نیٹ ورکنگ ہارڈ ویئر کے دماغ کے طور پر کام کرنے کے لیے ڈیزائن کیا گیا ہے جو ہندوستان کے ٹیلی مواصلات کے بنیادی ڈھانچے میں ڈیٹا لے جاتے ہیں۔ چپ متعدد نیٹ ورکنگ افعال کو مربوط کرتی ہے جن کے لیے روایتی طور پر الگ الگ اجزاء کی ضرورت ہوتی ہے۔ اس کا مطلب ہے کہ ایک چپ پہلے سے تقسیم کردہ کام انجام دیتی ہے-لاگت، بجلی کی کھپت اور اس کے ذریعے چلنے والے آلات کے جسمانی نقوش کو کم کرنا۔"
+    },
+    "b3": {
+      "hi": "आर. आई. एस. सी.-वी आयाम-मूल में स्वदेशी प्रोसेसर",
+      "en": "The RISC-V dimension — indigenous processor at the core",
+      "ur": "RISC-V طول و عرض-بنیادی طور پر مقامی پروسیسر"
+    },
+    "b4": {
+      "hi": "एसओसी से भी अधिक परिणामकारी प्रोसेसर अपने दिल में है। विहैन सी-डैक के स्वदेशी वेगा प्रोसेसर का उपयोग करता है, जो ओपन-सोर्स आरआईएससी-वी आर्किटेक्चर पर बनाया गया है। यह मूल कहानी है। आरआईएससी-वी एक रॉयल्टी-मुक्त, ओपन-स्टैंडर्ड प्रोसेसर आर्किटेक्चर है जो वैश्विक अर्धचालक उद्योग पर हावी स्वामित्व वाले आर्किटेक्चर (x86, एआरएम) का एक वास्तविक विकल्प प्रदान करता है। सी-डैक-सेंटर फॉर डेवलपमेंट ऑफ एडवांस्ड कंप्यूटिंग-ने वेगा प्रोसेसर परिवार को प्रोसेसर संप्रभुता के लिए भारत के घरेलू जवाब के रूप में विकसित किया है।",
+      "en": "Even more consequential than the SoC itself is the processor at its heart. VIHAAN uses C-DAC's indigenous VEGA processor, built on the open-source RISC-V architecture. This is the substantive story. RISC-V is a royalty-free, open-standard processor architecture that provides a genuine alternative to the proprietary architectures (x86, ARM) that dominate the global semiconductor industry. C-DAC — the Centre for Development of Advanced Computing — has progressively developed the VEGA processor family as India's home-grown answer to processor sovereignty.",
+      "ur": "اس سے بھی زیادہ نتیجہ خیز خود ایس او سی ہی پروسیسر ہے۔ وہان سی-ڈی اے سی کے مقامی ویگا پروسیسر کا استعمال کرتا ہے، جو اوپن سورس آر آئی ایس سی-وی فن تعمیر پر بنایا گیا ہے۔ یہ ایک ٹھوس کہانی ہے۔ آر آئی ایس سی-وی ایک رائلٹی فری، اوپن اسٹینڈرڈ پروسیسر فن تعمیر ہے جو ملکیتی آرکیٹیکچرز (x86، اے آر ایم) کا حقیقی متبادل فراہم کرتا ہے جو عالمی سیمی کنڈکٹر انڈسٹری پر حاوی ہے۔ سی-ڈی اے سی-سینٹر فار ڈویلپمنٹ آف ایڈوانسڈ کمپیوٹنگ-نے ویگا پروسیسر فیملی کو آہستہ آہستہ پروسیسر کی خودمختاری کے لیے ہندوستان کے گھریلو جواب کے طور پر تیار کیا ہے۔"
+    },
+    "b5": {
+      "hi": "वेगा के आसपास'वाहन'का निर्माण करके, अहिंसा डिजिटल इनोवेशन्स ने कुछ ऐसा किया है जो इस पैमाने पर पहले की किसी भी भारतीय चिप परियोजना ने हासिल नहीं किया हैः एक पूरी तरह से स्वदेशी प्रोसेसर के आसपास महत्वपूर्ण नेटवर्किंग सिलिकॉन डिजाइन करना। भारत केवल विदेशी चिप घटकों को असेंबल नहीं कर रहा है। यह उत्तरोत्तर महत्वपूर्ण सिलिकॉन को डिजाइन और स्वामित्व कर रहा है जो इसके डिजिटल बुनियादी ढांचे को शक्ति प्रदान करता है।",
+      "en": "By building VIHAAN around VEGA, Aheesa Digital Innovations has done something no earlier Indian chip project achieved at this scale: designing critical networking silicon around a fully indigenous processor. India is not simply assembling foreign chip components. It is progressively designing and owning the critical silicon that powers its digital infrastructure.",
+      "ur": "ویگا کے ارد گرد وہان کی تعمیر کرکے، عائشہ ڈیجیٹل انوویشنز نے کچھ ایسا کیا ہے جو اس پیمانے پر پہلے کسی ہندوستانی چپ پروجیکٹ نے حاصل نہیں کیا تھا: ایک مکمل طور پر مقامی پروسیسر کے ارد گرد اہم نیٹ ورکنگ سلکان ڈیزائن کرنا۔ ہندوستان صرف غیر ملکی چپ اجزاء کو اسمبل نہیں کر رہا ہے۔ یہ بتدریج اہم سلکان ڈیزائن اور مالک ہے جو اس کے ڈیجیٹل انفراسٹرکچر کو طاقت دیتا ہے۔"
+    },
+    "b6.title": {
+      "hi": "एक नज़र में विहंगम",
+      "en": "VIHAAN at a Glance",
+      "ur": "ایک نظر میں ویوان"
+    },
+    "b6.itemlbl.0": {
+      "hi": "चिप का नाम",
+      "en": "Chip name",
+      "ur": "چپ کا نام"
+    },
+    "b6.itemval.0": {
+      "hi": "विहान्",
+      "en": "VIHAAN",
+      "ur": "ویوان"
+    },
+    "b6.itemlbl.1": {
+      "hi": "प्रकार",
+      "en": "Type",
+      "ur": "قسم"
+    },
+    "b6.itemval.1": {
+      "hi": "ब्रॉडबैंड नेटवर्किंग सिस्टम-ऑन-चिप (एसओसी)",
+      "en": "Broadband networking System-on-Chip (SoC)",
+      "ur": "براڈ بینڈ نیٹ ورکنگ سسٹم آن چپ (ایس او سی)"
+    },
+    "b6.itemlbl.2": {
+      "hi": "विकासकर्ता",
+      "en": "Developer",
+      "ur": "ڈویلپر"
+    },
+    "b6.itemval.2": {
+      "hi": "अहिंसा डिजिटल नवाचार",
+      "en": "Aheesa Digital Innovations",
+      "ur": "عائشہ ڈیجیٹل انوویشنز"
+    },
+    "b6.itemlbl.3": {
+      "hi": "विकासकर्ता मुख्यालय",
+      "en": "Developer HQ",
+      "ur": "ڈویلپر ہیڈکوارٹر"
+    },
+    "b6.itemval.3": {
+      "hi": "चेन्नई",
+      "en": "Chennai",
+      "ur": "چنئی"
+    },
+    "b6.itemlbl.4": {
+      "hi": "प्रोसेसर कोर",
+      "en": "Processor core",
+      "ur": "پروسیسر کور"
+    },
+    "b6.itemval.4": {
+      "hi": "सी-डैक का वेगा प्रोसेसर",
+      "en": "C-DAC's VEGA processor",
+      "ur": "سی-ڈیک کا ویگا پروسیسر"
+    },
+    "b6.itemlbl.5": {
+      "hi": "प्रोसेसर वास्तुकला",
+      "en": "Processor architecture",
+      "ur": "پروسیسر فن تعمیر"
+    },
+    "b6.itemval.5": {
+      "hi": "आर. आई. एस. सी.-वी. (ओपन-सोर्स)",
+      "en": "RISC-V (open-source)",
+      "ur": "RISC-V (اوپن سورس)"
+    },
+    "b6.itemlbl.6": {
+      "hi": "डिजाइन का पूरा होना",
+      "en": "Design completion",
+      "ur": "ڈیزائن کی تکمیل"
+    },
+    "b6.itemval.6": {
+      "hi": "26 जनवरी 2026 (गणतंत्र दिवस)",
+      "en": "26 January 2026 (Republic Day)",
+      "ur": "26 جنوری 2026 (یوم جمہوریہ)"
+    },
+    "b6.itemlbl.7": {
+      "hi": "सिलिकॉन का पहला परीक्षण सफल",
+      "en": "First silicon test success",
+      "ur": "سلکان کے پہلے تجربے کی کامیابی"
+    },
+    "b6.itemval.7": {
+      "hi": "15 अगस्त 2026 (स्वतंत्रता दिवस)",
+      "en": "15 August 2026 (Independence Day)",
+      "ur": "15 اگست 2026 (یوم آزادی)"
+    },
+    "b6.itemlbl.8": {
+      "hi": "सार्वजनिक अनावरण",
+      "en": "Public unveiling",
+      "ur": "عوامی نقاب کشائی"
+    },
+    "b6.itemval.8": {
+      "hi": "सितंबर 2026",
+      "en": "September 2026",
+      "ur": "ستمبر 2026"
+    },
+    "b6.itemlbl.9": {
+      "hi": "डिजाइन मील का पत्थर",
+      "en": "Design milestone",
+      "ur": "ڈیزائن کا سنگ میل"
+    },
+    "b6.itemval.9": {
+      "hi": "फर्स्ट-पास सिलिकॉन सफलता",
+      "en": "First-pass silicon success",
+      "ur": "فرسٹ پاس سلکان کامیابی"
+    },
+    "b6.itemlbl.10": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b6.itemval.10": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.11": {
+      "hi": "इसे क्या महत्वपूर्ण बनाता है",
+      "en": "WHAT MAKES IT SIGNIFICANT",
+      "ur": "جو چیز اسے اہم بناتی ہے"
+    },
+    "b6.itemval.11": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.12": {
+      "hi": "भारत का पहला स्वदेशी ब्रॉडबैंड नेटवर्किंग एसओसी",
+      "en": "India's first indigenous broadband networking SoC",
+      "ur": "ہندوستان کا پہلا مقامی براڈ بینڈ نیٹ ورکنگ ایس او سی"
+    },
+    "b6.itemval.12": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.13": {
+      "hi": "स्वदेशी प्रोसेसर (वी. ई. जी. ए., आयातित ए. आर. एम./x86 नहीं) के आसपास निर्मित",
+      "en": "Built around indigenous processor (VEGA, not imported ARM/x86)",
+      "ur": "مقامی پروسیسر کے ارد گرد بنایا گیا (وی ای جی اے، درآمد شدہ اے آر ایم/x86 نہیں)"
+    },
+    "b6.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.14": {
+      "hi": "ओपन-सोर्स आरआईएससी-वी वास्तुकला (रॉयल्टी-मुक्त)",
+      "en": "Open-source RISC-V architecture (royalty-free)",
+      "ur": "اوپن سورس آر آئی ایس سی-V فن تعمیر (رائلٹی فری)"
+    },
+    "b6.itemval.14": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.15": {
+      "hi": "एकीकृत बहु-कार्य डिजाइन (एकल चिप कई घटकों को प्रतिस्थापित करती है)",
+      "en": "Integrated multi-function design (single chip replaces multiple components)",
+      "ur": "مربوط ملٹی فنکشن ڈیزائن (سنگل چپ متعدد اجزاء کی جگہ لے لیتا ہے)"
+    },
+    "b6.itemval.15": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.16": {
+      "hi": "फर्स्ट-पास सिलिकॉन सफलता (पहली बार स्वदेशी चिप के लिए बहुत दुर्लभ)",
+      "en": "First-pass silicon success (very rare for a first-time indigenous chip)",
+      "ur": "فرسٹ پاس سلکان کی کامیابی (پہلی بار مقامی چپ کے لیے بہت کم)"
+    },
+    "b6.itemval.16": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.17": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b6.itemval.17": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.18": {
+      "hi": "अंतिम उपयोग आवेदन",
+      "en": "END-USE APPLICATIONS",
+      "ur": "اختتامی استعمال کی درخواستیں"
+    },
+    "b6.itemval.18": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.19": {
+      "hi": "ब्रॉडबैंड राउटर",
+      "en": "Broadband routers",
+      "ur": "براڈ بینڈ راؤٹرز"
+    },
+    "b6.itemval.19": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.20": {
+      "hi": "फाइबर-टू-द-होम (एफटीटीएच) टर्मिनल",
+      "en": "Fibre-to-the-home (FTTH) terminals",
+      "ur": "فائبر ٹو دی ہوم (ایف ٹی ٹی ایچ) ٹرمینلز"
+    },
+    "b6.itemval.20": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.21": {
+      "hi": "नेटवर्किंग उपकरण",
+      "en": "Networking equipment",
+      "ur": "نیٹ ورکنگ کا سامان"
+    },
+    "b6.itemval.21": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.22": {
+      "hi": "उद्यम स्विच",
+      "en": "Enterprise switches",
+      "ur": "انٹرپرائز سوئچ"
+    },
+    "b6.itemval.22": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.23": {
+      "hi": "दूरसंचार अवसंरचना हार्डवेयर",
+      "en": "Telecom infrastructure hardware",
+      "ur": "ٹیلی کام انفراسٹرکچر ہارڈ ویئر"
+    },
+    "b6.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.24": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b6.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.25": {
+      "hi": "भारतीय अवसर",
+      "en": "THE INDIAN OPPORTUNITY",
+      "ur": "ہندوستانی موقع"
+    },
+    "b6.itemval.25": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.26": {
+      "hi": "भारत में ब्रॉडबैंड सदस्यताएँ",
+      "en": "Broadband subscriptions in India",
+      "ur": "بھارت میں براڈ بینڈ سبسکرپشنز"
+    },
+    "b6.itemval.26": {
+      "hi": "1 करोड़ से अधिक",
+      "en": "Over 1 billion",
+      "ur": "1 ارب سے زیادہ"
+    },
+    "b6.itemlbl.27": {
+      "hi": "नेटवर्किंग उपकरण की मांग",
+      "en": "Networking equipment demand",
+      "ur": "نیٹ ورکنگ آلات کی مانگ"
+    },
+    "b6.itemval.27": {
+      "hi": "विशाल और बढ़ता हुआ",
+      "en": "Massive and growing",
+      "ur": "بڑا اور بڑھتا ہوا"
+    },
+    "b6.itemlbl.28": {
+      "hi": "वर्तमान निर्भरता",
+      "en": "Current dependence",
+      "ur": "موجودہ انحصار"
+    },
+    "b6.itemval.28": {
+      "hi": "पर्याप्त रूप से आयातित अर्धचालक घटक",
+      "en": "Substantially imported semiconductor components",
+      "ur": "کافی درآمد شدہ سیمی کنڈکٹر اجزاء"
+    },
+    "b6.itemlbl.29": {
+      "hi": "विहानक क्षमता",
+      "en": "VIHAAN's potential",
+      "ur": "ویوان کی صلاحیت"
+    },
+    "b6.itemval.29": {
+      "hi": "महत्वपूर्ण श्रेणी में आयात निर्भरता को कम करना।",
+      "en": "Reduce import dependence in a critical category",
+      "ur": "اہم زمرے میں درآمدات پر انحصار کو کم کرنا۔"
+    },
+    "b6.itemlbl.30": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b6.itemval.30": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.31": {
+      "hi": "नीति समर्थन वास्तुकला",
+      "en": "POLICY SUPPORT ARCHITECTURE",
+      "ur": "پالیسی سپورٹ آرکیٹیکچر"
+    },
+    "b6.itemval.31": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b6.itemlbl.32": {
+      "hi": "डिजाइन से जुड़ी प्रोत्साहन (डी. एल. आई.) योजना",
+      "en": "Design Linked Incentive (DLI) scheme",
+      "ur": "ڈیزائن سے منسلک ترغیبی (ڈی ایل آئی) اسکیم"
+    },
+    "b6.itemval.32": {
+      "hi": "घरेलू चिप डिजाइन को गति देता है",
+      "en": "Accelerates domestic chip design",
+      "ur": "گھریلو چپ ڈیزائن کو تیز کرتا ہے"
+    },
+    "b6.itemlbl.33": {
+      "hi": "समर्थित कंपनियाँ",
+      "en": "Supported companies",
+      "ur": "معاون کمپنیاں"
+    },
+    "b6.itemval.33": {
+      "hi": "कई चिप-डिजाइन टेप-आउट हासिल किए गए",
+      "en": "Multiple chip-design tape-outs achieved",
+      "ur": "متعدد چپ ڈیزائن ٹیپ آؤٹ حاصل کیے گئے"
+    },
+    "b6.itemlbl.34": {
+      "hi": "उद्यम पूंजी",
+      "en": "Venture capital",
+      "ur": "وینچر سرمایہ"
+    },
+    "b6.itemval.34": {
+      "hi": "भारतीय सेमीकंडक्टर स्टार्टअप में उत्तरोत्तर प्रवाह",
+      "en": "Progressively flowing into Indian semiconductor startups",
+      "ur": "ہندوستانی سیمی کنڈکٹر اسٹارٹ اپس میں بتدریج اضافہ ہو رہا ہے"
+    },
+    "b6.itemlbl.35": {
+      "hi": "व्यापक ढांचा",
+      "en": "Wider framework",
+      "ur": "وسیع تر فریم ورک"
+    },
+    "b6.itemval.35": {
+      "hi": "सेमीकॉन 1 + सेमीकॉन 2 (1,27,500 करोड़ रुपये)",
+      "en": "Semicon 1.0 + Semicon 2.0 (Rs 1,27,500 crore outlay)",
+      "ur": "سیمیکون 1 + سیمیکون 2 (1,27,500 کروڑ روپے کا خرچ)"
+    },
+    "b7.q": {
+      "hi": "\"भारत अर्धचालक प्रौद्योगिकी के उपभोग से इसे डिजाइन करने और उसके मालिक बनने की ओर बढ़ रहा है। वाहन एकल चिप में उस बदलाव का प्रतिनिधित्व करता है-स्वदेशी प्रोसेसर प्रौद्योगिकी के इर्द-गिर्द निर्मित एक प्रथम-पास सिलिकॉन सफलता, जो भारत की डिजिटल अर्थव्यवस्था में सबसे परिणामी एकल हार्डवेयर श्रेणियों में से एक को लक्षित करती है।\"",
+      "en": "\"India is moving from consuming semiconductor technology to designing and owning it. VIHAAN represents that shift in a single chip — a first-pass silicon success built around indigenous processor technology, targeting one of the most consequential single hardware categories in India's digital economy.\"",
+      "ur": "\"ہندوستان سیمی کنڈکٹر ٹیکنالوجی کے استعمال سے لے کر اس کے ڈیزائن اور مالک ہونے کی طرف بڑھ رہا ہے۔ وہان ایک چپ میں اس تبدیلی کی نمائندگی کرتا ہے-ایک فرسٹ پاس سلکان کامیابی جو مقامی پروسیسر ٹیکنالوجی کے ارد گرد بنائی گئی ہے، جس میں ہندوستان کی ڈیجیٹل معیشت میں سب سے زیادہ نتیجہ خیز واحد ہارڈ ویئر کے زمرے کو نشانہ بنایا گیا ہے۔\""
+    },
+    "b7.c": {
+      "hi": "- भारत के अर्धचालक कार्यक्रम के लिए'वाहन'के महत्व पर",
+      "en": "— On the significance of VIHAAN for India's semiconductor programme",
+      "ur": "- ہندوستان کے سیمی کنڈکٹر پروگرام کے لیے ویوان کی اہمیت پر"
+    },
+    "b8": {
+      "hi": "समय क्यों मायने रखता है",
+      "en": "Why the timing matters",
+      "ur": "وقت کیوں اہم ہے"
+    },
+    "b9": {
+      "hi": "भारत ने चालू वर्ष में एक अरब ब्रॉडबैंड ग्राहकों की संख्या को पार कर लिया है-जो दुनिया के सबसे बड़े एकल राष्ट्रीय ब्रॉडबैंड आधारों में से एक है। यह ग्राहक आधार अंतर्निहित हार्डवेयर की भारी मांग को शक्ति प्रदान करता हैः राउटर, फाइबर-ऑप्टिक टर्मिनल, वाईफाई एक्सेस पॉइंट और उद्यम नेटवर्किंग उपकरण। आज उन उपकरणों में से लगभग हर एक आयातित अर्धचालक घटकों पर निर्भर करता है। उन आयातों पर निर्भरता को कम करने के लिए एक भी महत्वपूर्ण श्रेणी-ब्रॉडबैंड नेटवर्किंग सिलिकॉन-के निहितार्थ हैं जो एक चिप से परे हैं। यह एक आपूर्ति संरचना को बढ़ावा देता है, भारतीय डिजाइन विशेषज्ञता का निर्माण करता है, स्वदेशी प्रोसेसर प्रौद्योगिकी के लिए घरेलू मांग पैदा करता है, और उत्तरोत्तर व्यापक भारतीय अर्धचालक पारिस्थितिकी तंत्र को मजबूत करता है।",
+      "en": "India crossed one billion broadband subscriptions in the current year — one of the largest single national broadband bases in the world. That subscriber base powers massive demand for the underlying hardware: routers, fibre-optic terminals, WiFi access points and enterprise networking equipment. Nearly every one of those devices today depends on imported semiconductor components. Reducing dependence on those imports in even a single critical category — broadband networking silicon — has implications that extend far beyond one chip. It anchors a supply architecture, builds Indian design expertise, creates domestic demand for indigenous processor technology, and progressively strengthens the wider Indian semiconductor ecosystem.",
+      "ur": "ہندوستان نے رواں سال میں ایک ارب براڈ بینڈ سبسکرپشنز کو عبور کیا-جو دنیا کے سب سے بڑے واحد قومی براڈ بینڈ اڈوں میں سے ایک ہے۔ یہ سبسکرائبر بیس بنیادی ہارڈ ویئر کی بڑے پیمانے پر مانگ کو تقویت دیتا ہے: راؤٹرز، فائبر آپٹک ٹرمینلز، وائی فائی رسائی پوائنٹس اور انٹرپرائز نیٹ ورکنگ آلات۔ ان آلات میں سے تقریبا ہر ایک آج درآمد شدہ سیمی کنڈکٹر اجزاء پر منحصر ہے۔ ان درآمدات پر انحصار کو کم کرنے کے لیے ایک ہی اہم زمرے-براڈ بینڈ نیٹ ورکنگ سلکان-کے مضمرات ہیں جو ایک چپ سے بھی آگے بڑھ جاتے ہیں۔ یہ سپلائی فن تعمیر کو لنگر انداز کرتا ہے، ہندوستانی ڈیزائن کی مہارت بناتا ہے، مقامی پروسیسر ٹیکنالوجی کی گھریلو مانگ پیدا کرتا ہے، اور بتدریج وسیع ہندوستانی سیمی کنڈکٹر ماحولیاتی نظام کو مضبوط کرتا ہے۔"
+    },
+    "b10": {
+      "hi": "उपलब्धि के पीछे नीतिगत ढांचा",
+      "en": "The policy framework behind the achievement",
+      "ur": "کامیابی کے پیچھے پالیسی کا ڈھانچہ"
+    },
+    "b11": {
+      "hi": "वाहन अलग-थलग नहीं हुआ। भारत की डिजाइन लिंक्ड इंसेंटिव (डी. एल. आई.) योजना ने हाल के वर्षों में घरेलू अर्धचालक डिजाइन को उत्तरोत्तर गति दी है, जिसमें समर्थित कंपनियों ने दर्जनों चिप-डिजाइन टेप-आउट हासिल किए हैं और इस क्षेत्र में उद्यम पूंजी निवेश को आकर्षित किया है। डी. एल. आई. ढांचा व्यापक सेमीकॉन 1 और सेमीकॉन 2 कार्यक्रमों के साथ बैठता है-जो किसी भी उभरती अर्थव्यवस्था में सबसे व्यापक सरकार समर्थित अर्धचालक पारिस्थितिकी तंत्र में से एक है। वाहन की विकास पाइपलाइन-एक स्थापित नीति ढांचे से, चेन्नई स्टार्टअप के माध्यम से, सी-डैक के स्वदेशी प्रोसेसर का उपयोग करके, प्रथम-पास सिलिकॉन सफलता तक-यह दर्शाती है कि भारत की अर्धचालक वास्तुकला के टुकड़े कैसे उत्तरोत्तर एक साथ फिट होते हैं।",
+      "en": "VIHAAN did not emerge in isolation. India's Design Linked Incentive (DLI) scheme has progressively accelerated domestic semiconductor design across recent years, with supported companies achieving dozens of chip-design tape-outs and attracting venture capital investment into the sector. The DLI framework sits alongside the wider Semicon 1.0 and Semicon 2.0 programmes — together forming one of the most comprehensive government-backed semiconductor ecosystems in any emerging economy. VIHAAN's development pipeline — from an established policy framework, through a Chennai startup, using C-DAC's indigenous processor, to first-pass silicon success — captures how the pieces of India's semiconductor architecture progressively fit together.",
+      "ur": "وہان الگ تھلگ نہیں ہوا۔ ہندوستان کی ڈیزائن سے منسلک ترغیبی (ڈی ایل آئی) اسکیم نے حالیہ برسوں میں گھریلو سیمی کنڈکٹر ڈیزائن کو بتدریج تیز کیا ہے، جس میں معاون کمپنیوں نے درجنوں چپ ڈیزائن ٹیپ آؤٹ حاصل کیے ہیں اور اس شعبے میں وینچر کیپٹل سرمایہ کاری کو راغب کیا ہے۔ ڈی ایل آئی فریم ورک وسیع سیمیکون 1 اور سیمیکون 2 پروگراموں کے ساتھ بیٹھا ہے-جو مل کر کسی بھی ابھرتی ہوئی معیشت میں حکومت کے حمایت یافتہ سیمی کنڈکٹر ماحولیاتی نظام میں سے ایک ہے۔ وہان کی ترقیاتی پائپ لائن-ایک قائم شدہ پالیسی فریم ورک سے، چنئی اسٹارٹ اپ کے ذریعے، سی-ڈی اے سی کے مقامی پروسیسر کا استعمال کرتے ہوئے، فرسٹ پاس سلکان کی کامیابی تک-اس بات کی تصویر کشی کرتی ہے کہ ہندوستان کے سیمی کنڈکٹر فن تعمیر کے ٹکڑے کس طرح ایک ساتھ بتدریج فٹ ہوتے ہیں۔"
+    },
+    "b12": {
+      "hi": "यह क्या संकेत देता है",
+      "en": "What it signals",
+      "ur": "یہ کیا اشارہ کرتا ہے"
+    },
+    "b13": {
+      "hi": "भारत के डिजिटल बुनियादी ढांचे के लिए, VIHAAN उत्तरोत्तर बाहरी आपूर्तिकर्ताओं के बजाय घरेलू सिलिकॉन में निहित नेटवर्किंग उपकरण आपूर्ति श्रृंखला के लिए द्वार खोलता है। भारत के अर्धचालक डिजाइन पारिस्थितिकी तंत्र के लिए, पहली बार सिलिकॉन की सफलता इस बात को प्रमाणित करती है कि भारतीय डिजाइन घर जटिल SoC परियोजनाओं पर वैश्विक स्तर पर प्रतिस्पर्धा कर सकते हैं। भारत की RISC-V वास्तुकला आकांक्षाओं के लिए, VEGA-संचालित VIHAAN अब तक का सर्वोच्च प्रोफ़ाइल परिचालन प्रदर्शन प्रदान करता है कि स्वदेशी प्रोसेसर प्रौद्योगिकी वास्तविक दुनिया के वाणिज्यिक सिलिकॉन को लंगर डाल सकती है। और इलेक्ट्रॉनिक्स में भारत के आत्मनिर्भर भारत ढांचे के लिए, चेन्नई द्वारा डिज़ाइन की गई चिप व्यापक प्रक्षेपवक्र को पकड़ती है-खपत से लेकर डिजाइनिंग तक।",
+      "en": "For India's digital infrastructure, VIHAAN progressively opens the door to a networking equipment supply chain rooted in domestic silicon rather than external suppliers. For India's semiconductor design ecosystem, the first-pass silicon success validates that Indian design houses can compete at global tier on complex SoC projects. For India's RISC-V architecture aspirations, the VEGA-powered VIHAAN provides the highest-profile operational demonstration to date that indigenous processor technology can anchor real-world commercial silicon. And for India's Aatmanirbhar Bharat framework in electronics, the Chennai-designed chip captures the wider trajectory — from consuming to designing to owning.",
+      "ur": "ہندوستان کے ڈیجیٹل انفراسٹرکچر کے لیے، وہان بتدریج بیرونی سپلائرز کے بجائے گھریلو سلکان میں جڑی ہوئی نیٹ ورکنگ آلات کی سپلائی چین کا دروازہ کھولتا ہے۔ ہندوستان کے سیمی کنڈکٹر ڈیزائن ماحولیاتی نظام کے لیے، پہلی بار سلکان کی کامیابی اس بات کی توثیق کرتی ہے کہ ہندوستانی ڈیزائن ہاؤس پیچیدہ ایس او سی پروجیکٹوں پر عالمی سطح پر مقابلہ کر سکتے ہیں۔ ہندوستان کی آر آئی ایس سی-V فن تعمیر کی خواہشات کے لیے، ویگا سے چلنے والی وہان آج تک کا اعلی ترین آپریشنل مظاہرہ فراہم کرتی ہے کہ مقامی پروسیسر ٹیکنالوجی حقیقی دنیا کے تجارتی سلکان کو لنگر انداز کر سکتی ہے۔ اور الیکٹرانکس میں ہندوستان کے آتم نربھر بھارت فریم ورک کے لیے، چنئی کے ڈیزائن کردہ چپ وسیع تر راستے پر قبضہ کرتی ہے-استعمال سے لے کر ڈیزائننگ تک۔"
+    },
+    "b14": {
+      "hi": "आयातित से स्वदेशी. असेंबलर से डिजाइनर तक. उपभोक्ता से मालिक तक. वाहन, एक घरेलू प्रोसेसर के आसपास एक चेन्नई स्टार्टअप द्वारा निर्मित एक प्रथम-सफल चिप, सेमीकंडक्टर उपभोक्ता से सेमीकंडक्टर डिजाइनर में भारत के परिवर्तन की दिशा में एक महत्वपूर्ण कदम है।",
+      "en": "From imported to indigenous. From assembler to designer. From consumer to owner. VIHAAN, one first-pass-successful chip built by one Chennai startup around one home-grown processor, marks a substantive step in India's transformation from semiconductor consumer to semiconductor designer.",
+      "ur": "درآمد شدہ سے مقامی۔ اسمبلر سے ڈیزائنر تک۔ صارف سے مالک تک۔ ایک گھریلو پروسیسر کے ارد گرد چنئی اسٹارٹ اپ کے ذریعہ بنائی گئی ایک پہلی کامیاب چپ، وہیان، سیمی کنڈکٹر صارف سے سیمی کنڈکٹر ڈیزائنر میں ہندوستان کی تبدیلی کی طرف ایک ٹھوس قدم ہے۔"
+    }
+  }
+}
