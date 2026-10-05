@@ -1,0 +1,620 @@
+{
+  "hash": "968bbc16bbf7e2de",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"सुपरकंप्यूटिंग · एन. एस. एम. · परम रुद्र · सी-डैक · आत्मनिर्भर भारत\"",
+      "en": "\"Supercomputing · NSM · PARAM Rudra · C-DAC · Aatmanirbhar Bharat\"",
+      "ur": "\"سپر کمپیوٹنگ · این ایس ایم · پرم رودر · سی-ڈی اے سی · آتم نربھر بھارت\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली/पुणे/बेंगलुरु",
+      "en": "New Delhi / Pune / Bengaluru",
+      "ur": "نئی دہلی/پونے/بنگلورو"
+    },
+    "fm.headline": {
+      "hi": "\"भारत की सुपरकंप्यूटिंग आ गई हैः 40 सिस्टम, 68 पेटाफ्लॉप, घरेलू रुद्र सर्वर\"",
+      "en": "\"India's supercomputing arrives: 40 systems, 68 petaflops, home-grown Rudra servers\"",
+      "ur": "\"ہندوستان کی سپر کمپیوٹنگ پہنچ گئی: 40 سسٹم، 68 پیٹا فلاپس، گھریلو رودر سرورز\""
+    },
+    "fm.subdeck": {
+      "hi": "\"भारत ने 4,500 करोड़ रुपये के परिव्यय के साथ 2015 में शुरू किए गए राष्ट्रीय सुपरकंप्यूटिंग मिशन (एन. एस. एम.) के तहत सितंबर 2026 तक संयुक्त रूप से 68 पेटाफ्लॉप कंप्यूटिंग शक्ति प्रदान करने वाले 40 सुपरकंप्यूटर तैनात किए हैं। मिशन ने उत्तरोत्तर न केवल मशीनों का निर्माण किया है, बल्कि उनके नीचे पूर्ण ढेर-स्वदेशी रुद्र सर्वर, उच्च गति इंटरकनेक्ट, कूलिंग सिस्टम और एच. पी. सी. सॉफ्टवेयर-400 से अधिक संस्थानों में 16,000 से अधिक शोधकर्ताओं, डेढ़ करोड़ कंप्यूट नौकरियों और 1,990 शोध प्रकाशनों का समर्थन किया है। परम रुद्र श्रृंखला अब 6,000 भारत निर्मित सर्वरों पर चलती है, जिसमें 1,500 और विनिर्माण में हैं।\"",
+      "en": "\"India has deployed 40 supercomputers delivering a combined 68 petaflops of computing power as of September 2026 under the National Supercomputing Mission (NSM), launched in 2015 with a Rs 4,500 crore outlay. The Mission has progressively built not just the machines but the full stack beneath them — indigenous Rudra servers, high-speed interconnects, cooling systems and HPC software — supporting over 16,000 researchers across 400+ institutions, 1.5 crore compute jobs and 1,990 research publications. The PARAM Rudra series now runs on 6,000 India-made servers, with 1,500 more in manufacturing.\"",
+      "ur": "\"ہندوستان نے ستمبر 2026 تک نیشنل سپر کمپیوٹنگ مشن (این ایس ایم) کے تحت کمپیوٹنگ پاور کے مشترکہ 68 پیٹا فلاپس فراہم کرنے والے 40 سپر کمپیوٹرز تعینات کیے ہیں، جو 2015 میں 4, 500 کروڑ روپے کے اخراجات کے ساتھ شروع کیے گئے تھے۔ مشن نے بتدریج نہ صرف مشینیں بلکہ ان کے نیچے مکمل اسٹیک-مقامی رودر سرورز، ہائی سپیڈ انٹر کنیکٹس، کولنگ سسٹم اور ایچ پی سی سافٹ ویئر-400 سے زیادہ اداروں میں 16, 000 سے زیادہ محققین، 1. 5 کروڑ کمپیوٹ جابز اور 1, 990 تحقیقی اشاعتوں کی حمایت کی ہے۔ پرم رودر سیریز اب 6, 000 ہندوستان میں بنے سرورز پر چلتی ہے، جن میں مزید 1, 500 مینوفیکچرنگ میں ہیں۔\""
+    },
+    "b0": {
+      "hi": "भारत का सुपरकंप्यूटिंग पारिस्थितिकी तंत्र उत्तरोत्तर 1991 में एक अग्रणी मशीन से 40 परिचालन प्रणालियों के राष्ट्रव्यापी ढांचे में स्थानांतरित हो गया है जो संयुक्त रूप से 68 पेटाफ्लॉप कंप्यूटिंग शक्ति प्रदान करता है। यह परिवर्तन राष्ट्रीय सुपरकंप्यूटिंग मिशन (एन. एस. एम.) के तहत किया गया है, जिसे 2015 में लगभग 4,500 करोड़ रुपये के परिव्यय के साथ शुरू किया गया था और विज्ञान और प्रौद्योगिकी विभाग (डी. एस. टी.) और इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) द्वारा संयुक्त रूप से संचालित किया गया था। इस मिशन को पुणे में सेंटर फॉर डेवलपमेंट ऑफ एडवांस्ड कंप्यूटिंग (सी-डैक) और बेंगलुरु में भारतीय विज्ञान संस्थान (आई. आई. एस. सी.) द्वारा लागू किया गया है। इसका लक्ष्य 50 सुपरकंप्यूटर हैं जो 123 पेटाफ्लॉप से अधिक की संयुक्त क्षमता प्रदान करते हैं-और पारिस्थितिकी तंत्र अब उत्तरोत्तर उस तक पहुंचने के लिए पटरी पर है।",
+      "en": "India's supercomputing ecosystem has progressively moved from a single pioneering machine in 1991 to a nationwide architecture of 40 operational systems delivering a combined 68 petaflops of computing power. The transformation has been delivered under the National Supercomputing Mission (NSM), launched in 2015 with an outlay of approximately Rs 4,500 crore and jointly steered by the Department of Science and Technology (DST) and the Ministry of Electronics and Information Technology (MeitY). The Mission is implemented by the Centre for Development of Advanced Computing (C-DAC) in Pune and the Indian Institute of Science (IISc) in Bengaluru. Its target is 50 supercomputers delivering a combined capacity of more than 123 petaflops — and the ecosystem is now progressively on track to reach it.",
+      "ur": "ہندوستان کا سپر کمپیوٹنگ ماحولیاتی نظام 1991 میں ایک واحد اولین مشین سے بڑھ کر 40 آپریشنل سسٹمز کے ملک گیر ڈھانچے کی طرف بڑھ گیا ہے جو کمپیوٹنگ پاور کے مشترکہ 68 پیٹا فلاپس فراہم کرتا ہے۔ یہ تبدیلی نیشنل سپر کمپیوٹنگ مشن (این ایس ایم) کے تحت کی گئی ہے، جو 2015 میں تقریبا 4, 500 کروڑ روپے کے اخراجات کے ساتھ شروع کی گئی تھی اور سائنس و ٹیکنالوجی کے محکمے (ڈی ایس ٹی) اور الیکٹرانکس اور انفارمیشن ٹیکنالوجی کی وزارت (ایم ای آئی ٹی وائی) کے ذریعے مشترکہ طور پر چلائے گئے تھے۔ مشن کو پونے میں سینٹر فار ڈویلپمنٹ آف ایڈوانسڈ کمپیوٹنگ (سی-ڈی اے سی) اور بنگلورو میں انڈین انسٹی ٹیوٹ آف سائنس (آئی آئی ایس سی) کے ذریعے نافذ کیا گیا ہے۔ اس کا ہدف 50 سپر کمپیوٹرز ہیں جو 123 پیٹا فلاپس سے زیادہ کی مشترکہ صلاحیت فراہم کرتے ہیں-اور ماحولیاتی نظام اب اس تک پہنچنے کے لیے بتدریج راستے پر ہے۔"
+    },
+    "b1": {
+      "hi": "सुपर कंप्यूटर वास्तव में क्या करता है",
+      "en": "What a supercomputer actually does",
+      "ur": "سپر کمپیوٹر اصل میں کیا کرتا ہے"
+    },
+    "b2": {
+      "hi": "सुपरकम्प्यूटर एक ऐसा कंप्यूटर है जो एक ही समस्या पर समानांतर रूप से काम करने वाले कई प्रोसेसर का उपयोग करके बहुत अधिक गति से बहुत बड़ी मात्रा में डेटा को संसाधित करता है। जहां एक लैपटॉप में 8 या 16 प्रोसेसर कोर हो सकते हैं, एक सुपरकम्प्यूटर हजारों या सैकड़ों हजारों का उपयोग करता है। इसे समानांतर प्रसंस्करण कहा जाता है-कई गणनाएं एक साथ होती हैं।",
+      "en": "A supercomputer is a computer that processes very large amounts of data at very high speeds by using many processors working in parallel on the same problem. Where a laptop might have 8 or 16 processor cores, a supercomputer uses thousands or hundreds of thousands. This is called parallel processing — many calculations happening simultaneously.",
+      "ur": "سپر کمپیوٹر ایک ایسا کمپیوٹر ہے جو ایک ہی مسئلے پر متوازی طور پر کام کرنے والے بہت سے پروسیسرز کا استعمال کرتے ہوئے بہت تیز رفتار سے بہت بڑی مقدار میں ڈیٹا پر کارروائی کرتا ہے۔ جہاں ایک لیپ ٹاپ میں 8 یا 16 پروسیسر کور ہو سکتے ہیں، ایک سپر کمپیوٹر ہزاروں یا سیکڑوں ہزاروں کا استعمال کرتا ہے۔ اسے متوازی پروسیسنگ کہا جاتا ہے-بہت سے حسابات بیک وقت ہوتے ہیں۔"
+    },
+    "b3": {
+      "hi": "सुपरकंप्यूटर की गति को एफएलओपीएस में मापा जाता है, जिसका अर्थ है फ्लोटिंग प्वाइंट ऑपरेशंस पर सेकंड-गणितीय गणनाओं की संख्या जो मशीन एक सेकंड में कर सकती है। एक टेराफ्लॉप (टीएफ) प्रति सेकंड एक ट्रिलियन गणना के बराबर है। एक पेटाफ्लॉप (पीएफ) एक क्वाड्रिलियन के बराबर है। संदर्भ के लिए, 2026 में दुनिया का सबसे तेज सुपरकंप्यूटर लगभग 2,19 एक्साफ्लॉप्स-2,19 क्विंटिलियन गणना प्रति सेकंड पर काम करता है।",
+      "en": "Supercomputer speed is measured in FLOPS, which stands for Floating Point Operations Per Second — the number of mathematical calculations the machine can perform in one second. One teraflop (TF) equals one trillion calculations per second. One petaflop (PF) equals one quadrillion. For context, the world's fastest supercomputer in 2026 operates at around 2.19 exaflops — 2.19 quintillion calculations per second.",
+      "ur": "سپر کمپیوٹر کی رفتار کو ایف ایل او پی ایس میں ماپا جاتا ہے، جس کا مطلب فلوٹنگ پوائنٹ آپریشنز فی سیکنڈ ہے-ریاضیاتی حسابات کی تعداد جو مشین ایک سیکنڈ میں انجام دے سکتی ہے۔ ایک ٹیرا فلاپ (ٹی ایف) فی سیکنڈ ایک ٹریلین حسابات کے برابر ہے۔ ایک پیٹا فلاپ (پی ایف) ایک کواڈریلین کے برابر ہے۔ سیاق و سباق کے مطابق، 2026 میں دنیا کا تیز ترین سپر کمپیوٹر تقریبا 2. 19 ایکزا فلاپس-2. 19 کوئنٹ ملین حسابات فی سیکنڈ پر کام کرتا ہے۔"
+    },
+    "b4": {
+      "hi": "यात्रा-परम 8000 से परम रुद्र तक",
+      "en": "The journey — from PARAM 8000 to PARAM Rudra",
+      "ur": "سفر-پرم 8000 سے پرم رودر تک"
+    },
+    "b5": {
+      "hi": "भारत की सुपरकंप्यूटिंग की कहानी 1991 में सी-डैक द्वारा विकसित परम 8000 के साथ शुरू हुई। इसकी गति 1 गीगाफ्लॉप थी-आज के मानकों के अनुसार मामूली, लेकिन उस समय एक महत्वपूर्ण क्षण। इसने भारत को अपने स्वयं के उच्च-प्रदर्शन वाले कंप्यूटरों को डिजाइन करने और बनाने में सक्षम देशों के छोटे समूह में प्रवेश दिया, जब संयुक्त राज्य अमेरिका ने भारत को ऐसी तकनीक के निर्यात पर प्रतिबंध लगा दिया था।",
+      "en": "India's supercomputing story began in 1991 with PARAM 8000, developed by C-DAC. Its speed was 1 gigaflop — modest by today's standards, but a substantive moment at the time. It gave India entry into the small group of countries capable of designing and building their own high-performance computers, at a point when the United States had restricted export of such technology to India.",
+      "ur": "ہندوستان کی سپر کمپیوٹنگ کی کہانی 1991 میں PARAM 8000 کے ساتھ شروع ہوئی، جسے C-DAC نے تیار کیا تھا۔ اس کی رفتار 1 گیگا فلاپ تھی-آج کے معیار کے مطابق معمولی، لیکن اس وقت ایک ٹھوس لمحہ تھا۔ اس نے ہندوستان کو ان ممالک کے چھوٹے سے گروپ میں داخلہ دیا جو اپنے اعلی کارکردگی والے کمپیوٹر ڈیزائن کرنے اور بنانے کے قابل تھے، ایک ایسے وقت میں جب امریکہ نے ہندوستان کو ایسی ٹیکنالوجی کی برآمد پر پابندی لگا دی تھی۔"
+    },
+    "b6": {
+      "hi": "परम श्रृंखला उत्तरोत्तर विकसित होती गई। परम युवा 54 टेराफ्लॉप्स तक पहुँच गया और मौसम पूर्वानुमान और द्रव गतिकी अनुकरण जैसे कम्प्यूटेशनल रूप से गहन अनुप्रयोगों का समर्थन किया। उत्तरोत्तर पीढ़ियों ने क्षमता का और विस्तार किया। वर्तमान प्रमुख-परम रुद्र श्रृंखला-एनएसएम की आत्मनिर्भरता रणनीति के परिचालन परिणाम का प्रतिनिधित्व करती है। परम रुद्र प्रणाली स्वदेशी रूप से डिज़ाइन किए गए रुद्र सर्वर और पूरी तरह से घरेलू प्रणाली सॉफ्टवेयर स्टैक का उपयोग करके बनाई गई है। सितंबर 2026 तक, परम रुद्र सुपरकंप्यूटर में 6,000 रुद्र सर्वर तैनात किए गए थे, और अन्य 1,500 सर्वर निर्माणाधीन थे।",
+      "en": "The PARAM series progressively evolved. PARAM Yuva reached 54 teraflops and supported computationally intensive applications like weather forecasting and fluid dynamics simulation. Successive generations expanded capability further. The current flagship — the PARAM Rudra series — represents the operational outcome of NSM's self-reliance strategy. PARAM Rudra systems are built using indigenously designed Rudra servers and a fully home-grown system software stack. As of September 2026, 6,000 Rudra servers had been deployed across PARAM Rudra supercomputers, with another 1,500 servers under manufacturing.",
+      "ur": "پرام سیریز بتدریج ترقی کرتی گئی۔ پرام یووا 54 ٹیرا فلاپس تک پہنچ گیا اور موسم کی پیش گوئی اور سیال حرکیات کے تخروپن جیسے کمپیوٹیشنل طور پر گہری ایپلی کیشنز کی حمایت کی۔ یکے بعد دیگرے نسلوں نے صلاحیت کو مزید بڑھایا۔ موجودہ فلیگ شپ-پرام رودر سیریز-این ایس ایم کی خود انحصاری حکمت عملی کے آپریشنل نتائج کی نمائندگی کرتا ہے۔ پرام رودر سسٹم مقامی طور پر ڈیزائن کیے گئے رودر سرورز اور مکمل طور پر گھریلو سسٹم سافٹ ویئر اسٹیک کا استعمال کرتے ہوئے بنائے گئے ہیں۔ ستمبر 2026 تک، 6000 رودر سرورز کو پرام رودر سپر کمپیوٹرز میں تعینات کیا گیا تھا، جس میں مزید 1500 سرورز زیر تعمیر تھے۔"
+    },
+    "b7": {
+      "hi": "40 सुपर कंप्यूटर अब काम कर रहे हैं।",
+      "en": "The 40 supercomputers now operational",
+      "ur": "40 سپر کمپیوٹر اب کام کر رہے ہیں"
+    },
+    "b8": {
+      "hi": "देश भर में एन. एस. एम. के तहत तैनात 40 प्रणालियां तीन परिचालन स्तरों में विभाजित हैं। तेरह उच्च-स्तरीय प्रणालियां हैं जो प्रत्येक में एक से अधिक पेटाफ्लॉप प्रदान करती हैं। बारह मध्यम-श्रेणी की प्रणालियां हैं जिनकी क्षमता 500 टेराफ्लॉप और 1 पेटाफ्लॉप के बीच है। शेष पंद्रह 500 टेराफ्लॉप से कम की छोटी प्रणालियां हैं। वे मिलकर 68-पेटाफ्लॉप संयुक्त राष्ट्रीय क्षमता प्रदान करते हैं, जो देश भर के अनुसंधान संस्थानों, विश्वविद्यालयों, सरकारी विभागों और रणनीतिक एजेंसियों को सेवा प्रदान करते हैं।",
+      "en": "The 40 systems deployed under NSM across the country break down into three operational tiers. Thirteen are high-end systems delivering more than 1 petaflop each. Twelve are mid-range systems with capacities between 500 teraflops and 1 petaflop. The remaining fifteen are smaller systems below 500 teraflops. Together they deliver the 68-petaflop combined national capacity, serving research institutions, universities, government departments and strategic agencies across the country.",
+      "ur": "ملک بھر میں این ایس ایم کے تحت تعینات 40 نظام تین آپریشنل سطحوں میں تقسیم ہوتے ہیں۔ تیرہ اعلی درجے کے نظام ہیں جو ہر ایک میں 1 سے زیادہ پیٹا فلاپ فراہم کرتے ہیں۔ بارہ درمیانی رینج کے نظام ہیں جن کی صلاحیت 500 ٹیرا فلاپس اور 1 پیٹا فلاپ کے درمیان ہے۔ باقی پندرہ 500 ٹیرا فلاپس سے نیچے کے چھوٹے نظام ہیں۔ وہ مل کر 68 پیٹا فلاپ مشترکہ قومی صلاحیت فراہم کرتے ہیں، جو ملک بھر میں تحقیقی اداروں، یونیورسٹیوں، سرکاری محکموں اور اسٹریٹجک ایجنسیوں کی خدمت کرتے ہیں۔"
+    },
+    "b9.title": {
+      "hi": "भारत का सुपरकंप्यूटिंग पारिस्थितिकी तंत्र एक नजर में",
+      "en": "India's Supercomputing Ecosystem at a Glance",
+      "ur": "ہندوستان کا سپر کمپیوٹنگ ماحولیاتی نظام ایک نظر میں"
+    },
+    "b9.itemlbl.0": {
+      "hi": "मिशन",
+      "en": "Mission",
+      "ur": "مشن"
+    },
+    "b9.itemval.0": {
+      "hi": "राष्ट्रीय सुपरकंप्यूटिंग मिशन (एन. एस. एम.)",
+      "en": "National Supercomputing Mission (NSM)",
+      "ur": "نیشنل سپر کمپیوٹنگ مشن (این ایس ایم)"
+    },
+    "b9.itemlbl.1": {
+      "hi": "लॉन्च किया गया",
+      "en": "Launched",
+      "ur": "لانچ کیا گیا"
+    },
+    "b9.itemval.1": {
+      "hi": "अप्रैल 2015",
+      "en": "April 2015",
+      "ur": "اپریل 2015"
+    },
+    "b9.itemlbl.2": {
+      "hi": "खर्च",
+      "en": "Outlay",
+      "ur": "اخراجات"
+    },
+    "b9.itemval.2": {
+      "hi": "लगभग 4,500 करोड़ रुपये",
+      "en": "Approximately Rs 4,500 crore",
+      "ur": "تقریبا 4, 500 کروڑ روپے"
+    },
+    "b9.itemlbl.3": {
+      "hi": "संचालन मंत्रालय",
+      "en": "Steering ministries",
+      "ur": "وزارتوں کی رہنمائی"
+    },
+    "b9.itemval.3": {
+      "hi": "विज्ञान और प्रौद्योगिकी विभाग (डीएसटी) + इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एमईआईटीवाई)",
+      "en": "Department of Science and Technology (DST) + Ministry of Electronics and Information Technology (MeitY)",
+      "ur": "محکمہ سائنس و ٹیکنالوجی (ڈی ایس ٹی) + وزارت الیکٹرانکس و انفارمیشن ٹیکنالوجی (ایم ای آئی ٹی وائی)"
+    },
+    "b9.itemlbl.4": {
+      "hi": "संस्थाओं को लागू करना",
+      "en": "Implementing institutions",
+      "ur": "اداروں کو نافذ کرنا"
+    },
+    "b9.itemval.4": {
+      "hi": "सी-डैक पुणे + आईआईएससी बेंगलुरु",
+      "en": "C-DAC Pune + IISc Bengaluru",
+      "ur": "سی-ڈی اے سی پونے + آئی آئی ایس سی بنگلورو"
+    },
+    "b9.itemlbl.5": {
+      "hi": "लक्ष्य",
+      "en": "Target",
+      "ur": "ہدف"
+    },
+    "b9.itemval.5": {
+      "hi": "50 सुपरकंप्यूटर, 123 + पेटाफ्लॉप संयुक्त",
+      "en": "50 supercomputers, 123+ petaflops combined",
+      "ur": "50 سپر کمپیوٹرز، 123 + پیٹا فلاپس مشترکہ"
+    },
+    "b9.itemlbl.6": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b9.itemval.6": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.7": {
+      "hi": "वर्तमान नियुक्ति (सितंबर 2026)",
+      "en": "CURRENT DEPLOYMENT (September 2026)",
+      "ur": "موجودہ ملازمت (ستمبر 2026)"
+    },
+    "b9.itemval.7": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.8": {
+      "hi": "सुपरकंप्यूटर तैनात किए गए हैं",
+      "en": "Supercomputers deployed",
+      "ur": "سپر کمپیوٹرز تعینات کیے گئے"
+    },
+    "b9.itemval.8": {
+      "hi": "40.",
+      "en": "40",
+      "ur": "40"
+    },
+    "b9.itemlbl.9": {
+      "hi": "संयुक्त क्षमता",
+      "en": "Combined capacity",
+      "ur": "مشترکہ صلاحیت"
+    },
+    "b9.itemval.9": {
+      "hi": "68 पेटाफ्लॉप्स",
+      "en": "68 petaflops",
+      "ur": "68 پیٹا فلاپس"
+    },
+    "b9.itemlbl.10": {
+      "hi": "उच्च-स्तरीय प्रणालियाँ (> 1 पी. एफ.)",
+      "en": "High-end systems (>1 PF)",
+      "ur": "اعلی درجے کے نظام (> 1 پی ایف)"
+    },
+    "b9.itemval.10": {
+      "hi": "13.",
+      "en": "13",
+      "ur": "13"
+    },
+    "b9.itemlbl.11": {
+      "hi": "मध्य-श्रेणी प्रणाली (500 टी. एफ. से 1 पी. एफ.)",
+      "en": "Mid-range systems (500 TF to 1 PF)",
+      "ur": "درمیانی رینج کے نظام (500 TF سے 1 PF)"
+    },
+    "b9.itemval.11": {
+      "hi": "12.",
+      "en": "12",
+      "ur": "12"
+    },
+    "b9.itemlbl.12": {
+      "hi": "छोटी प्रणालियाँ (<500 टी. एफ.)",
+      "en": "Smaller systems (<500 TF)",
+      "ur": "چھوٹے نظام (<500 TF)"
+    },
+    "b9.itemval.12": {
+      "hi": "15.",
+      "en": "15",
+      "ur": "15"
+    },
+    "b9.itemlbl.13": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b9.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.14": {
+      "hi": "एन. एस. एम. के तहत स्वदेशी कंपनियाँ विकसित की गईं",
+      "en": "INDIGENOUS COMPONENTS DEVELOPED UNDER NSM",
+      "ur": "این ایس ایم کے تحت تیار کردہ انفرادی کمپنیاں"
+    },
+    "b9.itemval.14": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.15": {
+      "hi": "रुद्र श्रृंखला सर्वर",
+      "en": "Rudra Series Servers",
+      "ur": "رودر سیریز سرورز"
+    },
+    "b9.itemval.15": {
+      "hi": "भारत द्वारा डिजाइन, भारत द्वारा निर्मित (सी-डैक प्रौद्योगिकी भारतीय ईएमएस भागीदारों को हस्तांतरित)",
+      "en": "India-designed, India-manufactured (C-DAC technology transferred to Indian EMS partners)",
+      "ur": "ہندوستان میں ڈیزائن کردہ، ہندوستان میں تیار کردہ (سی-ڈی اے سی ٹیکنالوجی ہندوستانی ای ایم ایس شراکت داروں کو منتقل کی گئی)"
+    },
+    "b9.itemlbl.16": {
+      "hi": "परम रुद्र सुपरकम्प्यूटर",
+      "en": "PARAM Rudra Supercomputers",
+      "ur": "PARAM Rudra سپر کمپیوٹرز"
+    },
+    "b9.itemval.16": {
+      "hi": "रुद्र सर्वर + स्वदेशी सॉफ्टवेयर स्टैक का उपयोग करके बनाया गया",
+      "en": "Built using Rudra servers + indigenous software stack",
+      "ur": "رودر سرورز + مقامی سافٹ ویئر اسٹیک کا استعمال کرتے ہوئے بنایا گیا"
+    },
+    "b9.itemlbl.17": {
+      "hi": "रुद्र सर्वर तैनात किए गए हैं",
+      "en": "Rudra servers deployed",
+      "ur": "رودر سرور تعینات کیے گئے ہیں"
+    },
+    "b9.itemval.17": {
+      "hi": "6, 000 (सितंबर 2026 तक)",
+      "en": "6,000 (as of September 2026)",
+      "ur": "6, 000 (ستمبر 2026 تک)"
+    },
+    "b9.itemlbl.18": {
+      "hi": "रुद्र सर्वरों का निर्माण चल रहा है",
+      "en": "Rudra servers under manufacturing",
+      "ur": "رودر سرورز زیر تعمیر"
+    },
+    "b9.itemval.18": {
+      "hi": "1, 500 और",
+      "en": "1,500 more",
+      "ur": "1, 500 مزید"
+    },
+    "b9.itemlbl.19": {
+      "hi": "उच्च गति इंटरकनेक्ट नेटवर्क",
+      "en": "High-speed interconnect network",
+      "ur": "تیز رفتار انٹر کنیکٹ نیٹ ورک"
+    },
+    "b9.itemval.19": {
+      "hi": "100 जी. बी. पी. एस. और 200 जी. बी. पी. एस. की गति का प्रदर्शन किया गया",
+      "en": "100 Gbps and 200 Gbps speeds demonstrated",
+      "ur": "100 جی بی پی ایس اور 200 جی بی پی ایس کی رفتار کا مظاہرہ کیا گیا"
+    },
+    "b9.itemlbl.20": {
+      "hi": "कूलिंग तकनीक",
+      "en": "Cooling technology",
+      "ur": "کولنگ ٹیکنالوجی"
+    },
+    "b9.itemval.20": {
+      "hi": "स्वदेशी रूप से विकसित, अब परिनियोजन चरण में",
+      "en": "Indigenously developed, now in deployment stage",
+      "ur": "مقامی طور پر تیار کیا گیا، اب تعیناتی کے مرحلے میں ہے"
+    },
+    "b9.itemlbl.21": {
+      "hi": "एच. पी. सी. सिस्टम सॉफ्टवेयर",
+      "en": "HPC system software",
+      "ur": "ایچ پی سی سسٹم سافٹ ویئر"
+    },
+    "b9.itemval.21": {
+      "hi": "पूर्ण स्टैक विकसित और एकीकृत",
+      "en": "Complete stack developed and integrated",
+      "ur": "مکمل اسٹیک تیار اور مربوط"
+    },
+    "b9.itemlbl.22": {
+      "hi": "परम शावक",
+      "en": "PARAM Shavak",
+      "ur": "پرم شاوک"
+    },
+    "b9.itemval.22": {
+      "hi": "महाविद्यालयों और अनुसंधान प्रयोगशालाओं के लिए सुपर कंप्यूटर-इन-ए-बॉक्स",
+      "en": "Supercomputer-in-a-box for colleges and research labs",
+      "ur": "کالجوں اور تحقیقی لیبز کے لیے سپر کمپیوٹر ان اے باکس"
+    },
+    "b9.itemlbl.23": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b9.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.24": {
+      "hi": "एन. एस. एम. पर राष्ट्रीय अनुप्रयोग निर्माण",
+      "en": "NATIONAL APPLICATIONS BUILT ON NSM",
+      "ur": "این ایس ایم پر قومی درخواستیں تعمیر"
+    },
+    "b9.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.25": {
+      "hi": "जीनोमिक्स और दवा खोज मंच",
+      "en": "Genomics and Drug Discovery Platform",
+      "ur": "جینومکس اور منشیات کی دریافت کا پلیٹ فارم"
+    },
+    "b9.itemval.25": {
+      "hi": "कोविड-19 के दौरान दवा की जांच और दुष्प्रभाव की भविष्यवाणी के लिए उपयोग किया जाता है",
+      "en": "Used during COVID-19 for drug screening and side-effect prediction",
+      "ur": "کووڈ-19 کے دوران منشیات کی جانچ اور ضمنی اثرات کی پیش گوئی کے لیے استعمال کیا جاتا ہے"
+    },
+    "b9.itemlbl.26": {
+      "hi": "शहरी पर्यावरण निर्णय समर्थन प्रणाली",
+      "en": "Urban Environment Decision Support System",
+      "ur": "شہری ماحولیاتی فیصلہ سپورٹ سسٹم"
+    },
+    "b9.itemval.26": {
+      "hi": "शहर नियोजन के लिए मौसम और वायु प्रदूषण का पूर्वानुमान",
+      "en": "Weather and air-pollution forecasting for city planning",
+      "ur": "شہر کی منصوبہ بندی کے لیے موسم اور فضائی آلودگی کی پیش گوئی"
+    },
+    "b9.itemlbl.27": {
+      "hi": "भूकंपीय इमेजिंग सुइट",
+      "en": "Seismic Imaging Suite",
+      "ur": "سیسمک امیجنگ سویٹ"
+    },
+    "b9.itemval.27": {
+      "hi": "तेल और गैस अन्वेषण उपसतह मानचित्रण",
+      "en": "Oil and gas exploration subsurface mapping",
+      "ur": "تیل اور گیس کی تلاش زیر زمین نقشہ سازی"
+    },
+    "b9.itemlbl.28": {
+      "hi": "बाढ़ पूर्वानुमान प्रणाली",
+      "en": "Flood Prediction System",
+      "ur": "سیلاب کی پیش گوئی کا نظام"
+    },
+    "b9.itemval.28": {
+      "hi": "2-दिवसीय बाढ़ पूर्वानुमान; महानदी नदी बेसिन के लिए तैनात",
+      "en": "2-day flood forecasts; deployed for Mahanadi River basin",
+      "ur": "2 روزہ سیلاب کی پیش گوئی ؛ دریائے مہاندی کے طاس کے لیے تعینات"
+    },
+    "b9.itemlbl.29": {
+      "hi": "वन आग प्रसार मॉडल",
+      "en": "Forest Fire Spread Model",
+      "ur": "جنگل کی آگ پھیلنے کا ماڈل"
+    },
+    "b9.itemval.29": {
+      "hi": "सिक्किम हिमालय में परीक्षण किया गया",
+      "en": "Tested in Sikkim Himalayas",
+      "ur": "سکم ہمالیہ میں تجربہ کیا گیا"
+    },
+    "b9.itemlbl.30": {
+      "hi": "सामग्री विज्ञान अनुप्रयोग",
+      "en": "Materials Science Applications",
+      "ur": "مواد سائنس ایپلی کیشنز"
+    },
+    "b9.itemval.30": {
+      "hi": "परमाणु, आणविक और मिश्र धातु अनुकरण",
+      "en": "Atomic, molecular and alloy simulations",
+      "ur": "جوہری، سالماتی اور مرکب تخروپن"
+    },
+    "b9.itemlbl.31": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b9.itemval.31": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.32": {
+      "hi": "अनुसंधान और कार्य प्रभाव (सितंबर 2026)",
+      "en": "RESEARCH AND WORKFORCE IMPACT (September 2026)",
+      "ur": "تحقیق اور کام کا اثر (ستمبر 2026)"
+    },
+    "b9.itemval.32": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.33": {
+      "hi": "शोधकर्ताओं ने किया समर्थन",
+      "en": "Researchers supported",
+      "ur": "محققین نے حمایت کی"
+    },
+    "b9.itemval.33": {
+      "hi": "16, 000 से अधिक",
+      "en": "Over 16,000",
+      "ur": "16, 000 سے زیادہ"
+    },
+    "b9.itemlbl.34": {
+      "hi": "पी. एच. डी. विद्वानों ने समर्थन किया",
+      "en": "PhD scholars supported",
+      "ur": "پی ایچ ڈی اسکالرز نے حمایت کی"
+    },
+    "b9.itemval.34": {
+      "hi": "2, 900 से अधिक",
+      "en": "More than 2,900",
+      "ur": "2, 900 سے زیادہ"
+    },
+    "b9.itemlbl.35": {
+      "hi": "संस्थान पहुंचे",
+      "en": "Institutions reached",
+      "ur": "ادارے پہنچ گئے"
+    },
+    "b9.itemval.35": {
+      "hi": "400 +",
+      "en": "400+",
+      "ur": "400 +"
+    },
+    "b9.itemlbl.36": {
+      "hi": "संगणकीय कार्य निष्पादित किए गए",
+      "en": "Compute jobs executed",
+      "ur": "کمپیوٹنگ کے کام انجام دیے گئے"
+    },
+    "b9.itemval.36": {
+      "hi": "डेढ़ करोड़ से अधिक",
+      "en": "Over 1.5 crore",
+      "ur": "1. 5 کروڑ سے زیادہ"
+    },
+    "b9.itemlbl.37": {
+      "hi": "शोध प्रकाशनों ने योगदान दिया",
+      "en": "Research publications contributed to",
+      "ur": "تحقیقی اشاعتوں نے تعاون کیا"
+    },
+    "b9.itemval.37": {
+      "hi": "1, 990 से अधिक",
+      "en": "Over 1,990",
+      "ur": "1, 990 سے زیادہ"
+    },
+    "b9.itemlbl.38": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b9.itemval.38": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.39": {
+      "hi": "संस्थागत उपयोगकर्ता अभिकर्मियों",
+      "en": "INSTITUTIONAL USER AGENCIES",
+      "ur": "ادارہ جاتی صارف ایجنسیاں"
+    },
+    "b9.itemval.39": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.40": {
+      "hi": "भारत मौसम विज्ञान विभाग (आई. एम. डी.)",
+      "en": "India Meteorological Department (IMD)",
+      "ur": "ہندوستان کا محکمہ موسمیات (آئی ایم ڈی)"
+    },
+    "b9.itemval.40": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.41": {
+      "hi": "केंद्रीय जल आयोग (सी. डब्ल्यू. सी.)",
+      "en": "Central Water Commission (CWC)",
+      "ur": "سنٹرل واٹر کمیشن (سی ڈبلیو سی)"
+    },
+    "b9.itemval.41": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.42": {
+      "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (सी. पी. सी. बी.)",
+      "en": "Central Pollution Control Board (CPCB)",
+      "ur": "مرکزی آلودگی کنٹرول بورڈ (سی پی سی بی)"
+    },
+    "b9.itemval.42": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.43": {
+      "hi": "आयुष मंत्रालय",
+      "en": "Ministry of AYUSH",
+      "ur": "آیوش کی وزارت"
+    },
+    "b9.itemval.43": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b9.itemlbl.44": {
+      "hi": "देश भर में शैक्षणिक अनुसंधान संस्थान",
+      "en": "Academic research institutions nationwide",
+      "ur": "ملک بھر میں تعلیمی تحقیقی ادارے"
+    },
+    "b9.itemval.44": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b10.q": {
+      "hi": "फसल की पैदावार की भविष्यवाणी करने और रोगों के प्रकोप पर नज़र रखने से लेकर दवा की खोज में तेजी लाने और नदी की बाढ़ की भविष्यवाणी करने तक, उच्च प्रदर्शन वाली गणना रोजमर्रा के जीवन को प्रभावित करने वाले सामाजिक अनुप्रयोगों का समर्थन करती है। एन. एस. एम. 11 संयुक्त राष्ट्र सतत विकास लक्ष्यों में योगदान देता है और भारत में 400 से अधिक संस्थानों में अनुसंधान का समर्थन करता है।",
+      "en": "\"From predicting crop yields and tracking disease outbreaks to accelerating drug discovery and predicting river floods, high-performance computing supports societal applications that affect everyday life. NSM contributes to 11 United Nations Sustainable Development Goals and supports research across more than 400 institutions in India.\"",
+      "ur": "فصلوں کی پیداوار کی پیش گوئی کرنے اور بیماریوں کے پھیلنے پر نظر رکھنے سے لے کر منشیات کی دریافت کو تیز کرنے اور دریا کے سیلاب کی پیش گوئی کرنے تک، اعلی کارکردگی والی کمپیوٹنگ معاشرتی ایپلی کیشنز کی حمایت کرتی ہے جو روزمرہ کی زندگی کو متاثر کرتی ہے۔ این ایس ایم اقوام متحدہ کے 11 پائیدار ترقیاتی اہداف میں حصہ ڈالتا ہے اور ہندوستان میں 400 سے زیادہ اداروں میں تحقیق کی حمایت کرتا ہے۔"
+    },
+    "b10.c": {
+      "hi": "- भारत की सुपरकंप्यूटिंग वास्तुकला के वास्तविक दुनिया के प्रभाव पर",
+      "en": "— On the real-world impact of India's supercomputing architecture",
+      "ur": "- ہندوستان کے سپر کمپیوٹنگ فن تعمیر کے حقیقی دنیا کے اثرات پر"
+    },
+    "b11": {
+      "hi": "सुपरकंप्यूटिंग मामलों में आत्मनिर्भरता क्यों",
+      "en": "Why self-reliance in supercomputing matters",
+      "ur": "سپر کمپیوٹنگ کے معاملات میں خود انحصاری کیوں؟"
+    },
+    "b12": {
+      "hi": "पिछले चार दशकों के अधिकांश समय से, सुपरकंप्यूटिंग प्रौद्योगिकी विश्व स्तर पर एक कसकर नियंत्रित रणनीतिक श्रेणी रही है। संयुक्त राज्य अमेरिका और अन्य प्रमुख उत्पादकों ने समय-समय पर भारत सहित देशों को उन्नत कंप्यूटिंग प्रणालियों और घटकों के निर्यात को प्रतिबंधित किया है। एक महत्वाकांक्षी तकनीकी शक्ति के लिए, आयातित सुपरकंप्यूटिंग हार्डवेयर पर निर्भरता एक महत्वपूर्ण भेद्यता का प्रतिनिधित्व करती है-जिसका रणनीतिक तनाव के किसी भी क्षण दोहन किया जा सकता है।",
+      "en": "For much of the past four decades, supercomputing technology has been a tightly controlled strategic category globally. The United States and other major producers have periodically restricted the export of advanced computing systems and components to countries including India. For an aspiring technological power, dependence on imported supercomputing hardware represents a critical vulnerability — one that can be exploited at any moment of strategic tension.",
+      "ur": "پچھلی چار دہائیوں کے زیادہ تر عرصے سے، سپر کمپیوٹنگ ٹیکنالوجی عالمی سطح پر ایک سخت کنٹرول شدہ اسٹریٹجک زمرہ رہی ہے۔ امریکہ اور دیگر بڑے پروڈیوسروں نے وقتا فوقتا ہندوستان سمیت ممالک کو جدید کمپیوٹنگ سسٹم اور اجزاء کی برآمد کو محدود کر دیا ہے۔ ایک خواہش مند تکنیکی طاقت کے لیے، درآمد شدہ سپر کمپیوٹنگ ہارڈ ویئر پر انحصار ایک اہم کمزوری کی نمائندگی کرتا ہے-جس کا اسٹریٹجک تناؤ کے کسی بھی لمحے استحصال کیا جا سکتا ہے۔"
+    },
+    "b13": {
+      "hi": "एनएसएम की वास्तुकला इस भेद्यता को सीधे संबोधित करती है। भारत के भीतर पूरे सुपरकंप्यूटिंग स्टैक का निर्माण करके-सी-डैक द्वारा डिजाइन किए गए और भारतीय इलेक्ट्रॉनिक्स फर्मों द्वारा निर्मित रुद्र सर्वर, घरेलू रूप से विकसित और परीक्षण किए गए उच्च गति वाले इंटरकनेक्ट, स्थानीय रूप से इंजीनियर कूलिंग तकनीक, और देश में लिखे गए एचपीसी सॉफ्टवेयर-भारत आयात-निर्भरता को उत्तरोत्तर समाप्त कर रहा है जो पहले इस क्षेत्र को बाधित कर रहा था। रुद्र सर्वर तकनीक को बड़े पैमाने पर उत्पादन के लिए भारतीय इलेक्ट्रॉनिक्स विनिर्माण सेवा (ईएमएस) भागीदारों को हस्तांतरित किया जा रहा है, जो क्रमिक रूप से अंतिम मशीनों के साथ-साथ एक घरेलू सुपरकंप्यूटिंग घटक उद्योग का निर्माण कर रहा है।",
+      "en": "NSM's architecture addresses this vulnerability directly. By progressively building the entire supercomputing stack within India — Rudra servers designed by C-DAC and manufactured by Indian electronics firms, high-speed interconnects developed and tested domestically, cooling technology engineered locally, and HPC software written in-country — India is progressively eliminating the import-dependence that previously constrained the sector. The Rudra server technology is being transferred to Indian Electronics Manufacturing Services (EMS) partners for mass production, progressively building a domestic supercomputing component industry alongside the end machines themselves.",
+      "ur": "این ایس ایم کا فن تعمیر اس کمزوری کو براہ راست حل کرتا ہے۔ ہندوستان کے اندر پورے سپر کمپیوٹنگ اسٹیک کو بتدریج بنا کر-سی-ڈی اے سی کے ذریعہ ڈیزائن کردہ اور ہندوستانی الیکٹرانکس فرموں کے ذریعہ تیار کردہ رودر سرورز، مقامی طور پر تیار اور تجربہ شدہ تیز رفتار انٹر کنیکٹس، مقامی طور پر تیار کردہ کولنگ ٹیکنالوجی، اور ملک میں لکھا گیا ایچ پی سی سافٹ ویئر-ہندوستان درآمدی انحصار کو بتدریج ختم کر رہا ہے جس نے پہلے اس شعبے کو محدود کر دیا تھا۔ رودر سرور ٹیکنالوجی کو بڑے پیمانے پر پیداوار کے لیے انڈین الیکٹرانکس مینوفیکچرنگ سروسز (ای ایم ایس) کے شراکت داروں کو منتقل کیا جا رہا ہے، بتدریج اختتامی مشینوں کے ساتھ ساتھ ایک گھریلو سپر کمپیوٹنگ اجزاء کی صنعت کی تعمیر کر رہا ہے۔"
+    },
+    "b14": {
+      "hi": "वास्तव में मशीनें भारत के लिए क्या करती हैं?",
+      "en": "What the machines actually do for India",
+      "ur": "یہ مشینیں دراصل ہندوستان کے لیے کیا کرتی ہیں"
+    },
+    "b15": {
+      "hi": "सुपरकंप्यूटिंग एक अमूर्त क्षमता नहीं है। एन. एस. एम. अवसंरचना पर निर्मित अनुप्रयोग सभी क्षेत्रों में प्रत्यक्ष परिणाम प्रदान करते हैं।",
+      "en": "Supercomputing is not an abstract capability. The applications built on NSM infrastructure deliver direct outcomes across sectors.",
+      "ur": "سپر کمپیوٹنگ کوئی تجریدی صلاحیت نہیں ہے۔ این ایس ایم انفراسٹرکچر پر بنی ایپلی کیشنز تمام شعبوں میں براہ راست نتائج فراہم کرتی ہیں۔"
+    },
+    "b16": {
+      "hi": "जीनोमिक्स और दवा की खोज में, मंच रोग लक्ष्यों के खिलाफ उम्मीदवार दवाओं की जांच करता है और दुष्प्रभावों की भविष्यवाणी करता है-ऐसा काम जो कोविड-19 के दौरान परिचालन रूप से मूल्यवान साबित हुआ जब इसका उपयोग पुनः उपयोग करने के लिए मौजूदा दवाओं की जांच करने और संभावित उम्मीदवारों से हृदय संबंधी जोखिमों की भविष्यवाणी करने के लिए किया गया था। शहरी नियोजन में, शहरी पर्यावरण निर्णय समर्थन प्रणाली भारी वर्षा और वायु प्रदूषण का पूर्वानुमान लगाने के लिए विस्तृत वायुमंडलीय मॉडल का उपयोग करती है, जिससे शहर के अधिकारियों को शमन उपायों को तैयार करने का समय मिलता है। ऊर्जा में, भूकंपीय इमेजिंग सूट तेल और गैस की खोज में सुधार के लिए उपसतही भूविज्ञान का मानचित्रण करता है, वाणिज्यिक अंतर्राष्ट्रीय उपकरणों के प्रदर्शन से मेल खाता है। आपदा प्रबंधन में, बाढ़ भविष्यवाणी प्रणाली महानदी नदी बेसिन के लिए दो दिवसीय अग्रिम पूर्वानुमान प्रदान करती है, समुदायों और बुनियादी ढांचे की रक्षा करती है। पर्यावरण संरक्षण में, वन आग प्रसार मॉडल कम्प्यूटेशनल सिमुलेशन के साथ उपग्रह चित्रों को जोड़ती है ताकि यह अनुमान लगाया जा सके कि सिक्किम में जंगल की आग कैसे आगे बढ़ेगी।",
+      "en": "In genomics and drug discovery, the platform screens candidate drugs against disease targets and predicts side effects — work that proved operationally valuable during COVID-19 when it was used to screen existing drugs for repurposing and to predict cardiac risks from potential candidates. In urban planning, the Urban Environment Decision Support System uses detailed atmospheric models to forecast heavy rainfall and air pollution, giving city authorities time to prepare mitigation measures. In energy, the Seismic Imaging Suite maps subsurface geology to improve oil and gas exploration, matching the performance of commercial international tools. In disaster management, the Flood Prediction System delivers two-day advance forecasts for the Mahanadi river basin, protecting communities and infrastructure. In environmental protection, the Forest Fire Spread Model combines satellite imagery with computational simulation to predict how wildfires will progress, tested in the Sikkim Himalayas.",
+      "ur": "جینومکس اور منشیات کی دریافت میں، پلیٹ فارم بیماری کے اہداف کے خلاف امیدوار منشیات کی اسکریننگ کرتا ہے اور ضمنی اثرات کی پیش گوئی کرتا ہے-وہ کام جو کووڈ-19 کے دوران آپریشنل طور پر قیمتی ثابت ہوا جب اسے موجودہ ادویات کی دوبارہ تیاری کے لیے اسکریننگ کرنے اور ممکنہ امیدواروں سے دل کے خطرات کی پیش گوئی کرنے کے لیے استعمال کیا گیا تھا۔ شہری منصوبہ بندی میں، اربن انوائرمنٹ ڈیسیژن سپورٹ سسٹم بھاری بارش اور فضائی آلودگی کی پیش گوئی کے لیے تفصیلی ماحولیاتی ماڈلز کا استعمال کرتا ہے، جس سے شہر کے حکام کو تخفیف کے اقدامات تیار کرنے کا وقت ملتا ہے۔ توانائی میں، سیسمک امیجنگ سویٹ نقشے زیر زمین ارضیات کو تیل اور گیس کی تلاش کو بہتر بنانے کے لیے، تجارتی بین الاقوامی آلات کی کارکردگی سے میل کھاتے ہیں۔ آفات کے انتظام میں، سیلاب کی پیش گوئی کا نظام مہاندی ندی کے طاس کے لیے دو روزہ پیشگی پیش گوئی کرتا ہے، برادریوں اور بنیادی ڈھانچے کی حفاظت کرتا ہے۔ ماحولیاتی تحفظ میں، فاریسٹ فائر اسپریڈ ماڈل سیٹلائٹ امیجری کو کمپیوٹیشنل تخروپن کے ساتھ جوڑتا ہے کہ کس طرح جنگل کی آگ میں ترقی ہوگی،"
+    },
+    "b17": {
+      "hi": "ये अनुप्रयोग सीधे भारत मौसम विज्ञान विभाग, केंद्रीय जल आयोग, केंद्रीय प्रदूषण नियंत्रण बोर्ड और आयुष मंत्रालय द्वारा लिए गए निर्णयों में शामिल हैं-कम्प्यूटेशनल क्षमता को परिचालन सरकारी उत्पादन में बदलना।",
+      "en": "These applications feed directly into the decisions made by the India Meteorological Department, the Central Water Commission, the Central Pollution Control Board and the Ministry of AYUSH, among others — turning computational capacity into operational government output.",
+      "ur": "یہ ایپلی کیشنز براہ راست ہندوستان کے محکمہ موسمیات، مرکزی آبی کمیشن، مرکزی آلودگی کنٹرول بورڈ اور آیوش کی وزارت کے فیصلوں میں شامل ہیں، جن میں کمپیوٹیشنل صلاحیت کو آپریشنل سرکاری آؤٹ پٹ میں تبدیل کرنا شامل ہے۔"
+    },
+    "b18": {
+      "hi": "अगली पीढ़ी के उपयोगकर्ताओं का निर्माण",
+      "en": "Building the next generation of users",
+      "ur": "صارفین کی اگلی نسل کی تعمیر"
+    },
+    "b19": {
+      "hi": "हार्डवेयर केवल आधा काम है। एन. एस. एम. ने उत्तरोत्तर मशीनों का प्रभावी ढंग से उपयोग करने के लिए आवश्यक मानव-पूंजी वास्तुकला का निर्माण किया है। पारिस्थितिकी तंत्र ने 400 से अधिक संस्थानों में 16,000 से अधिक शोधकर्ताओं का समर्थन किया है, जिसमें 2,900 से अधिक पी. एच. डी. विद्वान शामिल हैं, जिसमें सितंबर 2026 तक डेढ़ करोड़ से अधिक गणना कार्य निष्पादित किए गए हैं और 1,990 शोध प्रकाशनों ने योगदान दिया है।",
+      "en": "Hardware is only half the story. NSM has progressively built the human-capital architecture needed to use the machines effectively. The ecosystem has supported over 16,000 researchers across 400+ institutions, including more than 2,900 PhD scholars, with over 1.5 crore compute jobs executed and 1,990 research publications contributed to as of September 2026.",
+      "ur": "ہارڈ ویئر صرف آدھی کہانی ہے۔ این ایس ایم نے مشینوں کو مؤثر طریقے سے استعمال کرنے کے لیے درکار انسانی سرمایہ کے ڈھانچے کو بتدریج بنایا ہے۔ ماحولیاتی نظام نے 400 سے زیادہ اداروں میں 16, 000 سے زیادہ محققین کی مدد کی ہے، جن میں 2, 900 سے زیادہ پی ایچ ڈی اسکالرز شامل ہیں، جن میں ستمبر 2026 تک 1, 990 تحقیقی اشاعتوں نے حصہ لیا اور 1. 5 کروڑ سے زیادہ کمپیوٹ ملازمتوں کو انجام دیا گیا۔"
+    },
+    "b20": {
+      "hi": "इस उपयोगकर्ता आधार का और विस्तार करने के लिए, मिशन कई प्रशिक्षण ट्रैक चलाता हैः एचपीसी पर कार्यशालाएं और देश भर में एनएसएम संस्थानों में गहन शिक्षा; एचपीसी, एआई और उत्पादक एआई में व्यावहारिक अनुभव प्रदान करने वाले हैकाथॉन और बूटकैम्प; एआईसीटीई के सहयोग से संकाय विकास कार्यक्रम; देश भर में वार्षिक शिक्षा परिषद कार्यशाला प्रशिक्षण संकाय; एनपीटीईएल के तहत स्वयं प्लेटफॉर्म पर एक संरचित एचपीसी पाठ्यक्रम; एचपीसी शिक्षा पोर्टल जो रिकॉर्ड किए गए व्याख्यान और संसाधन प्रदान करता है; और एनएसएम उपयोगकर्ता मंच जहां एनएसएम साइटों के शोधकर्ता ज्ञान का आदान-प्रदान करते हैं। राष्ट्रीय ज्ञान नेटवर्क (एनकेएन) एक उच्च गति वाले राष्ट्रीय नेटवर्क के माध्यम से संस्थानों में सुपरकंप्यूटिंग सुविधाओं को जोड़ता है, जिससे शोधकर्ताओं को एक स्थान पर कहीं और कंप्यूटिंग संसाधनों तक पहुंचने की अनुमति मिलती है।",
+      "en": "To expand this user base further, the Mission runs multiple training tracks: workshops on HPC and deep learning at NSM institutions nationwide; hackathons and bootcamps providing hands-on experience in HPC, AI and generative AI; faculty development programmes in collaboration with AICTE; the annual EduHPC Workshop training faculty across the country; a structured HPC course on the SWAYAM platform under NPTEL; the HPC Shiksha portal providing recorded lectures and resources; and the NSM Users Forum where researchers across NSM sites exchange knowledge. The National Knowledge Network (NKN) connects supercomputing facilities across institutions through a high-speed national network, allowing researchers in one location to access computing resources elsewhere.",
+      "ur": "اس صارف کی بنیاد کو مزید وسعت دینے کے لیے، مشن متعدد تربیتی ٹریک چلاتا ہے: ملک بھر میں این ایس ایم اداروں میں ایچ پی سی پر ورکشاپس اور گہری تعلیم ؛ ایچ پی سی، اے آئی اور جنریٹو اے آئی میں تجربہ فراہم کرنے والے ہیکاتھون اور بوٹ کیمپ ؛ اے آئی سی ٹی ای کے تعاون سے فیکلٹی ڈیولپمنٹ پروگرام ؛ ملک بھر میں سالانہ ایڈھو ایچ پی سی ورکشاپ ٹریننگ فیکلٹی ؛ این پی ٹی ای ایل کے تحت سویم پلیٹ فارم پر ایک منظم ایچ پی سی کورس ؛ ریکارڈ شدہ لیکچرز اور وسائل فراہم کرنے والا ایچ پی سی شکشا پورٹل ؛ اور این ایس ایم صارفین فورم جہاں این ایس ایم سائٹس کے محققین علم کا تبادلہ کرتے ہیں۔ نیشنل نالج نیٹ ورک (این کے این) ایک تیز رفتار قومی نیٹ ورک کے ذریعے اداروں میں سپر کمپیوٹنگ کی سہولیات کو جوڑتا ہے، جس سے محققین کو ایک جگہ پر کمپیوٹنگ کے وسائل تک رسائی حاصل کرنے کی اجازت ملتی ہے۔"
+    },
+    "b21": {
+      "hi": "ई. एस. टी. आई. सी.-2026-प्रदर्शनी का क्षण",
+      "en": "ESTIC-2026 — the showcase moment",
+      "ur": "ای ایس ٹی آئی سی-2026-نمائش کا لمحہ"
+    },
+    "b22": {
+      "hi": "भारत की सुपरकंप्यूटिंग उपलब्धियों का अगला प्रदर्शन ईएसटीआईसी-2026 होगा-भारत के उभरते विज्ञान, प्रौद्योगिकी और नवाचार सम्मेलन का दूसरा संस्करण-जो नई दिल्ली के भारत मंडपम में 27 से 29 अक्टूबर 2026 को निर्धारित किया गया है। वैज्ञानिक और औद्योगिक अनुसंधान परिषद (सीएसआईआर) द्वारा \"रचनात्मक दिमाग, विज्ञान को उत्प्रेरित करना, प्रौद्योगिकियों को सशक्त बनाना\" विषय के तहत आयोजित, तीन दिवसीय कार्यक्रम में बारह विषयगत क्षेत्रों में अन्य उभरती प्रौद्योगिकी सीमाओं के साथ-साथ सुपरकंप्यूटिंग की सुविधा होगी, जिसमें पूर्ण सत्र, तकनीकी चर्चा और प्रदर्शनियां होंगी। इसे भारत के विकसित भारत 2047 दृष्टिकोण का समर्थन करने वाले रणनीतिक सहयोग को उत्प्रेरित करने के लिए डिज़ाइन किया गया है।",
+      "en": "The next showcase for India's supercomputing achievements will be ESTIC-2026 — the second edition of India's Emerging Science, Technology and Innovation Conclave — scheduled for 27 to 29 October 2026 at Bharat Mandapam in New Delhi. Organised by the Council of Scientific and Industrial Research (CSIR) under the theme \"Creative Minds, Catalyzing Science, Empowering Technologies\", the three-day event will feature supercomputing alongside other emerging technology frontiers across twelve thematic areas, with plenary sessions, technical discussions and exhibitions. It is designed to catalyse strategic collaborations supporting India's Viksit Bharat 2047 vision.",
+      "ur": "ہندوستان کی سپر کمپیوٹنگ کامیابیوں کی اگلی نمائش ای ایس ٹی آئی سی-2026 ہوگی-جو کہ ہندوستان کے ابھرتے ہوئے سائنس، ٹیکنالوجی اور انوویشن کانکلیو کا دوسرا ایڈیشن ہے-جو 27 سے 29 اکتوبر 2026 کو نئی دہلی کے بھارت منڈپم میں شیڈول ہے۔ سائنسی اور صنعتی تحقیق کونسل (سی ایس آئی آر) کے زیر اہتمام \"تخلیقی ذہن، سائنس کو متحرک کرنا، ٹیکنالوجیز کو بااختیار بنانا\" کے موضوع کے تحت منعقد ہونے والی اس تین روزہ تقریب میں بارہ موضوعاتی شعبوں میں دیگر ابھرتی ہوئی ٹیکنالوجی کے محاذوں کے ساتھ ساتھ سپر کمپیوٹنگ کی نمائش ہوگی، جس میں مکمل اجلاس، تکنیکی مباحثے اور نمائشیں ہوں گی۔ یہ ہندوستان کے وکشت بھارت 2047 کے وژن کی حمایت کرنے والے اسٹریٹجک تعاون کو متحرک کرنے کے لیے ڈیزائن کیا گیا ہے۔"
+    },
+    "b23": {
+      "hi": "यह क्या संकेत देता है",
+      "en": "What it signals",
+      "ur": "یہ کیا اشارہ کرتا ہے"
+    },
+    "b24": {
+      "hi": "भारत के वैज्ञानिक अनुसंधान आधार के लिए, 40-प्रणाली/68-पेटाफ्लॉप सुपरकंप्यूटिंग क्षमता उत्तरोत्तर अनुसंधान क्षेत्रों के लिए दरवाजे खोलती है जो पहले देश की कम्प्यूटेशनल पहुंच से परे थे-उन्नत जीनोमिक्स, बड़े पैमाने पर जलवायु मॉडलिंग, खगोलीय भौतिक अनुकरण, परमाणु समाधान में सामग्री विज्ञान। भारत की रणनीतिक संप्रभुता के लिए, घरेलू रुद्र सर्वर और स्वदेशी सॉफ्टवेयर स्टैक उत्तरोत्तर उस भेद्यता को समाप्त करते हैं जो एक बार बनाए गए सुपरकंप्यूटिंग हार्डवेयर का आयात करते थे। भारत की डिजिटल अर्थव्यवस्था के लिए, देश अब दुनिया के लगभग 20 प्रतिशत डेटा का उत्पादन करता है, घरेलू सुपरकंप्यूटिंग क्षमता कम्प्यूटेशनल रीढ़ प्रदान करती है जो एआई, मौसम पूर्वानुमान, अंतरिक्ष अनुसंधान और अन्य डेटा-गहन क्षेत्रों की तेजी से आवश्यकता होती है। भारत के कार्यबल के लिए, एनएसएम बुनियादी ढांचे पर प्रशिक्षित 16,000 शोधकर्ता उत्तरोत्तर किसी भी उभरते हुए एचपीसी उपयोगकर्ता आधारों में से सबसे बड़े कुशल उपयोगकर्ता आधार का प्रतिनिधित्व करते हैं।",
+      "en": "For India's scientific research base, the 40-system / 68-petaflop supercomputing capacity progressively opens the door to research domains that were previously beyond the country's computational reach — advanced genomics, large-scale climate modelling, astrophysical simulation, materials science at atomic resolution. For India's strategic sovereignty, the home-grown Rudra servers and indigenous software stack progressively eliminate the vulnerability that imported supercomputing hardware once created. For India's digital economy, with the country now generating nearly 20 per cent of the world's data, domestic supercomputing capacity provides the computational backbone that AI, weather forecasting, space research and other data-intensive sectors increasingly require. For India's workforce, 16,000 researchers trained on NSM infrastructure progressively represent one of the largest skilled HPC user bases of any emerging economy.",
+      "ur": "ہندوستان کے سائنسی تحقیقی اڈے کے لیے، 40-سسٹم/68-پیٹا فلاپ سپر کمپیوٹنگ کی صلاحیت بتدریج تحقیقی ڈومینز کے لیے دروازے کھولتی ہے جو پہلے ملک کی کمپیوٹیشنل رسائی سے باہر تھے-جدید جینومکس، بڑے پیمانے پر آب و ہوا کے ماڈلنگ، فلکی طبیعیات کا تخروپن، جوہری ریزولوشن پر میٹریل سائنس۔ ہندوستان کی اسٹریٹجک خودمختاری کے لیے، گھریلو رودر سرورز اور مقامی سافٹ ویئر اسٹیک آہستہ آہستہ اس کمزوری کو ختم کرتے ہیں جو ایک بار پیدا ہونے والے سپر کمپیوٹنگ ہارڈ ویئر کو درآمد کرتا ہے۔ ہندوستان کی ڈیجیٹل معیشت کے لیے، ملک اب دنیا کے تقریبا 20 فیصد ڈیٹا تیار کرتا ہے، گھریلو سپر کمپیوٹنگ کی صلاحیت کمپیوٹیشنل ریڑھ کی ہڈی فراہم کرتی ہے جس کی اے آئی، موسمی پیش گوئی، خلائی تحقیق اور دیگر ڈیٹا پر مبنی شعبوں کو تیزی سے ضرورت ہوتی ہے۔ ہندوستان کی افرادی قوت کے لیے، این ایس ایم انفراسٹرکچر پر تربیت یافتہ 16, 000 محققین بتدریج کسی بھی ابھرتی ہوئی معیشت کے سب سے بڑے ہنر مند صارف اڈوں میں سے ایک کی نمائندگی کرتے ہیں۔"
+    },
+    "b25": {
+      "hi": "1991 में परम 8000 से 2026 में परम रुद्र तक. एकल गीगाफ्लॉप से संयुक्त रूप से 68 पेटाफ्लॉप तक. सीमित आयात से लेकर भारतीय फर्मों द्वारा निर्मित स्वदेशी सर्वर तक. मुट्ठी भर शुरुआती अपनाने वालों से लेकर 400 से अधिक संस्थानों में 16,000 शोधकर्ताओं तक. भारत की सुपरकंप्यूटिंग यात्रा एक मिशन में, रणनीतिक प्रौद्योगिकी में निरंतर राष्ट्रीय निवेश को उत्तरोत्तर तीन दशकों में कैसे प्रदान करती है, उसे दर्शाती है।",
+      "en": "From PARAM 8000 in 1991 to PARAM Rudra in 2026. From a single gigaflop to a combined 68 petaflops. From restricted imports to indigenous servers manufactured by Indian firms. From a handful of early adopters to 16,000 researchers across 400+ institutions. India's supercomputing journey captures, in one Mission, what sustained national investment in strategic technology progressively delivers over three decades.",
+      "ur": "1991 میں PARAM 8000 سے لے کر 2026 میں PARAM Rudra تک۔ ایک گیگا فلاپ سے لے کر مشترکہ 68 پیٹا فلاپس تک۔ محدود درآمدات سے لے کر ہندوستانی فرموں کے تیار کردہ مقامی سرورز تک۔ ابتدائی طور پر اپنانے والوں سے لے کر 400 سے زیادہ اداروں کے 16, 000 محققین تک۔ ہندوستان کا سپر کمپیوٹنگ کا سفر، ایک مشن میں، اس بات کو ظاہر کرتا ہے کہ اسٹریٹجک ٹیکنالوجی میں قومی سرمایہ کاری کس طرح تین دہائیوں میں بتدریج جاری ہے۔"
+    }
+  }
+}
