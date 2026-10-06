@@ -1,0 +1,500 @@
+{
+  "hash": "f02bb009474d1434",
+  "t": {
+    "fm.section": {
+      "hi": "अंतर्राष्ट्रीय",
+      "en": "International",
+      "ur": "بین الاقوامی"
+    },
+    "fm.kicker": {
+      "hi": "\"फिनलैंड · भारत · यू. एन. एस. सी. · ई. यू.-भारत एफ. टी. ए. · द्वैपाक्षिक · नॉर्डिक साझेदारी\"",
+      "en": "\"Finland · India · UNSC · EU-India FTA · Bilateral · Nordic Partnership\"",
+      "ur": "\"فن لینڈ · ہندوستان · یو این ایس سی · ای یو-انڈیا ایف ٹی اے · دو طرفہ · نورڈک پارٹنرشپ\""
+    },
+    "fm.byline": {
+      "hi": "राजनयिक संवाददाता",
+      "en": "Diplomatic Correspondent",
+      "ur": "سفارتی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "फिनलैंड ने भारत की स्थायी UNSC सीट का समर्थन किया, 3 अरब डॉलर के द्विपक्षीय व्यापार को दोगुना करने का लक्ष्य रखा",
+      "en": "\"Finland backs India's permanent UNSC seat, targets doubling of $3 billion bilateral trade\"",
+      "ur": "فن لینڈ نے یو این ایس سی میں ہندوستان کی مستقل نشست کی حمایت کی، 3 ارب ڈالر کی دو طرفہ تجارت کو دوگنا کرنے کا ہدف رکھا"
+    },
+    "fm.subdeck": {
+      "hi": "भारत में फिनलैंड के नए राजदूत, मिक्को किविकोस्की ने संयुक्त राष्ट्र सुरक्षा परिषद में स्थायी सीट के लिए भारत की बोली का स्पष्ट रूप से समर्थन किया है और कहा है कि फिनलैंड का मानना है कि द्विपक्षीय व्यापार लगभग 3 अरब डॉलर के वर्तमान स्तर से दोगुना बढ़ सकता है। किविकोस्की ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते की पहचान की-बातचीत 27 जनवरी 2026 को संपन्न हुई और वर्तमान में यूरोपीय संघ के 27 सदस्य राज्यों द्वारा अनुमोदन की प्रतीक्षा कर रही है-व्यापार विस्तार के मुख्य परिचालन चालक के रूप में। फिनलैंड ने रूस-यूक्रेन संघर्ष के लिए बातचीत के समाधान के लिए भारत के आह्वान का भी समर्थन किया है और एशिया से दो नए स्थायी UNSC सदस्यों, अफ्रीका से दो और लैटिन अमेरिका से एक को शामिल करने का समर्थन किया है।",
+      "en": "\"Finland's new Ambassador to India, Mikko Kivikoski, has explicitly backed India's bid for a permanent seat on the United Nations Security Council and said Finland believes bilateral trade can grow two-fold from the current level of about $3 billion. Kivikoski identified the India-European Union Free Trade Agreement — negotiations concluded on 27 January 2026 and currently awaiting ratification by the EU's 27 member states — as the main operational driver of the trade expansion. Finland has also endorsed India's call for a negotiated resolution to the Russia-Ukraine conflict and supported the inclusion of two new permanent UNSC members from Asia, two from Africa and one from Latin America.\"",
+      "ur": "ہندوستان میں فن لینڈ کے نئے سفیر میکو کیوکوسکی نے اقوام متحدہ کی سلامتی کونسل میں مستقل نشست کے لیے ہندوستان کی بولی کی واضح طور پر حمایت کی ہے اور کہا ہے کہ فن لینڈ کا خیال ہے کہ دو طرفہ تجارت تقریبا 3 بلین ڈالر کی موجودہ سطح سے دو گنا بڑھ سکتی ہے۔ کیوکوسکی نے ہندوستان-یورپی یونین آزاد تجارتی معاہدے کی نشاندہی کی-مذاکرات 27 جنوری 2026 کو اختتام پذیر ہوئے اور فی الحال یورپی یونین کے 27 رکن ممالک کی توثیق کا انتظار کر رہے ہیں-تجارتی توسیع کے مرکزی آپریشنل ڈرائیور کے طور پر۔ فن لینڈ نے روس-یوکرین تنازعہ کے مذاکرات کے حل کے ہندوستان کے مطالبے کی بھی توثیق کی ہے اور ایشیا سے دو نئے مستقل یو این ایس سی اراکین، افریقہ سے دو اور لاطینی امریکہ سے ایک کو شامل کرنے کی حمایت کی ہے۔"
+    },
+    "b0": {
+      "hi": "फिनलैंड ने औपचारिक रूप से संयुक्त राष्ट्र सुरक्षा परिषद में स्थायी सीट के लिए भारत की बोली का सार्वजनिक रूप से समर्थन करने वाले देशों के समूह में अपनी आवाज जोड़ी है। अपना पद संभालने के बाद अपनी पहली मीडिया ब्रीफिंग में, भारत में फिनलैंड के राजदूत मिक्को किविकोस्की ने सोमवार, 5 अक्टूबर 2026 को हेलसिंकी की स्थिति को स्पष्ट रूप से कहाः फिनलैंड सुरक्षा परिषद में भारत की स्थिरता का समर्थन करता है, और इसके अलावा एक व्यापक सुधार का समर्थन करता है जो एशिया से दो नए स्थायी सदस्यों को जोड़ेगा, दो अफ्रीका से और एक लैटिन अमेरिका से। संयुक्त राष्ट्र सुरक्षा परिषद के समर्थन के साथ, किविकोस्की ने एक महत्वाकांक्षी द्विपक्षीय व्यापार उद्देश्य की घोषणा की-दोनों देशों के बीच व्यापार को लगभग 3 बिलियन डॉलर के वर्तमान स्तर से दोगुना करना, जिसमें भारत-यूरोपीय संघ मुक्त व्यापार समझौते को मुख्य परिचालन चालक के रूप में रखा गया है।",
+      "en": "Finland has formally added its voice to the group of countries publicly backing India's bid for a permanent seat on the United Nations Security Council. In his first media briefing since taking up his post, Finland's Ambassador to India Mikko Kivikoski on Monday, 5 October 2026, explicitly stated Helsinki's position: Finland supports India's permanency in the Security Council, and additionally supports a wider reform that would add two new permanent members from Asia, two from Africa and one from Latin America. Alongside the UNSC endorsement, Kivikoski announced an ambitious bilateral trade objective — doubling trade between the two countries from the current level of about $3 billion, with the India-European Union Free Trade Agreement positioned as the main operational driver.",
+      "ur": "فن لینڈ نے باضابطہ طور پر اقوام متحدہ کی سلامتی کونسل میں مستقل نشست کے لیے ہندوستان کی بولی کی عوامی سطح پر حمایت کرنے والے ممالک کے گروپ میں اپنی آواز شامل کی ہے۔ اپنا عہدہ سنبھالنے کے بعد اپنی پہلی میڈیا بریفنگ میں، 5 اکتوبر 2026 کو ہندوستان میں فن لینڈ کے سفیر میکو کیوکوسکی نے واضح طور پر ہیلسنکی کا موقف بیان کیا: فن لینڈ سلامتی کونسل میں ہندوستان کی مستقل حیثیت کی حمایت کرتا ہے، اور اس کے علاوہ ایک وسیع تر اصلاحات کی حمایت کرتا ہے جو ایشیا سے دو نئے مستقل ارکان، افریقہ سے دو اور لاطینی امریکہ سے ایک کو شامل کرے گا۔ یو این ایس سی کی توثیق کے ساتھ، کیوکوسکی نے ایک مہتواکانکشی دو طرفہ تجارتی مقصد کا اعلان کیا-دونوں ممالک کے درمیان تجارت کو تقریبا 3 بلین ڈالر کی موجودہ سطح سے دوگنا کرنا، جس میں ہندوستان-یورپی یونین آزاد تجارتی معاہدہ مرکزی آپریشنل ڈرائیور کے طور پر تعینات ہے۔"
+    },
+    "b1": {
+      "hi": "UNSC का समर्थन-फिनलैंड एक बढ़ते समूह में शामिल हो गया",
+      "en": "The UNSC endorsement — Finland joins a growing group",
+      "ur": "یو این ایس سی کی توثیق-فن لینڈ ایک بڑھتے ہوئے گروپ میں شامل ہو گیا"
+    },
+    "b2": {
+      "hi": "भारत की स्थायी UNSC सीट के लिए फिनलैंड का स्पष्ट समर्थन देश को उन राज्यों की सूची में जोड़ता है जो सार्वजनिक रूप से भारतीय बोली का समर्थन कर रहे हैं। रूस ने संयुक्त राष्ट्र महासभा में विदेश मंत्री सर्गेई लावरोव की टिप्पणी के माध्यम से हाल ही में अपने समर्थन की पुष्टि की है। वरिष्ठ अमेरिकी अर्थशास्त्री जेफरी सैक्स ने सार्वजनिक रूप से भारतीय बोली और चीनी समर्थन दोनों का आह्वान किया है। संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस ने हाल ही में हुए ब्रिकस शिखर सम्मेलन में व्यापक सुरक्षा परिषद सुधार का समर्थन किया है। फिनिश समर्थन इस संरचना में एक नॉर्डिक यूरोपीय संघ के सदस्य को जोड़ता है-जो सुधार के आकार पर एक विशिष्ट परिचालन स्थिति के साथ है।",
+      "en": "Finland's explicit support for India's permanent UNSC seat adds the country to a progressively lengthening list of states publicly backing the Indian bid. Russia, through Foreign Minister Sergey Lavrov's remarks at the UN General Assembly, has recently reaffirmed its support. Senior American economist Jeffrey Sachs has publicly called for both the Indian bid and for Chinese backing. UN Secretary-General Antonio Guterres has endorsed broader Security Council reform at the recent BRICS Summit. The Finnish endorsement adds a Nordic European Union member to this architecture — one with a specific operational position on the shape of the reform itself.",
+      "ur": "فن لینڈ کی ہندوستان کی مستقل یو این ایس سی نشست کے لیے واضح حمایت نے ملک کو ان ریاستوں کی فہرست میں شامل کر دیا ہے جو عوامی طور پر ہندوستانی بولی کی حمایت کر رہے ہیں۔ روس نے اقوام متحدہ کی جنرل اسمبلی میں وزیر خارجہ سرگئی لاوروف کے ریمارکس کے ذریعے حال ہی میں اپنی حمایت کا اعادہ کیا ہے۔ سینئر امریکی ماہر معاشیات جیفری سیکس نے عوامی طور پر ہندوستانی بولی اور چینی حمایت دونوں کا مطالبہ کیا ہے۔ اقوام متحدہ کے سکریٹری جنرل انتونیو گٹیرس نے حالیہ برکس سربراہی اجلاس میں سلامتی کونسل کی وسیع تر اصلاحات کی توثیق کی ہے۔ فن لینڈ کی توثیق اس فن تعمیر میں نورڈک یورپی یونین کے ایک رکن کو شامل کرتی ہے-جس کی اصلاح کی شکل میں ایک مخصوص آپریشنل پوزیشن ہے۔"
+    },
+    "b3": {
+      "hi": "किविकोस्की ने बहुपक्षवाद के प्रति देश की व्यापक प्रतिबद्धता के भीतर फिनलैंड की स्थिति को तैयार किया, तर्क को \"काफी स्पष्ट\" कहा। राजदूत ने भारत के एक सरल समर्थन से आगे बढ़कर व्यापक सुधार पैकेज पर फिनलैंड के दृष्टिकोण को स्पष्ट कियाः न केवल भारत का समावेश, बल्कि एक पर्याप्त रूप से विस्तारित स्थायी सदस्यता जो परिषद के क्षेत्रीय प्रतिनिधित्व को क्रमिक रूप से फिर से संतुलित करेगी-एशिया से दो नए स्थायी सदस्य, अफ्रीका से दो और लैटिन अमेरिका से एक। यह एक सुधार संरचना है जो वर्तमान परिषद में पूरे महाद्वीपों के ऐतिहासिक कम प्रतिनिधित्व को संबोधित करेगी।",
+      "en": "Kivikoski framed Finland's position within the country's broader commitment to multilateralism, calling the reasoning \"quite clear\". The envoy went further than a simple endorsement of India, articulating Finland's view on the wider reform package: not just India's inclusion, but a substantively expanded permanent membership that would progressively rebalance the Council's regional representation — two new permanent members from Asia, two from Africa and one from Latin America. This is a reform architecture that would address the historical under-representation of entire continents on the current Council.",
+      "ur": "کیوکوسکی نے کثیرالجہتی کے لیے ملک کے وسیع تر عزم کے اندر فن لینڈ کی پوزیشن کو تشکیل دیتے ہوئے اس استدلال کو \"بالکل واضح\" قرار دیا۔ ایلچی نے ہندوستان کی سادہ توثیق سے آگے بڑھ کر، وسیع تر اصلاحاتی پیکیج پر فن لینڈ کے نقطہ نظر کو واضح کیا: نہ صرف ہندوستان کی شمولیت، بلکہ مستقل رکنیت میں خاطر خواہ توسیع جو کونسل کی علاقائی نمائندگی کو بتدریج دوبارہ متوازن کرے گی-ایشیا سے دو نئے مستقل ممبران، افریقہ سے دو اور لاطینی امریکہ سے ایک۔ یہ ایک اصلاحاتی ڈھانچہ ہے جو موجودہ کونسل میں پورے براعظموں کی تاریخی کم نمائندگی کو حل کرے گا۔"
+    },
+    "b4": {
+      "hi": "3 अरब डॉलर का व्यापार-दोगुना करने का लक्ष्य",
+      "en": "The $3 billion trade — targeted to double",
+      "ur": "3 بلین ڈالر کی تجارت-دوگنی کرنے کا ہدف"
+    },
+    "b5": {
+      "hi": "भारत और फिनलैंड के बीच वर्तमान में लगभग 3 अरब डॉलर का वार्षिक व्यापार है। किविकोस्की द्वारा व्यक्त लक्ष्य-दोनों देशों के नेताओं द्वारा पहले की सार्वजनिक प्रतिबद्धताओं के आधार पर-इस आंकड़े को दोगुना करना है, जिसमें भारत-यूरोपीय संघ मुक्त व्यापार समझौता परिचालन ढांचे के रूप में काम कर रहा है।",
+      "en": "Bilateral trade between India and Finland currently stands at approximately $3 billion annually. The target articulated by Kivikoski — building on earlier public commitments by leaders of both countries — is to double this figure, with the India-EU Free Trade Agreement serving as the operational framework.",
+      "ur": "ہندوستان اور فن لینڈ کے درمیان دو طرفہ تجارت فی الحال تقریبا 3 بلین ڈالر سالانہ ہے۔ کیوکوسکی کی طرف سے واضح کردہ ہدف-دونوں ممالک کے رہنماؤں کے پہلے عوامی وعدوں کی بنیاد پر-اس اعداد و شمار کو دوگنا کرنا ہے، جس میں ہندوستان-یورپی یونین کا آزاد تجارتی معاہدہ آپریشنل فریم ورک کے طور پر کام کر رہا ہے۔"
+    },
+    "b6": {
+      "hi": "फिनलैंड के प्रधानमंत्री पेटेरी ऑर्पो ने नई दिल्ली की अपनी फरवरी की यात्रा के दौरान पहले कहा था कि फिनलैंड का लक्ष्य 2030 के दशक की शुरुआत तक भारत के साथ व्यापार को दोगुना करना है। सोमवार को किविकोस्की की टिप्पणी ने उस समय की पुष्टि की और इसे सीधे एफटीए वास्तुकला से जोड़ा जो अब उत्तरोत्तर कार्यान्वयन की ओर बढ़ रहा है। राजदूत ने वर्तमान वर्ष को दोनों देशों के बीच \"रिकॉर्ड जुड़ाव\" में से एक बताया, जिसमें प्रधान मंत्री नरेंद्र मोदी के फिनलैंड के साथ आदान-प्रदान, फिनलैंड के राष्ट्रपति अलेक्जेंडर स्टब की भारत की राजकीय यात्रा और ओस्लो में आयोजित नॉर्डिक-भारत शिखर सम्मेलन का हवाला दिया गया।",
+      "en": "Finnish Prime Minister Petteri Orpo, during his February visit to New Delhi, had previously stated that Finland aimed to double trade with India by the early 2030s. Kivikoski's remarks on Monday reaffirmed that timeline and connected it directly to the FTA architecture now progressively moving toward implementation. The envoy described the current year as one of \"record engagements\" between the two countries, citing Prime Minister Narendra Modi's exchanges with Finland, the state visit to India by Finnish President Alexander Stubb, and the Nordic-India Summit held in Oslo.",
+      "ur": "فن لینڈ کے وزیر اعظم پیٹری اورپو نے اپنی فروری کے نئی دہلی کے دورے کے دوران اس سے قبل کہا تھا کہ فن لینڈ کا مقصد 2030 کی دہائی کے اوائل تک ہندوستان کے ساتھ تجارت کو دوگنا کرنا ہے۔ کیوکوسکی کے پیر کے ریمارکس نے اس ٹائم لائن کی تصدیق کی اور اسے براہ راست ایف ٹی اے فن تعمیر سے جوڑا جو اب بتدریج عمل درآمد کی طرف بڑھ رہا ہے۔ ایلچی نے وزیر اعظم نریندر مودی کے فن لینڈ کے ساتھ تبادلے، فن لینڈ کے صدر الیگزینڈر اسٹب کے ہندوستان کے سرکاری دورے اور اوسلو میں منعقدہ نورڈک-انڈیا سمٹ کا حوالہ دیتے ہوئے موجودہ سال کو دونوں ممالک کے درمیان \"ریکارڈ مصروفیات\" میں سے ایک قرار دیا۔"
+    },
+    "b7": {
+      "hi": "किविकोस्की ने कहा कि फिनलैंड की कंपनियां भारतीय बाजार में वास्तविक रुचि दिखा रही हैं। जिन क्षेत्रीय आयामों में फिनलैंड के उद्योग में ऐतिहासिक रूप से गहराई रही है-दूरसंचार, सूचना प्रौद्योगिकी, औद्योगिक स्वचालन, वानिकी और कागज, समुद्री प्रौद्योगिकी, स्वच्छ ऊर्जा और रक्षा इलेक्ट्रॉनिक्स-देश के वर्तमान औद्योगिक आधुनिकीकरण के तहत भारतीय मांग की कई श्रेणियों के अनुरूप हैं।",
+      "en": "Finnish companies, Kivikoski said, are showing genuine interest in the Indian market. The sectoral dimensions in which Finnish industry has historically possessed depth — telecommunications, information technology, industrial automation, forestry and paper, maritime technology, clean energy, and defence electronics — align with multiple categories of Indian demand under the country's current industrial modernisation.",
+      "ur": "کیوکوسکی نے کہا کہ فن لینڈ کی کمپنیاں ہندوستانی بازار میں حقیقی دلچسپی ظاہر کر رہی ہیں۔ وہ شعبہ جاتی جہتیں جن میں فن لینڈ کی صنعت تاریخی طور پر گہرائی رکھتی ہے-ٹیلی مواصلات، انفارمیشن ٹیکنالوجی، صنعتی آٹومیشن، جنگلات اور کاغذ، سمندری ٹیکنالوجی، صاف توانائی، اور دفاعی الیکٹرانکس-ملک کی موجودہ صنعتی جدید کاری کے تحت ہندوستانی مانگ کے متعدد زمروں کے مطابق ہیں۔"
+    },
+    "b8": {
+      "hi": "ई. यू.-भारत एफ. टी. ए.-परिचालन सक्षमकर्ता",
+      "en": "The EU-India FTA — the operational enabler",
+      "ur": "ای یو-انڈیا ایف ٹی اے-آپریشنل فعال کار"
+    },
+    "b9": {
+      "hi": "फिनलैंड का व्यापार-विस्तार लक्ष्य भारत-यूरोपीय संघ मुक्त व्यापार समझौता है, जिसकी बातचीत कई दौर की बातचीत के बाद 27 जनवरी 2026 को संपन्न हुई थी। समझौते पर अभी भी सभी 27 यूरोपीय संघ के सदस्य देशों द्वारा हस्ताक्षर और अनुसमर्थन का इंतजार है, इससे पहले कि यह पूर्ण परिचालन बल में प्रवेश करे। नई दिल्ली में फिनिश दूतावास में व्यापार सलाहकार, एंटी हर्लेवी ने अगस्त में 2026 के अंत या 2027 की शुरुआत में एक अपेक्षित अंतिम समय सीमा का संकेत दिया था।",
+      "en": "Underlying Finland's trade-expansion target is the India-European Union Free Trade Agreement, whose negotiations were concluded on 27 January 2026 after years of negotiation across multiple rounds. The agreement is still awaiting signature and ratification by all 27 EU member states before it enters full operational force. Antti Herlevi, Trade Counsellor at the Finnish Embassy in New Delhi, had earlier in August indicated an expected finalisation timeline of late 2026 or early 2027.",
+      "ur": "فن لینڈ کا تجارتی توسیع کا بنیادی ہدف ہندوستان-یورپی یونین آزاد تجارتی معاہدہ ہے، جس کے مذاکرات 27 جنوری 2026 کو کئی سالوں کے مذاکرات کے بعد مکمل ہوئے تھے۔ یہ معاہدہ ابھی بھی یورپی یونین کے تمام 27 رکن ممالک کے دستخط اور توثیق کا انتظار کر رہا ہے اس سے پہلے کہ یہ مکمل آپریشنل قوت میں داخل ہو۔ نئی دہلی میں فن لینڈ کے سفارت خانے میں ٹریڈ کونسلر، اینٹی ہرلوی نے اگست کے شروع میں 2026 کے آخر یا 2027 کے اوائل میں متوقع حتمی وقت کی نشاندہی کی تھی۔"
+    },
+    "b10": {
+      "hi": "एक बार चालू होने के बाद, एफटीए भारत और यूरोपीय संघ के बीच वस्तुओं और सेवाओं की एक विस्तृत श्रृंखला में टैरिफ को उत्तरोत्तर समाप्त कर देगा, निवेश प्रवाह के लिए सुरक्षा प्रदान करेगा, दोनों दिशाओं में सरकारी खरीद के अवसर खोलेगा, और डिजिटल व्यापार, बौद्धिक संपदा और सतत विकास के लिए नियम स्थापित करेगा। फिनलैंड के लिए विशेष रूप से-मजबूत प्रौद्योगिकी, इंजीनियरिंग और स्वच्छ-उद्योग क्षमताओं के साथ एक छोटी यूरोपीय संघ की अर्थव्यवस्था-एफटीए टैरिफ घर्षण के बिना दुनिया के सबसे बड़े विकास बाजारों में से एक तक पहुंच खोलता है जो वर्तमान में द्विपक्षीय वाणिज्यिक गतिविधि को बाधित करता है।",
+      "en": "Once operational, the FTA will progressively eliminate tariffs across a wide range of goods and services between India and the European Union, provide protections for investment flows, open government procurement opportunities in both directions, and establish rules for digital trade, intellectual property and sustainable development. For Finland specifically — a smaller EU economy with strong technology, engineering and clean-industry capabilities — the FTA opens access to one of the largest growth markets in the world without the tariff friction that currently constrains bilateral commercial activity.",
+      "ur": "ایک بار فعال ہونے کے بعد، ایف ٹی اے ہندوستان اور یورپی یونین کے درمیان سامان اور خدمات کی ایک وسیع رینج میں محصولات کو بتدریج ختم کرے گا، سرمایہ کاری کے بہاؤ کے لیے تحفظ فراہم کرے گا، دونوں سمتوں میں سرکاری خریداری کے مواقع کھولے گا، اور ڈیجیٹل تجارت، دانشورانہ املاک اور پائیدار ترقی کے لیے قواعد قائم کرے گا۔ فن لینڈ کے لیے خاص طور پر-مضبوط ٹیکنالوجی، انجینئرنگ اور صاف صنعت کی صلاحیتوں کے ساتھ ایک چھوٹی یورپی یونین کی معیشت-ایف ٹی اے دنیا کی سب سے بڑی ترقی کی منڈیوں میں سے ایک تک رسائی کھولتا ہے بغیر محصولات کے رگڑ کے جو اس وقت دو طرفہ تجارتی سرگرمی کو روکتا ہے۔"
+    },
+    "b11.title": {
+      "hi": "फिनलैंड-भारत साझेदारी एक नजर में",
+      "en": "The Finland-India Partnership at a Glance",
+      "ur": "فن لینڈ-بھارت شراکت داری ایک نظر میں"
+    },
+    "b11.itemlbl.0": {
+      "hi": "भारत में फिनलैंड के राजदूत",
+      "en": "Finland's Ambassador to India",
+      "ur": "ہندوستان میں فن لینڈ کے سفیر"
+    },
+    "b11.itemval.0": {
+      "hi": "मिक्को किविकोस्की",
+      "en": "Mikko Kivikoski",
+      "ur": "میکو کیوکوسکی"
+    },
+    "b11.itemlbl.1": {
+      "hi": "अवसर",
+      "en": "Occasion",
+      "ur": "موقع"
+    },
+    "b11.itemval.1": {
+      "hi": "पदभार ग्रहण करने के बाद पहली मीडिया ब्रीफिंग (5 अक्टूबर 2026)",
+      "en": "First media briefing after taking up post (5 October 2026)",
+      "ur": "عہدہ سنبھالنے کے بعد پہلی میڈیا بریفنگ (5 اکتوبر 2026)"
+    },
+    "b11.itemlbl.2": {
+      "hi": "वर्तमान में द्वैपाक्षिक व्यापार",
+      "en": "Current bilateral trade",
+      "ur": "موجودہ دو طرفہ تجارت"
+    },
+    "b11.itemval.2": {
+      "hi": "सालाना लगभग 3 अरब डॉलर",
+      "en": "Approximately $3 billion annually",
+      "ur": "سالانہ تقریبا 3 بلین ڈالر"
+    },
+    "b11.itemlbl.3": {
+      "hi": "व्यापार विस्तार का लक्ष्य",
+      "en": "Trade expansion target",
+      "ur": "تجارتی توسیع کا ہدف"
+    },
+    "b11.itemval.3": {
+      "hi": "दोगुना (लगभग $6 बिलियन)",
+      "en": "Two-fold (to roughly $6 billion)",
+      "ur": "دو گنا (تقریبا 6 بلین ڈالر)"
+    },
+    "b11.itemlbl.4": {
+      "hi": "समयरेखा",
+      "en": "Timeline",
+      "ur": "ٹائم لائن"
+    },
+    "b11.itemval.4": {
+      "hi": "2030 के दशक की शुरुआत तक (प्रति पीएम ऑर्पो, फरवरी 2026)",
+      "en": "By the early 2030s (per PM Orpo, February 2026)",
+      "ur": "2030 کی دہائی کے اوائل تک (فی پی ایم اورپو، فروری 2026)"
+    },
+    "b11.itemlbl.5": {
+      "hi": "परिचालन चालक",
+      "en": "Operational driver",
+      "ur": "آپریشنل ڈرائیور"
+    },
+    "b11.itemval.5": {
+      "hi": "भारत-यूरोपीय संघ मुक्त व्यापार समझौता",
+      "en": "India-EU Free Trade Agreement",
+      "ur": "بھارت-یورپی یونین آزاد تجارتی معاہدہ"
+    },
+    "b11.itemlbl.6": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b11.itemval.6": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.7": {
+      "hi": "भारत-यूरोपीय संघ एफ. टी. ए. स्थिति",
+      "en": "INDIA-EU FTA STATUS",
+      "ur": "ہندوستان-یورپی یونین ایف ٹی اے کی صورتحال"
+    },
+    "b11.itemval.7": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.8": {
+      "hi": "बातचीत पूरी हुई",
+      "en": "Negotiations concluded",
+      "ur": "مذاکرات مکمل ہو گئے"
+    },
+    "b11.itemval.8": {
+      "hi": "27 जनवरी 2026",
+      "en": "27 January 2026",
+      "ur": "27 جنوری 2026"
+    },
+    "b11.itemlbl.9": {
+      "hi": "इंतजार",
+      "en": "Awaiting",
+      "ur": "انتظار کر رہا ہے"
+    },
+    "b11.itemval.9": {
+      "hi": "27 यूरोपीय संघ के सदस्य राज्यों द्वारा हस्ताक्षर + अनुसमर्थन",
+      "en": "Signature + ratification by 27 EU member states",
+      "ur": "27 یورپی یونین کے رکن ممالک کی طرف سے دستخط + توثیق"
+    },
+    "b11.itemlbl.10": {
+      "hi": "अपेक्षित अंतिम रूप",
+      "en": "Expected finalisation",
+      "ur": "متوقع حتمی شکل"
+    },
+    "b11.itemval.10": {
+      "hi": "2026 के अंत या 2027 की शुरुआत में",
+      "en": "Late 2026 or early 2027",
+      "ur": "2026 کے آخر یا 2027 کے اوائل میں"
+    },
+    "b11.itemlbl.11": {
+      "hi": "दायरा",
+      "en": "Scope",
+      "ur": "دائرہ کار"
+    },
+    "b11.itemval.11": {
+      "hi": "शुल्क उन्मूलन; निवेश संरक्षण; खरीद पहुंच; डिजिटल व्यापार; आईपी; सतत विकास",
+      "en": "Tariff elimination; investment protection; procurement access; digital trade; IP; sustainable development",
+      "ur": "ٹیرف کا خاتمہ ؛ سرمایہ کاری کا تحفظ ؛ خریداری تک رسائی ؛ ڈیجیٹل تجارت ؛ آئی پی ؛ پائیدار ترقی"
+    },
+    "b11.itemlbl.12": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b11.itemval.12": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.13": {
+      "hi": "फिनलैंड की संयुक्त राष्ट्र सुरक्षा परिषद स्थिति",
+      "en": "FINLAND'S UNSC POSITION",
+      "ur": "فن لینڈ کی اقوام متحدہ کی سلامتی کونسل کی پوزیشن"
+    },
+    "b11.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.14": {
+      "hi": "भारत की स्थायी सीट",
+      "en": "India's permanent seat",
+      "ur": "ہندوستان کی مستقل نشست"
+    },
+    "b11.itemval.14": {
+      "hi": "समर्थित",
+      "en": "Backed",
+      "ur": "پشت پناہی کی گئی"
+    },
+    "b11.itemlbl.15": {
+      "hi": "व्यापक सुधार का समर्थन किया गया",
+      "en": "Wider reform supported",
+      "ur": "وسیع تر اصلاحات کی حمایت کی گئی"
+    },
+    "b11.itemval.15": {
+      "hi": "एशिया से 2 नए स्थायी सदस्य + अफ्रीका से 2 + लैटिन अमेरिका से 1",
+      "en": "2 new permanent members from Asia + 2 from Africa + 1 from Latin America",
+      "ur": "ایشیا سے 2 نئے مستقل اراکین + افریقہ سے 2 + لاطینی امریکہ سے 1"
+    },
+    "b11.itemlbl.16": {
+      "hi": "अंतर्निहित ढांचा",
+      "en": "Underlying framework",
+      "ur": "بنیادی ڈھانچہ"
+    },
+    "b11.itemval.16": {
+      "hi": "बहुपक्षवाद के प्रति फिनलैंड की व्यापक प्रतिबद्धता",
+      "en": "Finland's broader commitment to multilateralism",
+      "ur": "کثیرالجہتی کے لیے فن لینڈ کا وسیع تر عزم"
+    },
+    "b11.itemlbl.17": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b11.itemval.17": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.18": {
+      "hi": "यूकेरेन पर फिनलैंड की स्थिति",
+      "en": "FINLAND'S POSITION ON UKRAINE",
+      "ur": "یوکرائن پر فن لینڈ کا موقف"
+    },
+    "b11.itemval.18": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.19": {
+      "hi": "बातचीत के लिए भारत का आह्वान",
+      "en": "India's call for negotiated dialogue",
+      "ur": "بھارت کی مذاکرات کی اپیل"
+    },
+    "b11.itemval.19": {
+      "hi": "समर्थित",
+      "en": "Supported",
+      "ur": "حمایت یافتہ"
+    },
+    "b11.itemlbl.20": {
+      "hi": "समाधान पर किविकोस्की",
+      "en": "Kivikoski on resolution",
+      "ur": "قرارداد پر کیوکوسکی"
+    },
+    "b11.itemval.20": {
+      "hi": "\"यही एकमात्र तरीका है जिससे हम ऐसा कर सकते हैं\"",
+      "en": "\"That's the only way we can do it\"",
+      "ur": "\"یہی واحد طریقہ ہے جس سے ہم یہ کر سکتے ہیں۔\""
+    },
+    "b11.itemlbl.21": {
+      "hi": "भारत की भूमिका पर फिनलैंड",
+      "en": "Finland on India's role",
+      "ur": "فن لینڈ ہندوستان کے کردار پر"
+    },
+    "b11.itemval.21": {
+      "hi": "भारत की वर्तमान राजनयिक गतिविधियों की सराहना की",
+      "en": "Appreciates India's current diplomatic activities",
+      "ur": "بھارت کی موجودہ سفارتی سرگرمیوں کی تعریف کی"
+    },
+    "b11.itemlbl.22": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b11.itemval.22": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.23": {
+      "hi": "रिकॉर्ड ईयर ऑफ एनगेजमेंट (2026)",
+      "en": "RECORD YEAR OF ENGAGEMENT (2026)",
+      "ur": "ریکارڈ کا سال (2026)"
+    },
+    "b11.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.24": {
+      "hi": "फिनलैंड के साथ पीएम मोदी का आदान-प्रदान",
+      "en": "PM Modi exchanges with Finland",
+      "ur": "وزیر اعظم مودی کا فن لینڈ کے ساتھ تبادلہ"
+    },
+    "b11.itemval.24": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.25": {
+      "hi": "भारत की राजकीय यात्रा",
+      "en": "State visit to India",
+      "ur": "بھارت کا سرکاری دورہ"
+    },
+    "b11.itemval.25": {
+      "hi": "फिनलैंड के राष्ट्रपति अलेक्जेंडर स्टब",
+      "en": "Finnish President Alexander Stubb",
+      "ur": "فن لینڈ کے صدر الیگزینڈر سٹوب"
+    },
+    "b11.itemlbl.26": {
+      "hi": "नॉर्डिक-भारत शिखर सम्मेलन",
+      "en": "Nordic-India Summit",
+      "ur": "نورڈک-انڈیا سمٹ"
+    },
+    "b11.itemval.26": {
+      "hi": "ओस्लो",
+      "en": "Oslo",
+      "ur": "اوسلو"
+    },
+    "b11.itemlbl.27": {
+      "hi": "फिनलैंड के प्रधानमंत्री पेटेरी ऑर्पो की यात्रा",
+      "en": "Finnish PM Petteri Orpo visit",
+      "ur": "فن لینڈ کے وزیر اعظم پیٹری اورپو کا دورہ"
+    },
+    "b11.itemval.27": {
+      "hi": "नई दिल्ली, फरवरी 2026",
+      "en": "New Delhi, February 2026",
+      "ur": "نئی دہلی، فروری 2026"
+    },
+    "b11.itemlbl.28": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b11.itemval.28": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.29": {
+      "hi": "लोग-से-लोग वर्ग",
+      "en": "PEOPLE-TO-PEOPLE TIES",
+      "ur": "لوگ سے لوگ کے درمیان تعلق"
+    },
+    "b11.itemval.29": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b11.itemlbl.30": {
+      "hi": "फिनलैंड में स्थायी रूप से रहने वाले भारतीय",
+      "en": "Indians living permanently in Finland",
+      "ur": "فن لینڈ میں مستقل طور پر رہنے والے ہندوستانی"
+    },
+    "b11.itemval.30": {
+      "hi": "30, 000 से अधिक",
+      "en": "Over 30,000",
+      "ur": "30, 000 سے زیادہ"
+    },
+    "b11.itemlbl.31": {
+      "hi": "प्राथमिक क्षेत्र",
+      "en": "Primary sectors",
+      "ur": "بنیادی شعبے"
+    },
+    "b11.itemval.31": {
+      "hi": "सूचना और संचार प्रौद्योगिकी; इंजीनियरिंग",
+      "en": "Information and communication technology; engineering",
+      "ur": "انفارمیشن اینڈ کمیونیکیشن ٹیکنالوجی ؛ انجینئرنگ"
+    },
+    "b11.itemlbl.32": {
+      "hi": "सामुदायिक चरित्र (प्रति दूत)",
+      "en": "Community character (per envoy)",
+      "ur": "کمیونٹی کردار (فی ایلچی)"
+    },
+    "b11.itemval.32": {
+      "hi": "सुविख्यात, सम्मानित",
+      "en": "Well-integrated, well-respected",
+      "ur": "اچھی طرح سے مربوط، اچھی طرح سے قابل احترام"
+    },
+    "b11.itemlbl.33": {
+      "hi": "गतिशीलता साझेदारी",
+      "en": "Mobility partnership",
+      "ur": "نقل و حرکت کی شراکت داری"
+    },
+    "b11.itemval.33": {
+      "hi": "दोनों देशों के बीच सहमति बनी",
+      "en": "Agreed between the two countries",
+      "ur": "دونوں ممالک کے درمیان اتفاق"
+    },
+    "b11.itemlbl.34": {
+      "hi": "उद्देश्य",
+      "en": "Objective",
+      "ur": "مقصد"
+    },
+    "b11.itemval.34": {
+      "hi": "गतिशीलता ढांचे के तहत अधिक कुशल भारतीय पेशेवर",
+      "en": "More skilled Indian professionals under the mobility framework",
+      "ur": "نقل و حرکت کے فریم ورک کے تحت زیادہ ہنر مند ہندوستانی پیشہ ور افراد"
+    },
+    "b12.q": {
+      "hi": "\"हमने खुले तौर पर कहा है कि हम संयुक्त राष्ट्र सुरक्षा परिषद में भारत के स्थायी होने का समर्थन कर रहे हैं, और हम यह भी देखना चाहते हैं कि और भी नए स्थायी सदस्य होंगे-दो एशिया से, दो अफ्रीका से और शायद एक लैटिन अमेरिका से।\"",
+      "en": "\"We have openly said that we are supporting India's permanency in the United Nations Security Council, and we also want to see that there will be more new permanent members — two from Asia, two from Africa and perhaps one from Latin America.\"",
+      "ur": "\"ہم نے کھلے عام کہا ہے کہ ہم اقوام متحدہ کی سلامتی کونسل میں ہندوستان کی مستقل حیثیت کی حمایت کر رہے ہیں، اور ہم یہ بھی دیکھنا چاہتے ہیں کہ مزید نئے مستقل ارکان ہوں-دو ایشیا سے، دو افریقہ سے اور شاید ایک لاطینی امریکہ سے۔\""
+    },
+    "b12.c": {
+      "hi": "- मिक्को किविकोस्की, भारत में फिनलैंड के राजदूत (5 अक्टूबर 2026)",
+      "en": "— Mikko Kivikoski, Finnish Ambassador to India (5 October 2026)",
+      "ur": "- میکو کیوکوسکی، ہندوستان میں فن لینڈ کے سفیر (5 اکتوبر 2026)"
+    },
+    "b13": {
+      "hi": "यूक्रेन आयाम",
+      "en": "The Ukraine dimension",
+      "ur": "یوکرین کا طول و عرض"
+    },
+    "b14": {
+      "hi": "संयुक्त राष्ट्र सुरक्षा परिषद और व्यापार घोषणाओं के साथ-साथ फिनलैंड ने सोमवार की ब्रीफिंग का उपयोग रूस-यूक्रेन संघर्ष पर भारत की लंबे समय से चली आ रही स्थिति का समर्थन करने के लिए किया-कि बातचीत से ही समाधान का एकमात्र व्यवहार्य मार्ग है। किविकोस्की ने सीधे कहा कि \"बातचीत से समाधान\" की आवश्यकता है, और फिनलैंड \"इस समय भारत द्वारा की जा रही सभी गतिविधियों की अत्यधिक सराहना करता है।\"",
+      "en": "Alongside the UNSC and trade announcements, Finland used Monday's briefing to endorse India's longstanding position on the Russia-Ukraine conflict — that a negotiated dialogue is the only viable pathway to resolution. Kivikoski said directly that \"a negotiated solution\" is required, and that Finland \"highly appreciates all the activities that India is conducting at the moment\".",
+      "ur": "یو این ایس سی اور تجارتی اعلانات کے ساتھ ساتھ فن لینڈ نے پیر کی بریفنگ کو روس-یوکرین تنازعہ پر ہندوستان کے دیرینہ موقف کی توثیق کرنے کے لیے استعمال کیا-کہ مذاکرات سے بات چیت ہی حل کا واحد قابل عمل راستہ ہے۔ کیوکوسکی نے براہ راست کہا کہ \"مذاکرات کے ذریعے حل\" کی ضرورت ہے، اور فن لینڈ \"ان تمام سرگرمیوں کی بہت تعریف کرتا ہے جو ہندوستان اس وقت کر رہا ہے\"۔"
+    },
+    "b15": {
+      "hi": "भारत के संवाद-आधारित दृष्टिकोण का फिनलैंड का समर्थन फिनलैंड की अपनी रणनीतिक स्थिति को देखते हुए अतिरिक्त महत्व रखता है। यह देश रूस के साथ 1,340 किलोमीटर लंबी भूमि सीमा साझा करता है, यूक्रेन पर रूस के आक्रमण के बाद 2023 में नाटो में शामिल हुआ, और चल रहे संघर्ष के लिए प्रत्यक्ष सुरक्षा जोखिम है। भारत के बातचीत-निपटान दृष्टिकोण के साथ सार्वजनिक रूप से संरेखित करने के लिए सीधे रूसी सीमा जोखिम वाले एक अग्रिम पंक्ति के नाटो सदस्य के लिए भारतीय स्थिति का एक सार्थक राजनयिक समर्थन दर्शाता है।",
+      "en": "The Finnish endorsement of India's dialogue-based approach carries additional weight given Finland's own strategic situation. The country shares a 1,340-kilometre land border with Russia, joined NATO in 2023 following Russia's invasion of Ukraine, and has first-hand security exposure to the ongoing conflict. For a frontline NATO member with direct Russian border exposure to publicly align with India's negotiated-settlement approach represents a meaningful diplomatic endorsement of the Indian position.",
+      "ur": "فن لینڈ کی اپنی اسٹریٹجک صورتحال کے پیش نظر ہندوستان کے مکالمے پر مبنی نقطہ نظر کی فن لینڈ کی توثیق اضافی اہمیت رکھتی ہے۔ یہ ملک روس کے ساتھ 1, 340 کلومیٹر طویل زمینی سرحد کا اشتراک کرتا ہے، روس کے یوکرین پر حملے کے بعد 2023 میں نیٹو میں شامل ہوا، اور جاری تنازعہ کے لیے اسے براہ راست حفاظتی نمائش حاصل ہے۔ ایک فرنٹ لائن نیٹو رکن کے لیے جو براہ راست روسی سرحد کی نمائش کے ساتھ عوامی طور پر ہندوستان کے مذاکرات پر مبنی تصفیے کے نقطہ نظر سے ہم آہنگ ہے، ہندوستانی موقف کی بامعنی سفارتی توثیق کی نمائندگی کرتا ہے۔"
+    },
+    "b16": {
+      "hi": "फिनलैंड में 30,000 लोगों का भारतीय समुदाय",
+      "en": "The 30,000-strong Indian community in Finland",
+      "ur": "فن لینڈ میں 30, 000 مضبوط ہندوستانی برادری"
+    },
+    "b17": {
+      "hi": "फिनलैंड में 30,000 से अधिक स्थायी भारतीय निवासी रहते हैं, जिनमें से अधिकांश सूचना और संचार प्रौद्योगिकी और इंजीनियरिंग क्षेत्रों में काम करते हैं। किविकोस्की ने समुदाय को अच्छी तरह से एकीकृत और सम्मानित बताया और कहा कि हेलसिंकी को उम्मीद है कि दोनों देशों के बीच गतिशीलता साझेदारी के तहत अधिक कुशल भारतीय पेशेवरों का उत्तरोत्तर स्वागत किया जाएगा।",
+      "en": "Finland hosts over 30,000 permanent Indian residents, most of them working in the information and communication technology and engineering sectors. Kivikoski described the community as well-integrated and well-respected, and said Helsinki hopes to progressively welcome more skilled Indian professionals under the mobility partnership that the two countries have agreed to.",
+      "ur": "فن لینڈ 30, 000 سے زیادہ مستقل ہندوستانی باشندوں کی میزبانی کرتا ہے، جن میں سے زیادہ تر انفارمیشن اینڈ کمیونیکیشن ٹیکنالوجی اور انجینئرنگ کے شعبوں میں کام کر رہے ہیں۔ کیوکوسکی نے کمیونٹی کو مربوط اور قابل احترام قرار دیا، اور کہا کہ ہیلسنکی کو امید ہے کہ وہ نقل و حرکت کی شراکت داری کے تحت مزید ہنر مند ہندوستانی پیشہ ور افراد کا بتدریج خیرمقدم کرے گا جس پر دونوں ممالک نے اتفاق کیا ہے۔"
+    },
+    "b18": {
+      "hi": "फिनलैंड की आर्थिक संरचना-एक उच्च प्रौद्योगिकी, ज्ञान-गहन अर्थव्यवस्था जिसमें उम्र बढ़ने वाली जनसांख्यिकी और विशिष्ट कुशल-श्रम श्रेणियों में तीव्र कमी है-उस तरह की आई. सी. टी. और इंजीनियरिंग प्रतिभा की निरंतर मांग पैदा करती है जो भारतीय पेशेवरों ने ऐतिहासिक रूप से प्रदान की है। गतिशीलता साझेदारी हाल के दशकों में एक जैविक प्रवास पैटर्न को औपचारिक रूप देती है, और उत्तरोत्तर इसके विस्तार के लिए रूपरेखा खोलती है।",
+      "en": "Finland's economic structure — a high-technology, knowledge-intensive economy with ageing demographics and acute shortages in specific skilled-labour categories — creates sustained demand for the kind of ICT and engineering talent that Indian professionals have historically supplied. The mobility partnership formalises what has in effect been an organic migration pattern over recent decades, and progressively opens the framework for its expansion.",
+      "ur": "فن لینڈ کا اقتصادی ڈھانچہ-ایک اعلی ٹیکنالوجی، علم پر مبنی معیشت جس میں عمر رسیدہ آبادی اور مخصوص ہنر مند مزدور زمروں میں شدید قلت ہے-اس طرح کے آئی سی ٹی اور انجینئرنگ پرتیبھا کی مستقل مانگ پیدا کرتا ہے جو ہندوستانی پیشہ ور افراد نے تاریخی طور پر فراہم کی ہے۔ نقل و حرکت کی شراکت داری حالیہ دہائیوں میں ایک نامیاتی ہجرت کے انداز کو باقاعدہ بناتی ہے، اور بتدریج اس کی توسیع کے لیے فریم ورک کھولتی ہے۔"
+    },
+    "b19": {
+      "hi": "यह क्या संकेत देता है",
+      "en": "What it signals",
+      "ur": "یہ کیا اشارہ کرتا ہے"
+    },
+    "b20": {
+      "hi": "भारत के व्यापक UNSC अभियान के लिए, फिनलैंड का समर्थन यूरोपीय संघ की ओर से स्थायी परिषद की सदस्यता का सार्वजनिक रूप से समर्थन करने वाले राज्यों के समूह के लिए एक और ठोस आवाज जोड़ता है-एक सुधार के आकार पर विशिष्ट नीतिगत सामग्री के साथ। भारत-यूरोपीय संघ के आर्थिक जुड़ाव के लिए, फिनलैंड का व्यापार-दोगुना लक्ष्य समझता है कि समझौते पर हस्ताक्षर और पुष्टि होने के बाद कई द्विपक्षीय संबंधों में FTA संरचना से क्या सक्षम होने की उम्मीद है। रूस-यूक्रेन संघर्ष पर भारत की स्थिति के लिए, सीधे रूसी सीमा संपर्क के साथ एक अग्रणी NATO सदस्य से फिनिश समर्थन संवाद-आधारित दृष्टिकोण की राजनयिक मान्यता प्रदान करता है। भारत की गतिशीलता कूटनीति के लिए, फिनिश ढांचा उत्तरोत्तर जर्मनी, जापान, ऑस्ट्रेलिया और अन्य के साथ समाप्त हुई संरचित कुशल-श्रम साझेदारी की बढ़ती संरचना में शामिल हो जाता है-जो वैश्विक कौशल की कमी को पूरा करने के लिए भारतीय प्रतिभाओं के लिए संरचित मार्ग प्रदान करता है।",
+      "en": "For India's wider UNSC campaign, Finland's endorsement adds another substantive voice from the European Union to the group of states publicly backing permanent Council membership — one with specific policy content on the shape of the reform. For India-EU economic engagement, Finland's trade-doubling target captures what the FTA architecture is operationally expected to enable across multiple bilateral relationships once the agreement is signed and ratified. For India's position on the Russia-Ukraine conflict, Finnish endorsement from a frontline NATO member with direct Russian border exposure provides diplomatic validation of the dialogue-based approach. For India's mobility diplomacy, the Finnish framework progressively joins the growing architecture of structured skilled-labour partnerships India has concluded with Germany, Japan, Australia and others — providing structured pathways for Indian talent to serve global skill shortages.",
+      "ur": "ہندوستان کی وسیع تر یو این ایس سی مہم کے لیے، فن لینڈ کی توثیق یورپی یونین کی طرف سے ریاستوں کے گروپ میں ایک اور ٹھوس آواز کا اضافہ کرتی ہے جو عوامی طور پر مستقل کونسل کی رکنیت کی حمایت کرتی ہے-ایک اصلاح کی شکل پر مخصوص پالیسی مواد کے ساتھ۔ ہندوستان-یورپی یونین کے اقتصادی مشغولیت کے لیے، فن لینڈ کا تجارتی دوگنا ہدف اس بات کو ظاہر کرتا ہے کہ معاہدے پر دستخط اور توثیق کے بعد ایف ٹی اے کے ڈھانچے سے متعدد دو طرفہ تعلقات میں فعال ہونے کی توقع کی جاتی ہے۔ روس-یوکرین تنازعہ پر ہندوستان کے موقف کے لیے، براہ راست روسی سرحدی نمائش کے ساتھ فرنٹ لائن نیٹو کے رکن کی فن لینڈ کی توثیق بات چیت پر مبنی نقطہ نظر کی سفارتی توثیق فراہم کرتی ہے۔ ہندوستان کی نقل و حرکت کی سفارت کاری کے لیے، فن لینڈ کا ڈھانچہ بتدریج اس ڈھانچے میں شامل ہوتا ہے جو ہندوستان نے جرمنی، جاپان، آسٹریلیا اور دیگر کے ساتھ طے کیا ہے-جو ہندوستانی صلاحیتوں کو عالمی مہارت کی کمی کو پورا کرنے کے لیے منظم راستے فراہم کرتا ہے۔"
+    },
+    "b21": {
+      "hi": "नॉर्डिक द्वीपक्षीय जुड़ाव से लेकर यूरोपीय संघ के व्यापक व्यापार उदारीकरण तक. 3 अरब डॉलर से लेकर 6 अरब डॉलर तक का लक्ष्य. संयुक्त राष्ट्र सुरक्षा परिषद की यथास्थिति से लेकर स्पष्ट भारतीय समावेश के साथ एक सुधार स्थिति तक। फिनलैंड के राजदूत द्वारा 5 अक्टूबर की ब्रीफिंग में, एक ही मीडिया जुड़ाव में, फिनलैंड-भारत संबंधों की परिचालन गहराई को दर्शाया गया है जो उत्तरोत्तर बन गए हैं।",
+      "en": "From Nordic bilateral engagement to EU-wide trade liberalisation. From $3 billion to a targeted $6 billion. From UN Security Council status quo to a reform position with explicit Indian inclusion. The 5 October briefing by Finland's Ambassador captures, in a single media engagement, the operational depth of what Finland-India relations have progressively become.",
+      "ur": "نورڈک دو طرفہ مشغولیت سے لے کر یورپی یونین بھر میں تجارتی لبرلائزیشن تک۔ 3 بلین ڈالر سے لے کر 6 بلین ڈالر تک کا ہدف۔ اقوام متحدہ کی سلامتی کونسل کی حیثیت سے لے کر ہندوستان کی واضح شمولیت کے ساتھ ایک اصلاحاتی پوزیشن تک۔ فن لینڈ کے سفیر کی 5 اکتوبر کی بریفنگ، ایک واحد میڈیا مصروفیت میں، فن لینڈ-ہندوستان کے تعلقات کی عملی گہرائی کو بتاتا ہے۔"
+    }
+  }
+}
