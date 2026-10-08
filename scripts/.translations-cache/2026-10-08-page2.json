@@ -1,0 +1,755 @@
+{
+  "hash": "38cab866ef29c0e9",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"स्टारलिंक · उपग्रह संप्रभुता · डी2डी · राष्ट्रीय सुरक्षा · आत्मनिर्भर भारत · नाविक\"",
+      "en": "\"Starlink · Satellite Sovereignty · D2D · National Security · Aatmanirbhar Bharat · NavIC\"",
+      "ur": "\"اسٹار لنک · سیٹلائٹ خودمختاری · ڈی 2 ڈی · قومی سلامتی · آتم نربھر بھارت · نیویک\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"भारत में स्टारलिंकः भारत की सुरक्षा-प्रथम रूपरेखा ईरान की संप्रभुता के सवाल का जवाब क्यों देती है\"",
+      "en": "\"Starlink in India: Why India's security-first framework answers the Iran sovereignty question\"",
+      "ur": "\"ہندوستان میں اسٹار لنک: ہندوستان کا سلامتی کا پہلا فریم ورک ایران کی خودمختاری کے سوال کا جواب کیوں دیتا ہے\""
+    },
+    "fm.subdeck": {
+      "hi": "अमेरिका स्थित स्टारलिंक ने अपनी दूसरी पीढ़ी के उपग्रह समूह और डायरेक्ट-टू-डिवाइस (डी2डी) सेवाओं की मंजूरी के लिए भारत के अंतरिक्ष नियामक आईएन-स्पेस को फिर से आवेदन किया है-एक ऐसी तकनीक जो साधारण मोबाइल फोन को बिना टर्मिनल के उपग्रहों से जोड़ने देती है। दूरसंचार विभाग और आईएन-स्पेस द्वारा तैयार की गई भारत की प्रतिक्रिया, एक राष्ट्रीय-सुरक्षा सबक पर आधारित है जो ईरान ने 2022 से परिचालन रूप से प्रदर्शित किया हैः एक बार जब एक विदेशी-नियंत्रित उपग्रह परत किसी देश के संचार बुनियादी ढांचे के ऊपर बैठ जाती है, तो वैध कार्यकारी आदेश कानूनी रूप से वैध रह सकते हैं जबकि परिचालन रूप से रिसाव हो जाता है। भारत संस्थागत ताकत की स्थिति से स्टारलिंक प्रश्न का जवाब दे रहा है-एक लाइसेंस, स्पेक्ट्रम, गेटवे, वैध-अवरोधन और आपातकालीन-निलंबन वास्तुकला विशेष रूप से ईरान के साथ संप्रभुता के अंतर को रोकने के लिए डिज़ाइन की गई है, जबकि भारतीय संचार प्रौद्योगिकी पर लाभकारी रूप से खुली रहती है।",
+      "en": "\"US-based Starlink has reapplied to India's space regulator IN-SPACe for approval of its second-generation satellite constellation and direct-to-device (D2D) services — a technology that lets ordinary mobile phones connect to satellites without a terminal. India's response, framed by the Department of Telecommunications and IN-SPACe, draws on a national-security lesson Iran has demonstrated operationally since 2022: once a foreign-controlled satellite layer sits above a country's communications infrastructure, lawful executive orders can remain legally valid while becoming operationally leaky. India is approaching the Starlink question from a position of institutional strength — a licensing, spectrum, gateway, lawful-interception and emergency-suspension architecture specifically designed to prevent exactly the sovereignty gap Iran has lived with, while progressively keeping India open to beneficial satellite communications technology on Indian terms.\"",
+      "ur": "امریکہ میں قائم اسٹار لنک نے اپنی دوسری نسل کے سیٹلائٹ نکشتر اور ڈائریکٹ ٹو ڈیوائس (ڈی 2 ڈی) خدمات کی منظوری کے لیے ہندوستان کے خلائی ریگولیٹر ان-اسپیس کو دوبارہ درخواست دی ہے-ایک ایسی ٹیکنالوجی جو عام موبائل فونز کو بغیر ٹرمینل کے سیٹلائٹ سے جوڑتی ہے۔ محکمہ ٹیلی مواصلات اور ان-اسپیس کے ذریعے تیار کردہ ہندوستان کا جواب، قومی سلامتی کے اس سبق پر مبنی ہے جو ایران نے 2022 سے عملی طور پر دکھایا ہے: ایک بار جب غیر ملکی کنٹرول والے سیٹلائٹ کی پرت کسی ملک کے مواصلاتی انفراسٹرکچر سے اوپر بیٹھ جاتی ہے، تو قانونی ایگزیکٹو آرڈر قانونی طور پر درست رہ سکتے ہیں جبکہ آپریشنل طور پر لیک ہو جاتے ہیں۔ ہندوستان ادارہ جاتی طاقت کی پوزیشن سے اسٹار لنک کے سوال سے رجوع کر رہا ہے-ایک لائسنسنگ، سپیکٹرم، گیٹ وے، قانونی مداخلت اور ایمرجنسی-معطلی فن تعمیر جو خاص طور پر ایران کے ساتھ رہنے والے خودمختاری کے فرق کو روکنے کے لیے ڈیزائن کیا گیا ہے، جبکہ ہندوستانی سیٹلائٹ ٹیکنالوجی کی شرائط پر ترقی کے ساتھ فائدہ مند رہ سکتا ہے۔"
+    },
+    "b0": {
+      "hi": "स्पेसएक्स द्वारा संचालित अमेरिका स्थित स्टारलिंक ने अपनी दूसरी पीढ़ी के उपग्रह समूह और डायरेक्ट-टू-डिवाइस (डी2डी) सेवाओं के प्राधिकरण के लिए भारत के अंतरिक्ष नियामक आईएन-स्पेस को फिर से आवेदन किया है, जो संगत मोबाइल फोन को एक अलग टर्मिनल के बिना सीधे उपग्रहों से जोड़ने की अनुमति देगा। इस अनुप्रयोग के लिए भारत की प्रतिक्रिया एक नियामक ढांचे के भीतर सामने आ रही है जिसे दूरसंचार विभाग (डीओटी) और भारतीय राष्ट्रीय अंतरिक्ष संवर्धन और प्राधिकरण केंद्र (आईएन-स्पेस) द्वारा उत्तरोत्तर बनाया गया है-एक ढांचा विशेष रूप से संप्रभुता अंतर को रोकने के लिए डिज़ाइन किया गया है जो अन्य देशों ने अनुभव किया है जब विदेशी नियंत्रित उपग्रह नेटवर्क ने अपने राष्ट्रीय संचार बुनियादी ढांचे से ऊपर काम करना शुरू किया है। इस तरह की संरचना के अनुपस्थित होने पर क्या गलत हो सकता है इसका सबसे परिचालन परिणामी प्रदर्शन ईरान से आता है। इस तरह के ढांचे में सही होने पर क्या हो सकता है इसका सबसे परिचालन परिणामी प्रदर्शन भारत की प्रगति, स्टार लिंक, सुरक्षा अनुप्रयोग के निलंबन, अनुप्रयोग के लिए भारत के रणनीतिक दृष्टिकोण, एक प्रणालीगत बाधा, और अनुप्रयोग के बीच बाधा, एक प्रणालीगत बाधा, और भारत में सुरक्षा तंत्र, एक पूर्ववर्ती दृष्टिकोण है।",
+      "en": "US-based Starlink, operated by SpaceX, has reapplied to India's space regulator IN-SPACe for authorisation of its second-generation satellite constellation and direct-to-device (D2D) services that would allow compatible mobile phones to connect directly to satellites without a separate terminal. India's response to this application is unfolding within a regulatory framework progressively built by the Department of Telecommunications (DoT) and the Indian National Space Promotion and Authorisation Centre (IN-SPACe) — a framework specifically designed to prevent the sovereignty gap that other countries have experienced when foreign-controlled satellite networks began operating above their national communications infrastructure. The most operationally consequential demonstration of what can go wrong when such a framework is absent comes from Iran. The most operationally consequential demonstration of what can go right when such a framework is in place is India's own progressively maturing architecture — licensing, spectrum vetting, gateway governance, lawful interception, emergency suspension, and strategic infrastructure doctrine rooted in the NavIC precedent. India approaches the Starlink application from a position of security-first institutional confidence.",
+      "ur": "اسپیس ایکس کے زیر انتظام امریکہ میں قائم اسٹار لنک نے اپنی دوسری نسل کے سیٹلائٹ نکشتر اور ڈائریکٹ ٹو ڈیوائس (ڈی 2 ڈی) خدمات کی اجازت کے لیے ہندوستان کے خلائی ریگولیٹر ان اسپیس کو دوبارہ درخواست دی ہے جو ہم آہنگ موبائل فونز کو علیحدہ ٹرمینل کے بغیر براہ راست سیٹلائٹ سے منسلک کرنے کی اجازت دے گی۔ اس ایپلی کیشن پر ہندوستان کا ردعمل ایک ریگولیٹری فریم ورک کے اندر سامنے آرہا ہے جو محکمہ ٹیلی مواصلات (ڈی او ٹی) اور انڈین نیشنل اسپیس پروموشن اینڈ اتھورائزیشن سینٹر (آئی این-اسپیس) کے ذریعہ بتدریج بنایا گیا ہے-ایک ایسا فریم ورک جو خاص طور پر خودمختاری کے فرق کو روکنے کے لیے ڈیزائن کیا گیا ہے جس کا تجربہ دوسرے ممالک نے کیا ہے جب غیر ملکی کنٹرول والے سیٹلائٹ نیٹ ورکس نے اپنے قومی مواصلاتی انفراسٹرکچر سے اوپر کام کرنا شروع کیا۔ اس طرح کے فریم ورک کی عدم موجودگی میں کیا غلط ہو سکتا ہے اس کا سب سے عملی نتیجہ ایران سے آتا ہے۔ جب اس طرح کے فریم ورک میں کیا صحیح ہو سکتا ہے اس کا سب سے عملی نتیجہ خیز مظاہرہ ہندوستان کے اپنے،'آئی سی سی سی'، ایک اسٹریٹجک، ایمرجنسی، اور سیکورٹی سپیکٹرم،"
+    },
+    "b1": {
+      "hi": "ईरान सबक-संप्रभुता के सवाल क्यों मायने रखते हैं",
+      "en": "The Iran lesson — why sovereignty questions matter",
+      "ur": "ایران کا سبق-خودمختاری کے سوالات کیوں اہمیت رکھتے ہیں"
+    },
+    "b2": {
+      "hi": "उपग्रह-संप्रभुता के प्रश्नों का व्यवहार में क्या अर्थ है, इसका परिचालन प्रदर्शन ईरान से आता है। नागरिक विरोध और राज्य-आदेशित इंटरनेट शटडाउन की अवधि के दौरान, जिसने 2022 से ईरान को प्रभावित किया है, सुरक्षा अधिकारियों और ओपन-सोर्स विश्लेषकों ने प्रलेखित किया है कि देश में तस्करी किए गए स्टारलिंक टर्मिनलों का उपयोग विरोध-जुड़े नेटवर्क द्वारा राज्य द्वारा लगाए गए इंटरनेट ब्लैकआउट के दौरान बाहरी संपर्क बनाए रखने के लिए किया गया था।",
+      "en": "The operational demonstration of what satellite-sovereignty questions mean in practice comes from Iran. During the periods of civil protest and state-ordered internet shutdowns that have affected Iran since 2022, security officials and open-source analysts have documented that Starlink terminals smuggled into the country were used by protest-linked networks to maintain external connectivity during blanket state-imposed internet blackouts.",
+      "ur": "سیٹلائٹ خودمختاری کے سوالات کا عملی طور پر کیا مطلب ہے اس کا عملی مظاہرہ ایران سے آتا ہے۔ شہری احتجاج اور ریاست کے حکم پر انٹرنیٹ شٹ ڈاؤن کے ادوار کے دوران جس نے 2022 سے ایران کو متاثر کیا ہے، سیکیورٹی حکام اور اوپن سورس تجزیہ کاروں نے دستاویز کیا ہے کہ ملک میں اسمگل کیے گئے اسٹار لنک ٹرمینلز کو احتجاج سے منسلک نیٹ ورکس کے ذریعے ریاست کے ذریعہ نافذ کردہ انٹرنیٹ بلیک آؤٹ کے دوران بیرونی رابطے کو برقرار رکھنے کے لیے استعمال کیا گیا تھا۔"
+    },
+    "b3": {
+      "hi": "ईरान से रिपोर्ट की गई परिचालन तस्वीर शिक्षाप्रद है। तेहरान ने बार-बार लाइसेंस प्राप्त इंटरनेट सेवा प्रदाताओं और राष्ट्रीय प्रवेश द्वारों के माध्यम से राष्ट्रीय इंटरनेट कनेक्टिविटी को अक्षम करने के लिए घरेलू कानून और कार्यकारी प्राधिकरण का आह्वान किया। निर्देश ईरानी कानून के तहत वैध था। इसे ईरान के अपने विनियमित दूरसंचार बुनियादी ढांचे के माध्यम से निष्पादित किया गया था। और फिर भी, ईरानी कानूनी ढांचे के बाहर सक्रिय तस्करी किए गए उपग्रह टर्मिनलों के माध्यम से, विरोध से जुड़े अभिनेताओं ने बाहरी कनेक्टिविटी की एक संकीर्ण लेकिन रणनीतिक रूप से महत्वपूर्ण परत बनाए रखी-वीडियो अपलोड करना, विदेशी मीडिया के साथ संवाद करना, बाहरी संदेश चैनलों को बनाए रखना, और यह सुनिश्चित करना कि बंद होने के बावजूद देश से जानकारी का प्रवाह देश से बाहर हो।",
+      "en": "The operational picture reported from Iran is instructive. Tehran repeatedly invoked domestic law and executive authority to disable national internet connectivity through licensed Internet Service Providers and national gateways. The directive was lawful under Iranian law. It was executed through Iran's own regulated telecommunications infrastructure. And yet, through smuggled satellite terminals activated outside the Iranian legal framework, protest-linked actors maintained a narrower but strategically significant layer of external connectivity — uploading videos, communicating with foreign media, maintaining external messaging channels, and ensuring that information flowed out of the country despite the shutdown.",
+      "ur": "ایران سے رپورٹ کی گئی آپریشنل تصویر سبق آموز ہے۔ تہران نے لائسنس یافتہ انٹرنیٹ سروس فراہم کنندگان اور قومی گیٹ ویز کے ذریعے قومی انٹرنیٹ کنیکٹوٹی کو غیر فعال کرنے کے لیے بار بار ملکی قانون اور ایگزیکٹو اتھارٹی کو طلب کیا۔ یہ ہدایت ایرانی قانون کے تحت جائز تھی۔ اسے ایران کے اپنے ریگولیٹڈ ٹیلی کمیونیکیشن انفراسٹرکچر کے ذریعے انجام دیا گیا۔ اور پھر بھی، ایرانی قانونی فریم ورک سے باہر فعال اسمگل شدہ سیٹلائٹ ٹرمینلز کے ذریعے، احتجاج سے منسلک اداکاروں نے بیرونی کنیکٹوٹی کی ایک تنگ لیکن اسٹریٹجک طور پر اہم پرت برقرار رکھی-ویڈیوز اپ لوڈ کرنا، غیر ملکی میڈیا کے ساتھ بات چیت کرنا، بیرونی میسجنگ چینلز کو برقرار رکھنا، اور اس بات کو یقینی بنانا کہ شٹ ڈاؤن کے باوجود معلومات ملک سے باہر بہہ رہی ہیں۔"
+    },
+    "b4": {
+      "hi": "इसका परिणाम यह नहीं था कि बंद हो गया। मोबाइल और स्थिर ब्रॉडबैंड नेटवर्क ऑफ़लाइन रहे। बड़े पैमाने पर सहकर्मी-से-सहकर्मी संचार वापस नहीं आया। लेकिन क्षेत्रीय विश्लेषकों के शब्दों में, बंद एक सीलबंद ब्लैकआउट से एक छिद्रपूर्ण में बदल गया। परिचालन महत्व का बिंदु स्वयं अतिक्रमण नहीं है, बल्कि मिसाल हैः एक संप्रभु सरकार के एक वैध कार्यकारी आदेश को विदेश-नियंत्रित उपग्रह नेटवर्क द्वारा व्यवहार में आंशिक रूप से रद्द कर दिया गया था, जिस पर उस सरकार का कोई नियामक अधिकार नहीं था।",
+      "en": "The result was not a collapse of the shutdown itself. Mobile and fixed broadband networks remained offline. Mass peer-to-peer communication did not return. But the shutdown transformed, in the words of regional analysts, from a sealed blackout into a porous one. The point of operational significance is not the circumvention itself but the precedent: a lawful executive order of a sovereign government was partially nullified in practice by a foreign-controlled satellite network over which that government had no regulatory authority.",
+      "ur": "نتیجہ خود شٹ ڈاؤن کا خاتمہ نہیں تھا۔ موبائل اور فکسڈ براڈ بینڈ نیٹ ورک آف لائن رہے۔ بڑے پیمانے پر ہم مرتبہ سے ہم مرتبہ رابطہ واپس نہیں آیا۔ لیکن علاقائی تجزیہ کاروں کے الفاظ میں، شٹ ڈاؤن ایک مہر بند بلیک آؤٹ سے ایک غیر محفوظ میں تبدیل ہو گیا۔ آپریشنل اہمیت کا نقطہ خود سرکشی نہیں بلکہ مثال ہے: ایک خودمختار حکومت کے قانونی ایگزیکٹو آرڈر کو غیر ملکی کنٹرول والے سیٹلائٹ نیٹ ورک کے ذریعہ عملی طور پر جزوی طور پر کالعدم قرار دے دیا گیا تھا جس پر اس حکومت کا کوئی ریگولیٹری اختیار نہیں تھا۔"
+    },
+    "b5": {
+      "hi": "ईरानी सुरक्षा एजेंसियों ने कथित तौर पर जवाबी कदम उठाने का प्रयास किया-संकेत हस्तक्षेप, टर्मिनलों को जब्त करना, उपयोगकर्ताओं की गिरफ्तारी। प्रवर्तन परिचालन रूप से अविश्वसनीय साबित हुआ। देश का भूगोल, घने शहरी वातावरण, कई शहरों में एक साथ विरोध प्रदर्शन, और टर्मिनलों के एपिसोडिक सक्रियण ने वास्तविक समय में प्रत्येक उपकरण का पता लगाने और उसे बेअसर करने की राज्य की क्षमता को सीमित कर दिया। बंद के दौरान एक उपकरण की खोज और किसी भी प्रवर्तन प्रतिक्रिया के बीच का समय अंतराल, कई क्षेत्राधिकारों के अधिकारियों ने देखा है, जानकारी की एक बड़ी मात्रा को प्रसारित करने के लिए पर्याप्त है जिसके डाउनस्ट्रीम परिणामों को आसानी से उलट नहीं किया जा सकता है।",
+      "en": "Iranian security agencies reportedly attempted countermeasures — signal interference, confiscation of terminals, arrests of users. Enforcement proved operationally unreliable. The country's geography, dense urban environments, simultaneous protests across multiple cities, and the episodic activation of terminals limited the state's ability to locate and neutralise every device in real time. The time gap between the discovery of a device during a shutdown and any enforcement response, officials in multiple jurisdictions have observed, is enough to transmit a substantial volume of information whose downstream consequences cannot easily be reversed.",
+      "ur": "ایرانی سیکورٹی ایجنسیوں نے مبینہ طور پر جوابی اقدامات کی کوشش کی-سگنل مداخلت، ٹرمینلز کو ضبط کرنا، صارفین کی گرفتاری۔ نفاذ عملی طور پر ناقابل اعتماد ثابت ہوا۔ ملک کا جغرافیہ، گھنے شہری ماحول، متعدد شہروں میں بیک وقت مظاہرے، اور ٹرمینلز کی قسط وار چالو ہونے سے ریاست کی ہر ڈیوائس کو حقیقی وقت میں تلاش کرنے اور بے اثر کرنے کی صلاحیت محدود ہو گئی۔ شٹ ڈاؤن کے دوران کسی ڈیوائس کی دریافت اور کسی بھی نفاذ کے ردعمل کے درمیان وقت کا فرق، متعدد دائرہ اختیار کے حکام نے مشاہدہ کیا ہے، کافی مقدار میں معلومات منتقل کرنے کے لیے کافی ہے جس کے نیچے کی طرف کے نتائج کو آسانی سے تبدیل نہیں کیا جا سکتا۔"
+    },
+    "b6": {
+      "hi": "यह रणनीतिक सिद्धांत जो परिचालन रूप से प्रदर्शित करता है वह स्पष्ट है। राष्ट्रीय सुरक्षा के लिए महत्वपूर्ण बुनियादी ढांचा संप्रभुता की भेद्यता बन सकता है जब इसका परिचालन नियंत्रण अंततः राष्ट्रीय नियामक ढांचे के बाहर हो। भारत का नियामक ढांचा विशेष रूप से उस परिणाम को रोकने के लिए बनाया जा रहा है।",
+      "en": "The strategic principle this operationally demonstrates is clear. Infrastructure critical to national security can become a sovereignty vulnerability when its operational control sits ultimately outside the national regulatory architecture. India's regulatory framework is being built specifically to prevent that outcome.",
+      "ur": "اس سے عملی طور پر جو اسٹریٹجک اصول ظاہر ہوتا ہے وہ واضح ہے۔ قومی سلامتی کے لیے اہم بنیادی ڈھانچہ خودمختاری کا خطرہ بن سکتا ہے جب اس کا آپریشنل کنٹرول بالآخر قومی ریگولیٹری ڈھانچے سے باہر ہو۔ ہندوستان کا ریگولیٹری فریم ورک خاص طور پر اس نتیجے کو روکنے کے لیے بنایا جا رہا ہے۔"
+    },
+    "b7": {
+      "hi": "भारत का ढांचा-रणनीतिक सबक पर बनाया गया है, न कि सुधार पर",
+      "en": "India's framework — built on strategic lessons, not improvisation",
+      "ur": "ہندوستان کا فریم ورک-اسٹریٹجک اسباق پر بنایا گیا ہے، اصلاح پر نہیں"
+    },
+    "b8": {
+      "hi": "भारत स्टारलिंक के सवाल पर संस्थागत ताकत की स्थिति से विचार करता है। पिछले तीन दशकों में, भारत ने विदेशी प्रौद्योगिकी को अपने संचार और रणनीतिक बुनियादी ढांचे में एकीकृत करने के लिए किसी भी उभरती अर्थव्यवस्था के पास सबसे रणनीतिक रूप से सुसंगत ढांचे में से एक का निर्माण किया है। मूल सिद्धांत, जो लगातार लागू होता है, वह यह है कि भारतीय बाजार तक पहुंच भारतीय निरीक्षण से छूट में तब्दील नहीं होती है।",
+      "en": "India approaches the Starlink question from a position of institutional strength. Over the past three decades, India has progressively built one of the most strategically coherent frameworks any emerging economy possesses for integrating foreign technology into its communications and strategic infrastructure. The core principle, consistently applied, is that access to the Indian market does not translate into exemption from Indian oversight.",
+      "ur": "ہندوستان اسٹار لنک کے سوال کو ادارہ جاتی طاقت کی حیثیت سے دیکھتا ہے۔ پچھلی تین دہائیوں کے دوران، ہندوستان نے اپنے مواصلات اور اسٹریٹجک انفراسٹرکچر میں غیر ملکی ٹیکنالوجی کو مربوط کرنے کے لیے کسی بھی ابھرتی ہوئی معیشت کے پاس سب سے زیادہ اسٹریٹجک مربوط فریم ورک میں سے ایک کو بتدریج بنایا ہے۔ بنیادی اصول، جو مستقل طور پر لاگو ہوتا ہے، یہ ہے کہ ہندوستانی مارکیٹ تک رسائی ہندوستانی نگرانی سے استثنی میں تبدیل نہیں ہوتی ہے۔"
+    },
+    "b9": {
+      "hi": "डीओटी और आईएन-स्पेस ने संयुक्त रूप से उपग्रह संचार के लिए एक नियामक संरचना विकसित की है जो राष्ट्रीय सुरक्षा के लिए सबसे अधिक महत्वपूर्ण विशिष्ट परिचालन प्रश्नों को संबोधित करती है। पहला, लाइसेंसिंग-भारतीय बाजार तक पहुंच की मांग करने वाले किसी भी विदेशी उपग्रह ऑपरेटर को भारतीय शर्तों के तहत नियामक प्राधिकरण प्राप्त करना चाहिए, जिसमें निरंतर अनुपालन दायित्व शामिल हैं। दूसरा, स्पेक्ट्रम आवंटन-उपग्रह ऑपरेटरों द्वारा उपयोग किया जाने वाला भारतीय स्पेक्ट्रम भारतीय नियामक शासन के तहत रहता है, न कि बाहरी ऑपरेटर के विवेक के तहत। तीसरा, गेटवे गवर्नेंस-उपग्रह नेटवर्क को भारत के स्थलीय दूरसंचार के साथ जोड़ने वाली जमीनी अवसंरचना भारतीय अधिकार क्षेत्र में स्थित होनी चाहिए और भारतीय नियामक निरीक्षण के तहत काम करती है। चौथा, वैध अवरोधन-भारतीय एजेंसियों को भारतीय कानून के तहत आवश्यक डेटा प्राप्त करने और अवरोधन करने की तकनीकी क्षमता और तकनीकी क्षमता को बनाए रखना चाहिए। पांचवां, आपातकालीन शक्तियां-भारतीय अधिकारियों को सीमा संकट, प्राकृतिक आपदाओं या अन्य राष्ट्रीय सुरक्षा स्थितियों के दौरान निर्दिष्ट क्षेत्रों में सेवा को निलंबित करने के लिए उपग्रह ऑपरेटरों को निर्देश देने के लिए परिचालन प्राधिकरण को बनाए रखना चाहिए। छठा, ज्ञात, उपयोगकर्ता को समाप्त करने वाला, या भारतीय नियामक दायित्वों के बाहर, बिना दस्तावेज वाले, नियामक प्राधिकरणों को नहीं होना चाहिए।",
+      "en": "The DoT and IN-SPACe have jointly developed a regulatory architecture for satellite communications that addresses the specific operational questions that matter most for national security. First, licensing — any foreign satellite operator seeking Indian market access must obtain regulatory authorisation under Indian terms, with ongoing compliance obligations. Second, spectrum allocation — Indian spectrum used by satellite operators remains under Indian regulatory governance, not external operator discretion. Third, gateway governance — the ground infrastructure linking satellite networks with India's terrestrial telecommunications must be located within Indian jurisdiction and operate under Indian regulatory oversight. Fourth, lawful interception — Indian agencies must retain the authority and the technical capability to obtain data and conduct interception as required under Indian law. Fifth, emergency powers — Indian authorities must retain the operational authority to direct satellite operators to suspend service over specified areas during border crises, natural disasters, or other national-security situations. Sixth, security vetting — operators, terminals, user registrations and contractual obligations must be known to Indian authorities, not undocumented or outside the regulatory perimeter.",
+      "ur": "ڈی او ٹی اور آئی این-ایس پی اے سی ای نے مشترکہ طور پر سیٹلائٹ مواصلات کے لیے ایک ریگولیٹری ڈھانچہ تیار کیا ہے جو قومی سلامتی کے لیے سب سے زیادہ اہمیت کے حامل مخصوص آپریشنل سوالات کو حل کرتا ہے۔ پہلا، لائسنسنگ-ہندوستانی مارکیٹ تک رسائی کے خواہاں کسی بھی غیر ملکی سیٹلائٹ آپریٹر کو ہندوستانی شرائط کے تحت ریگولیٹری اجازت حاصل کرنی چاہیے، جس میں تعمیل کی ذمہ داریاں جاری ہیں۔ دوسرا، سپیکٹرم مختص کرنا-سیٹلائٹ آپریٹرز کے ذریعے استعمال ہونے والا ہندوستانی سپیکٹرم ہندوستانی ریگولیٹری گورننس کے تحت رہتا ہے، بیرونی آپریٹر کی صوابدید کے تحت نہیں۔ تیسرا، گیٹ وے گورننس-سیٹلائٹ نیٹ ورکس کو ہندوستان کے زمینی ٹیلی مواصلات سے جوڑنے والا زمینی بنیادی ڈھانچہ ہندوستانی دائرہ اختیار میں واقع ہونا چاہیے اور ہندوستانی ریگولیٹری نگرانی کے تحت کام کرنا چاہیے۔ چوتھا، قانونی مداخلت-ہندوستانی ایجنسیوں کو ہندوستانی قانون کے تحت ڈیٹا حاصل کرنے اور مداخلت کرنے کی تکنیکی صلاحیت اور ہندوستانی حکام کو غیر دستاویزی ریگولیٹری ذمہ داریوں کو برقرار رکھنا چاہیے۔ پانچواں، ہنگامی طاقتوں-ہندوستانی حکام کو سرحدی بحرانوں، قدرتی آفات، یا دیگر قومی سلامتی کے"
+    },
+    "b10": {
+      "hi": "ईरान के साथ विशिष्ट विरोधाभास परिचालन रूप से महत्वपूर्ण है। ईरान में, स्टारलिंक टर्मिनल पूरी तरह से राष्ट्रीय कानूनी ढांचे के बाहर संचालित होते हैं-तस्करी, अपंजीकृत, अनिर्दिष्ट, और घरेलू नियामक प्रक्रिया के माध्यम से पहुंच से बाहर। भारत में, किसी भी अधिकृत तैनाती में ज्ञात टर्मिनल, पंजीकृत उपयोगकर्ता, संविदात्मक दायित्व और कानूनी अवरोधन और प्राधिकरण में ही निर्मित आपातकालीन निलंबन के प्रावधान शामिल होंगे। नियामक संरचना केवल ऑपरेटर को लाइसेंस नहीं देती है; यह परिचालन शर्तों को स्थापित करती है जिसके तहत सेवा चलती है।",
+      "en": "The specific contrast with Iran is operationally significant. In Iran, Starlink terminals operated entirely outside the national legal framework — smuggled, unregistered, undocumented, and unreachable through domestic regulatory process. In India, any authorised deployment would involve known terminals, registered users, contractual obligations, and provisions for lawful interception and emergency suspension built into the authorisation itself. The regulatory architecture does not merely license the operator; it establishes the operational conditions under which the service runs.",
+      "ur": "ایران کے ساتھ مخصوص تضاد عملی طور پر اہم ہے۔ ایران میں، اسٹار لنک ٹرمینلز مکمل طور پر قومی قانونی فریم ورک سے باہر کام کرتے ہیں-اسمگل شدہ، غیر رجسٹرڈ، غیر دستاویزی، اور گھریلو ریگولیٹری عمل کے ذریعے ناقابل رسائی۔ ہندوستان میں، کسی بھی مجاز تعیناتی میں معروف ٹرمینلز، رجسٹرڈ صارفین، معاہدہ کی ذمہ داریاں، اور قانونی مداخلت اور ہنگامی معطلی کی دفعات شامل ہوں گی جو خود اختیار میں بنی ہیں۔ ریگولیٹری فن تعمیر صرف آپریٹر کو لائسنس نہیں دیتا ہے۔ یہ آپریشنل شرائط قائم کرتا ہے جن کے تحت سروس چلتی ہے۔"
+    },
+    "b11": {
+      "hi": "स्टारलिंक का संस्थागत पदचिह्न क्यों मायने रखता है",
+      "en": "Why Starlink's institutional footprint matters",
+      "ur": "اسٹار لنک کے ادارہ جاتی نقش قدم کیوں اہمیت رکھتے ہیں"
+    },
+    "b12": {
+      "hi": "स्टारलिंक प्रश्न का रणनीतिक भार प्रचालक के संस्थागत पदचिह्न से प्रबलित होता है। स्टारलिंक एक निजी वाणिज्यिक इकाई है, लेकिन इसके सबसे परिणामी राजस्व संबंध अमेरिकी सरकारी एजेंसियों-रक्षा विभाग, संबद्ध खुफिया एजेंसियों और संबद्ध सेनाओं के साथ हैं जो युद्ध के मैदान में संचार के लिए स्टारलिंक का उपयोग करते हैं, अस्वीकृत या खराब वातावरण में लचीला संपर्क, और सिनेमाघरों में तेजी से उपग्रह इंटरनेट की तैनाती जहां स्थलीय नेटवर्क उपलब्ध नहीं हैं। ये संबंध बहु-वर्षीय, उच्च-मूल्य अनुबंधों और वर्गीकृत या अर्ध-वर्गीकृत कार्यक्रमों जैसे स्टारशील्ड तक फैले हुए हैं, जो स्टारलिंक नक्षत्र पर निर्मित सरकार-समर्पित उपग्रह क्षमता प्रदान करते हैं।",
+      "en": "The strategic weight of the Starlink question is reinforced by the operator's institutional footprint. Starlink is a private commercial entity, but its most consequential revenue relationships are with US government agencies — the Department of Defense, allied intelligence agencies, and allied militaries that use Starlink for battlefield communications, resilient connectivity in denied or degraded environments, and rapid-deployment satellite internet in theatres where terrestrial networks are unavailable. These relationships extend into multi-year, high-value contracts and classified or semi-classified programmes such as Starshield, which provides government-dedicated satellite capability built on the Starlink constellation.",
+      "ur": "اسٹار لنک سوال کا اسٹریٹجک وزن آپریٹر کے ادارہ جاتی نقوش سے تقویت پاتا ہے۔ اسٹار لنک ایک نجی تجارتی ادارہ ہے، لیکن اس کے سب سے زیادہ نتیجے میں آمدنی کے تعلقات امریکی سرکاری ایجنسیوں کے ساتھ ہیں-محکمہ دفاع، اتحادی انٹیلی جنس ایجنسیاں، اور اتحادی فوجی جو اسٹار لنک کو میدان جنگ کے مواصلات کے لیے استعمال کرتے ہیں، انکار یا خراب ماحول میں لچکدار رابطہ، اور تھیٹروں میں سیٹلائٹ انٹرنیٹ کی تیزی سے تعیناتی جہاں زمینی نیٹ ورک دستیاب نہیں ہیں۔ یہ تعلقات کثیر سالہ، اعلی قیمت کے معاہدوں اور درجہ بند یا نیم درجہ بند پروگراموں جیسے اسٹار شیلڈ تک پھیلے ہوئے ہیں، جو اسٹار لنک نکشتر پر تعمیر کردہ حکومت کے وقف کردہ سیٹلائٹ کی صلاحیت فراہم کرتے ہیں۔"
+    },
+    "b13": {
+      "hi": "परिचालन रूप से, स्टारलिंक अमेरिका और संबद्ध सैन्य संचार सिद्धांत में अंतर्निहित हो गया है, विशेष रूप से यूक्रेन संघर्ष में इसकी व्यापक तैनाती के बाद। स्टारलिंक ने उच्च-तीव्रता वाले संघर्ष की निरंतर अवधि में यूक्रेनी नागरिक संपर्क, आपातकालीन प्रतिक्रिया क्षमता और सैन्य संचार प्रदान किया है। अनुभव ने प्रदर्शित किया है कि वाणिज्यिक उपग्रह बुनियादी ढांचा संघर्ष के दौरान तेजी से रणनीतिक महत्व प्राप्त कर सकता है, सेवा की मूल वाणिज्यिक संरचना की परवाह किए बिना।",
+      "en": "Operationally, Starlink has become embedded in US and allied military communications doctrine, particularly following its extensive deployment in the Ukraine conflict. Starlink has provided Ukrainian civilian connectivity, emergency response capability, and military communications across a sustained period of high-intensity conflict. The experience has demonstrated that commercial satellite infrastructure can acquire strategic significance rapidly during a conflict, regardless of the original commercial framing of the service.",
+      "ur": "عملی طور پر، اسٹار لنک امریکی اور اتحادی فوجی مواصلاتی نظریے میں سرایت کر چکا ہے، خاص طور پر یوکرین کے تنازعہ میں اس کی وسیع تعیناتی کے بعد۔ اسٹار لنک نے شدید شدت کے تنازعہ کے مسلسل دور میں یوکرین کے شہری رابطے، ہنگامی ردعمل کی صلاحیت اور فوجی مواصلات فراہم کیے ہیں۔ تجربے سے یہ ظاہر ہوا ہے کہ سروس کی اصل تجارتی تشکیل سے قطع نظر، تجارتی سیٹلائٹ کا بنیادی ڈھانچہ تنازعہ کے دوران تیزی سے اسٹریٹجک اہمیت حاصل کر سکتا ہے۔"
+    },
+    "b14": {
+      "hi": "यह संस्थागत पदचिह्न यह स्थापित नहीं करता है कि स्टारलिंक ने भारतीय हितों के खिलाफ काम किया है या करेगा। इस तरह के इरादे का कोई सबूत नहीं है। रणनीतिक बिंदु यह है कि ऐसे किसी भी वैश्विक उपग्रह नेटवर्क का परिचालन नियंत्रण ढांचा अंततः ऑपरेटर के घरेलू अधिकार क्षेत्र और उसके संस्थागत संबंधों के भीतर बैठता है, न कि मेजबान देशों की नियामक परिधि के भीतर। भारत के लिए, सवाल यह नहीं है कि क्या स्टारलिंक अच्छी मंशा से है। सवाल यह है कि क्या भारत की नियामक संरचना राष्ट्रीय-सुरक्षा स्थिति के दौरान सेवा को निर्देशित करने की परिचालन क्षमता को बरकरार रखती है-चाहे ऑपरेटर चाहे जो चाहे, निर्देश दिया जाए, या किसी अन्य प्राधिकरण द्वारा करने के लिए विवश किया जाए।",
+      "en": "This institutional footprint does not establish that Starlink has acted or would act against Indian interests. There is no evidence of such intent. The strategic point is that the operational control architecture of any such global satellite network ultimately sits within the operator's home jurisdiction and its institutional relationships, not within the regulatory perimeter of host countries. For India, the question is not whether Starlink is well-intentioned. The question is whether India's regulatory architecture retains the operational capacity to direct the service during a national-security situation — regardless of what the operator may wish, be instructed, or be constrained to do by any other authority.",
+      "ur": "یہ ادارہ جاتی اثر یہ ثابت نہیں کرتا کہ اسٹار لنک نے ہندوستانی مفادات کے خلاف کام کیا ہے یا کرے گا۔ اس طرح کے ارادے کا کوئی ثبوت نہیں ہے۔ اسٹریٹجک نقطہ یہ ہے کہ اس طرح کے کسی بھی عالمی سیٹلائٹ نیٹ ورک کا آپریشنل کنٹرول فن تعمیر بالآخر آپریٹر کے گھریلو دائرہ اختیار اور اس کے ادارہ جاتی تعلقات کے اندر بیٹھتا ہے، نہ کہ میزبان ممالک کے ریگولیٹری دائرے کے اندر۔ ہندوستان کے لیے، سوال یہ نہیں ہے کہ آیا اسٹار لنک نیک نیت ہے۔ سوال یہ ہے کہ کیا ہندوستان کا ریگولیٹری فن تعمیر قومی سلامتی کی صورتحال کے دوران سروس کو ہدایت دینے کی آپریشنل صلاحیت کو برقرار رکھتا ہے-اس سے قطع نظر کہ آپریٹر کیا چاہے، ہدایت دی جائے، یا کسی اور اتھارٹی کے ذریعہ کرنے پر مجبور کیا جائے۔"
+    },
+    "b15": {
+      "hi": "एनएवीआईसी की मिसाल-भारत का रणनीतिक सिद्धांत संचालन में है",
+      "en": "The NavIC precedent — India's strategic doctrine in operation",
+      "ur": "نیویک کی مثال-ہندوستان کا اسٹریٹجک نظریہ عمل میں ہے"
+    },
+    "b16": {
+      "hi": "स्टारलिंक के लिए भारत का दृष्टिकोण कोई सुधार नहीं है। यह सीधे उस रणनीतिक सिद्धांत से प्रवाहित होता है जिसे भारत ने 1990 के दशक से स्वदेशी रणनीतिक बुनियादी ढांचे के आसपास उत्तरोत्तर बनाया है।",
+      "en": "India's approach to Starlink is not an improvisation. It flows directly from the strategic doctrine India has progressively built since the 1990s around indigenous strategic infrastructure.",
+      "ur": "اسٹار لنک کے بارے میں ہندوستان کا نقطہ نظر کوئی اصلاح نہیں ہے۔ یہ براہ راست اس اسٹریٹجک نظریے سے بہتا ہے جسے ہندوستان نے 1990 کی دہائی سے مقامی اسٹریٹجک انفراسٹرکچر کے ارد گرد بتدریج بنایا ہے۔"
+    },
+    "b17": {
+      "hi": "उपग्रह नौपरिवहन के साथ भारतीय अनुभव एक मूलभूत मामला है। 1999 के कारगिल संघर्ष के दौरान, अमेरिका द्वारा नियंत्रित वैश्विक स्थिति प्रणाली (जी. पी. एस.) पर भारत की निर्भरता ने राष्ट्रीय-सुरक्षा आवश्यकता के समय परिचालन संबंधी बाधाएं पैदा कीं। भारत की संस्थागत प्रतिक्रिया निश्चित थी। विदेश-नियंत्रित रणनीतिक प्रणाली पर अनिश्चितकालीन निर्भरता को स्वीकार करने के बजाय, भारत ने उत्तरोत्तर एक संप्रभु विकल्प के रूप में भारतीय क्षेत्रीय नौपरिवहन उपग्रह प्रणाली-एन. ए. वी. आई. सी. का निर्माण किया। भारतीय अंतरिक्ष अनुसंधान संगठन ने एन. ए. वी. सी. को एक स्वतंत्र नौपरिवहन प्रणाली के रूप में वर्णित किया है जो रणनीतिक आवश्यकताओं के लिए विदेशी प्रणालियों पर निर्भरता को आंशिक रूप से कम करने के लिए बनाई गई है। आज, एन. ए. वी. सी. भारत को नौपरिवहन संप्रभुता प्रदान करता है कि कोई भी बाहरी शक्ति रणनीतिक तनाव की अवधि के दौरान पीछे हट नहीं सकती, निलंबित नहीं कर सकती या भू-रक्षा नहीं कर सकती है।",
+      "en": "The Indian experience with satellite navigation is the foundational case. During the 1999 Kargil conflict, India's reliance on the US-controlled Global Positioning System (GPS) created operational constraints at a moment of national-security necessity. India's institutional response was definitive. Rather than accepting indefinite dependence on a foreign-controlled strategic system, India progressively built NavIC — the Indian Regional Navigation Satellite System — as a sovereign alternative. NavIC is described by the Indian Space Research Organisation as an independent navigation system created partly to reduce dependence on foreign systems for strategic requirements. Today, NavIC provides India with navigational sovereignty that no external power can withdraw, suspend, or geofence during a period of strategic tension.",
+      "ur": "سیٹلائٹ نیویگیشن کے ساتھ ہندوستانی تجربہ بنیادی معاملہ ہے۔ 1999 کے کارگل تنازعہ کے دوران، امریکہ کے زیر کنٹرول گلوبل پوزیشننگ سسٹم (جی پی ایس) پر ہندوستان کے انحصار نے قومی سلامتی کی ضرورت کے وقت آپریشنل رکاوٹیں پیدا کیں۔ ہندوستان کا ادارہ جاتی ردعمل قطعی تھا۔ غیر ملکی زیر کنٹرول اسٹریٹجک سسٹم پر غیر معینہ مدت تک انحصار کو قبول کرنے کے بجائے، ہندوستان نے بتدریج نیویک-انڈین ریجنل نیویگیشن سیٹلائٹ سسٹم-کو ایک خودمختار متبادل کے طور پر بنایا۔ نیویک کو ہندوستانی خلائی تحقیقی تنظیم نے ایک آزاد نیویگیشن سسٹم کے طور پر بیان کیا ہے جو جزوی طور پر اسٹریٹجک ضروریات کے لیے غیر ملکی نظاموں پر انحصار کو کم کرنے کے لیے بنایا گیا ہے۔ آج، نیویک ہندوستان کو نیویگیشن خودمختاری فراہم کرتا ہے کہ کوئی بیرونی طاقت اسٹریٹجک تناؤ کے دور میں پیچھے نہیں ہٹ سکتی، معطل نہیں کر سکتی، یا جیوفینس نہیں کر سکتی۔"
+    },
+    "b18": {
+      "hi": "एन. ए. वी. आई. सी. सिद्धांत से यह स्थापित होता है कि भारत अब उपग्रह संचार पर लागू होने वाले रणनीतिक प्रारूप को स्थापित करता है। सिद्धांत नागरिक बाजारों से विदेशी प्रदाताओं को बाहर नहीं करना है। सिद्धांत रणनीतिक संप्रभुता है-भारत के लिए बुनियादी ढांचे पर परिचालन नियंत्रण बनाए रखने की क्षमता, जिसकी अखंडता से राष्ट्रीय आवश्यकता के समय समझौता नहीं किया जा सकता है। जी. पी. एस. भारतीय नागरिक उपयोगकर्ताओं की सेवा करना जारी रखता है; एन. ए. वी. आई. सी. यह सुनिश्चित करता है कि कोई भी रणनीतिक भारतीय प्रणाली इस पर निर्भर न हो। वही वास्तुशिल्प तर्क अब उपग्रह संचार के लिए भारत के दृष्टिकोण को आकार देता है।",
+      "en": "The NavIC doctrine establishes the strategic template India now applies to satellite communications. The principle is not exclusion of foreign providers from civilian markets. The principle is strategic sovereignty — the capacity for India to retain operational control over infrastructure whose integrity cannot be compromised at a moment of national need. GPS continues to serve Indian civilian users; NavIC ensures that no strategic Indian system is dependent on it. The same architectural logic now shapes India's approach to satellite communications.",
+      "ur": "نیویک کا نظریہ اسٹریٹجک ٹیمپلیٹ کو قائم کرتا ہے جو اب سیٹلائٹ مواصلات پر لاگو ہوتا ہے۔ اصول غیر ملکی فراہم کنندگان کو شہری منڈیوں سے خارج نہیں کرنا ہے۔ اصول اسٹریٹجک خودمختاری ہے-ہندوستان کے لیے بنیادی ڈھانچے پر آپریشنل کنٹرول برقرار رکھنے کی صلاحیت جس کی سالمیت سے قومی ضرورت کے وقت سمجھوتہ نہیں کیا جا سکتا۔ جی پی ایس ہندوستانی شہری صارفین کی خدمت جاری رکھے ہوئے ہے۔ نیویک اس بات کو یقینی بناتا ہے کہ کوئی اسٹریٹجک ہندوستانی نظام اس پر منحصر نہیں ہے۔ وہی تعمیراتی منطق اب سیٹلائٹ مواصلات کے بارے میں ہندوستان کے نقطہ نظر کو تشکیل دیتی ہے۔"
+    },
+    "b19.title": {
+      "hi": "भारत का ढांचा एक नज़र में",
+      "en": "India's Framework at a Glance",
+      "ur": "ہندوستان کا فریم ورک ایک نظر میں"
+    },
+    "b19.itemlbl.0": {
+      "hi": "अंतरिक्ष नियामक",
+      "en": "Space regulator",
+      "ur": "خلائی ریگولیٹر"
+    },
+    "b19.itemval.0": {
+      "hi": "आई. एन.-स्पेस (भारतीय राष्ट्रीय अंतरिक्ष संवर्धन और प्राधिकरण केंद्र)",
+      "en": "IN-SPACe (Indian National Space Promotion and Authorisation Centre)",
+      "ur": "ان-اسپیس (انڈین نیشنل اسپیس پروموشن اینڈ اتھورائزیشن سینٹر)"
+    },
+    "b19.itemlbl.1": {
+      "hi": "दूरसंचार नियामक",
+      "en": "Telecom regulator",
+      "ur": "ٹیلی کام ریگولیٹر"
+    },
+    "b19.itemval.1": {
+      "hi": "दूरसंचार विभाग (डीओटी)",
+      "en": "Department of Telecommunications (DoT)",
+      "ur": "محکمہ ٹیلی مواصلات (ڈی او ٹی)"
+    },
+    "b19.itemlbl.2": {
+      "hi": "आवेदक",
+      "en": "Applicant",
+      "ur": "درخواست گزار"
+    },
+    "b19.itemval.2": {
+      "hi": "स्टारलिंक (अमेरिका स्थित, स्पेसएक्स-संचालित)",
+      "en": "Starlink (US-based, SpaceX-operated)",
+      "ur": "اسٹار لنک (امریکہ میں مقیم، اسپیس ایکس سے چلنے والا)"
+    },
+    "b19.itemlbl.3": {
+      "hi": "आवेदन",
+      "en": "Application",
+      "ur": "درخواست"
+    },
+    "b19.itemval.3": {
+      "hi": "दूसरी पीढ़ी (जनरेशन-2) नक्षत्र, ~ 30,000 एल. ई. ओ. उपग्रह + डी2डी सेवाएँ",
+      "en": "Second-generation (Gen-2) constellation, ~30,000 LEO satellites + D2D services",
+      "ur": "دوسری نسل (جنرل-2) برج، ~ 30, 000 ایل ای او سیٹلائٹ + ڈی 2 ڈی خدمات"
+    },
+    "b19.itemlbl.4": {
+      "hi": "आवेदन की स्थिति",
+      "en": "Application status",
+      "ur": "درخواست کی حیثیت"
+    },
+    "b19.itemval.4": {
+      "hi": "लंबित; रूपरेखा को उत्तरोत्तर अंतिम रूप दिया जा रहा है",
+      "en": "Pending; framework being progressively finalised",
+      "ur": "زیر التواء ؛ فریم ورک کو بتدریج حتمی شکل دی جا رہی ہے"
+    },
+    "b19.itemlbl.5": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.5": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.6": {
+      "hi": "छह परिचालन शर्तें भारत की फ्रेमवर्क आवश्यकताएँ",
+      "en": "SIX OPERATIONAL CONDITIONS INDIA'S FRAMEWORK REQUIRES",
+      "ur": "چھ آپریشنل شرائط ہندوستان کے فریم ورک کی ضروریات"
+    },
+    "b19.itemval.6": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.7": {
+      "hi": "भारतीय नियामक शर्तों के तहत लाइसेंस",
+      "en": "Licensing under Indian regulatory terms",
+      "ur": "ہندوستانی ضابطہ جاتی شرائط کے تحت لائسنسنگ"
+    },
+    "b19.itemval.7": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.8": {
+      "hi": "भारतीय शासन के तहत स्पेक्ट्रम आवंटन",
+      "en": "Spectrum allocation under Indian governance",
+      "ur": "ہندوستانی حکمرانی کے تحت سپیکٹرم کی تقسیم"
+    },
+    "b19.itemval.8": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.9": {
+      "hi": "भारतीय अधिकार क्षेत्र में स्थित गेटवे अवसंरचना",
+      "en": "Gateway infrastructure located within Indian jurisdiction",
+      "ur": "ہندوستانی دائرہ اختیار میں واقع گیٹ وے کا بنیادی ڈھانچہ"
+    },
+    "b19.itemval.9": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.10": {
+      "hi": "परिचालन वास्तुकला में निर्मित वैध अवरोधन क्षमता",
+      "en": "Lawful interception capability built into operational architecture",
+      "ur": "آپریشنل فن تعمیر میں بنایا گیا قانونی مداخلت کی صلاحیت"
+    },
+    "b19.itemval.10": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.11": {
+      "hi": "भारतीय अधिकारियों के लिए लागू करने योग्य आपातकालीन सेवा-निलंबन शक्तियाँ",
+      "en": "Enforceable emergency service-suspension powers for Indian authorities",
+      "ur": "ہندوستانی حکام کے لیے قابل نفاذ ہنگامی خدمات-معطلی کے اختیارات"
+    },
+    "b19.itemval.11": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.12": {
+      "hi": "प्रचालक, टर्मिनल और उपयोगकर्ता पंजीकरण की सुरक्षा जांच",
+      "en": "Security vetting of operators, terminals and user registrations",
+      "ur": "آپریٹرز، ٹرمینلز اور صارف رجسٹریشن کی حفاظتی جانچ"
+    },
+    "b19.itemval.12": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.13": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.14": {
+      "hi": "ईरान का राष्ट्रपति (भारत के फ्रेमवर्क की क्या रोकथाम है)",
+      "en": "THE IRAN PRECEDENT (WHAT INDIA'S FRAMEWORK PREVENTS)",
+      "ur": "ایران کا صدر (ہندوستان کے فریم ورک کی روک تھام)"
+    },
+    "b19.itemval.14": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.15": {
+      "hi": "2022-आगे",
+      "en": "2022-onwards",
+      "ur": "2022-آگے"
+    },
+    "b19.itemval.15": {
+      "hi": "विरोध से जुड़े अभिनेताओं ने राज्य द्वारा लगाए गए इंटरनेट बंद के दौरान तस्करी किए गए स्टारलिंक टर्मिनलों का इस्तेमाल किया",
+      "en": "Protest-linked actors used smuggled Starlink terminals during state-imposed internet shutdowns",
+      "ur": "احتجاج سے منسلک اداکاروں نے ریاستی انٹرنیٹ شٹ ڈاؤن کے دوران سمگل شدہ اسٹار لنک ٹرمینلز کا استعمال کیا"
+    },
+    "b19.itemlbl.16": {
+      "hi": "परिचालन प्रभाव",
+      "en": "Operational effect",
+      "ur": "عملی اثر"
+    },
+    "b19.itemval.16": {
+      "hi": "वैध कार्यकारी बंद आदेश वैध रहे लेकिन व्यवहार में आंशिक रूप से अप्रवर्तनीय रहे।",
+      "en": "Lawful executive shutdown orders remained valid but partially unenforceable in practice",
+      "ur": "قانونی ایگزیکٹو شٹ ڈاؤن کے احکامات درست رہے لیکن عملی طور پر جزوی طور پر ناقابل عمل رہے۔"
+    },
+    "b19.itemlbl.17": {
+      "hi": "उपयोग का दायरा",
+      "en": "Scope of use",
+      "ur": "استعمال کا دائرہ کار"
+    },
+    "b19.itemval.17": {
+      "hi": "संकीर्ण लेकिन रणनीतिक रूप से महत्वपूर्ण (वीडियो अपलोड, विदेशी-मीडिया कम, बाहरी संदेश)",
+      "en": "Narrow but strategically significant (video uploads, foreign-media comms, external messaging)",
+      "ur": "تنگ لیکن حکمت عملی سے اہم (ویڈیو اپ لوڈ، غیر ملکی میڈیا کام، بیرونی پیغام رسانی)"
+    },
+    "b19.itemlbl.18": {
+      "hi": "ईरानी जवाबी कार्रवाई",
+      "en": "Iranian countermeasures",
+      "ur": "ایرانی جوابی اقدامات"
+    },
+    "b19.itemval.18": {
+      "hi": "संकेत हस्तक्षेप, अंतिम जब्ती, गिरफ्तारी",
+      "en": "Signal interference, terminal confiscation, arrests",
+      "ur": "سگنل مداخلت، ٹرمینل ضبطی، گرفتاریاں"
+    },
+    "b19.itemlbl.19": {
+      "hi": "प्रवर्तन परिणाम",
+      "en": "Enforcement outcome",
+      "ur": "نفاذ کا نتیجہ"
+    },
+    "b19.itemval.19": {
+      "hi": "भूगोल, शहरी घनत्व, एपिसोडिक टर्मिनल सक्रियण के कारण अविश्वसनीय",
+      "en": "Unreliable due to geography, urban density, episodic terminal activation",
+      "ur": "جغرافیہ، شہری کثافت، قسطوں کے ٹرمینل ایکٹیویشن کی وجہ سے ناقابل اعتماد"
+    },
+    "b19.itemlbl.20": {
+      "hi": "रणनीतिक सबक",
+      "en": "Strategic lesson",
+      "ur": "اسٹریٹجک سبق"
+    },
+    "b19.itemval.20": {
+      "hi": "राष्ट्रीय बुनियादी ढांचे के ऊपर एक विदेशी नियंत्रित उपग्रह परत संप्रभुता अंतराल पैदा करती है।",
+      "en": "A foreign-controlled satellite layer above national infrastructure creates sovereignty gaps",
+      "ur": "قومی بنیادی ڈھانچے کے اوپر غیر ملکی کنٹرول والی سیٹلائٹ پرت خودمختاری کے فرق کو پیدا کرتی ہے"
+    },
+    "b19.itemlbl.21": {
+      "hi": "भारतीय रूपरेखा प्रतिक्रिया",
+      "en": "Indian framework response",
+      "ur": "ہندوستانی فریم ورک کا ردعمل"
+    },
+    "b19.itemval.21": {
+      "hi": "लाइसेंसीकरण + पंजीकरण + वैध अवरोधन + आपातकालीन निलंबन",
+      "en": "Licensing + registration + lawful interception + emergency suspension built in",
+      "ur": "لائسنسنگ + رجسٹریشن + قانونی مداخلت + ہنگامی معطلی بلٹ ان"
+    },
+    "b19.itemlbl.22": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.22": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.23": {
+      "hi": "भारत का रणनीतिक बुनियादी ढांचा दस्तावेज़",
+      "en": "INDIA'S STRATEGIC INFRASTRUCTURE DOCTRINE",
+      "ur": "ہندوستان کا اسٹریٹجک انفراسٹرکچر دستاویز"
+    },
+    "b19.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.24": {
+      "hi": "मूलभूत मामला",
+      "en": "Foundational case",
+      "ur": "بنیادی کیس"
+    },
+    "b19.itemval.24": {
+      "hi": "कारगिल 1999 और जी. पी. एस. का अनुभव",
+      "en": "Kargil 1999 and the GPS experience",
+      "ur": "کارگل 1999 اور جی پی ایس کا تجربہ"
+    },
+    "b19.itemlbl.25": {
+      "hi": "संस्थागत प्रतिक्रिया",
+      "en": "Institutional response",
+      "ur": "ادارہ جاتی ردعمل"
+    },
+    "b19.itemval.25": {
+      "hi": "एन. ए. वी. आई. सी. स्वदेशी नौपरिवहन प्रणाली (परिचालन)",
+      "en": "NavIC indigenous navigation system (operational)",
+      "ur": "نیویک دیسی نیویگیشن سسٹم (آپریشنل)"
+    },
+    "b19.itemlbl.26": {
+      "hi": "परिचालन सिद्धांत",
+      "en": "Operational principle",
+      "ur": "عملی اصول"
+    },
+    "b19.itemval.26": {
+      "hi": "विदेशी प्रणालियों के लिए नागरिक पहुंच; रणनीतिक प्रणालियों के लिए संप्रभु नियंत्रण",
+      "en": "Civilian access for foreign systems; sovereign control for strategic ones",
+      "ur": "غیر ملکی نظاموں کے لیے شہری رسائی ؛ اسٹریٹجک نظاموں کے لیے خودمختار کنٹرول"
+    },
+    "b19.itemlbl.27": {
+      "hi": "वर्तमान अनुप्रयोग",
+      "en": "Current application",
+      "ur": "موجودہ درخواست"
+    },
+    "b19.itemval.27": {
+      "hi": "उपग्रह संचार ढांचा",
+      "en": "Satellite communications framework",
+      "ur": "سیٹلائٹ مواصلات کا فریم ورک"
+    },
+    "b19.itemlbl.28": {
+      "hi": "संदर्भ टेम्पलेट",
+      "en": "Reference template",
+      "ur": "حوالہ ٹیمپلیٹ"
+    },
+    "b19.itemval.28": {
+      "hi": "भारतीय निगरानी में भारतीय और विदेशी प्रदाताओं के साथ मिश्रित पारिस्थितिकी तंत्र",
+      "en": "Mixed ecosystem with Indian and foreign providers under Indian oversight",
+      "ur": "ہندوستانی نگرانی میں ہندوستانی اور غیر ملکی فراہم کنندگان کے ساتھ مخلوط ماحولیاتی نظام"
+    },
+    "b19.itemlbl.29": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.29": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.30": {
+      "hi": "सुरक्षा-संवेदनशील थिएटर भारत के फ्रेमवर्क संरक्षण",
+      "en": "SECURITY-SENSITIVE THEATRES INDIA'S FRAMEWORK PROTECTS",
+      "ur": "سیکورٹی حساس تھیٹر ہندوستان کے فریم ورک کے تحفظات"
+    },
+    "b19.itemval.30": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.31": {
+      "hi": "जम्मू और कश्मीर",
+      "en": "Jammu and Kashmir",
+      "ur": "جموں و کشمیر"
+    },
+    "b19.itemval.31": {
+      "hi": "जन समन्वय के खिलाफ सामरिक उपकरण के रूप में उपयोग किए जाने वाले इंटरनेट निलंबन",
+      "en": "Internet suspensions used as tactical tool against mass coordination",
+      "ur": "انٹرنیٹ کی معطلی کو بڑے پیمانے پر ہم آہنگی کے خلاف حکمت عملی کے آلے کے طور پر استعمال کیا جاتا ہے"
+    },
+    "b19.itemlbl.32": {
+      "hi": "पूर्वोत्तर",
+      "en": "Northeast",
+      "ur": "شمال مشرق"
+    },
+    "b19.itemval.32": {
+      "hi": "साम्प्रदायिक तनाव और विद्रोही आंदोलन के दौरान स्थानीय बंद का उपयोग किया जाता है",
+      "en": "Localised shutdowns used during communal tensions and insurgent mobilisation",
+      "ur": "فرقہ وارانہ کشیدگی اور باغی تحریک کے دوران استعمال ہونے والے مقامی شٹ ڈاؤن"
+    },
+    "b19.itemlbl.33": {
+      "hi": "सीमा क्षेत्र",
+      "en": "Border zones",
+      "ur": "سرحدی علاقے"
+    },
+    "b19.itemval.33": {
+      "hi": "सामरिक संचालन के दौरान संचार अनुशासन आवश्यक है",
+      "en": "Communications discipline essential during tactical operations",
+      "ur": "حکمت عملی کی کارروائیوں کے دوران مواصلات کا نظم و ضبط ضروری ہے"
+    },
+    "b19.itemlbl.34": {
+      "hi": "प्राकृतिक-आपदा प्रतिक्रिया",
+      "en": "Natural-disaster response",
+      "ur": "قدرتی آفات کا ردعمل"
+    },
+    "b19.itemval.34": {
+      "hi": "अधिकृत चैनलों के माध्यम से संचार की नियंत्रित बहाली",
+      "en": "Controlled restoration of comms through authorised channels",
+      "ur": "مجاز چینلز کے ذریعے کمیونیکیشن کی کنٹرول شدہ بحالی"
+    },
+    "b19.itemlbl.35": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.35": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.36": {
+      "hi": "स्टारलिंक का इंस्टिट्यूशनल फ़ुटप्रिंट",
+      "en": "STARLINK'S INSTITUTIONAL FOOTPRINT",
+      "ur": "سٹارلنک کا انسٹی ٹیوٹ فٹ پرنٹ"
+    },
+    "b19.itemval.36": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.37": {
+      "hi": "प्रचालक",
+      "en": "Operator",
+      "ur": "آپریٹر"
+    },
+    "b19.itemval.37": {
+      "hi": "स्पेसएक्स (अमेरिकी निजी इकाई)",
+      "en": "SpaceX (US private entity)",
+      "ur": "اسپیس ایکس (امریکی نجی ادارہ)"
+    },
+    "b19.itemlbl.38": {
+      "hi": "प्रमुख राजस्व संबंध",
+      "en": "Major revenue relationships",
+      "ur": "آمدنی کے اہم تعلقات"
+    },
+    "b19.itemval.38": {
+      "hi": "अमेरिकी रक्षा विभाग, संबद्ध खुफिया एजेंसियां, सहयोगी सेनाएँ",
+      "en": "US Department of Defense, allied intelligence agencies, allied militaries",
+      "ur": "امریکی محکمہ دفاع، اتحادی انٹیلی جنس ایجنسیاں، اتحادی فوجیں"
+    },
+    "b19.itemlbl.39": {
+      "hi": "वर्गीकृत कार्यक्रम",
+      "en": "Classified programme",
+      "ur": "درجہ بند پروگرام"
+    },
+    "b19.itemval.39": {
+      "hi": "स्टारशील्ड (स्टारलिंक नक्षत्र पर सरकार द्वारा समर्पित क्षमता)",
+      "en": "Starshield (government-dedicated capability on Starlink constellation)",
+      "ur": "اسٹارشیلڈ (اسٹار لنک برج پر حکومت کی طرف سے وقف کردہ صلاحیت)"
+    },
+    "b19.itemlbl.40": {
+      "hi": "सैद्धांतिक एकीकरण",
+      "en": "Doctrinal integration",
+      "ur": "نظریاتی انضمام"
+    },
+    "b19.itemval.40": {
+      "hi": "अमेरिका और संबद्ध सैन्य संचार सिद्धांत (यूक्रेन के बाद)",
+      "en": "US and allied military communications doctrine (post-Ukraine)",
+      "ur": "یو ایس اور اتحادی فوجی مواصلات کا نظریہ (یوکرین کے بعد)"
+    },
+    "b19.itemlbl.41": {
+      "hi": "भारत के लिए परिचालन प्रासंगिकता",
+      "en": "Operational relevance for India",
+      "ur": "ہندوستان کے لیے عملی مطابقت"
+    },
+    "b19.itemval.41": {
+      "hi": "रूपरेखा को यह मानना चाहिए कि परिचालन नियंत्रण भारतीय अधिकार क्षेत्र से बाहर है",
+      "en": "Framework must assume operational control sits outside Indian jurisdiction",
+      "ur": "فریم ورک کو یہ فرض کرنا چاہیے کہ آپریشنل کنٹرول ہندوستانی دائرہ اختیار سے باہر ہے"
+    },
+    "b19.itemlbl.42": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.42": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.43": {
+      "hi": "डी2डी प्रौद्योगिकी",
+      "en": "D2D TECHNOLOGY",
+      "ur": "ڈی 2 ڈی ٹیکنالوجی"
+    },
+    "b19.itemval.43": {
+      "hi": "भारतीय शर्तों पर यह भारत के लिए क्यों मायने रखता है",
+      "en": "WHY IT MATTERS FOR INDIA ON INDIAN TERMS",
+      "ur": "یہ ہندوستانی شرائط پر ہندوستان کے لیے کیوں اہمیت رکھتا ہے"
+    },
+    "b19.itemlbl.44": {
+      "hi": "तकनीक",
+      "en": "Technology",
+      "ur": "ٹیکنالوجی"
+    },
+    "b19.itemval.44": {
+      "hi": "डायरेक्ट-टू-डिवाइस उपग्रह-से-फोन कनेक्टिविटी (कोई अलग टर्मिनल की आवश्यकता नहीं)",
+      "en": "Direct-to-device satellite-to-phone connectivity (no separate terminal needed)",
+      "ur": "ڈائریکٹ ٹو ڈیوائس سیٹلائٹ ٹو فون کنیکٹیویٹی (کوئی علیحدہ ٹرمینل کی ضرورت نہیں)"
+    },
+    "b19.itemlbl.45": {
+      "hi": "ग्रामीण लाभ",
+      "en": "Rural benefit",
+      "ur": "دیہی فوائد"
+    },
+    "b19.itemval.45": {
+      "hi": "दूरदराज के इलाकों में मोबाइल कवरेज जहां फाइबर और टावर अव्यवहारिक हैं",
+      "en": "Mobile coverage in remote terrain where fibre and towers are impractical",
+      "ur": "دور دراز علاقوں میں موبائل کوریج جہاں فائبر اور ٹاور ناقابل عمل ہیں"
+    },
+    "b19.itemlbl.46": {
+      "hi": "आपदा-प्रतिक्रिया लाभ",
+      "en": "Disaster-response benefit",
+      "ur": "آفات سے ردعمل کے فوائد"
+    },
+    "b19.itemval.46": {
+      "hi": "भूकंप, बाढ़, चक्रवात के बाद संचार बुनियादी ढांचे को नुकसान पहुंचाता है",
+      "en": "Communications after earthquakes, floods, cyclones damage infrastructure",
+      "ur": "زلزلوں، سیلاب، طوفانوں کے بعد مواصلات سے بنیادی ڈھانچے کو نقصان پہنچا"
+    },
+    "b19.itemlbl.47": {
+      "hi": "समुद्री लाभ",
+      "en": "Maritime benefit",
+      "ur": "سمندری فوائد"
+    },
+    "b19.itemval.47": {
+      "hi": "विशेष आर्थिक क्षेत्र में भारतीय जहाजों के लिए कवरेज",
+      "en": "Coverage for Indian ships across Exclusive Economic Zone",
+      "ur": "خصوصی اقتصادی زون میں ہندوستانی جہازوں کے لیے کوریج"
+    },
+    "b19.itemlbl.48": {
+      "hi": "सीमा लाभ",
+      "en": "Border benefit",
+      "ur": "سرحدی فوائد"
+    },
+    "b19.itemval.48": {
+      "hi": "कठिन उत्तरी और पूर्वोत्तर इलाकों में संचार",
+      "en": "Communications across difficult northern and northeastern terrain",
+      "ur": "مشکل شمالی اور شمال مشرقی خطوں میں مواصلات"
+    },
+    "b19.itemlbl.49": {
+      "hi": "संचालन की स्थिति",
+      "en": "Operational condition",
+      "ur": "عملی حالت"
+    },
+    "b19.itemval.49": {
+      "hi": "भारत के लाइसेंसिंग + वैध-हस्तक्षेप ढांचे के तहत प्राप्त सभी लाभ",
+      "en": "All benefits captured under India's licensing + lawful-interception framework",
+      "ur": "ہندوستان کے لائسنسنگ + قانونی مداخلت کے فریم ورک کے تحت حاصل کردہ تمام فوائد"
+    },
+    "b20.q": {
+      "hi": "\"चिंता यह नहीं है कि लोग बंद के दौरान इंटरनेट का उपयोग कर सकते हैं। चिंता यह है कि भारत सरकार के एक वैध कार्यकारी आदेश को व्यवहार में, एक विदेशी वाणिज्यिक उपग्रह नेटवर्क द्वारा रद्द किया जा सकता है। भारत का लाइसेंस, वैध-हस्तक्षेप और आपातकालीन-निलंबन ढांचा विशेष रूप से यह सुनिश्चित करने के लिए बनाया जा रहा है कि ईरान की मिसाल यहां दोहराई न जाए।\"",
+      "en": "\"The concern is not that people might access the internet during a shutdown. The concern is that a lawful executive order of the Government of India could, in practice, be nullified by a foreign commercial satellite network. India's licensing, lawful-interception and emergency-suspension framework is being built specifically to ensure that the Iran precedent is not repeated here.\"",
+      "ur": "\"تشویش یہ نہیں ہے کہ لوگ شٹ ڈاؤن کے دوران انٹرنیٹ تک رسائی حاصل کر سکتے ہیں۔ تشویش یہ ہے کہ حکومت ہند کے ایک قانونی انتظامی حکم کو عملی طور پر غیر ملکی تجارتی سیٹلائٹ نیٹ ورک کے ذریعے کالعدم قرار دیا جا سکتا ہے۔ ہندوستان کا لائسنسنگ، قانونی مداخلت اور ہنگامی معطلی کا فریم ورک خاص طور پر اس بات کو یقینی بنانے کے لیے بنایا جا رہا ہے کہ ایران کی مثال یہاں دہرائی نہ جائے۔\""
+    },
+    "b20.c": {
+      "hi": "- भारत के नियामक दृष्टिकोण के परिचालन तर्क पर",
+      "en": "— On the operational logic of India's regulatory approach",
+      "ur": "- ہندوستان کے ریگولیٹری نقطہ نظر کی آپریشنل منطق پر"
+    },
+    "b21": {
+      "hi": "भारत का ढांचा संप्रभुता के हर सवाल का जवाब क्यों देता है",
+      "en": "Why India's framework answers each sovereignty question",
+      "ur": "ہندوستان کا ڈھانچہ خودمختاری کے ہر سوال کا جواب کیوں دیتا ہے"
+    },
+    "b22": {
+      "hi": "स्टारलिंक के आवेदन द्वारा उठाए गए रणनीतिक प्रश्न ठीक वही प्रश्न हैं जो भारत के नियामक ढांचे को भारत के पक्ष में जवाब देने के लिए बनाया गया है। प्रत्येक प्रश्न का एक स्पष्ट परिचालन जवाब होता है, और साथ में वे विशिष्ट सुरक्षा उपायों को स्थापित करते हैं जो ईरान की मिसाल से पता चलता है कि परिचालन रूप से आवश्यक हैं।",
+      "en": "The strategic questions raised by Starlink's application are precisely the questions India's regulatory framework is designed to answer in India's favour. Each question has a clear operational response, and together they establish the specific safeguards that the Iran precedent demonstrates are operationally necessary.",
+      "ur": "اسٹار لنک کی درخواست کے ذریعے اٹھائے گئے اسٹریٹجک سوالات بالکل وہی سوالات ہیں جو ہندوستان کے ریگولیٹری فریم ورک کو ہندوستان کے حق میں جواب دینے کے لیے ڈیزائن کیا گیا ہے۔ ہر سوال کا واضح آپریشنل جواب ہوتا ہے، اور وہ مل کر مخصوص حفاظتی اقدامات قائم کرتے ہیں جو ایران کی مثال سے ظاہر ہوتے ہیں کہ عملی طور پر ضروری ہیں۔"
+    },
+    "b23": {
+      "hi": "सबसे पहले, क्या भारतीय अधिकारी किसी आपात स्थिति के दौरान किसी विशेष क्षेत्र में सेवा को निलंबित करने के लिए उपग्रह संचालक को आदेश दे सकते हैं, और क्या इस तरह के आदेश को तकनीकी रूप से लागू किया जा सकता है? भारत के ढांचे के लिए आवश्यक है कि किसी विदेशी उपग्रह संचालक को परिचालन प्राधिकरण के किसी भी अनुदान में लागू करने योग्य आपातकालीन शक्तियां शामिल हों। नियामक अनुदान स्वयं प्रवर्तन तंत्र बन जाता है-भारतीय बाजार में भर्ती एक संचालक परिचालन शर्तों को निरंतर बाजार पहुंच की शर्त के रूप में स्वीकार करता है, जिसमें लाइसेंस लाभ बिंदु के रूप में होता है।",
+      "en": "First, can Indian authorities order a satellite operator to suspend service over a particular area during an emergency, and can such an order be technically enforced? India's framework requires that any grant of operational authorisation to a foreign satellite operator include enforceable emergency powers. The regulatory grant itself becomes the enforcement mechanism — an operator admitted to the Indian market accepts the operational conditions as a condition of continued market access, with the licence as the leverage point.",
+      "ur": "سب سے پہلے، کیا ہندوستانی حکام کسی سیٹلائٹ آپریٹر کو کسی ہنگامی صورتحال کے دوران کسی خاص علاقے پر سروس معطل کرنے کا حکم دے سکتے ہیں، اور کیا اس طرح کے حکم کو تکنیکی طور پر نافذ کیا جا سکتا ہے؟ ہندوستان کے فریم ورک کے لیے ضروری ہے کہ کسی غیر ملکی سیٹلائٹ آپریٹر کو آپریشنل اجازت کی کسی بھی گرانٹ میں قابل نفاذ ہنگامی اختیارات شامل ہوں۔ ریگولیٹری گرانٹ خود نفاذ کا طریقہ کار بن جاتا ہے-ہندوستانی مارکیٹ میں داخل ہونے والا آپریٹر آپریشنل شرائط کو مارکیٹ تک مسلسل رسائی کی شرط کے طور پر قبول کرتا ہے، جس میں لائسنس بطور لیوریج پوائنٹ ہوتا ہے۔"
+    },
+    "b24": {
+      "hi": "दूसरा, भारतीय उपयोगकर्ताओं द्वारा उत्पन्न यातायात स्थलीय दूरसंचार नेटवर्क में कहाँ प्रवेश करता है, और संबंधित रिकॉर्ड कहाँ संग्रहीत किए जाते हैं? भारत के ढांचे के लिए आवश्यक है कि भारतीय उपयोगकर्ताओं की सेवा करने वाले गेटवे अर्थ स्टेशन भारतीय अधिकार क्षेत्र में स्थित हों, भारतीय नियामक निरीक्षण के तहत काम करें, और वैध प्रक्रिया के तहत भारतीय अधिकारियों के लिए सुलभ बुनियादी ढांचे के माध्यम से भारतीय उपयोगकर्ता यातायात को रूट करें। ईरानी अनुभव दर्शाता है कि क्या होता है जब गेटवे बुनियादी ढांचा पूरी तरह से राष्ट्रीय नियामक परिधि से बाहर बैठता है; भारत का ढांचा विशेष रूप से उस परिणाम को रोकता है।",
+      "en": "Second, where does traffic generated by Indian users enter the terrestrial telecom network, and where are associated records stored? India's framework requires that gateway earth stations serving Indian users be located within Indian jurisdiction, operate under Indian regulatory oversight, and route Indian user traffic through infrastructure accessible to Indian authorities under lawful process. The Iranian experience demonstrates what happens when gateway infrastructure sits entirely outside the national regulatory perimeter; India's framework specifically prevents that outcome.",
+      "ur": "دوسرا، ہندوستانی صارفین کی طرف سے پیدا ہونے والا ٹریفک زمینی ٹیلی کام نیٹ ورک میں کہاں داخل ہوتا ہے، اور اس سے وابستہ ریکارڈ کہاں محفوظ ہوتے ہیں؟ ہندوستان کے فریم ورک کے لیے ضروری ہے کہ ہندوستانی صارفین کی خدمت کرنے والے گیٹ وے ارتھ اسٹیشن ہندوستانی دائرہ اختیار میں ہوں، ہندوستانی ریگولیٹری نگرانی کے تحت کام کریں، اور ہندوستانی صارف ٹریفک کو ان بنیادی ڈھانچوں کے ذریعے روٹ کریں جو قانونی عمل کے تحت ہندوستانی حکام کے لیے قابل رسائی ہوں۔ ایرانی تجربہ یہ ظاہر کرتا ہے کہ جب گیٹ وے کا بنیادی ڈھانچہ مکمل طور پر قومی ریگولیٹری دائرے سے باہر ہوتا ہے تو کیا ہوتا ہے ؛ ہندوستان کا فریم ورک خاص طور پر اس نتیجے کو روکتا ہے۔"
+    },
+    "b25": {
+      "hi": "तीसरा, क्या भारतीय एजेंसियां भारतीय कानून के तहत आवश्यक डेटा प्राप्त कर सकती हैं और वैध अवरोधन कर सकती हैं? भारत के ढांचे के लिए आवश्यक है कि भारतीय उपयोगकर्ताओं की सेवा करने वाली किसी भी उपग्रह सेवा के परिचालन ढांचे में वैध अवरोधन क्षमता का निर्माण किया जाए। बाजार में प्रवेश के बाद शर्त पर बातचीत नहीं की जाती है; यह प्रवेश के लिए एक पूर्व शर्त है।",
+      "en": "Third, can Indian agencies obtain data and conduct lawful interception as required under Indian law? India's framework requires that lawful interception capability be built into the operational architecture of any satellite service serving Indian users. The condition is not negotiated after admission to the market; it is a prerequisite for admission.",
+      "ur": "تیسرا، کیا ہندوستانی ایجنسیاں ڈیٹا حاصل کر سکتی ہیں اور ہندوستانی قانون کے تحت ضرورت کے مطابق قانونی مداخلت کر سکتی ہیں؟ ہندوستان کے فریم ورک کے لیے ضروری ہے کہ ہندوستانی صارفین کی خدمت کرنے والی کسی بھی سیٹلائٹ سروس کے آپریشنل فن تعمیر میں قانونی مداخلت کی صلاحیت کو بنایا جائے۔ مارکیٹ میں داخلے کے بعد شرط پر بات چیت نہیں کی جاتی ہے۔ یہ داخلے کے لیے ایک شرط ہے۔"
+    },
+    "b26": {
+      "hi": "चौथा, भारतीय क्षेत्र में सेवा देने वाले उपग्रहों के तकनीकी विन्यास को कौन नियंत्रित करता है यदि कोई भारतीय आपातकालीन निर्देश उसके घरेलू अधिकार क्षेत्र में ऑपरेटर के दायित्वों के साथ टकराव करता है? भारत का ढांचा इसका जवाब यह स्पष्ट रूप से स्थापित करता है कि भारतीय बाजार तक पहुंच की मांग करने वाला ऑपरेटर भारतीय परिचालन निर्देशों को बाध्यकारी के रूप में स्वीकार करता है, जिसमें प्रवर्तन तंत्र को बाजार तक पहुंच जारी रखी जाती है। ईरानी मामला इस प्रश्न को अस्पष्ट छोड़ने की परिचालन लागत को दर्शाता है; भारत का ढांचा इसे पहले से हल करता है।",
+      "en": "Fourth, who controls the technical configuration of satellites serving Indian territory if an Indian emergency directive conflicts with the operator's obligations in its home jurisdiction? India's framework answers this by establishing clearly that an operator seeking Indian market access accepts Indian operational directives as binding, with the enforcement mechanism being continued market access itself. The Iranian case demonstrates the operational cost of leaving this question ambiguous; India's framework resolves it in advance.",
+      "ur": "چوتھا، اگر ہندوستانی ہنگامی ہدایت اپنے آبائی دائرہ اختیار میں آپریٹر کی ذمہ داریوں سے متصادم ہے تو ہندوستانی علاقے میں خدمات انجام دینے والے سیٹلائٹ کی تکنیکی ترتیب کو کون کنٹرول کرتا ہے؟ ہندوستان کا فریم ورک اس کا جواب واضح طور پر یہ ثابت کرتا ہے کہ ہندوستانی مارکیٹ تک رسائی حاصل کرنے والا آپریٹر ہندوستانی آپریشنل ہدایات کو پابند کے طور پر قبول کرتا ہے، جس میں نفاذ کے طریقہ کار کو مارکیٹ تک رسائی جاری رکھی جاتی ہے۔ ایرانی معاملہ اس سوال کو مبہم چھوڑنے کی آپریشنل لاگت کو ظاہر کرتا ہے ؛ ہندوستان کا فریم ورک اسے پہلے ہی حل کر دیتا ہے۔"
+    },
+    "b27": {
+      "hi": "पाँचवाँ, राष्ट्रीय नियामक परिधि के भीतर टर्मिनलों और उपयोगकर्ताओं को कैसे ट्रैक किया जाता है? भारत के ढांचे के लिए भारतीय लाइसेंस के तहत टर्मिनलों और उपयोगकर्ताओं के पंजीकरण की आवश्यकता होती है, जिसमें संविदात्मक दायित्व और ज्ञात स्वामित्व होता है। ईरान में संचालित प्रकार के अपंजीकृत या तस्करी वाले टर्मिनल, भारत के ढांचे के तहत, शुरू से ही अधिकृत परिचालन परिधि से बाहर होंगे-प्रवर्तन को पूर्वव्यापी जवाबी उपाय के बजाय प्रथम क्रम नियामक प्राधिकरण का मामला बनाते हैं।",
+      "en": "Fifth, how are terminals and users tracked within the national regulatory perimeter? India's framework requires registration of terminals and users under Indian licensing, with contractual obligations and known ownership. Unregistered or smuggled terminals of the type that operated in Iran would, under India's framework, fall outside the authorised operational perimeter from the start — making enforcement a matter of first-order regulatory authority rather than retrospective counter-measure.",
+      "ur": "پانچواں، ٹرمینلز اور صارفین کو قومی ریگولیٹری دائرے کے اندر کیسے ٹریک کیا جاتا ہے؟ ہندوستان کے فریم ورک میں ہندوستانی لائسنسنگ کے تحت ٹرمینلز اور صارفین کی رجسٹریشن کی ضرورت ہوتی ہے، جس میں معاہدہ کی ذمہ داریاں اور معروف ملکیت ہوتی ہے۔ ایران میں چلنے والے اس قسم کے غیر رجسٹرڈ یا اسمگل شدہ ٹرمینلز، ہندوستان کے فریم ورک کے تحت، شروع سے ہی مجاز آپریشنل دائرے سے باہر ہوں گے-جس سے نفاذ کو سابقہ جوابی اقدام کے بجائے فرسٹ آرڈر ریگولیٹری اتھارٹی کا معاملہ بنا دیا جائے گا۔"
+    },
+    "b28": {
+      "hi": "सुरक्षा के प्रति संवेदनशील सिनेमाघर और बंद का सवाल",
+      "en": "Security-sensitive theatres and the shutdown question",
+      "ur": "سیکورٹی حساس تھیٹر اور شٹ ڈاؤن کا سوال"
+    },
+    "b29": {
+      "hi": "भारत के ढांचे की संप्रभुता का महत्व जम्मू-कश्मीर और पूर्वोत्तर जैसे सुरक्षा-संवेदनशील क्षेत्रों में विशेष रूप से है, जहां इंटरनेट निलंबन का उपयोग जन समन्वय को बाधित करने, धीमी गति से जुटने, अफवाहों को रोकने और सुरक्षा अभियानों या सांप्रदायिक तनाव की अवधि के दौरान बल की तैनाती के लिए समय निकालने के लिए एक सामरिक उपकरण के रूप में किया गया है। ये बंद आमतौर पर स्थानीय, समयबद्ध और सामरिक होते हैं-स्थायी सूचना नियंत्रण के प्रयास नहीं। उनकी परिचालन प्रभावशीलता प्रभावित क्षेत्र के भीतर संचार बुनियादी ढांचे पर भारतीय राज्य के नियामक एकाधिकार पर निर्भर करती है।",
+      "en": "The sovereignty logic of India's framework carries particular weight in security-sensitive theatres such as Jammu and Kashmir and the Northeast, where internet suspensions have been used as a tactical tool to disrupt mass coordination, slow mobilisation, prevent rumour cascades, and buy time for force deployment during periods of security operations or communal tension. These shutdowns are typically localised, time-bound, and tactical — not attempts at permanent information control. Their operational effectiveness depends on the Indian state's regulatory monopoly over communications infrastructure within the affected territory.",
+      "ur": "ہندوستان کے فریم ورک کی خودمختاری منطق جموں و کشمیر اور شمال مشرق جیسے سیکورٹی حساس تھیٹروں میں خاص طور پر اہمیت رکھتی ہے، جہاں انٹرنیٹ کی معطلی کو بڑے پیمانے پر ہم آہنگی کو متاثر کرنے، سست رفتار سے متحرک کرنے، افواہوں کے جھرنوں کو روکنے، اور سیکیورٹی آپریشنز یا فرقہ وارانہ کشیدگی کے دوران طاقت کی تعیناتی کے لیے وقت خریدنے کے لیے ایک حکمت عملی کے آلے کے طور پر استعمال کیا گیا ہے۔ یہ شٹ ڈاؤن عام طور پر مقامی، مقررہ وقت پر اور حکمت عملی پر مبنی ہوتے ہیں-مستقل معلومات پر قابو پانے کی کوششیں نہیں۔ ان کی آپریشنل تاثیر کا انحصار متاثرہ علاقے کے اندر مواصلاتی انفراسٹرکچر پر ہندوستانی ریاست کی ریگولیٹری اجارہ داری پر ہوتا ہے۔"
+    },
+    "b30": {
+      "hi": "ईरानी अनुभव परिचालन रूप से दर्शाता है कि क्या होता है जब वह नियामक एकाधिकार अधूरा होता है। एक बार जब राज्य के ऊपर एक वैकल्पिक भौतिक संचार परत मौजूद हो जाती है-राष्ट्रीय नियामक संरचना के बाहर काम करना-तो बंद करने के आदेश कानूनी रूप से वैध रह सकते हैं, जबकि परिचालन रूप से लीक हो जाते हैं। भारत के लिए, विशिष्ट रणनीतिक आवश्यकता यह है कि भारतीय क्षेत्र में काम करने के लिए अधिकृत किसी भी उपग्रह संचार सेवा को राष्ट्रीय नियामक संरचना में पूरी तरह से एकीकृत किया जाना चाहिए, जिसमें आपातकालीन-निलंबन शक्तियां शामिल हैं जो स्थानीय बंद को उनके परिचालन प्रभाव देते हैं।",
+      "en": "The Iranian experience operationally demonstrates what happens when that regulatory monopoly is incomplete. Once an alternative physical communications layer exists above the state — operating outside the national regulatory architecture — shutdown orders can remain legally valid while becoming operationally leaky. For India, the specific strategic requirement is that any satellite communications service authorised to operate in Indian territory must be fully integrated into the national regulatory architecture, including the emergency-suspension powers that give localised shutdowns their operational effect.",
+      "ur": "ایرانی تجربہ عملی طور پر ظاہر کرتا ہے کہ جب وہ ریگولیٹری اجارہ داری نامکمل ہوتی ہے تو کیا ہوتا ہے۔ ایک بار جب ریاست کے اوپر ایک متبادل فزیکل کمیونیکیشن پرت موجود ہو جاتی ہے-جو قومی ریگولیٹری فن تعمیر سے باہر کام کرتی ہے-تو شٹ ڈاؤن کے احکامات قانونی طور پر درست رہ سکتے ہیں جبکہ عملی طور پر لیک ہو جاتے ہیں۔ ہندوستان کے لیے، مخصوص اسٹریٹجک ضرورت یہ ہے کہ ہندوستانی علاقے میں کام کرنے کے لیے مجاز کسی بھی سیٹلائٹ کمیونیکیشن سروس کو قومی ریگولیٹری فن تعمیر میں مکمل طور پر ضم کیا جانا چاہیے، بشمول ہنگامی معطلی کے اختیارات جو مقامی شٹ ڈاؤن کو ان کے آپریشنل اثر دیتے ہیں۔"
+    },
+    "b31": {
+      "hi": "भारत का ढांचा ठीक यही काम करता है। भारतीय लाइसेंस के तहत अधिकृत एक उपग्रह संचालक-नियामक डिजाइन के माध्यम से-भारतीय क्षेत्र में भारतीय नियामक परिधि के बाहर काम नहीं कर सकता है। ढांचा उत्तरोत्तर यह सुनिश्चित करता है कि ईरानी मिसाल भारतीय मिसाल न बने।",
+      "en": "India's framework delivers exactly this. A satellite operator authorised under Indian licensing cannot — through regulatory design — operate in Indian territory outside the Indian regulatory perimeter. The framework progressively ensures that the Iranian precedent does not become an Indian precedent.",
+      "ur": "ہندوستان کا فریم ورک بالکل ایسا ہی کرتا ہے۔ ہندوستانی لائسنسنگ کے تحت مجاز سیٹلائٹ آپریٹر-ریگولیٹری ڈیزائن کے ذریعے-ہندوستانی ریگولیٹری دائرے سے باہر ہندوستانی علاقے میں کام نہیں کر سکتا۔ فریم ورک بتدریج اس بات کو یقینی بناتا ہے کہ ایرانی مثال ہندوستانی مثال نہ بنے۔"
+    },
+    "b32": {
+      "hi": "डी2डी लाभ-भारतीय शर्तों पर कब्जा किया गया",
+      "en": "D2D benefits — captured on Indian terms",
+      "ur": "ڈی 2 ڈی فوائد-ہندوستانی شرائط پر قبضہ"
+    },
+    "b33": {
+      "hi": "भारत का ढांचा न केवल जोखिमों को रोकने के लिए बनाया गया है, बल्कि भारतीय शर्तों पर, भारतीय निरीक्षण के तहत, भारतीय अधिकारियों के संचालन नियंत्रण को बनाए रखने के साथ उत्तरोत्तर लाभ प्राप्त करने के लिए बनाया गया है।",
+      "en": "India's framework is designed not merely to prevent risks but to progressively capture benefits — on Indian terms, under Indian oversight, with Indian authorities retaining operational control.",
+      "ur": "ہندوستان کا فریم ورک نہ صرف خطرات کو روکنے کے لیے بنایا گیا ہے بلکہ بتدریج فوائد حاصل کرنے کے لیے بنایا گیا ہے-ہندوستانی شرائط پر، ہندوستانی نگرانی میں، ہندوستانی حکام کے آپریشنل کنٹرول کو برقرار رکھتے ہوئے۔"
+    },
+    "b34": {
+      "hi": "भारत के ग्रामीण और दूरस्थ संपर्क वास्तुकला के लिए, डी2डी उत्तरोत्तर उन इलाकों में मोबाइल कवरेज की संभावना को खोलता है जहां स्थलीय फाइबर और टावर बुनियादी ढांचे को तैनात करना काफी अव्यवहारिक है-हिमालयी क्षेत्र के पहाड़ी क्षेत्र, पूर्वोत्तर के घने वन क्षेत्र, अंडमान और निकोबार और लक्षद्वीप क्षेत्रों के दूरदराज के द्वीप और पश्चिमी सीमा के रेगिस्तानी क्षेत्र। भारत की आपदा-प्रतिक्रिया वास्तुकला के लिए, डी2डी एक सहायक परत प्रदान करता है जब प्राकृतिक आपदाएं पारंपरिक संचार बुनियादी ढांचे को नुकसान पहुंचाती हैं। भारत की समुद्री सुरक्षा वास्तुकला के लिए, डी2डी उत्तरोत्तर देश के पर्याप्त विशेष आर्थिक क्षेत्र में मोबाइल कनेक्टिविटी का विस्तार करता है। भारत की सीमा सुरक्षा वास्तुकला के लिए, डी2डी उत्तरी और पूर्वोत्तर सीमाओं में कठिन इलाकों में संचार निरंतरता प्रदान करता है।",
+      "en": "For India's rural and remote connectivity architecture, D2D progressively opens the possibility of mobile coverage in terrain where terrestrial fibre and tower infrastructure are substantially impractical to deploy — mountainous regions of the Himalayan belt, dense forest areas of the Northeast, remote islands of the Andaman and Nicobar and Lakshadweep territories, and desert zones of the western frontier. For India's disaster-response architecture, D2D provides a backup layer when natural disasters damage conventional communications infrastructure. For India's maritime security architecture, D2D progressively extends mobile connectivity across the country's substantial Exclusive Economic Zone. For India's border security architecture, D2D provides communications continuity across difficult terrain in the northern and northeastern frontiers.",
+      "ur": "ہندوستان کے دیہی اور دور دراز کنیکٹوٹی فن تعمیر کے لیے، ڈی 2 ڈی بتدریج ان علاقوں میں موبائل کوریج کے امکان کو کھولتا ہے جہاں زمینی فائبر اور ٹاور کا بنیادی ڈھانچہ تعینات کرنا کافی حد تک ناقابل عمل ہے-ہمالیائی پٹی کے پہاڑی علاقے، شمال مشرق کے گھنے جنگلاتی علاقے، انڈمان و نکوبار اور لکشدیپ کے دور دراز جزائر اور مغربی سرحد کے صحرا کے علاقے۔ ہندوستان کے آفات سے نمٹنے کے فن تعمیر کے لیے، ڈی 2 ڈی ایک بیک اپ پرت فراہم کرتا ہے جب قدرتی آفات روایتی مواصلاتی بنیادی ڈھانچے کو نقصان پہنچاتے ہیں۔ ہندوستان کے سمندری سلامتی فن تعمیر کے لیے، ڈی 2 ڈی بتدریج ملک کے کافی خصوصی اقتصادی زون میں موبائل کنیکٹوٹی کو بڑھاتا ہے۔ ہندوستان کے سرحدی حفاظتی فن تعمیر کے لیے، ڈی 2 ڈی شمالی اور شمال مشرقی سرحدوں میں مشکل علاقوں میں مواصلاتی تسلسل فراہم کرتا ہے۔"
+    },
+    "b35": {
+      "hi": "ये वास्तविक लाभ हैं। भारत का नियामक ढांचा भारतीय उपयोगकर्ताओं के लिए उन्हें पकड़ने के लिए बनाया गया है-भारतीय शर्तों पर, भारतीय निरीक्षण के तहत, उस वास्तुकला में निर्मित कानूनी-हस्तक्षेप और आपातकालीन-निलंबन शक्तियों के साथ जिसके माध्यम से लाभ दिए जाते हैं।",
+      "en": "These are real benefits. India's regulatory framework is designed precisely to capture them for Indian users — on Indian terms, under Indian oversight, with lawful-interception and emergency-suspension powers built into the architecture through which the benefits are delivered.",
+      "ur": "یہ حقیقی فوائد ہیں۔ ہندوستان کا ریگولیٹری فریم ورک ہندوستانی صارفین کے لیے ہندوستانی شرائط پر، ہندوستانی نگرانی کے تحت، قانونی مداخلت اور ہنگامی معطلی کے اختیارات کے ساتھ جس کے ذریعے فوائد فراہم کیے جاتے ہیں، ان کو حاصل کرنے کے لیے بالکل تیار کیا گیا ہے۔"
+    },
+    "b36": {
+      "hi": "मिश्रित पारिस्थितिकी तंत्र लाभ-डिजाइन द्वारा अतिरेक",
+      "en": "The mixed-ecosystem advantage — redundancy by design",
+      "ur": "مخلوط ماحولیاتی نظام کا فائدہ-ڈیزائن کے لحاظ سے بے کار پن"
+    },
+    "b37": {
+      "hi": "स्टारलिंक के लिए भारत का नियामक दृष्टिकोण एक व्यापक नीतिगत अंतर्दृष्टि को दर्शाता है जो भारत को एक पर्याप्त रणनीतिक लाभ देता हैः कोई भी महत्वपूर्ण संचार कार्य किसी भी एकल प्रदाता, विदेशी या घरेलू पर निर्भर नहीं होना चाहिए।",
+      "en": "India's regulatory approach to Starlink reflects a wider policy insight that gives India a substantial strategic advantage: no critical communications function should depend on any single provider, foreign or domestic.",
+      "ur": "اسٹار لنک کے لیے ہندوستان کا ریگولیٹری نقطہ نظر ایک وسیع تر پالیسی بصیرت کی عکاسی کرتا ہے جو ہندوستان کو کافی اسٹریٹجک فائدہ دیتا ہے: کوئی بھی اہم مواصلاتی کام کسی ایک فراہم کنندہ، غیر ملکی یا ملکی پر منحصر نہیں ہونا چاہیے۔"
+    },
+    "b38": {
+      "hi": "भारत स्टारलिंक और अनुपस्थित उपग्रह संचार क्षमता के बीच चयन नहीं कर रहा है। कई भारतीय उपग्रह संचार प्रदाता पहले से ही कार्यरत हैं-जिसमें एल. ई. ओ. नक्षत्र क्षमता और अपनी खुद की डी2डी सेवाओं का अनुसरण करने वाले घरेलू समूह शामिल हैं। वैश्विक स्तर पर, कई उपग्रह नक्षत्र संचालक विकास और तैनाती के विभिन्न चरणों में हैं। भारत की रूपरेखा उत्तरोत्तर इन्हें एक मिश्रित-पारिस्थितिकी तंत्र संरचना में एकीकृत करती है जहां अतिरेक स्वयं परिचालन सुरक्षा है। यदि किसी भी एकल प्रदाता-विदेशी या भारतीय-को परिचालन व्यवधान, वाणिज्यिक विफलता, अपने घरेलू अधिकार क्षेत्र में नियामक मंजूरी या भारत के साथ रणनीतिक तनाव का सामना करना पड़ता है, तो भारतीय उपग्रह संचार संरचना अपने शेष प्रदाताओं के माध्यम से काम करना जारी रखती है।",
+      "en": "India is not choosing between Starlink and absent satellite communications capability. Multiple Indian satellite communications providers are already operational — including domestic consortia pursuing LEO constellation capacity and D2D services of their own. Globally, multiple satellite constellation operators are at various stages of development and deployment. India's framework progressively integrates these into a mixed-ecosystem architecture where redundancy itself is the operational safeguard. If any single provider — foreign or Indian — faces operational disruption, commercial failure, regulatory sanction in its home jurisdiction, or strategic tension with India, the Indian satellite communications architecture continues to operate through its remaining providers.",
+      "ur": "ہندوستان اسٹار لنک اور غیر حاضر سیٹلائٹ مواصلاتی صلاحیت کے درمیان انتخاب نہیں کر رہا ہے۔ متعدد ہندوستانی سیٹلائٹ مواصلاتی فراہم کنندگان پہلے سے ہی کام کر رہے ہیں-بشمول ایل ای او نکشتر کی صلاحیت کا تعاقب کرنے والے گھریلو کنسورشیا اور اپنی ڈی 2 ڈی خدمات۔ عالمی سطح پر، متعدد سیٹلائٹ نکشتر آپریٹرز ترقی اور تعیناتی کے مختلف مراحل میں ہیں۔ ہندوستان کا فریم ورک بتدریج انہیں ایک مخلوط ماحولیاتی نظام کے ڈھانچے میں ضم کرتا ہے جہاں بے کار پن خود آپریشنل تحفظ ہے۔ اگر کسی ایک فراہم کنندہ-غیر ملکی یا ہندوستانی-کو آپریشنل خلل، تجارتی ناکامی، اپنے آبائی دائرہ اختیار میں ریگولیٹری منظوری، یا ہندوستان کے ساتھ اسٹریٹجک تناؤ کا سامنا کرنا پڑتا ہے تو ہندوستانی سیٹلائٹ مواصلاتی فن تعمیر اپنے باقی فراہم کنندگان کے ذریعے کام کرتا رہتا ہے۔"
+    },
+    "b39": {
+      "hi": "यह डिजाइन द्वारा रणनीतिक लचीलापन है। यह संचार क्षेत्र में एन. ए. वी. आई. सी. सिद्धांत का परिचालन अनुवाद भी है। भारत भारतीय रणनीतिक क्षमता को बनाए रखता है। विदेशी ऑपरेटरों का नागरिक बाजार में स्वागत किया जाता है। न तो यह इस हद तक हावी है कि उनकी वापसी, सेवा से इनकार, या परिचालन संबंधी गलत संरेखण भारतीय राष्ट्रीय क्षमता को पंगु बना सकता है।",
+      "en": "This is strategic resilience by design. It is also the operational translation of the NavIC doctrine into the communications domain. India maintains Indian strategic capacity. Foreign operators are welcomed into the civilian market. Neither dominates to the point where their withdrawal, denial of service, or operational misalignment could cripple Indian national capability.",
+      "ur": "یہ ڈیزائن کے لحاظ سے اسٹریٹجک لچک ہے۔ یہ مواصلاتی شعبے میں نیویک نظریے کا عملی ترجمہ بھی ہے۔ ہندوستان ہندوستانی اسٹریٹجک صلاحیت کو برقرار رکھتا ہے۔ غیر ملکی آپریٹرز کا شہری بازار میں خیرمقدم کیا جاتا ہے۔ نہ ہی اس حد تک غالب ہے جہاں ان کی واپسی، سروس سے انکار، یا آپریشنل غلط صف بندی ہندوستانی قومی صلاحیت کو اپاہج بنا سکتی ہے۔"
+    },
+    "b40": {
+      "hi": "यह क्या संकेत देता है",
+      "en": "What it signals",
+      "ur": "یہ کیا اشارہ کرتا ہے"
+    },
+    "b41": {
+      "hi": "भारत के संचार बुनियादी ढांचे के लिए, स्टारलिंक एप्लिकेशन उत्तरोत्तर एक ऐसे ढांचे का परीक्षण करता है जिसे भारत की शर्तों पर ऐसे अनुप्रयोगों को संभालने के विशिष्ट उद्देश्य के लिए बना रहा है। भारत के रणनीतिक सिद्धांत के लिए, एप्लिकेशन नाविक-युग के सिद्धांत की परिचालन प्रासंगिकता की पुष्टि करता है कि रणनीतिक बुनियादी ढांचे को भारतीय संप्रभु नियंत्रण बनाए रखना चाहिए, भले ही नागरिक बाजार विदेशी प्रदाताओं के लिए खुले हों। भारत की राष्ट्रीय सुरक्षा के लिए, ईरानी उदाहरण परिचालन रूप से दर्शाता है कि लाइसेंस, पंजीकरण, वैध अवरोधन, प्रवेश द्वार शासन और आपातकालीन शक्तियां केवल प्रक्रियात्मक आवश्यकताएं ही नहीं हैं, बल्कि मूलभूत संप्रभुता सुरक्षा उपाय भी हैं। रणनीतिक प्रौद्योगिकी में भारत के आत्मनिर्भर ढांचे के लिए, एप्लिकेशन भारतीय निरीक्षण के तहत विदेशी प्रदाताओं को स्वीकार करने के साथ-साथ उपग्रह संचार में स्वदेशी भारतीय क्षमता के निर्माण और उसे बनाए रखने की अनिवार्यता को मजबूत करता है। भारत के संस्थागत वास्तुकला के लिए, आईएन-स्पेस और दूरसंचार विभाग प्रगति से प्रदर्शित कर रहे हैं कि भारत के पास जटिल नियामक नियंत्रण के बिना राष्ट्रीय सुरक्षा-सुरक्षा तंत्र को गहराई से नियंत्रित करने के लिए नियामक हैं।",
+      "en": "For India's communications infrastructure, the Starlink application progressively tests a framework India has been building for the specific purpose of handling such applications on India's terms. For India's strategic doctrine, the application confirms the operational relevance of the NavIC-era principle that strategic infrastructure must retain Indian sovereign control even when civilian markets are open to foreign providers. For India's national security, the Iranian precedent operationally demonstrates why licensing, registration, lawful interception, gateway governance and emergency powers are not merely procedural requirements but foundational sovereignty safeguards. For India's Aatmanirbhar Bharat framework in strategic technology, the application reinforces the imperative of building and sustaining indigenous Indian capacity in satellite communications alongside admitting foreign providers under Indian oversight. For India's institutional architecture, IN-SPACe and the Department of Telecommunications are progressively demonstrating that India possesses the regulatory depth to govern complex foreign technology integrations without compromising national-security control.",
+      "ur": "ہندوستان کے مواصلاتی بنیادی ڈھانچے کے لیے، اسٹار لنک ایپلی کیشن بتدریج ایک ایسے فریم ورک کی جانچ کرتی ہے جسے ہندوستان ہندوستان کی شرائط پر اس طرح کے ایپلی کیشنز کو سنبھالنے کے مخصوص مقصد کے لیے بنا رہا ہے۔ ہندوستان کے اسٹریٹجک نظریے کے لیے، یہ ایپلی کیشن نیویک دور کے اصول کی آپریشنل مطابقت کی تصدیق کرتی ہے کہ اسٹریٹجک انفراسٹرکچر کو ہندوستانی خودمختاری کو برقرار رکھنا چاہیے یہاں تک کہ جب شہری بازار غیر ملکی فراہم کنندگان کے لیے کھلے ہوں۔ ہندوستان کی قومی سلامتی کے لیے، ایرانی مثال عملی طور پر ظاہر کرتی ہے کہ لائسنسنگ، رجسٹریشن، قانونی مداخلت، گیٹ وے گورننس اور ہنگامی اختیارات محض طریقہ کار کی ضروریات ہی نہیں بلکہ بنیادی خودمختاری کے تحفظات ہیں۔ اسٹریٹجک ٹیکنالوجی میں ہندوستان کے آتم نربھر بھارت فریم ورک کے لیے، یہ ایپلی کیشن ہندوستانی نگرانی میں غیر ملکی فراہم کنندگان کو تسلیم کرنے کے ساتھ ساتھ سیٹلائٹ مواصلات میں مقامی ہندوستانی صلاحیت کو برقرار رکھنے اور برقرار رکھنے کے تقاضے کو تقویت دیتی ہے۔ ہندوستان کے ادارہ جاتی فن تعمیر کے لیے، آئی این-ایس پی اے سی اور محکمہ ٹیلی مواصلات ترقی سے یہ ظاہر کر رہے ہیں کہ ہندوستان کے پاس غیر ملکی حفاظتی انضمام کو گہرائی سے کنٹرول کرنے"
+    },
+    "b42": {
+      "hi": "कारगिल 1999 से लेकर नौसेना तक। जी. पी. एस. निर्भरता से लेकर स्वदेशी नौवहन संप्रभुता तक। ईरान की संप्रभुता के अंतर से लेकर भारत के लाइसेंस-प्रथम ढांचे तक। विदेशी उपग्रह संचार निर्भरता से लेकर एक नियामक ढांचे तक जो भारतीय परिचालन नियंत्रण को संरक्षित करता है। स्टारलिंक अनुप्रयोग उस रणनीतिक सिद्धांत की एक परिचालन परीक्षा है जिसे भारत ने तीन दशकों में उत्तरोत्तर बनाया है-और भारत इसे संस्थागत ताकत, सुरक्षा-प्रथम नियामक स्पष्टता और रणनीतिक विश्वास की स्थिति से देखता है। भारत के ढांचे के तहत भारतीय बाजार में स्वीकार किया गया एक विदेशी उपग्रह संचालक भारत के संचार बुनियादी ढांचे को मजबूत करता है। किसी भी अन्य शर्तों पर स्वीकार किए गए एक विदेशी उपग्रह संचालक को स्वीकार नहीं किया जाएगा। यही नियामक संप्रभुता का परिचालन अर्थ है, और यही भारत का ढांचा उत्तरोत्तर प्रदान कर रहा है।",
+      "en": "From Kargil 1999 to NavIC. From GPS dependence to indigenous navigation sovereignty. From Iran's sovereignty gap to India's licensing-first framework. From foreign satellite communications dependence to a regulatory architecture that preserves Indian operational control. The Starlink application is one operational test of the strategic doctrine India has progressively built across three decades — and India approaches it from a position of institutional strength, security-first regulatory clarity, and strategic confidence. A foreign satellite operator admitted to the Indian market under India's framework strengthens India's communications infrastructure. A foreign satellite operator admitted on any other terms would not be admitted. That is the operational meaning of regulatory sovereignty, and that is what India's framework is progressively delivering.",
+      "ur": "کارگل 1999 سے لے کر نیویک تک۔ جی پی ایس انحصار سے لے کر مقامی نیویگیشن خودمختاری تک۔ ایران کی خودمختاری کے فرق سے لے کر ہندوستان کے لائسنسنگ-پہلے فریم ورک تک۔ غیر ملکی سیٹلائٹ مواصلات پر انحصار سے لے کر ایک ریگولیٹری فن تعمیر تک جو ہندوستانی آپریشنل کنٹرول کو محفوظ رکھتا ہے۔ اسٹار لنک ایپلی کیشن اسٹریٹجک نظریے کا ایک آپریشنل امتحان ہے جو ہندوستان نے تین دہائیوں میں بتدریج بنایا ہے-اور ہندوستان اسے ادارہ جاتی طاقت، سلامتی-پہلی ریگولیٹری وضاحت اور اسٹریٹجک اعتماد کی پوزیشن سے دیکھتا ہے۔ ہندوستان کے فریم ورک کے تحت ہندوستانی مارکیٹ میں داخل ہونے والا ایک غیر ملکی سیٹلائٹ آپریٹر ہندوستان کے مواصلاتی انفراسٹرکچر کو مضبوط کرتا ہے۔ کسی بھی دوسری شرائط پر تسلیم شدہ غیر ملکی سیٹلائٹ آپریٹر کو تسلیم نہیں کیا جائے گا۔ یہ ریگولیٹری خودمختاری کا آپریشنل معنی ہے، اور یہی ہندوستان کا فریم ورک بتدریج فراہم کر رہا ہے۔"
+    }
+  }
+}
