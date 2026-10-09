@@ -1,0 +1,575 @@
+{
+  "hash": "749889d2a01ac2a1",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय",
+      "en": "National",
+      "ur": "قومی"
+    },
+    "fm.kicker": {
+      "hi": "\"सर · चुनाव आयोग · मसौदा सूची · 130 मिलियन दावा · कथात्मक सुधार\"",
+      "en": "\"SIR · Election Commission · Draft Roll · 130 Million Claim · Narrative Correction\"",
+      "ur": "\"سر الیکشن کمیشن ڈرافٹ رول 130 ملین دعوی بیانیے کی اصلاح\""
+    },
+    "fm.byline": {
+      "hi": "विशेष संवाददाता",
+      "en": "Special Correspondent",
+      "ur": "خصوصی نامہ نگار"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"130 मिलियन मिथकः एस. आई. आर. ने मतदाता सूची को साफ किया, इसे साफ नहीं किया\"",
+      "en": "\"“The 130 million myth: SIR cleaned the voters’ roll, it did not purge it\"",
+      "ur": "\"130 ملین کا افسانہ: ایس آئی آر نے ووٹرز رول کو صاف کیا، اس نے اسے صاف نہیں کیا\""
+    },
+    "fm.subdeck": {
+      "hi": "\"अंतर्राष्ट्रीय हेडलाइन-मतदान से हटाए गए 13 करोड़ भारतीय-चुनाव आयोग के अपने आंकड़ों के तहत एक अलग वाक्य में गिर जाते हैं। चरण I-III ड्राफ्ट रोल में 13 करोड़ चिह्नित प्रविष्टियों में से 28 लाख की मृत्यु हो गई है, 63 लाख स्थायी रूप से स्थानांतरित हो गए हैं, 30 लाख अनुपस्थित हैं या लापता हैं, और लगभग 10 लाख एक से अधिक स्थानों पर पंजीकृत हैं। यह अभ्यास जन प्रतिनिधित्व अधिनियम, 1950 के अनुच्छेद 324 और धारा 21 (3) के तहत वैध है, जिसे मई में सर्वोच्च न्यायालय ने बरकरार रखा था, और किसी भी विलोपन से पहले अनिवार्य नोटिस-और-सुनवाई के साथ काम करता है। अकेले चरण II में, अंतिम रोल में ड्राफ्ट की तुलना में 14 मिलियन अधिक मतदाता थे। संशोधन शुरू होने के बाद से 23.7 लाख मतदाता जोड़े गए हैं। हेडलाइन कि दुनिया की यात्रा की गई डेटा क्या कहता है।\"",
+      "en": "\"The international headline — 130 million Indians removed from voting — collapses into a different sentence under the Election Commission's own data. Of the 130 million flagged entries in the Phase I-III Draft Roll, 28 million are deceased, 63 million are permanently shifted, 30 million are absent or untraceable, and nearly 10 million are registered at more than one place. The exercise is lawful under Article 324 and Section 21(3) of the Representation of the People Act, 1950, upheld by the Supreme Court in May, and operates with mandatory notice-and-hearing before any deletion. In Phase II alone, Final Rolls held 14 million more electors than the drafts. 23.7 million voters aged 18-28 have been added since the revision began. The headline that travelled the world is not what the data says.\"",
+      "ur": "بین الاقوامی سرخی-130 ملین ہندوستانیوں کو ووٹنگ سے ہٹا دیا گیا-الیکشن کمیشن کے اپنے اعداد و شمار کے تحت ایک مختلف جملے میں گر جاتا ہے۔ فیز I-III ڈرافٹ رول میں جھنڈا بند 130 ملین اندراجات میں سے 28 ملین ہلاک ہو چکے ہیں، 63 ملین مستقل طور پر منتقل ہو چکے ہیں، 30 ملین غیر حاضر یا ناقابل تلافی ہیں، اور تقریبا 1 کروڑ ایک سے زیادہ جگہوں پر رجسٹرڈ ہیں۔ یہ مشق عوامی نمائندگی ایکٹ، 1950 کے آرٹیکل 324 اور سیکشن 21 (3) کے تحت جائز ہے، جسے مئی میں سپریم کورٹ نے برقرار رکھا تھا، اور کسی بھی حذف کرنے سے پہلے لازمی نوٹس اور سماعت کے ساتھ کام کرتا ہے۔ صرف دوسرے مرحلے میں، فائنل رولز میں مسودے سے 14 ملین زیادہ ووٹرز تھے۔ ترمیم شروع ہونے کے بعد سے 2. 7 ملین ووٹرز نے ترمیم کی ہے۔ سرخی یہ ہے کہ دنیا کا سفر کیا ہے جو اعداد و شمار کہتے ہیں۔"
+    },
+    "b0": {
+      "hi": "वर्तमान में एक पंक्ति दुनिया भर में लघु-चित्रों, शीर्षकों और गंभीर सामाजिक-मीडिया धागे में घूम रही हैः \"13 करोड़ भारतीयों को मतदान से हटा दिया गया है।\" यह एक ऐसा वाक्य है जो खतरे में डालने के लिए बनाया गया है। यह एक ऐसा वाक्य भी है जो चुनाव आयोग के स्वयं के आंकड़ों के तहत ध्वस्त हो जाता है। 13 करोड़ एक ड्राफ्ट रोल काउंट है-न कि हटाने की गिनती-जो मतदाता सूची के विशेष गहन संशोधन (एस. आई. आर.) के दौरान प्रस्तुत की गई है, चुनाव आयोग द्वारा संविधान के अनुच्छेद 324 और लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 21 (3) के तहत मतदाता सूची की घर-घर जाकर फिर से जांच की गई। सर्वोच्च न्यायालय ने मई 2026 में एस. आई. आर. को बरकरार रखा, यह मानते हुए कि यह अभ्यास स्वतंत्र और निष्पक्ष चुनावों के संवैधानिक लक्ष्य को पूरा करता है। अंतिम गहन संशोधन 2003 में किया गया था-दो दशक से अधिक पहले, भारत ने हस्तक्षेप के दौरान सबसे बड़ी 130 मिलियन की संख्या देखी है, जो कि स्वतंत्रता के बाद के आंतरिक सर्वेक्षण की प्रक्रिया है, जिसमें कुछ भी नहीं है-मृत्यु-विवरण के साथ-मृत्यु-विवरणात्मक ढांचे की।",
+      "en": "One line is currently travelling around the world in thumbnails, captions and earnest social-media threads: \"130 million Indians removed from voting.\" It is a sentence engineered to alarm. It is also a sentence that collapses under the Election Commission's own data. The 130 million is a Draft Roll count — not a deletion count — produced during the Special Intensive Revision (SIR) of electoral rolls, the Election Commission's door-to-door recheck of the voters' list conducted under Article 324 of the Constitution and Section 21(3) of the Representation of the People Act, 1950. The Supreme Court upheld the SIR in May 2026, holding that the exercise serves the constitutional goal of free and fair elections. The last intensive revision was conducted in 2003 — more than two decades ago. In the intervening period, India has witnessed one of the largest internal migrations in its post-Independence history. The 130 million represents the operational scale of that migration meeting a long-overdue roll-cleaning exercise. Most of the number has nothing to do with death, and nothing to do with a purge. The international framing is a narrative failure, not a factual one.",
+      "ur": "ایک سطر اس وقت تھمب نیلز، کیپشنز اور پرجوش سوشل میڈیا تھریڈز میں دنیا بھر میں گھوم رہی ہے: \"13 کروڑ ہندوستانیوں کو ووٹنگ سے ہٹا دیا گیا ہے۔\" یہ ایک ایسا جملہ ہے جو خطرے میں ڈالنے کے لیے بنایا گیا ہے۔ یہ ایک ایسا جملہ بھی ہے جو الیکشن کمیشن کے اپنے اعداد و شمار کے تحت ختم ہو جاتا ہے۔ 13 کروڑ ایک ڈرافٹ رول کاؤنٹ ہے-حذف کرنے کی گنتی نہیں-جو کہ انتخابی فہرستوں کی خصوصی انتہائی نظر ثانی (ایس آئی آر) کے دوران پیش کیا گیا ہے، الیکشن کمیشن کی طرف سے آئین کے آرٹیکل 324 اور عوامی نمائندگی ایکٹ 1950 کے سیکشن 21 (3) کے تحت ووٹرز کی فہرست کی گھر گھر دوبارہ جانچ پڑتال۔ سپریم کورٹ نے مئی 2026 میں ایس آئی آر کو برقرار رکھا، یہ کہتے ہوئے کہ یہ مشق آزاد اور منصفانہ انتخابات کے آئینی ہدف کو پورا کرتی ہے۔ آخری گہری نظر ثانی 2003 میں کی گئی تھی-دو دہائیوں سے زیادہ پہلے، ہندوستان کی مداخلت کا سب سے بڑا دور ہے، جس میں آزادی کے بعد ہونے والی داخلی نقل مکانی کی تعداد، جس میں ہجرت کی تاریخ سے متعلق کوئی بات نہیں ہے، اس کی نمائندگی کرتا ہے۔"
+    },
+    "b1": {
+      "hi": "130 मिलियन वास्तव में किसमें टूट जाता है",
+      "en": "What the 130 million actually breaks down into",
+      "ur": "130 ملین اصل میں کس چیز میں ٹوٹ جاتے ہیں"
+    },
+    "b2": {
+      "hi": "चुनाव आयोग का अपना श्रेणी-वार विभाजन इस सवाल का जवाब देता है। 130 मिलियन एक मोनोलिथ नहीं है। यह चार विशिष्ट, परिचालन रूप से अलग श्रेणियों में विभाजित है।",
+      "en": "The Election Commission's own category-wise breakdown settles the question. The 130 million is not a monolith. It splits into four specific, operationally distinct categories.",
+      "ur": "الیکشن کمیشن کی اپنی زمرہ وار خرابی اس سوال کو حل کرتی ہے۔ 130 ملین ایک یک سنگی نہیں ہے۔ یہ چار مخصوص، عملی طور پر الگ الگ زمروں میں تقسیم ہے۔"
+    },
+    "b3": {
+      "hi": "लगभग 28 मिलियन प्रविष्टियों को मृतक के रूप में चिह्नित किया गया है-ऐसे देश में जहां ग्रामीण और शहरी जिलों में मृत्यु पंजीकरण अभी भी काफी भिन्न है, जिनकी मृत्यु की औपचारिक रूप से कभी भी सूचना नहीं दी गई थी। लगभग 63 मिलियन प्रविष्टियों को स्थायी रूप से स्थानांतरित किया गया है-ऐसे मतदाता जो अपने चुनावी पंजीकरण को अपडेट किए बिना एक नए पते पर चले गए हैं, अक्सर एक नए शहर या राज्य में, दोनों छोर पर। लगभग 3 करोड़ प्रविष्टियों को अनुपस्थित या अनुपलब्ध के रूप में चिह्नित किया गया है-मतदाता जिन्हें बूथ स्तर के अधिकारी घर-घर सत्यापन के दौरान दर्ज पते पर नहीं ढूंढ सके। और लगभग 1 करोड़ प्रविष्टियों को एक से अधिक स्थानों पर पंजीकृत के रूप में चिह्नित किया गया है-एक ही व्यक्ति को एक व्यक्ति-एक-वोट सिद्धांत का उल्लंघन करते हुए, जो भारतीय चुनावी लोकतंत्र के लिए मूलभूत है।",
+      "en": "Approximately 28 million entries are flagged as deceased — voters whose deaths were never formally reported to electoral authorities, in a country where death registration still varies substantially across rural and urban districts. Approximately 63 million entries are flagged as permanently shifted — voters who have moved to a new address, often to a new city or state, without updating their electoral registration at either end. Approximately 30 million entries are flagged as absent or untraceable — voters whom the Booth Level Officers could not locate at the recorded address during house-to-house verification. And approximately 10 million entries are flagged as registered in more than one place — the same individual appearing on multiple rolls, in violation of the one-person-one-vote principle that is foundational to Indian electoral democracy.",
+      "ur": "تقریبا 2 کروڑ 80 لاکھ اندراجات کو مردہ کے طور پر نشان زد کیا گیا ہے-ایسے ووٹرز جن کی موت کی اطلاع کبھی بھی باضابطہ طور پر انتخابی حکام کو نہیں دی گئی تھی، ایسے ملک میں جہاں موت کی رجسٹریشن اب بھی دیہی اور شہری اضلاع میں کافی حد تک مختلف ہے۔ تقریبا 6 کروڑ 30 لاکھ اندراجات کو مستقل طور پر منتقل کیا گیا ہے-وہ ووٹرز جو کسی نئے پتے پر چلے گئے ہیں، اکثر کسی نئے شہر یا ریاست میں، بغیر کسی سرے سے اپنے انتخابی اندراج کو اپ ڈیٹ کیے۔ تقریبا 3 کروڑ اندراجات کو غیر حاضر یا ناقابل تلافی کے طور پر نشان زد کیا گیا ہے-وہ ووٹرز جنہیں بوتھ سطح کے افسران گھر گھر تصدیق کے دوران ریکارڈ شدہ پتے پر تلاش نہیں کر سکے۔ اور تقریبا 1 کروڑ اندراجات کو ایک سے زیادہ جگہوں پر رجسٹرڈ کے طور پر نشان زد کیا گیا ہے-ایک ہی فرد ایک سے زیادہ رول پر ظاہر ہوتا ہے، جو ہندوستانی انتخابی جمہوریت کے بنیادی اصول کی خلاف ورزی ہے۔"
+    },
+    "b4": {
+      "hi": "सही ढंग से पढ़ें, ये शुद्धिकरण की संख्या नहीं हैं। ये आगे बढ़ते हुए देश का परिचालन रिकॉर्ड हैं।",
+      "en": "Read correctly, these are not the numbers of a purge. They are the operational record of a country on the move.",
+      "ur": "صحیح طریقے سے پڑھیں، یہ صاف کرنے کے اعداد نہیں ہیں۔ یہ اس ملک کا آپریشنل ریکارڈ ہے جو آگے بڑھ رہا ہے۔"
+    },
+    "b5": {
+      "hi": "प्रवास की कहानी ये संख्याएँ वास्तव में बताती हैं",
+      "en": "The migration story these numbers actually tell",
+      "ur": "ہجرت کی کہانی یہ اعداد اصل میں بتاتے ہیں"
+    },
+    "b6": {
+      "hi": "63 मिलियन स्थायी रूप से स्थानांतरित ध्वज-सबसे बड़ी एकल श्रेणी-एक जनसांख्यिकीय डेटा बिंदु है जो इससे पहले कि कुछ भी हो। भारत ने 2003 में पिछले गहन संशोधन के बाद से दो दशकों में निरंतर आंतरिक प्रवास का अनुभव किया है। एक दशक पहले सूरत के लिए बिहार छोड़ने वाले मजदूर, लखनऊ से बेंगलुरु जाने वाले इंजीनियरिंग स्नातक, महिला जिसने दूसरे जिले में शादी की, परिवार जो उत्तर प्रदेश के एक गांव से हरियाणा के औद्योगिक गलियारे में चले गए-उनमें से प्रत्येक वर्तमान में दो मतदाता सूची पर या उस शहर की सूची पर बैठ सकता है जिसमें वे अब नहीं रहते हैं। उनमें से प्रत्येक कार्यात्मक रूप से एक मतदाता है, जो वैध रूप से एक वोट का हकदार है, अपने वर्तमान निवास के पते पर।",
+      "en": "The 63 million permanently-shifted flag — the largest single category — is a demographic data point before it is anything else. India has experienced sustained internal migration across the two decades since the last intensive revision in 2003. The labourer who left Bihar for Surat a decade ago, the engineering graduate who moved from Lucknow to Bengaluru, the woman who married into another district, the family that migrated from a village in Uttar Pradesh to the industrial corridor of Haryana — each of them may currently sit on two electoral rolls, or on the roll of a town they no longer live in. Each of them is operationally one voter, legitimately entitled to one vote, at their current address of residence.",
+      "ur": "63 ملین مستقل طور پر منتقل شدہ جھنڈا-سب سے بڑا واحد زمرہ-کسی بھی چیز سے پہلے ایک آبادیاتی ڈیٹا پوائنٹ ہے۔ 2003 میں آخری گہری نظر ثانی کے بعد سے ہندوستان نے دو دہائیوں میں مستقل اندرونی ہجرت کا تجربہ کیا ہے۔ ایک دہائی قبل بہار سے سورت جانے والا مزدور، انجینئرنگ گریجویٹ جو لکھنؤ سے بنگلورو چلا گیا، وہ خاتون جس نے دوسرے ضلع میں شادی کی، وہ خاندان جو اتر پردیش کے ایک گاؤں سے ہریانہ کے صنعتی گلیارے میں ہجرت کر گیا-ان میں سے ہر ایک فی الحال دو انتخابی فہرستوں پر، یا اس قصبے کے رول پر بیٹھ سکتا ہے جس میں وہ اب نہیں رہتے ہیں۔ ان میں سے ہر ایک آپریشنل طور پر ایک ووٹر ہے، جو قانونی طور پر اپنی رہائش کے موجودہ پتے پر ایک ووٹ کا حقدار ہے۔"
+    },
+    "b7": {
+      "hi": "एस. आई. आर. प्रक्रिया इन मामलों को सटीक रूप से सामने लाती है ताकि प्रत्येक मतदाता के वैध पंजीकरण की पहचान की जा सके और डुप्लिकेट या बासी प्रविष्टि को हटाया जा सके। एक व्यक्ति, एक वोट, एक रोल। यह अभ्यास का परिचालन उद्देश्य है। यह 63 मिलियन लोगों को लोकतांत्रिक प्रक्रिया से हटाना नहीं है। यह 63 मिलियन रोल प्रविष्टियों का संकल्प है जिनके मतदाता लंबे समय से कहीं और चले गए हैं-यह सुनिश्चित करना कि व्यक्ति मतदान करता है जहां वे अब रहते हैं, न कि जहां वे रहते थे।",
+      "en": "The SIR process surfaces these cases precisely so that each voter's single legitimate registration can be identified and the duplicate or stale entry removed. One person, one vote, one roll. That is the operational purpose of the exercise. It is not the removal of 63 million people from the democratic process. It is the resolution of 63 million roll entries whose voter has long since moved somewhere else — ensuring that the person votes where they now live, not where they used to live.",
+      "ur": "ایس آئی آر کا عمل ان معاملات کو درست طریقے سے پیش کرتا ہے تاکہ ہر ووٹر کے واحد جائز اندراج کی شناخت کی جا سکے اور ڈپلیکیٹ یا باسی اندراج کو ہٹا دیا جا سکے۔ ایک شخص، ایک ووٹ، ایک رول۔ یہ اس مشق کا عملی مقصد ہے۔ یہ 63 ملین لوگوں کو جمہوری عمل سے ہٹانا نہیں ہے۔ یہ 63 ملین رول اندراجات کی قرارداد ہے جن کا ووٹر طویل عرصے سے کہیں اور منتقل ہو چکا ہے-اس بات کو یقینی بنانا کہ وہ شخص ووٹ دے جہاں وہ اب رہتا ہے، نہ کہ جہاں وہ رہتا تھا۔"
+    },
+    "b8": {
+      "hi": "ड्राफ्ट रोल अंतिम मतदाता सूची नहीं है",
+      "en": "Draft Roll is not Final Electoral Roll",
+      "ur": "ڈرافٹ رول حتمی انتخابی رول نہیں ہے"
+    },
+    "b9": {
+      "hi": "दूसरा महत्वपूर्ण अंतर-एक जिसे \"130 मिलियन हटाए गए\" प्रारूप पूरी तरह से नजरअंदाज कर देते हैं-वह है मसौदा सूची और अंतिम निर्वाचक सूची के बीच परिचालन अंतर। ये एक ही दस्तावेज नहीं हैं, और उनके बीच का अंतर वह है जहां वास्तविक सुरक्षा उपाय काम करते हैं।",
+      "en": "The second critical distinction — one that the \"130 million deleted\" framing ignores entirely — is the operational difference between the Draft Roll and the Final Electoral Roll. These are not the same document, and the gap between them is where the actual safeguards operate.",
+      "ur": "دوسرا اہم فرق-ایک یہ کہ \"130 ملین حذف شدہ\" فریمنگ مکمل طور پر نظر انداز کرتی ہے-ڈرافٹ رول اور حتمی انتخابی رول کے درمیان آپریشنل فرق ہے۔ یہ ایک ہی دستاویز نہیں ہیں، اور ان کے درمیان فرق وہ جگہ ہے جہاں اصل حفاظتی اقدامات کام کرتے ہیں۔"
+    },
+    "b10": {
+      "hi": "13 करोड़ की संख्या एक मसौदा सूची गणना है। यह आयोग की जाँच की जाने वाली नामों की कार्य सूची है। बिना किसी सूचना, जांच और सुनवाई के बिना किसी भी नाम को मसौदा सूची से नहीं हटाया जाना चाहिए। प्रत्येक चिह्नित मतदाता को दावे और आपत्तियों की अवधि के दौरान शामिल करने के लिए दावा दायर करने का अधिकार है। अंतिम निर्वाचक सूची-आधिकारिक दस्तावेज जो यह निर्धारित करता है कि अगले चुनावी चक्र में किसे वोट देता है-इस पूरे सत्यापन चक्र के पूरा होने के बाद ही प्रकाशित किया जाता है।",
+      "en": "The 130 million is a Draft Roll count. It is the Commission's working list of names to be checked. No name is to be struck off the draft roll without a notice, an inquiry, and a chance to be heard. Every flagged voter retains the right to file a claim for inclusion during the claims-and-objections period. The Final Electoral Roll — the authoritative document that determines who votes in the next electoral cycle — is published only after this entire verification cycle is complete.",
+      "ur": "ڈرافٹ رول گنتی 130 ملین ہے۔ یہ کمیشن کی جانچ پڑتال کے لیے ناموں کی ورکنگ لسٹ ہے۔ بغیر کسی نوٹس، انکوائری اور سماعت کے موقع کے ڈرافٹ رول سے کسی نام کو نہیں ہٹایا جانا چاہیے۔ ہر جھنڈا بند ووٹر کو دعووں اور اعتراضات کی مدت کے دوران شامل کرنے کے لیے دعوی دائر کرنے کا حق حاصل ہے۔ حتمی انتخابی رول-مستند دستاویز جو اگلے انتخابی چکر میں کس کو ووٹ دیتا ہے-اس تصدیق کے پورے چکر کے مکمل ہونے کے بعد ہی شائع ہوتا ہے۔"
+    },
+    "b11": {
+      "hi": "इस प्रक्रिया का अनुभवजन्य ट्रैक रिकॉर्ड पहले से ही दूसरे चरण से दिखाई दे रहा है। अभ्यास के दूसरे चरण में शामिल बारह राज्यों और केंद्र शासित प्रदेशों में, अंतिम सूची में मसौदों की तुलना में लगभग 14 मिलियन अधिक मतदाता थे। दावा और आपत्ति प्रक्रिया सैद्धांतिक नहीं है; यह बड़े पैमाने पर योग्य मतदाताओं को बहाल कर रहा है।",
+      "en": "The empirical track record of this process is already visible from Phase II. In the twelve states and Union Territories covered by the second phase of the exercise, the Final Rolls held approximately 14 million more electors than the Drafts had. The claims-and-objections process is not theoretical; it is operationally restoring eligible voters at scale.",
+      "ur": "اس عمل کا تجرباتی ٹریک ریکارڈ پہلے ہی دوسرے مرحلے سے نظر آتا ہے۔ مشق کے دوسرے مرحلے میں شامل بارہ ریاستوں اور مرکز کے زیر انتظام علاقوں میں، حتمی رولز میں ڈرافٹس کے مقابلے میں تقریبا 1. 4 کروڑ زیادہ ووٹرز تھے۔ دعووں اور اعتراضات کا عمل نظریاتی نہیں ہے ؛ یہ عملی طور پر اہل ووٹرز کو بڑے پیمانے پر بحال کر رہا ہے۔"
+    },
+    "b12": {
+      "hi": "बहाली के साथ-साथ एस. आई. आर. प्रक्रिया में नए पात्र मतदाताओं को भी जोड़ा जा रहा है। चुनाव आयोग की अपनी गणना के अनुसार, संशोधन शुरू होने के बाद से 18 से 28 वर्ष की आयु के लगभग 23.7 लाख मतदाताओं को जोड़ा गया है। मतदाता सूची को साफ, सही और विस्तारित किया जा रहा है-लोकतांत्रिक भागीदारी को मजबूत करना, न कि इसमें कमी।",
+      "en": "Alongside the restoration, the SIR process is also progressively adding new eligible voters. By the Election Commission's own count, approximately 23.7 million voters aged 18 to 28 have been added since the revision began. The electoral roll is being cleaned, corrected, and expanded simultaneously — a strengthening of democratic participation, not a diminution of it.",
+      "ur": "بحالی کے ساتھ ساتھ ایس آئی آر کا عمل بتدریج نئے اہل ووٹرز کو بھی شامل کر رہا ہے۔ الیکشن کمیشن کی اپنی گنتی کے مطابق، نظر ثانی شروع ہونے کے بعد سے 18 سے 28 سال کی عمر کے تقریبا 23. 7 ملین ووٹرز کو شامل کیا گیا ہے۔ انتخابی فہرست کو صاف، درست اور توسیع بیک وقت کی جا رہی ہے-جمہوری شرکت کو مضبوط کرنا، نہ کہ اس میں کمی۔"
+    },
+    "b13.title": {
+      "hi": "130 मिलियन समझाया गया",
+      "en": "The 130 Million Explained",
+      "ur": "130 ملین کی وضاحت کی گئی"
+    },
+    "b13.itemlbl.0": {
+      "hi": "वैश्विक स्तर पर यात्रा करने का शीर्षक दावा",
+      "en": "Headline claim travelling globally",
+      "ur": "عالمی سطح پر سفر کرنے کا سرخی دعوی"
+    },
+    "b13.itemval.0": {
+      "hi": "'130 मिलियन भारतीयों को मतदान से हटाया गया'",
+      "en": "\"130 million Indians removed from voting\"",
+      "ur": "\"130 ملین ہندوستانیوں کو ووٹنگ سے ہٹا دیا گیا\""
+    },
+    "b13.itemlbl.1": {
+      "hi": "सही विवरण",
+      "en": "Correct description",
+      "ur": "درست وضاحت"
+    },
+    "b13.itemval.1": {
+      "hi": "एस. आई. आर. चरण I-III से ड्राफ्ट रोल फ्लैग, अंतिम विलोपन नहीं",
+      "en": "Draft Roll flags from SIR Phase I-III, not final deletions",
+      "ur": "ایس آئی آر فیز I-III سے ڈرافٹ رول فلیگ، حتمی حذفیاں نہیں"
+    },
+    "b13.itemlbl.2": {
+      "hi": "व्यायाम की प्रकृति",
+      "en": "Nature of exercise",
+      "ur": "ورزش کی نوعیت"
+    },
+    "b13.itemval.2": {
+      "hi": "मतदाता सूची की घर-घर जाकर पुनः जांच; 2003 के बाद पहला गहन संशोधन",
+      "en": "Door-to-door recheck of voters' list; first intensive revision since 2003",
+      "ur": "ووٹرز کی فہرست کی گھر گھر جا کر دوبارہ جانچ ؛ 2003 کے بعد پہلی بار گہری نظر ثانی"
+    },
+    "b13.itemlbl.3": {
+      "hi": "संवैधानिक आधार",
+      "en": "Constitutional basis",
+      "ur": "آئینی بنیاد"
+    },
+    "b13.itemval.3": {
+      "hi": "संविधान का अनुच्छेद 324",
+      "en": "Article 324 of the Constitution",
+      "ur": "آئین کا آرٹیکل 324"
+    },
+    "b13.itemlbl.4": {
+      "hi": "वैधानिक आधार",
+      "en": "Statutory basis",
+      "ur": "قانونی بنیاد"
+    },
+    "b13.itemval.4": {
+      "hi": "लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 21 (3)",
+      "en": "Section 21(3) of the Representation of the People Act, 1950",
+      "ur": "عوامی نمائندگی ایکٹ، 1950 کی دفعہ 21 (3)"
+    },
+    "b13.itemlbl.5": {
+      "hi": "उच्चतम न्यायालय की स्थिति",
+      "en": "Supreme Court status",
+      "ur": "سپریم کورٹ کی حیثیت"
+    },
+    "b13.itemval.5": {
+      "hi": "मई 2026 में स्वतंत्र और निष्पक्ष चुनावों के संवैधानिक लक्ष्य को पूरा करने के रूप में आयोजित किया गया",
+      "en": "Upheld in May 2026 as serving constitutional goal of free and fair elections",
+      "ur": "مئی 2026 میں آزاد اور منصفانہ انتخابات کے آئینی ہدف کی تکمیل کے طور پر منعقد کیا گیا"
+    },
+    "b13.itemlbl.6": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.6": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.7": {
+      "hi": "130 मिलियन",
+      "en": "THE 130 MILLION",
+      "ur": "130 ملین"
+    },
+    "b13.itemval.7": {
+      "hi": "श्रेणी-ज्ञान का टूटना",
+      "en": "CATEGORY-WISE BREAKDOWN",
+      "ur": "زمرہ-حکمت بریک ڈاؤن"
+    },
+    "b13.itemlbl.8": {
+      "hi": "मृतक।",
+      "en": "Deceased",
+      "ur": "فوت ہو گیا۔"
+    },
+    "b13.itemval.8": {
+      "hi": "~ 28 मिलियन (मौतों की सूचना पहले चुनावी अधिकारियों को नहीं दी गई थी)",
+      "en": "~28 million (deaths previously unreported to electoral authorities)",
+      "ur": "~ 28 ملین (اموات جو پہلے انتخابی حکام کو رپورٹ نہیں کی گئیں)"
+    },
+    "b13.itemlbl.9": {
+      "hi": "स्थायी रूप से स्थानांतरित",
+      "en": "Permanently Shifted",
+      "ur": "مستقل طور پر منتقل کیا گیا"
+    },
+    "b13.itemval.9": {
+      "hi": "~ 63 मिलियन (मतदाता पंजीकरण अद्यतन किए बिना चले गए)",
+      "en": "~63 million (voters moved without updating registration)",
+      "ur": "~ 63 ملین (ووٹرز رجسٹریشن کو اپ ڈیٹ کیے بغیر منتقل ہوئے)"
+    },
+    "b13.itemlbl.10": {
+      "hi": "अनुपस्थित या अनुपलब्ध",
+      "en": "Absent or Untraceable",
+      "ur": "غیر حاضر یا ناقابل تلافی"
+    },
+    "b13.itemval.10": {
+      "hi": "~ 30 मिलियन (सत्यापन के दौरान दर्ज पते पर स्थित नहीं)",
+      "en": "~30 million (not located at recorded address during verification)",
+      "ur": "~ 30 ملین (تصدیق کے دوران ریکارڈ شدہ پتے پر واقع نہیں)"
+    },
+    "b13.itemlbl.11": {
+      "hi": "डुप्लिकेट (एक से अधिक स्थानों पर पंजीकृत)",
+      "en": "Duplicate (registered in more than one place)",
+      "ur": "نقل (ایک سے زیادہ جگہوں پر رجسٹرڈ)"
+    },
+    "b13.itemval.11": {
+      "hi": "~ 10 लाख (एक व्यक्ति, कई रोल)",
+      "en": "~10 million (one person, multiple rolls)",
+      "ur": "~ 10 ملین (ایک شخص، متعدد رول)"
+    },
+    "b13.itemlbl.12": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.12": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.13": {
+      "hi": "सुरक्षित वास्तुकला",
+      "en": "THE SAFEGUARD ARCHITECTURE",
+      "ur": "محفوظ آرکیٹیکچر"
+    },
+    "b13.itemval.13": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.14": {
+      "hi": "ड्राफ्ट रोल",
+      "en": "Draft Roll",
+      "ur": "ڈرافٹ رول"
+    },
+    "b13.itemval.14": {
+      "hi": "प्रारंभिक गणना, दावों और आपत्तियों के अधीन",
+      "en": "Preliminary count, subject to claims and objections",
+      "ur": "ابتدائی گنتی، دعووں اور اعتراضات کے تابع"
+    },
+    "b13.itemlbl.15": {
+      "hi": "अंतिम मतदाता सूची",
+      "en": "Final Electoral Roll",
+      "ur": "حتمی انتخابی فہرست"
+    },
+    "b13.itemval.15": {
+      "hi": "नोटिस-पूछताछ-सुनवाई प्रक्रिया के बाद ही प्रकाशित किया जाता है",
+      "en": "Published only after notice-inquiry-hearing process",
+      "ur": "نوٹس-انکوائری-سماعت کے عمل کے بعد ہی شائع کیا گیا"
+    },
+    "b13.itemlbl.16": {
+      "hi": "अनिवार्य प्रक्रिया",
+      "en": "Mandatory procedure",
+      "ur": "لازمی طریقہ کار"
+    },
+    "b13.itemval.16": {
+      "hi": "बिना नोटिस और सुनने का मौका दिए कोई नाम नहीं हटाया गया",
+      "en": "No name struck off without notice and chance to be heard",
+      "ur": "بغیر اطلاع اور سننے کے موقع کے کوئی نام نہیں نکالا گیا"
+    },
+    "b13.itemlbl.17": {
+      "hi": "द्वितीय चरण का अनुभवजन्य परिणाम",
+      "en": "Phase II empirical result",
+      "ur": "مرحلہ دوم تجرباتی نتیجہ"
+    },
+    "b13.itemval.17": {
+      "hi": "अंतिम रोल्स में ड्राफ्ट की तुलना में लगभग 14 मिलियन अधिक मतदाता थे",
+      "en": "Final Rolls held ~14 million more electors than Drafts",
+      "ur": "حتمی رولز میں ڈرافٹس سے 14 ملین زیادہ ووٹر تھے"
+    },
+    "b13.itemlbl.18": {
+      "hi": "नए मतदाता शामिल",
+      "en": "New voter inclusions",
+      "ur": "نئے ووٹرز کی شمولیت"
+    },
+    "b13.itemval.18": {
+      "hi": "संशोधन शुरू होने के बाद से 23.7 लाख आयु वर्ग जोड़े गए",
+      "en": "~23.7 million aged 18-28 added since revision began",
+      "ur": "ترمیم شروع ہونے کے بعد سے 23. 7 ملین عمر کے 18-28 شامل کیے گئے"
+    },
+    "b13.itemlbl.19": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.19": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.20": {
+      "hi": "अंतर्राष्ट्रीय फ्रेमिंग विफलताएँ क्यों",
+      "en": "WHY THE INTERNATIONAL FRAMING FAILS",
+      "ur": "بین الاقوامی فریمنگ کی ناکامیاں کیوں"
+    },
+    "b13.itemval.20": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.21": {
+      "hi": "\"130 मिलियन हटा दिए गए\"",
+      "en": "\"130 million deleted\"",
+      "ur": "\"130 ملین حذف کر دیے گئے\""
+    },
+    "b13.itemval.21": {
+      "hi": "तथ्यतः गलत; अंतिम सूची के साथ मसौदा सूची को जोड़ता है",
+      "en": "Factually incorrect; conflates Draft Roll with Final Roll",
+      "ur": "حقیقت میں غلط ؛ ڈرافٹ رول کو فائنل رول سے ملاتا ہے"
+    },
+    "b13.itemlbl.22": {
+      "hi": "\"पर्ज\" फ्रेमिंग",
+      "en": "\"Purge\" framing",
+      "ur": "\"صاف کریں\" فریمنگ"
+    },
+    "b13.itemval.22": {
+      "hi": "श्रेणी विभाजन को नजरअंदाज करता है (मृत, डुप्लिकेट, स्थानांतरित)",
+      "en": "Ignores category breakdown (deceased, duplicate, shifted)",
+      "ur": "زمرہ کی خرابی کو نظر انداز کرتا ہے (مردہ، نقل شدہ، منتقل شدہ)"
+    },
+    "b13.itemlbl.23": {
+      "hi": "\"स्थायी निष्कासन\" फ्रेमिंग",
+      "en": "\"Permanent removal\" framing",
+      "ur": "\"مستقل ہٹانا\" فریمنگ"
+    },
+    "b13.itemval.23": {
+      "hi": "दावों और आपत्तियों के अनिवार्य सुरक्षा उपायों को नजरअंदाज करता है",
+      "en": "Ignores claims-and-objections mandatory safeguards",
+      "ur": "دعووں اور اعتراضات کے لازمی حفاظتی اقدامات کو نظر انداز کرتا ہے"
+    },
+    "b13.itemlbl.24": {
+      "hi": "फ्रेम से गायब",
+      "en": "Missing from the frame",
+      "ur": "فریم سے غائب ہونا"
+    },
+    "b13.itemval.24": {
+      "hi": "दूसरे चरण में कुल 14 लाख मतदाता जोड़े गए; 23.7 लाख नए युवा मतदाता",
+      "en": "Phase II net addition of 14 million; 23.7 million new young voters",
+      "ur": "دوسرے مرحلے میں 1. 4 کروڑ کا خالص اضافہ ؛ 2. 37 کروڑ نئے نوجوان ووٹرز"
+    },
+    "b13.itemlbl.25": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.25": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.26": {
+      "hi": "जहाँ कानूनी व्यवस्था पर ध्यान केंद्रित करना चाहिए",
+      "en": "WHERE LEGITIMATE SCRUTINY SHOULD FOCUS",
+      "ur": "جہاں قانونی اسکرٹینی پر توجہ مرکوز ہونی چاہیے"
+    },
+    "b13.itemval.26": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.27": {
+      "hi": "30 मिलियन \"अनुपस्थित\" श्रेणी",
+      "en": "The 30 million \"absent\" category",
+      "ur": "30 ملین \"غیر حاضر\" زمرہ"
+    },
+    "b13.itemval.27": {
+      "hi": "जहाँ गलत वर्गीकरण का जोखिम परिचालन रूप से सबसे अधिक है",
+      "en": "Where misclassification risk is operationally highest",
+      "ur": "جہاں غلط درجہ بندی کا خطرہ عملی طور پر سب سے زیادہ ہے"
+    },
+    "b13.itemlbl.28": {
+      "hi": "विशिष्ट चिंता",
+      "en": "The specific concern",
+      "ur": "مخصوص تشویش"
+    },
+    "b13.itemval.28": {
+      "hi": "प्रवासी श्रमिक, बी. एल. ओ. की यात्रा के दौरान घर पर नहीं रहने वाले लोग, दस्तावेजों में अंतर",
+      "en": "Migrant workers, people not home during BLO visit, documentation gaps",
+      "ur": "مہاجر مزدور، وہ لوگ جو بی ایل او کے دورے کے دوران گھر پر نہیں تھے، دستاویزات میں فرق"
+    },
+    "b13.itemlbl.29": {
+      "hi": "संस्थागत सहभागिता",
+      "en": "Institutional engagement",
+      "ur": "ادارہ جاتی مشغولیت"
+    },
+    "b13.itemval.29": {
+      "hi": "दो चुनाव आयुक्तों ने एस. आई. आर. के फैसलों पर 10 महीनों में 14 आपत्तियां दर्ज कराई हैं।",
+      "en": "Two Election Commissioners lodged 14 objections in 10 months on SIR decisions",
+      "ur": "دو الیکشن کمشنروں نے ایس آئی آر کے فیصلوں پر 10 ماہ میں 14 اعتراضات درج کرائے"
+    },
+    "b13.itemlbl.30": {
+      "hi": "अंतर्राष्ट्रीय जुड़ाव",
+      "en": "International engagement",
+      "ur": "بین الاقوامی مشغولیت"
+    },
+    "b13.itemval.30": {
+      "hi": "संयुक्त राष्ट्र के तीन विशेष प्रतिवेदकों ने भारत को पत्र लिखकर हटाने पर चिंता जताई",
+      "en": "Three UN Special Rapporteurs wrote to India raising concerns on deletions",
+      "ur": "اقوام متحدہ کے تین خصوصی نمائندوں نے ہندوستان کو خط لکھ کر حذف کرنے پر تشویش کا اظہار کیا"
+    },
+    "b13.itemlbl.31": {
+      "hi": "आयोग का रिकॉर्ड",
+      "en": "The Commission's record",
+      "ur": "کمیشن کا ریکارڈ"
+    },
+    "b13.itemval.31": {
+      "hi": "\"130 मिलियन\" दावे की पहचान करने वाला दस्तावेज़ भ्रामक बताया गया",
+      "en": "Issued document identifying \"130 million\" claim as misleading",
+      "ur": "\"130 ملین\" دعوے کی شناخت کرنے والی دستاویز کو گمراہ کن قرار دیا گیا"
+    },
+    "b13.itemlbl.32": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b13.itemval.32": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.33": {
+      "hi": "भारत ने इस नैरेटिव रन को क्यों जाने दिया",
+      "en": "WHY INDIA LET THIS NARRATIVE RUN",
+      "ur": "ہندوستان نے اس غیر معمولی دوڑ کو کیوں ہونے دیا"
+    },
+    "b13.itemval.33": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b13.itemlbl.34": {
+      "hi": "व्याख्या अंतराल",
+      "en": "Explanation gap",
+      "ur": "وضاحت کا فرق"
+    },
+    "b13.itemval.34": {
+      "hi": "एम. आई. बी. और पी. आई. बी. से पर्याप्त प्रारंभिक संचार नहीं",
+      "en": "Insufficient early communication from MIB and PIB",
+      "ur": "ایم آئی بی اور پی آئی بی کی طرف سے ناکافی ابتدائی مواصلات"
+    },
+    "b13.itemlbl.35": {
+      "hi": "गति में विफलता",
+      "en": "Pacing failure",
+      "ur": "رفتار میں ناکامی"
+    },
+    "b13.itemval.35": {
+      "hi": "आयोग का स्पष्टीकरण तब आया जब यह संख्या पहले ही विश्व स्तर पर प्रसारित हो चुकी थी।",
+      "en": "Commission's clarification arrived after the number had already circulated globally",
+      "ur": "کمیشن کی وضاحت اس وقت سامنے آئی جب یہ تعداد پہلے ہی عالمی سطح پر گردش کر چکی تھی۔"
+    },
+    "b13.itemlbl.36": {
+      "hi": "स्वतंत्र आवाज की कमी",
+      "en": "Independent voice deficit",
+      "ur": "آزاد آواز کی کمی"
+    },
+    "b13.itemval.36": {
+      "hi": "अंतर्राष्ट्रीय मीडिया तक पहुँचने वाले कुछ विश्वसनीय व्याख्याकार",
+      "en": "Few credible explainers reaching international media",
+      "ur": "بین الاقوامی میڈیا تک پہنچنے والے چند قابل اعتماد وضاحتیں"
+    },
+    "b13.itemlbl.37": {
+      "hi": "मुख्य मुद्दा",
+      "en": "Core issue",
+      "ur": "بنیادی مسئلہ"
+    },
+    "b13.itemval.37": {
+      "hi": "सुरक्षा और कूटनीति पर जीत हासिल करने वाली सरकार ने दूसरों को अपनी मतदाता सूची समझाने के लिए छोड़ दिया",
+      "en": "A government that wins on security and diplomacy left explaining its voters' list to others",
+      "ur": "سلامتی اور سفارت کاری پر جیتنے والی حکومت نے دوسروں کو اپنی ووٹرز کی فہرست سمجھانا چھوڑ دیا"
+    },
+    "b14.q": {
+      "hi": "\"\" \"3 करोड़ नामों की जाँच की आवश्यकता है\" \"और\" \"13 करोड़ भारतीयों को मतदान से हटा दिया गया\" \"अलग-अलग वाक्य हैं। केवल पहला सच है। 13 करोड़ एक मसौदा सूची गणना है। यह एक विलोपन नहीं है। दूसरे चरण में, अंतिम सूची में मसौदों की तुलना में 14 मिलियन अधिक मतदाता थे। और संशोधन शुरू होने के बाद से 23.7 लाख युवा मतदाताओं को जोड़ा गया है।\"",
+      "en": "\"'30 million names need checking' and '130 million Indians were removed from voting' are different sentences. Only the first is true. The 130 million is a Draft Roll count. It is not a deletion. In Phase II, Final Rolls held 14 million more electors than the Drafts had. And 23.7 million young voters have been added since the revision began.\"",
+      "ur": "\"\" 3 کروڑ ناموں کی جانچ پڑتال کی ضرورت ہے \"اور\" 13 کروڑ ہندوستانیوں کو ووٹنگ سے ہٹا دیا گیا \"مختلف جملے ہیں۔ صرف پہلا درست ہے۔ 13 کروڑ ڈرافٹ رول گنتی ہے۔ یہ حذف نہیں ہے۔ دوسرے مرحلے میں، فائنل رولز میں ڈرافٹس کے مقابلے میں 14 ملین زیادہ ووٹر تھے۔ اور نظر ثانی شروع ہونے کے بعد سے 23. 7 ملین نوجوان ووٹرز کو شامل کیا گیا ہے۔"
+    },
+    "b14.c": {
+      "hi": "- एस. आई. आर. अभ्यास के अंकगणित पर",
+      "en": "— On the arithmetic of the SIR exercise",
+      "ur": "- ایس آئی آر مشق کے ریاضی پر"
+    },
+    "b15": {
+      "hi": "वैध सवाल-और यह वास्तव में कहाँ बैठता है",
+      "en": "The legitimate question — and where it actually sits",
+      "ur": "جائز سوال-اور یہ اصل میں کہاں بیٹھا ہے"
+    },
+    "b16": {
+      "hi": "एस. आई. आर. अभ्यास के भीतर एक वास्तविक सवाल है, और भारत के संस्थागत सुरक्षा उपायों को गंभीरता से लेने के मामले को सीधे स्वीकार करके मजबूत किया जाता है।",
+      "en": "There is a real question inside the SIR exercise, and the case for taking India's institutional safeguards seriously is strengthened by acknowledging it directly.",
+      "ur": "ایس آئی آر کی مشق کے اندر ایک حقیقی سوال ہے، اور ہندوستان کے ادارہ جاتی تحفظات کو سنجیدگی سے لینے کا معاملہ براہ راست تسلیم کرکے مضبوط کیا جاتا ہے۔"
+    },
+    "b17": {
+      "hi": "\"अनुपस्थित\" श्रेणी में 3 करोड़ नाम परिचालन दबाव बिंदु हैं। इनमें से कुछ मामले ऐसे मतदाता हैं जो कभी किसी को अपडेट नहीं करते हैं और जिन्हें वैध रूप से हटाने की आवश्यकता होती है। कुछ मतदाता बूथ स्तर के अधिकारी की यात्रा के दौरान अस्थायी रूप से दूर रहते हैं। कुछ ऐसे मतदाता हैं जिनके दस्तावेज बी. एल. ओ. के अनुरोध के अनुरूप नहीं थे। कुछ प्रवासी श्रमिक हैं जिनका काम उन्हें विस्तारित अवधि के लिए अपने पंजीकृत घर के पते से दूर रखता है। कुछ बुजुर्ग या विकलांग व्यक्ति हैं जिनकी दैनिक आवाजाही सीमित है और जो शायद छूट गए हैं। यदि गलत तरीके से बहिष्कार एस. आई. आर. अभ्यास में कहीं भी होने जा रहा है, तो यह 3 करोड़ अनुपस्थित श्रेणी के भीतर होने जा रहा है-और यही वह जगह है जहां वैध जांच केंद्रित होनी चाहिए।",
+      "en": "The 30 million names in the \"absent\" category are the operational pressure point. Some of these cases are voters who moved and never updated anyone, and whose entries legitimately need removal. Some are voters temporarily away during the Booth Level Officer's visit. Some are voters whose documentation did not quite line up with what the BLO requested. Some are migrant workers whose work keeps them away from their registered home address for extended periods. Some are elderly or disabled persons whose daily movements are limited and who may simply have been missed. If wrongful exclusion is going to happen anywhere in the SIR exercise, it is going to happen within the 30 million absent category — and that is where legitimate scrutiny should concentrate.",
+      "ur": "\"غیر حاضر\" زمرے میں 3 کروڑ نام آپریشنل دباؤ کا مرکز ہیں۔ ان میں سے کچھ ایسے ووٹر ہیں جنہوں نے کبھی کسی کو منتقل نہیں کیا اور کبھی کسی کو اپ ڈیٹ نہیں کیا، اور جن کی اندراجات کو قانونی طور پر ہٹانے کی ضرورت ہے۔ کچھ ووٹر ہیں جو بوتھ لیول آفیسر کے دورے کے دوران عارضی طور پر دور ہیں۔ کچھ ووٹر ہیں جن کی دستاویزات بی ایل او کی درخواست کے مطابق نہیں ہیں۔ کچھ مہاجر کارکن ہیں جن کا کام انہیں طویل مدت تک اپنے رجسٹرڈ گھر کے پتے سے دور رکھتا ہے۔ کچھ بزرگ یا معذور افراد ہیں جن کی روزمرہ کی نقل و حرکت محدود ہے اور جو شاید چھوٹ چکے ہیں۔ اگر ایس آئی آر مشق میں کہیں بھی غلط اخراج ہونے والا ہے تو یہ 3 کروڑ غیر حاضر زمرے کے اندر ہونے والا ہے-اور اسی جگہ جائز جانچ پڑتال پر توجہ مرکوز کرنی چاہیے۔"
+    },
+    "b18": {
+      "hi": "संस्थागत रिकॉर्ड इसे दर्शाता है। तीन में से दो चुनाव आयुक्तों ने एस. आई. आर. के विशिष्ट निर्णयों पर 10 महीनों में 14 आपत्तियां दर्ज की हैं, जो आयोग के भीतर ही एक आंतरिक जांच और संतुलन है। संयुक्त राष्ट्र के तीन विशेष प्रतिवेदकों ने भारत को पत्र लिखकर हटाने के पहलुओं के बारे में चिंता जताई है। ये ठोस संस्थागत आवाजें हैं और वे ठोस संस्थागत प्रतिक्रियाओं के लायक हैं-बर्खास्तगी नहीं, और शत्रुतापूर्ण टिप्पणी के रूप में व्यवहार नहीं।",
+      "en": "The institutional record reflects this. Two of the three Election Commissioners have lodged 14 objections across 10 months over specific SIR decisions, an internal check-and-balance within the Commission itself. Three United Nations Special Rapporteurs have written to India raising concerns about aspects of the deletions. These are substantive institutional voices and they deserve substantive institutional responses — not dismissal, and not treatment as hostile commentary.",
+      "ur": "ادارہ جاتی ریکارڈ اس کی عکاسی کرتا ہے۔ تین میں سے دو الیکشن کمشنروں نے ایس آئی آر کے مخصوص فیصلوں پر 10 ماہ کے دوران 14 اعتراضات درج کرائے ہیں، جو کہ کمیشن کے اندر ہی ایک داخلی چیک اینڈ بیلنس ہے۔ اقوام متحدہ کے تین خصوصی نمائندوں نے ہندوستان کو خط لکھ کر حذف کرنے کے پہلوؤں کے بارے میں خدشات کا اظہار کیا ہے۔ یہ ٹھوس ادارہ جاتی آوازیں ہیں اور وہ ٹھوس ادارہ جاتی ردعمل کے مستحق ہیں-برخاستگی نہیں، اور دشمنانہ تبصرے کے طور پر سلوک نہیں کیا جاتا۔"
+    },
+    "b19": {
+      "hi": "लेकिन सटीक मायने रखता है। \"30 मिलियन नामों की जाँच की आवश्यकता है\" और \"130 मिलियन भारतीयों को मतदान से हटा दिया गया था\" अलग-अलग वाक्य हैं। पहला मूल है और गंभीर ध्यान देने योग्य है। दूसरा तथ्यात्मक रूप से गलत है और केवल इसलिए यात्रा करता है क्योंकि यह सुधार की तुलना में तेजी से यात्रा करता है।",
+      "en": "But precision matters. \"30 million names need checking\" and \"130 million Indians were removed from voting\" are different sentences. The first is substantive and deserves serious attention. The second is factually wrong and travels only because it travels faster than the correction.",
+      "ur": "لیکن درستگی اہم ہے۔ \"30 ملین ناموں کی جانچ پڑتال کی ضرورت ہے\" اور \"130 ملین ہندوستانیوں کو ووٹنگ سے ہٹا دیا گیا\" مختلف جملے ہیں۔ پہلا ٹھوس ہے اور سنجیدگی سے توجہ کا مستحق ہے۔ دوسرا حقیقتا غلط ہے اور صرف اس وجہ سے سفر کرتا ہے کہ یہ اصلاح سے زیادہ تیزی سے سفر کرتا ہے۔"
+    },
+    "b20": {
+      "hi": "सुधार देर से क्यों आया",
+      "en": "Why the correction arrived late",
+      "ur": "اصلاح میں دیر کیوں ہوئی"
+    },
+    "b21": {
+      "hi": "इस कथा को प्रसारित करने में विफलता मुख्य रूप से तथ्यात्मक नहीं है। यह व्याख्यात्मक है।",
+      "en": "The failure that let this narrative circulate is not primarily factual. It is explanatory.",
+      "ur": "اس بیانیے کو پھیلانے میں ناکامی بنیادی طور پر حقیقت پسندانہ نہیں ہے۔ یہ وضاحتی ہے۔"
+    },
+    "b22": {
+      "hi": "भारत के पास एक परिष्कृत संस्थागत ढांचा है जो विशेष रूप से इस तरह की कवायद को समझाने के लिए बनाया गया है-सूचना और प्रसारण मंत्रालय (एम. आई. बी.) और पत्र सूचना कार्यालय (पी. आई. बी.) मौजूद हैं, अन्य कारणों के अलावा, जटिल परिचालन अभ्यासों को पहले भारतीयों और दूसरे अंतरराष्ट्रीय समुदाय के लिए समझने योग्य सार्वजनिक संचार में बदलने के लिए। 13 करोड़ की संरचना पर, वह वास्तुकला आवश्यक गति और पैमाने के साथ सक्रिय नहीं हुई। चुनाव आयोग ने अंततः 13 करोड़ दावे को भ्रामक बताते हुए एक दस्तावेज जारी किया। जब तक यह प्रसारित हुआ, तब तक शीर्षक संख्या दुनिया भर में यात्रा कर चुकी थी।",
+      "en": "India has a sophisticated institutional architecture specifically designed to explain exactly this kind of exercise — the Ministry of Information and Broadcasting (MIB) and the Press Information Bureau (PIB) exist, among other reasons, to translate complex operational exercises into comprehensible public communication for Indians first and the international community second. On the 130 million framing, that architecture did not activate with the speed and scale the moment required. The Election Commission did eventually issue a document identifying the 130 million claim as misleading. By the time it circulated, the headline number had already travelled around the world.",
+      "ur": "ہندوستان کے پاس ایک جدید ترین ادارہ جاتی ڈھانچہ ہے جو خاص طور پر اس قسم کی مشق کی وضاحت کے لیے ڈیزائن کیا گیا ہے-وزارت اطلاعات و نشریات (ایم آئی بی) اور پریس انفارمیشن بیورو (پی آئی بی) موجود ہیں، دیگر وجوہات کے علاوہ، پیچیدہ آپریشنل مشقوں کو پہلے ہندوستانیوں کے لیے قابل فہم عوامی مواصلات میں ترجمہ کرنے کے لیے اور دوسرا بین الاقوامی برادری کے لیے۔ 130 ملین کی تشکیل پر، یہ فن تعمیر رفتار اور پیمانے کے ساتھ فعال نہیں ہوا جس لمحے کی ضرورت تھی۔ الیکشن کمیشن نے بالآخر ایک دستاویز جاری کی جس میں 130 ملین دعوے کو گمراہ کن قرار دیا گیا۔ جب تک یہ نشر ہوا، سرخی نمبر پہلے ہی دنیا بھر میں سفر کر چکا تھا۔"
+    },
+    "b23": {
+      "hi": "आधिकारिक संरचना के साथ-साथ एक व्यापक संरचनात्मक मुद्दा भी है-रजिस्टर में जटिल चुनावी और संस्थागत अभ्यासों की व्याख्या करने के लिए स्वतंत्र भारतीय आवाजों की कमी जिसे अंतर्राष्ट्रीय दर्शक पढ़ते हैं। कुछ टिप्पणीकार एस. आई. आर. संशोधन की व्याख्या करने के लिए तैयार हैं, बिना किसी रक्षात्मक या पक्षपातपूर्ण ध्वनि के। दोनों के बीच की जगह वह है जहां विश्वसनीय व्याख्या को रहना है, और अंतर्राष्ट्रीय कवरेज में भारत की अपनी कहानी का संस्करण मुश्किल से दर्ज किया गया है।",
+      "en": "Alongside the official architecture, there is a wider structural issue — the deficit of independent Indian voices equipped to explain complex electoral and institutional exercises in the register that international audiences read. Few commentators are positioned to explain the SIR revision without sounding either defensive or partisan. The space between the two is where credible explanation has to live, and in international coverage India's version of its own story has barely registered.",
+      "ur": "سرکاری ڈھانچے کے ساتھ ساتھ، ایک وسیع تر ساختی مسئلہ بھی ہے-رجسٹر میں پیچیدہ انتخابی اور ادارہ جاتی مشقوں کی وضاحت کرنے کے لیے لیس آزاد ہندوستانی آوازوں کی کمی جسے بین الاقوامی سامعین پڑھتے ہیں۔ بہت کم مبصرین ایس آئی آر ترمیم کی وضاحت کرنے کے لیے دفاعی یا متعصبانہ آواز کے بغیر پوزیشن میں ہیں۔ دونوں کے درمیان کی جگہ وہ ہے جہاں قابل اعتماد وضاحت زندہ ہے، اور بین الاقوامی کوریج میں ہندوستان کی اپنی کہانی کا ورژن بمشکل ہی درج ہوا ہے۔"
+    },
+    "b24": {
+      "hi": "परिणाम एक परिचित पैटर्न है। चेतावनी के लिए बनाया गया एक शीर्षक इसे सही करने के लिए आवश्यक तथ्यों की तुलना में तेजी से यात्रा करता है। एक मसौदा सूची वैश्विक कल्पना में एक शुद्धिकरण में अनुवादित हो जाती है। जो कमजोरी जमीन का शोषण करती है वह मतदाता सूची में ही नहीं है। यह रोल के आसपास के व्याख्यात्मक ढांचे में है।",
+      "en": "The result is a familiar pattern. A caption built to alarm travels faster than the facts needed to correct it. A draft list gets translated into a purge in the global imagination. The weakness that exploit lands on is not in the electoral roll itself. It is in the explanatory architecture around the roll.",
+      "ur": "نتیجہ ایک واقف نمونہ ہے۔ خطرے کی گھنٹی کے لیے بنایا گیا عنوان اسے درست کرنے کے لیے درکار حقائق سے زیادہ تیزی سے سفر کرتا ہے۔ ایک مسودہ فہرست عالمی تخیل میں ایک صفائی میں ترجمہ ہو جاتی ہے۔ جو کمزوری زمینوں کا استحصال کرتی ہے وہ خود انتخابی فہرست میں نہیں ہے۔ یہ رول کے ارد گرد وضاحتی فن تعمیر میں ہے۔"
+    },
+    "b25": {
+      "hi": "अंकगणित वास्तव में क्या उत्पन्न करता है",
+      "en": "What the arithmetic actually produces",
+      "ur": "ریاضی اصل میں کیا پیدا کرتی ہے"
+    },
+    "b26": {
+      "hi": "एस. आई. आर. की प्रचालन परीक्षा प्रारूप सूची का आंकड़ा नहीं है। यह अंतिम मतदाता सूची है। दूसरे चरण के अनुभवजन्य साक्ष्य पहले ही तय हो चुके हैंः अंतिम सूची में मसौदों की तुलना में लगभग 14 मिलियन अधिक मतदाता थे। दावे और आपत्तियों की प्रक्रिया कार्यात्मक रूप से कार्यात्मक है। मसौदा चरण में चिह्नित योग्य मतदाताओं को बहाल किया जा रहा है जहां वे दावा दायर करते हैं। नए योग्य मतदाताओं को बड़े पैमाने पर जोड़ा जा रहा है-संशोधन शुरू होने के बाद से 18 से 28 वर्ष की आयु के लगभग 23.7 लाख युवा मतदाता। मतदाता सूची एक साथ स्वच्छ हो रही है (डुप्लिकेट और मृत प्रविष्टियों को उत्तरोत्तर हटा दिया गया है) और अधिक समावेशी (नए योग्य मतदाताओं को उत्तरोत्तर जोड़ा गया है)। ये दोनों भारतीय लोकतंत्र की मजबूती हैं, न कि इसे कमजोर करना।",
+      "en": "The operational test of SIR is not the Draft Roll figure. It is the Final Electoral Roll. The empirical evidence from Phase II is already settled: Final Rolls carried approximately 14 million more electors than the Drafts had. The claims-and-objections process is operationally functional. Eligible voters flagged at the draft stage are being restored where they file claims. New eligible voters are being added at scale — approximately 23.7 million young voters aged 18 to 28 since the revision began. The electoral roll is simultaneously becoming cleaner (duplicate and deceased entries progressively removed) and more inclusive (new eligible voters progressively added). Both of these are strengthenings of Indian democracy, not weakenings of it.",
+      "ur": "ایس آئی آر کا آپریشنل ٹیسٹ ڈرافٹ رول کا اعداد و شمار نہیں ہے۔ یہ حتمی انتخابی فہرست ہے۔ دوسرے مرحلے سے تجرباتی ثبوت پہلے ہی طے ہو چکے ہیں: حتمی فہرستوں میں ڈرافٹس کے مقابلے میں تقریبا 14 ملین زیادہ ووٹرز تھے۔ دعووں اور اعتراضات کا عمل عملی طور پر فعال ہے۔ مسودے کے مرحلے پر نشان زد اہل ووٹرز کو بحال کیا جا رہا ہے جہاں وہ دعوے دائر کرتے ہیں۔ نئے اہل ووٹرز کو بڑے پیمانے پر شامل کیا جا رہا ہے-18 سے 28 سال کی عمر کے تقریبا 23. 7 ملین نوجوان ووٹرز جن پر نظر ثانی شروع ہوئی ہے۔ انتخابی فہرست بیک وقت صاف ہوتی جا رہی ہے (ڈپلیکیٹ اور مردہ اندراجات بتدریج ہٹائے جا رہے ہیں) اور زیادہ جامع (نئے اہل ووٹرز بتدریج شامل کیے جا رہے ہیں)۔ یہ دونوں ہندوستانی جمہوریت کی مضبوطی ہیں، اس کی کمزوری نہیں۔"
+    },
+    "b27": {
+      "hi": "पिछले गहन संशोधन के बाद से 2003 से 2026 का अंतर अपने आप में परिचालन आवश्यकता का हिस्सा है। 23 वर्षों के प्रवास, शहरीकरण, जनसांख्यिकीय परिवर्तन और मृत्यु-पंजीकरण अंतराल ने इस प्रक्रिया को काफी हद तक पुराना कर दिया। सर्वोच्च न्यायालय ने मई में एस. आई. आर. को बरकरार रखते हुए इस परिचालन आवश्यकता का विशेष रूप से उल्लेख किया। एक देश जो समय-समय पर अपनी मतदाता सूची को साफ नहीं करता है, वह एक सूची के साथ समाप्त होता है जो क्रमिक रूप से वास्तविक नागरिक वर्ग से अलग हो जाता है जिसका वह प्रतिनिधित्व करता है। एस. आई. आर. वह अभ्यास है जो उस विचलन को हल करता है।",
+      "en": "The 2003-to-2026 gap since the last intensive revision is itself part of the operational necessity. Twenty-three years of migration, urbanisation, demographic change, and death-registration gaps left the roll substantially out of date. The Supreme Court specifically cited this operational necessity when upholding the SIR in May. A country that does not periodically clean its electoral roll ends up with a roll that progressively diverges from the actual citizenry it is meant to represent. The SIR is the exercise that resolves that divergence.",
+      "ur": "آخری گہری نظر ثانی کے بعد سے 2003 سے 2026 کا فرق خود آپریشنل ضرورت کا حصہ ہے۔ تیئیس سال کی ہجرت، شہری کاری، آبادیاتی تبدیلی، اور موت کے اندراج کے فرق نے رول کو کافی حد تک ختم کر دیا۔ سپریم کورٹ نے مئی میں ایس آئی آر کو برقرار رکھتے ہوئے اس آپریشنل ضرورت کا خاص طور پر حوالہ دیا۔ ایک ایسا ملک جو وقتا فوقتا اپنے انتخابی رول کو صاف نہیں کرتا ہے اس کا اختتام ایک رول کے ساتھ ہوتا ہے جو بتدریج اس حقیقی شہری سے مختلف ہوتا ہے جس کی نمائندگی کرنا ہے۔ ایس آئی آر وہ مشق ہے جو اس انحراف کو حل کرتی ہے۔"
+    },
+    "b28": {
+      "hi": "यह क्या संकेत देता है",
+      "en": "What it signals",
+      "ur": "یہ کیا اشارہ کرتا ہے"
+    },
+    "b29": {
+      "hi": "भारत के चुनावी ढांचे के लिए, एस. आई. आर. अभ्यास देश के स्वतंत्रता के बाद के इतिहास में सबसे परिणामी रोल-सफाई प्रयासों में से एक का प्रतिनिधित्व करता है, जो संवैधानिक प्राधिकरण के तहत काम करता है, जिसे सर्वोच्च न्यायालय द्वारा बरकरार रखा गया है, जिसमें अनिवार्य प्रक्रियात्मक सुरक्षा उपाय बनाए गए हैं। भारत की लोकतांत्रिक प्रक्रिया के लिए, अप्रचलित प्रविष्टियों को एक साथ हटाना और 23.7 लाख युवा मतदाताओं सहित नए योग्य मतदाताओं को शामिल करना-प्रत्येक बाद के चुनाव की परिचालन अखंडता को उत्तरोत्तर मजबूत करता है। भारत के संस्थागत संचार ढांचे के लिए, 130 मिलियन प्रकरण एक सीधी चुनौती हैः परिचालन तथ्यों और वैश्विक कथा के बीच का अंतर कथा के पहले दौर को जीतने के लिए पर्याप्त था। वैश्विक मंच पर भारत की व्यापक कहानी के लिए, सबक विशिष्ट है-एक देश जो सुरक्षा, कूटनीति, आर्थिक प्रदर्शन और तकनीकी क्षमता पर जीतता है, उसे अपने संस्थागत रिकॉर्ड की रक्षा करने के लिए अपनी व्याख्यात्मक क्षमता का निर्माण भी करना चाहिए जब विदेश में इसे चित्रित किया जाता है।",
+      "en": "For India's electoral architecture, the SIR exercise represents one of the most consequential roll-cleaning efforts in the country's post-Independence history, operating under constitutional authority, upheld by the Supreme Court, with mandatory procedural safeguards built in. For India's democratic process, the simultaneous removal of obsolete entries and inclusion of new eligible voters — including 23.7 million young voters — progressively strengthens the operational integrity of every subsequent election. For India's institutional communications architecture, the 130 million episode is a direct challenge: the gap between the operational facts and the global narrative was wide enough for the narrative to win the first round. For India's wider story on the global stage, the lesson is specific — a country that wins on security, diplomacy, economic performance and technological capability must also build the explanatory capacity to defend its own institutional record when it is caricatured abroad.",
+      "ur": "ہندوستان کے انتخابی ڈھانچے کے لیے، ایس آئی آر مشق ملک کی آزادی کے بعد کی تاریخ میں سب سے زیادہ نتیجہ خیز رول کلیننگ کوششوں میں سے ایک کی نمائندگی کرتی ہے، جو آئینی اختیار کے تحت کام کرتی ہے، جسے سپریم کورٹ نے برقرار رکھا ہے، جس میں لازمی طریقہ کار کے تحفظات بنائے گئے ہیں۔ ہندوستان کے جمہوری عمل کے لیے، متروک اندراجات کو بیک وقت ہٹانا اور نئے اہل ووٹرز کو شامل کرنا-جس میں 23. 7 ملین نوجوان ووٹرز بھی شامل ہیں-ہر بعد کے انتخابات کی آپریشنل سالمیت کو بتدریج مضبوط کرتا ہے۔ ہندوستان کے ادارہ جاتی مواصلاتی ڈھانچے کے لیے، 130 ملین واقعہ ایک براہ راست چیلنج ہے: آپریشنل حقائق اور عالمی بیانیے کے درمیان فرق بیانیہ کے لیے پہلا دور جیتنے کے لیے کافی وسیع تھا۔ عالمی سطح پر ہندوستان کی وسیع کہانی کے لیے، سبق مخصوص ہے-ایک ایسا ملک جو سلامتی، سفارت کاری، معاشی کارکردگی اور تکنیکی صلاحیت پر جیتتا ہے، اسے اپنے ادارہ جاتی ریکارڈ کا دفاع کرنے کے لیے اپنی وضاحتی صلاحیت بھی پیدا کرنی چاہیے جب اسے غیر ملکی شکل دی جاتی ہے۔"
+    },
+    "b30": {
+      "hi": "13 करोड़ ड्राफ्ट रोल झंडे से लेकर अंतिम मतदाता सूची तक जो अपने वर्तमान पते पर सही ढंग से पंजीकृत प्रत्येक पात्र मतदाता को दर्शाती है। 28 करोड़ मृत प्रविष्टियों से किसी भी गंभीर रोल को एक व्यक्ति-एक वोट के ढांचे में वापस लाना होगा। 63 करोड़ स्थायी-शिफ्ट मामलों से जो भारत की जनसांख्यिकीय गतिशीलता को दर्शाते हैं, एक रोल जो मतदाता सूची का अनुसरण करने के बजाय मतदाता का अनुसरण करता है। 23 करोड़ नए युवा मतदाताओं से लोकतांत्रिक प्रक्रिया में जोड़ा गया है जो नागरिकों के साथ उत्तरोत्तर नवीनीकृत किया गया है जिसका अर्थ है कि यह प्रतिनिधित्व करना है। भारत ने 13 करोड़ मतदाताओं को नहीं हटाया। इसने 23 वर्षों में अपनी मतदाता सूची का पहला गहन संशोधन किया, संवैधानिक अधिकार के तहत, सर्वोच्च न्यायालय के समर्थन के साथ, और अनिवार्य सुरक्षा उपायों के संचालन के साथ। इस प्रकरण की कमजोरी रोल में नहीं है। यह इसके आसपास के व्याख्यात्मक ढांचे में है। सूची को साफ किया जा रहा है। कहानी को बेहतर ढंग से बताने की आवश्यकता है।",
+      "en": "From 130 million Draft Roll flags to a Final Electoral Roll that reflects every eligible voter accurately registered at their current address. From 28 million deceased entries that any serious roll must remove to a one-person-one-vote architecture restored. From 63 million permanent-shift cases that reflect India's demographic dynamism to a roll that follows the voter rather than the voter following the roll. From 23.7 million new young voters added to a democratic process progressively renewed with the citizens it is meant to represent. India did not delete 130 million voters. It conducted the first intensive revision of its electoral roll in 23 years, under constitutional authority, with Supreme Court endorsement, and with mandatory safeguards operating. The weakness this episode has exposed is not in the roll. It is in the explanatory architecture around it. The roll is being cleaned. The story needs to be told better.",
+      "ur": "ڈرافٹ رول کے جھنڈوں سے لے کر حتمی انتخابی فہرست تک جو اپنے موجودہ پتے پر درست طریقے سے رجسٹرڈ ہر اہل ووٹر کی عکاسی کرتی ہے۔ 28 ملین مردہ اندراجات جن میں کسی بھی سنگین رول کو ہٹانا ضروری ہے، سے لے کر ایک شخص ایک ووٹ کے ڈھانچے کو بحال کیا گیا۔ 63 ملین مستقل شفٹ کیسز جو ہندوستان کی آبادیاتی حرکیات کی عکاسی کرتے ہیں، سے لے کر ایک رول تک جو رول کے بعد آنے والے ووٹر کے بجائے ووٹر کا پیچھا کرتا ہے۔ 23. 7 ملین نئے نوجوان ووٹرز سے جمہوری عمل میں بتدریج شہریوں کے ساتھ تجدید شدہ اس کی نمائندگی کرنا ہے۔ ہندوستان نے 13 کروڑ ووٹرز کو حذف نہیں کیا۔ اس نے 23 سالوں میں اپنے انتخابی فہرست کی پہلی گہری ترمیم آئینی اختیار کے تحت، سپریم کورٹ کی توثیق کے ساتھ، اور لازمی حفاظتی اقدامات کے ساتھ کی۔ اس واقعہ کی کمزوری رول میں نہیں ہے۔ یہ اس کے ارد گرد وضاحتی ڈھانچے میں ہے۔ رول کو صاف کیا جا رہا ہے۔ کہانی کو بہتر طریقے سے بتانے کی ضرورت ہے۔"
+    }
+  }
+}
