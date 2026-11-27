@@ -1,0 +1,685 @@
+{
+  "hash": "e018ef53a00a6e0c",
+  "t": {
+    "fm.section": {
+      "hi": "राष्ट्रीय/सूचना युद्ध",
+      "en": "National / Information Warfare",
+      "ur": "قومی/اطلاعاتی جنگ"
+    },
+    "fm.kicker": {
+      "hi": "\"रावलपिंडी · आई. एस. पी. आर. डिजिटल बैरक · डीपफेक फैक्ट्री · नकली पहचान · अनुशी तिवारी · हाइब्रिड वार\"",
+      "en": "\"Rawalpindi · ISPR Digital Barracks · Deepfake Factory · Fake Identities · Anushi Tiwari · Hybrid War\"",
+      "ur": "\"راول پنڈی · آئی ایس پی آر ڈیجیٹل بیرک · ڈیپ فیکٹی · جعلی شناخت · انوشی تیواری · ہائبرڈ وار\""
+    },
+    "fm.byline": {
+      "hi": "सूचना युद्ध डेस्क",
+      "en": "Information Warfare Desk",
+      "ur": "انفارمیشن وارفیئر ڈیسک"
+    },
+    "fm.location": {
+      "hi": "नई दिल्ली",
+      "en": "New Delhi",
+      "ur": "نئی دہلی"
+    },
+    "fm.headline": {
+      "hi": "\"रावलपिंडी की डिजिटल बैरकः आई. एस. पी. आर. की डीपफेक फैक्ट्री के अंदर भारत के इंटरनेट पर युद्ध छेड़ना\"",
+      "en": "\"Rawalpindi's digital barracks: inside the ISPR's deepfake factory waging war on India's internet\"",
+      "ur": "\"راول پنڈی کی ڈیجیٹل بیرکوں: آئی ایس پی آر کی ڈیپ فیک فیکٹری کے اندر ہندوستان کے انٹرنیٹ پر جنگ چھیڑ رہے ہیں\""
+    },
+    "fm.subdeck": {
+      "hi": "\"सेना प्रमुख जनरल उपेंद्र द्विवेदी का एक गहरा नकली वीडियो, जिसे त्रि-सेवा सेमिनार रन समवाद में उनके वास्तविक भाषण से हेरफेर किया गया था और'द पाकिस्तान टेलीग्राफ'नामक एक पाकिस्तानी हैंडल के माध्यम से बाहर धकेल दिया गया था, एक ऐसे युद्ध का परिचालन संकेत है जिसे पाकिस्तान अब वर्दी में नहीं लड़ सकता है। सैन्य रूप से पीटा गया, आर्थिक रूप से बेहतर प्रदर्शन किया, राजनयिक रूप से आगे बढ़ाया गया, और संयुक्त राष्ट्र से लेकर वित्तीय कार्रवाई कार्य बल तक हर अंतरराष्ट्रीय मंच पर बदनाम किया गया, पाकिस्तानी सेना ने अपनी अग्रिम पंक्ति को एकमात्र युद्ध के मैदान में स्थानांतरित कर दिया है-भारतीय इंटरनेट। रावलपिंडी में पाकिस्तानी सेना की अंतर-सेवा जनसंपर्क शाखा के अंदर कमान संरचना बैठती है। वास्तुकार पूर्व आई. एस. पी. आर. महानिदेशक लेफ्टिनेंट जनरल असीम सलीम बाजवा (सेवानिवृत्त) थे, जिन्होंने 2015 के आसपास सोशल मीडिया युद्ध मॉड्यूल बनाया था। सैनिक पाकिस्तानी इंटर्न के छोटे नेटवर्क पर छोटे वीडियो रोल कर रहे हैं, पुराने कार्यों के लिए प्रशिक्षित किए गए हैं, नकली वीडियो, नकली पहचान, और फिर जाली पहचान, और नकली पहचान, और फिर भारतीय दर्शकों को लक्षित करने वाले नकली हथियार, नकली पहचान, और फिर जाली जीवन-निर्मित वीडियो, नकली पहचान, और नकली पहचान के लिए इस्तेमाल किए गए भारतीय दर्शकों को लक्षित करने वाले",
+      "en": "\"A deepfake video of Army Chief General Upendra Dwivedi, manipulated from his genuine speech at the Tri-Service seminar Ran Samwad and pushed out through a Pakistani handle called 'The Pakistan Telegraph,' is the operational signature of a war Pakistan can no longer fight in uniform. Beaten militarily, outperformed economically, outmanoeuvred diplomatically, and discredited on every international forum from the United Nations to the Financial Action Task Force, the Pakistani military has moved its frontline onto the only battlefield left to it — the Indian internet. The command structure sits inside the Inter-Services Public Relations wing of the Pakistani military at Rawalpindi. The architect was former ISPR Director General Lt Gen Asim Saleem Bajwa (retired), who built the social media warfare module around 2015. The soldiers are a rolling network of young Pakistani interns recruited on short assignments, trained to produce memes, videos, deepfakes and fake-identity content targeting Indian audiences, and then rotated back into civilian life. The weapons are AI-generated videos, fake Indian personas, recycled footage from old riots, and fabricated casualty claims deployed to inflame communal fault lines. The target is not the Indian soldier. The target is the Indian citizen's trust — in India's leadership, in India's institutions, and in India's fellow citizens of other faiths, castes and regions. This is the other front. And it is open twenty-four hours a day.\"",
+      "ur": "\"آرمی چیف جنرل اوپیندر دویدی کی ایک ڈیپ فیک ویڈیو، جسے ٹرائی سروس سیمینار رن سمواد میں ان کی حقیقی تقریر سے ہیرا پھیری کی گئی اور'دی پاکستان ٹیلی گراف'نامی پاکستانی ہینڈل کے ذریعے باہر دھکیل دیا گیا، ایک ایسی جنگ کا آپریشنل اشارہ ہے جسے پاکستان اب وردی میں نہیں لڑ سکتا۔ فوجی طور پر مارا پیٹا گیا، معاشی طور پر بہتر کارکردگی کا مظاہرہ کیا، سفارتی طور پر پیچھے رہ گیا، اور اقوام متحدہ سے لے کر فنانشل ایکشن ٹاسک فورس تک ہر بین الاقوامی فورم پر بدنام کیا گیا، پاکستانی فوج نے اپنے فرنٹ لائن کو واحد میدان جنگ میں منتقل کر دیا ہے-ہندوستانی انٹرنیٹ۔ کمانڈ ڈھانچہ پاکستان کی فوج کے انٹر سروسز پبلک ریلیشن ونگ کے اندر بیٹھتا ہے۔ معمار سابق آئی ایس پی آر کے ڈائریکٹر جنرل لیفٹیننٹ جنرل اعصام سلیم باجوا (ریٹائرڈ) تھے، جنہوں نے 2015 کے آس پاس سوشل میڈیا وارفیئر ماڈیول بنایا تھا۔ فوجی جوانوں کو بھرتی کیے گئے پاکستانی انٹرن نیٹ ورک کی مختصر ویڈیوز، جعلی کاموں، جعلی اہداف، جعلی گولیاں، جعلی گولیاں، اور پھر ہندوستانی عوام کے جانی نقصانات، اور نقصانات، جعلی دعووں کو دوبارہ استعمال کرنے کے لیے"
+    },
+    "b0": {
+      "hi": "वीडियो देखें और पहली प्रवृत्ति इस पर विश्वास करना है। चेहरा जनरल उपेंद्र द्विवेदी का है। आवाज जनरल उपेंद्र द्विवेदी की तरह लगती है। यह दृश्य त्रि-सेवा सेमिनार रण संवाद की तरह है, जिसमें सेना प्रमुख ने वास्तव में इस साल की शुरुआत में भाषण दिया था। समस्या यह है कि जनरल ने वह नहीं कहा जो वीडियो दावा करता है। उन्होंने ऑपरेशन सिंदूर पर फिल्म की पटकथा देने की पेशकश नहीं की। उद्धरण बनाया गया है। ऑडियो में हेरफेर किया गया है। वीडियो एक डीपफेक है, और इसे द टेलीग्राफ नामक एक पाकिस्तानी हैंडल द्वारा भारतीय सोशल मीडिया पर डाला गया था। यह भारत के सबसे वरिष्ठ सेवारत सैन्य अधिकारी की विश्वसनीयता को कम करने के लिए एक निरंतर, समन्वित ऑपरेशन के हिस्से के रूप में है। वह एकल डीपफेक युद्ध के मैदान से भेजा गया एक संदेश है जो अब हर दिन हजारों नकली खाते हैं। रावलपिंडी में आईएस के पूर्व सैन्य विंग के लेफ्टिनेंट जनरल बज्मीर, जिसे 2015 में पाकिस्तानी सैन्य मुख्यालय में स्थायी रूप से बनाया गया था, इंटररेंस के सोशल मीडिया मॉड्यूल के रूप में, लेफ्टिनेंट जनरल बज्मीर, जिसे इंटरराइज्ड मिलिट्री रिलेशंस के निदेशक के रूप में बनाया गया था।",
+      "en": "Watch the video and the first instinct is to believe it. The face is General Upendra Dwivedi's. The voice sounds like General Upendra Dwivedi's. The setting looks like the Tri-Service seminar Ran Samwad where the Chief of the Army Staff genuinely did deliver a speech earlier this year. The only problem is that the General did not say what the video claims he said. He did not offer to provide the script for a movie on Operation Sindoor. The quote is manufactured. The audio is manipulated. The video is a deepfake, and it was pushed out onto Indian social media by a Pakistani handle called The Pakistan Telegraph as part of a sustained, coordinated operation to undermine the credibility of India's senior-most serving Army officer. That single deepfake is one dispatch from a battlefield on which thousands of fake accounts are now firing every hour of every day. The command headquarters is at Rawalpindi, inside the Inter-Services Public Relations wing of the Pakistani military. The architect was former ISPR Director General Lt Gen Asim Saleem Bajwa (retired), who built this social media warfare module around 2015 and institutionalised it as a permanent dimension of the Pakistani military's posture toward India. The soldiers are young Pakistani interns, trained in short assignments, producing propaganda on demand and rotating back into civilian life to preserve deniability. The weapons are AI-generated videos, fake Indian personas, recycled footage from old Indian riots, and fabricated casualty claims from communal incidents that never happened. The target is not the Indian soldier. The target is the Indian citizen's trust. This is Rawalpindi's other front. And it is open twenty-four hours a day.",
+      "ur": "ویڈیو دیکھیں اور پہلی جبلت اس پر یقین کرنا ہے۔ چہرہ جنرل اوپیندر دویدی کا ہے۔ آواز جنرل اوپیندر دویدی کی طرح لگتی ہے۔ ترتیب سہ فریقی سیمینار ران سمواد کی طرح لگتی ہے جہاں چیف آف آرمی اسٹاف نے واقعی اس سال کے شروع میں تقریر کی تھی۔ واحد مسئلہ یہ ہے کہ جنرل نے وہ نہیں کہا جو ویڈیو میں دعوی کیا گیا ہے۔ اس نے آپریشن سندور پر فلم کے لیے اسکرپٹ فراہم کرنے کی پیشکش نہیں کی۔ اقتباس تیار کیا گیا ہے۔ ویڈیو ایک ڈیپ فیک ہے، اور اسے دی پاکستان ٹیلی گراف نامی ایک پاکستانی ہینڈل نے ہندوستانی سوشل میڈیا پر دھکیل دیا تھا۔ ہندوستان کے سب سے سینئر حاضر سروس فوجی افسر کی ساکھ کو کمزور کرنے کے لیے ایک مستقل، مربوط آپریشن کے حصے کے طور پر۔ وہ واحد ڈیپ فیک میدان جنگ سے ایک ڈسپیچ ہے جو اب ہر روز ہزاروں جعلی اکاؤنٹس ہیں۔ آئی ایس آئی ایس کے سابق سوشل میڈیا ڈائریکٹر جنرل بجیم، جو 2015 میں اس وقت کے اندر پاکستانی فوجی ہیڈ کوارٹر پر مستقل فائرنگ کر رہے تھے۔"
+    },
+    "b1": {
+      "hi": "युद्ध पाकिस्तान अब वर्दी में नहीं लड़ सकता",
+      "en": "The war Pakistan can no longer fight in uniform",
+      "ur": "جنگ پاکستان اب وردی میں نہیں لڑ سکتا"
+    },
+    "b2": {
+      "hi": "पिछले दो दशकों में पाकिस्तानी सेना के पथ का अनुसरण करने वाला प्रत्येक भारतीय जानता है कि पाकिस्तानी पारंपरिक क्षमता का क्या हुआ है। कारगिल के बाद से भारत के साथ हर सीधी गतिज मुठभेड़ पाकिस्तानी हथियारों के लिए बुरी तरह से समाप्त हुई है। 2016 का सर्जिकल स्ट्राइक। 2019 का बालाकोट हवाई हमला। 2025 का ऑपरेशन सिंधूर। प्रत्येक मामले में, भारतीय बलों ने ठीक वही जवाब दिया जो पाकिस्तानी उकसावे ने अर्जित किया था, और पाकिस्तानी प्रतिरोध को वास्तविक से अधिक बयानबाजी के रूप में उत्तरोत्तर उजागर किया गया था।",
+      "en": "Every Indian who has followed the Pakistani military's trajectory across the past two decades knows what has happened to Pakistani conventional capability. Every direct kinetic encounter with India since Kargil has ended badly for Pakistani arms. The surgical strikes of 2016. The Balakot airstrike of 2019. Operation Sindoor of 2025. In each case, Indian forces delivered precisely the response Pakistani provocations had earned, and Pakistani deterrence was progressively exposed as more rhetorical than real.",
+      "ur": "ہر ہندوستانی جس نے پچھلی دو دہائیوں میں پاکستانی فوج کی رفتار کی پیروی کی ہے وہ جانتا ہے کہ پاکستانی روایتی صلاحیت کا کیا ہوا ہے۔ کارگل کے بعد سے ہندوستان کے ساتھ ہر براہ راست متحرک تصادم پاکستانی ہتھیاروں کے لیے بری طرح ختم ہوا ہے۔ 2016 کی سرجیکل اسٹرائیکس۔ 2019 کا بالاکوٹ فضائی حملہ۔ 2025 کا آپریشن سندور۔ ہر معاملے میں، ہندوستانی افواج نے پاکستانی اشتعال انگیزی کا قطعی جواب دیا، اور پاکستانی روک تھام کو بتدریج بے نقاب کیا گیا کہ یہ حقیقت سے زیادہ بیان بازی تھی۔"
+    },
+    "b3": {
+      "hi": "आर्थिक स्थिति और भी खराब है। अब पाकिस्तान अंतर्राष्ट्रीय मुद्रा कोष के बेलआउट, चीनी ऋण भुगतान और खाड़ी देशों के नकदी इंजेक्शनों पर खुद को बनाए रखता है। मुद्रास्फीति, विदेशी मुद्रा की कमी, ऊर्जा संकट और संस्थागत पक्षाघात ने पाकिस्तानी राज्य की अपनी आबादी को सामान्य सेवाएं देने की क्षमता को खोखला कर दिया है। राजनयिक कहानी सबसे खराब है। हर अंतरराष्ट्रीय मंच पर जहां पाकिस्तान ने भारत को अलग-थलग करने की कोशिश की है, इसके विपरीत हुआ है। पाकिस्तान को एफ. ए. टी. एफ. में ग्रे-लिस्टेड किया गया है। भारत का मंच पर स्वागत किया गया है-क्वाड, ब्रिकस, एससीओ, जी20, आई. एम. ई. ई. सी., आई. 2यू. यू. 2। भारत मूल के नेता अब अंतरराष्ट्रीय संस्थानों के प्रमुख हैं जो पाकिस्तान में शामिल होने की विश्वसनीय इच्छा भी नहीं रखते हैं।",
+      "en": "The economic story is worse. Pakistan now sustains itself on serial International Monetary Fund bailouts, Chinese debt rollovers, and Gulf-state cash injections. Inflation, foreign exchange shortages, energy crises, and institutional paralysis have hollowed out the Pakistani state's capacity to deliver ordinary services to its own population. The diplomatic story is worst of all. On every international forum where Pakistan has sought to isolate India, the opposite has happened. Pakistan has been grey-listed at FATF. India has been welcomed into forum after forum — Quad, BRICS, SCO, G20, IMEEC, I2U2. India-origin leaders now head international institutions Pakistan cannot even credibly aspire to join.",
+      "ur": "اقتصادی کہانی بدتر ہے۔ پاکستان اب بین الاقوامی مالیاتی فنڈ کے بیل آؤٹ، چینی قرضوں کے رول اوور، اور خلیجی ریاست کے نقد انجیکشن پر خود کو برقرار رکھتا ہے۔ افراط زر، زرمبادلہ کی قلت، توانائی کے بحران، اور ادارہ جاتی فالج نے پاکستانی ریاست کی اپنی آبادی کو عام خدمات فراہم کرنے کی صلاحیت کو کھوکھلا کر دیا ہے۔ سفارتی کہانی سب سے بری ہے۔ ہر بین الاقوامی فورم پر جہاں پاکستان نے ہندوستان کو الگ تھلگ کرنے کی کوشش کی ہے، اس کے برعکس ہوا ہے۔ پاکستان کو ایف اے ٹی ایف میں گرے لسٹ میں ڈال دیا گیا ہے۔ ہندوستان کا ایک کے بعد ایک فورم میں خیرمقدم کیا گیا ہے-کواڈ، برکس، ایس سی او، جی 20، آئی ایم ای ای سی، آئی 2 یو 2۔ اب ہندوستانی نژاد رہنما بین الاقوامی اداروں کے سربراہ بھی نہیں ہیں جو پاکستان میں شامل ہونے کی قابل اعتماد خواہش رکھتے ہیں۔"
+    },
+    "b4": {
+      "hi": "वर्दी में पीटा गया, वाणिज्य में पीटा गया, कूटनीति में पीटा गया, पाकिस्तानी सेना ने अपनी भारत विरोधी परियोजना को नहीं छोड़ा। उसने इसे स्थानांतरित कर दिया है। युद्ध का मैदान नियंत्रण रेखा से मोबाइल फोन स्क्रीन पर चला गया है। हथियार एफ-16 से नकली खातों में चले गए हैं। कमान संरचना सेना प्रमुख के कार्यालय से आईएसपीआर सोशल मीडिया सेल में चली गई है। और लक्ष्य भारतीय सैन्य प्रतिष्ठानों से भारतीय नागरिकों के भारत के अपने संस्थानों में विश्वास की ओर बढ़ गए हैं।",
+      "en": "Beaten in uniform, beaten in commerce, beaten in diplomacy, the Pakistani military has not abandoned its anti-India project. It has relocated it. The battlefield has moved from the Line of Control to the mobile phone screen. The weapons have moved from F-16s to fake accounts. The command structure has moved from the Chief of Army Staff's office to the ISPR social media cell. And the targets have moved from Indian military installations to the Indian citizen's trust in India's own institutions.",
+      "ur": "وردی میں مارا پیٹا گیا، تجارت میں مارا پیٹا گیا، سفارت کاری میں مارا پیٹا گیا، پاکستانی فوج نے اپنے بھارت مخالف منصوبے کو ترک نہیں کیا۔ اس نے اسے منتقل کر دیا ہے۔ میدان جنگ لائن کنٹرول سے موبائل فون اسکرین پر منتقل ہو گیا ہے۔ ہتھیار ایف-16 سے جعلی اکاؤنٹس کی طرف منتقل ہو گئے ہیں۔ کمانڈ کا ڈھانچہ چیف آف آرمی اسٹاف کے دفتر سے آئی ایس پی آر سوشل میڈیا سیل میں منتقل ہو گیا ہے۔ اور اہداف ہندوستانی فوجی تنصیبات سے ہندوستانی شہریوں کے ہندوستان کے اپنے اداروں پر اعتماد کی طرف منتقل ہو گئے ہیں۔"
+    },
+    "b5": {
+      "hi": "आई. एस. पी. आर. इंटर्नशिप-रावलपिंडी की डिजिटल भर्ती",
+      "en": "The ISPR internship — Rawalpindi's digital conscription",
+      "ur": "آئی ایس پی آر انٹرن شپ-راول پنڈی کی ڈیجیٹل بھرتی"
+    },
+    "b6": {
+      "hi": "इस अभियान की संचालन संरचना विस्तार से समझने योग्य है, क्योंकि यह बताता है कि इस पैमाने के संचालन को उस तरह का अंतर्राष्ट्रीय ध्यान आकर्षित किए बिना कैसे बनाए रखा जा सकता है जो समान आकार का एक पारंपरिक पाकिस्तानी सैन्य अभियान तुरंत आकर्षित करेगा।",
+      "en": "The operational architecture of this campaign is worth understanding in detail, because it explains how an operation of this scale can be sustained without attracting the kind of international attention that a conventional Pakistani military operation of equivalent size would immediately attract.",
+      "ur": "اس مہم کا آپریشنل فن تعمیر تفصیل سے سمجھنے کے قابل ہے، کیونکہ یہ وضاحت کرتا ہے کہ اس پیمانے کے آپریشن کو بین الاقوامی توجہ مبذول کرائے بغیر کیسے برقرار رکھا جا سکتا ہے جو مساوی سائز کا روایتی پاکستانی فوجی آپریشن فوری طور پر اپنی طرف متوجہ کرے گا۔"
+    },
+    "b7": {
+      "hi": "यह कार्यक्रम 2015 के आसपास तत्कालीन आई. एस. पी. आर. के महानिदेशक लेफ्टिनेंट जनरल असीम सलीम बाजवा के निर्देशन में बनाया गया था, जो अब सेवानिवृत्त हो चुके हैं। मुख्य डिजाइन अंतर्दृष्टि यह थी कि हजारों प्रचार निर्माताओं का एक स्थायी भुगतान कर्मचारी आर्थिक रूप से अस्थिर, स्पष्ट रूप से संचालन योग्य और कानूनी रूप से राज्य द्वारा संचालित प्रचार उपकरण के रूप में उजागर होगा। बाजवा का जवाब एक इंटर्नशिप मॉडल था। युवा पाकिस्तानी स्वयंसेवकों को अल्पकालिक कार्यों में भर्ती किया जाता है। उन्हें मीम, वीडियो, पाठ सामग्री, नकली-पहचान व्यक्तित्व सामग्री और वर्तमान आई. एस. पी. आर. भारत विरोधी संदेश आवश्यकताओं के साथ संरेखित निर्दिष्ट विषयों पर प्रवर्धन पदों का उत्पादन करने का काम सौंपा जाता है। वे स्थायी आई. एस. पी. आर. कर्मचारी नहीं हैं। वे किसी भी औपचारिक अर्थ में आई. एस. पी. आर. वेतन पर नहीं हैं जो एक बाहरी अन्वेषक दस्तावेज कर सकता है। अपने कार्यों को पूरा करने के बाद, वे आम पाकिस्तानी नागरिक जीवन में लौटते हैं, अक्सर औपचारिक रूप से उनकी भागीदारी को स्वीकार किए बिना।",
+      "en": "The programme was built around 2015 under the direction of then-ISPR Director General Lt Gen Asim Saleem Bajwa, now retired. The core design insight was that a permanent paid staff of thousands of propaganda producers would be unsustainable financially, unmistakable operationally, and legally exposed as a state-run propaganda apparatus. Bajwa's answer was an internship model. Young Pakistani volunteers are recruited onto short-term assignments. They are tasked with producing memes, videos, text content, fake-identity persona material, and amplification posts on specified topics aligned with the current ISPR anti-India messaging requirements. They are not permanent ISPR employees. They are not on the ISPR payroll in any formal sense that an external investigator could document. After completing their assignments, they return to ordinary Pakistani civilian life, often without ever having formally acknowledged their participation.",
+      "ur": "یہ پروگرام 2015 کے آس پاس اس وقت کے آئی ایس پی آر کے ڈائریکٹر جنرل لیفٹیننٹ جنرل اعصام سلیم باجوا کی ہدایت پر بنایا گیا تھا، جو اب ریٹائرڈ ہیں۔ بنیادی ڈیزائن کی بصیرت یہ تھی کہ ہزاروں پروپیگنڈا پروڈیوسروں کا مستقل تنخواہ والا عملہ مالی طور پر غیر مستحکم، بے عیب آپریشنل اور قانونی طور پر سرکاری پروپیگنڈا آلات کے طور پر بے نقاب ہوگا۔ باجوا کا جواب ایک انٹرنشپ ماڈل تھا۔ نوجوان پاکستانی رضاکاروں کو قلیل مدتی اسائنمنٹس پر بھرتی کیا جاتا ہے۔ انہیں میمز، ویڈیوز، ٹیکسٹ مواد، جعلی شناختی شخصیت کا مواد، اور موجودہ آئی ایس پی آر کے ہندوستان مخالف پیغام رسانی کے تقاضوں سے منسلک مخصوص موضوعات پر امپلیفکیشن پوسٹ تیار کرنے کا کام سونپا جاتا ہے۔ وہ مستقل آئی ایس پی آر ملازمین نہیں ہیں۔ وہ کسی بھی رسمی معنوں میں آئی ایس پی آر پے رول پر نہیں ہیں جو کہ ایک بیرونی تفتیش کار دستاویز کر سکتا ہے۔ اپنی اسائنمنٹس مکمل کرنے کے بعد، وہ عام پاکستانی شہری زندگی میں واپس آتے ہیں، اکثر رسمی طور پر ان کی شرکت کے بغیر۔"
+    },
+    "b8": {
+      "hi": "मॉडल स्केल। किसी भी समय, कई सौ प्रशिक्षु असाइनमेंट के माध्यम से घूम सकते हैं, सामग्री की एक निरंतर धारा उत्पन्न करते हैं जो हजारों स्वतंत्र स्रोतों से उत्पन्न होती प्रतीत होती है। मॉडल इनकार करने योग्य रूप से कर्मचारी है। किसी भी एक प्रशिक्षु को व्यक्तिगत राय व्यक्त करने वाले एक निजी नागरिक के रूप में अस्वीकार किया जा सकता है। मॉडल कमांड सुसंगतता को संरक्षित करता है। संदेश विषयों, लक्षित संस्थानों और स्वयंसेवकों की घूर्णन तरंगों में परिचालन गति का अंतर्निहित आई. एस. पी. आर. नियंत्रण बरकरार रहता है। और मॉडल ने तब से पूरे दशक में विस्तार किया है जब से बाजवा ने इसे पहली बार बनाया है। प्रत्येक क्रमिक आई. एस. पी. आर. नेतृत्व ने अधिक परिष्कृत तकनीकी क्षमता में निवेश किया है-ए. आई. डीपफेक पीढ़ी, समन्वित प्रवर्धन बुनियादी ढांचा, क्रॉस-प्लेटफ़ॉर्म व्यक्तित्व प्रबंधन-जो बाजवा की मूल इंटर्न-स्वयंसेवक रीढ़ के शीर्ष पर स्तरित है।",
+      "en": "The model scales. At any given moment, several hundred interns can be rotating through assignments, generating a continuous stream of content that appears to originate from thousands of independent sources. The model deniably staffs. Any one intern can be disavowed as a private citizen expressing personal opinions. The model preserves command coherence. The underlying ISPR control of the messaging topics, the target institutions, and the operational tempo remains intact across rotating waves of volunteers. And the model has expanded across the decade since Bajwa first built it. Each successive ISPR leadership has invested in more sophisticated technical capability — AI deepfake generation, coordinated amplification infrastructure, cross-platform persona management — layered on top of Bajwa's original intern-volunteer backbone.",
+      "ur": "ماڈل پیمانے۔ کسی بھی لمحے، کئی سو انٹرن اسائنمنٹس کے ذریعے گھوم سکتے ہیں، مواد کا ایک مسلسل سلسلہ پیدا کر سکتے ہیں جو ہزاروں آزاد ذرائع سے شروع ہوتا دکھائی دیتا ہے۔ ماڈل ناقابل تردید طور پر عملہ ہے۔ کسی بھی ایک انٹرن کو ذاتی رائے کا اظہار کرنے والے نجی شہری کے طور پر مسترد کیا جا سکتا ہے۔ ماڈل کمانڈ کی ہم آہنگی کو برقرار رکھتا ہے۔ پیغام رسانی کے موضوعات، ہدف اداروں اور آپریشنل ٹیمپو پر بنیادی آئی ایس پی آر کنٹرول رضاکاروں کی گھومتی لہروں میں برقرار رہتا ہے۔ اور جب سے باجوا نے اسے پہلی بار بنایا ہے اس ماڈل نے دہائی بھر میں توسیع کی ہے۔ ہر یکے بعد دیگرے آئی ایس پی آر قیادت نے زیادہ نفیس تکنیکی صلاحیت میں سرمایہ کاری کی ہے-اے آئی ڈیپ فیک جنریشن، مربوط امپلیفیکیشن انفراسٹرکچر، کراس پلیٹ فارم پرسنل مینجمنٹ-جو باجوا کی اصل انٹرن رضاکار ریڑھ کی ہڈی کے اوپر پرتوں پر ہے۔"
+    },
+    "b9": {
+      "hi": "परिणाम यह है कि भारत अब ऑनलाइन का सामना कर रहा है। एक ऐसा ऑपरेशन जो ऑर्गेनिक दिखता है, दर्जनों भारतीय-ध्वनि वाली आवाज़ों में बोलता है, और औद्योगिक पैमाने पर सामग्री का उत्पादन करता है, यह सब अंततः रावलपिंडी में एक सैन्य मुख्यालय से होता है।",
+      "en": "The result is what India now faces online. An operation that looks organic, speaks in dozens of Indian-sounding voices, and produces content at industrial scale, all of it ultimately commanded from a military headquarters at Rawalpindi.",
+      "ur": "نتیجہ یہ ہے کہ اب ہندوستان کو آن لائن سامنا کرنا پڑتا ہے۔ ایک ایسا آپریشن جو نامیاتی لگتا ہے، درجنوں ہندوستانی آوازوں میں بولتا ہے، اور صنعتی پیمانے پر مواد تیار کرتا ہے، یہ سب بالآخر راول پنڈی میں ایک فوجی ہیڈ کوارٹر سے ہوتا ہے۔"
+    },
+    "b10": {
+      "hi": "डीपफेक डोजियर-एक केस-दर-केस ऑडिट",
+      "en": "The deepfake dossier — a case-by-case audit",
+      "ur": "ڈیپ فیک ڈوزیئر-ایک کیس بہ کیس آڈٹ"
+    },
+    "b11": {
+      "hi": "आई. एस. पी. आर. अभियान के गहरे नकली आयाम पर विशेष ध्यान देने की आवश्यकता है क्योंकि यह प्रचार क्षमता में एक कदम-परिवर्तन का प्रतिनिधित्व करता है। भारत के खिलाफ पाकिस्तानी सूचना अभियान दशकों से चल रहे हैं। पिछले दो वर्षों में जो नया है वह है कृत्रिम बुद्धिमत्ता से उत्पन्न वीडियो और ऑडियो सामग्री की परिचालन तैनाती जो वरिष्ठ भारतीय नेताओं के मुंह में ऐसे तरीके से निर्मित बयान दे सकती है जो पहली नज़र में विश्वसनीयता परीक्षण को नेत्रहीन रूप से पास कर सकती है।",
+      "en": "The deepfake dimension of the ISPR operation deserves specific attention because it represents a step-change in propaganda capability. Pakistani information operations against India have been underway for decades. What is new in the past two years is the operational deployment of AI-generated video and audio content that can place manufactured statements into the mouths of senior Indian leaders in ways that visually pass the first-glance credibility test.",
+      "ur": "آئی ایس پی آر آپریشن کی گہری جعلی جہت خاص توجہ کا مستحق ہے کیونکہ یہ پروپیگنڈا کی صلاحیت میں ایک قدم کی تبدیلی کی نمائندگی کرتی ہے۔ ہندوستان کے خلاف پاکستانی انفارمیشن آپریشن کئی دہائیوں سے جاری ہیں۔ پچھلے دو سالوں میں جو نئی بات ہے وہ اے آئی سے تیار کردہ ویڈیو اور آڈیو مواد کی آپریشنل تعیناتی ہے جو سینئر ہندوستانی رہنماؤں کے منہ میں تیار کردہ بیانات کو اس طرح سے رکھ سکتی ہے جس سے پہلی نظر میں ساکھ کے امتحان کو بصری طور پر پاس کیا جا سکے۔"
+    },
+    "b12": {
+      "hi": "द पाकिस्तान टेलीग्राफ द्वारा जारी किया गया जनरल उपेंद्र द्विवेदी का नकली वीडियो हाल का सबसे स्पष्ट उदाहरण है, लेकिन यह केवल एक ही नहीं है। एक अलग हेरफेर वीडियो प्रसारित किया गया था जिसमें दावा किया गया था कि रक्षा प्रमुख ने सार्वजनिक रूप से स्वीकार किया था कि पाकिस्तान हवाई युद्ध, भूमि युद्ध, नौसेना युद्ध और साइबर युद्ध में भारत से आगे था। यह दावा अपने आप में हास्यास्पद है-सभी चार क्षेत्रों में भारत का पारंपरिक प्रभुत्व प्रलेखित क्षमता, मंच की गिनती और हाल ही में हुई मुठभेड़ में पाकिस्तानी बलों के खिलाफ प्रदर्शन प्रदर्शन का मामला है। मनगढ़ंत का उद्देश्य जानकार पर्यवेक्षकों को राजी करना नहीं था। यह एक वीडियो क्लिप तैयार करना था जिसे कम सूचित दर्शकों के बीच वायरल रूप से साझा किया जा सकता था ताकि भारतीय सैन्य विश्वास के बारे में संदेह पैदा किया जा सके।",
+      "en": "The General Upendra Dwivedi deepfake pushed out by The Pakistan Telegraph is the clearest recent example, but it is far from the only one. A separate manipulated video was circulated claiming that the Chief of Defence Staff had publicly admitted that Pakistan was ahead of India in air warfare, land warfare, naval warfare and cyber warfare. The claim is laughable on its own terms — India's conventional dominance across all four domains is a matter of documented capability, platform counts and demonstrated operational performance against Pakistani forces across every recent encounter. The purpose of the fabrication was not to persuade informed observers. It was to produce a video clip that could be shared virally among less informed audiences long enough to seed doubt about Indian military confidence.",
+      "ur": "دی پاکستان ٹیلی گراف کی طرف سے جنرل اوپیندر دویدی کی ڈیپ فیک کو باہر نکالنا حالیہ مثال ہے، لیکن یہ صرف ایک سے دور ہے۔ ایک علیحدہ ہیرا پھیری والی ویڈیو یہ دعوی کرتے ہوئے نشر کی گئی تھی کہ چیف آف ڈیفنس اسٹاف نے عوامی طور پر اعتراف کیا تھا کہ پاکستان فضائی جنگ، زمینی جنگ، بحری جنگ اور سائبر جنگ میں ہندوستان سے آگے ہے۔ یہ دعوی اپنے آپ میں مضحکہ خیز ہے-چاروں ڈومینز میں ہندوستان کا روایتی غلبہ دستاویزی صلاحیت، پلیٹ فارم گنتی اور ہر حالیہ مقابلے میں پاکستانی افواج کے خلاف آپریشنل کارکردگی کا مظاہرہ کرنے کا معاملہ ہے۔ من گھڑت مبصرین کو قائل کرنا اس من گھڑت کا مقصد نہیں تھا۔ یہ ایک ویڈیو کلپ تیار کرنا تھا جسے ہندوستانی فوجی اعتماد کے بارے میں شک پیدا کرنے کے لیے کافی عرصے تک کم باخبر سامعین کے درمیان وائرل کیا جا سکتا تھا۔"
+    },
+    "b13": {
+      "hi": "एक और गहरे नकली वीडियो में सीजेआई नेताओं की नग्न तस्वीरें लेने के संबंध में राष्ट्रीय सुरक्षा सलाहकार की टिप्पणी को बताया गया है-एक मनगढ़ंत बात जो भारत के शीर्ष राष्ट्रीय-सुरक्षा समन्वय को अमान्य करने और भारत की शीर्ष न्यायपालिका से जुड़े एक मनगढ़ंत घोटाले को इंगित करने के लिए बनाई गई है। एक अलग मनगढ़ंत दावा किया गया कि सेना प्रमुख को हटाने वाला था। एक असंबंधित तस्वीर और वीडियो का उपयोग यह गलत तरीके से करने के लिए किया गया था कि एक सिख रेजिमेंट अधिकारी मेक्सिको में एक आपराधिक घटना में पकड़ा गया था-एक धब्बा जो भारतीय सेना के सबसे प्रतिष्ठित सेवा रिकॉर्ड में से एक पर निर्देशित था।",
+      "en": "Another deepfake video attributed to the National Security Adviser remarks concerning the taking of nude photographs of CJI leaders — a fabrication designed to simultaneously delegitimise India's apex national-security coordination and insinuate a manufactured scandal involving India's apex judiciary. A separate fabricated claim was pushed that the Army Chief was about to be removed. An unrelated photograph and video were used to falsely suggest that a Sikh Regiment officer had been caught in a criminal incident in Mexico — a smear directed at one of the most distinguished service records in the Indian Army.",
+      "ur": "ایک اور ڈیپ فیک ویڈیو جس کا تعلق قومی سلامتی کے مشیر کے چیف جسٹس رہنماؤں کی عریاں تصاویر لینے سے متعلق تبصرے سے ہے-ایک من گھڑت بیان جو بیک وقت ہندوستان کے اعلی قومی سلامتی کوآرڈینیشن کو غیر قانونی قرار دینے اور ہندوستان کی اعلی عدلیہ سے وابستہ ایک من گھڑت اسکینڈل کو گھمبیر بنانے کے لیے بنایا گیا ہے۔ ایک علیحدہ من گھڑت دعوی پیش کیا گیا کہ آرمی چیف کو ہٹایا جانے والا تھا۔ ایک غیر متعلقہ تصویر اور ویڈیو کو جھوٹا اشارہ دینے کے لیے استعمال کیا گیا کہ ایک سکھ رجمنٹ کا افسر میکسیکو میں ایک مجرمانہ واقعے میں پکڑا گیا تھا-یہ ہندوستانی فوج کے سب سے ممتاز سروس ریکارڈ میں سے ایک پر داغ ہے۔"
+    },
+    "b14": {
+      "hi": "प्रत्येक डीपफेक को खिड़की के भीतर अधिकतम वायरलता के लिए इंजीनियर किया जाता है, इससे पहले कि सत्यापन हो सके। जब तक मनगढ़ंत रचना को औपचारिक रूप से खारिज कर दिया जाता है, तब तक यह लाखों लोगों में फैल चुका होता है। पीछे हटना कभी भी झूठ तक नहीं जाता है। यह विषमता डीपफेक परिनियोजन का संपूर्ण परिचालन तर्क है।",
+      "en": "Each deepfake is engineered for maximum virality within the window before verification can catch up. By the time the fabrication is formally debunked, it has already circulated to millions. The retraction never travels as far as the lie. That asymmetry is the entire operational logic of the deepfake deployment.",
+      "ur": "ہر ڈیپ فیک کو تصدیق ہونے سے پہلے ونڈو کے اندر زیادہ سے زیادہ وائرل ہونے کے لیے تیار کیا جاتا ہے۔ جب تک کہ من گھڑت بات کو باضابطہ طور پر بے بنیاد قرار دیا جاتا ہے، یہ پہلے ہی لاکھوں میں پھیل چکا ہوتا ہے۔ واپسی کبھی بھی جھوٹ تک نہیں پہنچتی۔ یہ عدم توازن ڈیپ فیک تعیناتی کی پوری آپریشنل منطق ہے۔"
+    },
+    "b15": {
+      "hi": "\"झूठा झंडा\" बताता है-पाकिस्तान का बयानबाजी वाला कबूलनामा",
+      "en": "The \"False Flag\" tell — Pakistan's rhetorical confession",
+      "ur": "\"جھوٹا جھنڈا\" بتاتا ہے-پاکستان کا بیان بازی کا اعتراف"
+    },
+    "b16": {
+      "hi": "पाकिस्तानी मूल के खातों को देखने में एक घंटा बिताएं और एक वाक्यांश अचूक नियमितता के साथ दिखाई देगा। \"झूठा झंडा\"। भारतीय धरती पर हर आतंकवादी हमला, भारतीय बलों द्वारा सीमा पार से घुसपैठ को रोका जाना, भारतीय जांचकर्ताओं द्वारा पाकिस्तानी मूल के हर तोड़फोड़ के प्रयास का खुलासा किया जाना, इस प्रतिबिंबीत आरोप का सामना करता है कि इस घटना का नाटक भारत ने ही किया था।",
+      "en": "Spend an hour scrolling Pakistani-origin accounts and one phrase will appear with unmistakable regularity. \"False Flag.\" Every terrorist attack on Indian soil, every cross-border infiltration intercepted by Indian forces, every Pakistani-origin sabotage attempt exposed by Indian investigators, is met with the reflexive accusation that the incident was staged by India itself.",
+      "ur": "پاکستانی نژاد اکاؤنٹس کو اسکرول کرنے میں ایک گھنٹہ گزاریں اور ایک جملہ بے عیب باقاعدگی کے ساتھ ظاہر ہوگا۔ \"جھوٹا جھنڈا\"۔ ہندوستانی سرزمین پر ہر دہشت گرد حملہ، ہندوستانی افواج کے ذریعے سرحد پار سے ہونے والی ہر دراندازی، ہندوستانی تفتیش کاروں کے ذریعے بے نقاب ہونے والی پاکستانی نژاد تخریب کاری کی ہر کوشش، اس عکاس الزام کا سامنا کرتی ہے کہ یہ واقعہ خود ہندوستان نے پیش کیا تھا۔"
+    },
+    "b17": {
+      "hi": "यह तरीका इतना सुसंगत है कि वाक्यांश एक व्यावहारिक कथन बन गया है। जहां \"झूठा झंडा\" बिना सबूत के एक पाकिस्तानी मूल की घटना के प्रतिवर्तक के रूप में दिखाई देता है, खाता लगभग निश्चित रूप से आई. एस. पी. आर. पारिस्थितिकी तंत्र के अंदर से काम कर रहा है। बयानबाजी की चाल क्लासिक है-पीड़ित पर अपराधी होने का आरोप लगाएं, अपराधी के स्थापित अपराध को नकारें, और सबूत के बोझ को मूल हमले के लक्ष्य पर स्थानांतरित करें। यह पुस्तक में सबसे पुराना प्रचार कदम है, और अब इसे पाकिस्तानी खातों द्वारा हर बड़ी घटना के घंटों के भीतर एक प्रतिवर्त की तरह तैनात किया जाता है।",
+      "en": "The pattern is so consistent that the phrase has become an operational tell. Where \"False Flag\" appears without evidence as a reflexive rejoinder to an operationally established Pakistani-origin incident, the account is almost certainly operating from inside the ISPR ecosystem. The rhetorical trick is classic — accuse the victim of being the perpetrator, deny the perpetrator's established guilt, and shift the burden of proof onto the target of the original attack. It is the oldest propaganda move in the book, and it is now deployed by Pakistani accounts within hours of every major incident, like a reflex.",
+      "ur": "نمونہ اتنا مستقل ہے کہ یہ فقرہ عملی طور پر بیان کرنے والا بن گیا ہے۔ جہاں \"جھوٹا جھنڈا\" بغیر کسی ثبوت کے عملی طور پر قائم پاکستانی نژاد واقعے کے عکاس ردعمل کے طور پر ظاہر ہوتا ہے، تو اکاؤنٹ تقریبا یقینی طور پر آئی ایس پی آر ماحولیاتی نظام کے اندر سے کام کر رہا ہے۔ بیان بازی کی چال کلاسیکی ہے-شکار پر مجرم ہونے کا الزام لگائیں، مجرم کے قائم کردہ جرم سے انکار کریں، اور ثبوت کا بوجھ اصل حملے کے ہدف پر منتقل کریں۔ یہ کتاب میں سب سے قدیم پروپیگنڈا اقدام ہے، اور اب اسے پاکستانی اکاؤنٹس کے ذریعے ہر بڑے واقعے کے چند گھنٹوں کے اندر، ایک اضطراب کی طرح استعمال کیا جاتا ہے۔"
+    },
+    "b18": {
+      "hi": "इस चाल का एक दूसरा उद्देश्य है। भारतीय ऑनलाइन बातचीत में \"झूठे झंडे\" के आरोपों को जोड़कर, पाकिस्तानी अभियान को उम्मीद है कि भारतीय आवाजें जो कि पाकिस्तानी कथावस्तु की स्पष्ट स्वतंत्र भारतीय पुष्टि के रूप में उपयोग करने के लिए तैयार हैं-छोटे टिप्पणीकार, विरोधाभासी खाते, शिकायत-आधारित राजनीतिक संचालक-उन्हें ढूंढने के लिए तैयार हैं। जहां यह पुष्टि दिखाई देती है, आई. एस. पी. आर. प्रवर्धन मशीन इसे उठाती है और इसे भारतीय बातचीत और अंतर्राष्ट्रीय बातचीत दोनों में वापस धकेलती है, इस बात के प्रमाण के रूप में कि पाकिस्तानी साजिश को स्वतंत्र भारतीय समर्थन प्राप्त है। पूरा तंत्र इंजीनियर है। पूरी श्रृंखला इंजीनियर है। और \"गलत झंडा\" बताती है कि इसके हर चरण से गुजरती है।",
+      "en": "The trick has a secondary purpose. By seeding \"False Flag\" accusations into the Indian online conversation, the Pakistani operation hopes to find Indian voices willing to pick up the framing — fringe commentators, contrarian accounts, grievance-based political operators — and use them as apparent independent Indian corroboration of the Pakistani narrative. Where that corroboration appears, the ISPR amplification machine picks it up and pushes it back into both the Indian conversation and the international conversation as proof that the Pakistani framing has independent Indian support. The whole mechanism is engineered. The whole chain is engineered. And the \"False Flag\" tell runs through every stage of it.",
+      "ur": "اس چال کا ایک ثانوی مقصد ہے۔ ہندوستانی آن لائن گفتگو میں \"جھوٹے جھنڈے\" کے الزامات کو جوڑ کر، پاکستانی آپریشن کو امید ہے کہ ہندوستانی آوازیں جو فریمنگ کو اٹھانے کے لیے تیار ہیں-فریجنگ کمنٹیٹر، متضاد اکاؤنٹس، شکایات پر مبنی سیاسی آپریٹرز-اور انہیں پاکستانی بیانیے کی بظاہر آزاد ہندوستانی تصدیق کے طور پر استعمال کریں۔ جہاں یہ تصدیق ظاہر ہوتی ہے، آئی ایس پی آر امپلیفیکیشن مشین اسے اٹھاتی ہے اور اسے ہندوستانی گفتگو اور بین الاقوامی گفتگو دونوں میں اس بات کے ثبوت کے طور پر دھکیل دیتی ہے کہ پاکستانی فریمنگ کو آزاد ہندوستانی حمایت حاصل ہے۔ پورا میکانزم انجینئرڈ ہے۔ پورا سلسلہ انجینئرڈ ہے۔ اور \"جھوٹا جھنڈا\" بتاتا ہے کہ اس کے ہر مرحلے سے گزرتا ہے۔"
+    },
+    "b19.title": {
+      "hi": "रावलपिंडी के डिजिटल बैरक एक नज़र में",
+      "en": "Rawalpindi's Digital Barracks at a Glance",
+      "ur": "ایک نظر میں راول پنڈی کے ڈیجیٹل بیرک"
+    },
+    "b19.itemlbl.0": {
+      "hi": "आदेश",
+      "en": "Command",
+      "ur": "کمانڈ"
+    },
+    "b19.itemval.0": {
+      "hi": "इंटर-सर्विसेज पब्लिक रिलेशंस (आई. एस. पी. आर.), पाकिस्तानी सैन्य मुख्यालय, रावलपिंडी",
+      "en": "Inter-Services Public Relations (ISPR), Pakistani military headquarters, Rawalpindi",
+      "ur": "انٹر سروسز پبلک ریلیشنز (آئی ایس پی آر)، پاکستانی فوجی صدر دفتر، راول پنڈی"
+    },
+    "b19.itemlbl.1": {
+      "hi": "वास्तुकार",
+      "en": "Architect",
+      "ur": "آرکیٹیکٹ"
+    },
+    "b19.itemval.1": {
+      "hi": "आई. एस. पी. आर. के पूर्व महानिदेशक लेफ्टिनेंट जनरल असीम सलीम बाजवा (सेवानिवृत्त)",
+      "en": "Former ISPR Director General Lt Gen Asim Saleem Bajwa (retired)",
+      "ur": "سابق آئی ایس پی آر ڈائریکٹر جنرل لیفٹیننٹ جنرل اعصام سلیم باجوا (ریٹائرڈ)"
+    },
+    "b19.itemlbl.2": {
+      "hi": "कार्यक्रम की उत्पत्ति",
+      "en": "Programme origin",
+      "ur": "پروگرام کی اصل"
+    },
+    "b19.itemval.2": {
+      "hi": "2015 के आसपास",
+      "en": "Around 2015",
+      "ur": "2015 کے آس پاس"
+    },
+    "b19.itemlbl.3": {
+      "hi": "परिचालन मॉडल",
+      "en": "Operational model",
+      "ur": "آپریشنل ماڈل"
+    },
+    "b19.itemval.3": {
+      "hi": "सोशल मीडिया स्वयंसेवकों के लिए अल्पकालिक नियुक्ति इंटर्नशिप",
+      "en": "Short-assignment internship for social media volunteers",
+      "ur": "سوشل میڈیا رضاکاروں کے لیے مختصر تفویض انٹرن شپ"
+    },
+    "b19.itemlbl.4": {
+      "hi": "अस्वीकार्यता डिजाइन",
+      "en": "Deniability design",
+      "ur": "انکار ڈیزائن"
+    },
+    "b19.itemval.4": {
+      "hi": "इंटर्न असाइनमेंट के बाद नागरिक जीवन में लौटते हैं; स्थायी आई. एस. पी. आर. कर्मचारी नहीं",
+      "en": "Interns return to civilian life after assignments; not permanent ISPR employees",
+      "ur": "انٹرنز تفویض کے بعد شہری زندگی میں واپس آتے ہیں ؛ مستقل آئی ایس پی آر ملازمین نہیں"
+    },
+    "b19.itemlbl.5": {
+      "hi": "परिचालन पैमाना",
+      "en": "Operational scale",
+      "ur": "عملی پیمانہ"
+    },
+    "b19.itemval.5": {
+      "hi": "सभी प्रमुख सोशल मीडिया प्लेटफार्मों पर हजारों समन्वित खाते",
+      "en": "Thousands of coordinated accounts across all major social media platforms",
+      "ur": "تمام بڑے سوشل میڈیا پلیٹ فارمز پر ہزاروں مربوط اکاؤنٹس"
+    },
+    "b19.itemlbl.6": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.6": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.7": {
+      "hi": "द आर्सेनल",
+      "en": "THE ARSENAL",
+      "ur": "آرسینل"
+    },
+    "b19.itemval.7": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.8": {
+      "hi": "डीपफेक वीडियो",
+      "en": "Deepfake videos",
+      "ur": "ڈیپ فیک ویڈیوز"
+    },
+    "b19.itemval.8": {
+      "hi": "वरिष्ठ भारतीय नेताओं के लिए जिम्मेदार एआई-जनित बयान",
+      "en": "AI-generated statements attributed to senior Indian leaders",
+      "ur": "سینئر ہندوستانی رہنماؤں سے منسوب اے آئی سے تیار کردہ بیانات"
+    },
+    "b19.itemlbl.9": {
+      "hi": "हेरफेर ऑडियो",
+      "en": "Manipulated audio",
+      "ur": "ہیرا پھیری والی آڈیو"
+    },
+    "b19.itemval.9": {
+      "hi": "मनगढ़ंत वॉयसओवर के साथ वास्तविक फुटेज",
+      "en": "Real footage with fabricated voiceover",
+      "ur": "من گھڑت وائس اوور کے ساتھ حقیقی فوٹیج"
+    },
+    "b19.itemlbl.10": {
+      "hi": "पुनर्नवीनीकरण सामग्री",
+      "en": "Recycled content",
+      "ur": "ری سائیکل شدہ مواد"
+    },
+    "b19.itemval.10": {
+      "hi": "पुरानी तस्वीरें और वीडियो नए झूठे कैप्शन के साथ फिर से पैक किए गए हैं",
+      "en": "Old photographs and videos repackaged with new false captions",
+      "ur": "پرانی تصاویر اور ویڈیوز کو نئے جھوٹے کیپشنز کے ساتھ دوبارہ پیک کیا گیا"
+    },
+    "b19.itemlbl.11": {
+      "hi": "नकली भारतीय व्यक्ति",
+      "en": "Fake Indian personas",
+      "ur": "جعلی ہندوستانی شخصیات"
+    },
+    "b19.itemval.11": {
+      "hi": "आम भारतीय सोशल मीडिया उपयोगकर्ताओं के रूप में खाते",
+      "en": "Accounts masquerading as ordinary Indian social-media users",
+      "ur": "عام ہندوستانی سوشل میڈیا صارفین کے روپ میں اکاؤنٹس"
+    },
+    "b19.itemlbl.12": {
+      "hi": "हताहतों के मनगढ़ंत दावे",
+      "en": "Fabricated casualty claims",
+      "ur": "ہلاکتوں کے من گھڑت دعوے"
+    },
+    "b19.itemval.12": {
+      "hi": "सांप्रदायिक तनाव को भड़काने के लिए बनाई गई घटनाओं का आविष्कार",
+      "en": "Invented incidents designed to inflame communal tension",
+      "ur": "فرقہ وارانہ کشیدگی کو بھڑکانے کے لیے ایجاد شدہ واقعات"
+    },
+    "b19.itemlbl.13": {
+      "hi": "\"झूठा झंडा\" अलंकारिक उपकरण",
+      "en": "\"False Flag\" rhetorical device",
+      "ur": "\"جھوٹا جھنڈا\" بیان بازی کا آلہ"
+    },
+    "b19.itemval.13": {
+      "hi": "स्थापित पाकिस्तानी मूल के दोष का प्रतिवर्तित उलटना",
+      "en": "Reflexive reversal of established Pakistani-origin blame",
+      "ur": "پاکستانی نژاد کے قائم کردہ الزام کا عکاس الٹ پلٹ"
+    },
+    "b19.itemlbl.14": {
+      "hi": "प्रवर्धन वास्तुकला",
+      "en": "Amplification architecture",
+      "ur": "امپلیفیکیشن فن تعمیر"
+    },
+    "b19.itemval.14": {
+      "hi": "द्वितीयक खातों + पाकिस्तानी मीडिया पिकअप द्वारा समन्वित पुनः पोस्टिंग",
+      "en": "Coordinated reposting by secondary accounts + Pakistani media pickup",
+      "ur": "ثانوی اکاؤنٹس + پاکستانی میڈیا پک اپ کے ذریعے مربوط دوبارہ پوسٹنگ"
+    },
+    "b19.itemlbl.15": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.15": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.16": {
+      "hi": "द डीपफेक डॉसियर",
+      "en": "THE DEEPFAKE DOSSIER",
+      "ur": "دی ڈیپفیک ڈوسیئر"
+    },
+    "b19.itemval.16": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.17": {
+      "hi": "लक्ष्य",
+      "en": "Target",
+      "ur": "ہدف"
+    },
+    "b19.itemval.17": {
+      "hi": "सेना प्रमुख जनरल उपेंद्र द्विवेदी। वाहन-द पाकिस्तान टेलीग्राफ हैंडल। फैब्रिकेशन-नकली \"ऑपरेशन सिंधूर फिल्म की पटकथा प्रदान करने का प्रस्ताव\"। स्रोत फुटेज-वास्तविक रन संवाद त्रि-सेवा सेमिनार भाषण",
+      "en": "Army Chief General Upendra Dwivedi | Vehicle — The Pakistan Telegraph handle | Fabrication — Fake \"offer to provide Operation Sindoor film script\" | Source footage — Genuine Ran Samwad Tri-Service seminar speech",
+      "ur": "آرمی چیف جنرل اوپیندر دویدی۔ گاڑی-دی پاکستان ٹیلی گراف ہینڈل۔ من گھڑت-جعلی \"آپریشن سندور فلم اسکرپٹ فراہم کرنے کی پیشکش\"۔ ماخذ فوٹیج-حقیقی رن سمواد ٹرائی سروس سیمینار تقریر"
+    },
+    "b19.itemlbl.18": {
+      "hi": "लक्ष्य",
+      "en": "Target",
+      "ur": "ہدف"
+    },
+    "b19.itemval.18": {
+      "hi": "चीफ ऑफ डिफेंस स्टाफ। बनावट-वायु, भूमि, नौसेना और साइबर युद्ध में पाकिस्तानी श्रेष्ठता की झूठी स्वीकारोक्ति",
+      "en": "Chief of Defence Staff | Fabrication — Fake admission of Pakistani superiority in air, land, naval and cyber warfare",
+      "ur": "چیف آف ڈیفنس اسٹاف۔ من گھڑت-ہوا، زمینی، بحری اور سائبر جنگ میں پاکستانی برتری کا جعلی اعتراف"
+    },
+    "b19.itemlbl.19": {
+      "hi": "लक्ष्य",
+      "en": "Target",
+      "ur": "ہدف"
+    },
+    "b19.itemval.19": {
+      "hi": "राष्ट्रीय सुरक्षा सलाहकार। मनगढ़ंत-दीपफेक सीजेआई से संबंधित भड़काऊ टिप्पणियों को जिम्मेदार ठहराते हुए",
+      "en": "National Security Adviser | Fabrication — Deepfake attributing CJI-related inflammatory remarks",
+      "ur": "قومی سلامتی کے مشیر۔ من گھڑت-ڈیپ فیک سی جے آئی سے متعلق اشتعال انگیز تبصرے کو منسوب کرتے ہوئے"
+    },
+    "b19.itemlbl.20": {
+      "hi": "लक्ष्य",
+      "en": "Target",
+      "ur": "ہدف"
+    },
+    "b19.itemval.20": {
+      "hi": "सेना प्रमुख। मनगढ़ंत-आसन्न निष्कासन का झूठा दावा",
+      "en": "Army Chief | Fabrication — False claim of imminent removal",
+      "ur": "آرمی چیف | من گھڑت-فوری ہٹانے کا جھوٹا دعوی"
+    },
+    "b19.itemlbl.21": {
+      "hi": "लक्ष्य",
+      "en": "Target",
+      "ur": "ہدف"
+    },
+    "b19.itemval.21": {
+      "hi": "सिख रेजिमेंट अधिकारी। बनावट-मेक्सिको की आपराधिक घटना को गलत तरीके से इंगित करने के लिए इस्तेमाल किया गया असंबंधित फुटेज",
+      "en": "Sikh Regiment officer | Fabrication — Unrelated footage used to falsely imply Mexico criminal incident",
+      "ur": "سکھ رجمنٹ افسر۔ بناوٹ-میکسیکو کے مجرمانہ واقعے کو غلط انداز میں ظاہر کرنے کے لیے غیر متعلقہ فوٹیج استعمال کی گئی"
+    },
+    "b19.itemlbl.22": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.22": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.23": {
+      "hi": "सामुदायिक संगठन",
+      "en": "THE COMMUNAL FABRICATIONS",
+      "ur": "مشترکہ گروہ بندی"
+    },
+    "b19.itemval.23": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.24": {
+      "hi": "निर्माण",
+      "en": "Fabrication",
+      "ur": "بناوٹ"
+    },
+    "b19.itemval.24": {
+      "hi": "गाजियाबाद में पांच मस्जिदों को ध्वस्त किया गया, पुलिस ने उपासकों पर गोलीबारी की। स्थिति-पूरी तरह से गलत",
+      "en": "Five mosques demolished in Ghaziabad with police firing on worshippers | Status — Entirely false",
+      "ur": "غازی آباد میں پانچ مساجد کو منہدم کر دیا گیا، نمازیوں پر پولیس کی فائرنگ۔ حیثیت-بالکل غلط"
+    },
+    "b19.itemlbl.25": {
+      "hi": "निर्माण",
+      "en": "Fabrication",
+      "ur": "بناوٹ"
+    },
+    "b19.itemval.25": {
+      "hi": "कोलकाता में नमाज के दौरान पुलिस की गोलीबारी में पांच लोगों की मौत। स्थिति-पूरी तरह से गलत",
+      "en": "Five killed in police firing during Kolkata prayers | Status — Entirely false",
+      "ur": "کولکتہ میں نماز کے دوران پولیس کی فائرنگ سے پانچ افراد ہلاک۔ صورتحال-مکمل طور پر غلط"
+    },
+    "b19.itemlbl.26": {
+      "hi": "पैटर्न",
+      "en": "Pattern",
+      "ur": "نمونہ"
+    },
+    "b19.itemval.26": {
+      "hi": "गैर-मौजूद स्थानीय घटनाओं को राष्ट्रीय विवादों में बदलें",
+      "en": "Convert non-existent local incidents into national controversies",
+      "ur": "غیر موجود مقامی واقعات کو قومی تنازعات میں تبدیل کریں"
+    },
+    "b19.itemlbl.27": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.27": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.28": {
+      "hi": "नकली लोग",
+      "en": "THE FAKE PERSONAS",
+      "ur": "جعلی افراد"
+    },
+    "b19.itemval.28": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.29": {
+      "hi": "हस्ताक्षर का मामला",
+      "en": "Signature case",
+      "ur": "دستخط کا معاملہ"
+    },
+    "b19.itemval.29": {
+      "hi": "\"अनुशी तिवारी\" का संचालन @annu2030, @cutegirlindia21, @Proudindiannavi के माध्यम से किया जाता है।",
+      "en": "\"Anushi Tiwari\" operated through @annu2030, @cutegirlindia21, @Proudindiannavi",
+      "ur": "\"انوشی تیواری\" @annu2030، @cutegirlindia21، @Proudindiannavi کے ذریعے چلتی ہے۔"
+    },
+    "b19.itemlbl.30": {
+      "hi": "प्लेटफ़ॉर्म मेटाडेटा एक्सपोज़र",
+      "en": "Platform metadata exposure",
+      "ur": "پلیٹ فارم میٹا ڈیٹا کی نمائش"
+    },
+    "b19.itemval.30": {
+      "hi": "\"पाकिस्तान में स्थित खाता\"। \"पाकिस्तान एंड्रॉइड ऐप के माध्यम से जुड़ा हुआ\" (\"इस खाते के बारे में\" पर क्लिक करने वाले किसी भी उपयोगकर्ता को दिखाई देता है)",
+      "en": "\"Account based in Pakistan\" | \"Connected via Pakistan Android App\" (visible to any user clicking \"About this account\")",
+      "ur": "\"پاکستان میں مقیم اکاؤنٹ\"۔ \"پاکستان اینڈرائیڈ ایپ کے ذریعے منسلک\" (\"اس اکاؤنٹ کے بارے میں\" پر کلک کرنے والے کسی بھی صارف کو نظر آتا ہے)"
+    },
+    "b19.itemlbl.31": {
+      "hi": "पैटर्न",
+      "en": "Pattern",
+      "ur": "نمونہ"
+    },
+    "b19.itemval.31": {
+      "hi": "एक बार अवरुद्ध होने के बाद, नए हैंडल के नीचे व्यक्तित्व फिर से दिखाई देता है",
+      "en": "Once blocked, persona reappears under new handle",
+      "ur": "بلاک ہونے کے بعد، شخص نئے ہینڈل کے نیچے دوبارہ ظاہر ہوتا ہے"
+    },
+    "b19.itemlbl.32": {
+      "hi": "क्रॉस-टॉपिक शिफ्ट बताएँ",
+      "en": "Cross-topic shift tell",
+      "ur": "کراس ٹاپک شفٹ بتائیں"
+    },
+    "b19.itemval.32": {
+      "hi": "@annu2030 ने नवंबर 2026 में एक सप्ताह के भीतर गाजियाबाद सांप्रदायिक → कर्तारपुर सिख पहचान को स्थानांतरित कर दिया",
+      "en": "@annu2030 moved Ghaziabad communal → Kartarpur Sikh identity within one week in Nov 2026",
+      "ur": "@annu2030 نے نومبر 2026 میں ایک ہفتے کے اندر غازی آباد فرقہ وارانہ → کرتار پور سکھ شناخت منتقل کر دی"
+    },
+    "b19.itemlbl.33": {
+      "hi": "इसी तरह के हस्ताक्षर",
+      "en": "Similar signature",
+      "ur": "اسی طرح کے دستخط"
+    },
+    "b19.itemval.33": {
+      "hi": "@Clashfire_ दिल्ली पुलिस और कश्मीर दोनों पर पोस्टिंग",
+      "en": "@Clashfire_ posting on both Delhi policing and Kashmir",
+      "ur": "@Clashfire_ دہلی پولیسنگ اور کشمیر دونوں پر پوسٹنگ"
+    },
+    "b19.itemlbl.34": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.34": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.35": {
+      "hi": "द रीसाइकल्ड फूटेज",
+      "en": "THE RECYCLED FOOTAGE",
+      "ur": "بازیاب شدہ خوراک"
+    },
+    "b19.itemval.35": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.36": {
+      "hi": "उदाहरण",
+      "en": "Example",
+      "ur": "مثال"
+    },
+    "b19.itemval.36": {
+      "hi": "मध्य प्रदेश, झारखंड, पंजाब-हरियाणा सीमा (2022,2024) के फुटेज भ्रामक दावों के साथ नवंबर 2026 में फिर से प्रसारित किए गए",
+      "en": "Footage from Madhya Pradesh, Jharkhand, Punjab-Haryana border (2022, 2024) recirculated November 2026 with misleading claims attached",
+      "ur": "مدھیہ پردیش، جھارکھنڈ، پنجاب-ہریانہ سرحد (2022، 2024) کی فوٹیج نومبر 2026 میں گمراہ کن دعووں کے ساتھ دوبارہ گردش کی گئی"
+    },
+    "b19.itemlbl.37": {
+      "hi": "--- -",
+      "en": "---",
+      "ur": "--- -"
+    },
+    "b19.itemval.37": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.38": {
+      "hi": "भारतीय गलती रेखाएँ लक्षित",
+      "en": "THE INDIAN FAULT LINES TARGETED",
+      "ur": "ہندوستانی فالٹ لائنز کو نشانہ بنایا گیا"
+    },
+    "b19.itemval.38": {
+      "hi": "",
+      "en": "",
+      "ur": ""
+    },
+    "b19.itemlbl.39": {
+      "hi": "साम्प्रदायिक",
+      "en": "Communal",
+      "ur": "فرقہ وارانہ"
+    },
+    "b19.itemval.39": {
+      "hi": "हिंदू-मुस्लिम, हिंदू-ईसाई, हिंदू-सिख तनाव",
+      "en": "Hindu-Muslim, Hindu-Christian, Hindu-Sikh tensions",
+      "ur": "ہندو-مسلم، ہندو-عیسائی، ہندو-سکھ کشیدگی"
+    },
+    "b19.itemlbl.40": {
+      "hi": "जाति",
+      "en": "Caste",
+      "ur": "ذات پات"
+    },
+    "b19.itemval.40": {
+      "hi": "दलित, ओ. बी. सी., उच्च जाति वर्ग",
+      "en": "Dalit, OBC, upper-caste divisions",
+      "ur": "دلت، او بی سی، اعلی ذات کے ڈویژن"
+    },
+    "b19.itemlbl.41": {
+      "hi": "क्षेत्रीय",
+      "en": "Regional",
+      "ur": "علاقائی"
+    },
+    "b19.itemval.41": {
+      "hi": "उत्तर-दक्षिण, पूर्व-पश्चिम, हिंदी-बेल्ट बनाम गैर-हिंदी-बेल्ट",
+      "en": "North-South, East-West, Hindi-belt vs non-Hindi-belt",
+      "ur": "شمال-جنوب، مشرق-مغرب، ہندی بیلٹ بمقابلہ غیر ہندی بیلٹ"
+    },
+    "b19.itemlbl.42": {
+      "hi": "राज्य-विशिष्ट",
+      "en": "State-specific",
+      "ur": "ریاست مخصوص"
+    },
+    "b19.itemval.42": {
+      "hi": "कश्मीर, मणिपुर, पंजाब, दिल्ली में विरोध प्रदर्शन की घटनाएं",
+      "en": "Kashmir, Manipur, Punjab, Delhi protest incidents",
+      "ur": "کشمیر، منی پور، پنجاب، دہلی میں احتجاج کے واقعات"
+    },
+    "b19.itemlbl.43": {
+      "hi": "राजनीतिक",
+      "en": "Political",
+      "ur": "سیاسی"
+    },
+    "b19.itemval.43": {
+      "hi": "नेतृत्व घोटालों और संस्थागत अपमान का निर्माण",
+      "en": "Manufactured leadership scandals and institutional discrediting",
+      "ur": "تیار کردہ قیادت کے اسکینڈلز اور ادارہ جاتی بدنامی"
+    },
+    "b20.q": {
+      "hi": "\"पाकिस्तान ने शुरू किए गए हर युद्ध में, हथियारों की हर दौड़ में, और हर राजनयिक मंच पर हार का सामना किया है, जहां उसने भारत को अलग-थलग करने की कोशिश की है। वह भारत को वर्दी में नहीं हरा सकता है। इसलिए उसने वर्दी को ऑनलाइन स्थानांतरित कर दिया है।\"",
+      "en": "\"Pakistan has lost every war it has started, every arms race it has entered, and every diplomatic forum where it has sought to isolate India. It cannot beat India in uniform. It has therefore moved the uniform online.\"",
+      "ur": "\"پاکستان نے ہر جنگ کھو دی ہے جو اس نے شروع کی ہے، ہر ہتھیاروں کی دوڑ جس میں وہ داخل ہوا ہے، اور ہر سفارتی فورم جہاں اس نے ہندوستان کو الگ تھلگ کرنے کی کوشش کی ہے۔ وہ ہندوستان کو وردی میں شکست نہیں دے سکتا۔ اس لیے اس نے وردی کو آن لائن منتقل کر دیا ہے۔\""
+    },
+    "b20.c": {
+      "hi": "- रावलपिंडी के डिजिटल मोर्चे का परिचालन तर्क",
+      "en": "— The operational logic of Rawalpindi's digital front",
+      "ur": "- راول پنڈی کے ڈیجیٹل محاذ کی عملی منطق"
+    },
+    "b21": {
+      "hi": "द अनुशी तिवारी प्लेबुक-नकली भारतीय चेहरे, असली पाकिस्तानी मूल",
+      "en": "The Anushi Tiwari playbook — fake Indian faces, real Pakistani origin",
+      "ur": "انوشی تیواری کی پلے بک-جعلی ہندوستانی چہرے، حقیقی پاکستانی نژاد"
+    },
+    "b22": {
+      "hi": "आई. एस. पी. आर. अभियान में प्रयोग की जाने वाली सभी तकनीकों में से, नकली-भारतीय-पहचान वाला व्यक्ति भारतीय सूचना वातावरण के लिए सबसे अधिक हानिकारक है। एक ज्ञात नेता के गहरे नकली वीडियो को वास्तविक नेता के ज्ञात कार्यक्रम, ज्ञात बयानों और ज्ञात आवाज के खिलाफ अपेक्षाकृत जल्दी सत्यापित किया जा सकता है। एक विशिष्ट स्थान पर एक मनगढ़ंत हताहत दावे को स्थानीय रिपोर्टिंग और स्थानीय प्राधिकरण के बयानों के खिलाफ सत्यापित किया जा सकता है। लेकिन एक नकली भारतीय व्यक्तित्व जो सामान्य भारतीय विचारों के साथ एक साधारण भारतीय सोशल मीडिया उपयोगकर्ता प्रतीत होता है, उसे चिह्नित करना कठिन है, और बड़े पैमाने पर अवरुद्ध करना कठिन है।",
+      "en": "Of all the techniques deployed in the ISPR campaign, the fake-Indian-identity persona is the most operationally damaging to the Indian information environment. A deepfake video of a known leader can be verified relatively quickly against the actual leader's known schedule, known statements, and known voice. A fabricated casualty claim in a specific location can be verified against local reporting and local authority statements. But a fake Indian persona that appears to be an ordinary Indian social media user with ordinary Indian views is harder to flag, harder to debunk, and harder to block at scale.",
+      "ur": "آئی ایس پی آر مہم میں استعمال ہونے والی تمام تکنیکوں میں سے جعلی ہندوستانی شناخت والی شخصیت ہندوستانی معلوماتی ماحول کے لیے سب سے زیادہ عملی طور پر نقصان دہ ہے۔ کسی معروف رہنما کی ڈیپ فیک ویڈیو کی تصدیق اصل رہنما کے معلوم شیڈول، معروف بیانات اور معروف آواز کے خلاف نسبتا جلدی کی جا سکتی ہے۔ کسی مخصوص مقام پر ایک من گھڑت ہلاکت کے دعوے کی مقامی رپورٹنگ اور مقامی حکام کے بیانات کے خلاف تصدیق کی جا سکتی ہے۔ لیکن ایک جعلی ہندوستانی شخصیت جو عام ہندوستانی خیالات کے ساتھ ایک عام ہندوستانی سوشل میڈیا صارف دکھائی دیتی ہے، کو جھنڈا لگانا مشکل ہے، اسے بے نقاب کرنا مشکل ہے، اور بڑے پیمانے پر بلاک کرنا مشکل ہے۔"
+    },
+    "b23": {
+      "hi": "अनुषी तिवारी का व्यक्तित्व संचालन का मानक है। @annu2030, @cutegirlindia21 और @Proudindiannavi सहित कई हैंडल के माध्यम से काम करने वाले इस व्यक्ति ने गाजियाबाद में सांप्रदायिक उकसावे से लेकर कर्तारपुर पर सिख-पहचान संदेश तक, वरिष्ठ रक्षा नेताओं के बारे में सैन्य-लक्षित पोस्ट से लेकर मोदी सरकार की विदेश नीति से निपटने के बारे में भड़काऊ दावों तक की सामग्री प्रकाशित की है। व्यक्तित्व एक युवा महिला की तस्वीर को अवतार के रूप में उपयोग करता है। हैंडल बायो भारतीय गौरव का दावा करता है। सामग्री, जिसे सावधानीपूर्वक सामान्य राय वाले भारतीय सोशल मीडिया जुड़ाव की तरह दिखाई देने के लिए तैयार किया गया है, आई. एस. पी. आर. संदेश लाइन के साथ समान रूप से संरेखित है।",
+      "en": "The Anushi Tiwari persona is the operational benchmark. Operating through multiple handles including @annu2030, @cutegirlindia21, and @Proudindiannavi, the persona has published content ranging from communal provocation in Ghaziabad to Sikh-identity messaging on Kartarpur, from military-targeting posts about senior defence leaders to inflammatory claims about the Modi Government's handling of foreign policy. The persona uses a young woman's photograph as the avatar. The handle bio claims Indian pride. The content, carefully curated to appear like ordinary opinionated Indian social-media engagement, is uniformly aligned with the ISPR messaging line.",
+      "ur": "انوشی تیواری کی شخصیت عملی معیار ہے۔ @annu2030، @cutegirlindia21، اور @Proudindiannavi سمیت متعدد ہینڈلز کے ذریعے کام کرنے والی اس شخصیت نے غازی آباد میں فرقہ وارانہ اشتعال انگیزی سے لے کر کر کرتار پور پر سکھ شناخت کے پیغامات تک، سینئر دفاعی رہنماؤں کے بارے میں فوجی ٹارگیٹنگ پوسٹوں سے لے کر مودی حکومت کی خارجہ پالیسی سے نمٹنے کے بارے میں اشتعال انگیز دعووں تک مواد شائع کیا ہے۔ شخصیت ایک نوجوان خاتون کی تصویر کو اوتار کے طور پر استعمال کرتی ہے۔ بائیو ہینڈل ہندوستانی فخر کا دعوی کرتا ہے۔ احتیاط سے تیار کردہ مواد، جو عام رائے رکھنے والے ہندوستانی سوشل میڈیا مصروفیت کی طرح ظاہر ہوتا ہے، یکساں طور پر آئی ایس پی آر میسجنگ لائن کے ساتھ منسلک ہے۔"
+    },
+    "b24": {
+      "hi": "अनुशी तिवारी प्लेटफॉर्म मेटाडेटा में बताती है। एक्स प्लेटफॉर्म का \"अबाउट दिस अकाउंट\" पेज, जो किसी भी उपयोगकर्ता को दिखाई देता है, जो क्लिक करता है, वह स्पष्ट रूप से @Proudindiannavi हैंडल के लिए कहता हैः पाकिस्तान में स्थित खाता। पाकिस्तान एंड्रॉइड ऐप के माध्यम से जुड़ा हुआ। तारीख सितंबर 2025 में शामिल हुई। दो उपयोगकर्ता नाम बदलते हैं, हाल ही में दिसंबर 2025 में। अवतार, बायो, भारतीय प्रतिमा और \"प्राउड इंडियन\" स्टाइल सभी परिचालन छलावरण हैं। हैंडल पाकिस्तानी है। एक बार अवरुद्ध होने के बाद, व्यक्ति एक नए उपयोगकर्ता नाम के तहत फिर से प्रकट होता है, उसी अवतार, उसी सामग्री पैटर्न और उसी परिचालन हस्ताक्षर के साथ।",
+      "en": "The Anushi Tiwari tell is in the platform metadata. The X platform's \"About this account\" page, visible to any user who clicks through, states clearly for the @Proudindiannavi handle: Account based in Pakistan. Connected via Pakistan Android App. Date joined September 2025. Two username changes, most recently December 2025. The avatar, the bio, the Indian iconography, and the \"Proud Indian\" styling are all operational camouflage. The handle is Pakistani. Once blocked, the persona re-emerges under a new username, with the same avatar, the same content pattern, and the same operational signature.",
+      "ur": "انوشی تیواری پلیٹ فارم میٹا ڈیٹا میں بتاتی ہے۔ ایکس پلیٹ فارم کا \"اس اکاؤنٹ کے بارے میں\" صفحہ، جو کسی بھی صارف کو نظر آتا ہے جو کلک کرتا ہے، اس ہینڈل کے لیے واضح طور پر کہتا ہے: پاکستان میں مقیم اکاؤنٹ۔ پاکستان اینڈرائیڈ ایپ کے ذریعے منسلک۔ تاریخ ستمبر 2025 میں شامل ہوئی۔ دو صارف نام تبدیل ہوئے، حال ہی میں دسمبر 2025۔ اوتار، بائیو، ہندوستانی آئیکونگرافی، اور \"فخر ہندوستانی\" اسٹائل سب آپریشنل چھید ہیں۔ ہینڈل پاکستانی ہے۔ ایک بار بلاک ہونے کے بعد، شخصیت ایک نئے صارف نام کے تحت دوبارہ ظاہر ہوتی ہے، اسی اوتار، اسی مواد کے پیٹرن اور اسی آپریشنل دستخط کے ساتھ۔"
+    },
+    "b25": {
+      "hi": "ऐसे सैकड़ों लोग भारतीय ऑनलाइन वातावरण में काम करते हैं। एक दूसरे से जुड़े विषयों में बदलाव अक्सर एक तरह का होता है-एक दिन मुस्लिम उपासकों के बारे में सांप्रदायिक दावे से हटकर दूसरे दिन सिख पहचान वाले पोस्ट में, फिर कश्मीर पोस्ट में, फिर सैन्य टिप्पणी में, फिर मणिपुर पोस्ट में। कोई भी वास्तविक भारतीय उपयोगकर्ता इस समन्वित तरीके से असंबंधित भारतीय गलत लाइनों के माध्यम से साइकिल नहीं चलाता है। एक समन्वित आई. एस. पी. आर. प्रचार खाता करता है।",
+      "en": "Hundreds of such personas operate across the Indian online environment. The cross-topic shift is often the giveaway — a single account moving from a communal claim about Muslim worshippers one day to a Sikh-identity post about Kartarpur the next, then to a Kashmir post, then to a military commentary, then to a Manipur post. No real Indian user cycles through unrelated Indian faultlines in this coordinated way. A coordinated ISPR propaganda account does.",
+      "ur": "اس طرح کی سینکڑوں شخصیات ہندوستانی آن لائن ماحول میں کام کرتی ہیں۔ ایک دوسرے سے متصل تبدیلی اکثر ایک رعایت ہوتی ہے-ایک واحد اکاؤنٹ جو ایک دن مسلمان عبادت گزاروں کے بارے میں فرقہ وارانہ دعوے سے آگے بڑھ کر کر کر کرتار پور کے بارے میں سکھ شناخت پوسٹ پر، پھر کشمیر پوسٹ پر، پھر فوجی کمنٹری پر، پھر منی پور پوسٹ پر۔ کوئی حقیقی ہندوستانی صارف اس مربوط طریقے سے غیر متعلقہ ہندوستانی فالٹ لائنز کے ذریعے سائیکل نہیں چلاتا ہے۔ ایک مربوط آئی ایس پی آر پروپیگنڈا اکاؤنٹ کرتا ہے۔"
+    },
+    "b26": {
+      "hi": "दोष-रेखा लक्ष्यीकरण-भारतीय नागरिक को भारतीय नागरिक से विभाजित करें",
+      "en": "The fault-line targeting — divide the Indian citizen from the Indian citizen",
+      "ur": "فالٹ لائن ٹارگٹنگ-ہندوستانی شہری کو ہندوستانی شہری سے تقسیم کریں"
+    },
+    "b27": {
+      "hi": "रावलपिंडी अभियान का सबसे गहरा रणनीतिक उद्देश्य भारतीयों को यह समझाना नहीं है कि पाकिस्तान सही है। पाकिस्तान जानता है कि परियोजना विफल हो गई है। इसका उद्देश्य भारतीयों को यह समझाना है कि अन्य भारतीय गलत, खतरनाक और अविश्वास के योग्य हैं।",
+      "en": "The deepest strategic objective of the Rawalpindi operation is not to persuade Indians that Pakistan is right. Pakistan knows that project is lost. The objective is to persuade Indians that other Indians are wrong, dangerous, and worthy of mistrust.",
+      "ur": "راول پنڈی آپریشن کا سب سے گہرا اسٹریٹجک مقصد ہندوستانیوں کو قائل کرنا نہیں ہے کہ پاکستان صحیح ہے۔ پاکستان جانتا ہے کہ منصوبہ کھو گیا ہے۔ مقصد ہندوستانیوں کو قائل کرنا ہے کہ دوسرے ہندوستانی غلط، خطرناک اور عدم اعتماد کے لائق ہیں۔"
+    },
+    "b28": {
+      "hi": "हर लक्षित दोष रेखा इस तर्क के अनुरूप है। सांप्रदायिक सामग्री हिंदू-मुस्लिम तनाव, हिंदू-सिख तनाव और हिंदू-ईसाई तनाव को सामाजिक ताने-बाने को कमजोर करने के लिए भड़काती है जो एक विविध समाज को एक साथ रखती है। जातिगत सामग्री उच्च जाति समुदायों के खिलाफ दलित शिकायतों को भड़काती है, दोनों के खिलाफ अन्य पिछड़ा वर्ग की शिकायतें और प्रत्येक समुदाय के भीतर अंतर-जाति तनाव। क्षेत्रीय सामग्री उत्तर-दक्षिण तनाव, पूर्व-पश्चिम तनाव, गैर-हिंदी-बेल्ट राज्यों की हिंदी-बेल्ट नाराजगी और हिंदी-बेल्ट प्रभुत्व की गैर-हिंदी-बेल्ट नाराजगी को भड़काती है। राज्य-विशिष्ट सामग्री कश्मीर, मणिपुर, पंजाब और हर दूसरे राज्य को लक्षित करती है जहां वास्तविक स्थानीय राजनीतिक मुद्दों को राष्ट्रीय विवाद में हथियार बनाया जा सकता है। राजनीतिक सामग्री भारतीय नेतृत्व और भारतीय संस्थागत वास्तुकला की विश्वसनीयता को लक्षित करती है।",
+      "en": "Every targeted faultline fits this logic. Communal content inflames Hindu-Muslim tension, Hindu-Sikh tension, and Hindu-Christian tension to weaken the social fabric that holds a diverse society together. Caste content inflames Dalit grievances against upper-caste communities, OBC grievances against both, and intra-caste tensions within each community. Regional content inflames North-South tensions, East-West tensions, Hindi-belt resentment of non-Hindi-belt states, and non-Hindi-belt resentment of Hindi-belt dominance. State-specific content targets Kashmir, Manipur, Punjab, and every other state where genuine local political issues can be weaponised into national controversy. Political content targets the credibility of the Indian leadership and the Indian institutional architecture.",
+      "ur": "ہر ہدف شدہ فالٹ لائن اس منطق پر فٹ بیٹھتی ہے۔ فرقہ وارانہ مواد ہندو مسلم تناؤ، ہندو سکھ تناؤ، اور ہندو عیسائی تناؤ کو بڑھاتا ہے تاکہ سماجی تانے بانے کو کمزور کیا جا سکے جو متنوع معاشرے کو ایک ساتھ رکھتا ہے۔ ذات پات کا مواد اعلی ذات برادریوں کے خلاف دلتوں کی شکایات، دونوں کے خلاف او بی سی شکایات، اور ہر برادری کے اندر ذات پات کے تناؤ کو بھڑکاتا ہے۔ علاقائی مواد شمال-جنوب کشیدگی، مشرق-مغرب کشیدگی، غیر ہندی بیلٹ ریاستوں کی ہندی بیلٹ ناراضگی، اور ہندی بیلٹ کے غلبے کی غیر ہندی بیلٹ ناراضگی کو بھڑکاتا ہے۔ ریاست کے مخصوص مواد کشمیر، منی پور، پنجاب اور ہر دوسری ریاست کو نشانہ بناتے ہیں جہاں حقیقی مقامی سیاسی مسائل کو قومی تنازعہ میں ہتھیار بنایا جا سکتا ہے۔ سیاسی مواد ہندوستانی قیادت اور ہندوستانی ادارہ جاتی ڈھانچے کی ساکھ کو نشانہ بناتا ہے۔"
+    },
+    "b29": {
+      "hi": "परिचालन हस्ताक्षर एक ही खाते के भीतर अंतर-विषय प्रवाह है। एक ही सप्ताह में एक एकल अनुशी तिवारी हैंडल तीन या चार असंबंधित भारतीय फॉल्टलाइन पर सामग्री प्रकाशित कर सकता है, प्रत्येक उस विशेष शिकायत के प्रति सबसे संवेदनशील विशिष्ट समुदाय को भड़काने के लिए तैयार किया गया है। लक्ष्य सुसंगत नहीं होना है। लक्ष्य एक साथ अधिक से अधिक भारतीय फॉल्टलाइन को भड़काना है, जिससे भारतीय बातचीत पहले दिन की तुलना में अधिक खंडित, अधिक संदिग्ध और अधिक अविश्वासपूर्ण हो जाती है।",
+      "en": "The operational signature is the cross-topic drift within a single account. A single Anushi Tiwari handle in a single week can publish content on three or four unrelated Indian faultlines, each tailored to inflame the specific community most sensitive to that particular grievance. The goal is not to be consistent. The goal is to inflame as many Indian faultlines simultaneously as possible, leaving the Indian conversation more fractured, more suspicious, and more distrustful than it was the day before.",
+      "ur": "آپریشنل دستخطی ایک ہی اکاؤنٹ کے اندر کراس ٹاپک ڈرفٹ ہے۔ ایک ہی ہفتے میں ایک واحد انوشی تیواری ہینڈل تین یا چار غیر متعلقہ ہندوستانی فالٹ لائنز پر مواد شائع کر سکتا ہے، ہر ایک مخصوص کمیونٹی کو اس مخصوص شکایت کے لیے سب سے زیادہ حساس بنا سکتا ہے۔ مقصد مستقل نہیں ہونا ہے۔ مقصد بیک وقت زیادہ سے زیادہ ہندوستانی فالٹ لائنز کو بھڑکانا ہے، جس سے ہندوستانی گفتگو پہلے دن کے مقابلے میں زیادہ ٹوٹی ہوئی، زیادہ مشکوک اور زیادہ ناقابل اعتماد ہو جائے۔"
+    },
+    "b30": {
+      "hi": "रक्षा की दूसरी पंक्ति-प्रत्येक भारतीय नागरिक ऑनलाइन",
+      "en": "The second line of defence — every Indian citizen online",
+      "ur": "دفاع کی دوسری لائن-ہر ہندوستانی شہری آن لائن"
+    },
+    "b31": {
+      "hi": "भारतीय सुरक्षा प्रतिष्ठान अपनी भूमिका निभा रहा है। सभी प्लेटफार्मों पर खातों की पहचान की जाती है, उन्हें चिह्नित किया जाता है और उन्हें लगातार अवरुद्ध किया जाता है। इसे कम करने की गति काफी है। दुर्भाग्य से, पुनर्जनन की गति तेज है। पुरानी सेवाओं के अवरुद्ध होने के कुछ ही घंटों के भीतर नई अनुशी तिवारी उभर आती हैं। कोई भी टेक-डाउन अभियान अकेले इस युद्ध को नहीं जीत सकता है।",
+      "en": "The Indian security establishment is doing its part. Accounts are identified, flagged and blocked continuously across platforms. The take-down pace is substantial. The regeneration pace, unfortunately, is faster. New Anushi Tiwaris emerge within hours of old ones being blocked. No take-down campaign alone can win this war.",
+      "ur": "ہندوستانی سیکورٹی اسٹیبلشمنٹ اپنا کردار ادا کر رہی ہے۔ تمام پلیٹ فارمز پر اکاؤنٹس کی شناخت، جھنڈا لگایا جاتا ہے اور انہیں مسلسل بلاک کیا جاتا ہے۔ ٹیک ڈاؤن کی رفتار کافی ہے۔ بدقسمتی سے، بحالی کی رفتار تیز ہے۔ پرانی اکاؤنٹس کے بلاک ہونے کے چند گھنٹوں کے اندر ہی نئی انوشی تیواری سامنے آ جاتی ہیں۔ کوئی بھی ٹیک ڈاؤن مہم اکیلے اس جنگ کو جیت نہیں سکتی۔"
+    },
+    "b32": {
+      "hi": "बचाव की दूसरी पंक्ति भारतीय नागरिक है। एक्स पर, फेसबुक पर, इंस्टाग्राम पर, वॉट्सऐप पर, यूट्यूब पर और हर दूसरे प्लेटफॉर्म पर हर व्यक्ति अब इस सूचना युद्ध में अग्रिम पंक्ति का सैनिक है, चाहे उन्होंने इसके लिए साइन अप किया हो या नहीं। आवश्यक परिचालन अनुशासन सरल है, और इसका अभ्यास करने में कोई खर्च नहीं आता है।",
+      "en": "The second line of defence is the Indian citizen. Every person on X, on Facebook, on Instagram, on WhatsApp, on YouTube and on every other platform is now a frontline soldier in this information war whether they signed up for it or not. The operational discipline required is simple, and it costs nothing to practise.",
+      "ur": "دفاع کی دوسری لائن ہندوستانی شہری ہے۔ ایکس پر، فیس بک پر، انسٹاگرام پر، وٹس ایپ پر، یوٹیوب پر اور ہر دوسرے پلیٹ فارم پر ہر شخص اب اس انفارمیشن وار میں فرنٹ لائن سپاہی ہے چاہے اس کے لیے سائن اپ کیا ہو یا نہیں۔ آپریشنل ڈسپلن کی ضرورت آسان ہے، اور اس پر عمل کرنے میں کوئی لاگت نہیں آتی ہے۔"
+    },
+    "b33": {
+      "hi": "अपनी सामग्री के साथ जुड़ने से पहले खाते की जाँच करें। भारतीय झंडे, भारतीय नाम और भारतीय क्षेत्रीय पहचानकर्ताओं को प्रदर्शित करने वाला एक हैंडल अभी भी पाकिस्तान में स्थित हो सकता है। मंच का अपना \"अबाउट दिस अकाउंट\" मेटाडेटा कई मामलों में धोखे को उजागर करता है। यदि खाता पाकिस्तान में स्थित है और सामग्री भारतीय आवाजों के लिए बोलने का दावा करती है, तो खाता एक प्रचार अभियान है, न कि भारतीय दृष्टिकोण।",
+      "en": "Check the account before engaging with its content. A handle displaying Indian flags, Indian names, and Indian regional identifiers can still be based in Pakistan. The platform's own \"About this account\" metadata exposes the deception in many cases. If the account is based in Pakistan and the content claims to speak for Indian voices, the account is a propaganda operation, not an Indian viewpoint.",
+      "ur": "اکاؤنٹ کے مواد کے ساتھ مشغول ہونے سے پہلے اکاؤنٹ کو چیک کریں۔ ہندوستانی جھنڈوں، ہندوستانی ناموں اور ہندوستانی علاقائی شناخت کاروں کو ظاہر کرنے والا ہینڈل اب بھی پاکستان میں مقیم ہو سکتا ہے۔ پلیٹ فارم کا اپنا \"اس اکاؤنٹ کے بارے میں\" میٹا ڈیٹا بہت سے معاملات میں دھوکہ دہی کو بے نقاب کرتا ہے۔ اگر اکاؤنٹ پاکستان میں مقیم ہے اور مواد ہندوستانی آوازوں کے لیے بات کرنے کا دعوی کرتا ہے، تو اکاؤنٹ ایک پروپیگنڈا آپریشن ہے، نہ کہ ہندوستانی نقطہ نظر۔"
+    },
+    "b34": {
+      "hi": "इस पर विश्वास करने से पहले सामग्री की जांच करें। ताजा समाचार के रूप में पुनः प्रसारित पुरानी तस्वीरें रावलपिंडी के हस्ताक्षर हैं। बड़े पैमाने पर हताहत होने के दावे जो कोई भी मुख्यधारा का भारतीय समाचार संगठन रिपोर्ट नहीं कर रहा है, वे रावलपिंडी के हस्ताक्षर हैं। वरिष्ठ भारतीय नेताओं के चरित्रहीन बयान देने वाले डीपफेक-गुणवत्ता वाले वीडियो रावलपिंडी के हस्ताक्षर हैं। हर पाकिस्तानी मूल की घटना के घंटों के भीतर लगाए गए रिफ्लेक्सिव \"गलत झंडा\" आरोप रावलपिंडी के हस्ताक्षर हैं। जहां हस्ताक्षर मौजूद हैं, सामग्री बनाई गई है।",
+      "en": "Check the content before believing it. Old photographs recirculated as fresh news are a Rawalpindi signature. Claims of mass casualties that no mainstream Indian news organisation is reporting are a Rawalpindi signature. Deepfake-quality videos of senior Indian leaders making statements wildly out of character are a Rawalpindi signature. Reflexive \"False Flag\" accusations deployed within hours of every Pakistani-origin incident are a Rawalpindi signature. Where the signature is present, the content is manufactured.",
+      "ur": "یقین کرنے سے پہلے مواد کو چیک کریں۔ تازہ خبروں کے طور پر دوبارہ گردش کی گئی پرانی تصاویر، جیسے کہ ایک راول پنڈی کے دستخط ہیں۔ بڑے پیمانے پر ہلاکتوں کے دعوے جن کی کوئی مرکزی دھارے میں شامل ہندوستانی خبر رساں تنظیم رپورٹنگ نہیں کر رہی ہے، وہ راول پنڈی کے دستخط ہیں۔ سینئر ہندوستانی رہنماؤں کے بے ساختہ بیانات دینے والی ڈیپ فیک معیار کی ویڈیوز، جو کہ راول پنڈی کے دستخط ہیں۔ ہر پاکستانی نژاد واقعے کے چند گھنٹوں کے اندر لگائے گئے \"جھوٹے پرچم\" کے الزامات، ایک راول پنڈی کے دستخط ہیں۔ جہاں دستخط موجود ہیں، مواد تیار کیا جاتا ہے۔"
+    },
+    "b35": {
+      "hi": "अग्रेषित करने से पहले जाँच करें। एक वॉट्सऐप अग्रेषित जो पारिवारिक समूहों और सामुदायिक नेटवर्क के माध्यम से हजारों भारतीयों तक पहुंचता है, मूल पोस्ट की तुलना में अधिक परिणामी है। प्रत्येक भारतीय जो अग्रेषित करने से पहले सत्यापन करता है, वह आई. एस. पी. आर. संचालन पर निर्भर एम्पलीफिकेशन चेन को तोड़ता है। प्रत्येक अग्रेषित जो दस सेकंड के सत्यापन के लिए रोक दिया जाता है, वह रावलपिंडी के डिजिटल मोर्चे पर एक छोटी सी हार है।",
+      "en": "Check before forwarding. A WhatsApp forward that reaches thousands of Indians through family groups and community networks is operationally more consequential than the original post. Every Indian who verifies before forwarding operationally breaks the amplification chain the ISPR operation depends on. Every forward that is held back for ten seconds of verification is a small defeat inflicted on Rawalpindi's digital front.",
+      "ur": "فارورڈ کرنے سے پہلے چیک کریں۔ ایک وٹس ایپ فارورڈ جو فیملی گروپس اور کمیونٹی نیٹ ورکس کے ذریعے ہزاروں ہندوستانیوں تک پہنچتا ہے، اصل پوسٹ کے مقابلے میں عملی طور پر زیادہ نتیجہ خیز ہے۔ ہر ہندوستانی جو آپریشنل طور پر فارورڈ کرنے سے پہلے تصدیق کرتا ہے وہ آئی ایس پی آر آپریشن پر منحصر ایمپلیفیکیشن چین کو توڑ دیتا ہے۔ ہر فارورڈ جو تصدیق کے دس سیکنڈ تک روک دیا جاتا ہے وہ راول پنڈی کے ڈیجیٹل محاذ پر ایک چھوٹی سی شکست ہے۔"
+    },
+    "b36": {
+      "hi": "यह क्या संकेत देता है",
+      "en": "What it signals",
+      "ur": "یہ کیا اشارہ کرتا ہے"
+    },
+    "b37": {
+      "hi": "भारत की सुरक्षा संरचना के लिए, रावलपिंडी डिजिटल मोर्चा अब भारत-पाकिस्तान रणनीतिक संबंधों के सबसे अधिक व्यावहारिक परिणामी आयामों में से एक है। यह बड़े पैमाने पर काम करता है, तकनीकी परिष्कार के साथ जो एक दशक पहले पाकिस्तानी प्रचार के लिए उपलब्ध नहीं था, और एक अस्वीकृति डिजाइन के साथ जो आरोपण और प्रतिक्रिया दोनों को जटिल बनाता है। भारत की संस्थागत विश्वसनीयता के लिए-सैन्य, न्यायिक, राजनीतिक, प्रशासनिक-ऑपरेशन विशेष रूप से उन संस्थानों में जनता के विश्वास को कम करने के लिए बनाया गया है जो भारतीय लोकतांत्रिक वास्तुकला को एक साथ रखते हैं। भारत के सामाजिक ताने-बाने के लिए, गलती-रेखा लक्ष्यीकरण एक बहुलवादी लोकतंत्र की सामान्य विविधता को स्थायी पारस्परिक अविश्वास में बदलने के एक निरंतर, जानबूझकर प्रयास का प्रतिनिधित्व करता है।",
+      "en": "For India's security architecture, the Rawalpindi digital front is now one of the most operationally consequential dimensions of the India-Pakistan strategic relationship. It operates at scale, with technical sophistication that was not available to Pakistani propaganda a decade ago, and with a deniability design that complicates both attribution and response. For India's institutional credibility — military, judicial, political, administrative — the operation is specifically engineered to erode public trust in the institutions that hold the Indian democratic architecture together. For India's social fabric, the fault-line targeting represents a sustained, deliberate attempt to convert the ordinary diversity of a pluralistic democracy into permanent mutual distrust.",
+      "ur": "ہندوستان کے سلامتی کے ڈھانچے کے لیے، راول پنڈی ڈیجیٹل محاذ اب ہندوستان اور پاکستان کے اسٹریٹجک تعلقات کے سب سے زیادہ عملی طور پر نتیجہ خیز جہتوں میں سے ایک ہے۔ یہ بڑے پیمانے پر کام کرتا ہے، تکنیکی نفاست کے ساتھ جو ایک دہائی پہلے پاکستانی پروپیگنڈے کے لیے دستیاب نہیں تھا، اور ایک انکار کے ڈیزائن کے ساتھ جو انتساب اور ردعمل دونوں کو پیچیدہ بناتا ہے۔ ہندوستان کی ادارہ جاتی ساکھ کے لیے-فوجی، عدالتی، سیاسی، انتظامی-آپریشن خاص طور پر ان اداروں پر عوامی اعتماد کو ختم کرنے کے لیے بنایا گیا ہے جو ہندوستانی جمہوری ڈھانچے کو ایک ساتھ رکھتے ہیں۔ ہندوستان کے سماجی تانے بانے کے لیے، فالٹ لائن ٹارگٹنگ ایک تکثیریت پسند جمہوریت کے عام تنوع کو مستقل باہمی عدم اعتماد میں تبدیل کرنے کی ایک مستقل، جان بوجھ کر کوشش کی نمائندگی کرتا ہے۔"
+    },
+    "b38": {
+      "hi": "उपयुक्त भारतीय प्रतिक्रिया तीन स्तरों पर काम करती है। प्लेटफार्मों के साथ राज्य स्तर पर निरंतर समन्वय और भारतीय डिजिटल बुनियादी ढांचे को प्रगतिशील रूप से सख्त करना। भारतीय प्रवक्ताओं द्वारा रावलपिंडी में जाली चक्र की तुलना में तेजी से दी गई सत्यापित जानकारी के साथ मनगढ़ंत घटनाओं को रोकने के लिए संस्थागत पारदर्शिता जारी रखी गई। और प्रत्येक भारतीय सोशल मीडिया उपयोगकर्ता से परिचालन सूचना अनुशासन-हर क्लिक, हर तरह, हर आगे, हर शेयर या तो भारतीय सूचना वातावरण को मजबूत करता है या इसे कमजोर करता है।",
+      "en": "The appropriate Indian response operates at three levels. Continued state-level take-down coordination with platforms and progressive hardening of the Indian digital infrastructure. Continued institutional transparency from Indian spokespersons to pre-empt Rawalpindi fabrications with verified information delivered faster than the deepfake cycle. And operational information discipline from every Indian social media user — every click, every like, every forward, every share either strengthens the Indian information environment or weakens it.",
+      "ur": "مناسب ہندوستانی ردعمل تین سطحوں پر کام کرتا ہے۔ پلیٹ فارمز کے ساتھ ریاستی سطح پر مسلسل تال میل اور ہندوستانی ڈیجیٹل انفراسٹرکچر کو ترقی پسندانہ طور پر سخت کرنا۔ ہندوستانی ترجمانوں کی طرف سے ادارہ جاتی شفافیت جاری رکھی گئی تاکہ ڈیپ فیک سائیکل سے زیادہ تیزی سے فراہم کی جانے والی تصدیق شدہ معلومات کے ساتھ راول پنڈی کی من گھڑتیوں کو پہلے سے روکا جا سکے۔ اور ہر ہندوستانی سوشل میڈیا صارف کی طرف سے آپریشنل انفارمیشن ڈسپلن-ہر کلک، ہر طرح، ہر فارورڈ، ہر شیئر یا تو ہندوستانی انفارمیشن ماحول کو مضبوط کرتا ہے یا اسے کمزور کرتا ہے۔"
+    },
+    "b39": {
+      "hi": "पाकिस्तान ने शुरू किए गए हर युद्ध में हार का सामना किया है, हथियारों की हर दौड़ में, और हर राजनयिक मंच में जहां उसने भारत को अलग-थलग करने की कोशिश की है। वह भारत को वर्दी में नहीं हरा सकता है। इसलिए उसने वर्दी को ऑनलाइन स्थानांतरित कर दिया है। अनुशी तिवारी का व्यक्तित्व, जनरल उपेंद्र द्विवेदी का नकली रूप, गाजियाबाद मस्जिद की मनगढ़ंत रचना, कोलकाता की प्रार्थना-गोलीबारी की मनगढ़ंत रचना, 2022 और 2024 के फुटेज को नवंबर 2026 की खबरों के रूप में फिर से पैक किया गया है, और रावलपिंडी में आई. एस. पी. आर. स्वयंसेवक पाइपलाइन का निर्माण-ये युद्ध की परिचालन बनावट है जिसे पाकिस्तान रोकना बर्दाश्त नहीं कर सकता है, क्योंकि यह एकमात्र युद्ध है जिसमें पाकिस्तान अभी भी मानता है कि वह भारत को नुकसान पहुंचा सकता है।",
+      "en": "Pakistan has lost every war it has started, every arms race it has entered, and every diplomatic forum where it has sought to isolate India. It cannot beat India in uniform. It has therefore moved the uniform online. The Anushi Tiwari persona, the General Upendra Dwivedi deepfake, the Ghaziabad mosque fabrications, the Kolkata prayer-firing fabrications, the recycled 2022 and 2024 footage repackaged as November 2026 news, and the ISPR volunteer pipeline producing it all at Rawalpindi — these are the operational texture of a war that Pakistan cannot afford to stop fighting, because it is the only war Pakistan still believes it can hurt India in.",
+      "ur": "پاکستان نے ہر وہ جنگ ہار دی ہے جو اس نے شروع کی ہے، ہر ہتھیاروں کی دوڑ جس میں اس نے داخل کیا ہے، اور ہر سفارتی فورم جہاں اس نے ہندوستان کو الگ تھلگ کرنے کی کوشش کی ہے۔ وہ ہندوستان کو وردی میں شکست نہیں دے سکتا۔ اس لیے اس نے وردی کو آن لائن منتقل کر دیا ہے۔ انوشی تیواری کی شخصیت، جنرل اوپیندر دویدی کی جعلی، غازی آباد مسجد کی من گھڑت باتیں، کولکتہ کی نماز کی فائرنگ کی من گھڑت باتیں، نومبر 2026 کی خبروں کے طور پر دوبارہ پیک کی گئی 2022 اور 2024 کی فوٹیج، اور آئی ایس پی آر رضاکارانہ پائپ لائن جو یہ سب راول پنڈی میں تیار کر رہی ہے-یہ ایک ایسی جنگ کی عملی ساخت ہے جس میں پاکستان لڑنے سے باز نہیں آسکتا، کیونکہ یہ واحد جنگ ہے جس میں پاکستان اب بھی یقین کرتا ہے کہ وہ ہندوستان کو نقصان پہنچا سکتا ہے۔"
+    },
+    "b40": {
+      "hi": "भारत इसका नुकसान उठाएगा। हर सत्यापित शेयर एक भारतीय जीत है। हर अवरुद्ध नकली खाता एक भारतीय जीत है। हर वॉट्सऐप को दस सेकंड के सत्यापन के लिए आगे बढ़ाना एक भारतीय जीत है। रावलपिंडी डिजिटल बैरक चलाता है। भारत डिजिटल रक्षा चलाता है। और यह युद्ध, हर दूसरे की तरह, भारत जीतेगा-नागरिक द्वारा नागरिक, आगे से आगे, और सत्यापित सत्य द्वारा सत्यापित सत्य।",
+      "en": "India will hurt it back. Every verified share is an Indian victory. Every blocked fake account is an Indian victory. Every WhatsApp forward held back for ten seconds of verification is an Indian victory. Rawalpindi runs the digital barracks. India runs the digital defence. And this war, like every other, India will win — citizen by citizen, forward by forward, and verified truth by verified truth.",
+      "ur": "ہندوستان اسے نقصان پہنچائے گا۔ ہر تصدیق شدہ شیئر ایک ہندوستانی فتح ہے۔ ہر بلاک شدہ جعلی اکاؤنٹ ایک ہندوستانی فتح ہے۔ تصدیق کے دس سیکنڈ تک ہر وٹس ایپ فارورڈ کو روکنا ہندوستانی فتح ہے۔ راول پنڈی ڈیجیٹل بیرکوں کو چلاتا ہے۔ ہندوستان ڈیجیٹل دفاع چلاتا ہے۔ اور یہ جنگ، ہر دوسرے کی طرح، ہندوستان جیتے گا-شہری کے لحاظ سے، آگے آگے، اور تصدیق شدہ سچائی کے ذریعے تصدیق شدہ سچائی۔"
+    }
+  }
+}
